@@ -57,21 +57,21 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Education Service Center Region 2](https://www.esc2.net)** | **[2024-2025 EC-6 Generalist](https://jobright.ai/jobs/info/66a6fa24daf5dfad347301c0?utm_campaign=1057&utm_source=git)** | Corpus Christi, TX | On Site | Jul 29 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Coordinator of Student Development, Tahlequah](https://jobright.ai/jobs/info/66a6e086be1aa9ffddf97456?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Jul 28 |
 | **[San Francisco Bay University](https://www.sfbu.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/66a6da95b445f351ff2edd5a?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Jul 28 |
 | **[Refonte Learning](https://refontelearning.com)** | **[Business Analytics Training & Internship](https://jobright.ai/jobs/info/66a68e915c5d7580e78a2a03?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 28 |
-| **[NPower](http://www.npower.org/)** | **[FREE Tech Fundamental Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66a68e915c5d7580e78a2a2b?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 28 |
+| **[NPower](http://www.npower.org/)** | **[FREE Tech Fundamental Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66a68e915c5d7580e78a2a29?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 28 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Dallas Youth Success Coach- Refugee Youth Mentorship Program](https://jobright.ai/jobs/info/66a022e546b8641105c98b21?utm_campaign=1057&utm_source=git)** | Dallas, TX | Hybrid | Jul 28 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Counselor, Financial Aid, Tahlequah](https://jobright.ai/jobs/info/66a64fc2d6af26555f72ed21?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Jul 28 |
 | **[HOLT Group](https://holtgrp.com/)** | **[High School Internship - Finance](https://jobright.ai/jobs/info/6642160ded4d19127d877888?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jul 28 |
 | **[Heathwood Hall Episcopal School](https://www.heathwood.org/)** | **[Summer PEAK Program Assistant](https://jobright.ai/jobs/info/66a66651843969920bf58f76?utm_campaign=1057&utm_source=git)** | Columbia, SC | On Site | Jul 28 |
 | **[Kolme Group](https://kolmegroup.com)** | **[DoD SkillBridge Internship - Learning & Development Intern](https://jobright.ai/jobs/info/66a61ba7d20e27bdd74d0bf4?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 28 |
-| **[NPower](http://www.npower.org/)** | **[No-Cost Tech Fundamental Program - Get exposure to leading technologies (Raleigh, NC)](https://jobright.ai/jobs/info/66a5e2755eca6905e65a9347?utm_campaign=1057&utm_source=git)** | Sims, NC | On Site | Jul 28 |
 | **[Clarke University](http://www.clarke.edu/)** | **[Graduate Assistant- Golf](https://jobright.ai/jobs/info/66a5c5bd8c856c017677b22c?utm_campaign=1057&utm_source=git)** | Dubuque, IA | On Site | Jul 28 |
 | **[Clarkson College](http://www.clarksoncollege.edu/)** | **[3D Printing Lab, Student Worker](https://jobright.ai/jobs/info/66a65c240eb1dd3b4b874de9?utm_campaign=1057&utm_source=git)** | Omaha, NE | On Site | Jul 28 |
 | ↳ | **[Interprofessional Learning Center (IPLC), Work Study](https://jobright.ai/jobs/info/66a65c240eb1dd3b4b874dee?utm_campaign=1057&utm_source=git)** | Omaha, NE | On Site | Jul 28 |
 | **[NPower](http://www.npower.org/)** | **[FREE Tech Fundamentals Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66a52a70ac9b78784980b04d?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Jul 27 |
 | ↳ | **[Zero-Cost Tech Fundamentals Program - Launching Your Tech Career! (St. Louis, MO)](https://jobright.ai/jobs/info/66a53486c6f7111f4b5a815e?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Jul 27 |
-| **[International Center for Food Industry Excellence](http://www.depts.ttu.edu/icfie/)** | **[Post-Graduate Athletic Intern, Strength & Conditioning](https://jobright.ai/jobs/info/66a65e36aa25999e6842d045?utm_campaign=1057&utm_source=git)** | Lubbock, TX | On Site | Jul 27 |
 | **[Samaritan's Purse](https://www.samaritanspurse.org/)** | **[International Internship - Spring 2025](https://jobright.ai/jobs/info/66a6532f082d91afec809c30?utm_campaign=1057&utm_source=git)** | Boone, NC | On Site | Jul 27 |
 | **[Action Behavior Centers](https://www.actionbehavior.com)** | **[Behavior Analysis Practicum (Master's Level)](https://jobright.ai/jobs/info/666bb7fa4f2df602085b0856?utm_campaign=1057&utm_source=git)** | Westminster, CO | On Site | Jul 27 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[On-site Paid General Intern](https://jobright.ai/jobs/info/664e208cb45b688e7b70fdc9?utm_campaign=1057&utm_source=git)** | Elmira, NY | On Site | Jul 27 |
@@ -172,15 +172,14 @@ For a complete list, see the full spreadsheet below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Dallas Youth Success Coach- Middle School](https://jobright.ai/jobs/info/66a1781fdb0bfcb8d464bb92?utm_campaign=1057&utm_source=git)** | Dallas, TX | Hybrid | Jul 24 |
 | **[Eide Bailly](http://www.eidebailly.com)** | **[Summer Leadership Program (Phoenix, 2025)](https://jobright.ai/jobs/info/66a17482edfe0a13ffb3c7af?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Jul 24 |
 | **[BUCKS COUNTY IU 22 SCHOOL DISTRICT](https://www.linkedin.com/company/55768935)** | **[Academic Behavior Analyst Intern (Unpaid): 2024-2025 School Year](https://jobright.ai/jobs/info/66a16278ac2138bd92a94f04?utm_campaign=1057&utm_source=git)** | Bath, PA | On Site | Jul 24 |
-| ↳ | **[Behavior Analyst - Flexible, school calendar work schedule](https://jobright.ai/jobs/info/66a1604fe2be5c244a65619d?utm_campaign=1057&utm_source=git)** | Pittstown, NJ | On Site | Jul 24 |
 | ↳ | **[Behavorial Analyst - PSERS pension plan](https://jobright.ai/jobs/info/66a1604fe2be5c244a6561a3?utm_campaign=1057&utm_source=git)** | Aston, PA | On Site | Jul 24 |
 | ↳ | **[Behavorial Analyst - PSERS pension plan](https://jobright.ai/jobs/info/66a1604fe2be5c244a6561a7?utm_campaign=1057&utm_source=git)** | Allentown, PA | On Site | Jul 24 |
 | ↳ | **[Behavior Analyst - Flexible, school calendar work schedule](https://jobright.ai/jobs/info/66a1604fe2be5c244a6561ae?utm_campaign=1057&utm_source=git)** | Montgomery, PA | On Site | Jul 24 |
 | ↳ | **[Academic Behavior Analyst Intern (Unpaid): 2024-2025 School Year](https://jobright.ai/jobs/info/66a15b8e85a92c36a39a3012?utm_campaign=1057&utm_source=git)** | Pittstown, NJ | On Site | Jul 24 |
 | ↳ | **[Academic Behavior Analyst Intern (Unpaid): 2024-2025 School Year](https://jobright.ai/jobs/info/66a15b8e85a92c36a39a3014?utm_campaign=1057&utm_source=git)** | Montgomery, PA | On Site | Jul 24 |
 | ↳ | **[Behavorial Analyst - PSERS pension plan](https://jobright.ai/jobs/info/66a15b8e85a92c36a39a3018?utm_campaign=1057&utm_source=git)** | Bath, PA | On Site | Jul 24 |
-| ↳ | **[Academic Behavior Analyst Intern (Unpaid): 2024-2025 School Year](https://jobright.ai/jobs/info/66a15b8e85a92c36a39a3021?utm_campaign=1057&utm_source=git)** | Pennsauken, NJ | On Site | Jul 24 |
 | ↳ | **[Behavior Analyst - Flexible, school calendar work schedule](https://jobright.ai/jobs/info/66a15b8e85a92c36a39a3023?utm_campaign=1057&utm_source=git)** | Pennsauken, NJ | On Site | Jul 24 |
+| ↳ | **[Academic Behavior Analyst Intern (Unpaid): 2024-2025 School Year](https://jobright.ai/jobs/info/66a15b8e85a92c36a39a3021?utm_campaign=1057&utm_source=git)** | Pennsauken, NJ | On Site | Jul 24 |
 | ↳ | **[Academic Behavior Analyst Intern (Unpaid): 2024-2025 School Year](https://jobright.ai/jobs/info/66a15b8e85a92c36a39a3022?utm_campaign=1057&utm_source=git)** | North Brunswick, NJ | On Site | Jul 24 |
 | ↳ | **[Behavorial Analyst - PSERS pension plan](https://jobright.ai/jobs/info/66a15b8e85a92c36a39a3026?utm_campaign=1057&utm_source=git)** | Doylestown, PA | On Site | Jul 24 |
 | ↳ | **[Academic Behavior Analyst Intern (Unpaid): 2024-2025 School Year](https://jobright.ai/jobs/info/66a15b8e85a92c36a39a302a?utm_campaign=1057&utm_source=git)** | Allentown, PA | On Site | Jul 24 |
@@ -204,8 +203,8 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Behavior Analysis Practicum (Master's Level)](https://jobright.ai/jobs/info/6684debb05d49fabee74171d?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jul 24 |
 | ↳ | **[Behavior Analysis Practicum (Master's Level)](https://jobright.ai/jobs/info/66849549be126f4204d09ac6?utm_campaign=1057&utm_source=git)** | El Paso, TX | On Site | Jul 24 |
 | ↳ | **[Behavior Analysis Practicum (Master's Level)](https://jobright.ai/jobs/info/6684debb05d49fabee74173a?utm_campaign=1057&utm_source=git)** | Frisco, TX | On Site | Jul 24 |
-| ↳ | **[Behavior Analysis Practicum (Master's Level)](https://jobright.ai/jobs/info/6684debb05d49fabee74171f?utm_campaign=1057&utm_source=git)** | Sugar Land, TX | On Site | Jul 24 |
 | ↳ | **[Behavior Analysis Practicum (Master's Level)](https://jobright.ai/jobs/info/6684debb05d49fabee74171b?utm_campaign=1057&utm_source=git)** | Cedar Park, TX | On Site | Jul 24 |
+| ↳ | **[Behavior Analysis Practicum (Master's Level)](https://jobright.ai/jobs/info/6684debb05d49fabee74171f?utm_campaign=1057&utm_source=git)** | Sugar Land, TX | On Site | Jul 24 |
 | ↳ | **[Behavior Analysis Practicum (Master's Level)](https://jobright.ai/jobs/info/6684debb05d49fabee741709?utm_campaign=1057&utm_source=git)** | Buda, TX | On Site | Jul 24 |
 | ↳ | **[Behavior Analysis Practicum (Master's Level)](https://jobright.ai/jobs/info/6684debb05d49fabee741788?utm_campaign=1057&utm_source=git)** | Webster, TX | On Site | Jul 24 |
 | ↳ | **[Behavior Analysis Practicum (Master's Level)](https://jobright.ai/jobs/info/6684a7d3c6303b9ad44e4d2c?utm_campaign=1057&utm_source=git)** | Concord, NC | On Site | Jul 24 |
@@ -237,7 +236,6 @@ For a complete list, see the full spreadsheet below:
 | **[Broward County Public Schools](http://www.browardschools.com)** | **[CLASSROOM ASSISTANT, K-12/EXCEPTIONAL STUDENT EDUCATION (ESE)](https://jobright.ai/jobs/info/66a0595c09bbc0a620c994f6?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, FL | On Site | Jul 23 |
 | **[Brevard Public Schools](http://www.brevardschools.org)** | **[INTERN COORDINATOR-BAS](https://jobright.ai/jobs/info/66a065cc0e159f780df651b0?utm_campaign=1057&utm_source=git)** | Mims, FL | On Site | Jul 23 |
 | **[New York State Thruway Authority](https://www.thruway.ny.gov)** | **[Student Assistant](https://jobright.ai/jobs/info/66a0417d0b66118039604074?utm_campaign=1057&utm_source=git)** | Albany, NY | On Site | Jul 23 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Dallas Youth Success Coach- Refugee Youth Mentorship Program](https://jobright.ai/jobs/info/66a022e546b8641105c98b21?utm_campaign=1057&utm_source=git)** | Dallas, TX | Hybrid | Jul 23 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2024] Interpretation & Education Content Internship](https://jobright.ai/jobs/info/66a02c63b9065c2c99e9e5fd?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 23 |
 | **[New York State Department of Health](https://health.ny.gov/)** | **[Student Assistant - 07037, 32386](https://jobright.ai/jobs/info/66a0262647fb4c7f51a5c7a5?utm_campaign=1057&utm_source=git)** | Albany, NY | On Site | Jul 23 |
 | **[Lone Star College](http://www.lonestar.edu)** | **[Student Assistant, College Work Study-Federal](https://jobright.ai/jobs/info/66a022ee46b8641105c98bc4?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jul 23 |
@@ -259,7 +257,6 @@ For a complete list, see the full spreadsheet below:
 | **[Action Behavior Centers](https://www.actionbehavior.com)** | **[Behavior Analysis Practicum (Master's Level)](https://jobright.ai/jobs/info/6682e336bcb975e888d217f4?utm_campaign=1057&utm_source=git)** | Greeley, CO | On Site | Jul 23 |
 | ↳ | **[Behavior Analysis Practicum (Master's Level)](https://jobright.ai/jobs/info/6682eec1d0cb3bcfb06e5031?utm_campaign=1057&utm_source=git)** | Glenview, IL | On Site | Jul 23 |
 | ↳ | **[Behavior Analysis Practicum (Master's Level)](https://jobright.ai/jobs/info/6682e336bcb975e888d217d5?utm_campaign=1057&utm_source=git)** | Brighton, CO | On Site | Jul 23 |
-| ↳ | **[Behavior Analysis Practicum (Master's Level)](https://jobright.ai/jobs/info/6682f16256317a36d1ad8c0b?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jul 23 |
 | ↳ | **[Behavior Analysis Practicum (Master's Level)](https://jobright.ai/jobs/info/6682e336bcb975e888d217f7?utm_campaign=1057&utm_source=git)** | Longmont, CO | On Site | Jul 23 |
 | **[IINE](https://iine.org/)** | **[[Fall 2024] Skills Training Intern, IINE Boston](https://jobright.ai/jobs/info/6671ac54a068d83e65cbbdfe?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Jul 23 |
 | **[Action Behavior Centers](https://www.actionbehavior.com)** | **[Behavior Analysis Practicum (Master's Level)](https://jobright.ai/jobs/info/6682f16256317a36d1ad8c09?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Jul 23 |
