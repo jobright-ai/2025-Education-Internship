@@ -57,9 +57,12 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Foundation for Individual Rights in Education](https://www.thefire.org/)** | **[Campus Scholar Program](https://jobright.ai/jobs/info/66a857fc5bf16650a6a3b299?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Jul 30 |
+| **[PSU Industrial Engineering](https://www.ime.psu.edu/)** | **[Part Time Teaching Assistant, Smeal College of Business, Marketing Dept, Lapa](https://jobright.ai/jobs/info/66a8350c42314c4c8a1b83bc?utm_campaign=1057&utm_source=git)** | University Park, PA | On Site | Jul 29 |
 | **[Skidmore, Owings & Merrill (SOM)](https://www.som.com)** | **[Rice University, SF Architectural Preceptorship](https://jobright.ai/jobs/info/66a8231111d2d1828880ccde?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Jul 29 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[Fall 2024 News Internship (Paid)](https://jobright.ai/jobs/info/66a81e30a0964582140839da?utm_campaign=1057&utm_source=git)** | Altoona, PA | On Site | Jul 29 |
 | **[U-M Center for Entrepreneurship](https://cfe.umich.edu/)** | **[ME Research Assistant F24 (Student Temporary)](https://jobright.ai/jobs/info/66a82a6b92a7b394ee0617b4?utm_campaign=1057&utm_source=git)** | Dearborn, MI | On Site | Jul 29 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Dallas Youth Success Coach- Middle School](https://jobright.ai/jobs/info/66a1781fdb0bfcb8d464bb92?utm_campaign=1057&utm_source=git)** | Dallas, TX | Hybrid | Jul 29 |
 | **[California Department of State Hospitals](https://www.dsh.ca.gov/)** | **[STUDENT ASSISTANT](https://jobright.ai/jobs/info/66a8170a25b61b8fef1d5626?utm_campaign=1057&utm_source=git)** | Atascadero, CA | On Site | Jul 29 |
 | **[Eide Bailly](http://www.eidebailly.com)** | **[Summer Leadership Program (OKC/Tulsa/Norman)](https://jobright.ai/jobs/info/66a81e4d65dce2830c9c28fd?utm_campaign=1057&utm_source=git)** | Tulsa Metropolitan Area | On Site | Jul 29 |
 | ↳ | **[Summer Leadership Program (Abilene)](https://jobright.ai/jobs/info/66a81e4d65dce2830c9c2904?utm_campaign=1057&utm_source=git)** | Abilene, TX | On Site | Jul 29 |
@@ -71,16 +74,15 @@ For a complete list, see the full spreadsheet below:
 | **[New York Botanical Garden](http://www.nybg.org)** | **[GreenSchool Science Education Intern](https://jobright.ai/jobs/info/66a809e250930d868cc07bd3?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Jul 29 |
 | **[Refonte Learning](https://refontelearning.com)** | **[Business Analytics Training & Internship](https://jobright.ai/jobs/info/66a7f1c12c272adf106a6dbf?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 29 |
 | **[Cal Poly Associated Students, Inc](http://www.asi.calpoly.edu/)** | **[Musical Entertainment Student Assistant (ASI Events)](https://jobright.ai/jobs/info/66a7ffc54ee388451baec144?utm_campaign=1057&utm_source=git)** | San Luis Obispo, CA | On Site | Jul 29 |
-| **[CONNECTMETA.AI](www.connectmeta.ai)** | **[Data Science training & Internship](https://jobright.ai/jobs/info/66a7e5f2259501eb30bd983e?utm_campaign=1057&utm_source=git)** | United States | Hybrid | Jul 29 |
 | **[NPower](http://www.npower.org/)** | **[Start Your Tech Journey - FREE Tech/IT Fundamentals Program -](https://jobright.ai/jobs/info/66a807411308ec750961956b?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Jul 29 |
 | ↳ | **[Launching Tech Career! - FREE Tech Fundamentals Program (St. Louis, MO)](https://jobright.ai/jobs/info/66a807411308ec750961956c?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Jul 29 |
 | ↳ | **[Unlock Your Future! - Free Tech Fundamentals Program](https://jobright.ai/jobs/info/66a8054996b68368ed7883e8?utm_campaign=1057&utm_source=git)** | Glen Burnie, MD | On Site | Jul 29 |
 | ↳ | **[Zero-cost Tech Fundamentals Program - Get exposure to leading technologies](https://jobright.ai/jobs/info/66a8054996b68368ed7883ef?utm_campaign=1057&utm_source=git)** | Catonsville, MD | On Site | Jul 29 |
 | ↳ | **[Unlock your Future - FREE Tech/IT Fundamentals Program](https://jobright.ai/jobs/info/66a8054996b68368ed7883f0?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Jul 29 |
 | ↳ | **[Start Your Tech Journey - FREE Tech/IT Fundamentals Program -](https://jobright.ai/jobs/info/66a7e90cb44f9d8c00a9d1d8?utm_campaign=1057&utm_source=git)** | Adkins, TX | On Site | Jul 29 |
-| ↳ | **[Zero Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/66a7e90cb44f9d8c00a9d1db?utm_campaign=1057&utm_source=git)** | Elmendorf, TX | On Site | Jul 29 |
 | ↳ | **[Unlock Your Future! - Free Tech Fundamentals Program](https://jobright.ai/jobs/info/66a7e90cb44f9d8c00a9d1da?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Jul 29 |
 | ↳ | **[Tech Fundamentals Program (Free) - Get exposure to leading technologies! (Dallas, TX)](https://jobright.ai/jobs/info/66a7e907b44f9d8c00a9d166?utm_campaign=1057&utm_source=git)** | Garland, TX | On Site | Jul 29 |
+| ↳ | **[Zero Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/66a7e90cb44f9d8c00a9d1db?utm_campaign=1057&utm_source=git)** | Elmendorf, TX | On Site | Jul 29 |
 | ↳ | **[Zero-cost Tech Fundamentals Program - Get exposure to leading technologies (San Antonio, TX)](https://jobright.ai/jobs/info/66a7d7d7e5c02d66206a506f?utm_campaign=1057&utm_source=git)** | Elmendorf, TX | On Site | Jul 29 |
 | ↳ | **[Tech Fundamentals Program (Zero-Cost) - Get exposure to leading technologies! (St. Louis, MO) -'-](https://jobright.ai/jobs/info/66a7d7e0e5c02d66206a5146?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Jul 29 |
 | ↳ | **[Free Tech Fundamentals Program](https://jobright.ai/jobs/info/66a7d7e0e5c02d66206a5147?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Jul 29 |
@@ -91,8 +93,8 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Tech Fundamentals Program (No-Cost) - Get exposure to leading technologies!](https://jobright.ai/jobs/info/66a7c34e1193ba54b71b5c07?utm_campaign=1057&utm_source=git)** | Duncanville, TX | On Site | Jul 29 |
 | **[Castle Montessori](http://www.CastleMontessori.com)** | **[Montessori Toddler Classroom Assistant](https://jobright.ai/jobs/info/66a7c34e1193ba54b71b5bba?utm_campaign=1057&utm_source=git)** | Frisco, TX | On Site | Jul 29 |
 | ↳ | **[Primary Montessori Classroom Assistant](https://jobright.ai/jobs/info/66a7c34e1193ba54b71b5bb3?utm_campaign=1057&utm_source=git)** | Flower Mound, TX | On Site | Jul 29 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[Counselor, Financial Aid, Tahlequah](https://jobright.ai/jobs/info/66a78ba07b0c437e5734aeed?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Jul 29 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[2025 - Summer Associate Internship - Global Markets: Quantitative Research and Trading](https://jobright.ai/jobs/info/66a770071280bae4e89f4393?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 29 |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[Counselor, Financial Aid, Tahlequah](https://jobright.ai/jobs/info/66a782fb2715e6bf8b4c35bb?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Jul 29 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[2025 - Summer Associate Internship - Global Markets: Quantitative Research and Trading](https://jobright.ai/jobs/info/66a7a01399724c389555679b?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 29 |
 | **[NPower](http://www.npower.org/)** | **[FREE Tech Fundamental Program - Opportunity to earn industry-recognized certifications (Raleigh, NC)](https://jobright.ai/jobs/info/66a7e90cb44f9d8c00a9d1f3?utm_campaign=1057&utm_source=git)** | Wake Forest, NC | On Site | Jul 29 |
 | ↳ | **[Launch Your Tech Career: Cost-Free Tech/IT Fundamentals Program -](https://jobright.ai/jobs/info/66a7d7e3e5c02d66206a516d?utm_campaign=1057&utm_source=git)** | East St Louis, IL | On Site | Jul 29 |
 | ↳ | **[No Cost Tech Fundamentals Program - Opportunity to earn industry-recognized certifications -](https://jobright.ai/jobs/info/66a7d7e3e5c02d66206a516e?utm_campaign=1057&utm_source=git)** | Broadway, NC | On Site | Jul 29 |
@@ -112,6 +114,7 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Zero-Cost Tech Fundamental Program - Earn industry-recognized certifications (St. Louis, MO)](https://jobright.ai/jobs/info/66a8131244bd628dc72a563e?utm_campaign=1057&utm_source=git)** | Maryland Heights, MO | On Site | Jul 29 |
 | ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/66a8131244bd628dc72a563f?utm_campaign=1057&utm_source=git)** | Hamilton, OH | On Site | Jul 29 |
 | ↳ | **[Zero-Cost Tech Fundamentals Program - Opportunity to earn industry-recognized certifications](https://jobright.ai/jobs/info/66a8131244bd628dc72a5640?utm_campaign=1057&utm_source=git)** | Sabina, OH | On Site | Jul 29 |
+| ↳ | **[No-Cost Tech Fundamental Program - Earn industry-recognized certifications (San Antonio, TX)](https://jobright.ai/jobs/info/66a84306920a7633bcf52594?utm_campaign=1057&utm_source=git)** | Elmendorf, TX | On Site | Jul 29 |
 | ↳ | **[Tech Fundamentals Program (No-Cost) - Get exposure to leading technologies!](https://jobright.ai/jobs/info/66a7c3511193ba54b71b5c3a?utm_campaign=1057&utm_source=git)** | Catonsville, MD | On Site | Jul 29 |
 | ↳ | **[Zero-Cost Tech Fundamentals Program - Launching Your Tech Career! (Dallas, TX)](https://jobright.ai/jobs/info/66a7c34e1193ba54b71b5bd3?utm_campaign=1057&utm_source=git)** | Mesquite, TX | On Site | Jul 29 |
 | ↳ | **[No Cost Tech Fundamentals Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66a7c3511193ba54b71b5c41?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | Jul 29 |
@@ -124,12 +127,12 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program (San Antonio, TX)](https://jobright.ai/jobs/info/66a7c34e1193ba54b71b5bde?utm_campaign=1057&utm_source=git)** | Adkins, TX | On Site | Jul 29 |
 | ↳ | **[Tech Fundamentals Program (Zero-Cost) - Get exposure to leading technologies! (Baltimore, MD)](https://jobright.ai/jobs/info/66a7c3511193ba54b71b5c5b?utm_campaign=1057&utm_source=git)** | Columbia, MD | On Site | Jul 29 |
 | ↳ | **[Tech Fundamentals Program (No-Cost) - Get exposure to leading technologies! (Dallas, TX)](https://jobright.ai/jobs/info/66a7c3511193ba54b71b5c5c?utm_campaign=1057&utm_source=git)** | Richardson, TX | On Site | Jul 29 |
-| ↳ | **[Tech Fundamentals Program (No-Cost) - Get exposure to leading technologies!](https://jobright.ai/jobs/info/66a7c3511193ba54b71b5c4f?utm_campaign=1057&utm_source=git)** | Garland, TX | On Site | Jul 29 |
-| ↳ | **[No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/66a7c3511193ba54b71b5c4e?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | Jul 29 |
 | ↳ | **[Tech Fundamentals Program (Free) - Get exposure to leading technologies! (San Antonio, TX)](https://jobright.ai/jobs/info/66a7c34e1193ba54b71b5bdf?utm_campaign=1057&utm_source=git)** | Elmendorf, TX | On Site | Jul 29 |
+| ↳ | **[No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/66a7c3511193ba54b71b5c4e?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | Jul 29 |
+| ↳ | **[Tech Fundamentals Program (No-Cost) - Get exposure to leading technologies!](https://jobright.ai/jobs/info/66a7c3511193ba54b71b5c4f?utm_campaign=1057&utm_source=git)** | Garland, TX | On Site | Jul 29 |
 | ↳ | **[No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/66a7c3511193ba54b71b5c54?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Jul 29 |
-| ↳ | **[Launch Your Tech Career: FREE Tech/IT Fundamentals Program -](https://jobright.ai/jobs/info/66a7c3511193ba54b71b5c53?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | Jul 29 |
 | ↳ | **[Transform Your Future with Cost-Free Tech Fundamentals Program -](https://jobright.ai/jobs/info/66a7c3511193ba54b71b5c51?utm_campaign=1057&utm_source=git)** | Catonsville, MD | On Site | Jul 29 |
+| ↳ | **[Launch Your Tech Career: FREE Tech/IT Fundamentals Program -](https://jobright.ai/jobs/info/66a7c3511193ba54b71b5c53?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | Jul 29 |
 | ↳ | **[Zero-Cost Tech Fundamentals Program - Opportunity to earn industry-recognized certifications](https://jobright.ai/jobs/info/66a807411308ec7509619578?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jul 29 |
 | ↳ | **[Break into Tech! - Cero-Cost Tech Fundamentals Program (Dallas, TX)](https://jobright.ai/jobs/info/66a8073f1308ec75096194ee?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jul 29 |
 | ↳ | **[Tech Fundamentals Program (No-Cost) - Get exposure to leading technologies! (Dallas, TX)](https://jobright.ai/jobs/info/66a8054c96b68368ed78843f?utm_campaign=1057&utm_source=git)** | Duncanville, TX | On Site | Jul 29 |
@@ -139,15 +142,15 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[No Cost Tech Fundamentals Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66a7e90cb44f9d8c00a9d1fd?utm_campaign=1057&utm_source=git)** | Glen Burnie, MD | On Site | Jul 29 |
 | ↳ | **[Unlock Your Future! - Zero-Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/66a7e90cb44f9d8c00a9d1ff?utm_campaign=1057&utm_source=git)** | Garland, TX | On Site | Jul 29 |
 | ↳ | **[Launch Your Tech Career: Cost-Free Tech/IT Fundamentals Program -](https://jobright.ai/jobs/info/66a7e90cb44f9d8c00a9d202?utm_campaign=1057&utm_source=git)** | Pikesville, MD | On Site | Jul 29 |
-| ↳ | **[Start Your Tech Journey - FREE Tech/IT Fundamentals Program -](https://jobright.ai/jobs/info/66a7e90cb44f9d8c00a9d209?utm_campaign=1057&utm_source=git)** | Glen Burnie, MD | On Site | Jul 29 |
 | ↳ | **[Unlock your Future - FREE Tech Fundamentals Program](https://jobright.ai/jobs/info/66a7e90cb44f9d8c00a9d206?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jul 29 |
+| ↳ | **[Start Your Tech Journey - FREE Tech/IT Fundamentals Program -](https://jobright.ai/jobs/info/66a7e90cb44f9d8c00a9d209?utm_campaign=1057&utm_source=git)** | Glen Burnie, MD | On Site | Jul 29 |
 | ↳ | **[Zero-Cost Tech Fundamentals Program - Opportunity to earn industry-recognized certifications](https://jobright.ai/jobs/info/66a7e90cb44f9d8c00a9d20c?utm_campaign=1057&utm_source=git)** | Elmendorf, TX | On Site | Jul 29 |
 | ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program (San Antonio, TX)](https://jobright.ai/jobs/info/66a8131244bd628dc72a5641?utm_campaign=1057&utm_source=git)** | Elmendorf, TX | On Site | Jul 29 |
 | ↳ | **[Tech Fundamentals Program (No-Cost) - Get exposure to leading technologies!](https://jobright.ai/jobs/info/66a8131244bd628dc72a5642?utm_campaign=1057&utm_source=git)** | Elmendorf, TX | On Site | Jul 29 |
 | ↳ | **[No-cost Tech Fundamentals Program - Get exposure to leading technologies (Dallas, TX)](https://jobright.ai/jobs/info/66a8131044bd628dc72a557b?utm_campaign=1057&utm_source=git)** | Richardson, TX | On Site | Jul 29 |
 | ↳ | **[Launch Your Tech Career: Cost-Free Tech/IT Fundamentals Program -](https://jobright.ai/jobs/info/66a8131244bd628dc72a5644?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Jul 29 |
-| ↳ | **[Start Your Tech Journey - FREE Tech/IT Fundamentals Program -](https://jobright.ai/jobs/info/66a7d7e3e5c02d66206a517a?utm_campaign=1057&utm_source=git)** | Elmendorf, TX | On Site | Jul 29 |
 | ↳ | **[Start Your Tech Journey - FREE Tech/IT Fundamentals Program -](https://jobright.ai/jobs/info/66a7d7e3e5c02d66206a517b?utm_campaign=1057&utm_source=git)** | Von Ormy, TX | On Site | Jul 29 |
+| ↳ | **[Start Your Tech Journey - FREE Tech/IT Fundamentals Program -](https://jobright.ai/jobs/info/66a7d7e3e5c02d66206a517a?utm_campaign=1057&utm_source=git)** | Elmendorf, TX | On Site | Jul 29 |
 | ↳ | **[Break into Tech! - Cero-Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/66a7d7e3e5c02d66206a517d?utm_campaign=1057&utm_source=git)** | Glen Burnie, MD | On Site | Jul 29 |
 | ↳ | **[No-Cost Tech Fundamental Program - Earn industry-recognized certifications (Dallas, TX)](https://jobright.ai/jobs/info/66a7d7e3e5c02d66206a517e?utm_campaign=1057&utm_source=git)** | Mesquite, TX | On Site | Jul 29 |
 | ↳ | **[Break into Tech! - Cero-Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/66a7d7e3e5c02d66206a517f?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Jul 29 |
@@ -160,17 +163,17 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/66a7d7e3e5c02d66206a5190?utm_campaign=1057&utm_source=git)** | Parkville, MD | On Site | Jul 29 |
 | ↳ | **[No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/66a7d7e3e5c02d66206a5191?utm_campaign=1057&utm_source=git)** | Catonsville, MD | On Site | Jul 29 |
 | ↳ | **[No-Cost Tech Fundamental Program - Earn industry-recognized certifications (San Antonio, TX)](https://jobright.ai/jobs/info/66a7d7e3e5c02d66206a5192?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jul 29 |
-| ↳ | **[FREE Tech Fundamentals Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66a7d7e3e5c02d66206a5195?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jul 29 |
 | ↳ | **[Zero-Cost Tech Fundamentals Program - Launching Your Tech Career! (Dallas, TX)](https://jobright.ai/jobs/info/66a7d7e3e5c02d66206a5194?utm_campaign=1057&utm_source=git)** | Garland, TX | On Site | Jul 29 |
+| ↳ | **[FREE Tech Fundamentals Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66a7d7e3e5c02d66206a5195?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jul 29 |
 | ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/66a7d7e3e5c02d66206a5196?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jul 29 |
 | ↳ | **[Tech Fundamentals Program - Break into Tech! (Dallas, TX)](https://jobright.ai/jobs/info/66a7d7e0e5c02d66206a50a8?utm_campaign=1057&utm_source=git)** | Richardson, TX | On Site | Jul 29 |
 | ↳ | **[Start Your Tech Journey: Cost-Free Tech/IT Fundamentals Program -](https://jobright.ai/jobs/info/66a7d7e3e5c02d66206a5198?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | Jul 29 |
 | ↳ | **[No-Cost Tech Fundamental Program - Earn industry-recognized certifications (San Antonio, TX)](https://jobright.ai/jobs/info/66a7d7e3e5c02d66206a5197?utm_campaign=1057&utm_source=git)** | Adkins, TX | On Site | Jul 29 |
-| ↳ | **[No Cost Tech Fundamentals Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66a7d7e3e5c02d66206a519a?utm_campaign=1057&utm_source=git)** | Pikesville, MD | On Site | Jul 29 |
 | ↳ | **[Zero-Cost Tech Fundamentals Program - Opportunity to earn industry-recognized certifications](https://jobright.ai/jobs/info/66a7d7e3e5c02d66206a519c?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | Jul 29 |
-| ↳ | **[Tech Fundamentals Program - Break into Tech! (San Antonio, TX)](https://jobright.ai/jobs/info/66a7d7e0e5c02d66206a50ad?utm_campaign=1057&utm_source=git)** | Von Ormy, TX | On Site | Jul 29 |
+| ↳ | **[No Cost Tech Fundamentals Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66a7d7e3e5c02d66206a519a?utm_campaign=1057&utm_source=git)** | Pikesville, MD | On Site | Jul 29 |
 | ↳ | **[No Cost Tech Fundamentals Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66a7d7e3e5c02d66206a519f?utm_campaign=1057&utm_source=git)** | Duncanville, TX | On Site | Jul 29 |
 | ↳ | **[No-cost Tech Fundamentals Program - Get exposure to leading technologies](https://jobright.ai/jobs/info/66a7d7e3e5c02d66206a519e?utm_campaign=1057&utm_source=git)** | Jessup, MD | On Site | Jul 29 |
+| ↳ | **[Tech Fundamentals Program - Break into Tech! (San Antonio, TX)](https://jobright.ai/jobs/info/66a7d7e0e5c02d66206a50ad?utm_campaign=1057&utm_source=git)** | Von Ormy, TX | On Site | Jul 29 |
 | ↳ | **[FREE Tech Fundamental Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66a7d7e3e5c02d66206a51a1?utm_campaign=1057&utm_source=git)** | Mesquite, TX | On Site | Jul 29 |
 | ↳ | **[Transform Your Future with Cost-Free Tech Fundamentals Program -](https://jobright.ai/jobs/info/66a7d7e3e5c02d66206a51a4?utm_campaign=1057&utm_source=git)** | Garland, TX | On Site | Jul 29 |
 | ↳ | **[Zero-Cost Tech Fundamental Program - Earn industry-recognized certifications (San Antonio, TX)](https://jobright.ai/jobs/info/66a7d7e3e5c02d66206a51a8?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jul 29 |
@@ -178,9 +181,10 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Transform Your Future with Cost-Free Tech Fundamentals Program -](https://jobright.ai/jobs/info/66a7d7e3e5c02d66206a51ab?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | Jul 29 |
 | ↳ | **[Unlock your Future - FREE Tech/IT Fundamentals Program](https://jobright.ai/jobs/info/66a7f381d031f58434bb01c6?utm_campaign=1057&utm_source=git)** | Richardson, TX | On Site | Jul 29 |
 | ↳ | **[Zero-Cost Tech Fundamentals Program - Opportunity to earn industry-recognized certifications](https://jobright.ai/jobs/info/66a7f381d031f58434bb01c7?utm_campaign=1057&utm_source=git)** | Perry Hall, MD | On Site | Jul 29 |
-| ↳ | **[Launch Your Tech Career: FREE Tech/IT Fundamentals Program -](https://jobright.ai/jobs/info/66a7f381d031f58434bb01c8?utm_campaign=1057&utm_source=git)** | Duncanville, TX | On Site | Jul 29 |
 | ↳ | **[No-cost Tech Fundamentals Program - Get exposure to leading technologies (San Antonio, TX)](https://jobright.ai/jobs/info/66a7f37fd031f58434bb0106?utm_campaign=1057&utm_source=git)** | Adkins, TX | On Site | Jul 29 |
+| ↳ | **[Launch Your Tech Career: FREE Tech/IT Fundamentals Program -](https://jobright.ai/jobs/info/66a7f381d031f58434bb01c8?utm_campaign=1057&utm_source=git)** | Duncanville, TX | On Site | Jul 29 |
 | ↳ | **[Free Tech Fundamentals Program](https://jobright.ai/jobs/info/66a755258f09701979e5ea38?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Jul 29 |
+| **[Gray TV](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP FALL '24 - WWSB](https://jobright.ai/jobs/info/66a8568cba9566a1ee491cd3?utm_campaign=1057&utm_source=git)** | Sarasota, FL | On Site | Jul 29 |
 | **[Education Service Center Region 2](https://www.esc2.net)** | **[2024-2025 EC-6 Generalist](https://jobright.ai/jobs/info/66a6fa24daf5dfad347301c0?utm_campaign=1057&utm_source=git)** | Corpus Christi, TX | On Site | Jul 29 |
 | **[Woodland Hills School District](http://www.whsd.net)** | **[EDR- Student Council Sponsor](https://jobright.ai/jobs/info/66a830e96ea7ac216c511f2c?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Jul 29 |
 | **[New York Botanical Garden](http://www.nybg.org)** | **[GreenSchool Science Education Intern](https://jobright.ai/jobs/info/66a7ddeefcc606a6ccf4c35c?utm_campaign=1057&utm_source=git)** | Bronx, New York | On Site | Jul 29 |
@@ -188,19 +192,18 @@ For a complete list, see the full spreadsheet below:
 | **[NPower](http://www.npower.org/)** | **[FREE Tech Fundamental Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66a755258f09701979e5ea39?utm_campaign=1057&utm_source=git)** | Adkins, TX | On Site | Jul 28 |
 | ↳ | **[Free Tech Fundamentals Program](https://jobright.ai/jobs/info/66a755258f09701979e5ea3a?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jul 28 |
 | ↳ | **[FREE Tech Fundamental Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66a755258f09701979e5ea3d?utm_campaign=1057&utm_source=git)** | Duncanville, TX | On Site | Jul 28 |
-| ↳ | **[Free Tech Fundamentals Program](https://jobright.ai/jobs/info/66a755258f09701979e5ea3e?utm_campaign=1057&utm_source=git)** | Parkville, MD | On Site | Jul 28 |
 | ↳ | **[Launch Your Tech Career: FREE Tech/IT Fundamentals Program -](https://jobright.ai/jobs/info/66a755258f09701979e5ea3f?utm_campaign=1057&utm_source=git)** | Parkville, MD | On Site | Jul 28 |
+| ↳ | **[Free Tech Fundamentals Program](https://jobright.ai/jobs/info/66a755258f09701979e5ea3e?utm_campaign=1057&utm_source=git)** | Parkville, MD | On Site | Jul 28 |
 | ↳ | **[Free Tech Fundamentals Program](https://jobright.ai/jobs/info/66a755258f09701979e5ea40?utm_campaign=1057&utm_source=git)** | Glen Burnie, MD | On Site | Jul 28 |
 | ↳ | **[Free Tech Fundamentals Program](https://jobright.ai/jobs/info/66a755258f09701979e5ea41?utm_campaign=1057&utm_source=git)** | Von Ormy, TX | On Site | Jul 28 |
-| ↳ | **[FREE Tech Fundamental Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66a755258f09701979e5ea44?utm_campaign=1057&utm_source=git)** | Perry Hall, MD | On Site | Jul 28 |
 | ↳ | **[Launch Your Tech Career: FREE Tech/IT Fundamentals Program -](https://jobright.ai/jobs/info/66a755258f09701979e5ea4b?utm_campaign=1057&utm_source=git)** | Catonsville, MD | On Site | Jul 28 |
-| ↳ | **[FREE Tech Fundamental Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66a755258f09701979e5ea48?utm_campaign=1057&utm_source=git)** | Garland, TX | On Site | Jul 28 |
-| ↳ | **[FREE Tech Fundamental Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66a755258f09701979e5ea46?utm_campaign=1057&utm_source=git)** | Rosedale, MD | On Site | Jul 28 |
 | ↳ | **[No-Cost Tech Fundamental Program - Earn industry-recognized certifications (San Antonio, TX)](https://jobright.ai/jobs/info/66a755258f09701979e5ea19?utm_campaign=1057&utm_source=git)** | Von Ormy, TX | On Site | Jul 28 |
-| ↳ | **[Free Tech Fundamentals Program](https://jobright.ai/jobs/info/66a755258f09701979e5ea53?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jul 28 |
-| ↳ | **[FREE Tech Fundamental Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66a755258f09701979e5ea4e?utm_campaign=1057&utm_source=git)** | Pikesville, MD | On Site | Jul 28 |
+| ↳ | **[FREE Tech Fundamental Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66a755258f09701979e5ea46?utm_campaign=1057&utm_source=git)** | Rosedale, MD | On Site | Jul 28 |
+| ↳ | **[FREE Tech Fundamental Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66a755258f09701979e5ea48?utm_campaign=1057&utm_source=git)** | Garland, TX | On Site | Jul 28 |
 | ↳ | **[FREE Tech Fundamental Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66a755258f09701979e5ea54?utm_campaign=1057&utm_source=git)** | Von Ormy, TX | On Site | Jul 28 |
 | ↳ | **[FREE Tech Fundamental Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66a755258f09701979e5ea4c?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | Jul 28 |
+| ↳ | **[Free Tech Fundamentals Program](https://jobright.ai/jobs/info/66a755258f09701979e5ea53?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jul 28 |
+| ↳ | **[FREE Tech Fundamental Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66a755258f09701979e5ea4e?utm_campaign=1057&utm_source=git)** | Pikesville, MD | On Site | Jul 28 |
 | ↳ | **[FREE Tech Fundamental Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66a755258f09701979e5ea55?utm_campaign=1057&utm_source=git)** | Richardson, TX | On Site | Jul 28 |
 | ↳ | **[Free Tech Fundamentals Program](https://jobright.ai/jobs/info/66a755258f09701979e5ea57?utm_campaign=1057&utm_source=git)** | Columbia, MD | On Site | Jul 28 |
 | ↳ | **[FREE Tech Fundamental Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66a755258f09701979e5ea59?utm_campaign=1057&utm_source=git)** | Parkville, MD | On Site | Jul 28 |
@@ -274,7 +277,6 @@ For a complete list, see the full spreadsheet below:
 | **[Victoria College, Victoria](http://www.victoriacollege.edu/)** | **[Student Worker - Library - General Clerical-Customer Service](https://jobright.ai/jobs/info/66a2e30c621b00551f362949?utm_campaign=1057&utm_source=git)** | Victoria, TX | On Site | Jul 25 |
 | **[Employment Development Department](https://www.edd.ca.gov/About_EDD/Career_Opportunities.htm)** | **[STUDENT ASSISTANT](https://jobright.ai/jobs/info/66a2d3e63e23e8ca995ff393?utm_campaign=1057&utm_source=git)** | Sacramento County, CA | On Site | Jul 25 |
 | **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Financial Student Aid Counselor](https://jobright.ai/jobs/info/66a2cfd211da4cbed1974889?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jul 25 |
-| **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[Office of Equity and Investment Funds Internship](https://jobright.ai/jobs/info/667f80f042e63ae5af33eead?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 25 |
 | **[Georgia Tech Research Corporation](http://www.gtrc.gatech.edu)** | **[IE Graduate Research Assistant - Fall 2024 -IEU](https://jobright.ai/jobs/info/66a2bb87f2f497226957658f?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jul 25 |
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-Management, Marketing & Information Systems-Assistant](https://jobright.ai/jobs/info/66a33359917c43a74c9e73a1?utm_campaign=1057&utm_source=git)** | Huntsville, TX | On Site | Jul 25 |
 | **[UAMS Health](https://uamshealth.com)** | **[Graduate Assistant-2](https://jobright.ai/jobs/info/66a2aa33022211b3c86216b7?utm_campaign=1057&utm_source=git)** | Little Rock, AR | On Site | Jul 25 |
@@ -311,7 +313,6 @@ For a complete list, see the full spreadsheet below:
 | **[COPE Health Solutions](https://copehealthsolutions.com/)** | **[Intern, Curriculum Development Educational Experience](https://jobright.ai/jobs/info/66a19e48aa07bd39a0ce374e?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jul 24 |
 | **[PSI (Proteam Solutions Inc)](http://psi92.com)** | **[Student Aide](https://jobright.ai/jobs/info/66a1a3ae44dfa5a9b61c384f?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Jul 24 |
 | **[Hamilton County Department of Education](https://www.hcde.org/)** | **[Interpreter for Deaf or Hard of Hearing Students](https://jobright.ai/jobs/info/66a18afb886017c169bb02a2?utm_campaign=1057&utm_source=git)** | Chattanooga, TN | On Site | Jul 24 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Dallas Youth Success Coach- Middle School](https://jobright.ai/jobs/info/66a1781fdb0bfcb8d464bb92?utm_campaign=1057&utm_source=git)** | Dallas, TX | Hybrid | Jul 24 |
 | **[Eide Bailly](http://www.eidebailly.com)** | **[Summer Leadership Program (Phoenix, 2025)](https://jobright.ai/jobs/info/66a17482edfe0a13ffb3c7af?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Jul 24 |
 | **[BUCKS COUNTY IU 22 SCHOOL DISTRICT](https://www.linkedin.com/company/55768935)** | **[Behavorial Analyst - PSERS pension plan](https://jobright.ai/jobs/info/66a1604fe2be5c244a6561a3?utm_campaign=1057&utm_source=git)** | Aston, PA | On Site | Jul 24 |
 | ↳ | **[Behavorial Analyst - PSERS pension plan](https://jobright.ai/jobs/info/66a1604fe2be5c244a6561a7?utm_campaign=1057&utm_source=git)** | Allentown, PA | On Site | Jul 24 |
@@ -375,5 +376,4 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[[Fall 2024] Skills Training Intern, IINE Lowell](https://jobright.ai/jobs/info/6671ec22edd59a6c2956c3a1?utm_campaign=1057&utm_source=git)** | Lowell, MA | On Site | Jul 23 |
 | **[WVU Medicine](https://wvumedicine.org/)** | **[Psychology Postdoctoral](https://jobright.ai/jobs/info/668556cd130fa6d241d79cca?utm_campaign=1057&utm_source=git)** | Martinsburg, WV | On Site | Jul 23 |
 | **[NPower](http://www.npower.org/)** | **[Transform Your Future with Cost-Free Tech Fundamentals Program -](https://jobright.ai/jobs/info/669fa2ac0978d429047d3a7a?utm_campaign=1057&utm_source=git)** | South Vienna, OH | On Site | Jul 23 |
-| **[Montgomery County Intermediate Unit](http://mciu.org/)** | **[Administrative Assistant - Student Services/Related Services](https://jobright.ai/jobs/info/66a1badd91191f45df57dd14?utm_campaign=1057&utm_source=git)** | Norristown, PA | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
