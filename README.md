@@ -57,8 +57,10 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[2025 Returning Intern](https://jobright.ai/jobs/info/66aca83835de14433cb17f64?utm_campaign=1057&utm_source=git)** | Armonk, NY | On Site | Aug 02 |
 | **[UC Irvine](http://uci.edu)** | **[Open Positions - Postdoctoral Scholar (2024-2025 Pool Ad)](https://jobright.ai/jobs/info/66ac8d6ef850058e3cf9441b?utm_campaign=1057&utm_source=git)** | Irvine, CA | On Site | Aug 02 |
 | **[U-M Center for Entrepreneurship](https://cfe.umich.edu/)** | **[U-M Presidential Post-Doctoral Fellowship- Agroecology and Biodiversity](https://jobright.ai/jobs/info/66ac9732c7adcb8eb400e143?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Aug 02 |
+| **[The Ohio State University](http://www.osu.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/66ac9abbb5ca824c43943d41?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Aug 02 |
 | **[Marketeq Digital](http://www.marketeqdigital.com)** | **[Instructional Design Internship](https://jobright.ai/jobs/info/66ac43b6de3e9bebe177ef37?utm_campaign=1057&utm_source=git)** | United States | Hybrid | Aug 02 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Development Student Worker - College of Forestry, Wildlife and Environment](https://jobright.ai/jobs/info/66ac8a25b556873e6d502352?utm_campaign=1057&utm_source=git)** | Auburn, AL | On Site | Aug 02 |
 | **[Stevens Institute of Technology](http://www.stevens.edu/)** | **[Federal Work Study: Student Text Analysis Manager (Undergraduate)](https://jobright.ai/jobs/info/66ac889287054f1bf32aaccc?utm_campaign=1057&utm_source=git)** | Hoboken, NJ | On Site | Aug 01 |
@@ -180,8 +182,8 @@ For a complete list, see the full spreadsheet below:
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[Fall 2024 News Internship (Paid)](https://jobright.ai/jobs/info/66a81e30a0964582140839da?utm_campaign=1057&utm_source=git)** | Altoona, PA | On Site | Jul 29 |
 | **[U-M Center for Entrepreneurship](https://cfe.umich.edu/)** | **[ME Research Assistant F24 (Student Temporary)](https://jobright.ai/jobs/info/66a82a6b92a7b394ee0617b4?utm_campaign=1057&utm_source=git)** | Dearborn, MI | On Site | Jul 29 |
 | **[California Department of State Hospitals](https://www.dsh.ca.gov/)** | **[STUDENT ASSISTANT](https://jobright.ai/jobs/info/66a8170a25b61b8fef1d5626?utm_campaign=1057&utm_source=git)** | Atascadero, CA | On Site | Jul 29 |
-| **[Eide Bailly](http://www.eidebailly.com)** | **[Summer Leadership Program (OKC/Tulsa/Norman)](https://jobright.ai/jobs/info/66a81e4d65dce2830c9c28fd?utm_campaign=1057&utm_source=git)** | Tulsa Metropolitan Area | On Site | Jul 29 |
-| ↳ | **[Summer Leadership Program (Abilene)](https://jobright.ai/jobs/info/66a81e4d65dce2830c9c2904?utm_campaign=1057&utm_source=git)** | Abilene, TX | On Site | Jul 29 |
+| **[Eide Bailly](http://www.eidebailly.com)** | **[Summer Leadership Program (Abilene)](https://jobright.ai/jobs/info/66a81e4d65dce2830c9c2904?utm_campaign=1057&utm_source=git)** | Abilene, TX | On Site | Jul 29 |
+| ↳ | **[Summer Leadership Program (OKC/Tulsa/Norman)](https://jobright.ai/jobs/info/66a81e4d65dce2830c9c28fd?utm_campaign=1057&utm_source=git)** | Tulsa Metropolitan Area | On Site | Jul 29 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[NIEHS Scholars Connect Program Fall and Spring](https://jobright.ai/jobs/info/66a812fc44bd628dc72a5491?utm_campaign=1057&utm_source=git)** | Triangle, NC | On Site | Jul 29 |
 | **[University of New Hampshire](https://www.unh.edu)** | **[Coordinator of Student Advising and Leadership Development](https://jobright.ai/jobs/info/66a801c789d6ae584d5d4119?utm_campaign=1057&utm_source=git)** | Durham, NH | On Site | Jul 29 |
 | **[Kinexus Group](https://www.kinexus.org)** | **[Student Success Coach - Bridge Academy of Southwest Michigan](https://jobright.ai/jobs/info/66a80dd172f6c23b69a467ef?utm_campaign=1057&utm_source=git)** | Benton Harbor, MI | On Site | Jul 29 |
@@ -220,8 +222,4 @@ For a complete list, see the full spreadsheet below:
 | **[Lansing School District](https://www.lansingschools.net)** | **[Student Support Assistant - ASL Interpreter](https://jobright.ai/jobs/info/66a3e85cb020465e7d35cc37?utm_campaign=1057&utm_source=git)** | Lansing, MI | On Site | Jul 26 |
 | **[The Gersh Agency](https://gersh.com)** | **[Gersh 2024 Fall Extern - REMOTE (Sophomores/Juniors/Seniors)](https://jobright.ai/jobs/info/66a3b1bacc8f335cd486c1fe?utm_campaign=1057&utm_source=git)** | LA Metro Area | Remote | Jul 26 |
 | **[Troon](https://www.troon.com/indigo-golf-partners/)** | **[WORKFORCE DEVELOPMENT SUMMER INITIATIVE PROGRAMS](https://jobright.ai/jobs/info/667573d931f584ec4862569d?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Jul 26 |
-| **[UW School of Medicine and Public Health](https://www.med.wisc.edu)** | **[Interventional Nephrology Fellow](https://jobright.ai/jobs/info/666a6c6dac755a8ba0ab00e5?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Jul 26 |
-| **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Training Intern](https://jobright.ai/jobs/info/668688b09db87c158112a76b?utm_campaign=1057&utm_source=git)** | Allen, TX | On Site | Jul 26 |
-| **[City of Baltimore](https://www.baltimorecity.gov/)** | **[Community Aide (Explorer Apprenticeship) NCS - Baltimore City Fire Department](https://jobright.ai/jobs/info/664d31374ea023f9605d7a9d?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Jul 26 |
-| **[Kids in Need of Defense](https://www.supportkind.org)** | **[Fall Undergraduate Intern](https://jobright.ai/jobs/info/6686d8397a448b2b73aabe4b?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
