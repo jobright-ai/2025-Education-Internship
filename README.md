@@ -57,9 +57,8 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[Counselor, Financial Aid, Tahlequah](https://jobright.ai/jobs/info/66ae1d4fb36ef9b8d2a2a285?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Aug 03 |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[Counselor, Financial Aid, Tahlequah](https://jobright.ai/jobs/info/66ae23abd809db2f79a52a9f?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Aug 03 |
 | ↳ | **[Coordinator of Student Development, Tahlequah](https://jobright.ai/jobs/info/66ae1b0847d782bc56401d65?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Aug 03 |
-| **[IBM](http://www.ibm.com)** | **[2025 Returning Intern](https://jobright.ai/jobs/info/66ae0cc186a87b3719c58efb?utm_campaign=1057&utm_source=git)** | Armonk, NY | On Site | Aug 03 |
 | **[Wayside Recovery Center](https://waysiderecovery.org)** | **[Paid Graduate Internships-LADC, MH](https://jobright.ai/jobs/info/66add505c36e673bd26523a8?utm_campaign=1057&utm_source=git)** | Saint Paul Church, MN | On Site | Aug 03 |
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Education Institute Intern - Finance](https://jobright.ai/jobs/info/66add505c36e673bd26523aa?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Aug 03 |
 | **[PNC](http://www.pnc.com)** | **[Corporate & Institutional Banking Undergraduate Intern - Agency Finance](https://jobright.ai/jobs/info/66ac0ddaaf9b865f9085e84b?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Aug 03 |
@@ -98,13 +97,13 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Tech Fundamentals Program (Zero-Cost) - Get exposure to leading technologies!](https://jobright.ai/jobs/info/66ad2c46ace1e101f28ef451?utm_campaign=1057&utm_source=git)** | Canton, MI | On Site | Aug 02 |
 | ↳ | **[Zero Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/66ad2c46ace1e101f28ef452?utm_campaign=1057&utm_source=git)** | Pasadena, TX | On Site | Aug 02 |
 | ↳ | **[FREE Tech Fundamentals Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66ad2c46ace1e101f28ef45b?utm_campaign=1057&utm_source=git)** | Jamaica, NY | On Site | Aug 02 |
-| ↳ | **[Tech Fundamentals Program (No-Cost) - Get exposure to leading technologies!](https://jobright.ai/jobs/info/66ad2c46ace1e101f28ef45a?utm_campaign=1057&utm_source=git)** | West Bloomfield Township, MI | On Site | Aug 02 |
 | ↳ | **[No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/66ad2c46ace1e101f28ef459?utm_campaign=1057&utm_source=git)** | Lincoln Park, MI | On Site | Aug 02 |
+| ↳ | **[Tech Fundamentals Program (No-Cost) - Get exposure to leading technologies!](https://jobright.ai/jobs/info/66ad2c46ace1e101f28ef45a?utm_campaign=1057&utm_source=git)** | West Bloomfield Township, MI | On Site | Aug 02 |
 | ↳ | **[Free Tech Fundamentals Program](https://jobright.ai/jobs/info/66ad2c46ace1e101f28ef45f?utm_campaign=1057&utm_source=git)** | Roseville, MI | On Site | Aug 02 |
 | ↳ | **[No Cost Tech Fundamentals Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66ad2c46ace1e101f28ef465?utm_campaign=1057&utm_source=git)** | West Bloomfield Township, MI | On Site | Aug 02 |
+| ↳ | **[Zero-cost Tech Fundamentals Program - Get exposure to leading technologies](https://jobright.ai/jobs/info/66ad2c46ace1e101f28ef463?utm_campaign=1057&utm_source=git)** | Macomb, MI | On Site | Aug 02 |
 | ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/66ad2c46ace1e101f28ef462?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Aug 02 |
 | ↳ | **[Zero-cost Tech Fundamentals Program - Get exposure to leading technologies](https://jobright.ai/jobs/info/66ad2c46ace1e101f28ef461?utm_campaign=1057&utm_source=git)** | Park, KS | On Site | Aug 02 |
-| ↳ | **[Zero-cost Tech Fundamentals Program - Get exposure to leading technologies](https://jobright.ai/jobs/info/66ad2c46ace1e101f28ef463?utm_campaign=1057&utm_source=git)** | Macomb, MI | On Site | Aug 02 |
 | ↳ | **[Zero-Cost Tech Fundamentals Program - Break into Tech!](https://jobright.ai/jobs/info/66ad2c46ace1e101f28ef46a?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Aug 02 |
 | **[UC Irvine](http://uci.edu)** | **[Open Positions - Postdoctoral Scholar (2024-2025 Pool Ad)](https://jobright.ai/jobs/info/66ac8d6ef850058e3cf9441b?utm_campaign=1057&utm_source=git)** | Irvine, CA | On Site | Aug 02 |
 | **[NPower](http://www.npower.org/)** | **[Free Tech Fundamentals Program](https://jobright.ai/jobs/info/66ad0e28c83a6961c5c34acf?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Aug 02 |
@@ -113,13 +112,13 @@ For a complete list, see the full spreadsheet below:
 | **[The Ohio State University](http://www.osu.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/66ac9abbb5ca824c43943d41?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Aug 02 |
 | **[Marketeq Digital](http://www.marketeqdigital.com)** | **[Instructional Design Internship](https://jobright.ai/jobs/info/66ac43b6de3e9bebe177ef37?utm_campaign=1057&utm_source=git)** | United States | Hybrid | Aug 02 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Development Student Worker - College of Forestry, Wildlife and Environment](https://jobright.ai/jobs/info/66ac8a25b556873e6d502352?utm_campaign=1057&utm_source=git)** | Auburn, AL | On Site | Aug 02 |
-| **[Stevens Institute of Technology](http://www.stevens.edu/)** | **[Federal Work Study: Student Text Analysis Manager (Undergraduate)](https://jobright.ai/jobs/info/66ac889287054f1bf32aaccc?utm_campaign=1057&utm_source=git)** | Hoboken, NJ | On Site | Aug 01 |
 | **[PSU Industrial Engineering](https://www.ime.psu.edu/)** | **[Part-Time College of IST Assistant](https://jobright.ai/jobs/info/66ac2d68a40c00b49f42b239?utm_campaign=1057&utm_source=git)** | University Park, PA | On Site | Aug 01 |
 | ↳ | **[Part-Time Fall Teaching Assistant, MKTG 437 - Smeal College of Business, Marketing Department](https://jobright.ai/jobs/info/66ac396818f1842a781472e8?utm_campaign=1057&utm_source=git)** | University Park, PA | On Site | Aug 01 |
 | **[Department of Health Care Services](https://www.dhcs.ca.gov)** | **[Student Assistant](https://jobright.ai/jobs/info/66ac24318073eacba53200c0?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Aug 01 |
+| **[Stevens Institute of Technology](http://www.stevens.edu/)** | **[Federal Work Study: Student Text Analysis Manager (Undergraduate)](https://jobright.ai/jobs/info/66ac19e6f7b93a3fc757675c?utm_campaign=1057&utm_source=git)** | Hoboken, NJ | On Site | Aug 01 |
 | **[PSU Industrial Engineering](https://www.ime.psu.edu/)** | **[Part-Time Fall Teaching Assistant, MKTG 330 - Smeal College of Business, Marketing Department](https://jobright.ai/jobs/info/66ac5ce5b821cac9db1ad5be?utm_campaign=1057&utm_source=git)** | University Park, PA | On Site | Aug 01 |
 | **[Austin Community College](http://austincc.edu)** | **[Health Sciences Programs Research Intern (Hourly)](https://jobright.ai/jobs/info/66ac20afed5fab398c720faf?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Aug 01 |
-| **[State of Michigan](http://www.michigan.gov)** | **[Student Assistant](https://jobright.ai/jobs/info/66ac20afed5fab398c720fc8?utm_campaign=1057&utm_source=git)** | Lansing, MI | On Site | Aug 01 |
+| **[State of Michigan](http://www.michigan.gov)** | **[Student Assistant](https://jobright.ai/jobs/info/66ac20afed5fab398c720fce?utm_campaign=1057&utm_source=git)** | Lansing, MI | On Site | Aug 01 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Career Development Intern (Fall 2024)](https://jobright.ai/jobs/info/66a81e5865dce2830c9c2943?utm_campaign=1057&utm_source=git)** | Richmond, VA | Hybrid | Aug 01 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Laboratory Undergraduate Work Study - UMR Students Only](https://jobright.ai/jobs/info/66ac4f05da3427b71530f6e8?utm_campaign=1057&utm_source=git)** | Rochester, MN | On Site | Aug 01 |
 | **[BUCKS COUNTY IU 22 SCHOOL DISTRICT](https://www.linkedin.com/company/55768935)** | **[Behavior Analyst - Flexible, school calendar work schedule](https://jobright.ai/jobs/info/66ac36b6049f0aa6573c5b41?utm_campaign=1057&utm_source=git)** | Pittstown, NJ | On Site | Aug 01 |
@@ -263,12 +262,10 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Break into Tech! - Cero-Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/66ad3994ab97d7845bbc550e?utm_campaign=1057&utm_source=git)** | Rosedale, MD | On Site | Jul 29 |
 | ↳ | **[No Cost Tech Fundamentals Program - Break into Tech! (San Antonio, TX)](https://jobright.ai/jobs/info/66ad3994ab97d7845bbc550f?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jul 29 |
 | ↳ | **[Launch Your Tech Career: FREE Tech/IT Fundamentals Program -](https://jobright.ai/jobs/info/66ad3994ab97d7845bbc5512?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | Jul 29 |
-| ↳ | **[No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/66ad376664077816f328ac77?utm_campaign=1057&utm_source=git)** | Catonsville, MD | On Site | Jul 29 |
 | **[Cal Poly Associated Students, Inc](http://www.asi.calpoly.edu/)** | **[Musical Entertainment Student Assistant (ASI Events)](https://jobright.ai/jobs/info/66a7ffc54ee388451baec144?utm_campaign=1057&utm_source=git)** | San Luis Obispo, CA | On Site | Jul 29 |
 | **[NPower](http://www.npower.org/)** | **[Launch Your Tech Career: Cost-Free Tech/IT Fundamentals Program -](https://jobright.ai/jobs/info/66ad376664077816f328ac83?utm_campaign=1057&utm_source=git)** | East St Louis, IL | On Site | Jul 29 |
 | ↳ | **[Break into Tech! - Cero-Cost Tech Fundamentals Program (St. Louis, MO)](https://jobright.ai/jobs/info/66ad376664077816f328ac87?utm_campaign=1057&utm_source=git)** | West Alton, MO | On Site | Jul 29 |
 | ↳ | **[Start Your Tech Journey: Cost-Free Tech/IT Fundamentals Program -](https://jobright.ai/jobs/info/66ad3095b45aa3b700a76777?utm_campaign=1057&utm_source=git)** | Mesquite, TX | On Site | Jul 29 |
-| ↳ | **[FREE Tech Fundamentals Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66ad3095b45aa3b700a76779?utm_campaign=1057&utm_source=git)** | Rosedale, MD | On Site | Jul 29 |
 | ↳ | **[FREE Tech Fundamental Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66ad2e3ea8e969202be1009d?utm_campaign=1057&utm_source=git)** | Mesquite, TX | On Site | Jul 29 |
 | ↳ | **[Tech Fundamentals Program (Zero-Cost) - Get exposure to leading technologies! (Baltimore, MD)](https://jobright.ai/jobs/info/66ad2e3ea8e969202be1009e?utm_campaign=1057&utm_source=git)** | Rosedale, MD | On Site | Jul 29 |
 | ↳ | **[No Cost Tech Fundamentals Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66ad2e3ea8e969202be100a0?utm_campaign=1057&utm_source=git)** | Glen Burnie, MD | On Site | Jul 29 |
@@ -281,7 +278,6 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Break into Tech! - Cero-Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/66ad2e3ea8e969202be100af?utm_campaign=1057&utm_source=git)** | Glen Burnie, MD | On Site | Jul 29 |
 | ↳ | **[Tech Fundamentals Program - Break into Tech! (Dallas, TX)](https://jobright.ai/jobs/info/66ad2e3ea8e969202be100b4?utm_campaign=1057&utm_source=git)** | Richardson, TX | On Site | Jul 29 |
 | ↳ | **[No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/66ad2e3ea8e969202be100b5?utm_campaign=1057&utm_source=git)** | Parkville, MD | On Site | Jul 29 |
-| ↳ | **[Zero-Cost Tech Fundamentals Program - Opportunity to earn industry-recognized certifications](https://jobright.ai/jobs/info/66ad2e3ea8e969202be100bb?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | Jul 29 |
 | ↳ | **[FREE Tech Fundamentals Program - Unlock Your Future in Tech (St. Louis, MO)](https://jobright.ai/jobs/info/66ad1a81c8fbee58e55c371a?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Jul 29 |
 | ↳ | **[Start Your Tech Journey - FREE Tech/IT Fundamentals Program -](https://jobright.ai/jobs/info/66ad1a81c8fbee58e55c371b?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Jul 29 |
 | ↳ | **[No Cost Tech Fundamentals Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66ad1a81c8fbee58e55c371d?utm_campaign=1057&utm_source=git)** | Parkville, MD | On Site | Jul 29 |
@@ -317,7 +313,7 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Free Tech Fundamentals Program](https://jobright.ai/jobs/info/66acc316dee6862bd03d94cf?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Jul 29 |
 | ↳ | **[FREE Tech Fundamental Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66ae12880d2627dfaafde8dc?utm_campaign=1057&utm_source=git)** | Rosedale, MD | On Site | Jul 29 |
 | ↳ | **[FREE Tech Fundamental Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66acb9d911d9bf15c3a79787?utm_campaign=1057&utm_source=git)** | Duncanville, TX | On Site | Jul 29 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[2025 - Summer Associate Internship - Global Markets: Quantitative Research and Trading](https://jobright.ai/jobs/info/66a7a01399724c389555679b?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 29 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[2025 - Summer Associate Internship - Global Markets: Quantitative Research and Trading](https://jobright.ai/jobs/info/66a770071280bae4e89f4393?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 29 |
 | **[Gray TV](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP FALL '24 - WWSB](https://jobright.ai/jobs/info/66a8568cba9566a1ee491cd3?utm_campaign=1057&utm_source=git)** | Sarasota, FL | On Site | Jul 29 |
 | **[Education Service Center Region 2](https://www.esc2.net)** | **[2024-2025 EC-6 Generalist](https://jobright.ai/jobs/info/66a6fa24daf5dfad347301c0?utm_campaign=1057&utm_source=git)** | Corpus Christi, TX | On Site | Jul 29 |
 | **[Woodland Hills School District](http://www.whsd.net)** | **[EDR- Student Council Sponsor](https://jobright.ai/jobs/info/66a830e96ea7ac216c511f2c?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Jul 29 |
