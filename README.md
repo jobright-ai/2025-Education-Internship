@@ -58,6 +58,7 @@ For a complete list, see the full spreadsheet below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[IBM](http://www.ibm.com)** | **[2025 Returning Intern](https://jobright.ai/jobs/info/66adb2f2504b81b9e6d67d3b?utm_campaign=1057&utm_source=git)** | Armonk, NY | On Site | Aug 03 |
+| **[Jacksonville State University](http://www.jsu.edu/)** | **[University Student Assistant - SSC 2nd Floor Front Desk Assistant (Fall 2024 - Spring 2025)](https://jobright.ai/jobs/info/66adc32af4d3950a012e2643?utm_campaign=1057&utm_source=git)** | Metro Jacksonville | On Site | Aug 03 |
 | **[Cincinnati Children’s](http://cincinnatichildrens.org)** | **[Student III - Communication Sciences Res Ctr](https://jobright.ai/jobs/info/66ad9710ccbd506bf3cb7747?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Aug 03 |
 | **[Macquarie Group](https://www.macquarie.com)** | **[2025 Risk Management Group Summer Internship Program](https://jobright.ai/jobs/info/66ad9246c79223f1e478e4c9?utm_campaign=1057&utm_source=git)** | New York, United States | On Site | Aug 03 |
 | ↳ | **[2025 Technology Summer Internship Program](https://jobright.ai/jobs/info/66ad9246c79223f1e478e4ca?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Aug 03 |
@@ -88,17 +89,17 @@ For a complete list, see the full spreadsheet below:
 | **[NPower](http://www.npower.org/)** | **[Zero-cost Tech Fundamentals Program - Get exposure to leading technologies](https://jobright.ai/jobs/info/66ad2c46ace1e101f28ef450?utm_campaign=1057&utm_source=git)** | Jamaica, NY | On Site | Aug 02 |
 | ↳ | **[Tech Fundamentals Program (Zero-Cost) - Get exposure to leading technologies!](https://jobright.ai/jobs/info/66ad2c46ace1e101f28ef451?utm_campaign=1057&utm_source=git)** | Canton, MI | On Site | Aug 02 |
 | ↳ | **[Zero Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/66ad2c46ace1e101f28ef452?utm_campaign=1057&utm_source=git)** | Pasadena, TX | On Site | Aug 02 |
-| ↳ | **[Free Tech Fundamentals Program](https://jobright.ai/jobs/info/66ad2c46ace1e101f28ef454?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Aug 02 |
-| ↳ | **[No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/66ad2c46ace1e101f28ef459?utm_campaign=1057&utm_source=git)** | Lincoln Park, MI | On Site | Aug 02 |
-| ↳ | **[Tech Fundamentals Program (No-Cost) - Get exposure to leading technologies!](https://jobright.ai/jobs/info/66ad2c46ace1e101f28ef45a?utm_campaign=1057&utm_source=git)** | West Bloomfield Township, MI | On Site | Aug 02 |
 | ↳ | **[FREE Tech Fundamentals Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66ad2c46ace1e101f28ef45b?utm_campaign=1057&utm_source=git)** | Jamaica, NY | On Site | Aug 02 |
+| ↳ | **[Tech Fundamentals Program (No-Cost) - Get exposure to leading technologies!](https://jobright.ai/jobs/info/66ad2c46ace1e101f28ef45a?utm_campaign=1057&utm_source=git)** | West Bloomfield Township, MI | On Site | Aug 02 |
+| ↳ | **[No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/66ad2c46ace1e101f28ef459?utm_campaign=1057&utm_source=git)** | Lincoln Park, MI | On Site | Aug 02 |
 | ↳ | **[Free Tech Fundamentals Program](https://jobright.ai/jobs/info/66ad2c46ace1e101f28ef45f?utm_campaign=1057&utm_source=git)** | Roseville, MI | On Site | Aug 02 |
-| ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/66ad2c46ace1e101f28ef462?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Aug 02 |
-| ↳ | **[No Cost Tech Fundamentals Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66ad2c46ace1e101f28ef465?utm_campaign=1057&utm_source=git)** | West Bloomfield Township, MI | On Site | Aug 02 |
 | ↳ | **[Zero-cost Tech Fundamentals Program - Get exposure to leading technologies](https://jobright.ai/jobs/info/66ad2c46ace1e101f28ef461?utm_campaign=1057&utm_source=git)** | Park, KS | On Site | Aug 02 |
 | ↳ | **[Zero-cost Tech Fundamentals Program - Get exposure to leading technologies](https://jobright.ai/jobs/info/66ad2c46ace1e101f28ef463?utm_campaign=1057&utm_source=git)** | Macomb, MI | On Site | Aug 02 |
+| ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/66ad2c46ace1e101f28ef462?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Aug 02 |
+| ↳ | **[No Cost Tech Fundamentals Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66ad2c46ace1e101f28ef465?utm_campaign=1057&utm_source=git)** | West Bloomfield Township, MI | On Site | Aug 02 |
 | ↳ | **[Zero-Cost Tech Fundamentals Program - Break into Tech!](https://jobright.ai/jobs/info/66ad2c46ace1e101f28ef46a?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Aug 02 |
 | **[UC Irvine](http://uci.edu)** | **[Open Positions - Postdoctoral Scholar (2024-2025 Pool Ad)](https://jobright.ai/jobs/info/66ac8d6ef850058e3cf9441b?utm_campaign=1057&utm_source=git)** | Irvine, CA | On Site | Aug 02 |
+| **[NPower](http://www.npower.org/)** | **[Free Tech Fundamentals Program](https://jobright.ai/jobs/info/66ad0e28c83a6961c5c34acf?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Aug 02 |
 | **[U-M Center for Entrepreneurship](https://cfe.umich.edu/)** | **[Asst. in Research (UROP/FCERP) - SUMMER 2024 (STUDENT/WORKSTUDY)](https://jobright.ai/jobs/info/66acc2f2dee6862bd03d91eb?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Aug 02 |
 | ↳ | **[U-M Presidential Post-Doctoral Fellowship- Agroecology and Biodiversity](https://jobright.ai/jobs/info/66ac9732c7adcb8eb400e143?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Aug 02 |
 | **[The Ohio State University](http://www.osu.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/66ac9abbb5ca824c43943d41?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Aug 02 |
@@ -272,8 +273,8 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Transform Your Future with Cost-Free Tech Fundamentals Program -](https://jobright.ai/jobs/info/66ad2e3ea8e969202be100a7?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | Jul 29 |
 | ↳ | **[Unlock Your Future! - Free Tech Fundamentals Program](https://jobright.ai/jobs/info/66ad2e3ea8e969202be100a8?utm_campaign=1057&utm_source=git)** | Perry Hall, MD | On Site | Jul 29 |
 | ↳ | **[No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/66ad2e3ea8e969202be100aa?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | Jul 29 |
-| ↳ | **[Break into Tech! - Cero-Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/66ad2e3ea8e969202be100af?utm_campaign=1057&utm_source=git)** | Glen Burnie, MD | On Site | Jul 29 |
 | ↳ | **[Tech Fundamentals Program (No-Cost) - Get exposure to leading technologies! (Dallas, TX)](https://jobright.ai/jobs/info/66ad2e3ea8e969202be100ae?utm_campaign=1057&utm_source=git)** | Garland, TX | On Site | Jul 29 |
+| ↳ | **[Break into Tech! - Cero-Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/66ad2e3ea8e969202be100af?utm_campaign=1057&utm_source=git)** | Glen Burnie, MD | On Site | Jul 29 |
 | ↳ | **[Tech Fundamentals Program - Break into Tech! (Dallas, TX)](https://jobright.ai/jobs/info/66ad2e3ea8e969202be100b4?utm_campaign=1057&utm_source=git)** | Richardson, TX | On Site | Jul 29 |
 | ↳ | **[No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/66ad2e3ea8e969202be100b5?utm_campaign=1057&utm_source=git)** | Parkville, MD | On Site | Jul 29 |
 | ↳ | **[Zero-Cost Tech Fundamentals Program - Opportunity to earn industry-recognized certifications](https://jobright.ai/jobs/info/66ad2e3ea8e969202be100bb?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | Jul 29 |
@@ -304,11 +305,11 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Free Tech Fundamentals Program](https://jobright.ai/jobs/info/66ace9ba8ba80894689736d9?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jul 29 |
 | ↳ | **[Tech Fundamentals Program (No-Cost) - Get exposure to leading technologies!](https://jobright.ai/jobs/info/66ace05d4ded8db0c1541c6b?utm_campaign=1057&utm_source=git)** | Catonsville, MD | On Site | Jul 29 |
 | ↳ | **[No Cost Tech Fundamentals Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66ace05d4ded8db0c1541c6f?utm_campaign=1057&utm_source=git)** | Duncanville, TX | On Site | Jul 29 |
-| ↳ | **[No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/66ace05d4ded8db0c1541c71?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Jul 29 |
+| **[Davenport University](http://www.davenport.edu/)** | **[(Student) Technical Labs Assistant - copy](https://jobright.ai/jobs/info/66ace05d4ded8db0c1541c70?utm_campaign=1057&utm_source=git)** | Grand Rapids, MI | On Site | Jul 29 |
+| **[NPower](http://www.npower.org/)** | **[No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/66ace05d4ded8db0c1541c71?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Jul 29 |
 | ↳ | **[Launch Your Tech Career: Cost-Free Tech/IT Fundamentals Program -](https://jobright.ai/jobs/info/66acdc5dd6d678557d6edf61?utm_campaign=1057&utm_source=git)** | Duncanville, TX | On Site | Jul 29 |
 | ↳ | **[FREE Tech Fundamental Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66acdc5dd6d678557d6edf65?utm_campaign=1057&utm_source=git)** | Pikesville, MD | On Site | Jul 29 |
 | ↳ | **[FREE Tech Fundamental Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66acdc5dd6d678557d6edf66?utm_campaign=1057&utm_source=git)** | Parkville, MD | On Site | Jul 29 |
-| ↳ | **[FREE Tech Fundamental Program - Get exposure to leading technologies! (St. Louis, MO)](https://jobright.ai/jobs/info/66acd78aada8ad3004a70bad?utm_campaign=1057&utm_source=git)** | Roxana, IL | On Site | Jul 29 |
 | ↳ | **[Transform Your Future with Cost-Free Tech Fundamentals Program -](https://jobright.ai/jobs/info/66acd78aada8ad3004a70bae?utm_campaign=1057&utm_source=git)** | Catonsville, MD | On Site | Jul 29 |
 | ↳ | **[Zero-Cost Tech Fundamentals Program - Opportunity to earn industry-recognized certifications](https://jobright.ai/jobs/info/66acc560bd5b0dd7b47ea728?utm_campaign=1057&utm_source=git)** | Perry Hall, MD | On Site | Jul 29 |
 | ↳ | **[Tech Fundamentals Program (Zero-Cost) - Get exposure to leading technologies! (Baltimore, MD)](https://jobright.ai/jobs/info/66acc560bd5b0dd7b47ea72a?utm_campaign=1057&utm_source=git)** | Glen Burnie, MD | On Site | Jul 29 |
@@ -318,7 +319,6 @@ For a complete list, see the full spreadsheet below:
 | **[Gray TV](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP FALL '24 - WWSB](https://jobright.ai/jobs/info/66a8568cba9566a1ee491cd3?utm_campaign=1057&utm_source=git)** | Sarasota, FL | On Site | Jul 29 |
 | **[Education Service Center Region 2](https://www.esc2.net)** | **[2024-2025 EC-6 Generalist](https://jobright.ai/jobs/info/66a6fa24daf5dfad347301c0?utm_campaign=1057&utm_source=git)** | Corpus Christi, TX | On Site | Jul 29 |
 | **[Woodland Hills School District](http://www.whsd.net)** | **[EDR- Student Council Sponsor](https://jobright.ai/jobs/info/66a830e96ea7ac216c511f2c?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Jul 29 |
-| **[Davenport University](http://www.davenport.edu/)** | **[(Student) Technical Labs Assistant - copy](https://jobright.ai/jobs/info/66ad78170065cf053efee811?utm_campaign=1057&utm_source=git)** | Grand Rapids, MI | On Site | Jul 29 |
 | **[New York Botanical Garden](http://www.nybg.org)** | **[GreenSchool Science Education Intern](https://jobright.ai/jobs/info/66a7ddeefcc606a6ccf4c35c?utm_campaign=1057&utm_source=git)** | Bronx, New York | On Site | Jul 29 |
 | **[NPower](http://www.npower.org/)** | **[FREE Tech Fundamental Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66ad525d2e2c6505d814234b?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | Jul 28 |
 | ↳ | **[FREE Tech Fundamental Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66ad3f8ce234479a3235714a?utm_campaign=1057&utm_source=git)** | Richardson, TX | On Site | Jul 28 |
