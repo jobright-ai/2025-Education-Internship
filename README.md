@@ -57,222 +57,127 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Immanuel](https://www.immanuel.com)** | **[Information Technology College Intern](https://jobright.ai/jobs/info/66bad2e067e278d84bf74b87?utm_campaign=1057&utm_source=git)** | Omaha, NE | On Site | Aug 12 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Bachelor's Apprenticeship Program - RCIS Underwriting (January 2025)](https://jobright.ai/jobs/info/66baa37c7c5957dc2d20b6dd?utm_campaign=1057&utm_source=git)** | Multi Location
 Sioux Falls, SD
-Winston-Salem, NC | Hybrid | Aug 12 |
+Winston-Salem, NC
+Fresno, CA | Hybrid | Aug 12 |
 | ↳ | **[Bachelor's Apprenticeship Program - TPA Claims (January 2025)](https://jobright.ai/jobs/info/66baa37c7c5957dc2d20b6eb?utm_campaign=1057&utm_source=git)** | Schaumburg, IL | Hybrid | Aug 12 |
+| **[Stevens Institute of Technology](http://www.stevens.edu/)** | **[Summer Work Crew](https://jobright.ai/jobs/info/66bad2e067e278d84bf74c42?utm_campaign=1057&utm_source=git)** | Hoboken, NJ | On Site | Aug 12 |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[N99983 Financial Aid Specialist - Broken Arrow Campus](https://jobright.ai/jobs/info/66bad30867e278d84bf751ea?utm_campaign=1057&utm_source=git)** | Broken Arrow, OK | On Site | Aug 12 |
 | **[University of Illinois Chicago](https://uic.edu)** | **[Grad Hourly - Research Development - OVCR](https://jobright.ai/jobs/info/66ba9882312155a4ce631c31?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Aug 12 |
-| **[State of South Carolina](https://sc.gov/)** | **[Student Services Program Coordinator II - Clemson Design Ctr - Charleston SC](https://jobright.ai/jobs/info/66ba9fcc72468022fd446985?utm_campaign=1057&utm_source=git)** | Charleston County, SC | On Site | Aug 12 |
-| **[Deutsche Bank](https://www.db.com)** | **[Deutsche Bank Internship Program - Technology, Data and Innovation (TDI) - New York 2025](https://jobright.ai/jobs/info/66ba8f7ec77953bdbc4d5719?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Aug 12 |
+| **[U-M Center for Entrepreneurship](https://cfe.umich.edu/)** | **[Student Preschool Classroom Assistant (Student Temp)](https://jobright.ai/jobs/info/66bad59419df530760e6142a?utm_campaign=1057&utm_source=git)** | Dearborn, MI | On Site | Aug 12 |
+| **[Deutsche Bank](https://www.db.com)** | **[Deutsche Bank Internship Programme - Technology, Data and Innovation (TDI) – Cary 2025](https://jobright.ai/jobs/info/66bab282d86b7ae3a1294cec?utm_campaign=1057&utm_source=git)** | Cary, NC | Hybrid | Aug 12 |
+| ↳ | **[Deutsche Bank Internship Program - Technology, Data and Innovation (TDI) - New York 2025](https://jobright.ai/jobs/info/66ba8f7ec77953bdbc4d5719?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Aug 12 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[UTS - Temporary Undergraduate Admissions International Reader at NC State](https://jobright.ai/jobs/info/66ba9442d6d1c383649da184?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Aug 12 |
 | **[Legacy International](https://legacyintl.org)** | **[Program Development and Communications Internship with TechGirls](https://jobright.ai/jobs/info/66ba7b73ac76395484a8434d?utm_campaign=1057&utm_source=git)** | United States | Remote | Aug 12 |
 | **[Anne Arundel County Public Schools](https://www.aacps.org/)** | **[Interpreter: International Family & Student Welcome (IWC)](https://jobright.ai/jobs/info/66ba4629abb9394565295108?utm_campaign=1057&utm_source=git)** | Annapolis, MD | On Site | Aug 12 |
 | **[University of Central Oklahoma](http://www.uco.edu/)** | **[Regular Student Clerical - Office of Global Affairs](https://jobright.ai/jobs/info/66b69958fc21387c6d021ad1?utm_campaign=1057&utm_source=git)** | Edmond, OK | On Site | Aug 12 |
-| **[California Department of Insurance](https://www.insurance.ca.gov)** | **[STUDENT ASSISTANT](https://jobright.ai/jobs/info/66ba483e721dbb8aeb01b341?utm_campaign=1057&utm_source=git)** | Multi Location
-Glendale, CA
+| **[California Department of Insurance](https://www.insurance.ca.gov)** | **[STUDENT ASSISTANT](https://jobright.ai/jobs/info/66ba36a049668dc1b4512f98?utm_campaign=1057&utm_source=git)** | Multi Location
+Long Beach, CA
 Los Angeles, CA
-Long Beach, CA | On Site | Aug 12 |
+Glendale, CA | On Site | Aug 12 |
 | **[Fifth Third Bank](http://53.com)** | **[Wealth and Asset Management College Co-op - FULL TIME January 2025 - May 2025](https://jobright.ai/jobs/info/66ba3b63e3010743906cbf56?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Aug 12 |
 | **[UC San Diego](https://extension.ucsd.edu/)** | **[Postdoctoral Scholars - University California, San Diego - Multi-Disciplinary, Multi-Hire (FY 24-25)](https://jobright.ai/jobs/info/66ba3371abe22637cfe1aa04?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Aug 12 |
 | **[Castle Montessori](http://www.CastleMontessori.com)** | **[Montessori Classroom Assistant](https://jobright.ai/jobs/info/66ba3d5e8912456bd1cfae4c?utm_campaign=1057&utm_source=git)** | Flower Mound, TX | On Site | Aug 12 |
 | **[BNY Mellon](http://www.bnymellon.com)** | **[2025 BNY Mellon Summer Internship Program - Chief Administration Office (Lake Mary, FL)](https://jobright.ai/jobs/info/66b0f391b9c93bac042c308c?utm_campaign=1057&utm_source=git)** | Lake Mary, FL | On Site | Aug 12 |
-| **[NPower](http://www.npower.org/)** | **[FREE Virtual Tech Fundamental Program - Accepting early applications for 2025](https://jobright.ai/jobs/info/66ba0b48100403066eeb3e8e?utm_campaign=1057&utm_source=git)** | Multi Location
-Ridgewood, NJ
-Perry Hall, MD
-Hanover, MD
-Houston, OH
-Grosse Pointe, MI
-Taylor, MI
-Roseville, MI
-Sims, NC
-Raleigh, NC
-Columbia, MD
-Clarksville, OH
-Wilmington, OH
-Carrboro, NC
-Cedarville, OH
-Adkins, TX
-Lake St Louis, MO
-Cary, NC
-Missouri City, TX
-Park, KS
-Bunnlevel, NC
-Nottingham, MD
-Coats, NC
-Hamtramck, MI
-Grafton, IL
-East St Louis, IL
-Springfield, OH
-Apex, NC
-Renault, IL
-St Jacob, IL
-Smithfield, NC
-Fidelity, IL
-St Peters, MO
-Fairview Heights, IL
-West Alexandria, OH
-Fults, IL
-Durham, NC
-Covington, OH
-Springboro, OH
-Willow Spring, NC
-Bahama, NC
-Florissant, MO
-Bellbrook, OH
-Queens, NY
-New York, NY
-Richmond Hill, GA
-Lincoln Park, MI
-Maeystown, IL
-Morrow, OH
-West Milton, OH
-Butner, NC
-Selma, NC
-Spring Hope, NC
-Belleville, MI
-Madison, IL
-South Vienna, OH
-West Alton, MO
-Lewisburg, OH
-Oregonia, OH
-Gwynn Oak, MD
-St Louis, MO
-Pikesville, MD
-Holly Springs, NC
-Clayton, NC
-Roxana, IL
-Fuquay-Varina, NC
-Louisburg, NC
-Miamisburg, OH
-Parkville, MD
-Trenton, OH
-St Charles, MO
-Houston, TX
-Wendell, NC
-Middle Village, NY
-Creedmoor, NC
-Angier, NC
-Dallas, TX
-Glencoe, IL
-Detroit, MI
-Laura, OH
-Grand Prairie, TX
-Erwin, NC
-Albers, IL
-Monroe, OH
-Barnhart, MO
-Mason, OH
-Hecker, IL
-Benson, NC
-Pittsboro, NC
-White Marsh Station, MD
-Ballwin, MO
-Jamaica, NY
-Eastpointe, MI
-Kenly, NC
-Fairfield, OH
-New Baden, IL
-Hillsborough, NC
-Pasadena, TX
-Canton, MI
-Brooklyn, NY
-Dearborn, MI
-Red Bud, IL
-Sabina, OH
-Rolesville, NC
-Urbana, OH
-Duncanville, TX
-South Lebanon, OH
-Maineville, OH
-Stem, NC
-Cincinnati, OH
-Middlesex, NC
-Brookville, OH
-Kittrell, NC
-Zebulon, NC
-Garner, NC
-Garland, TX
-Carrollton, TX
-Rosedale, MD
+| **[NPower](http://www.npower.org/)** | **[Register Now for 2025 Free Tech Certifications!](https://jobright.ai/jobs/info/66ba54e5f046841e1dfadb0a?utm_campaign=1057&utm_source=git)** | Multi Location
+Livonia, MI
 Woodside, NY
+Perry Hall, MD
+Pleasant Hill, OH
+Alhambra, IL
+Romulus, MI
+Missouri City, TX
+Macomb, MI
+Redford, MI
+New York, NY
+Westland, MI
+Kenly, NC
+Wendell, NC
+Richmond Hill, GA
 Catonsville, MD
-Lancaster, TX
-St Ann, MO
-Bailey, NC
-Cedar Hill, MO
-Smithton, IL
-Staunton, IL
-Chapel Hill, NC
-Dunn, NC
-Middle River, MD
-Knightdale, NC
-Richardson, TX
-Pacific, MO
-Moncure, NC
-Baltimore, MD
-Bradford, OH
-Cibolo, TX | On Site | Aug 12 |
+Middletown, OH
+Eldorado, OH
+Troy, IL
+Defiance, MO
+Wilmington, OH
+Hillsboro, MO
+St Louis, MO
+Bunker Hill, IL
+Elmendorf, TX
+Marine, IL
+Chesterfield, MO
+Cottage Hills, IL
+Brighton, IL
+Ridgewood, NJ
+Grosse Pointe, MI
+Dearborn Heights, MI
+Roseville, MI
+Lincoln Park, MI
+Belleville, MI
+Queens, NY
+Dearborn, MI
+Detroit, MI
+Taylor, MI
+Troy, OH
+Maryland Heights, MO
+West Chester, OH
+Arnold, MO
+Glen Carbon, IL
+Bethalto, IL
+Germantown, OH
+Dorsey, IL
+College Corner, OH
+Hamilton, OH
+Clarksville, OH
+Fenton, MO
+St Peters, MO
+Elsah, IL | On Site | Aug 12 |
 | **[ACCEL Schools](http://www.accelschools.com)** | **[Student Success Coach](https://jobright.ai/jobs/info/66b997bf8542bbc94933c9b5?utm_campaign=1057&utm_source=git)** | Cape Coral Metro | On Site | Aug 12 |
 | **[University of Florida](https://www.ufl.edu)** | **[Student Training & Development Assistant](https://jobright.ai/jobs/info/66ba5dd684c0e8e5b985be3c?utm_campaign=1057&utm_source=git)** | Gainesville, FL | On Site | Aug 12 |
 | **[Brightline](https://www.hellobrightline.com)** | **[BrightLife Kids - Community Engagement Intern](https://jobright.ai/jobs/info/66ba54e5f046841e1dfad965?utm_campaign=1057&utm_source=git)** | California  | On Site | Aug 12 |
-| **[NPower](http://www.npower.org/)** | **[FREE Tech Fundamental Program - Opportunity to earn industry-recognized certifications -'-](https://jobright.ai/jobs/info/66b95f1a7876aaf382c74b07?utm_campaign=1057&utm_source=git)** | Multi Location
-Eldorado, OH
-St Louis, MO
-Arnold, MO
-Brighton, IL
-Hillsboro, MO
-Mason, OH | On Site | Aug 11 |
-| ↳ | **[Opportunity to obtain Free Google IT Support Certification (2025 Early Enrollment)](https://jobright.ai/jobs/info/66b94a4b76c739abc7d0390e?utm_campaign=1057&utm_source=git)** | Multi Location
-St Peters, MO
-Richardson, TX
-Elmendorf, TX
-New York, NY
-St Louis, MO
-Maryland Heights, MO
+| **[NPower](http://www.npower.org/)** | **[Opportunity to obtain Free Google IT Support Certification (2025 Early Enrollment)](https://jobright.ai/jobs/info/66b95aab4e28138cdff9a587?utm_campaign=1057&utm_source=git)** | Multi Location
 Bunker Hill, IL
+Richardson, TX
+Cottage Hills, IL
+Chesterfield, MO
+Fenton, MO
+Wendell, NC
+Glen Carbon, IL
+Pleasant Hill, OH
+Brighton, IL
 West Chester, OH
 Hamilton, OH
 Middletown, OH
-Cottage Hills, IL
-Glen Carbon, IL
-Wendell, NC
-Fenton, MO
-Chesterfield, MO
-Pleasant Hill, OH
-Brighton, IL | On Site | Aug 11 |
+New York, NY
+St Louis, MO
+Elmendorf, TX
+St Peters, MO
+Maryland Heights, MO | On Site | Aug 11 |
 | ↳ | **[No-Cost Tech Fundamental Program - Earn industry-recognized certifications (St. Louis, MO) -'-](https://jobright.ai/jobs/info/66b8f426fb154dd7f9aa8484?utm_campaign=1057&utm_source=git)** | Troy, IL | On Site | Aug 11 |
+| ↳ | **[FREE Tech Fundamental Program - Get exposure to leading technologies! (Dayton, OH) -'-](https://jobright.ai/jobs/info/66b8f426fb154dd7f9aa8485?utm_campaign=1057&utm_source=git)** | Multi Location
+West Chester, OH
+Fairfield, OH | On Site | Aug 11 |
 | ↳ | **[Tech Fundamentals Program (No-Cost) - Get exposure to leading technologies! (St. Louis, MO) -'-](https://jobright.ai/jobs/info/66b8f426fb154dd7f9aa8486?utm_campaign=1057&utm_source=git)** | Arnold, MO | On Site | Aug 11 |
 | **[Lidl](https://www.lidl.de/)** | **[Ausbildung Kaufmann im Einzelhandel 08.2025 (m/w/d)](https://jobright.ai/jobs/info/66b901e451782ce6d1503410?utm_campaign=1057&utm_source=git)** | Germany, PA | On Site | Aug 11 |
 | **[Greenwood Project](http://www.greenwoodproject.org)** | **[2025 Greenwood Project Scholar Internship](https://jobright.ai/jobs/info/667f171e67cd08a9a3f3ee8b?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Aug 11 |
 | **[Regents School of Austin](https://www.regentsaustin.org)** | **[2025-2026 Residency at Regents](https://jobright.ai/jobs/info/66b7f1ba56bc1328871719cf?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Aug 10 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[2025 Summer Intern - Finance MBA Leadership Development Program](https://jobright.ai/jobs/info/66624742cb390f9013be2429?utm_campaign=1057&utm_source=git)** | Multi Location
-Spring House, PA
-Titusville, NJ
-Piscataway, NJ
-Raritan, NJ
-Philadelphia, PA
-Horsham, PA
-New Brunswick, NJ | On Site | Aug 10 |
 | **[BD](https://www.bd.com)** | **[2025 BD Summer Internship Program - Edge Intern (Technology & Global Services)](https://jobright.ai/jobs/info/66b7b660294116657d32f07f?utm_campaign=1057&utm_source=git)** | Franklin Lakes, NJ | Hybrid | Aug 10 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Psychological Asst & Psychologist ASD - Hybrid - EVG](https://jobright.ai/jobs/info/66b7b39e55c2923f2971bdf9?utm_campaign=1057&utm_source=git)** | San Jose, CA | Hybrid | Aug 10 |
 | **[NPower](http://www.npower.org/)** | **[No Cost Tech Fundamentals Program - Launching Your Tech Career! (St. Louis, MO) -'-](https://jobright.ai/jobs/info/66b7b118efd23a9c15e4ea9b?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Aug 10 |
 | ↳ | **[Tech Fundamentals Program (Free) - Get exposure to leading technologies! (St. Louis, MO)-'-](https://jobright.ai/jobs/info/66b7b39e55c2923f2971bec0?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Aug 10 |
 | **[Castle Montessori](http://www.CastleMontessori.com)** | **[Summer Primary Classroom Assistant at Castle Hills Montessori](https://jobright.ai/jobs/info/66b7bbba9c845446896e2c46?utm_campaign=1057&utm_source=git)** | Carrollton, TX | On Site | Aug 10 |
-| **[NPower](http://www.npower.org/)** | **[Unlock your Future - FREE Tech Fundamentals Program](https://jobright.ai/jobs/info/66b9efd55a07dfcbdfb014a9?utm_campaign=1057&utm_source=git)** | Multi Location
-Cibolo, TX
-Dallas, TX
-St Louis, MO
-Mason, OH
-Moncure, NC
-Gwynn Oak, MD
-Nottingham, MD
-Knightdale, NC
-Adkins, TX
-White Marsh Station, MD
-Linthicum Heights, MD
-Phoenix, MD | On Site | Aug 10 |
 | **[Seattle Children’s](https://www.seattlechildrens.org/)** | **[Student Helper-  Research](https://jobright.ai/jobs/info/66b7487e97e0ed928278c84a?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Aug 10 |
 | **[Per Scholas](http://www.perscholas.org/)** | **[Instructional Assistant, Cybersecurity](https://jobright.ai/jobs/info/669b0b44c6285ee39451144f?utm_campaign=1057&utm_source=git)** | National, MD | On Site | Aug 10 |
+| **[Johnson & Johnson](http://www.jnj.com)** | **[2025 Summer Intern - Finance MBA Leadership Development Program](https://jobright.ai/jobs/info/66624e5794810726f31114fe?utm_campaign=1057&utm_source=git)** | Multi Location
+Raritan, NJ
+Horsham, PA
+Piscataway, NJ
+Titusville, NJ
+New Brunswick, NJ
+Philadelphia, PA
+Spring House, PA | On Site | Aug 10 |
 | **[NPower](http://www.npower.org/)** | **[Zero-Cost Tech Fundamentals Program - Launching Your Tech Career! (St. Louis, MO) -'-](https://jobright.ai/jobs/info/66b70a4820be6a59550442ae?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Aug 10 |
 | ↳ | **[Zero-Cost Tech Fundamental Program - Get exposure to leading technologies! (St. Louis, MO) -'-](https://jobright.ai/jobs/info/66b72f1fa252b58d7757c5d7?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Aug 10 |
 | ↳ | **[No-cost Tech Fundamentals Program - Get exposure to leading technologies (St. Louis, MO) -'-](https://jobright.ai/jobs/info/66b70f4d9eb842c95a7fb84e?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Aug 10 |
@@ -291,218 +196,69 @@ Phoenix, MD | On Site | Aug 10 |
 | **[University of South Carolina](https://sc.edu)** | **[Student Website Content Coordinator](https://jobright.ai/jobs/info/66b68eb6e89c2fa0e0891276?utm_campaign=1057&utm_source=git)** | SC | On Site | Aug 09 |
 | **[CGS Administrators, LLC](http://cgsmedicare.com)** | **[Part-Time Financial Internship in Springfield, IL (Year-Round)](https://jobright.ai/jobs/info/66b687bdcc8e56c8d4f74ae2?utm_campaign=1057&utm_source=git)** | Springfield, IL | On Site | Aug 09 |
 | **[Georgia Southern University](http://www.georgiasouthern.edu)** | **[Student Assistant - Criminal Justice & Criminology - Research Assistant (Fall 2024)](https://jobright.ai/jobs/info/66b687bdcc8e56c8d4f74c03?utm_campaign=1057&utm_source=git)** | Statesboro, GA | On Site | Aug 09 |
-| **[Pentair](http://www.pentair.com)** | **[IT and Cybersecurity Leadership Development Internship Program - Summer 2025](https://jobright.ai/jobs/info/66b64ffe157c49d41227d05b?utm_campaign=1057&utm_source=git)** | Golden Valley, MN | On Site | Aug 09 |
-| **[Wexford Health Sources](http://www.wexfordhealth.com)** | **[Post-Doctoral Psychologist Intern](https://jobright.ai/jobs/info/66b661b5884242ce836425b7?utm_campaign=1057&utm_source=git)** | Multi Location
-Lincoln, IL
-Pontiac, IL | On Site | Aug 09 |
+| **[Wexford Health Sources](http://www.wexfordhealth.com)** | **[Post-Doctoral Psychologist Intern](https://jobright.ai/jobs/info/66b661b5884242ce836425ca?utm_campaign=1057&utm_source=git)** | Multi Location
+Pontiac, IL
+Lincoln, IL | On Site | Aug 09 |
 | ↳ | **[Psychologist PreDoc](https://jobright.ai/jobs/info/66b64ffe157c49d41227d18d?utm_campaign=1057&utm_source=git)** | Joliet, IL | On Site | Aug 09 |
 | **[myGwork](https://www.mygwork.com/en/)** | **[Digital Tools Training Intern- Spring 2025](https://jobright.ai/jobs/info/66b743c09891edd91debd586?utm_campaign=1057&utm_source=git)** | Fort Smith, AR | On Site | Aug 09 |
 | **[NPower](http://www.npower.org/)** | **[Break into Tech! - Cero-Cost Tech Fundamentals Program (San Antonio, TX)](https://jobright.ai/jobs/info/66ba11eccba2f2761d19c4bf?utm_campaign=1057&utm_source=git)** | Multi Location
 Adkins, TX
 Schertz, TX | On Site | Aug 09 |
-| ↳ | **[No-cost Tech Fundamentals Program - Get exposure to leading technologies (San Antonio, TX)](https://jobright.ai/jobs/info/66ba06dee4eccde6f5838caa?utm_campaign=1057&utm_source=git)** | Multi Location
-Adkins, TX
-Elmendorf, TX
-Schertz, TX | On Site | Aug 09 |
 | ↳ | **[FREE Tech Fundamentals Program - Get exposure to leading technologies (San Antonio, TX)](https://jobright.ai/jobs/info/66ba030c54f867a09ab66fd5?utm_campaign=1057&utm_source=git)** | Multi Location
 Elmendorf, TX
+Schertz, TX | On Site | Aug 09 |
+| ↳ | **[No-cost Tech Fundamentals Program - Get exposure to leading technologies (San Antonio, TX)](https://jobright.ai/jobs/info/66ba030c54f867a09ab66fd6?utm_campaign=1057&utm_source=git)** | Multi Location
+Elmendorf, TX
+Adkins, TX
 Schertz, TX | On Site | Aug 09 |
 | **[American University](http://american.edu)** | **[Part-Time International Education Intern](https://jobright.ai/jobs/info/66b61d07d8f60e2c83948df9?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Aug 09 |
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Point of Care Education Development Intern](https://jobright.ai/jobs/info/66b6019dc0633bd374355318?utm_campaign=1057&utm_source=git)** | Cary, NC | On Site | Aug 09 |
 | **[GHD](http://www.ghd.com)** | **[Villanova University FY25 General](https://jobright.ai/jobs/info/66b8a3929e46c39f45c22043?utm_campaign=1057&utm_source=git)** | King of Prussia, PA | On Site | Aug 09 |
-| **[NPower](http://www.npower.org/)** | **[Tech Fundamentals Program (Free) - Get exposure to leading technologies! (Baltimore, MD)](https://jobright.ai/jobs/info/66b9f25a6f6bf0fd76666b5a?utm_campaign=1057&utm_source=git)** | Multi Location
+| **[NPower](http://www.npower.org/)** | **[Opportunity to obtain Free Tech Fundamentals+ Certification (2025 Early Enrollment)](https://jobright.ai/jobs/info/66b9eaabeb5b47ccad57bfe9?utm_campaign=1057&utm_source=git)** | Multi Location
+Glen Burnie, MD
+Middletown, OH
+New York, NY
+Clarksville, OH
+Brooklyn, NY
+Garland, TX | On Site | Aug 09 |
+| ↳ | **[Free Tech Fundamentals Program](https://jobright.ai/jobs/info/66b9eaabeb5b47ccad57c011?utm_campaign=1057&utm_source=git)** | Multi Location
 Nottingham, MD
-Gwynn Oak, MD
-White Marsh Station, MD
-Phoenix, MD
-Elkridge, MD
-Windsor Mill, MD
-Anne Arundel County, MD
-Sparrows Point, MD
-Linthicum Heights, MD | On Site | Aug 09 |
-| ↳ | **[Register for a FREE Tech Fundamental Program - Plan now for the New Year!](https://jobright.ai/jobs/info/66b9efd55a07dfcbdfb014ea?utm_campaign=1057&utm_source=git)** | Multi Location
-Jessup, MD
-Elsah, IL
-Germantown, OH
-Defiance, MO
-Hamilton, OH
-Perry Hall, MD
-Parkville, MD
-Adkins, TX
-Queens, NY
-Belleville, MI
-Wendell, NC
-Brooklyn, NY
-Detroit, MI
-Warren, MI
-Carrollton, TX
-Sunnyside, NY
-Macomb, MI
-Chesterfield, MO
-Glen Burnie, MD
-Park, KS
-Albers, IL
-Maeystown, IL
-Willow Spring, NC
-Moncure, NC
-Grand Prairie, TX
-Valmeyer, IL
-Glen Carbon, IL
-Eldorado, OH
-Brighton, IL
-Arnold, MO
-Fults, IL
-Smithfield, NC
-Middle Village, NY
-Taylor, MI
-Dearborn, MI
-New York, NY
-Spring Hope, NC
-Kenly, NC
-Roseville, MI
-Canton, MI
-Pasadena, TX
-Richmond Hill, GA
-Grosse Pointe, MI
-Selma, NC
-West Alexandria, OH
-Fuquay-Varina, NC
-Woodside, NY
-Redford, MI
-Romulus, MI
-Hamtramck, MI
-Four Oaks, NC
-Garner, NC
-Sabina, OH
-Cottage Hills, IL
-Cary, NC
-Knightdale, NC
-Holly Springs, NC
-West Manchester, OH
-Troy, OH
-Eaton, OH
-Glencoe, IL
-Apex, NC
-Piasa, IL
-Cincinnati, OH
-Kittrell, NC
-Durham, NC
-Lancaster, TX
-Bahama, NC
-Middlesex, NC
-Renault, IL
-Benson, NC
-Duncanville, TX
 Dallas, TX
-Dorsey, IL
-Fenton, MO
-Hillsboro, MO
-New Baden, IL
-Troy, IL
-Pleasant Hill, OH
-Middletown, OH
-St Peters, MO
-Alhambra, IL
-West Chester, OH
-College Corner, OH
-Bethalto, IL
-Marine, IL
-Carrboro, NC
-Hillsborough, NC
-Clayton, NC
-Staunton, IL
-Rolesville, NC
-Lewisburg, OH
-Wilmington, OH
-Catonsville, MD
-Bailey, NC
-Rosedale, MD
-Richardson, TX
+Baltimore, MD
+Lancaster, TX
+Piqua, OH
 San Antonio, TX
-Garland, TX
-Clarksville, OH
-Chapel Hill, NC
-Bunker Hill, IL
-Columbia, MD
-Middle River, MD
-Maryland Heights, MO
-Raleigh, NC
-Zebulon, NC
-Hecker, IL
-West Bloomfield Township, MI
-Ridgewood, NJ
-Livonia, MI
-Eastpointe, MI
-Westland, MI
-Jamaica, NY
-Lincoln Park, MI
-Lillington, NC
-Pittsboro, NC
-Pikesville, MD | On Site | Aug 09 |
-| ↳ | **[Opportunity to obtain Free Tech Fundamentals+ Certification (2025 Early Enrollment)](https://jobright.ai/jobs/info/66b9eaabeb5b47ccad57bfe9?utm_campaign=1057&utm_source=git)** | Multi Location
-Glen Burnie, MD
-Brooklyn, NY
-Garland, TX
-Clarksville, OH
-Middletown, OH
-New York, NY | On Site | Aug 09 |
-| ↳ | **[Register Now for 2025 Free Tech Certifications!](https://jobright.ai/jobs/info/66b9e71c282f9f6b0fd6e8b2?utm_campaign=1057&utm_source=git)** | Multi Location
-Perry Hall, MD
-Woodside, NY
-Queens, NY
-Detroit, MI
-Belleville, MI
-Grosse Pointe, MI
-Elmendorf, TX
-Taylor, MI
-Dearborn, MI
-Ridgewood, NJ
-Roseville, MI
-Dearborn Heights, MI
-Lincoln Park, MI
-New York, NY
-Livonia, MI
-Maryland Heights, MO
-Marine, IL
-Pleasant Hill, OH
-Brighton, IL
-Fenton, MO
-Elsah, IL
+Moncure, NC
+Mason, OH
 St Peters, MO
-Middletown, OH
-Hamilton, OH
+Morrow, OH
+New York, NY
+Carrollton, TX
+Columbia, MD
+Duncanville, TX
+Knightdale, NC
 Bunker Hill, IL
-Alhambra, IL
-Clarksville, OH
-Chesterfield, MO
-College Corner, OH
-Troy, OH
-Eldorado, OH
-Troy, IL
-Wilmington, OH
-Hillsboro, MO
-Defiance, MO
-St Louis, MO
-Catonsville, MD
-West Chester, OH
-Glen Carbon, IL
-Arnold, MO
-Germantown, OH
-Bethalto, IL
-Dorsey, IL
-Cottage Hills, IL
-Westland, MI
-Wendell, NC
-Missouri City, TX
-Kenly, NC
-Romulus, MI
-Redford, MI
-Macomb, MI
-Richmond Hill, GA | On Site | Aug 09 |
+Parkville, MD | On Site | Aug 09 |
 | ↳ | **[Zero-Cost Tech Fundamental Program - Get exposure to leading technologies! (San Antonio, TX)](https://jobright.ai/jobs/info/66b9e71c282f9f6b0fd6e8b7?utm_campaign=1057&utm_source=git)** | Multi Location
 Elmendorf, TX
 Schertz, TX | On Site | Aug 09 |
-| **[New York State Department of Health](https://health.ny.gov/)** | **[Student Assistant (multiple positions) - 00654](https://jobright.ai/jobs/info/6699e3d32005736eb5060103?utm_campaign=1057&utm_source=git)** | Albany, NY | On Site | Aug 09 |
+| ↳ | **[No-cost Tech Fundamentals Program - Get exposure to leading technologies](https://jobright.ai/jobs/info/66b9e71c282f9f6b0fd6e8b9?utm_campaign=1057&utm_source=git)** | Multi Location
+Nottingham, MD
+Lancaster, TX
+Grand Prairie, TX
+Towson, MD
+Knightdale, NC
+Jessup, MD
+Carrollton, TX
+White Marsh Station, MD
+Anne Arundel County, MD
+Eaton, OH
+Lutherville, MD
+Middletown, OH
+Woodstock, MD
+Selma, NC
+Fenton, MO | On Site | Aug 09 |
+| **[New York State Department of Health](https://health.ny.gov/)** | **[Student Assistant (multiple positions) - 00654](https://jobright.ai/jobs/info/66af7d128150868dce34d73c?utm_campaign=1057&utm_source=git)** | Albany, NY | On Site | Aug 09 |
 | **[St. John's University School of Law](https://www.stjohns.edu/law)** | **[Information Literacy and Research Services Librarian](https://jobright.ai/jobs/info/66b88bd88518f4e476142026?utm_campaign=1057&utm_source=git)** | Jamaica, NY | On Site | Aug 09 |
 | **[New York State Department of Health](https://health.ny.gov/)** | **[Student Assistant - 60186](https://jobright.ai/jobs/info/667c9c6f5bb91f3e5e18c056?utm_campaign=1057&utm_source=git)** | Albany, NY | Hybrid | Aug 09 |
 | **[University of Florida](https://www.ufl.edu)** | **[Smathers Undergraduate Internship in Collections](https://jobright.ai/jobs/info/66b7366d8740570ad7a55990?utm_campaign=1057&utm_source=git)** | Gainesville, FL | On Site | Aug 09 |
@@ -510,8 +266,8 @@ Schertz, TX | On Site | Aug 09 |
 | **[Bellevue School District](https://bsd405.org/)** | **[General School Assistant (Summit Program) 2024-25 - Interlake High School](https://jobright.ai/jobs/info/66b85f083c61970bfc137337?utm_campaign=1057&utm_source=git)** | Bellevue, WA | On Site | Aug 09 |
 | **[PSU Industrial Engineering](https://www.ime.psu.edu/)** | **[Part-Time 4-H Summer Assistant/Intern](https://jobright.ai/jobs/info/66b5d2a4ab7701d565f6c935?utm_campaign=1057&utm_source=git)** | Multi Location
 Franklin, OH
-Bradford, OH
-Cumberland, ME | On Site | Aug 09 |
+Cumberland, ME
+Bradford, OH | On Site | Aug 09 |
 | **[Lone Star College](http://www.lonestar.edu)** | **[Student Assistant, College Work Study-Federal](https://jobright.ai/jobs/info/66a022ee46b8641105c98bc4?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Aug 09 |
 | **[Raritan Valley Community College](http://www.raritanval.edu/)** | **[Part-Time Work-Study Student, Student Life Office/Social Media Assistant (3) - Raritan Valley Community College](https://jobright.ai/jobs/info/66b59445c532d7d847bad313?utm_campaign=1057&utm_source=git)** | North Branch, NJ | On Site | Aug 09 |
 | **[Kentucky State University](http://www.kysu.edu/)** | **[FWS Student Office Worker Academic Affairs](https://jobright.ai/jobs/info/66b6c76968eb0fb02b8cafa5?utm_campaign=1057&utm_source=git)** | Frankfort, KY | On Site | Aug 09 |
@@ -521,26 +277,280 @@ Cumberland, ME | On Site | Aug 09 |
 | **[Trimble](http://www.trimble.com)** | **[Technical Writing and Training Intern](https://jobright.ai/jobs/info/66b6633c22e1f56fb36a2382?utm_campaign=1057&utm_source=git)** | Multi Location
 US - OH, Dayton
 Dayton, OH | On Site | Aug 09 |
+| **[Pentair](http://www.pentair.com)** | **[IT and Cybersecurity Leadership Development Internship Program - Summer 2025](https://jobright.ai/jobs/info/66b664285b73754ad198c387?utm_campaign=1057&utm_source=git)** | Golden Valley, MN | On Site | Aug 09 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[2025 Virtual Client Solutions Summer Professional Intern Program - Alpharetta, GA](https://jobright.ai/jobs/info/66b5621847ddb23e3e36ef94?utm_campaign=1057&utm_source=git)** | Alpharetta, GA | On Site | Aug 08 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[VOCA TS - Therapeutic Services MSW Intern (Unpaid)](https://jobright.ai/jobs/info/66b29d2d83a1f38ab914d5fc?utm_campaign=1057&utm_source=git)** | Tucson, AZ | Hybrid | Aug 08 |
 | **[Abilene Christian University](http://www.acu.edu/)** | **[Student Administrative Coordinator](https://jobright.ai/jobs/info/66b56dcaedc57df794910f6f?utm_campaign=1057&utm_source=git)** | Abilene, TX | On Site | Aug 08 |
 | **[Gannon University](http://www.gannon.edu/)** | **[Human Physiology Lab assistant](https://jobright.ai/jobs/info/66b56e2bedc57df794911480?utm_campaign=1057&utm_source=git)** | Erie, PA | On Site | Aug 08 |
 | **[West Virginia Wesleyan College](http://www.wvwc.edu/)** | **[Internship-Athletic Training](https://jobright.ai/jobs/info/66b541dfc7a599723ab0a589?utm_campaign=1057&utm_source=git)** | Buckhannon, WV | On Site | Aug 08 |
 | **[Catholic Relief Services](http://www.crs.org/)** | **[Youth Programming Assistant (Internship U.S. Only)](https://jobright.ai/jobs/info/66b7bf2b2f05083fa74dc9bb?utm_campaign=1057&utm_source=git)** | United States | Remote | Aug 08 |
-| **[Pentair](http://www.pentair.com)** | **[Engineering Leadership Development Program Internship - Summer 2025](https://jobright.ai/jobs/info/66b52eb67e5fd308e279c937?utm_campaign=1057&utm_source=git)** | Multi Location
-Brookfield, WI
-Delavan, WI
-Apex, NC
-North Aurora, IL
-Manitowoc, WI
-Sanford, NC
+| **[Pentair](http://www.pentair.com)** | **[Engineering Leadership Development Program Internship - Summer 2025](https://jobright.ai/jobs/info/66b519ce314525a41a9f248f?utm_campaign=1057&utm_source=git)** | Multi Location
 White Bear, MN
-New Brighton, MN
+Manitowoc, WI
+Delavan, WI
+North Aurora, IL
+Hanover Park, IL
+Brookfield, WI
 Golden Valley, MN
-Hanover Park, IL | On Site | Aug 08 |
+Sanford, NC
+Apex, NC
+New Brighton, MN | On Site | Aug 08 |
 | **[New College of Florida](http://www.ncf.edu/)** | **[Student Assistant, Quest for Knowledge Peer Leader](https://jobright.ai/jobs/info/66b6535d93a31db68f07635d?utm_campaign=1057&utm_source=git)** | Bay Shore Acres, FL | On Site | Aug 08 |
 | **[Stevens Institute of Technology](http://www.stevens.edu/)** | **[UG Student Life Office Assistant (FWS)](https://jobright.ai/jobs/info/66b50792b505adacba314936?utm_campaign=1057&utm_source=git)** | Hoboken, NJ | On Site | Aug 08 |
+| **[NPower](http://www.npower.org/)** | **[Register for a FREE Tech Fundamental Program - Plan now for the New Year!](https://jobright.ai/jobs/info/66b535e485e11291f6388358?utm_campaign=1057&utm_source=git)** | Multi Location
+Bailey, NC
+Sabina, OH
+Troy, IL
+New Baden, IL
+Staunton, IL
+Perry Hall, MD
+Fuquay-Varina, NC
+Romulus, MI
+Grosse Pointe, MI
+Redford, MI
+Kenly, NC
+Taylor, MI
+Brooklyn, NY
+Wendell, NC
+Middle Village, NY
+Dearborn, MI
+Warren, MI
+Roseville, MI
+Belleville, MI
+Canton, MI
+Pasadena, TX
+New York, NY
+Spring Hope, NC
+Queens, NY
+Richmond Hill, GA
+Detroit, MI
+Woodside, NY
+Carrollton, TX
+Columbia, MD
+Eaton, OH
+Parkville, MD
+Adkins, TX
+Ridgewood, NJ
+Westland, MI
+Eastpointe, MI
+West Bloomfield Township, MI
+Lillington, NC
+Livonia, MI
+Lincoln Park, MI
+Rosedale, MD
+Holly Springs, NC
+Piasa, IL
+Jamaica, NY
+Richardson, TX
+Lewisburg, OH
+Middletown, OH
+St Peters, MO
+Marine, IL
+College Corner, OH
+Bethalto, IL
+West Chester, OH
+Alhambra, IL
+Pleasant Hill, OH
+Selma, NC
+Arnold, MO
+Garland, TX
+San Antonio, TX
+Catonsville, MD
+Maryland Heights, MO
+Eldorado, OH
+Cottage Hills, IL
+Hillsborough, NC
+Fenton, MO
+Garner, NC
+Clarksville, OH
+Chesterfield, MO
+Park, KS
+Macomb, MI
+Sunnyside, NY
+Maeystown, IL
+Grand Prairie, TX
+Four Oaks, NC
+Carrboro, NC
+Lancaster, TX
+Bahama, NC
+West Alexandria, OH
+Benson, NC
+Cary, NC
+Kittrell, NC
+Albers, IL
+Brighton, IL
+Apex, NC
+Glen Carbon, IL
+Willow Spring, NC
+Knightdale, NC
+West Manchester, OH
+Valmeyer, IL
+Smithfield, NC
+Dallas, TX
+Durham, NC
+Renault, IL
+Dorsey, IL
+Duncanville, TX
+Pikesville, MD
+Middlesex, NC
+Bunker Hill, IL
+Clayton, NC
+Fults, IL
+Cincinnati, OH
+Glencoe, IL
+Jessup, MD
+Glen Burnie, MD
+Pittsboro, NC
+Rolesville, NC
+Wilmington, OH
+Moncure, NC
+Chapel Hill, NC
+Zebulon, NC
+Elsah, IL
+Raleigh, NC
+Hecker, IL
+Hillsboro, MO
+Germantown, OH
+Middle River, MD
+Troy, OH
+Defiance, MO
+Hamilton, OH | On Site | Aug 08 |
 | **[Utah Transit Authority](http://www.rideuta.com/)** | **[Instructional Designer Intern](https://jobright.ai/jobs/info/66b5178bd65eaf3266e9cf51?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | Aug 08 |
+| **[NPower](http://www.npower.org/)** | **[FREE Virtual Tech Fundamental Program - Accepting early applications for 2025](https://jobright.ai/jobs/info/66b52eb67e5fd308e279c949?utm_campaign=1057&utm_source=git)** | Multi Location
+Mason, OH
+Butner, NC
+Houston, TX
+Detroit, MI
+Grosse Pointe, MI
+Middle Village, NY
+Louisburg, NC
+Grafton, IL
+Holly Springs, NC
+Columbia, MD
+Perry Hall, MD
+Hanover, MD
+Pacific, MO
+St Louis, MO
+Lewisburg, OH
+Fidelity, IL
+New Baden, IL
+Angier, NC
+Florissant, MO
+Raleigh, NC
+Middlesex, NC
+Willow Spring, NC
+Sabina, OH
+Dearborn, MI
+Brooklyn, NY
+Belleville, MI
+Durham, NC
+Baltimore, MD
+Adkins, TX
+Stem, NC
+Zebulon, NC
+West Milton, OH
+Knightdale, NC
+Maeystown, IL
+Hillsborough, NC
+South Vienna, OH
+Cedarville, OH
+Lancaster, TX
+Rosedale, MD
+Carrollton, TX
+Creedmoor, NC
+St Peters, MO
+New York, NY
+Chapel Hill, NC
+Benson, NC
+Kittrell, NC
+Richmond Hill, GA
+Clarksville, OH
+Lincoln Park, MI
+Wilmington, OH
+Queens, NY
+Cary, NC
+Morrow, OH
+St Charles, MO
+Bradford, OH
+Cincinnati, OH
+Fuquay-Varina, NC
+Roseville, MI
+Taylor, MI
+Red Bud, IL
+Apex, NC
+Ridgewood, NJ
+Wendell, NC
+Hamtramck, MI
+Covington, OH
+Urbana, OH
+Hecker, IL
+Bellbrook, OH
+Cibolo, TX
+West Alexandria, OH
+Garner, NC
+Coats, NC
+Lake St Louis, MO
+Moncure, NC
+Duncanville, TX
+South Lebanon, OH
+Barnhart, MO
+Gwynn Oak, MD
+Albers, IL
+Richardson, TX
+Fairfield, OH
+Springboro, OH
+Maineville, OH
+Glencoe, IL
+Ballwin, MO
+Dallas, TX
+Garland, TX
+Woodside, NY
+Catonsville, MD
+Spring Hope, NC
+Missouri City, TX
+Pasadena, TX
+Eastpointe, MI
+Canton, MI
+Jamaica, NY
+Kenly, NC
+Park, KS
+Grand Prairie, TX
+Selma, NC
+St Ann, MO
+Brookville, OH
+White Marsh Station, MD
+Smithfield, NC
+Clayton, NC
+Carrboro, NC
+Sims, NC
+Monroe, OH
+Parkville, MD
+Erwin, NC
+West Alton, MO
+Fults, IL
+Cedar Hill, MO
+Bunnlevel, NC
+Nottingham, MD
+Madison, IL
+Bailey, NC
+Miamisburg, OH
+Oregonia, OH
+Rolesville, NC
+Springfield, OH
+Middle River, MD
+Pittsboro, NC
+East St Louis, IL
+Fairview Heights, IL
+Smithton, IL
+Staunton, IL
+Dunn, NC
+Trenton, OH
+Bahama, NC
+Roxana, IL
+Houston, OH
+St Jacob, IL
+Renault, IL
+Laura, OH | On Site | Aug 08 |
 | **[Precision Castparts](http://precast.com)** | **[Information Technology Development Program – Various Locations – July 2025 Start Date](https://jobright.ai/jobs/info/66b4f2470c9496bca8f4f7ed?utm_campaign=1057&utm_source=git)** | Lake Oswego, OR | On Site | Aug 08 |
 | **[The Gersh Agency](https://gersh.com)** | **[Gersh 2024 Fall Extern - REMOTE (Sophomores/Juniors/Seniors)](https://jobright.ai/jobs/info/66b4e330a753fdf3c04655ec?utm_campaign=1057&utm_source=git)** | LA Metro Area | Remote | Aug 08 |
 | **[Affinity Autism Services](http://affinitytreatment.com)** | **[Paid Intern Behavior Analyst](https://jobright.ai/jobs/info/66b7688f5ef72337b3c53f6f?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | Aug 08 |
@@ -559,6 +569,9 @@ Hanover Park, IL | On Site | Aug 08 |
 | **[Centerstone](https://centerstone.org/)** | **[BA Level Intern](https://jobright.ai/jobs/info/66b40ee2330d100bb3439a91?utm_campaign=1057&utm_source=git)** | Columbia, TN | Hybrid | Aug 07 |
 | **[U-M Center for Entrepreneurship](https://cfe.umich.edu/)** | **[TECHNICAL MISC (TEMP) - Foreign Language Lab](https://jobright.ai/jobs/info/66b40ee2330d100bb3439b24?utm_campaign=1057&utm_source=git)** | Dearborn, MI | On Site | Aug 07 |
 | **[Avila University](http://www.avila.edu/)** | **[Graduate Assistant - Student Life](https://jobright.ai/jobs/info/66b408f61998c8e4ef4e1e80?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | Aug 07 |
+| **[BUCKS COUNTY IU 22 SCHOOL DISTRICT](https://www.linkedin.com/company/55768935)** | **[Behavior Analyst - Flexible, school calendar work schedule](https://jobright.ai/jobs/info/66b408f61998c8e4ef4e1ee5?utm_campaign=1057&utm_source=git)** | Multi Location
+Allentown, PA
+Pittstown, NJ | On Site | Aug 07 |
 | **[U-M Center for Entrepreneurship](https://cfe.umich.edu/)** | **[Student Assistant (Anthropology)](https://jobright.ai/jobs/info/66b0a959bc0ddedc03aea7fa?utm_campaign=1057&utm_source=git)** | Dearborn, MI | Hybrid | Aug 07 |
 | **[Gray TV](http://www.gray.tv)** | **[GRAY MEDIA FUTURE FOCUS INTERNSHIP FALL '24 - WFSB](https://jobright.ai/jobs/info/66b2909cdb3d37947a3d1a50?utm_campaign=1057&utm_source=git)** | Rocky Hill, CT | On Site | Aug 07 |
 | **[University of Dayton](http://www.udayton.edu/)** | **[Assistant Women's Rowing Coach Intern](https://jobright.ai/jobs/info/66b3e1f0c9b85d0b387d2b78?utm_campaign=1057&utm_source=git)** | Dayton, OH | On Site | Aug 07 |
@@ -571,7 +584,6 @@ Hanover Park, IL | On Site | Aug 08 |
 | **[California Department of Tax and Fee Administration](https://www.cdtfa.ca.gov/)** | **[STUDENT ASSISTANT](https://jobright.ai/jobs/info/66b356890fa188dd934ef9d3?utm_campaign=1057&utm_source=git)** | Yolo, CA | On Site | Aug 07 |
 | **[University of Florida](https://www.ufl.edu)** | **[Special Collections Student Assistant (Federal Work Study)](https://jobright.ai/jobs/info/66b5e987bc7ef7780da9e42c?utm_campaign=1057&utm_source=git)** | North Port-Sarasota Area | On Site | Aug 07 |
 | **[Gies College of Business - University of Illinois Urbana-Champaign](http://www.business.illinois.edu/)** | **[College of Education: Postdoctoral Research Associate](https://jobright.ai/jobs/info/66a662675a569aeb64795440?utm_campaign=1057&utm_source=git)** | Urbana, IL | On Site | Aug 07 |
-| **[Davenport University](http://www.davenport.edu/)** | **[(Student) Sports Information Assistant - copy](https://jobright.ai/jobs/info/66b9cf057851f62e463b7f43?utm_campaign=1057&utm_source=git)** | Grand Rapids, MI | On Site | Aug 07 |
 | **[Oregon State University](https://oregonstate.edu/)** | **[Financial Readiness Peer Mentor](https://jobright.ai/jobs/info/66b347f1e1cee7ac51d4b49c?utm_campaign=1057&utm_source=git)** | Bend, OR | On Site | Aug 07 |
 | **[Brigham Young University](https://byu.edu)** | **[EXSC Internship Assistant and Creative Director - 133257](https://jobright.ai/jobs/info/66b311bba13b41295820671c?utm_campaign=1057&utm_source=git)** | Provo, UT | On Site | Aug 07 |
 | **[NPower](http://www.npower.org/)** | **[FREE Tech Fundamentals Program - Unlock Your Future in Tech (St. Louis, MO)](https://jobright.ai/jobs/info/66b30c37aa74db5c364d6c4d?utm_campaign=1057&utm_source=git)** | Multi Location
@@ -584,7 +596,6 @@ Valley Park, MO | On Site | Aug 07 |
 | **[National Audubon Society (USA)](http://www.audubon.org)** | **[Education Intern](https://jobright.ai/jobs/info/66b41a465308ad6ec1c9904e?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Aug 07 |
 | **[New York State Common Retirement Fund](https://www.osc.ny.gov/)** | **[Student Assistant](https://jobright.ai/jobs/info/66b32f9070410d843d7d8e8a?utm_campaign=1057&utm_source=git)** | Albany, NY | On Site | Aug 06 |
 | **[California High-Speed Rail Authority](http://www.hsr.ca.gov/)** | **[Student Assistant](https://jobright.ai/jobs/info/66b2b143a695e9b32f78473b?utm_campaign=1057&utm_source=git)** | Fresno County, CA | On Site | Aug 06 |
-| **[State of Michigan](http://www.michigan.gov)** | **[Student Assistant](https://jobright.ai/jobs/info/66b2c3e67b383b457b3b78b4?utm_campaign=1057&utm_source=git)** | Lansing, MI | On Site | Aug 06 |
 | **[Norton Healthcare](https://nortonhealthcare.com)** | **[Respiratory Explorer PRN, Center for Allied Health and Center for Academic Affairs, As Needed](https://jobright.ai/jobs/info/66b2adbf19fd8de5c3ebfd7b?utm_campaign=1057&utm_source=git)** | Louisville, KY | On Site | Aug 06 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate – 2025 US Consumer Services Data Analytics Summer Internship New York, NY](https://jobright.ai/jobs/info/66b29b94e56a43eef61f4931?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Aug 06 |
 | **[Barnard College](https://barnard.edu/)** | **[Financial Aid Graduate Assistant](https://jobright.ai/jobs/info/66b2ab15b3a848d8f7435741?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Aug 06 |
@@ -597,6 +608,7 @@ Valley Park, MO | On Site | Aug 07 |
 | **[Clarkson College](http://www.clarksoncollege.edu/)** | **[Interprofessional Learning Center-Student Worker](https://jobright.ai/jobs/info/66b3a22b8277e3056016073b?utm_campaign=1057&utm_source=git)** | Omaha, NE | On Site | Aug 06 |
 | **[BNY Mellon](http://www.bnymellon.com)** | **[2025 Summer Internship Program - Chief Investment Office](https://jobright.ai/jobs/info/66b79572c75a87658d441de7?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Aug 06 |
 | **[Hennepin Healthcare Research Institute](https://www.hhrinstitute.org/)** | **[Research Assistant, Undergraduate](https://jobright.ai/jobs/info/66b637c57e864b44d931dff2?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Aug 06 |
+| **[Walmart](http://www.walmart.com)** | **[2025 Summer Undergraduate Intern: Finance and Accounting Belonging Summit (USA) Corporate Intern](https://jobright.ai/jobs/info/66b37e12fca846faeede9faf?utm_campaign=1057&utm_source=git)** | Bentonville, AR | On Site | Aug 06 |
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Student Assistant](https://jobright.ai/jobs/info/66b617d83618677e1f7d245c?utm_campaign=1057&utm_source=git)** | Multi Location
 Abilene, TX
 Dallas, TX | On Site | Aug 06 |
@@ -607,9 +619,4 @@ Dallas, TX | On Site | Aug 06 |
 | **[WVU Medicine](https://wvumedicine.org/)** | **[Psychology Postdoctoral](https://jobright.ai/jobs/info/66b1eb4be4a43b87c56ea769?utm_campaign=1057&utm_source=git)** | Martinsburg, WV | On Site | Aug 06 |
 | **[The Education Trust](https://edtrust.org/)** | **[Higher Ed Research Intern](https://jobright.ai/jobs/info/66b32f9070410d843d7d8f38?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Aug 06 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Undergraduate Student Assistant](https://jobright.ai/jobs/info/66b45b44e4c788ff30e8aace?utm_campaign=1057&utm_source=git)** | Auburn, AL | On Site | Aug 06 |
-| **[Eide Bailly](http://www.eidebailly.com)** | **[Summer Leadership Program (Minneapolis)](https://jobright.ai/jobs/info/66b199070c1fac533ff7834c?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Aug 06 |
-| ↳ | **[Summer Leadership Program (Des Moines)](https://jobright.ai/jobs/info/66b199070c1fac533ff78345?utm_campaign=1057&utm_source=git)** | Des Moines, IA | On Site | Aug 06 |
-| ↳ | **[Summer Leadership Program (Mankato)](https://jobright.ai/jobs/info/66b199070c1fac533ff78347?utm_campaign=1057&utm_source=git)** | Mankato, MN | On Site | Aug 06 |
-| **[The Ohio State University](http://www.osu.edu/)** | **[Student Assistant - Non OSU](https://jobright.ai/jobs/info/66b1a72defe25d4df9886a80?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Aug 06 |
-| **[YMCA Twin Cities](http://www.ymcatwincities.org/)** | **[Lifeguard-In Training (New Hope YMCA)](https://jobright.ai/jobs/info/66b1b381f2249af274e7cb66?utm_campaign=1057&utm_source=git)** | New Hope, MN | On Site | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
