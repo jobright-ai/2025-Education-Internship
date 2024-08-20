@@ -42,9 +42,9 @@
 <h4>
 Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">7</span> days are listed due to capacity constraints.
 <br>
-For a complete list, see the full spreadsheet below:
+For a complete list, click the following sortable link below:
 </h4>
-<a href="https://intern-list.com/?selectedKey=🎓%20Education%20and%20Training&utm_source=&utm_campaign=Education and Training">
+<a href="https://intern-list.com/?selectedKey=🎓%20Education%20and%20Training&utm_source=1101&utm_campaign=Education and Training">
     <img src="./static/img/airtable.png" alt="excel_icon", style="width: 40%; height: 40%;">
 </a>
 </div>
@@ -484,5 +484,4 @@ For a complete list, see the full spreadsheet below:
 | **[NCAA](https://www.ncaa.org/)** | **[NCAA Championships Administration Minority Mentoring Program - Seasonal Intern](https://jobright.ai/jobs/info/66bbcbdd5981d04da42406cb?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Aug 13 |
 | **[Stevens Institute of Technology](http://www.stevens.edu/)** | **[UG Student Life Office Assistant (FWS)](https://jobright.ai/jobs/info/66b50792b505adacba314936?utm_campaign=1057&utm_source=git)** | Hoboken, NJ | On Site | Aug 13 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Bachelor's Apprenticeship Program - RCIS Underwriting (January 2025)](https://jobright.ai/jobs/info/66bba097e8d5030da5df2042?utm_campaign=1057&utm_source=git)** | Anoka, MN | On Site | Aug 13 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Psychological Asst & Psychologist ASD - Hybrid - EVG](https://jobright.ai/jobs/info/66b7b39e55c2923f2971bdf9?utm_campaign=1057&utm_source=git)** | San Jose, CA | Hybrid | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
