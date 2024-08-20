@@ -46,7 +46,7 @@ For a complete list, see the full spreadsheet below:
 </h4>
 <a href="https://intern-list.com/?selectedKey={selectKey}&utm_source=&utm_campaign=Education and Training">
 <a href="https://intern-list.com/?selectedKey=🎓%20Education%20and%20Training&utm_source=&utm_campaign={utm_campaign_str}">
-    <img src="./static/img/airtable.jpg" alt="excel_icon", style="width: 20%; height: 20%;">
+    <img src="./static/img/airtable.png" alt="excel_icon", style="width: 40%; height: 40%;">
 </a>
 </div>
 
@@ -92,8 +92,8 @@ For a complete list, see the full spreadsheet below:
 | **[Kennedy Painting](https://www.stlouishousepainting.com/)** | **[Painting Apprentice](https://jobright.ai/jobs/info/66c32cede01afd4d8b49273e?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Aug 19 |
 | **[Lidl](https://www.lidl.de/)** | **[Ausbildung Kaufmann im Einzelhandel 09.2025 (m/w/d)](https://jobright.ai/jobs/info/66c2e77740ffa52a55111b99?utm_campaign=1057&utm_source=git)** | Germany, PA | On Site | Aug 18 |
 | **[Pulaski County Special School District (PCSSD)](http://www.pcssd.org)** | **[Marketing/Internship Teacher (2024-2025 School Year) ***EMERGENCY***](https://jobright.ai/jobs/info/66c3dc6b793e5042d65070f3?utm_campaign=1057&utm_source=git)** | Little Rock, AR | On Site | Aug 18 |
-| **[Walmart](http://www.walmart.com)** | **[2024 Intern Conversion - 2025 FT: Accounting and Finance Development Program](https://jobright.ai/jobs/info/66c3eea5a9423a21ed33a72b?utm_campaign=1057&utm_source=git)** | Bentonville, AR | On Site | Aug 18 |
-| ↳ | **[2023 Intern Conversion - 2025 FT: AFDP](https://jobright.ai/jobs/info/66c3eea5a9423a21ed33a709?utm_campaign=1057&utm_source=git)** | Bentonville, AR | On Site | Aug 18 |
+| **[Walmart](http://www.walmart.com)** | **[2023 Intern Conversion - 2025 FT: AFDP](https://jobright.ai/jobs/info/66c3eea5a9423a21ed33a709?utm_campaign=1057&utm_source=git)** | Bentonville, AR | On Site | Aug 18 |
+| ↳ | **[2024 Intern Conversion - 2025 FT: Accounting and Finance Development Program](https://jobright.ai/jobs/info/66c3eea5a9423a21ed33a72b?utm_campaign=1057&utm_source=git)** | Bentonville, AR | On Site | Aug 18 |
 | **[Tencent](https://www.tencent.com/en-us)** | **[Learning & Culture Intern](https://jobright.ai/jobs/info/66c3959837d8ce8b81d8ceac?utm_campaign=1057&utm_source=git)** | US-Los Angeles | On Site | Aug 18 |
 | **[Dimensional Fund Advisors](https://us.dimensional.com)** | **[Internship in Global Client Group (Undergraduate & Master's) - Austin](https://jobright.ai/jobs/info/66c39ac08cb89964f0946e6d?utm_campaign=1057&utm_source=git)** | Austin | On Site | Aug 18 |
 | **[Armanino](http://www.armaninollp.com/)** | **[Armanino Aspire 2025 (Dallas)](https://jobright.ai/jobs/info/66c3ef68f8d15537db0d6adf?utm_campaign=1057&utm_source=git)** | Dallas, Texas | On Site | Aug 18 |
@@ -147,8 +147,8 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[FREE Tech Fundamentals Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66c0302c89ee32006710b210?utm_campaign=1057&utm_source=git)** | Kingsville, MD | On Site | Aug 16 |
 | ↳ | **[No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/66c0302c89ee32006710b213?utm_campaign=1057&utm_source=git)** | New Hill, NC | On Site | Aug 16 |
 | ↳ | **[Tech Fundamentals Program (Free) - Get exposure to leading technologies! (Raleigh, NC) -](https://jobright.ai/jobs/info/66c0302c89ee32006710b216?utm_campaign=1057&utm_source=git)** | New Hill, NC | On Site | Aug 16 |
-| ↳ | **[FREE Tech Fundamentals Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66c0302c89ee32006710b219?utm_campaign=1057&utm_source=git)** | Lutherville, MD | On Site | Aug 16 |
 | ↳ | **[FREE Tech Fundamental Program - Opportunity to earn industry-recognized certifications -'-](https://jobright.ai/jobs/info/66c0302c89ee32006710b217?utm_campaign=1057&utm_source=git)** | Hartford, IL | On Site | Aug 16 |
+| ↳ | **[FREE Tech Fundamentals Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66c0302c89ee32006710b219?utm_campaign=1057&utm_source=git)** | Lutherville, MD | On Site | Aug 16 |
 | ↳ | **[Opportunity to obtain Free Google IT Support Certification (2025 Early Enrollment)](https://jobright.ai/jobs/info/66c0302c89ee32006710b21b?utm_campaign=1057&utm_source=git)** | Essex, MD | On Site | Aug 16 |
 | ↳ | **[Register Now for 2025 Free Tech Certifications!](https://jobright.ai/jobs/info/66c0302c89ee32006710b21c?utm_campaign=1057&utm_source=git)** | Kingsville, MD | On Site | Aug 16 |
 | ↳ | **[Register Now for 2025 Free Tech Certifications!](https://jobright.ai/jobs/info/66c0302c89ee32006710b21e?utm_campaign=1057&utm_source=git)** | Valley Park, MO | On Site | Aug 16 |
@@ -208,22 +208,22 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[No Cost Tech Fundamentals Program - Launching Your Tech Career! (St. Louis, MO) -'-](https://jobright.ai/jobs/info/66bf105039d7bc5e2a2b44fe?utm_campaign=1057&utm_source=git)** | Millstadt, IL | On Site | Aug 16 |
 | ↳ | **[Launching Tech Career! - FREE Tech Fundamentals Program (St. Louis, MO)](https://jobright.ai/jobs/info/66bf105039d7bc5e2a2b4503?utm_campaign=1057&utm_source=git)** | Millstadt, IL | On Site | Aug 16 |
 | ↳ | **[Launching Tech Career! - FREE Tech Fundamentals Program (St. Louis, MO)](https://jobright.ai/jobs/info/66bf105039d7bc5e2a2b4505?utm_campaign=1057&utm_source=git)** | Hartford, IL | On Site | Aug 16 |
-| ↳ | **[Unlock Your Future! - Free Tech Fundamentals Program](https://jobright.ai/jobs/info/66bf105039d7bc5e2a2b450e?utm_campaign=1057&utm_source=git)** | Millstadt, IL | On Site | Aug 16 |
 | ↳ | **[Zero-Cost Tech Fundamentals Program - Earn industry-recognized certifications (St. Louis, MO)](https://jobright.ai/jobs/info/66bf105039d7bc5e2a2b450d?utm_campaign=1057&utm_source=git)** | Millstadt, IL | On Site | Aug 16 |
+| ↳ | **[Unlock Your Future! - Free Tech Fundamentals Program](https://jobright.ai/jobs/info/66bf105039d7bc5e2a2b450e?utm_campaign=1057&utm_source=git)** | Millstadt, IL | On Site | Aug 16 |
 | ↳ | **[Unlock your Future - FREE Tech Fundamentals Program](https://jobright.ai/jobs/info/66bf105039d7bc5e2a2b4511?utm_campaign=1057&utm_source=git)** | New Athens, IL | On Site | Aug 16 |
 | ↳ | **[FREE Tech Fundamental Program - Get exposure to leading technologies! (St. Louis, MO) -'-](https://jobright.ai/jobs/info/66bf105039d7bc5e2a2b4510?utm_campaign=1057&utm_source=git)** | Hartford, IL | On Site | Aug 16 |
 | ↳ | **[Unlock your Future - FREE Tech Fundamentals Program](https://jobright.ai/jobs/info/66bf105039d7bc5e2a2b4513?utm_campaign=1057&utm_source=git)** | Millstadt, IL | On Site | Aug 16 |
 | ↳ | **[No-cost Tech Fundamentals Program - Get exposure to leading technologies](https://jobright.ai/jobs/info/66bf105039d7bc5e2a2b4514?utm_campaign=1057&utm_source=git)** | Hartford, IL | On Site | Aug 16 |
 | ↳ | **[Launch Your Tech Career: Cost-Free Tech/IT Fundamentals Program -](https://jobright.ai/jobs/info/66bf105039d7bc5e2a2b4518?utm_campaign=1057&utm_source=git)** | New Athens, IL | On Site | Aug 16 |
-| ↳ | **[Unlock Your Future! - Zero-Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/66bf105039d7bc5e2a2b451a?utm_campaign=1057&utm_source=git)** | Hartford, IL | On Site | Aug 16 |
 | ↳ | **[Unlock Your Future! - Zero-Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/66bf105039d7bc5e2a2b451b?utm_campaign=1057&utm_source=git)** | New Athens, IL | On Site | Aug 16 |
+| ↳ | **[Unlock Your Future! - Zero-Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/66bf105039d7bc5e2a2b451a?utm_campaign=1057&utm_source=git)** | Hartford, IL | On Site | Aug 16 |
 | ↳ | **[Start Your Tech Journey: Cost-Free Tech/IT Fundamentals Program -](https://jobright.ai/jobs/info/66bf105039d7bc5e2a2b4521?utm_campaign=1057&utm_source=git)** | Hartford, IL | On Site | Aug 16 |
-| ↳ | **[Free Tech Fundamentals Program](https://jobright.ai/jobs/info/66bf105039d7bc5e2a2b4520?utm_campaign=1057&utm_source=git)** | Hartford, IL | On Site | Aug 16 |
-| ↳ | **[FREE Tech Fundamentals Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66bf105039d7bc5e2a2b4526?utm_campaign=1057&utm_source=git)** | Millstadt, IL | On Site | Aug 16 |
-| ↳ | **[Tech Fundamentals Program (Free) - Get exposure to leading technologies! (St. Louis, MO)-'-](https://jobright.ai/jobs/info/66bf105039d7bc5e2a2b4529?utm_campaign=1057&utm_source=git)** | Hartford, IL | On Site | Aug 16 |
-| ↳ | **[Start Your Tech Journey - FREE Tech/IT Fundamentals Program -](https://jobright.ai/jobs/info/66bf105039d7bc5e2a2b4522?utm_campaign=1057&utm_source=git)** | New Athens, IL | On Site | Aug 16 |
-| ↳ | **[No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/66bf105039d7bc5e2a2b451c?utm_campaign=1057&utm_source=git)** | Millstadt, IL | On Site | Aug 16 |
 | ↳ | **[No Cost Tech Fundamentals Program - Opportunity to earn industry-recognized certifications -'-](https://jobright.ai/jobs/info/66bf105039d7bc5e2a2b451f?utm_campaign=1057&utm_source=git)** | New Athens, IL | On Site | Aug 16 |
+| ↳ | **[FREE Tech Fundamentals Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66bf105039d7bc5e2a2b4526?utm_campaign=1057&utm_source=git)** | Millstadt, IL | On Site | Aug 16 |
+| ↳ | **[Free Tech Fundamentals Program](https://jobright.ai/jobs/info/66bf105039d7bc5e2a2b4520?utm_campaign=1057&utm_source=git)** | Hartford, IL | On Site | Aug 16 |
+| ↳ | **[Start Your Tech Journey - FREE Tech/IT Fundamentals Program -](https://jobright.ai/jobs/info/66bf105039d7bc5e2a2b4522?utm_campaign=1057&utm_source=git)** | New Athens, IL | On Site | Aug 16 |
+| ↳ | **[Tech Fundamentals Program (Free) - Get exposure to leading technologies! (St. Louis, MO)-'-](https://jobright.ai/jobs/info/66bf105039d7bc5e2a2b4529?utm_campaign=1057&utm_source=git)** | Hartford, IL | On Site | Aug 16 |
+| ↳ | **[No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/66bf105039d7bc5e2a2b451c?utm_campaign=1057&utm_source=git)** | Millstadt, IL | On Site | Aug 16 |
 | ↳ | **[FREE Virtual Tech Fundamental Program - Accepting early applications for 2025](https://jobright.ai/jobs/info/66bf105039d7bc5e2a2b452a?utm_campaign=1057&utm_source=git)** | Hartford, IL | On Site | Aug 16 |
 | **[NPower](http://www.npower.org/)** | **[Zero-Cost Tech Fundamentals Program - Launching Your Tech Career! (St. Louis, MO) -'-](https://jobright.ai/jobs/info/66bf29655a34498085619448?utm_campaign=1057&utm_source=git)** | Millstadt, IL | On Site | Aug 15 |
 | ↳ | **[No Cost Tech Fundamentals Program - Launching Your Tech Career! (St. Louis, MO) -'-](https://jobright.ai/jobs/info/66bf29655a3449808561944b?utm_campaign=1057&utm_source=git)** | Hartford, IL | On Site | Aug 15 |
@@ -238,18 +238,18 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[FREE Tech Fundamentals Program - Get exposure to leading technologies (St. Louis, MO) -'-](https://jobright.ai/jobs/info/66bf29655a3449808561945e?utm_campaign=1057&utm_source=git)** | New Athens, IL | On Site | Aug 15 |
 | ↳ | **[Zero-cost Tech Fundamentals Program - Get exposure to leading technologies](https://jobright.ai/jobs/info/66bf29655a34498085619460?utm_campaign=1057&utm_source=git)** | Millstadt, IL | On Site | Aug 15 |
 | ↳ | **[Zero-cost Tech Fundamentals Program - Get exposure to leading technologies (St. Louis, MO)](https://jobright.ai/jobs/info/66bf29655a3449808561945f?utm_campaign=1057&utm_source=git)** | New Athens, IL | On Site | Aug 15 |
-| ↳ | **[Zero-Cost Tech Fundamentals Program - Earn industry-recognized certifications (St. Louis, MO) -'-](https://jobright.ai/jobs/info/66bf29655a34498085619466?utm_campaign=1057&utm_source=git)** | New Athens, IL | On Site | Aug 15 |
 | ↳ | **[Zero-Cost Tech Fundamental Program - Earn industry-recognized certifications (St. Louis, MO) -'-](https://jobright.ai/jobs/info/66bf29655a34498085619467?utm_campaign=1057&utm_source=git)** | Hartford, IL | On Site | Aug 15 |
+| ↳ | **[Zero-Cost Tech Fundamentals Program - Earn industry-recognized certifications (St. Louis, MO) -'-](https://jobright.ai/jobs/info/66bf29655a34498085619466?utm_campaign=1057&utm_source=git)** | New Athens, IL | On Site | Aug 15 |
 | ↳ | **[Unlock Your Future! - Free Tech Fundamentals Program](https://jobright.ai/jobs/info/66bf29655a34498085619468?utm_campaign=1057&utm_source=git)** | New Athens, IL | On Site | Aug 15 |
-| ↳ | **[Tech Fundamentals Program (No-Cost) - Get exposure to leading technologies! (St. Louis, MO) -'-](https://jobright.ai/jobs/info/66bf29655a34498085619469?utm_campaign=1057&utm_source=git)** | Millstadt, IL | On Site | Aug 15 |
 | ↳ | **[Zero-Cost Tech Fundamental Program - Earn industry-recognized certifications (St. Louis, MO) -'-](https://jobright.ai/jobs/info/66bf29655a3449808561946a?utm_campaign=1057&utm_source=git)** | New Athens, IL | On Site | Aug 15 |
+| ↳ | **[Tech Fundamentals Program (No-Cost) - Get exposure to leading technologies! (St. Louis, MO) -'-](https://jobright.ai/jobs/info/66bf29655a34498085619469?utm_campaign=1057&utm_source=git)** | Millstadt, IL | On Site | Aug 15 |
 | ↳ | **[Zero-cost Tech Fundamentals Program - Get exposure to leading technologies (St. Louis, MO) -'-](https://jobright.ai/jobs/info/66bf29655a3449808561946f?utm_campaign=1057&utm_source=git)** | New Athens, IL | On Site | Aug 15 |
 | ↳ | **[Start Your Tech Journey: Cost-Free Tech/IT Fundamentals Program -](https://jobright.ai/jobs/info/66bf29655a3449808561946e?utm_campaign=1057&utm_source=git)** | Millstadt, IL | On Site | Aug 15 |
 | ↳ | **[Register Now for 2025 Free Tech Certifications!](https://jobright.ai/jobs/info/66bf29655a34498085619472?utm_campaign=1057&utm_source=git)** | Hartford, IL | On Site | Aug 15 |
 | ↳ | **[Zero-Cost Tech Fundamentals Program - Earn industry-recognized certifications (St. Louis, MO) -'-](https://jobright.ai/jobs/info/66bf29655a3449808561947b?utm_campaign=1057&utm_source=git)** | Millstadt, IL | On Site | Aug 15 |
 | ↳ | **[Unlock your Future - FREE Tech Fundamentals Program](https://jobright.ai/jobs/info/66bf29655a34498085619479?utm_campaign=1057&utm_source=git)** | Hartford, IL | On Site | Aug 15 |
-| ↳ | **[Launch Your Tech Career: FREE Tech/IT Fundamentals Program -](https://jobright.ai/jobs/info/66bf29655a3449808561947e?utm_campaign=1057&utm_source=git)** | Millstadt, IL | On Site | Aug 15 |
 | ↳ | **[FREE Tech Fundamental Program - Get exposure to leading technologies! (St. Louis, MO) -'-](https://jobright.ai/jobs/info/66bf29655a3449808561947f?utm_campaign=1057&utm_source=git)** | Millstadt, IL | On Site | Aug 15 |
+| ↳ | **[Launch Your Tech Career: FREE Tech/IT Fundamentals Program -](https://jobright.ai/jobs/info/66bf29655a3449808561947e?utm_campaign=1057&utm_source=git)** | Millstadt, IL | On Site | Aug 15 |
 | ↳ | **[Zero-Cost Tech Fundamentals Program - Launching Your Tech Career! (St. Louis, MO)](https://jobright.ai/jobs/info/66bf29655a3449808561947d?utm_campaign=1057&utm_source=git)** | New Athens, IL | On Site | Aug 15 |
 | ↳ | **[Zero-Cost Tech Fundamentals Program - Launching Your Tech Career! (St. Louis, MO)](https://jobright.ai/jobs/info/66bf29655a34498085619484?utm_campaign=1057&utm_source=git)** | Millstadt, IL | On Site | Aug 15 |
 | ↳ | **[FREE Tech Fundamental Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66bf29655a34498085619483?utm_campaign=1057&utm_source=git)** | New Athens, IL | On Site | Aug 15 |
@@ -307,8 +307,8 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Social Science Student Trainee (Intelligence)](https://jobright.ai/jobs/info/66be3cd864667ed96ceede72?utm_campaign=1057&utm_source=git)** | San Diego, CA | Hybrid | Aug 15 |
 | **[NPower](http://www.npower.org/)** | **[Zero Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/66bf844d15ed239e83467c44?utm_campaign=1057&utm_source=git)** | Hartford, IL | On Site | Aug 15 |
 | ↳ | **[Zero-Cost Tech Fundamentals Program - Launching Your Tech Career! (St. Louis, MO) -'-](https://jobright.ai/jobs/info/66bf844d15ed239e83467c48?utm_campaign=1057&utm_source=git)** | Hartford, IL | On Site | Aug 15 |
-| ↳ | **[Launch Your Tech Career: Cost-Free Tech/IT Fundamentals Program -](https://jobright.ai/jobs/info/66bf844d15ed239e83467c49?utm_campaign=1057&utm_source=git)** | Millstadt, IL | On Site | Aug 15 |
 | ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program (St. Louis, MO) -'-](https://jobright.ai/jobs/info/66bf844d15ed239e83467c4b?utm_campaign=1057&utm_source=git)** | Hartford, IL | On Site | Aug 15 |
+| ↳ | **[Launch Your Tech Career: Cost-Free Tech/IT Fundamentals Program -](https://jobright.ai/jobs/info/66bf844d15ed239e83467c49?utm_campaign=1057&utm_source=git)** | Millstadt, IL | On Site | Aug 15 |
 | ↳ | **[Register Now for 2025 Free Tech Certifications!](https://jobright.ai/jobs/info/66bf844d15ed239e83467c56?utm_campaign=1057&utm_source=git)** | New Athens, IL | On Site | Aug 15 |
 | ↳ | **[Launch Your Tech Career: Cost-Free Tech/IT Fundamentals Program -](https://jobright.ai/jobs/info/66bf75369b745bbecc6a99a4?utm_campaign=1057&utm_source=git)** | Hartford, IL | On Site | Aug 15 |
 | ↳ | **[FREE Tech Fundamental Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66bf75369b745bbecc6a99a8?utm_campaign=1057&utm_source=git)** | Millstadt, IL | On Site | Aug 15 |
@@ -317,8 +317,8 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[No-cost Tech Fundamentals Program - Get exposure to leading technologies](https://jobright.ai/jobs/info/66bf75369b745bbecc6a99ae?utm_campaign=1057&utm_source=git)** | New Athens, IL | On Site | Aug 15 |
 | ↳ | **[Break into Tech! - Cero-Cost Tech Fundamentals Program (St. Louis, MO)](https://jobright.ai/jobs/info/66bf75369b745bbecc6a99b0?utm_campaign=1057&utm_source=git)** | Hartford, IL | On Site | Aug 15 |
 | ↳ | **[FREE Tech Fundamental Program - Opportunity to earn industry-recognized certifications -'-](https://jobright.ai/jobs/info/66bf6841fe9b91da11ef2e26?utm_campaign=1057&utm_source=git)** | New Athens, IL | On Site | Aug 15 |
-| ↳ | **[Unlock Your Future! - Zero-Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/66bf6841fe9b91da11ef2e28?utm_campaign=1057&utm_source=git)** | Millstadt, IL | On Site | Aug 15 |
 | ↳ | **[Zero-cost Tech Fundamentals Program - Get exposure to leading technologies](https://jobright.ai/jobs/info/66bf6841fe9b91da11ef2e2a?utm_campaign=1057&utm_source=git)** | New Athens, IL | On Site | Aug 15 |
+| ↳ | **[Unlock Your Future! - Zero-Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/66bf6841fe9b91da11ef2e28?utm_campaign=1057&utm_source=git)** | Millstadt, IL | On Site | Aug 15 |
 | ↳ | **[Tech Fundamentals Program (No-Cost) - Get exposure to leading technologies! (St. Louis, MO) -'-](https://jobright.ai/jobs/info/66bf6841fe9b91da11ef2e2d?utm_campaign=1057&utm_source=git)** | Hartford, IL | On Site | Aug 15 |
 | ↳ | **[Break into Tech! - FREE Tech Fundamentals Program (St. Louis, MO)](https://jobright.ai/jobs/info/66bf6841fe9b91da11ef2e2e?utm_campaign=1057&utm_source=git)** | Millstadt, IL | On Site | Aug 15 |
 | ↳ | **[No-cost Tech Fundamentals Program - Get exposure to leading technologies](https://jobright.ai/jobs/info/66bf6841fe9b91da11ef2e31?utm_campaign=1057&utm_source=git)** | Millstadt, IL | On Site | Aug 15 |
@@ -376,12 +376,12 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Start Your Tech Journey: Cost-Free Tech/IT Fundamentals Program -](https://jobright.ai/jobs/info/66bdbb71823787370d5e0cc0?utm_campaign=1057&utm_source=git)** | Wake Forest, NC | On Site | Aug 15 |
 | ↳ | **[Start Your Tech Journey - FREE Tech/IT Fundamentals Program -](https://jobright.ai/jobs/info/66bdbb71823787370d5e0cb9?utm_campaign=1057&utm_source=git)** | Wake Forest, NC | On Site | Aug 15 |
 | ↳ | **[Zero-Cost Tech Fundamentals Program - Opportunity to earn industry-recognized certifications](https://jobright.ai/jobs/info/66bdbb71823787370d5e0cc4?utm_campaign=1057&utm_source=git)** | Wake Forest, NC | On Site | Aug 15 |
-| ↳ | **[Zero-Cost Tech Fundamentals Program - Break into Tech!](https://jobright.ai/jobs/info/66bdbb71823787370d5e0cd9?utm_campaign=1057&utm_source=git)** | Wake Forest, NC | On Site | Aug 15 |
-| ↳ | **[Zero-cost Tech Fundamentals Program - Get exposure to leading technologies (Raleigh, NC)](https://jobright.ai/jobs/info/66bdbb71823787370d5e0cc9?utm_campaign=1057&utm_source=git)** | Wake Forest, NC | On Site | Aug 15 |
 | ↳ | **[No Cost Tech Fundamentals Program - Unlock Your Future in Tech (Raleigh, NC)](https://jobright.ai/jobs/info/66bdbb71823787370d5e0cd7?utm_campaign=1057&utm_source=git)** | Wake Forest, NC | On Site | Aug 15 |
+| ↳ | **[Zero-cost Tech Fundamentals Program - Get exposure to leading technologies (Raleigh, NC)](https://jobright.ai/jobs/info/66bdbb71823787370d5e0cc9?utm_campaign=1057&utm_source=git)** | Wake Forest, NC | On Site | Aug 15 |
 | ↳ | **[No-cost Tech Fundamentals Program - Get exposure to leading technologies (Raleigh, NC)](https://jobright.ai/jobs/info/66bdbb71823787370d5e0cd2?utm_campaign=1057&utm_source=git)** | Wake Forest, NC | On Site | Aug 15 |
 | ↳ | **[Tech Fundamentals Program (No-Cost) - Get exposure to leading technologies!](https://jobright.ai/jobs/info/66bdbb71823787370d5e0cd3?utm_campaign=1057&utm_source=git)** | Wake Forest, NC | On Site | Aug 15 |
 | ↳ | **[FREE Tech Fundamentals Program - Earn industry-recognized certifications](https://jobright.ai/jobs/info/66bdbb71823787370d5e0ccf?utm_campaign=1057&utm_source=git)** | Wake Forest, NC | On Site | Aug 15 |
+| ↳ | **[Zero-Cost Tech Fundamentals Program - Break into Tech!](https://jobright.ai/jobs/info/66bdbb71823787370d5e0cd9?utm_campaign=1057&utm_source=git)** | Wake Forest, NC | On Site | Aug 15 |
 | ↳ | **[Zero-cost Tech Fundamentals Program - Get exposure to leading technologies (Raleigh, NC) -](https://jobright.ai/jobs/info/66bdbb71823787370d5e0ce2?utm_campaign=1057&utm_source=git)** | Wake Forest, NC | On Site | Aug 15 |
 | ↳ | **[Zero-Cost Tech Fundamental Program - Earn industry-recognized certifications (Raleigh, NC) -](https://jobright.ai/jobs/info/66bdbb71823787370d5e0ce7?utm_campaign=1057&utm_source=git)** | Wake Forest, NC | On Site | Aug 15 |
 | ↳ | **[Zero-Cost Tech Fundamental Program - Earn industry-recognized certifications (Raleigh, NC)](https://jobright.ai/jobs/info/66bdbb71823787370d5e0cef?utm_campaign=1057&utm_source=git)** | Wake Forest, NC | On Site | Aug 15 |
@@ -396,15 +396,15 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Zero-Cost Tech Fundamentals Program - Launching Your Tech Career! (Raleigh, NC) -](https://jobright.ai/jobs/info/66bdbb71823787370d5e0d07?utm_campaign=1057&utm_source=git)** | Wake Forest, NC | On Site | Aug 15 |
 | ↳ | **[Launching Tech Career! - FREE Tech Fundamentals Program (Raleigh, NC)](https://jobright.ai/jobs/info/66bdbb71823787370d5e0d17?utm_campaign=1057&utm_source=git)** | Wake Forest, NC | On Site | Aug 15 |
 | ↳ | **[Zero-Cost Tech Fundamentals Program - Launching Your Tech Career! (Raleigh, NC)](https://jobright.ai/jobs/info/66bdbb71823787370d5e0d0f?utm_campaign=1057&utm_source=git)** | Wake Forest, NC | On Site | Aug 15 |
-| **[NPower](http://www.npower.org/)** | **[Transform Your Future with Zero-Cost Tech Fundamentals Program -](https://jobright.ai/jobs/info/66bdc6731fdd65109651bc6a?utm_campaign=1057&utm_source=git)** | Wake Forest, NC | On Site | Aug 14 |
-| ↳ | **[Launch Your Tech Career: Cost-Free Tech/IT Fundamentals Program -](https://jobright.ai/jobs/info/66bdc6731fdd65109651bc69?utm_campaign=1057&utm_source=git)** | Wake Forest, NC | On Site | Aug 14 |
+| **[NPower](http://www.npower.org/)** | **[Launch Your Tech Career: Cost-Free Tech/IT Fundamentals Program -](https://jobright.ai/jobs/info/66bdc6731fdd65109651bc69?utm_campaign=1057&utm_source=git)** | Wake Forest, NC | On Site | Aug 14 |
+| ↳ | **[Transform Your Future with Zero-Cost Tech Fundamentals Program -](https://jobright.ai/jobs/info/66bdc6731fdd65109651bc6a?utm_campaign=1057&utm_source=git)** | Wake Forest, NC | On Site | Aug 14 |
+| ↳ | **[Tech Fundamentals Program (Zero-Cost) - Get exposure to leading technologies! (Raleigh, NC)](https://jobright.ai/jobs/info/66bdc6731fdd65109651bc70?utm_campaign=1057&utm_source=git)** | Wake Forest, NC | On Site | Aug 14 |
 | ↳ | **[Tech Fundamentals Program (No-Cost) - Get exposure to leading technologies! (Raleigh, NC) -](https://jobright.ai/jobs/info/66bdc6731fdd65109651bc72?utm_campaign=1057&utm_source=git)** | Wake Forest, NC | On Site | Aug 14 |
 | ↳ | **[Tech Fundamentals Program (Free) - Get exposure to leading technologies! (Raleigh, NC) -](https://jobright.ai/jobs/info/66bdc6731fdd65109651bc6f?utm_campaign=1057&utm_source=git)** | Wake Forest, NC | On Site | Aug 14 |
-| ↳ | **[Tech Fundamentals Program (Zero-Cost) - Get exposure to leading technologies! (Raleigh, NC)](https://jobright.ai/jobs/info/66bdc6731fdd65109651bc70?utm_campaign=1057&utm_source=git)** | Wake Forest, NC | On Site | Aug 14 |
 | ↳ | **[Transform Your Future with Cost-Free Tech Fundamentals Program -](https://jobright.ai/jobs/info/66bdc6731fdd65109651bc7b?utm_campaign=1057&utm_source=git)** | Wake Forest, NC | On Site | Aug 14 |
 | ↳ | **[Zero-Cost Tech Fundamentals Program - Break into Tech! (Raleigh, NC)](https://jobright.ai/jobs/info/66bdc6731fdd65109651bc80?utm_campaign=1057&utm_source=git)** | Wake Forest, NC | On Site | Aug 14 |
-| ↳ | **[No-Cost Tech Fundamental Program - Get exposure to leading technologies! (Raleigh, NC) -](https://jobright.ai/jobs/info/66bdc6731fdd65109651bc8c?utm_campaign=1057&utm_source=git)** | Wake Forest, NC | On Site | Aug 14 |
 | ↳ | **[FREE Tech Fundamental Program - Opportunity to earn industry-recognized certifications (Raleigh, NC)](https://jobright.ai/jobs/info/66bdc6731fdd65109651bc8b?utm_campaign=1057&utm_source=git)** | Wake Forest, NC | On Site | Aug 14 |
+| ↳ | **[No-Cost Tech Fundamental Program - Get exposure to leading technologies! (Raleigh, NC) -](https://jobright.ai/jobs/info/66bdc6731fdd65109651bc8c?utm_campaign=1057&utm_source=git)** | Wake Forest, NC | On Site | Aug 14 |
 | ↳ | **[FREE Tech Fundamentals Program - Get exposure to leading technologies (Raleigh, NC) -](https://jobright.ai/jobs/info/66bdc6731fdd65109651bc87?utm_campaign=1057&utm_source=git)** | Wake Forest, NC | On Site | Aug 14 |
 | ↳ | **[No-cost Tech Fundamentals Program - Get exposure to leading technologies](https://jobright.ai/jobs/info/66bdc6731fdd65109651bc94?utm_campaign=1057&utm_source=git)** | Wake Forest, NC | On Site | Aug 14 |
 | ↳ | **[Tech Fundamentals Program (Zero-Cost) - Get exposure to leading technologies!](https://jobright.ai/jobs/info/66bdc6731fdd65109651bc95?utm_campaign=1057&utm_source=git)** | Wake Forest, NC | On Site | Aug 14 |
@@ -417,9 +417,9 @@ For a complete list, see the full spreadsheet below:
 | **[Park University](http://www.park.edu/)** | **[Student Success Coach](https://jobright.ai/jobs/info/66beb851fb38525ca81167da?utm_campaign=1057&utm_source=git)** | Gilbert, AZ | On Site | Aug 14 |
 | ↳ | **[Student Success Coach](https://jobright.ai/jobs/info/66beb851fb38525ca81167d9?utm_campaign=1057&utm_source=git)** | Parkville, MO | On Site | Aug 14 |
 | **[Pacific University Udaipur](http://www.pacificu.edu/)** | **[FWS - Music Education Student Administrative Assistant](https://jobright.ai/jobs/info/66bd77a92b6a7831ff48b487?utm_campaign=1057&utm_source=git)** | Forest Grove, OR | On Site | Aug 14 |
+| **[Thomas Jefferson University](http://www.jefferson.edu/)** | **[Grad Assistant - NJ](https://jobright.ai/jobs/info/66bd6188c1cfcc457b48d378?utm_campaign=1057&utm_source=git)** | Camden County, NJ | On Site | Aug 14 |
 | **[American University](http://american.edu)** | **[Educational Career Programs and Resources Assistant (Student)](https://jobright.ai/jobs/info/66bd608fd505e9a1bd9f32eb?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Aug 14 |
 | ↳ | **[Program Coordinator, Global Scholars (Student)](https://jobright.ai/jobs/info/66bd5e307eec7c20b898829f?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Aug 14 |
-| **[Thomas Jefferson University](http://www.jefferson.edu/)** | **[Grad Assistant - NJ](https://jobright.ai/jobs/info/66bd5a553b7e8ea6d4c4f609?utm_campaign=1057&utm_source=git)** | Camden County, NJ | On Site | Aug 14 |
 | **[UAB Medicine](https://www.uabmedicine.org)** | **[Audiology Extern - Otolaryngology Research](https://jobright.ai/jobs/info/66bd5a553b7e8ea6d4c4f665?utm_campaign=1057&utm_source=git)** | Birmingham, AL | On Site | Aug 14 |
 | **[Abbott](http://www.abbott.com)** | **[2025 Spring Co-op](https://jobright.ai/jobs/info/66bd4b925b9a2f3b7f8262e4?utm_campaign=1057&utm_source=git)** | Plano, TX | On Site | Aug 14 |
 | **[Abercrombie & Fitch](http://abercrombie.com)** | **[2024-2025 Design Leadership Development Program – Full Time and Summer Internship](https://jobright.ai/jobs/info/66be17fb4fc732c9d41e2d27?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Aug 14 |
