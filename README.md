@@ -302,7 +302,7 @@ For a complete list, click the following sortable link below:
 | **[Pyramid Healthcare](https://www.pyramid-healthcare.com/)** | **[Master's Level Clinical Interns wanted for Fall 2024!](https://jobright.ai/jobs/info/66c8d6223a5a455307ca626d?utm_campaign=1057&utm_source=git)** | Charlotte Hall, MD | On Site | Aug 22 |
 | **[YMCA of Greater Boston](https://ymcaboston.org/)** | **[Swim Aide](https://jobright.ai/jobs/info/66c7f2ef06e1fe4350f29ef1?utm_campaign=1057&utm_source=git)** | Woburn, MA | On Site | Aug 22 |
 | ↳ | **[Swim Aide](https://jobright.ai/jobs/info/66c7f2ef06e1fe4350f29eff?utm_campaign=1057&utm_source=git)** | Reading, MA | On Site | Aug 22 |
-| ↳ | **[Swim Aide](https://jobright.ai/jobs/info/66c7e54a4abc7ba02553279c?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Aug 22 |
+| ↳ | **[Swim Aide](https://jobright.ai/jobs/info/66c7e54a4abc7ba0255327a5?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Aug 22 |
 | **[CASA](https://wearecasa.org)** | **[ESOL Program Intern](https://jobright.ai/jobs/info/66c8ff0b8d7dc75c6c2fe16d?utm_campaign=1057&utm_source=git)** | York, PA | On Site | Aug 22 |
 | **[Texas Children's Hospital](http://texaschildrenspeople.org/)** | **[Intern - Bachelor's Candidate](https://jobright.ai/jobs/info/66c90abc6e1c7bfab0f3776b?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Aug 22 |
 | **[DeKalb County School District](http://www.dekalbschoolsga.org/)** | **[Central Office_School Psychologist Intern (Psychological Services) 2024-2025](https://jobright.ai/jobs/info/66c8d40a21cd475a888c033e?utm_campaign=1057&utm_source=git)** | Stone Mountain, GA | On Site | Aug 22 |
@@ -329,12 +329,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2025 - Masters Level Paid Internship](https://jobright.ai/jobs/info/66c7c854f92b5f22b6ea3cf4?utm_campaign=1057&utm_source=git)** | Dickson, TN | On Site | Aug 22 |
 | ↳ | **[Spring 2025 - Masters Level Paid Internship](https://jobright.ai/jobs/info/66c7c854f92b5f22b6ea3cf5?utm_campaign=1057&utm_source=git)** | Chattanooga, TN | On Site | Aug 22 |
 | ↳ | **[Spring 2025 - Masters Level Paid Internship](https://jobright.ai/jobs/info/66c7c854f92b5f22b6ea3cf6?utm_campaign=1057&utm_source=git)** | Knoxville, TN | On Site | Aug 22 |
-| ↳ | **[Spring 2025 - Masters Level Paid Internship](https://jobright.ai/jobs/info/66c7c854f92b5f22b6ea3cf8?utm_campaign=1057&utm_source=git)** | Morristown, TN | On Site | Aug 22 |
 | ↳ | **[Spring 2025 - Masters Level Paid Internship](https://jobright.ai/jobs/info/66c7c854f92b5f22b6ea3cf9?utm_campaign=1057&utm_source=git)** | Cookeville, TN | On Site | Aug 22 |
+| ↳ | **[Spring 2025 - Masters Level Paid Internship](https://jobright.ai/jobs/info/66c7c854f92b5f22b6ea3cf8?utm_campaign=1057&utm_source=git)** | Morristown, TN | On Site | Aug 22 |
+| ↳ | **[Spring 2025 - Masters Level Paid Internship](https://jobright.ai/jobs/info/66c7c854f92b5f22b6ea3cfb?utm_campaign=1057&utm_source=git)** | Columbia, TN | On Site | Aug 22 |
 | ↳ | **[Spring 2025 - Masters Level Paid Internship](https://jobright.ai/jobs/info/66c7c854f92b5f22b6ea3bb6?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Aug 22 |
 | ↳ | **[Spring 2025 - Masters Level Paid Internship](https://jobright.ai/jobs/info/66c7c854f92b5f22b6ea3cfa?utm_campaign=1057&utm_source=git)** | Johnson City, TN | On Site | Aug 22 |
 | ↳ | **[Spring 2025 - Masters Level Paid Internship](https://jobright.ai/jobs/info/66c7c854f92b5f22b6ea3cf7?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Aug 22 |
-| ↳ | **[Spring 2025 - Masters Level Paid Internship](https://jobright.ai/jobs/info/66c7c854f92b5f22b6ea3cfb?utm_campaign=1057&utm_source=git)** | Columbia, TN | On Site | Aug 22 |
 | ↳ | **[Spring 2025 - Masters Level Paid Internship](https://jobright.ai/jobs/info/66c7c854f92b5f22b6ea3cfc?utm_campaign=1057&utm_source=git)** | Paris, TN | On Site | Aug 22 |
 | ↳ | **[Spring 2025 - Masters Level Paid Internship](https://jobright.ai/jobs/info/66c7c854f92b5f22b6ea3cfd?utm_campaign=1057&utm_source=git)** | Memphis, TN | On Site | Aug 22 |
 | ↳ | **[Spring 2025 - Masters Level Paid Internship](https://jobright.ai/jobs/info/66c7c854f92b5f22b6ea3cfe?utm_campaign=1057&utm_source=git)** | Dyersburg, TN | On Site | Aug 22 |
@@ -562,17 +562,4 @@ For a complete list, click the following sortable link below:
 | **[Skidmore, Owings & Merrill (SOM)](https://www.som.com)** | **[Rice University, SF Architectural Preceptorship](https://jobright.ai/jobs/info/66a8231111d2d1828880ccde?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Aug 20 |
 | **[Cintas](http://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/66c51e01b52a9c9c0225bf6a?utm_campaign=1057&utm_source=git)** | Louisville, KY | On Site | Aug 20 |
 | **[Eide Bailly](http://www.eidebailly.com)** | **[Summer Leadership Program (Abilene)](https://jobright.ai/jobs/info/66a81e4d65dce2830c9c2904?utm_campaign=1057&utm_source=git)** | Abilene, TX | On Site | Aug 20 |
-| **[Budget Car and Truck Rental of Kansas City](https://budgetkc.com)** | **[Spring Semester Management/Leadership Intern, Full-Time or Part-Time](https://jobright.ai/jobs/info/66c5246e93950544f36d9299?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | Aug 19 |
-| **[Caravel Autism Health](http://caravelautism.com)** | **[Senior Intern](https://jobright.ai/jobs/info/66c6dadbe5541ac03efa2cd5?utm_campaign=1057&utm_source=git)** | Dubuque, IA | On Site | Aug 19 |
-| **[Bloomsbury USA](http://www.bloomsbury.com/us)** | **[Academic Editorial Intern](https://jobright.ai/jobs/info/66c450a356ac3ee257019378?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Aug 19 |
-| **[Dayton Independent School District](http://daytonisd.net)** | **[Clinical Teacher Placement - Internship](https://jobright.ai/jobs/info/66c6dadbe5541ac03efa2b98?utm_campaign=1057&utm_source=git)** | Dayton, TX | On Site | Aug 19 |
-| **[Lidl](https://www.lidl.de/)** | **[Ausbildung Verkäufer 08.2025 (m/w/d)](https://jobright.ai/jobs/info/66c44a50b6bd0531b8a981e5?utm_campaign=1057&utm_source=git)** | Germany, PA | On Site | Aug 19 |
-| **[Regeneron](http://www.regeneron.com)** | **[Summer 2025 Intern- Bachelors- Bioinformatics, Computer Science, IT, Math, Statistics, Omics, Imaging, or Related Majors](https://jobright.ai/jobs/info/66c4339ddc53e4d19bc095b6?utm_campaign=1057&utm_source=git)** | Basking Ridge, NJ | On Site | Aug 19 |
-| ↳ | **[Summer 2025 Intern- PharmD, Pharmacy, Pharmacoepi, Epidemiology, HEOR & Public Health, or Related Majors](https://jobright.ai/jobs/info/66c51e01b52a9c9c0225bf7d?utm_campaign=1057&utm_source=git)** | Tarrytown, NY | On Site | Aug 19 |
-| **[YSS](https://www.yss.org/)** | **[Transitional Living Program Intern (49130)](https://jobright.ai/jobs/info/66c6ce675f810009f8601168?utm_campaign=1057&utm_source=git)** | Ames, IA | On Site | Aug 19 |
-| **[Baptist Health South Florida](http://baptisthealth.net/)** | **[Respiratory Therapist Intern, Respiratory Therapy, Per Diem, 6A-6:30P](https://jobright.ai/jobs/info/66c6c9378fee7a9215d1f542?utm_campaign=1057&utm_source=git)** | South Miami, FL | On Site | Aug 19 |
-| **[Walmart](http://www.walmart.com)** | **[2024 Intern Conversion - 2025 FT: Accounting and Finance Development Program](https://jobright.ai/jobs/info/66c4339ddc53e4d19bc095c2?utm_campaign=1057&utm_source=git)** | Bentonville, AR | On Site | Aug 19 |
-| ↳ | **[2023 Intern Conversion - 2025 FT: AFDP](https://jobright.ai/jobs/info/66c4a8ce87bdb9db94a6fccb?utm_campaign=1057&utm_source=git)** | Bentonville, AR | On Site | Aug 19 |
-| **[Dimensional Fund Advisors](https://us.dimensional.com)** | **[Internship in Global Client Group (Undergraduate & Master's) - Charlotte](https://jobright.ai/jobs/info/66c5246e93950544f36d92be?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Aug 19 |
-| **[Chartwells Higher Education](http://chartwellshighered.com/)** | **[Nutrition Graduate Intern, Chartwells Higher Ed / University of North Carolina - Charlotte](https://jobright.ai/jobs/info/66c5246e93950544f36d92bc?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
