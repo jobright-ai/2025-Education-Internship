@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pathful](https://www.pathful.com/)** | **[Volunteer Virtual Classroom Speaker (Gap Year)](https://jobright.ai/jobs/info/66ea69623c0f3aefd72b2c6a?utm_campaign=1057&utm_source=git)** | United States | Remote | Sep 17 |
+| **[Commerce Bank](https://www.commercebank.com/)** | **[Community Markets Summer 2025 Commerce Bank Internships](https://jobright.ai/jobs/info/66ea643d12ca23b17545450d?utm_campaign=1057&utm_source=git)** | Springfield, MO | On Site | Sep 17 |
+| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Accessibility Learning and Development](https://jobright.ai/jobs/info/66ea5db13d027204c7955630?utm_campaign=1057&utm_source=git)** | Greenwood Village, CO | Hybrid | Sep 17 |
+| **[ConnectPlus](https://www.volunteermatch.org/search/org1184009.jsp)** | **[Volunteer Tutor](https://jobright.ai/jobs/info/66ea509f9b7d4c5abc47ffc2?utm_campaign=1057&utm_source=git)** | United States | Remote | Sep 17 |
+| **[Nystrom & Associates](http://www.nystromcounseling.com)** | **[Systemic Family Therapy Intern](https://jobright.ai/jobs/info/66ea5287a7ef27759e37d67f?utm_campaign=1057&utm_source=git)** | Baxter, MN | On Site | Sep 17 |
+| **[PM Pediatrics](http://pmpediatrics.com)** | **[Radiologic Technologist](https://jobright.ai/jobs/info/66ea47b32412461485a2d850?utm_campaign=1057&utm_source=git)** | New Jersey, United States | On Site | Sep 17 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Internship - Org Development - IO Psych](https://jobright.ai/jobs/info/66ea27405d131cd9b32c7715?utm_campaign=1057&utm_source=git)** | Birmingham, AL | On Site | Sep 17 |
 | ↳ | **[Internship - Org Development - Instructional Design](https://jobright.ai/jobs/info/66ea27405d131cd9b32c7701?utm_campaign=1057&utm_source=git)** | Birmingham, AL | On Site | Sep 17 |
 | **[Wichita Public Schools - USD259](http://www.usd259.org)** | **[Temporary Aide - Education Co-op Student](https://jobright.ai/jobs/info/66ea331b6c535c43fef2f897?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Sep 17 |
@@ -68,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Wheeler](https://www.wheelerclinic.org/)** | **[AIC Internship - Undergraduate Internship for Criminal Justice Majors](https://jobright.ai/jobs/info/66d0c473bc94c66ad983bbce?utm_campaign=1057&utm_source=git)** | Hartford, CT | On Site | Sep 17 |
 | **[Salina Regional Health Center](https://www.srhc.com/)** | **[Radiologic Technologist Scholarship](https://jobright.ai/jobs/info/66ea1be2a33479aea0f6bcb4?utm_campaign=1057&utm_source=git)** | Kansas, United States | On Site | Sep 17 |
 | **[Froedtert South](https://www.froedtertsouth.com/)** | **[Student Nurse Intern - Surgery](https://jobright.ai/jobs/info/66ea1fa94d7d6632e6af5167?utm_campaign=1057&utm_source=git)** | Wisconsin, United States | On Site | Sep 17 |
-| **[State of Michigan](http://www.michigan.gov)** | **[Student Assistant](https://jobright.ai/jobs/info/66ea1fa94d7d6632e6af511e?utm_campaign=1057&utm_source=git)** | Lansing, MI | Hybrid | Sep 17 |
 | **[Columbia](https://www.columbiacardiology.org)** | **[Student Research Worker](https://jobright.ai/jobs/info/66ea140e478d1ce392d9614b?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Sep 17 |
 | **[Comcast](http://corporate.comcast.com)** | **[Information Technology Internship](https://jobright.ai/jobs/info/66ea112c3b5906969d7626b4?utm_campaign=1057&utm_source=git)** | Berlin, CT | Hybrid | Sep 17 |
 | **[Pathstone](http://pathstone.com)** | **[Summer Internship Rotational](https://jobright.ai/jobs/info/66ea1fa94d7d6632e6af5248?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Sep 17 |
@@ -82,17 +87,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Internship Rotational](https://jobright.ai/jobs/info/66ea092bb3fe6a2dc18df9bb?utm_campaign=1057&utm_source=git)** | Boulder, CO | On Site | Sep 17 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/66ea160fdacbf442e5c9ae80?utm_campaign=1057&utm_source=git)** | Richmond, KY | On Site | Sep 17 |
 | **[ASML](https://www.asml.com)** | **[Internship - Training and Development (Sourcing & Supply Chain)](https://jobright.ai/jobs/info/66ea066e78ebd4d7aecb7407?utm_campaign=1057&utm_source=git)** | San Diego, CA | Hybrid | Sep 17 |
-| **[Cintas](http://www.cintas.com)** | **[Summer Intern](https://jobright.ai/jobs/info/66ea032d32f9e647a52ad2bd?utm_campaign=1057&utm_source=git)** | Westland, MI | On Site | Sep 17 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/66ea032d32f9e647a52ad2c3?utm_campaign=1057&utm_source=git)** | Evansville, IN | On Site | Sep 17 |
+| **[Cintas](http://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/66ea032d32f9e647a52ad2c3?utm_campaign=1057&utm_source=git)** | Evansville, IN | On Site | Sep 17 |
+| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/66ea032d32f9e647a52ad2bd?utm_campaign=1057&utm_source=git)** | Westland, MI | On Site | Sep 17 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/66ea032d32f9e647a52ad2c2?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Sep 17 |
 | **[PSU Industrial Engineering](https://www.ime.psu.edu/)** | **[Postdoctoral Scholar, Civil War Era](https://jobright.ai/jobs/info/66ea140e478d1ce392d96312?utm_campaign=1057&utm_source=git)** | University Park, PA | On Site | Sep 17 |
 | **[HealthFitness](http://www.healthfitness.com)** | **[Winter/Spring Fitness Internship](https://jobright.ai/jobs/info/66ea092bb3fe6a2dc18dfad1?utm_campaign=1057&utm_source=git)** | Spring, TX | On Site | Sep 17 |
-| **[Refonte Learning](https://refontelearning.com)** | **[Business Analytics Training & Internship](https://jobright.ai/jobs/info/66e9f604d90a36599eb29141?utm_campaign=1057&utm_source=git)** | United States | Remote | Sep 17 |
 | **[Kroger](http://www.thekrogerco.com)** | **[Pharmacy/Pharmacist Grad Intern](https://jobright.ai/jobs/info/66e9fe83ca92212a28aa23c6?utm_campaign=1057&utm_source=git)** | Sunset, UT | On Site | Sep 17 |
 | **[CHS (Community Health Systems)](http://www.chs.net)** | **[Medical Assistant](https://jobright.ai/jobs/info/66e9fe6e57f4a2463e400489?utm_campaign=1057&utm_source=git)** | Vestavia Hills, AL | On Site | Sep 17 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[HCC Global Ops Spring Technical CO-OP](https://jobright.ai/jobs/info/66e9f3ef9a79f3ad7aee4a67?utm_campaign=1057&utm_source=git)** | Titusville, NJ | On Site | Sep 17 |
 | **[Balenciaga](https://www.balenciaga.com/)** | **[Retail & Product Training Intern](https://jobright.ai/jobs/info/66e9e49ebb1e40baee7dbd75?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Sep 17 |
 | **[Merck](http://www.merck.com)** | **[Data Automation & Translation Intern](https://jobright.ai/jobs/info/66e1f6257488da1f5bfc75c7?utm_campaign=1057&utm_source=git)** | Lower Gwynedd, PA | Hybrid | Sep 17 |
+| **[Agora](https://agora.unicef.org/)** | **[Internship (Safeguarding)](https://jobright.ai/jobs/info/66e340180b35a594c111ee2a?utm_campaign=1057&utm_source=git)** | New York, United States | Hybrid | Sep 17 |
 | **[PSU Industrial Engineering](https://www.ime.psu.edu/)** | **[Part-Time Administrative Support](https://jobright.ai/jobs/info/66e9e15079f8d3d756a8d80d?utm_campaign=1057&utm_source=git)** | University Park, PA | On Site | Sep 17 |
 | **[Mount Sinai Medical Center](https://www.msmc.com/)** | **[Registered Nurse Intern Program](https://jobright.ai/jobs/info/66e9e15079f8d3d756a8d7c9?utm_campaign=1057&utm_source=git)** | Miami Beach, FL | On Site | Sep 17 |
 | **[Employment Development Department](https://www.edd.ca.gov/About_EDD/Career_Opportunities.htm)** | **[Student Assistant](https://jobright.ai/jobs/info/66e9e15079f8d3d756a8d7e7?utm_campaign=1057&utm_source=git)** | Los Angeles County, CA | On Site | Sep 17 |
@@ -103,6 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Khan Academy](http://khanacademy.org/)** | **[Join our Khan Kids talent community!](https://jobright.ai/jobs/info/66e9c951975387492e45c242?utm_campaign=1057&utm_source=git)** | San Mateo, CA | On Site | Sep 17 |
 | **[Huhtamaki](http://huhtamaki.com/)** | **[CCP Intern](https://jobright.ai/jobs/info/66e9c76281852960ad2ad3c4?utm_campaign=1057&utm_source=git)** | De Soto, KS | Hybrid | Sep 17 |
 | **[Kenneth Young Center](https://www.kennethyoung.org)** | **[Home Delivered Meals Intern](https://jobright.ai/jobs/info/66e9d40cdbc8f327e4ac5a41?utm_campaign=1057&utm_source=git)** | Elk Grove Village, IL | On Site | Sep 17 |
+| **[Johnson & Johnson](http://www.jnj.com)** | **[HCC Global Ops Spring Technical CO-OP](https://jobright.ai/jobs/info/66e9c46802ed8db94da9e85c?utm_campaign=1057&utm_source=git)** | Titusville, NJ | On Site | Sep 17 |
 | **[Raymond James](http://www.raymondjames.com)** | **[2025 Summer Internship - PCG Education Intern](https://jobright.ai/jobs/info/66e9c46802ed8db94da9e89b?utm_campaign=1057&utm_source=git)** | St Petersburg, FL | Hybrid | Sep 17 |
 | **[Alfred State College](http://www.alfredstate.edu)** | **[Internship and Study Away Coordinator](https://jobright.ai/jobs/info/66e9c3940e7748d669b6ed2b?utm_campaign=1057&utm_source=git)** | Alfred, NY | On Site | Sep 17 |
 | **[Watts Water Technologies](https://www.watts.com)** | **[Summer Internship 2025](https://jobright.ai/jobs/info/66e9cd9d3b7ac2226246d7f1?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Sep 17 |
@@ -115,6 +120,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Internship 2025](https://jobright.ai/jobs/info/66e9c3940e7748d669b6ee9f?utm_campaign=1057&utm_source=git)** | Franklin, NH | On Site | Sep 17 |
 | ↳ | **[Summer Internship 2025](https://jobright.ai/jobs/info/66e9c3940e7748d669b6eea0?utm_campaign=1057&utm_source=git)** | Menomonee Falls, WI | On Site | Sep 17 |
 | ↳ | **[Summer Internship 2025](https://jobright.ai/jobs/info/66e9c3940e7748d669b6eea2?utm_campaign=1057&utm_source=git)** | Woodland, CA | On Site | Sep 17 |
+| **[Applewood Centers](https://www.applewoodcenters.org)** | **[Infant & Early Childhood Mental Health Paid Internship](https://jobright.ai/jobs/info/66ea4ed5558f77360d217a42?utm_campaign=1057&utm_source=git)** | Lorain, OH | On Site | Sep 17 |
 | **[Pine Rest](https://www.pinerest.org/)** | **[CPE Intern](https://jobright.ai/jobs/info/66e9ba2fe09b534a5ff22a84?utm_campaign=1057&utm_source=git)** | Grand Rapids, MI | On Site | Sep 17 |
 | **[Graham Capital Management](https://www.grahamcapital.com)** | **[2025 GCM Summer Internship](https://jobright.ai/jobs/info/66e9c3940e7748d669b6ed64?utm_campaign=1057&utm_source=git)** | Norwalk, CT | On Site | Sep 17 |
 | **[Fullmind](https://fullmindlearning.com)** | **[Virtual School Psychologist](https://jobright.ai/jobs/info/66e9c16f7e3ce4a1c5e9a619?utm_campaign=1057&utm_source=git)** | San Diego, CA | Remote | Sep 17 |
@@ -141,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Construction Management](https://jobright.ai/jobs/info/66cda7e0686b225a592cffec?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Sep 17 |
 | **[BTIG](https://www.btig.com)** | **[Summer Internship Program](https://jobright.ai/jobs/info/66cdacd406c429764e773515?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Sep 17 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Construction Management](https://jobright.ai/jobs/info/66cda7e0686b225a592cffe7?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Sep 17 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/66ccb3391e704b96cf31e538?utm_campaign=1057&utm_source=git)** | Westerville, OH | On Site | Sep 17 |
-| ↳ | **[Learning & Development Internship](https://jobright.ai/jobs/info/66ccb3391e704b96cf31e5c5?utm_campaign=1057&utm_source=git)** | Westerville, OH | On Site | Sep 17 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Learning & Development Internship](https://jobright.ai/jobs/info/66ccb3391e704b96cf31e5c5?utm_campaign=1057&utm_source=git)** | Westerville, OH | On Site | Sep 17 |
+| ↳ | **[Learning & Development Intern](https://jobright.ai/jobs/info/66ccb3391e704b96cf31e538?utm_campaign=1057&utm_source=git)** | Westerville, OH | On Site | Sep 17 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Summer Supply Chain/Health, Safety, Environment Intern](https://jobright.ai/jobs/info/66cd2052f6a8d7de37570a35?utm_campaign=1057&utm_source=git)** | North Carolina, United States | On Site | Sep 17 |
 | **[RDO Truck Centers](https://www.rdotruckcenter.com)** | **[AYF Service Intern](https://jobright.ai/jobs/info/66cdb1b9fc9d494ed26bfedc?utm_campaign=1057&utm_source=git)** | Fargo, ND | On Site | Sep 17 |
 | **[Nexstar Media Group](http://www.nexstar.tv)** | **[Intern I, General](https://jobright.ai/jobs/info/66cc5c2fc69ad78cae6d7f1f?utm_campaign=1057&utm_source=git)** | Binghamton, NY | On Site | Sep 17 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Risk Engineering Training Program](https://jobright.ai/jobs/info/66b12e5272e828d39bc93695?utm_campaign=1057&utm_source=git)** | St Paul, MN | Remote | Sep 17 |
 | ↳ | **[Risk Engineering Training Program](https://jobright.ai/jobs/info/66b12e5272e828d39bc93698?utm_campaign=1057&utm_source=git)** | Iowa, United States | Remote | Sep 17 |
 | ↳ | **[Risk Engineering Training Program](https://jobright.ai/jobs/info/66b128c5502348b9330c611e?utm_campaign=1057&utm_source=git)** | San Jose, CA | Remote | Sep 17 |
-| **[WESCO International](http://www.wesco.com/)** | **[Summer Internship Program](https://jobright.ai/jobs/info/66d6e8ba28d0a76cba0003a9?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | Hybrid | Sep 17 |
-| **[Delta Air Lines](http://www.delta.com)** | **[MBA Leadership Development Program, Finance Strategy](https://jobright.ai/jobs/info/66cd04b72be28447a69e59ed?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Sep 17 |
-| **[Zurich North America](https://www.zurichna.com)** | **[Risk Engineering Training Program](https://jobright.ai/jobs/info/66b1125d14d4fe226434121b?utm_campaign=1057&utm_source=git)** | South Carolina, United States | Remote | Sep 17 |
-| **[Rush University Medical Center](https://www.rush.edu/)** | **[Postdoctoral Fellowship in Rehabilitation Psychology](https://jobright.ai/jobs/info/666c254241bd8bbbc79fda4b?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Sep 17 |
-| **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/66cc5006a756832cda0cd190?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Sep 17 |
-| **[Advanced Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - Worksite Solutions Based Internship](https://jobright.ai/jobs/info/66cc5cbdd9249734a6add10d?utm_campaign=1057&utm_source=git)** | Bolingbrook, IL | On Site | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
