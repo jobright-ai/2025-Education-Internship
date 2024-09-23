@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Refonte Learning](https://refontelearning.com)** | **[Business Analytics Training & Internship](https://jobright.ai/jobs/info/66f0c921276d679f954c334d?utm_campaign=1057&utm_source=git)** | United States | Remote | Sep 22 |
+| **[Nissan Motor](https://www.nissan-global.com/EN/)** | **[Dealer and Field Training Intern](https://jobright.ai/jobs/info/66f1213d3a01faf31dd9a3ae?utm_campaign=1057&utm_source=git)** | Franklin, TN | On Site | Sep 23 |
 | **[Tacoma Community College](http://www.tacomacc.edu/)** | **[Student Programming, Government and Ambassadors](https://jobright.ai/jobs/info/66f06b54e1b63de973216376?utm_campaign=1057&utm_source=git)** | Tacoma, WA | On Site | Sep 22 |
 | **[South Orange County Community College District](https://www.socccd.edu)** | **[Student Worker](https://jobright.ai/jobs/info/66f05a10a9974260e7836eb4?utm_campaign=1057&utm_source=git)** | Mission Viejo, CA | On Site | Sep 22 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Associate Clinical Account Specialist Intern](https://jobright.ai/jobs/info/66f04cee6b9a8694347438d7?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | Sep 22 |
@@ -69,15 +69,16 @@ For a complete list, click the following sortable link below:
 | **[Nucor Corporation](http://www.nucor.com)** | **[Nucor Technical Academy - NSFL](https://jobright.ai/jobs/info/66d3f7f7106b7b210a6c5b49?utm_campaign=1057&utm_source=git)** | Frostproof, FL | Hybrid | Sep 22 |
 | **[UBS](https://www.ubs.com)** | **[Summer Internship Program - Global Wealth Management](https://jobright.ai/jobs/info/66d3e3609e8bec0d43a2d059?utm_campaign=1057&utm_source=git)** | Weehawken, NJ | On Site | Sep 22 |
 | **[Bechtel Corporation](http://www.bechtel.com)** | **[Diversity and Inclusion Intern](https://jobright.ai/jobs/info/66d409d2ba5f1c31afdc6320?utm_campaign=1057&utm_source=git)** | United States | Remote | Sep 22 |
+| **[TC Energy](https://www.tcenergy.com/)** | **[Accounting/Finance Student Opportunities](https://jobright.ai/jobs/info/66d3fe8e9227a588c9544bb1?utm_campaign=1057&utm_source=git)** | Houston, TX | Hybrid | Sep 22 |
 | **[HCA](http://hcahealthcare.com)** | **[Chaplain Intern PRN](https://jobright.ai/jobs/info/66c51b778d42d33addf440cc?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Sep 22 |
 | **[NYC Health + Hospitals](http://www.nychealthandhospitals.org)** | **[Student Intern Level II](https://jobright.ai/jobs/info/66c57c1693207bfd55a324fb?utm_campaign=1057&utm_source=git)** | Queens, NY | On Site | Sep 22 |
 | **[Vanguard](http://investor.vanguard.com/corporate-portal)** | **[College to Corporate Internship - Advice](https://jobright.ai/jobs/info/66ab7abc4daca55a78738b99?utm_campaign=1057&utm_source=git)** | Newtown Square, PA | Hybrid | Sep 22 |
 | **[VetPartners Italy](https://vetpartnersitalia.it)** | **[Internship Rotazionale - Veterinario](https://jobright.ai/jobs/info/66eff420638119914a70b896?utm_campaign=1057&utm_source=git)** | Milano, TX | On Site | Sep 22 |
 | **[UBS](https://www.ubs.com)** | **[Summer Internship Program - Global Wealth Management](https://jobright.ai/jobs/info/66d406494e197bd4eadb3f3e?utm_campaign=1057&utm_source=git)** | New York, United States | On Site | Sep 22 |
 | **[Vanguard](http://investor.vanguard.com/corporate-portal)** | **[College to Corporate Internship - Advice](https://jobright.ai/jobs/info/66ab7abc4daca55a78738b9e?utm_campaign=1057&utm_source=git)** | Dallas, TX | Hybrid | Sep 22 |
+| **[National Security Agency](http://www.nsa.gov/)** | **[NSA Summer 2025 Internship Program](https://jobright.ai/jobs/info/66d401bce7c9632783efc380?utm_campaign=1057&utm_source=git)** | Fort Meade, MD | On Site | Sep 22 |
 | **[BJC HealthCare](http://www.bjc.org/Default.aspx)** | **[Pediatric Student Radiologic Technologist - PRN](https://jobright.ai/jobs/info/66d2facf1f5399df83a91d9a?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Sep 22 |
 | **[National Security Agency](http://www.nsa.gov/)** | **[NSA Summer 2025 Internship Program](https://jobright.ai/jobs/info/66d41ea14772236277a64ca9?utm_campaign=1057&utm_source=git)** | Fort Meade, MD | On Site | Sep 22 |
-| ↳ | **[NSA Summer 2025 Internship Program](https://jobright.ai/jobs/info/66d401bce7c9632783efc384?utm_campaign=1057&utm_source=git)** | Fort Meade, MD | On Site | Sep 22 |
 | **[Chevron Phillips Chemical](http://www.cpchem.com/en-us/Pages/default.aspx)** | **[Summer Intern 2025 - Supply Chain](https://jobright.ai/jobs/info/66d3fe8e9227a588c9544b87?utm_campaign=1057&utm_source=git)** | Spring, TX | On Site | Sep 22 |
 | **[Sinclair Broadcast](http://sbgi.net)** | **[Winter/Spring 2025 Intern](https://jobright.ai/jobs/info/66efeac9d1252a8e881a241c?utm_campaign=1057&utm_source=git)** | Lynchburg, VA | On Site | Sep 22 |
 | **[Benefis Health System](https://www.benefis.org/)** | **[Benefis Medical Group Student Intern](https://jobright.ai/jobs/info/66efeb869910016ca8be6d6e?utm_campaign=1057&utm_source=git)** | Great Falls, MT | On Site | Sep 22 |
@@ -89,13 +90,14 @@ For a complete list, click the following sortable link below:
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Associate Infrastructure Service Delivery Analyst](https://jobright.ai/jobs/info/66ef0d640cf9353bd42bfdfd?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Sep 21 |
 | **[South Orange County Community College District](https://www.socccd.edu)** | **[Student Worker](https://jobright.ai/jobs/info/66ef18f5c9ab37243b412e72?utm_campaign=1057&utm_source=git)** | Mission Viejo, CA | On Site | Sep 21 |
 | ↳ | **[BLOOM Faculty Intern](https://jobright.ai/jobs/info/66ef18f5c9ab37243b412e31?utm_campaign=1057&utm_source=git)** | California, United States | On Site | Sep 21 |
-| **[Nuvance Health](https://www.nuvancehealth.org)** | **[Adult Workforce Development Healthcare - Intern](https://jobright.ai/jobs/info/66eee3547ae88065ddf79887?utm_campaign=1057&utm_source=git)** | Norwalk, CT | On Site | Sep 21 |
+| **[Nuvance Health](https://www.nuvancehealth.org)** | **[Adult Workforce Development Healthcare - Intern](https://jobright.ai/jobs/info/66eee3547ae88065ddf797cc?utm_campaign=1057&utm_source=git)** | Norwalk, CT | On Site | Sep 21 |
 | **[Advanced Behavioral Health](https://www.abhcal.com/)** | **[Therapist - Paid Clinical Internship](https://jobright.ai/jobs/info/66eee04762211eee9316b69c?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Sep 21 |
 | ↳ | **[Therapist - Paid Clinical Internship](https://jobright.ai/jobs/info/66eee04762211eee9316b6a1?utm_campaign=1057&utm_source=git)** | Frederick, MD | On Site | Sep 21 |
 | **[Scholege](https://scholege.com)** | **[Remote IB Extended Essay & Internal Assessment Tutor](https://jobright.ai/jobs/info/66eedabdc8a778f9142ba3a1?utm_campaign=1057&utm_source=git)** | Dover, DE | Remote | Sep 21 |
 | **[Spurwink](http://www.spurwink.org)** | **[Internship - Counseling and Social Work](https://jobright.ai/jobs/info/66eede2ad10918e2b42de16e?utm_campaign=1057&utm_source=git)** | Portland, ME | On Site | Sep 21 |
 | **[The Paul Mitchell School](https://paulmitchell.edu)** | **[Cosmetology Instructor](https://jobright.ai/jobs/info/66eed7b8ae7bf7361dc18b72?utm_campaign=1057&utm_source=git)** | Sharonville, OH | On Site | Sep 21 |
 | **[St. Andrew's Parks and Playground](https://www.standrewsparks.info/)** | **[Youth Athletic Development Specialist](https://jobright.ai/jobs/info/66eed7b8ae7bf7361dc18b41?utm_campaign=1057&utm_source=git)** | Elgin, SC | On Site | Sep 21 |
+| **[NYC Health + Hospitals](http://www.nychealthandhospitals.org)** | **[Student Intern Level II](https://jobright.ai/jobs/info/66d23700aa55bc6ca5f87a58?utm_campaign=1057&utm_source=git)** | Queens, NY | On Site | Sep 21 |
 | **[Sporting Kansas City](http://www.sportingkc.com)** | **[Youth Soccer Programs Intern](https://jobright.ai/jobs/info/66d273b76be7de6b06afefbf?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | Sep 21 |
 | ↳ | **[Youth Soccer Competitions Intern](https://jobright.ai/jobs/info/66d273b76be7de6b06afefd5?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | Sep 21 |
 | **[BlackRock](http://www.blackrock.com)** | **[MBA Internship Program - AMERS](https://jobright.ai/jobs/info/66b5395ea79ea08b022e8706?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Sep 21 |
@@ -104,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Associate Clinical Account Specialist Intern](https://jobright.ai/jobs/info/66d2179ee5b1791cb3e8dacb?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Sep 21 |
 | ↳ | **[Associate Clinical Account Specialist Intern](https://jobright.ai/jobs/info/66d240e67a6441eeec595a2d?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Sep 21 |
 | **[LocumJobsOnline](https://www.locumtenensonline.com)** | **[Locum Physician (MD/DO) - Pediatrics](https://jobright.ai/jobs/info/66efc8585b81e2a376248a70?utm_campaign=1057&utm_source=git)** | Billings, MT | On Site | Sep 21 |
-| **[NYC Health + Hospitals](http://www.nychealthandhospitals.org)** | **[Student Intern Level II](https://jobright.ai/jobs/info/66d23700aa55bc6ca5f87a54?utm_campaign=1057&utm_source=git)** | Queens, NY | On Site | Sep 21 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Associate Clinical Account Specialist Intern](https://jobright.ai/jobs/info/66d2052dbc3a4d2194f0aeba?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Sep 21 |
 | **[Higginbotham](https://www.higginbotham.com)** | **[Summer Internship - Learning & Development](https://jobright.ai/jobs/info/66d227ee3d99b5c9d8862d02?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Sep 21 |
 | **[Pentair](http://www.pentair.com)** | **[Engineering Leadership Development Program Internship](https://jobright.ai/jobs/info/66ed0d2586d719a6f83b2377?utm_campaign=1057&utm_source=git)** | North Aurora, IL | On Site | Sep 21 |
@@ -118,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[Pentair](http://www.pentair.com)** | **[Engineering Leadership Development Program Internship](https://jobright.ai/jobs/info/66ed2ce43c5b3790274965ff?utm_campaign=1057&utm_source=git)** | Hanover Park, IL | On Site | Sep 21 |
 | **[Destination Hotels](http://www.destinationhotels.com)** | **[Recreation Intern](https://jobright.ai/jobs/info/66d20661659a47297bbda3ab?utm_campaign=1057&utm_source=git)** | Isle of Palms, SC | On Site | Sep 21 |
 | **[Telecare Corporation](http://www.telecarecorp.com)** | **[Internship Opportunities for All Telecare Locations](https://jobright.ai/jobs/info/66d223d1a4cb73d9cdd7be3c?utm_campaign=1057&utm_source=git)** | Alameda, CA | On Site | Sep 21 |
-| **[Charter Schools USA](http://www.charterschoolsusa.com)** | **[Intern Teacher](https://jobright.ai/jobs/info/66efd034b01c17885bd44bf1?utm_campaign=1057&utm_source=git)** | Tallahassee, FL | On Site | Sep 21 |
-| ↳ | **[Intern Teacher](https://jobright.ai/jobs/info/66efd034b01c17885bd44bf3?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Sep 21 |
+| **[Charter Schools USA](http://www.charterschoolsusa.com)** | **[Intern Teacher](https://jobright.ai/jobs/info/66efd034b01c17885bd44bf3?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Sep 21 |
+| ↳ | **[Intern Teacher](https://jobright.ai/jobs/info/66efd034b01c17885bd44bf1?utm_campaign=1057&utm_source=git)** | Tallahassee, FL | On Site | Sep 21 |
 | **[Cintas](http://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/66d25a91f396c6f40612e5fa?utm_campaign=1057&utm_source=git)** | Cumberland, RI | On Site | Sep 21 |
 | **[GHD](http://www.ghd.com)** | **[General Internship](https://jobright.ai/jobs/info/66bc95cb498f95abec233de7?utm_campaign=1057&utm_source=git)** | King of Prussia, PA | On Site | Sep 21 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Associate Clinical Account Specialist Intern](https://jobright.ai/jobs/info/66d2052dbc3a4d2194f0aec4?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Sep 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Spring 2025 College Internship - Front Desk & Recreation](https://jobright.ai/jobs/info/66eb699e89487af4aeaa0687?utm_campaign=1057&utm_source=git)** | Vail, CO | On Site | Sep 20 |
 | **[Merck](http://www.merck.com)** | **[Quantitative Pharmacology Pharmacometrics Intern](https://jobright.ai/jobs/info/66e34891a52a9f46b6ad7d54?utm_campaign=1057&utm_source=git)** | Rahway, NJ | Hybrid | Sep 20 |
 | **[Viaflex](https://viaflex.com)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/66ee469c42d12b7b92c94945?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD | On Site | Sep 20 |
-| **[Simply Youth Institute](http://SimplyYouthInstitute.com)** | **[Program Assistant Intern](https://jobright.ai/jobs/info/66eecaa0ee29b75408825151?utm_campaign=1057&utm_source=git)** | Eugene, OR | On Site | Sep 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
