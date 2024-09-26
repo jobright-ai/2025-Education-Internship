@@ -58,6 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Melanoma Research Foundation](https://www.melanoma.org)** | **[Education Intern - Fall (Hybrid)](https://jobright.ai/jobs/info/66f4cc15d1ce2b918cbffcdb?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Sep 25 |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[Instructional Designer](https://jobright.ai/jobs/info/66f4d945338a412e91491922?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Sep 25 |
+| **[USL Spokane](https://www.spokanevelocityfc.com/)** | **[USL Spokane Summer Intern](https://jobright.ai/jobs/info/66f4d945338a412e914918aa?utm_campaign=1057&utm_source=git)** | Spokane, WA | On Site | Sep 25 |
 | **[University of Pennsylvania](http://www.upenn.edu)** | **[Summer Undergraduate Mentored Research Program](https://jobright.ai/jobs/info/66f4c8cc9addd2508018a76d?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Sep 25 |
 | **[Fidelity](https://www.fidelity.com)** | **[Summer 2025 Undergraduate Internship - Corporate Services Support](https://jobright.ai/jobs/info/66e8cb9918a28c153fe45253?utm_campaign=1057&utm_source=git)** | Merrimack, NH | Hybrid | Sep 25 |
 | **[ACCESS](https://accessgroupinc.org)** | **[Skills Trainer](https://jobright.ai/jobs/info/66f4c3a697db4190eeeaf53b?utm_campaign=1057&utm_source=git)** | Hot Springs National Park, AR | Hybrid | Sep 25 |
@@ -77,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Wilton Re](http://www.wiltonre.com)** | **[Summer 2025 Internship](https://jobright.ai/jobs/info/66f49fac1e2e516883a549da?utm_campaign=1057&utm_source=git)** | Norwalk, CT | Hybrid | Sep 25 |
 | **[LocumJobsOnline](https://www.locumtenensonline.com)** | **[Locum Physician (MD/DO) - Pediatrics](https://jobright.ai/jobs/info/66f4a58ec34c5a3251633867?utm_campaign=1057&utm_source=git)** | Billings, MT | On Site | Sep 25 |
 | **[Onward Energy](https://www.onwardenergy.com/)** | **[Summer Internships 2025](https://jobright.ai/jobs/info/66f4a1de62ca3ccfeb9fb975?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Sep 25 |
+| **[Young Storytellers](http://www.youngstorytellers.com)** | **[Volunteer Writing Mentor](https://jobright.ai/jobs/info/66f4d8cd37a3845ad316e393?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Sep 25 |
 | **[Primoris Services Corporation](http://prim.com)** | **[Full-time Opportunities for TSTC Students](https://jobright.ai/jobs/info/66f48d868b7f9a3208cb9dcd?utm_campaign=1057&utm_source=git)** | Belton, TX | On Site | Sep 25 |
 | **[Divergent](http://www.divergent3d.com)** | **[Summer 2025 Internship](https://jobright.ai/jobs/info/66f48c2760fcaad8ab3e85a0?utm_campaign=1057&utm_source=git)** | Torrance, CA | On Site | Sep 25 |
 | **[The University of Texas Medical Branch](http://www.utmb.edu/)** | **[CMC Medct Aide Studnt Trainee](https://jobright.ai/jobs/info/66f499cbd2f65c831fd2ee1c?utm_campaign=1057&utm_source=git)** | Beeville, TX | On Site | Sep 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Safelite](http://www.safelite.com)** | **[Summer 2025 Intern](https://jobright.ai/jobs/info/66d81c4d09b938232ac175e8?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Sep 25 |
 | **[Phillips 66](http://www.phillips66.com/)** | **[University Intern - Information Technology](https://jobright.ai/jobs/info/66bb3eeeac3b3f4149ac40a9?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Sep 25 |
 | **[Berkeley Research Group](http://www.thinkbrg.com)** | **[Summer Associate - Economics and Data Analytics](https://jobright.ai/jobs/info/66bbf3d96d26c47cac744425?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Sep 25 |
-| **[IBM](http://www.ibm.com)** | **[Returning Intern](https://jobright.ai/jobs/info/66d7ce9698d2c780b0a41160?utm_campaign=1057&utm_source=git)** | Armonk, NY | On Site | Sep 25 |
-| **[Phillips 66](http://www.phillips66.com/)** | **[University Intern - Procurement](https://jobright.ai/jobs/info/66c5512cb24563b567b712cb?utm_campaign=1057&utm_source=git)** | Bartlesville, OK | On Site | Sep 25 |
-| ↳ | **[University Intern - Finance/Accounting](https://jobright.ai/jobs/info/66bae54ed525d3976189ae75?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
