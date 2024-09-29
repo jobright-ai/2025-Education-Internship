@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Coker College](http://www.coker.edu/)** | **[Graduate Assistant Positions](https://jobright.ai/jobs/info/66f93483a45c5c716c2df96c?utm_campaign=1057&utm_source=git)** | Hartsville, SC | On Site | Sep 29 |
 | **[Driftwood Hospitality Management](https://driftwoodhospitality.com)** | **[Summer Internship Program](https://jobright.ai/jobs/info/66f91451a7cf8b5a3f8f2bb0?utm_campaign=1057&utm_source=git)** | Plano, TX | On Site | Sep 29 |
 | **[Trinity Health MI](https://bit.ly/3y0fhsr)** | **[Graduate Nurse Intern - Mother/Baby/WCU](https://jobright.ai/jobs/info/66f90bd66be766b4face61cc?utm_campaign=1057&utm_source=git)** | Muskegon, MI | On Site | Sep 28 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Graduate Assistant](https://jobright.ai/jobs/info/66f8cc9a61861ddd0c07021d?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Sep 28 |
@@ -72,11 +73,11 @@ For a complete list, click the following sortable link below:
 | **[The Davey Tree Expert Co.](http://www.davey.com/)** | **[Arborist Trainee Internship](https://jobright.ai/jobs/info/66f85c145d50e2892ca2612b?utm_campaign=1057&utm_source=git)** | Acton, MA | On Site | Sep 28 |
 | ↳ | **[Arborist Trainee Internship](https://jobright.ai/jobs/info/66f863e8460904bfafbc2448?utm_campaign=1057&utm_source=git)** | Latham, NY | On Site | Sep 28 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Investments Internship Program](https://jobright.ai/jobs/info/66f83dec13ef8b8e96630088?utm_campaign=1057&utm_source=git)** | Massachusetts, United States | Remote | Sep 28 |
-| **[Nabidios](www.nabidios.com)** | **[Investments Internship Program](https://jobright.ai/jobs/info/66f83b02344cde7b954e9e6d?utm_campaign=1057&utm_source=git)** | NYC Metro Area | Remote | Sep 28 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[Financial Aid Counselor](https://jobright.ai/jobs/info/66f81eaa2da33ae9bcf56b99?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Sep 28 |
-| ↳ | **[Instructional Designer](https://jobright.ai/jobs/info/66f81eaa2da33ae9bcf56b9a?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Sep 28 |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[Instructional Designer](https://jobright.ai/jobs/info/66f81eaa2da33ae9bcf56b9a?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Sep 28 |
+| ↳ | **[Financial Aid Counselor](https://jobright.ai/jobs/info/66f81eaa2da33ae9bcf56b99?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Sep 28 |
 | **[Piper Sandler](https://www.pipersandler.com/)** | **[MBA Investment Banking Fellowship Program](https://jobright.ai/jobs/info/66f800ae36b2a30651b3c444?utm_campaign=1057&utm_source=git)** | Greater Houston | On Site | Sep 28 |
 | **[Greenwood Project](http://www.greenwoodproject.org)** | **[Greenwood Project Scholar Internship](https://jobright.ai/jobs/info/66f80a6c2f25e03bf76c7b5f?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Sep 28 |
+| **[VIDA BEHAVIORAL HEALTH ASSOCIATES, LLC](https://www.linkedin.com/company/55679589)** | **[Mental Health Counselor/ MH Intern](https://jobright.ai/jobs/info/66f9551850d3d230c3caf583?utm_campaign=1057&utm_source=git)** | Palm Beach Gardens, FL | Hybrid | Sep 28 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Summer Supply Chain/Health, Safety, Environment Intern](https://jobright.ai/jobs/info/66f7fffef2fdf522d6c7b88f?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Sep 28 |
 | ↳ | **[Summer Business Administration/Legal & HR Intern](https://jobright.ai/jobs/info/66f7f751d20d38ccd64a80e3?utm_campaign=1057&utm_source=git)** | Jefferson City, MO | On Site | Sep 28 |
 | ↳ | **[Summer Supply Chain/Health, Safety, Environment Intern](https://jobright.ai/jobs/info/66f7f751d20d38ccd64a80f5?utm_campaign=1057&utm_source=git)** | North Carolina, United States | On Site | Sep 28 |
@@ -86,6 +87,8 @@ For a complete list, click the following sortable link below:
 | **[The Emerge Center](https://emergela.org/)** | **[Registered Line Technician Intern](https://jobright.ai/jobs/info/66f7f3d360ae944b3ff22cdb?utm_campaign=1057&utm_source=git)** | Baton Rouge, LA | On Site | Sep 28 |
 | **[Financial Independence](https://www.figmarketing.com/)** | **[Internship Program - Spring and Summer Rotations](https://jobright.ai/jobs/info/66f7f3d360ae944b3ff22d19?utm_campaign=1057&utm_source=git)** | Cornelius, NC | On Site | Sep 28 |
 | **[Action Behavior Centers](https://www.actionbehavior.com)** | **[Behavior Analyst in Training](https://jobright.ai/jobs/info/66a33ca3aa04e96d25adecd8?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Sep 28 |
+| **[AVERA MEDICAL GROUP INTERNAL MEDICINE](https://www.linkedin.com/company/54794379)** | **[Licensed Practical Nurse (LPN) - Internal Medicine](https://jobright.ai/jobs/info/66f9354bd266c9df715097e4?utm_campaign=1057&utm_source=git)** | Baltic, SD | On Site | Sep 28 |
+| ↳ | **[Licensed Practical Nurse (LPN) - Internal Medicine](https://jobright.ai/jobs/info/66f9354bd266c9df715097e6?utm_campaign=1057&utm_source=git)** | Renner, SD | On Site | Sep 28 |
 | **[CEMEX](http://www.cemex.com/)** | **[Professional Internship Development Ready Mix](https://jobright.ai/jobs/info/66db41c3e9f063610bd08774?utm_campaign=1057&utm_source=git)** | Knoxville, TN | On Site | Sep 28 |
 | ↳ | **[Professional Internship Development Ready Mix](https://jobright.ai/jobs/info/66db41c3e9f063610bd0876f?utm_campaign=1057&utm_source=git)** | Decatur, AL | On Site | Sep 28 |
 | **[Morningstar](http://www.morningstar.com/)** | **[Morningstar Summer Internship Program](https://jobright.ai/jobs/info/66dbb7d601f8ec42202026bc?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Sep 28 |
@@ -150,11 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Instructional Design Internship](https://jobright.ai/jobs/info/66be91b55ed46d88a72bc80b?utm_campaign=1057&utm_source=git)** | Pleasant Prairie, WI | On Site | Sep 27 |
 | **[Duke University](http://www.duke.edu)** | **[Graduate Student Interviewer](https://jobright.ai/jobs/info/66f732b92692ef9ff72ab67e?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Sep 27 |
 | **[Berkley Technology Services](https://berkley-bts.com)** | **[Summer 2025 Intern](https://jobright.ai/jobs/info/66e34eb59c221d7f993adb8d?utm_campaign=1057&utm_source=git)** | Manassas, VA | On Site | Sep 27 |
-| **[University of Pennsylvania](http://www.upenn.edu)** | **[Lippincott Library of the Wharton School Intern](https://jobright.ai/jobs/info/66f30d838a3ea2de08ebd0e6?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Sep 27 |
-| **[Berkley Technology Services](https://berkley-bts.com)** | **[Summer 2025 Intern](https://jobright.ai/jobs/info/66df54e1dc580b3afe945cd7?utm_campaign=1057&utm_source=git)** | Urbandale, IA | On Site | Sep 27 |
+| ↳ | **[Summer 2025 Intern](https://jobright.ai/jobs/info/66df54e1dc580b3afe945cd7?utm_campaign=1057&utm_source=git)** | Urbandale, IA | On Site | Sep 27 |
 | **[Agora](https://agora.unicef.org/)** | **[Youth Engagement Internship](https://jobright.ai/jobs/info/66f24603e00ac1d7d1e02def?utm_campaign=1057&utm_source=git)** | New York, United States | Hybrid | Sep 27 |
 | **[Ethos Veterinary Health](https://www.ethosvet.com)** | **[Avian & Exotics Specialty Internship](https://jobright.ai/jobs/info/66f72845d990f672ad7cd235?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Sep 27 |
 | **[Admiral Insurance Group](https://www.admiralins.com)** | **[Summer Intern - Underwriting Services](https://jobright.ai/jobs/info/66ecd743b98a339d51be41b6?utm_campaign=1057&utm_source=git)** | Moorestown, NJ | On Site | Sep 27 |
-| **[AECOM](http://www.aecom.com/)** | **[Transportation Intern](https://jobright.ai/jobs/info/66f72845d990f672ad7cd2f4?utm_campaign=1057&utm_source=git)** | Louisville, KY | Hybrid | Sep 27 |
-| **[Applied Research Laboratory at Penn State University](https://www.arl.psu.edu)** | **[Student Opportunities in Applied Research (SOAR) Intern](https://jobright.ai/jobs/info/66f7258345eeeb72f0887d87?utm_campaign=1057&utm_source=git)** | Centre County, PA | On Site | Sep 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
