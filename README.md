@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[Financial Aid Specialist](https://jobright.ai/jobs/info/66fa17b8549bc3e548274a4e?utm_campaign=1057&utm_source=git)** | Broken Arrow, OK | On Site | Sep 29 |
+| **[Johnson & Johnson](http://www.jnj.com)** | **[Associate Clinical Account Specialist Intern](https://jobright.ai/jobs/info/66fa011c67d47cd425cd49f8?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Sep 29 |
+| **[The Davey Tree Expert Co.](http://www.davey.com/)** | **[Arborist Trainee Internship](https://jobright.ai/jobs/info/66fa034ccd6d0fd3bc1be044?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Sep 29 |
+| ↳ | **[Arborist Trainee Internship](https://jobright.ai/jobs/info/66f9f47a118ee701a08b9dda?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Sep 29 |
 | **[SeaWorld Parks & Entertainment](http://seaworldentertainment.com)** | **[Sesame Place University Internship (Paid)](https://jobright.ai/jobs/info/66f9ea1edf20f0b2d92205da?utm_campaign=1057&utm_source=git)** | Langhorne, PA | On Site | Sep 29 |
 | **[Morehouse College National Alumni Association](http://www.morehousecollegealumni.org/)** | **[Work-Study Office Assistant](https://jobright.ai/jobs/info/66f9c6021ad0c41a46924613?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Sep 29 |
 | **[Desert Choice Schools](http://desertchoiceschools.com)** | **[Intern School Psychologist](https://jobright.ai/jobs/info/66f9b7c410715c968581a40e?utm_campaign=1057&utm_source=git)** | Flagstaff, AZ | On Site | Sep 29 |
@@ -67,8 +71,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Arborist Trainee Internship](https://jobright.ai/jobs/info/66f9a06722f7f2fb408d47bd?utm_campaign=1057&utm_source=git)** | Gorham, ME | On Site | Sep 29 |
 | ↳ | **[Arborist Trainee Internship](https://jobright.ai/jobs/info/66f99bf582c8d32abb2ea1bb?utm_campaign=1057&utm_source=git)** | Meredith, NH | On Site | Sep 29 |
 | ↳ | **[Arborist Trainee Internship](https://jobright.ai/jobs/info/66f99bf582c8d32abb2ea1b9?utm_campaign=1057&utm_source=git)** | Lancaster, NY | On Site | Sep 29 |
-| ↳ | **[Arborist Trainee Internship](https://jobright.ai/jobs/info/66f99bf582c8d32abb2ea1b2?utm_campaign=1057&utm_source=git)** | Danvers, MA | On Site | Sep 29 |
 | ↳ | **[Arborist Trainee Internship](https://jobright.ai/jobs/info/66f99bf582c8d32abb2ea1b6?utm_campaign=1057&utm_source=git)** | Sterling, VA | On Site | Sep 29 |
+| ↳ | **[Arborist Trainee Internship](https://jobright.ai/jobs/info/66f99bf582c8d32abb2ea1b2?utm_campaign=1057&utm_source=git)** | Danvers, MA | On Site | Sep 29 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Financial Aid Counselor](https://jobright.ai/jobs/info/66f9729db04d5acf4a68735d?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Sep 29 |
 | **[Coker College](http://www.coker.edu/)** | **[Graduate Assistant Positions](https://jobright.ai/jobs/info/66f93483a45c5c716c2df96c?utm_campaign=1057&utm_source=git)** | Hartsville, SC | On Site | Sep 29 |
 | **[Driftwood Hospitality Management](https://driftwoodhospitality.com)** | **[Summer Internship Program](https://jobright.ai/jobs/info/66f91451a7cf8b5a3f8f2bb0?utm_campaign=1057&utm_source=git)** | Plano, TX | On Site | Sep 29 |
@@ -151,10 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Bellevue Public Schools](https://www.bellevuepublicschools.org/)** | **[Assistant Boys Wrestling Coach](https://jobright.ai/jobs/info/66d9e18974d19475a0be1d2e?utm_campaign=1057&utm_source=git)** | Omaha Metropolitan Area | On Site | Sep 27 |
 | **[CPS Energy](http://www.cpsenergy.com)** | **[Intern-College-Community Engagement](https://jobright.ai/jobs/info/66f72de6973a2a042ecd23fc?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Sep 27 |
 | **[Uline](http://www.uline.com)** | **[Instructional Design Internship](https://jobright.ai/jobs/info/66be91b55ed46d88a72bc80b?utm_campaign=1057&utm_source=git)** | Pleasant Prairie, WI | On Site | Sep 27 |
-| **[Duke University](http://www.duke.edu)** | **[Graduate Student Interviewer](https://jobright.ai/jobs/info/66f732b92692ef9ff72ab665?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Sep 27 |
+| **[Duke University](http://www.duke.edu)** | **[Graduate Student Interviewer](https://jobright.ai/jobs/info/66f732b92692ef9ff72ab67e?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Sep 27 |
 | **[Berkley Technology Services](https://berkley-bts.com)** | **[Summer 2025 Intern](https://jobright.ai/jobs/info/66e34eb59c221d7f993adb8d?utm_campaign=1057&utm_source=git)** | Manassas, VA | On Site | Sep 27 |
-| ↳ | **[Summer 2025 Intern](https://jobright.ai/jobs/info/66df54e1dc580b3afe945cd7?utm_campaign=1057&utm_source=git)** | Urbandale, IA | On Site | Sep 27 |
-| **[Agora](https://agora.unicef.org/)** | **[Youth Engagement Internship](https://jobright.ai/jobs/info/66f24603e00ac1d7d1e02def?utm_campaign=1057&utm_source=git)** | New York, United States | Hybrid | Sep 27 |
-| **[Ethos Veterinary Health](https://www.ethosvet.com)** | **[Avian & Exotics Specialty Internship](https://jobright.ai/jobs/info/66f72845d990f672ad7cd235?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Sep 27 |
-| **[Admiral Insurance Group](https://www.admiralins.com)** | **[Summer Intern - Underwriting Services](https://jobright.ai/jobs/info/66ecd743b98a339d51be41b6?utm_campaign=1057&utm_source=git)** | Moorestown, NJ | On Site | Sep 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
