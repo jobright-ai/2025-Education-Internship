@@ -58,9 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Speech Clinical Fellowship Year Intern](https://jobright.ai/jobs/info/670163284ed79f5f02e4c876?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Oct 05 |
+| **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Medical Unit](https://jobright.ai/jobs/info/6701a69e0b0ac3ca37117399?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Oct 05 |
 | **[BayMark Health Services](http://baymark.com/)** | **[Full Time Substance Use Counselor/Counselor Intern](https://jobright.ai/jobs/info/670145aff9fb7949a7eb0fe4?utm_campaign=1057&utm_source=git)** | Waco, TX | On Site | Oct 05 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Automotive Student Summer Rotation](https://jobright.ai/jobs/info/670134b1c26f1993a4019640?utm_campaign=1057&utm_source=git)** | Camden, NJ | On Site | Oct 05 |
-| **[Stoneridge](http://www.stoneridge.com)** | **[Michigan State University Industry Days](https://jobright.ai/jobs/info/67017da3660e30e8dc4d8011?utm_campaign=1057&utm_source=git)** | Detroit Metro | On Site | Oct 05 |
 | **[Protiviti](http://www.protiviti.com)** | **[Seattle Digital Intern - 2025](https://jobright.ai/jobs/info/66c7babeb58997a29801f3ed?utm_campaign=1057&utm_source=git)** | Seattle, WA | Hybrid | Oct 05 |
 | **[Georgia-Pacific LLC](http://www.gp.com/aboutus/companyoverview/index.html)** | **[Consumer Products Professional Internship Program (JumpStart) - Summer 2025](https://jobright.ai/jobs/info/66c7fb7d2a96218b475d9f4c?utm_campaign=1057&utm_source=git)** | Halsey, OR | On Site | Oct 05 |
 | **[The Stepping Stones Group, LLC](http://thesteppingstonesgroup.com/)** | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/6701752bdaa3e8e1d2bf0174?utm_campaign=1057&utm_source=git)** | Chicago Heights, IL | On Site | Oct 05 |
@@ -109,10 +109,7 @@ For a complete list, click the following sortable link below:
 | **[Saint Mary-of-the-Woods College](http://www.smwc.edu/)** | **[Student Employment - Graduate Assistant Men's Volleyball](https://jobright.ai/jobs/info/6700d2fa6f9f48a27591cf85?utm_campaign=1057&utm_source=git)** | Saint Mary-of-the-Woods, IN | On Site | Oct 04 |
 | ↳ | **[Student Employment - Student Programming Assistant](https://jobright.ai/jobs/info/6700d2fa6f9f48a27591cfb6?utm_campaign=1057&utm_source=git)** | Saint Mary-of-the-Woods, IN | On Site | Oct 04 |
 | **[Capital City Public Charter School](https://www.ccpcs.org)** | **[Middle & High School Administrative Assistant - Internship](https://jobright.ai/jobs/info/66ffece89bd4fd011316489c?utm_campaign=1057&utm_source=git)** | Concord, NH | On Site | Oct 04 |
-| **[Verizon](https://www.verizon.com)** | **[WE24 Conference Network Performance Summer 2025 Internship](https://jobright.ai/jobs/info/67011d98f53d9834faf1cfc5?utm_campaign=1057&utm_source=git)** | Chandler, AZ | On Site | Oct 04 |
-| ↳ | **[WE24 Conference Network Performance Summer 2025 Internship](https://jobright.ai/jobs/info/67011d98f53d9834faf1cfc9?utm_campaign=1057&utm_source=git)** | Lewis Center, OH | On Site | Oct 04 |
-| ↳ | **[WE24 Conference Network Performance Summer 2025 Internship](https://jobright.ai/jobs/info/67011d98f53d9834faf1cfcb?utm_campaign=1057&utm_source=git)** | Folsom, CA | On Site | Oct 04 |
-| ↳ | **[WE24 Conference Network Performance Summer 2025 Internship](https://jobright.ai/jobs/info/67011d98f53d9834faf1cfd0?utm_campaign=1057&utm_source=git)** | Bellevue, WA | On Site | Oct 04 |
+| **[Verizon](https://www.verizon.com)** | **[WE24 Conference Network Performance Summer 2025 Internship](https://jobright.ai/jobs/info/67011d98f53d9834faf1cfc9?utm_campaign=1057&utm_source=git)** | Lewis Center, OH | On Site | Oct 04 |
 | **[CIBC US](https://us.cibc.com/en/home.html)** | **[Commercial Banking Training Program 2025 Summer Intern](https://jobright.ai/jobs/info/67011a83e07ff7fd4f7727aa?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Oct 04 |
 | **[Seattle Children's](https://www.seattlechildrens.org/)** | **[Child Life Specialist - ICU](https://jobright.ai/jobs/info/66ffca81c1f50ca714280c20?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Oct 04 |
 | **[Thermo Fisher Scientific](http://www.thermofisher.com)** | **[Clinical Research Intern](https://jobright.ai/jobs/info/66ffc9db70cd358b6e2e2ad9?utm_campaign=1057&utm_source=git)** | Wilmington, NC | Remote | Oct 04 |
@@ -157,4 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Texas A&M University](http://www.tamu.edu/)** | **[Extension Intern](https://jobright.ai/jobs/info/67002fcfcf2c3aa1fffe34bc?utm_campaign=1057&utm_source=git)** | College Station, TX | On Site | Oct 03 |
 | **[PwC](http://pwc.com)** | **[Practicante Universitario en Estadística](https://jobright.ai/jobs/info/6700389831ac36ca9bb7a6f2?utm_campaign=1057&utm_source=git)** | San José | On Site | Oct 03 |
 | **[Fifth Third Bank](http://53.com)** | **[Commercial Middle Market Internship - Chicago - May 2025](https://jobright.ai/jobs/info/67006c42e06e74ade8b50640?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Oct 03 |
+| **[CNA Insurance](http://www.cna.com)** | **[Underwriting Trainee - Technology](https://jobright.ai/jobs/info/6700362eb713620796e709c3?utm_campaign=1057&utm_source=git)** | New York, NY, USA | Hybrid | Oct 03 |
+| **[Federal Deposit Insurance Corporation (FDIC)](https://fdic.gov)** | **[Student Trainee, (Learning & Development), CG-0399-4/5 Not-To-Exceed (NTE) 1 Year](https://jobright.ai/jobs/info/66ff22ce9c7304d2115685f6?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Oct 03 |
+| **[State of Missouri](http://mo.gov)** | **[Paid Intern](https://jobright.ai/jobs/info/66ff22ce9c7304d211568644?utm_campaign=1057&utm_source=git)** | Union, MO | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
