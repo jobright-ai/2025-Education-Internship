@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Medical Unit](https://jobright.ai/jobs/info/6702ad1b591f3e6f2332465c?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Oct 06 |
+| **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Medical Unit](https://jobright.ai/jobs/info/67031d99356e9c9ebee322ca?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Oct 06 |
+| ↳ | **[RN New Graduate Internship Program - Medical Unit](https://jobright.ai/jobs/info/6702ad1b591f3e6f2332465c?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Oct 06 |
 | **[VCA Animal Hospitals](https://www.vcacareers.com)** | **[Surgical Internship](https://jobright.ai/jobs/info/6702cb47a29ea698523bc757?utm_campaign=1057&utm_source=git)** | West Palm Beach, FL | On Site | Oct 05 |
 | ↳ | **[Specialty Intern - Neurology](https://jobright.ai/jobs/info/6702bd10fbc6e60b4392b849?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Oct 05 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Instructional Designer](https://jobright.ai/jobs/info/6702058bf65caecbe074d172?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Oct 05 |
@@ -68,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Protiviti](http://www.protiviti.com)** | **[Seattle Digital Intern - 2025](https://jobright.ai/jobs/info/66c7babeb58997a29801f3ed?utm_campaign=1057&utm_source=git)** | Seattle, WA | Hybrid | Oct 05 |
 | **[Georgia-Pacific LLC](http://www.gp.com/aboutus/companyoverview/index.html)** | **[Consumer Products Professional Internship Program (JumpStart) - Summer 2025](https://jobright.ai/jobs/info/66c7fb7d2a96218b475d9f4c?utm_campaign=1057&utm_source=git)** | Halsey, OR | On Site | Oct 05 |
 | **[The Stepping Stones Group, LLC](http://thesteppingstonesgroup.com/)** | **[Board Certified Behavior Analyst (BCBA)](https://jobright.ai/jobs/info/6701752bdaa3e8e1d2bf0174?utm_campaign=1057&utm_source=git)** | Chicago Heights, IL | On Site | Oct 05 |
-| **[National University](http://www.nu.edu/)** | **[Test Development Assistant - Federal Work Study](https://jobright.ai/jobs/info/670220f1eaba2e6f82747f35?utm_campaign=1057&utm_source=git)** | United States | Remote | Oct 04 |
 | **[HCA Houston Healthcare](http://hcagulfcoast.com)** | **[Surgical Tech Extern PRN](https://jobright.ai/jobs/info/6700c7235347aebf7a5f5712?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Oct 04 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2025 Development Undergraduate Internship](https://jobright.ai/jobs/info/67011a83e07ff7fd4f7725a6?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Oct 04 |
 | ↳ | **[Summer 2025 Development Undergraduate Internship](https://jobright.ai/jobs/info/67011a83e07ff7fd4f7725b6?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Oct 04 |
