@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ABB](https://global.abb/group/en)** | **[2025 Spring Internship Digital Tools Training](https://jobright.ai/jobs/info/6703dd406a5a75739c24f106?utm_campaign=1057&utm_source=git)** | Fort Smith, AR | On Site | Oct 07 |
+| **[China Institute in America](https://chinainstitute.org/)** | **[Teaching Intern – Children and Youth Programs](https://jobright.ai/jobs/info/6703b5ea62d77334eab6a4cd?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Oct 07 |
+| **[Amtrak](https://amtrakstations.com/)** | **[Summer 2025 - Apprentice Program: Instructional Design Intern - 90365232 - Washington](https://jobright.ai/jobs/info/6703c4b23d544ff4bab3a88e?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Oct 07 |
+| **[Lenovo](http://www.lenovo.com)** | **[Global Supply Chain Internship Program - Summer 2025](https://jobright.ai/jobs/info/6703b1313ffadfd48275925f?utm_campaign=1057&utm_source=git)** | Morrisville, NC | On Site | Oct 07 |
+| **[The Centers](https://thecentersohio.org/)** | **[Counseling Intern (Great Minds Fellowship Eligible)](https://jobright.ai/jobs/info/6703b5ea62d77334eab6a51d?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Oct 07 |
 | **[CEMEX USA](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT SUPPLY CHAIN](https://jobright.ai/jobs/info/67035bf5b77cb65e637aefc5?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Oct 06 |
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/67035bf5b77cb65e637aefc6?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Oct 06 |
 | **[Georgia Gwinnett College](http://www.ggc.edu)** | **[Information Technology: Part Time Faculty - AY 24-25](https://jobright.ai/jobs/info/67035e93c59fb5e42c87fef4?utm_campaign=1057&utm_source=git)** | Lawrenceville, GA | On Site | Oct 06 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[RN New Graduate Internship Program - Psychiatric Services](https://jobright.ai/jobs/info/66ff7ee8d93ac6c3092d63bc?utm_campaign=1057&utm_source=git)** | Vermont, United States | On Site | Oct 03 |
 | ↳ | **[RN New Graduate Internship Program - Surgical Care Unit](https://jobright.ai/jobs/info/66ff7ee8d93ac6c3092d5e82?utm_campaign=1057&utm_source=git)** | Vermont, United States | On Site | Oct 03 |
 | ↳ | **[RN New Graduate Internship Program - Progressive Care Unit](https://jobright.ai/jobs/info/66ff7ee8d93ac6c3092d5e86?utm_campaign=1057&utm_source=git)** | Vermont, United States | On Site | Oct 03 |
-| **[Pediatric Associates Family of Companies](https://pediatricassociates.com/)** | **[Skillbridge Intern, Clinical Learning & Development](https://jobright.ai/jobs/info/66ffb1eec109da515f32d2b2?utm_campaign=1057&utm_source=git)** | Florida, United States | On Site | Oct 03 |
-| **[Salina Regional Health Center](https://www.srhc.com/)** | **[Radiologic Technologist Scholarship](https://jobright.ai/jobs/info/66ff7345fe82b0055f6e7d01?utm_campaign=1057&utm_source=git)** | Kansas, United States | On Site | Oct 03 |
-| **[Cole Health](http://colehealth.com)** | **[Behavior Analyst Intern (BCBA)](https://jobright.ai/jobs/info/66ff70bd9252952acaaa36c7?utm_campaign=1057&utm_source=git)** | Cypress, TX | On Site | Oct 03 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Fall 2024 Youth Education Intern](https://jobright.ai/jobs/info/66ff98493c230953324360f9?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Oct 03 |
-| **[Auburn University](https://www.auburn.edu/)** | **[Graduate Student Assistant - Research and Instruction Services](https://jobright.ai/jobs/info/6700affe3bf801202c016eca?utm_campaign=1057&utm_source=git)** | Auburn, AL | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
