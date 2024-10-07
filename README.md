@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Medical Unit](https://jobright.ai/jobs/info/67031d99356e9c9ebee322ca?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Oct 06 |
+| **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Emergency Department](https://jobright.ai/jobs/info/6703461a4d7170f316a4f138?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Oct 06 |
+| ↳ | **[RN New Graduate Internship Program - Women's and Children's Unit](https://jobright.ai/jobs/info/6703461a4d7170f316a4f139?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Oct 06 |
+| ↳ | **[RN New Graduate Internship Program - Medical Unit](https://jobright.ai/jobs/info/67031d99356e9c9ebee322ca?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Oct 06 |
 | ↳ | **[RN New Graduate Internship Program - Medical Unit](https://jobright.ai/jobs/info/6702ad1b591f3e6f2332465c?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Oct 06 |
 | **[VCA Animal Hospitals](https://www.vcacareers.com)** | **[Surgical Internship](https://jobright.ai/jobs/info/6702cb47a29ea698523bc757?utm_campaign=1057&utm_source=git)** | West Palm Beach, FL | On Site | Oct 05 |
 | ↳ | **[Specialty Intern - Neurology](https://jobright.ai/jobs/info/6702bd10fbc6e60b4392b849?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Oct 05 |
@@ -145,6 +147,8 @@ For a complete list, click the following sortable link below:
 | **[Auburn University](https://www.auburn.edu/)** | **[Graduate Student Assistant - Research and Instruction Services](https://jobright.ai/jobs/info/6700affe3bf801202c016eca?utm_campaign=1057&utm_source=git)** | Auburn, AL | On Site | Oct 03 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Fall 2024 Youth Education Program Intern](https://jobright.ai/jobs/info/66ff57bd9d5f9827fc3166a2?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Oct 03 |
 | ↳ | **[Fall 2024 College Access and Career Readiness Intern](https://jobright.ai/jobs/info/66ff57bd9d5f9827fc316696?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Oct 03 |
+| **[Verizon](https://www.verizon.com)** | **[WE24 Conference Network Performance Summer 2025 Internship](https://jobright.ai/jobs/info/6703494686fe9c54ac60f0b5?utm_campaign=1057&utm_source=git)** | Chandler, AZ | On Site | Oct 03 |
+| **[University of Health Sciences and Pharmacy in St. Louis](https://www.uhsp.edu/)** | **[Adjunct Instructor, Programming Fundamentals Machine Learning Fundamentals](https://jobright.ai/jobs/info/670347e600207defcf811e9a?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Oct 03 |
 | **[Cintas](http://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/66ff51f860c1755475903f94?utm_campaign=1057&utm_source=git)** | Macomb, MI | On Site | Oct 03 |
 | **[Federal Reserve Bank of St. Louis](http://www.stlouisfed.org)** | **[Supervision, Credit & Learning Internship](https://jobright.ai/jobs/info/66ff5262646299eebce33b5f?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Oct 03 |
 | **[Citi](https://www.citi.com)** | **[US Personal Banking Summer Associate, New York, NY - US 2025](https://jobright.ai/jobs/info/66ffaef28cd3bb9af2c8e739?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Oct 03 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[WS Student Assistant](https://jobright.ai/jobs/info/66ff5367918a794eebbe23de?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | Oct 03 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Occupational Support (Family) Coordinator for Students with Intellectual and Developmental Disabilities (IDD)](https://jobright.ai/jobs/info/67006a34b8e7f755a57ec20a?utm_campaign=1057&utm_source=git)** | Triangle Area | On Site | Oct 03 |
 | **[Carroll County Public Schools](https://www.carrollk12.org)** | **[School Psychology Intern - Paid Internship](https://jobright.ai/jobs/info/670017a99d2a558c7d6b3d94?utm_campaign=1057&utm_source=git)** | Carroll County, MD | On Site | Oct 03 |
-| **[Texas A&M University](http://www.tamu.edu/)** | **[Extension Intern](https://jobright.ai/jobs/info/67002fcfcf2c3aa1fffe34bc?utm_campaign=1057&utm_source=git)** | College Station, TX | On Site | Oct 03 |
-| **[PwC](http://pwc.com)** | **[Practicante Universitario en Estadística](https://jobright.ai/jobs/info/6700389831ac36ca9bb7a6f2?utm_campaign=1057&utm_source=git)** | San José | On Site | Oct 03 |
-| **[Fifth Third Bank](http://53.com)** | **[Commercial Middle Market Internship - Chicago - May 2025](https://jobright.ai/jobs/info/67006c42e06e74ade8b50640?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Oct 03 |
-| **[CNA Insurance](http://www.cna.com)** | **[Underwriting Trainee - Technology](https://jobright.ai/jobs/info/6700362eb713620796e709c3?utm_campaign=1057&utm_source=git)** | New York, NY, USA | Hybrid | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
