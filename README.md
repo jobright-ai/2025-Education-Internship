@@ -57,8 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[NYC Health + Hospitals](http://www.nychealthandhospitals.org)** | **[Student Intern Level II](https://jobright.ai/jobs/info/66d23700aa55bc6ca5f87a59?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Oct 13 |
-| **[Vanguard](http://investor.vanguard.com/corporate-portal)** | **[College to Corporate Internship - Advice](https://jobright.ai/jobs/info/670bb24cff008eecf265effd?utm_campaign=1057&utm_source=git)** | Newtown Square, PA | Hybrid | Oct 13 |
+| **[NYC Health + Hospitals](http://www.nychealthandhospitals.org)** | **[Student Intern Level II](https://jobright.ai/jobs/info/66d23700aa55bc6ca5f87a58?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Oct 13 |
 | **[ADP](http://www.adp.com)** | **[OneADP Spring 2025 Internship (May 2025 Grads) - Norfolk, VA](https://jobright.ai/jobs/info/670bb8c8734a44d8aef7f619?utm_campaign=1057&utm_source=git)** | Norfolk, VA | On Site | Oct 13 |
 | ↳ | **[OneADP Spring 2025 Internship (May 2025 Grads) - Louisville, KY](https://jobright.ai/jobs/info/670bb8c8734a44d8aef7f61a?utm_campaign=1057&utm_source=git)** | Louisville, KY | On Site | Oct 13 |
 | **[Nucor Corporation](http://www.nucor.com)** | **[Nucor Technical Academy- NSHC 2025](https://jobright.ai/jobs/info/66d3f7f7106b7b210a6c5b37?utm_campaign=1057&utm_source=git)** | Cofield, NC | On Site | Oct 13 |
@@ -68,17 +67,22 @@ For a complete list, click the following sortable link below:
 | **[BayMark Health Services](http://baymark.com/)** | **[Full Time Substance Use Counselor/Counselor Intern](https://jobright.ai/jobs/info/670afc3dddb8bff7f2de95cc?utm_campaign=1057&utm_source=git)** | Waco, TX | On Site | Oct 12 |
 | **[CHI](https://www.catholichealthinitiatives.org/)** | **[Tuition Sponsorship Rad Tech](https://jobright.ai/jobs/info/670aff46e0ac1b3262c5094a?utm_campaign=1057&utm_source=git)** | Bismarck, ND | On Site | Oct 12 |
 | **[Anderson Regional Health System](https://www.andersonregional.org/)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/670b0929f283c2401e595ad6?utm_campaign=1057&utm_source=git)** | Mississippi, United States | On Site | Oct 12 |
-| ↳ | **[Nurse Intern II Grad Nurse](https://jobright.ai/jobs/info/670b6a07f90d6af51a7a1055?utm_campaign=1057&utm_source=git)** | Mississippi, United States | On Site | Oct 12 |
+| ↳ | **[Nurse Intern II Grad Nurse](https://jobright.ai/jobs/info/670b0929f283c2401e595ac5?utm_campaign=1057&utm_source=git)** | Mississippi, United States | On Site | Oct 12 |
+| **[Howmet Aerospace](https://www.howmet.com/)** | **[Summer 2025 Internship](https://jobright.ai/jobs/info/66ed55d5ea3dac19f538ace0?utm_campaign=1057&utm_source=git)** | Hampton, VA | On Site | Oct 12 |
 | **[Seattle Children's](https://www.seattlechildrens.org/)** | **[Child Life Fellow](https://jobright.ai/jobs/info/670ad1ba6f0a505ee36f48ad?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Oct 12 |
 | **[College Internship Program (CIP)](https://cipworldwide.org/)** | **[Life Skills Coach](https://jobright.ai/jobs/info/670ab750dcf86e9245e606bf?utm_campaign=1057&utm_source=git)** | Berkeley, CA | Hybrid | Oct 12 |
+| **[CEMEX USA](http://www.cemex.com/)** | **[INTERNSHIP DEVELOPMENT PROFESSIONAL - READY MIX](https://jobright.ai/jobs/info/66d10a571649a2ceb79f2a62?utm_campaign=1057&utm_source=git)** | Naples, FL | On Site | Oct 12 |
+| **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Student Analyst Opportunity: 1700+ Hours Completed Required – Join Our Team!](https://jobright.ai/jobs/info/66ee2271e4cea31b5c42da2c?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Oct 12 |
 | **[University of New Haven](http://www.newhaven.edu/)** | **[Tenure Track Assistant Professor - Mechanical Engineering](https://jobright.ai/jobs/info/670a94bb49cc19cc6ba7c7a9?utm_campaign=1057&utm_source=git)** | West Haven, CT | Hybrid | Oct 12 |
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Progressive Care Unit](https://jobright.ai/jobs/info/670a9b637c6d2c38d07abfb7?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Oct 12 |
 | ↳ | **[RN New Graduate Internship Program - Surgical Care Unit](https://jobright.ai/jobs/info/670a920dace1001fba2ae8d4?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Oct 12 |
 | ↳ | **[RN New Graduate Internship Program - Resource Float Pool](https://jobright.ai/jobs/info/670a920dace1001fba2ae8d7?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Oct 12 |
-| ↳ | **[RN New Graduate Internship Program - Emergency Department](https://jobright.ai/jobs/info/670a920dace1001fba2ae8d6?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Oct 12 |
 | ↳ | **[RN New Graduate Internship Program - Psychiatric Services](https://jobright.ai/jobs/info/670a920dace1001fba2ae8d5?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Oct 12 |
+| ↳ | **[RN New Graduate Internship Program - Emergency Department](https://jobright.ai/jobs/info/670a920dace1001fba2ae8d6?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Oct 12 |
 | ↳ | **[RN New Graduate Internship Program - Women's and Children's Unit](https://jobright.ai/jobs/info/670a920dace1001fba2ae8d8?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Oct 12 |
 | **[NewYork-Presbyterian Hospital](http://www.nypventures.org/)** | **[ColumbiaDoctors-Academic General Internist or Family Medicine Physician - Manhattan/Westchester](https://jobright.ai/jobs/info/670aab8b24a38718bcf40fc7?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Oct 12 |
+| **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Student Analyst Opportunity: 1700+ Hours Completed Required – Join Our Team!](https://jobright.ai/jobs/info/66ee2271e4cea31b5c42dbb8?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Oct 12 |
+| **[abrdn](https://www.abrdn.com)** | **[abrdn Investments Summer Internship 2025 - US](https://jobright.ai/jobs/info/670bcde48715a39f2bf55f0f?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Oct 12 |
 | **[Louis Dreyfus Company](http://www.ldc.com/)** | **[Trader Trainee Intern](https://jobright.ai/jobs/info/66e27669da5843aebf17c080?utm_campaign=1057&utm_source=git)** | Memphis, TN | On Site | Oct 12 |
 | **[PotlatchDeltic Corporation](https://www.potlatchdeltic.com/)** | **[SALARIED INTERN-(NB) - CONWAY, AR](https://jobright.ai/jobs/info/66e4c6bcc065adacdcb10da0?utm_campaign=1057&utm_source=git)** | Ola, AR | On Site | Oct 12 |
 | **[Holmes Murphy](http://www.holmesmurphy.com/)** | **[2025 SUMMER INTERNSHIP PROGRAM](https://jobright.ai/jobs/info/670a7fd4f104cdd526478396?utm_campaign=1057&utm_source=git)** | Omaha, NE | On Site | Oct 12 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6709a58bc70fca053c8c33a4?utm_campaign=1057&utm_source=git)** | Pleasant Hill, IA | On Site | Oct 11 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/66ec75a77e3f4d2bca89c2ea?utm_campaign=1057&utm_source=git)** | Lakeside, CA | On Site | Oct 11 |
 | **[Chicago Public Schools](http://www.cps.edu)** | **[Career and Technical Education Cisco Networking Teacher](https://jobright.ai/jobs/info/67098422a4d8aae1de638b85?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Oct 11 |
-| ↳ | **[Career and Technical Education (CTE) Digital Media Teacher](https://jobright.ai/jobs/info/67098422a4d8aae1de638b87?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Oct 11 |
-| ↳ | **[Career and Technical Education (CTE) Auto Tech Teacher](https://jobright.ai/jobs/info/67098422a4d8aae1de638b88?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Oct 11 |
-| **[American Bankers Association](http://www.aba.com)** | **[Intern, DEI](https://jobright.ai/jobs/info/6709d0360cdc3e9f80770720?utm_campaign=1057&utm_source=git)** | US DC Main Office | On Site | Oct 11 |
-| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2025 Intern - Life/Health/IPS Learning Analyst](https://jobright.ai/jobs/info/67097184558f05db5cb36980?utm_campaign=1057&utm_source=git)** | Bloomington, IL | Hybrid | Oct 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
