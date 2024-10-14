@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2025 LNS Undergraduate Internship, DC](https://jobright.ai/jobs/info/670c8dccf9bf05aee7c00efd?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Oct 13 |
+| ↳ | **[Summer 2025 LNS Undergraduate Internship, DC](https://jobright.ai/jobs/info/670c8dccf9bf05aee7c00efc?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Oct 13 |
+| **[Peckham Industries, Inc.](http://peckham.com)** | **[Materials Intern (Req #: 959)](https://jobright.ai/jobs/info/670c7ef7c7cff48bebfbb46d?utm_campaign=1057&utm_source=git)** | Hudson Falls, NY | On Site | Oct 13 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship / Spring Valley, NY](https://jobright.ai/jobs/info/670c624719a5e4f93f35783a?utm_campaign=1057&utm_source=git)** | Spring Valley, NY | On Site | Oct 13 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99983 Financial Aid Specialist - Broken Arrow Campus](https://jobright.ai/jobs/info/670c308dc24f3f7ace1ee60b?utm_campaign=1057&utm_source=git)** | Broken Arrow, OK | On Site | Oct 13 |
 | **[NYC Health + Hospitals](http://www.nychealthandhospitals.org)** | **[Student Intern Level II](https://jobright.ai/jobs/info/66d23700aa55bc6ca5f87a58?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Oct 13 |
-| ↳ | **[Student Intern Level II](https://jobright.ai/jobs/info/66d23700aa55bc6ca5f87a55?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Oct 13 |
-| **[Vanguard](http://investor.vanguard.com/corporate-portal)** | **[College to Corporate Internship - Advice](https://jobright.ai/jobs/info/670c4a8f7b0ae4fd99489c6a?utm_campaign=1057&utm_source=git)** | Newtown Square, PA | Hybrid | Oct 13 |
+| ↳ | **[Student Intern Level II](https://jobright.ai/jobs/info/66d23700aa55bc6ca5f87a59?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Oct 13 |
 | **[ADP](http://www.adp.com)** | **[OneADP Spring 2025 Internship (May 2025 Grads) - Norfolk, VA](https://jobright.ai/jobs/info/670bb8c8734a44d8aef7f619?utm_campaign=1057&utm_source=git)** | Norfolk, VA | On Site | Oct 13 |
 | ↳ | **[OneADP Spring 2025 Internship (May 2025 Grads) - Louisville, KY](https://jobright.ai/jobs/info/670bb8c8734a44d8aef7f61a?utm_campaign=1057&utm_source=git)** | Louisville, KY | On Site | Oct 13 |
 | **[HCA Healthcare](http://hcahealthcare.com)** | **[Chaplain Intern PRN](https://jobright.ai/jobs/info/66c51b778d42d33addf440cc?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Oct 13 |
@@ -71,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[College Internship Program (CIP)](https://cipworldwide.org/)** | **[Life Skills Coach](https://jobright.ai/jobs/info/670b607adbbb34e08a96be4f?utm_campaign=1057&utm_source=git)** | Berkeley, CA | On Site | Oct 12 |
 | **[Abarca Health](http://abarcahealth.com)** | **[Registered Nurse - Operating Room Internship](https://jobright.ai/jobs/info/670b4e4733e887c8d2064df1?utm_campaign=1057&utm_source=git)** | Gastonia, NC | On Site | Oct 12 |
 | **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Behavior Therapist Intern (BT)](https://jobright.ai/jobs/info/670bb24cff008eecf265ef40?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Oct 12 |
+| **[University of Florida](https://www.ufl.edu)** | **[RecSports Student Assistant - Esports intern](https://jobright.ai/jobs/info/670c6a4982680e6f2c7e3a0f?utm_campaign=1057&utm_source=git)** | Gainesville, FL | On Site | Oct 12 |
 | **[BayMark Health Services](http://baymark.com/)** | **[Full Time Substance Use Counselor/Counselor Intern](https://jobright.ai/jobs/info/670afc3dddb8bff7f2de95cc?utm_campaign=1057&utm_source=git)** | Waco, TX | On Site | Oct 12 |
 | **[CEMEX USA](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/66d0b5674472805aa7419170?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Oct 12 |
 | **[CHI](https://www.catholichealthinitiatives.org/)** | **[Tuition Sponsorship Rad Tech](https://jobright.ai/jobs/info/670aff46e0ac1b3262c5094a?utm_campaign=1057&utm_source=git)** | Bismarck, ND | On Site | Oct 12 |
@@ -90,7 +93,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[RN New Graduate Internship Program - Women's and Children's Unit](https://jobright.ai/jobs/info/670a920dace1001fba2ae8d8?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Oct 12 |
 | **[NewYork-Presbyterian Hospital](http://www.nypventures.org/)** | **[ColumbiaDoctors-Academic General Internist or Family Medicine Physician - Manhattan/Westchester](https://jobright.ai/jobs/info/670aab8b24a38718bcf40fc7?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Oct 12 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Student Analyst Opportunity: 1700+ Hours Completed Required – Join Our Team!](https://jobright.ai/jobs/info/66ee2271e4cea31b5c42dbb8?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Oct 12 |
-| **[abrdn](https://www.abrdn.com)** | **[abrdn Investments Summer Internship 2025 - US](https://jobright.ai/jobs/info/670bcde48715a39f2bf55f0f?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Oct 12 |
 | **[Louis Dreyfus Company](http://www.ldc.com/)** | **[Trader Trainee Intern](https://jobright.ai/jobs/info/66e27669da5843aebf17c080?utm_campaign=1057&utm_source=git)** | Memphis, TN | On Site | Oct 12 |
 | **[PotlatchDeltic Corporation](https://www.potlatchdeltic.com/)** | **[SALARIED INTERN-(NB) - CONWAY, AR](https://jobright.ai/jobs/info/66e4c6bcc065adacdcb10da0?utm_campaign=1057&utm_source=git)** | Ola, AR | On Site | Oct 12 |
 | **[Holmes Murphy](http://www.holmesmurphy.com/)** | **[2025 SUMMER INTERNSHIP PROGRAM](https://jobright.ai/jobs/info/670a7fd4f104cdd526478396?utm_campaign=1057&utm_source=git)** | Omaha, NE | On Site | Oct 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tillamook County Creamery Association](https://www.tillamook.com/)** | **[2025 Summer Internship – Tillamook Cheese Production](https://jobright.ai/jobs/info/6709a339ffa355a931c75dda?utm_campaign=1057&utm_source=git)** | Tillamook, OR | On Site | Oct 11 |
 | **[Behavioral Health Network, Inc (BHN)](https://www.bhninc.org/)** | **[Master Level IHT Clinician Intern](https://jobright.ai/jobs/info/66e1c202fe17ffb1c317a65a?utm_campaign=1057&utm_source=git)** | Springfield, MA | On Site | Oct 11 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Associate Degree Apprenticeship Program - RCIS Claims - Montana (Summer 2025)](https://jobright.ai/jobs/info/66d9d3082dee75ed9b5f3420?utm_campaign=1057&utm_source=git)** | Montana, United States | On Site | Oct 11 |
-| **[Broward Health](http://www.browardhealth.org)** | **[Registered Respiratory Therapist-Internal Staffing-Pool Nights-BHC-13570](https://jobright.ai/jobs/info/6709c675e4c48aa4b0a35cc3?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, FL | On Site | Oct 11 |
-| **[PotlatchDeltic Corporation](https://www.potlatchdeltic.com/)** | **[SALARIED INTERN-(NB) - WARREN, AR](https://jobright.ai/jobs/info/66e4c6bcc065adacdcb10d9e?utm_campaign=1057&utm_source=git)** | Warren, AR | On Site | Oct 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
