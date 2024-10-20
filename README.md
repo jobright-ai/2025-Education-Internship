@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2025 Summer Supply Chain/Health, Safety, Environment Intern](https://jobright.ai/jobs/info/66f7f751d20d38ccd64a80f5?utm_campaign=1057&utm_source=git)** | North Carolina, United States | On Site | Oct 20 |
 | **[US Electrical Services](https://uselectricalservices.com/)** | **[Trade School Intern](https://jobright.ai/jobs/info/6714c3e076986c590da2d1b5?utm_campaign=1057&utm_source=git)** | Poughkeepsie, NY | On Site | Oct 20 |
 | **[Portland Rescue Mission](https://www.portlandrescuemission.org)** | **[PRM Internship Program (Paid)](https://jobright.ai/jobs/info/6714c143cf90b24bb1d9e015?utm_campaign=1057&utm_source=git)** | Portland, OR | On Site | Oct 20 |
 | **[Year Up](http://yearup.org)** | **[Computer Systems Administration Job Training Program](https://jobright.ai/jobs/info/6710c1936e13ebc1899f5cfc?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Oct 19 |
@@ -68,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Child Guidance Resource Centers](https://cgrc.org)** | **[Intern-Outpatient Therapist-Master Program Enrollee](https://jobright.ai/jobs/info/67084b3ad45778ee1889da6c?utm_campaign=1057&utm_source=git)** | Havertown, PA | On Site | Oct 19 |
 | **[City of Berkeley](https://www.cityofberkeley.info/)** | **[Intern](https://jobright.ai/jobs/info/6714367ff407ccfc387a49c9?utm_campaign=1057&utm_source=git)** | Berkeley, CA | On Site | Oct 19 |
 | **[Gardner-Webb University](http://gardner-webb.edu)** | **[Athletic Graduate Intern-Golf](https://jobright.ai/jobs/info/671433583bfdd9e24d2cf218?utm_campaign=1057&utm_source=git)** | Shelby, NC | On Site | Oct 19 |
-| **[North Central College](http://www.northcentralcollege.edu/)** | **[Cardinal Athletic Band Uniform Committee Student Worker (Student)](https://jobright.ai/jobs/info/67142ddbd036315f58b6583f?utm_campaign=1057&utm_source=git)** | Naperville, IL | On Site | Oct 19 |
-| ↳ | **[Grants and Sponsored Research Student Worker](https://jobright.ai/jobs/info/67142ddbd036315f58b6584f?utm_campaign=1057&utm_source=git)** | Naperville, IL | On Site | Oct 19 |
+| **[North Central College](http://www.northcentralcollege.edu/)** | **[Grants and Sponsored Research Student Worker](https://jobright.ai/jobs/info/67142ddbd036315f58b6584f?utm_campaign=1057&utm_source=git)** | Naperville, IL | On Site | Oct 19 |
+| ↳ | **[Cardinal Athletic Band Uniform Committee Student Worker (Student)](https://jobright.ai/jobs/info/67142ddbd036315f58b6583f?utm_campaign=1057&utm_source=git)** | Naperville, IL | On Site | Oct 19 |
 | ↳ | **[Sociology and Anthropology - Student Worker](https://jobright.ai/jobs/info/67142ddbd036315f58b6584d?utm_campaign=1057&utm_source=git)** | Naperville, IL | On Site | Oct 19 |
 | ↳ | **[Intramural Student Sports Official](https://jobright.ai/jobs/info/67142ddbd036315f58b65867?utm_campaign=1057&utm_source=git)** | Naperville, IL | On Site | Oct 19 |
 | **[University of Arkansas System](https://www.uasys.edu)** | **[Graduate Assistant- School Of Education-2](https://jobright.ai/jobs/info/67142ddbd036315f58b65839?utm_campaign=1057&utm_source=git)** | Pine Bluff, AR | On Site | Oct 19 |
@@ -80,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Gardner-Webb University](http://gardner-webb.edu)** | **[Student Employee (Workstudy) - 2024-2025](https://jobright.ai/jobs/info/671423854bee9faf990e33a0?utm_campaign=1057&utm_source=git)** | Shelby, NC | On Site | Oct 19 |
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Women's and Children's Unit](https://jobright.ai/jobs/info/671443b9c4c04f31dc9ca44a?utm_campaign=1057&utm_source=git)** | Vermont, United States | On Site | Oct 19 |
 | **[Detroit Medical Center](http://www.dmc.org/)** | **[Pharmacy Intern P2 Contingent Rotating](https://jobright.ai/jobs/info/67141ebe1b8e50111bcf89f7?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Oct 19 |
-| **[Blue Cross Blue Shield Association](http://www.bcbs.com/)** | **[Extern Pharmacist](https://jobright.ai/jobs/info/6713e7ef6b894b045061d424?utm_campaign=1057&utm_source=git)** | US DC 9th St NW | On Site | Oct 19 |
 | **[North Central College](http://www.northcentralcollege.edu/)** | **[International Student Ambassadors](https://jobright.ai/jobs/info/6713e4226151bf1892a0e1dc?utm_campaign=1057&utm_source=git)** | Naperville, IL | On Site | Oct 19 |
 | **[Pflugerville ISD](https://www.pfisd.net/)** | **[Summer School High School Educational Associate (Internal Only)](https://jobright.ai/jobs/info/671409cec964015cee8a0850?utm_campaign=1057&utm_source=git)** | Pflugerville, TX | On Site | Oct 19 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Porcelain and Decorative Arts Museum Student Security Assistant](https://jobright.ai/jobs/info/6713df0c54cacfdceb2aa910?utm_campaign=1057&utm_source=git)** | Athens, GA | On Site | Oct 19 |
