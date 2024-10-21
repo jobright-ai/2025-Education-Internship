@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[U.S. Department of Transportation](https://www.transportation.gov/)** | **[Volpe Pathways Internship Program – Student Trainees](https://jobright.ai/jobs/info/671614f7e42801e39b792b02?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Oct 21 |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[Kaleidoscope: Undergraduate Diversity Program - Virtual 2025](https://jobright.ai/jobs/info/6715df9081334ae1a5dbe190?utm_campaign=1057&utm_source=git)** | Boston, NY | On Site | Oct 20 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern I - Clinical Research Associate](https://jobright.ai/jobs/info/6715c12b73ad3c3ff48e66bd?utm_campaign=1057&utm_source=git)** | San Diego, CA | Hybrid | Oct 20 |
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Claims Intern (Summer 2025)](https://jobright.ai/jobs/info/67156b272823ad6b6a9b1e0f?utm_campaign=1057&utm_source=git)** | Westfield Center, OH | Hybrid | Oct 20 |
 | **[The Centers](https://thecentersohio.org/)** | **[SUD Counseling Intern](https://jobright.ai/jobs/info/6715325f880a01313c6f3cf8?utm_campaign=1057&utm_source=git)** | East Cleveland, OH | On Site | Oct 20 |
@@ -66,11 +68,11 @@ For a complete list, click the following sortable link below:
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2025 Summer Computer Science/Software/Cyber Security Intern](https://jobright.ai/jobs/info/66f7f4eaf68915bf1f09e99b?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Oct 20 |
 | ↳ | **[2025 Summer Business Administration/Legal & HR Intern (Jefferson City)](https://jobright.ai/jobs/info/66f7f751d20d38ccd64a80e3?utm_campaign=1057&utm_source=git)** | Jefferson City, MO | On Site | Oct 20 |
 | ↳ | **[2025 Summer Supply Chain/Health, Safety, Environment Intern](https://jobright.ai/jobs/info/66f7f751d20d38ccd64a80f5?utm_campaign=1057&utm_source=git)** | North Carolina, United States | On Site | Oct 20 |
+| ↳ | **[2025 Summer Supply Chain/Health, Safety, Environment Intern](https://jobright.ai/jobs/info/66f7fffef2fdf522d6c7b88f?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Oct 20 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Documentation Specialist)](https://jobright.ai/jobs/info/66dbbfd4314959e7109b0876?utm_campaign=1057&utm_source=git)** | Winchester, VA | Hybrid | Oct 20 |
 | ↳ | **[Summer Associate Internship (Documentation Specialist)](https://jobright.ai/jobs/info/66dbdc24718ec9e6e99fc529?utm_campaign=1057&utm_source=git)** | Pensacola, FL | Hybrid | Oct 20 |
 | **[US Electrical Services](https://uselectricalservices.com/)** | **[Trade School Intern](https://jobright.ai/jobs/info/6714c3e076986c590da2d1b5?utm_campaign=1057&utm_source=git)** | Poughkeepsie, NY | On Site | Oct 20 |
 | **[Portland Rescue Mission](https://www.portlandrescuemission.org)** | **[PRM Internship Program (Paid)](https://jobright.ai/jobs/info/6714c143cf90b24bb1d9e015?utm_campaign=1057&utm_source=git)** | Portland, OR | On Site | Oct 20 |
-| **[Year Up](http://yearup.org)** | **[Computer Systems Administration Job Training Program](https://jobright.ai/jobs/info/6710c1936e13ebc1899f5cfc?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Oct 19 |
 | **[Lands' End Japan](http://www.landsend.co.jp)** | **[Discover Lands' End's Award-Winning Internship](https://jobright.ai/jobs/info/67148b67467c9cd8535c7dbc?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Oct 19 |
 | **[Riverside Community Care](http://www.riversidecc.org)** | **[Life Skills Internship - Flexible Start Date - Summer 2024](https://jobright.ai/jobs/info/671479858181ee9163698e14?utm_campaign=1057&utm_source=git)** | Needham, MA | On Site | Oct 19 |
 | ↳ | **[BTS Community Based Clinical Intern- September / October 2025 Start Date](https://jobright.ai/jobs/info/671479858181ee9163698e16?utm_campaign=1057&utm_source=git)** | Norwood, MA | On Site | Oct 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[A&F Co. Freshman Forum - Summer 2025](https://jobright.ai/jobs/info/66da2d6433fad8e5938a0033?utm_campaign=1057&utm_source=git)** | Columbus, OH | Remote | Oct 18 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[Kaleidoscope: Undergraduate Diversity Program - Virtual 2025](https://jobright.ai/jobs/info/67134710a2464fa4f8fdb989?utm_campaign=1057&utm_source=git)** | Boston, NY | On Site | Oct 18 |
 | **[Western States Equipment](https://westernstatescat.com)** | **[Western States Tech Academy - Spokane, WA Campus](https://jobright.ai/jobs/info/6713347812a52c2820d1cc10?utm_campaign=1057&utm_source=git)** | Liberty Lake, WA | On Site | Oct 18 |
-| **[PotlatchDeltic Corporation](https://www.potlatchdeltic.com/)** | **[SALARIED INTERN-(NB) - CONWAY, AR](https://jobright.ai/jobs/info/66e4c6bcc065adacdcb10da0?utm_campaign=1057&utm_source=git)** | Ola, AR | On Site | Oct 18 |
-| **[MD Anderson Cancer Center](https://www.mdanderson.org/)** | **[Research Intern - Cardiology (Yusuf Lab)](https://jobright.ai/jobs/info/67133035ed03ace47108a501?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
