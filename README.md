@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Georgia Gwinnett College](http://www.ggc.edu)** | **[Student Assistant - Software Development and Grant Administrative (NSF - HSI)](https://jobright.ai/jobs/info/671d9289aa7c661e143ae012?utm_campaign=1057&utm_source=git)** | Lawrenceville, GA | On Site | Oct 26 |
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Adjunct Faculty - Industrial Technology, CNC NIMS](https://jobright.ai/jobs/info/671d705e287381856085ce95?utm_campaign=1057&utm_source=git)** | Crown Point, IN | On Site | Oct 26 |
 | **[Lamar State College-Port Arthur](http://www.lamarpa.edu/)** | **[Student Assistants for Advising Office](https://jobright.ai/jobs/info/671d705e287381856085ce55?utm_campaign=1057&utm_source=git)** | Port Arthur, TX | On Site | Oct 26 |
+| **[Pflugerville ISD](https://www.pfisd.net/)** | **[Summer Skilled Trades Academy Teacher (Internal Only - Location: Weiss High School)](https://jobright.ai/jobs/info/671d97fed2d05120747e4d6f?utm_campaign=1057&utm_source=git)** | Pflugerville, TX | On Site | Oct 26 |
 | **[University of Arkansas System](https://www.uasys.edu)** | **[Extra Help/Trojan Works Student Experience Center Assistant](https://jobright.ai/jobs/info/671d6c32a830abe30dcaef49?utm_campaign=1057&utm_source=git)** | Little Rock, AR | On Site | Oct 26 |
 | **[St. Lawrence University](http://www.stlawu.edu/)** | **[Graduate Assistant - Womens Lacrosse](https://jobright.ai/jobs/info/671d6c32a830abe30dcaef3f?utm_campaign=1057&utm_source=git)** | Canton, NY | On Site | Oct 26 |
 | ↳ | **[Graduate Assistant - Mens & Womens Alpine Ski](https://jobright.ai/jobs/info/671d6c32a830abe30dcaef41?utm_campaign=1057&utm_source=git)** | Canton, NY | On Site | Oct 26 |
@@ -111,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[The University of Texas Rio Grande Valley](https://www.utrgv.edu/)** | **[Graduate Assistant](https://jobright.ai/jobs/info/671c22270eae7b45197304a1?utm_campaign=1057&utm_source=git)** | Edinburg, TX | On Site | Oct 25 |
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Intern-Personal Training](https://jobright.ai/jobs/info/671c1ddcd57b9e1f88d17862?utm_campaign=1057&utm_source=git)** | Romeoville, IL | On Site | Oct 25 |
 | **[Lakeview Center](https://elakeviewcenter.org/)** | **[Intern Masters in Counseling](https://jobright.ai/jobs/info/671c2d0a583f31aee9472469?utm_campaign=1057&utm_source=git)** | Pensacola, FL | On Site | Oct 25 |
-| **[Goucher College](http://www.goucher.edu/)** | **[Graduate Assistant](https://jobright.ai/jobs/info/671c1f17e1adde146d3fdb02?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Oct 25 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Health Promotion Intern (Unpaid)](https://jobright.ai/jobs/info/671c1f17e1adde146d3fdb16?utm_campaign=1057&utm_source=git)** | Glendale, AZ | Hybrid | Oct 25 |
 | **[Florida Polytechnic University](https://floridapolytechnic.org)** | **[Student Research Assistant](https://jobright.ai/jobs/info/671c0dd8b03a5ff009582c5f?utm_campaign=1057&utm_source=git)** | JD Alexander Florida Polytechnic Main Campus | On Site | Oct 25 |
 | **[Federal Reserve Bank of Chicago](http://www.chicagofed.org)** | **[Summer 2025 Intern - Non- Business Majors - ex. Statistics, Social Science](https://jobright.ai/jobs/info/671c1f17e1adde146d3fdbb8?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Oct 25 |
@@ -126,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[Chobani](http://www.chobani.com)** | **[Intern- Continuous Improvement La Colombe](https://jobright.ai/jobs/info/671c0e15cb8128a666e03f32?utm_campaign=1057&utm_source=git)** | Norton Shores, MI | On Site | Oct 25 |
 | **[University of Arkansas System](https://www.uasys.edu)** | **[Graduate Assistant (Multiple Hirers)](https://jobright.ai/jobs/info/671c18897b324d50973ccebc?utm_campaign=1057&utm_source=git)** | Little Rock, AR | On Site | Oct 25 |
 | **[College of Coastal Georgia](http://www.ccga.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/671c2727a39d9fa9e3ef1ab3?utm_campaign=1057&utm_source=git)** | Brunswick, GA | On Site | Oct 25 |
-| ↳ | **[Student Assistant - Student Life (Fall 2024)](https://jobright.ai/jobs/info/671c2727a39d9fa9e3ef1aba?utm_campaign=1057&utm_source=git)** | Brunswick, GA | On Site | Oct 25 |
 | ↳ | **[Student Assistant Game Worker](https://jobright.ai/jobs/info/671c2727a39d9fa9e3ef1ab0?utm_campaign=1057&utm_source=git)** | Brunswick, GA | On Site | Oct 25 |
+| ↳ | **[Student Assistant - Student Life (Fall 2024)](https://jobright.ai/jobs/info/671c2727a39d9fa9e3ef1aba?utm_campaign=1057&utm_source=git)** | Brunswick, GA | On Site | Oct 25 |
 | **[Regent University](http://www.regent.edu/)** | **[Graduate Assistant (Counseling Department Admin Support)](https://jobright.ai/jobs/info/671c50803a4a336fe5c35ead?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA | On Site | Oct 25 |
 | ↳ | **[Graduate Assistant (Clerical Support)](https://jobright.ai/jobs/info/671c50803a4a336fe5c35eca?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA | On Site | Oct 25 |
 | ↳ | **[Graduate Assistant (Engineering & Computer Science Department)](https://jobright.ai/jobs/info/671c50803a4a336fe5c35eb1?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA | On Site | Oct 25 |
@@ -142,9 +143,9 @@ For a complete list, click the following sortable link below:
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship (Summer 2025) / Eden Prairie, MN](https://jobright.ai/jobs/info/671c1f17e1adde146d3fde28?utm_campaign=1057&utm_source=git)** | Eden Prairie, MN | On Site | Oct 25 |
 | ↳ | **[Arborist Trainee Internship (Summer 2025) / S St. Paul, MN](https://jobright.ai/jobs/info/671c1f17e1adde146d3fde30?utm_campaign=1057&utm_source=git)** | South St Paul, MN | On Site | Oct 25 |
 | ↳ | **[Arborist Trainee Internship (Summer 2025) / Plymouth, MN](https://jobright.ai/jobs/info/671c1f17e1adde146d3fde32?utm_campaign=1057&utm_source=git)** | Plymouth, MN | On Site | Oct 25 |
-| **[Oliver Wyman](http://www.oliverwyman.com)** | **[Business Insurance Summer Intern](https://jobright.ai/jobs/info/671bf283e31403ca8f387340?utm_campaign=1057&utm_source=git)** | Alpharetta - Kimball | On Site | Oct 25 |
+| **[Oliver Wyman](http://www.oliverwyman.com)** | **[Business Insurance Summer Intern](https://jobright.ai/jobs/info/671bf283e31403ca8f3873ce?utm_campaign=1057&utm_source=git)** | Atlanta - Northside | On Site | Oct 25 |
+| ↳ | **[Business Insurance Summer Intern](https://jobright.ai/jobs/info/671bf283e31403ca8f387340?utm_campaign=1057&utm_source=git)** | Alpharetta - Kimball | On Site | Oct 25 |
 | ↳ | **[Business Insurance Summer Intern](https://jobright.ai/jobs/info/671bf283e31403ca8f3873cd?utm_campaign=1057&utm_source=git)** | Pensacola - Garden | On Site | Oct 25 |
-| ↳ | **[Business Insurance Summer Intern](https://jobright.ai/jobs/info/671bf283e31403ca8f3873ce?utm_campaign=1057&utm_source=git)** | Atlanta - Northside | On Site | Oct 25 |
 | ↳ | **[Business Insurance Summer Intern](https://jobright.ai/jobs/info/671bf283e31403ca8f3873cf?utm_campaign=1057&utm_source=git)** | Ridgeland - Newpointe | On Site | Oct 25 |
 | **[Columbia University Irving Medical Center](https://www.columbiacardiology.org)** | **[Student Research Worker](https://jobright.ai/jobs/info/671c0b38346faa43965311f7?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Oct 25 |
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[School Psychologist Intern General Pool - Lower Rio Grande Valley](https://jobright.ai/jobs/info/671d3bc6f99db2623594a8ed?utm_campaign=1057&utm_source=git)** | Rio Grande City, TX | On Site | Oct 25 |
@@ -152,9 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer 2025 Intern - Information and Library Science](https://jobright.ai/jobs/info/671be832e0c3299e8ff38c46?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Oct 25 |
 | **[Eliot Community Human Services](https://www.eliotchs.org)** | **[MA Level Intern](https://jobright.ai/jobs/info/671c0163220c014c82f08ef2?utm_campaign=1057&utm_source=git)** | Lynn, MA | On Site | Oct 25 |
 | **[University of North Texas](http://unt.edu)** | **[School Internship Field Supervisor](https://jobright.ai/jobs/info/671c0163220c014c82f09085?utm_campaign=1057&utm_source=git)** | Denton, TX | On Site | Oct 25 |
-| **[CoreLogic](https://www.corelogic.com/)** | **[Intern, Instructional Design](https://jobright.ai/jobs/info/671be1d0ae9e42961f0ed920?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Oct 25 |
 | **[Vermont State University](https://vermontstate.edu)** | **[Sports Management Graduate Assistant](https://jobright.ai/jobs/info/671c15ea0a152cd17e45a069?utm_campaign=1057&utm_source=git)** | Castleton, VT | On Site | Oct 25 |
+| **[CoreLogic](https://www.corelogic.com/)** | **[Intern, Instructional Design](https://jobright.ai/jobs/info/671bde42d8c50306b99bac53?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Oct 25 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer 2025 Intern - Non- Business Majors - ex. Statistics, Social Science](https://jobright.ai/jobs/info/671bd8bf39b25581e2026785?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Oct 25 |
 | **[University of Denver](http://du.edu)** | **[Student Instructional Designer, Colorado National Wastewater Surveillance System Center of Excellence](https://jobright.ai/jobs/info/671bd8f94dea2b8ac87ecb95?utm_campaign=1057&utm_source=git)** | Denver, CO | Hybrid | Oct 25 |
-| **[Get Engaged](https://getengagedmedia.com/)** | **[Internship](https://jobright.ai/jobs/info/66e29391dc0eeb1abf2b9f93?utm_campaign=1057&utm_source=git)** | Syracuse-Auburn Area | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
