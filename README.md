@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[South Orange County Community College District](https://www.socccd.edu)** | **[Student Worker (SC - AMPD - Event Promotions/Graphics)](https://jobright.ai/jobs/info/671e9529e64f58b58c7d1fc6?utm_campaign=1057&utm_source=git)** | Mission Viejo, CA | On Site | Oct 27 |
+| **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[R100301 Student Research Farm Assistant (Operations)](https://jobright.ai/jobs/info/66f837427c27a16e9687bdc5?utm_campaign=1057&utm_source=git)** | Wooster Campus | On Site | Oct 27 |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[Kaleidoscope: Undergraduate Diversity Program - Virtual 2025](https://jobright.ai/jobs/info/671e64cbc8237368e91234eb?utm_campaign=1057&utm_source=git)** | Boston, NY | On Site | Oct 27 |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[N99983 Financial Aid Specialist - Broken Arrow Campus](https://jobright.ai/jobs/info/671e61bf39aa408fa5181841?utm_campaign=1057&utm_source=git)** | Broken Arrow, OK | On Site | Oct 27 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Field Service Training Multimedia (NSTC)](https://jobright.ai/jobs/info/671e326dd7bab459765d7b49?utm_campaign=1057&utm_source=git)** | Camden, NJ | On Site | Oct 27 |
+| **[Tufts Medicine](https://www.tuftsmedicine.org)** | **[Clinical Research Coordinator I - General Internal Medicine](https://jobright.ai/jobs/info/66e52b99ea8d04a526a0fb67?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Oct 27 |
 | **[Delta Air Lines](http://www.delta.com)** | **[MBA Intern, Financial Strategy (Summer 2025)](https://jobright.ai/jobs/info/66c9106de37396f68100ce50?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Oct 27 |
 | **[Lockton](https://global.lockton.com)** | **[Summer 2025 Internship (Kansas City)](https://jobright.ai/jobs/info/66c90dfaa690e3a712e6a5d4?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | Oct 27 |
 | ↳ | **[Summer 2025 Internship (Detroit)](https://jobright.ai/jobs/info/66c90dfaa690e3a712e6a5de?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Oct 27 |
@@ -79,7 +84,9 @@ For a complete list, click the following sortable link below:
 | **[Jooble](https://jooble.org/)** | **[Software Development Job Training Program](https://jobright.ai/jobs/info/671d1e17cdd965b3031ab5b3?utm_campaign=1057&utm_source=git)** | Tucker, GA | On Site | Oct 26 |
 | ↳ | **[Sales Fundamentals Job Training Opportunity](https://jobright.ai/jobs/info/671d28ddf48a73898ddd3ef5?utm_campaign=1057&utm_source=git)** | Orange Park, FL | On Site | Oct 26 |
 | **[University of Wyoming](https://www.uwyo.edu/)** | **[Pooled Position Limited Tempor - Student Educational Opportunity (SEO) Tutor](https://jobright.ai/jobs/info/671d10887ee8a86b6e414d8e?utm_campaign=1057&utm_source=git)** | Laramie, WY | On Site | Oct 26 |
+| **[Farm Credit Mid-America](http://www.e-farmcredit.com/careers)** | **[Summer Intern 2025](https://jobright.ai/jobs/info/66e38b927457a05e71ff3980?utm_campaign=1057&utm_source=git)** | Louisville, KY | Hybrid | Oct 26 |
 | **[Capital City Public Charter School](https://www.ccpcs.org)** | **[Middle School Math Teacher or Intern](https://jobright.ai/jobs/info/671cfc62d0157b9f7e58531f?utm_campaign=1057&utm_source=git)** | Concord, NH | On Site | Oct 26 |
+| **[Greif](http://greif.com)** | **[Summer 2025 Environmental Health and Safety Intern](https://jobright.ai/jobs/info/66c797eb100f18fdf001d088?utm_campaign=1057&utm_source=git)** | Delaware, OH | On Site | Oct 26 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Field Service Training Multimedia (DC Training Center)](https://jobright.ai/jobs/info/671ce4d18b2946e30d71606e?utm_campaign=1057&utm_source=git)** | Frederick, MD | On Site | Oct 26 |
 | **[Capital City Public Charter School](https://www.ccpcs.org)** | **[Middle & High School Administrative Assistant - Internship](https://jobright.ai/jobs/info/671ce9a3692d2652bec3bf49?utm_campaign=1057&utm_source=git)** | Concord, NH | On Site | Oct 26 |
 | **[Penske Truck Leasing](https://www.pensketruckleasing.com)** | **[Corporate Summer Internship Program](https://jobright.ai/jobs/info/67004fe8e01baab035db318d?utm_campaign=1057&utm_source=git)** | Reading, PA | On Site | Oct 26 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Park University](http://www.park.edu/)** | **[Student Success Coach](https://jobright.ai/jobs/info/671d4e97b7557c11cbaa94bb?utm_campaign=1057&utm_source=git)** | Parkville, MO | On Site | Oct 25 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship (Summer 2025) / Eden Prairie, MN](https://jobright.ai/jobs/info/671c1f17e1adde146d3fde28?utm_campaign=1057&utm_source=git)** | Eden Prairie, MN | On Site | Oct 25 |
 | ↳ | **[Arborist Trainee Internship (Summer 2025) / S St. Paul, MN](https://jobright.ai/jobs/info/671c1f17e1adde146d3fde30?utm_campaign=1057&utm_source=git)** | South St Paul, MN | On Site | Oct 25 |
-| ↳ | **[Arborist Trainee Internship (Summer 2025) / Plymouth, MN](https://jobright.ai/jobs/info/671c1f17e1adde146d3fde32?utm_campaign=1057&utm_source=git)** | Plymouth, MN | On Site | Oct 25 |
-| **[Oliver Wyman](http://www.oliverwyman.com)** | **[Business Insurance Summer Intern](https://jobright.ai/jobs/info/671bf283e31403ca8f3873cd?utm_campaign=1057&utm_source=git)** | Pensacola - Garden | On Site | Oct 25 |
-| ↳ | **[Business Insurance Summer Intern](https://jobright.ai/jobs/info/671bf283e31403ca8f3873cf?utm_campaign=1057&utm_source=git)** | Ridgeland - Newpointe | On Site | Oct 25 |
-| ↳ | **[Business Insurance Summer Intern](https://jobright.ai/jobs/info/671bf283e31403ca8f387340?utm_campaign=1057&utm_source=git)** | Alpharetta - Kimball | On Site | Oct 25 |
-| ↳ | **[Business Insurance Summer Intern](https://jobright.ai/jobs/info/671bf283e31403ca8f3873ce?utm_campaign=1057&utm_source=git)** | Atlanta - Northside | On Site | Oct 25 |
-| **[Columbia University Irving Medical Center](https://www.columbiacardiology.org)** | **[Student Research Worker](https://jobright.ai/jobs/info/671c0b38346faa43965311f7?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Oct 25 |
-| **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[School Psychologist Intern General Pool - Lower Rio Grande Valley](https://jobright.ai/jobs/info/671d3bc6f99db2623594a8ed?utm_campaign=1057&utm_source=git)** | Rio Grande City, TX | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
