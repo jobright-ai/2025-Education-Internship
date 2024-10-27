@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[Kaleidoscope: Undergraduate Diversity Program - Virtual 2025](https://jobright.ai/jobs/info/671dba2a98148a22f5d568d4?utm_campaign=1057&utm_source=git)** | Boston, NY | Remote | Oct 26 |
+| **[Utility Supply and Construction Company](https://www.uscco.com)** | **[2025 Summer Internship](https://jobright.ai/jobs/info/671db806644d5fba3d268b48?utm_campaign=1057&utm_source=git)** | Reed City, MI | On Site | Oct 26 |
 | **[Georgia Gwinnett College](http://www.ggc.edu)** | **[Student Assistant - Software Development and Grant Administrative (NSF - HSI)](https://jobright.ai/jobs/info/671d9289aa7c661e143ae012?utm_campaign=1057&utm_source=git)** | Lawrenceville, GA | On Site | Oct 26 |
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Adjunct Faculty - Industrial Technology, CNC NIMS](https://jobright.ai/jobs/info/671d705e287381856085ce95?utm_campaign=1057&utm_source=git)** | Crown Point, IN | On Site | Oct 26 |
 | **[Lamar State College-Port Arthur](http://www.lamarpa.edu/)** | **[Student Assistants for Advising Office](https://jobright.ai/jobs/info/671d705e287381856085ce55?utm_campaign=1057&utm_source=git)** | Port Arthur, TX | On Site | Oct 26 |
@@ -70,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Millikin University](http://millikin.edu)** | **[Assistant Football Coach Intern](https://jobright.ai/jobs/info/671d213e41d09aaf2254b28a?utm_campaign=1057&utm_source=git)** | Decatur, IL | Hybrid | Oct 26 |
 | **[Jooble](https://jooble.org/)** | **[Software Development Job Training Program](https://jobright.ai/jobs/info/671d1e17cdd965b3031ab5b3?utm_campaign=1057&utm_source=git)** | Tucker, GA | On Site | Oct 26 |
 | ↳ | **[Sales Fundamentals Job Training Opportunity](https://jobright.ai/jobs/info/671d28ddf48a73898ddd3ef5?utm_campaign=1057&utm_source=git)** | Orange Park, FL | On Site | Oct 26 |
-| **[L.E.K. Consulting](http://www.lek.com)** | **[Kaleidoscope: Undergraduate Diversity Program - Virtual 2025](https://jobright.ai/jobs/info/671d191dbfdb63763870f635?utm_campaign=1057&utm_source=git)** | Boston, NY | On Site | Oct 26 |
 | **[University of Wyoming](https://www.uwyo.edu/)** | **[Pooled Position Limited Tempor - Student Educational Opportunity (SEO) Tutor](https://jobright.ai/jobs/info/671d10887ee8a86b6e414d8e?utm_campaign=1057&utm_source=git)** | Laramie, WY | On Site | Oct 26 |
 | **[Capital City Public Charter School](https://www.ccpcs.org)** | **[Middle School Math Teacher or Intern](https://jobright.ai/jobs/info/671cfc62d0157b9f7e58531f?utm_campaign=1057&utm_source=git)** | Concord, NH | On Site | Oct 26 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Field Service Training Multimedia (DC Training Center)](https://jobright.ai/jobs/info/671ce4d18b2946e30d71606e?utm_campaign=1057&utm_source=git)** | Frederick, MD | On Site | Oct 26 |
@@ -87,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Psychology Fellow - Obstetrics & Gynecology - Reproductive Psychology Program (Full-Time, Hybrid)](https://jobright.ai/jobs/info/671c8236c729687a021a5b18?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 25 |
 | **[State University of New York College of Optometry](http://www.sunyopt.edu/)** | **[Internship and Community Outreach Associate](https://jobright.ai/jobs/info/671c8236c729687a021a5af5?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Oct 25 |
 | **[Virginia Tech](http://www.vt.edu)** | **[Assistant/Associate/Full Professor of Large Animal Internal Medicine](https://jobright.ai/jobs/info/671c8f879d0129dc425a044e?utm_campaign=1057&utm_source=git)** | Blacksburg, VA | On Site | Oct 25 |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[Kaleidoscope: Undergraduate Diversity Program - Virtual 2025](https://jobright.ai/jobs/info/671c77bd110804783ab434be?utm_campaign=1057&utm_source=git)** | Boston, NY | On Site | Oct 25 |
 | **[State of Missouri](http://mo.gov)** | **[Paid Intern](https://jobright.ai/jobs/info/671c749acd0c392384078132?utm_campaign=1057&utm_source=git)** | Owensville, MO | On Site | Oct 25 |
 | ↳ | **[Paid Intern](https://jobright.ai/jobs/info/671c719e608f8cab624584a2?utm_campaign=1057&utm_source=git)** | Union, MO | On Site | Oct 25 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Psychosocial Support Intern (Unpaid)](https://jobright.ai/jobs/info/671c719e608f8cab62458460?utm_campaign=1057&utm_source=git)** | Glendale, AZ | Hybrid | Oct 25 |
@@ -143,10 +145,10 @@ For a complete list, click the following sortable link below:
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship (Summer 2025) / Eden Prairie, MN](https://jobright.ai/jobs/info/671c1f17e1adde146d3fde28?utm_campaign=1057&utm_source=git)** | Eden Prairie, MN | On Site | Oct 25 |
 | ↳ | **[Arborist Trainee Internship (Summer 2025) / S St. Paul, MN](https://jobright.ai/jobs/info/671c1f17e1adde146d3fde30?utm_campaign=1057&utm_source=git)** | South St Paul, MN | On Site | Oct 25 |
 | ↳ | **[Arborist Trainee Internship (Summer 2025) / Plymouth, MN](https://jobright.ai/jobs/info/671c1f17e1adde146d3fde32?utm_campaign=1057&utm_source=git)** | Plymouth, MN | On Site | Oct 25 |
-| **[Oliver Wyman](http://www.oliverwyman.com)** | **[Business Insurance Summer Intern](https://jobright.ai/jobs/info/671bf283e31403ca8f3873ce?utm_campaign=1057&utm_source=git)** | Atlanta - Northside | On Site | Oct 25 |
-| ↳ | **[Business Insurance Summer Intern](https://jobright.ai/jobs/info/671bf283e31403ca8f387340?utm_campaign=1057&utm_source=git)** | Alpharetta - Kimball | On Site | Oct 25 |
-| ↳ | **[Business Insurance Summer Intern](https://jobright.ai/jobs/info/671bf283e31403ca8f3873cd?utm_campaign=1057&utm_source=git)** | Pensacola - Garden | On Site | Oct 25 |
+| **[Oliver Wyman](http://www.oliverwyman.com)** | **[Business Insurance Summer Intern](https://jobright.ai/jobs/info/671bf283e31403ca8f387340?utm_campaign=1057&utm_source=git)** | Alpharetta - Kimball | On Site | Oct 25 |
 | ↳ | **[Business Insurance Summer Intern](https://jobright.ai/jobs/info/671bf283e31403ca8f3873cf?utm_campaign=1057&utm_source=git)** | Ridgeland - Newpointe | On Site | Oct 25 |
+| ↳ | **[Business Insurance Summer Intern](https://jobright.ai/jobs/info/671bf283e31403ca8f3873cd?utm_campaign=1057&utm_source=git)** | Pensacola - Garden | On Site | Oct 25 |
+| ↳ | **[Business Insurance Summer Intern](https://jobright.ai/jobs/info/671bf283e31403ca8f3873ce?utm_campaign=1057&utm_source=git)** | Atlanta - Northside | On Site | Oct 25 |
 | **[Columbia University Irving Medical Center](https://www.columbiacardiology.org)** | **[Student Research Worker](https://jobright.ai/jobs/info/671c0b38346faa43965311f7?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Oct 25 |
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[School Psychologist Intern General Pool - Lower Rio Grande Valley](https://jobright.ai/jobs/info/671d3bc6f99db2623594a8ed?utm_campaign=1057&utm_source=git)** | Rio Grande City, TX | On Site | Oct 25 |
 | ↳ | **[School Psychologist Intern General Pool - Tarrant County](https://jobright.ai/jobs/info/671d3bc6f99db2623594a8f2?utm_campaign=1057&utm_source=git)** | Tarrant County, TX | On Site | Oct 25 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Eliot Community Human Services](https://www.eliotchs.org)** | **[MA Level Intern](https://jobright.ai/jobs/info/671c0163220c014c82f08ef2?utm_campaign=1057&utm_source=git)** | Lynn, MA | On Site | Oct 25 |
 | **[University of North Texas](http://unt.edu)** | **[School Internship Field Supervisor](https://jobright.ai/jobs/info/671c0163220c014c82f09085?utm_campaign=1057&utm_source=git)** | Denton, TX | On Site | Oct 25 |
 | **[Vermont State University](https://vermontstate.edu)** | **[Sports Management Graduate Assistant](https://jobright.ai/jobs/info/671c15ea0a152cd17e45a069?utm_campaign=1057&utm_source=git)** | Castleton, VT | On Site | Oct 25 |
-| **[CoreLogic](https://www.corelogic.com/)** | **[Intern, Instructional Design](https://jobright.ai/jobs/info/671bde42d8c50306b99bac53?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Oct 25 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer 2025 Intern - Non- Business Majors - ex. Statistics, Social Science](https://jobright.ai/jobs/info/671bd8bf39b25581e2026785?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Oct 25 |
-| **[University of Denver](http://du.edu)** | **[Student Instructional Designer, Colorado National Wastewater Surveillance System Center of Excellence](https://jobright.ai/jobs/info/671bd8f94dea2b8ac87ecb95?utm_campaign=1057&utm_source=git)** | Denver, CO | Hybrid | Oct 25 |
+| **[CoreLogic](https://www.corelogic.com/)** | **[Intern, Instructional Design](https://jobright.ai/jobs/info/671bde42d8c50306b99bac1e?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
