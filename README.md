@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[Kaleidoscope: Undergraduate Diversity Program - Virtual 2025](https://jobright.ai/jobs/info/671f1967700db53d97970fc0?utm_campaign=1057&utm_source=git)** | Boston, NY | Remote | Oct 27 |
+| **[HealthCorps](https://www.HealthCorps.org)** | **[Bilingual, Spanish/English Teen Health Education Internship Fall 2024](https://jobright.ai/jobs/info/671f147be239d96a762ca784?utm_campaign=1057&utm_source=git)** | New York County, NY | On Site | Oct 27 |
+| **[Jooble](https://jooble.org/)** | **[Data Analytics Job Training Program](https://jobright.ai/jobs/info/671f4ab0982d9d75c172c083?utm_campaign=1057&utm_source=git)** | Newark, DE | On Site | Oct 27 |
+| ↳ | **[Data Analytics Job Training Program](https://jobright.ai/jobs/info/671f4ab0982d9d75c172c082?utm_campaign=1057&utm_source=git)** | Hockessin, DE | On Site | Oct 27 |
+| ↳ | **[Data Analytics Job Training Program](https://jobright.ai/jobs/info/671f4ab0982d9d75c172c077?utm_campaign=1057&utm_source=git)** | Elkton, MD | On Site | Oct 27 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship (Spring/Summer 2025) / Auburn Hills, MI](https://jobright.ai/jobs/info/671ef73694a2ca639c81564c?utm_campaign=1057&utm_source=git)** | Auburn Hills, MI | On Site | Oct 27 |
 | ↳ | **[Arborist Trainee Internship (Spring/Summer 2025) / Wixom, MI](https://jobright.ai/jobs/info/671ef73694a2ca639c81564d?utm_campaign=1057&utm_source=git)** | Wixom, MI | On Site | Oct 27 |
 | ↳ | **[Arborist Trainee Internship (Spring/Summer 2025) / Monroe, MI](https://jobright.ai/jobs/info/671ef73694a2ca639c81564e?utm_campaign=1057&utm_source=git)** | Monroe, MI | On Site | Oct 27 |
@@ -67,9 +72,9 @@ For a complete list, click the following sortable link below:
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship (Spring/Summer 2025) / Chesterfield, MI](https://jobright.ai/jobs/info/671ee8c386ddb9d61ff26a45?utm_campaign=1057&utm_source=git)** | New Baltimore, MI | On Site | Oct 27 |
 | **[Oberlin College](http://new.oberlin.edu/office/creativity/funding-opportunities/launchu/)** | **[Student Assistant, Office for Disability & Access](https://jobright.ai/jobs/info/671ec2516d922906cec7ad66?utm_campaign=1057&utm_source=git)** | Oberlin, OH | On Site | Oct 27 |
 | **[Piper Sandler](https://www.pipersandler.com/)** | **[2025 Piper Sandler MBA Investment Banking Fellowship Program](https://jobright.ai/jobs/info/671eabc0c9da901d3b6d7344?utm_campaign=1057&utm_source=git)** | Greater Houston | On Site | Oct 27 |
+| **[Sutter Health](http://www.sutterhealth.org)** | **[Child Life Specialist, ACLP Completed Child Life Internship](https://jobright.ai/jobs/info/671f22a6dad9beba0cf8f242?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Oct 27 |
 | **[South Orange County Community College District](https://www.socccd.edu)** | **[Student Worker (SC - AMPD - Event Promotions/Graphics)](https://jobright.ai/jobs/info/671e9529e64f58b58c7d1fc6?utm_campaign=1057&utm_source=git)** | Mission Viejo, CA | On Site | Oct 27 |
 | **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[R100301 Student Research Farm Assistant (Operations)](https://jobright.ai/jobs/info/66f837427c27a16e9687bdc5?utm_campaign=1057&utm_source=git)** | Wooster Campus | On Site | Oct 27 |
-| **[L.E.K. Consulting](http://www.lek.com)** | **[Kaleidoscope: Undergraduate Diversity Program - Virtual 2025](https://jobright.ai/jobs/info/671e64cbc8237368e91234eb?utm_campaign=1057&utm_source=git)** | Boston, NY | On Site | Oct 27 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99983 Financial Aid Specialist - Broken Arrow Campus](https://jobright.ai/jobs/info/671e61bf39aa408fa5181841?utm_campaign=1057&utm_source=git)** | Broken Arrow, OK | On Site | Oct 27 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Field Service Training Multimedia (NSTC)](https://jobright.ai/jobs/info/671e326dd7bab459765d7b49?utm_campaign=1057&utm_source=git)** | Camden, NJ | On Site | Oct 27 |
 | **[Tufts Medicine](https://www.tuftsmedicine.org)** | **[Clinical Research Coordinator I - General Internal Medicine](https://jobright.ai/jobs/info/66e52b99ea8d04a526a0fb67?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Oct 27 |
@@ -80,6 +85,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2025 Internship (Omaha)](https://jobright.ai/jobs/info/66c90dfaa690e3a712e6a5d3?utm_campaign=1057&utm_source=git)** | Omaha, NE | On Site | Oct 27 |
 | **[Davenport University](http://www.davenport.edu/)** | **[(Student) Financial Aid Assistant](https://jobright.ai/jobs/info/671e16186a0fb88880c97953?utm_campaign=1057&utm_source=git)** | Grand Rapids, MI | On Site | Oct 27 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[Kaleidoscope: Undergraduate Diversity Program - Virtual 2025](https://jobright.ai/jobs/info/671dba2a98148a22f5d568d4?utm_campaign=1057&utm_source=git)** | Boston, NY | Remote | Oct 26 |
+| **[Nucor Corporation](http://www.nucor.com)** | **[2025 Nucor Technical Academy - Nucor Towers & Structures](https://jobright.ai/jobs/info/66e3703cdc7bb4a4ce6a093d?utm_campaign=1057&utm_source=git)** | Decatur, AL | On Site | Oct 26 |
 | **[Cintas](http://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/66e52adfaa58c3567e4c1df1?utm_campaign=1057&utm_source=git)** | Branford, CT | On Site | Oct 26 |
 | **[Georgia Gwinnett College](http://www.ggc.edu)** | **[Student Assistant - Software Development and Grant Administrative (NSF - HSI)](https://jobright.ai/jobs/info/671d9289aa7c661e143ae012?utm_campaign=1057&utm_source=git)** | Lawrenceville, GA | On Site | Oct 26 |
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Adjunct Faculty - Industrial Technology, CNC NIMS](https://jobright.ai/jobs/info/671d705e287381856085ce95?utm_campaign=1057&utm_source=git)** | Crown Point, IN | On Site | Oct 26 |
@@ -112,6 +118,7 @@ For a complete list, click the following sortable link below:
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Psychology Fellow - Obstetrics & Gynecology - Reproductive Psychology Program (Full-Time, Hybrid)](https://jobright.ai/jobs/info/671c8236c729687a021a5b18?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 25 |
 | **[State University of New York College of Optometry](http://www.sunyopt.edu/)** | **[Internship and Community Outreach Associate](https://jobright.ai/jobs/info/671c8236c729687a021a5af5?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Oct 25 |
 | **[Virginia Tech](http://www.vt.edu)** | **[Assistant/Associate/Full Professor of Large Animal Internal Medicine](https://jobright.ai/jobs/info/671c8f879d0129dc425a044e?utm_campaign=1057&utm_source=git)** | Blacksburg, VA | On Site | Oct 25 |
+| **[Library of Congress](http://www.loc.gov)** | **[2025 Junior Fellows Program (Remote Intern)](https://jobright.ai/jobs/info/671f23c8dad9beba0cf8fdd6?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Oct 25 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[Kaleidoscope: Undergraduate Diversity Program - Virtual 2025](https://jobright.ai/jobs/info/671c77bd110804783ab434be?utm_campaign=1057&utm_source=git)** | Boston, NY | On Site | Oct 25 |
 | **[State of Missouri](http://mo.gov)** | **[Paid Intern](https://jobright.ai/jobs/info/671c749acd0c392384078132?utm_campaign=1057&utm_source=git)** | Owensville, MO | On Site | Oct 25 |
 | ↳ | **[Paid Intern](https://jobright.ai/jobs/info/671c719e608f8cab624584a2?utm_campaign=1057&utm_source=git)** | Union, MO | On Site | Oct 25 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Community College of Aurora](http://www.ccaurora.edu/)** | **[Student Assistant at The Hub](https://jobright.ai/jobs/info/671c370e9bb7a6c53da64054?utm_campaign=1057&utm_source=git)** | Aurora, CO | On Site | Oct 25 |
 | **[University of Pikeville](http://www.upike.edu/)** | **[Graduate Assistant - CCOB](https://jobright.ai/jobs/info/671c1bdd27e38f20215217df?utm_campaign=1057&utm_source=git)** | Pikeville, KY | On Site | Oct 25 |
 | **[Chobani](http://www.chobani.com)** | **[Intern- Continuous Improvement La Colombe](https://jobright.ai/jobs/info/671c0e15cb8128a666e03f32?utm_campaign=1057&utm_source=git)** | Norton Shores, MI | On Site | Oct 25 |
-| **[University of Arkansas System](https://www.uasys.edu)** | **[Graduate Assistant (Multiple Hirers)](https://jobright.ai/jobs/info/671c18897b324d50973ccebc?utm_campaign=1057&utm_source=git)** | Little Rock, AR | On Site | Oct 25 |
-| **[College of Coastal Georgia](http://www.ccga.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/671c2727a39d9fa9e3ef1ab3?utm_campaign=1057&utm_source=git)** | Brunswick, GA | On Site | Oct 25 |
-| ↳ | **[Student Assistant Game Worker](https://jobright.ai/jobs/info/671c2727a39d9fa9e3ef1ab0?utm_campaign=1057&utm_source=git)** | Brunswick, GA | On Site | Oct 25 |
-| ↳ | **[Student Assistant - Student Life (Fall 2024)](https://jobright.ai/jobs/info/671c2727a39d9fa9e3ef1aba?utm_campaign=1057&utm_source=git)** | Brunswick, GA | On Site | Oct 25 |
-| **[Regent University](http://www.regent.edu/)** | **[Graduate Assistant (Clerical Support)](https://jobright.ai/jobs/info/671c50803a4a336fe5c35eca?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA | On Site | Oct 25 |
-| ↳ | **[Graduate Assistant (Engineering & Computer Science Department)](https://jobright.ai/jobs/info/671c50803a4a336fe5c35eb1?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA | On Site | Oct 25 |
-| ↳ | **[Graduate Assistant (Teaching Assistant)](https://jobright.ai/jobs/info/671c50803a4a336fe5c35ec2?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
