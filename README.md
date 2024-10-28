@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship (Spring/Summer 2025) / Auburn Hills, MI](https://jobright.ai/jobs/info/671ef73694a2ca639c81564c?utm_campaign=1057&utm_source=git)** | Auburn Hills, MI | On Site | Oct 27 |
+| ↳ | **[Arborist Trainee Internship (Spring/Summer 2025) / Wixom, MI](https://jobright.ai/jobs/info/671ef73694a2ca639c81564d?utm_campaign=1057&utm_source=git)** | Wixom, MI | On Site | Oct 27 |
+| ↳ | **[Arborist Trainee Internship (Spring/Summer 2025) / Monroe, MI](https://jobright.ai/jobs/info/671ef73694a2ca639c81564e?utm_campaign=1057&utm_source=git)** | Monroe, MI | On Site | Oct 27 |
+| ↳ | **[Arborist Trainee Internship (Spring/Summer 2025) / Attica, MI](https://jobright.ai/jobs/info/671ef73694a2ca639c815650?utm_campaign=1057&utm_source=git)** | Attica, MI | On Site | Oct 27 |
+| ↳ | **[Arborist Trainee Internship (Spring/Summer 2025) / Canton, MI](https://jobright.ai/jobs/info/671ef73694a2ca639c815651?utm_campaign=1057&utm_source=git)** | Canton, MI | On Site | Oct 27 |
+| ↳ | **[Arborist Trainee Internship (Spring/Summer 2025) / Toledo, OH](https://jobright.ai/jobs/info/671ef73694a2ca639c815bef?utm_campaign=1057&utm_source=git)** | Toledo, OH | On Site | Oct 27 |
+| **[BayCare Health System](https://baycare.org/bmg)** | **[Nurse Intern I - Med/Surg Tele/Behavioral Health](https://jobright.ai/jobs/info/671eec0f2e4e25b10f90b2f8?utm_campaign=1057&utm_source=git)** | Winter Haven, FL | On Site | Oct 27 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship (Spring/Summer 2025) / Chesterfield, MI](https://jobright.ai/jobs/info/671ee8c386ddb9d61ff26a45?utm_campaign=1057&utm_source=git)** | New Baltimore, MI | On Site | Oct 27 |
 | **[Oberlin College](http://new.oberlin.edu/office/creativity/funding-opportunities/launchu/)** | **[Student Assistant, Office for Disability & Access](https://jobright.ai/jobs/info/671ec2516d922906cec7ad66?utm_campaign=1057&utm_source=git)** | Oberlin, OH | On Site | Oct 27 |
 | **[Piper Sandler](https://www.pipersandler.com/)** | **[2025 Piper Sandler MBA Investment Banking Fellowship Program](https://jobright.ai/jobs/info/671eabc0c9da901d3b6d7344?utm_campaign=1057&utm_source=git)** | Greater Houston | On Site | Oct 27 |
 | **[South Orange County Community College District](https://www.socccd.edu)** | **[Student Worker (SC - AMPD - Event Promotions/Graphics)](https://jobright.ai/jobs/info/671e9529e64f58b58c7d1fc6?utm_campaign=1057&utm_source=git)** | Mission Viejo, CA | On Site | Oct 27 |
@@ -144,17 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Chobani](http://www.chobani.com)** | **[Intern- Continuous Improvement La Colombe](https://jobright.ai/jobs/info/671c0e15cb8128a666e03f32?utm_campaign=1057&utm_source=git)** | Norton Shores, MI | On Site | Oct 25 |
 | **[University of Arkansas System](https://www.uasys.edu)** | **[Graduate Assistant (Multiple Hirers)](https://jobright.ai/jobs/info/671c18897b324d50973ccebc?utm_campaign=1057&utm_source=git)** | Little Rock, AR | On Site | Oct 25 |
 | **[College of Coastal Georgia](http://www.ccga.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/671c2727a39d9fa9e3ef1ab3?utm_campaign=1057&utm_source=git)** | Brunswick, GA | On Site | Oct 25 |
-| ↳ | **[Student Assistant - Student Life (Fall 2024)](https://jobright.ai/jobs/info/671c2727a39d9fa9e3ef1aba?utm_campaign=1057&utm_source=git)** | Brunswick, GA | On Site | Oct 25 |
 | ↳ | **[Student Assistant Game Worker](https://jobright.ai/jobs/info/671c2727a39d9fa9e3ef1ab0?utm_campaign=1057&utm_source=git)** | Brunswick, GA | On Site | Oct 25 |
+| ↳ | **[Student Assistant - Student Life (Fall 2024)](https://jobright.ai/jobs/info/671c2727a39d9fa9e3ef1aba?utm_campaign=1057&utm_source=git)** | Brunswick, GA | On Site | Oct 25 |
 | **[Regent University](http://www.regent.edu/)** | **[Graduate Assistant (Clerical Support)](https://jobright.ai/jobs/info/671c50803a4a336fe5c35eca?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA | On Site | Oct 25 |
 | ↳ | **[Graduate Assistant (Engineering & Computer Science Department)](https://jobright.ai/jobs/info/671c50803a4a336fe5c35eb1?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA | On Site | Oct 25 |
 | ↳ | **[Graduate Assistant (Teaching Assistant)](https://jobright.ai/jobs/info/671c50803a4a336fe5c35ec2?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA | On Site | Oct 25 |
-| **[Cintas](http://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/671c17ad8ee585060dd517f9?utm_campaign=1057&utm_source=git)** | Henderson, KY | On Site | Oct 25 |
-| **[Regent University](http://www.regent.edu/)** | **[Graduate Assistant (College of Arts & Sciences)](https://jobright.ai/jobs/info/671c50803a4a336fe5c35ecc?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA | On Site | Oct 25 |
-| **[Nexus Family Healing](https://www.nexusfamilyhealing.org)** | **[Intern](https://jobright.ai/jobs/info/671c24ef5308f2547a7bc85e?utm_campaign=1057&utm_source=git)** | Minot, ND | On Site | Oct 25 |
-| **[Sodexo](http://www.sodexo.com)** | **[Campus Intern](https://jobright.ai/jobs/info/671c134ae30ab2148149d787?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Oct 25 |
-| **[Federal Reserve Bank of Chicago](http://www.chicagofed.org)** | **[Summer 2025 Intern - Information and Library Science](https://jobright.ai/jobs/info/671c0b38346faa4396530fd6?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Oct 25 |
-| **[Cintas](http://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/671c01802734c81e8130a855?utm_campaign=1057&utm_source=git)** | Coppell, TX | On Site | Oct 25 |
-| **[Park University](http://www.park.edu/)** | **[Student Success Coach](https://jobright.ai/jobs/info/671d4e97b7557c11cbaa94bb?utm_campaign=1057&utm_source=git)** | Parkville, MO | On Site | Oct 25 |
-| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship (Summer 2025) / Eden Prairie, MN](https://jobright.ai/jobs/info/671c1f17e1adde146d3fde28?utm_campaign=1057&utm_source=git)** | Eden Prairie, MN | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
