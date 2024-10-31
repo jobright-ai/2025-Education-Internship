@@ -57,6 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Child Center of NY](https://childcenterny.org/)** | **[39007 MH Clinic - Flushing Perinatal IOP - Intern, Clinical](https://jobright.ai/jobs/info/67238820453e2e34efc59987?utm_campaign=1057&utm_source=git)** | Queens, NY | On Site | Oct 31 |
+| ↳ | **[Youth Adult Borough Center - Program Participant- Internship](https://jobright.ai/jobs/info/67238820453e2e34efc59a70?utm_campaign=1057&utm_source=git)** | Queens, NY | On Site | Oct 31 |
+| **[Year Up](http://yearup.org)** | **[Application Development & Support Job Training Program](https://jobright.ai/jobs/info/6723708f74345f4d14e1a696?utm_campaign=1057&utm_source=git)** | Wilmington, DE | On Site | Oct 31 |
+| **[Southwire Company](http://southwire.com)** | **[Internship/Co-op Application](https://jobright.ai/jobs/info/66df25a0c4ca6548c4874190?utm_campaign=1057&utm_source=git)** | Carrollton, GA | Hybrid | Oct 31 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Spring 2025 Youth Education Intern - Atlanta](https://jobright.ai/jobs/info/67237634911eaa97c56a083a?utm_campaign=1057&utm_source=git)** | Atlanta, GA | Hybrid | Oct 31 |
+| **[Imprivata](http://www.imprivata.com)** | **[Associate Design Co-op (January-June)](https://jobright.ai/jobs/info/67071181df1a573bcca62220?utm_campaign=1057&utm_source=git)** | Waltham, MA | On Site | Oct 31 |
+| **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Employee Experience and Learning & Development](https://jobright.ai/jobs/info/67235bdeafe2c59ab79e9d37?utm_campaign=1057&utm_source=git)** | Draper, UT | On Site | Oct 31 |
+| **[Jooble](https://jooble.org/)** | **[Information Security Job Training Program](https://jobright.ai/jobs/info/672365992f5c2757eef74974?utm_campaign=1057&utm_source=git)** | Alexandria, VA | On Site | Oct 31 |
+| **[Zurich North America](https://www.zurichna.com)** | **[Associate Degree Apprenticeship Program - Claims - Schaumburg (Summer 2025)](https://jobright.ai/jobs/info/66d9d3082dee75ed9b5f3438?utm_campaign=1057&utm_source=git)** | Schaumburg, IL | On Site | Oct 31 |
+| **[NVIDIA](https://www.nvidia.com)** | **[NVIDIA 2025 Internships: Computer Architecture](https://jobright.ai/jobs/info/66cfed2eb879f214ba80d233?utm_campaign=1057&utm_source=git)** | Santa Clara, CA | On Site | Oct 31 |
+| **[Cintas](http://www.cintas.com)** | **[Summer Intern](https://jobright.ai/jobs/info/672359f9a689e8099863a697?utm_campaign=1057&utm_source=git)** | Westland, MI | On Site | Oct 31 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Refugee Cultural Orientation Intern, Spring 2025](https://jobright.ai/jobs/info/67235e7cab477ee4d6054612?utm_campaign=1057&utm_source=git)** | Louisville, KY | Hybrid | Oct 31 |
+| **[ASML](https://www.asml.com)** | **[Internship - Instructional Designer](https://jobright.ai/jobs/info/672359f9a689e8099863a5e8?utm_campaign=1057&utm_source=git)** | San Diego, CA | Hybrid | Oct 31 |
+| **[Thermo Fisher Scientific](http://www.thermofisher.com)** | **[Learning Management Quality Intern](https://jobright.ai/jobs/info/672387bc4d8030b1fd6653f0?utm_campaign=1057&utm_source=git)** | Hillsboro, OR | On Site | Oct 31 |
 | **[ACCESS Group, Inc.](https://accessgroupinc.org)** | **[Skills Trainer - CHI St Vincent, Hot Springs](https://jobright.ai/jobs/info/67234f147b58e989efd41c8a?utm_campaign=1057&utm_source=git)** | Hot Springs National Park, AR | Hybrid | Oct 31 |
 | **[Kaleida Health](http://www.kaleidahealth.org)** | **[Home Health Nursing Intern](https://jobright.ai/jobs/info/672330b76fcc30ef63892660?utm_campaign=1057&utm_source=git)** | Steuben County, NY | On Site | Oct 30 |
 | **[Weyerhaeuser](http://www.weyerhaeuser.com)** | **[Summer Intern](https://jobright.ai/jobs/info/67234f147b58e989efd41bb2?utm_campaign=1057&utm_source=git)** | Buckhannon, WV | On Site | Oct 30 |
@@ -77,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[University of Michigan](https://cfe.umich.edu/)** | **[Engineering Learning Center - EE/CE Tutor (Student Temp) F24](https://jobright.ai/jobs/info/67230832ed674dbd3f835b74?utm_campaign=1057&utm_source=git)** | Dearborn, MI | On Site | Oct 30 |
 | **[Kaufman Rossin](http://kaufmanrossin.com)** | **[Tax Financial Services Intern](https://jobright.ai/jobs/info/6723018d0c7bf578e89751ca?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Oct 30 |
 | **[Advanced Behavioral Health, Inc.](https://www.abhcal.com/)** | **[Therapist - Paid Clinical Internship](https://jobright.ai/jobs/info/672302d860934952d1ea33f0?utm_campaign=1057&utm_source=git)** | Westminster, MD | On Site | Oct 30 |
-| ↳ | **[Therapist - Paid Clinical Internship](https://jobright.ai/jobs/info/672310f1fdcef81ea1b80163?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Oct 30 |
 | ↳ | **[Therapist - Paid Clinical Internship](https://jobright.ai/jobs/info/672310f1fdcef81ea1b80164?utm_campaign=1057&utm_source=git)** | Frederick, MD | On Site | Oct 30 |
+| ↳ | **[Therapist - Paid Clinical Internship](https://jobright.ai/jobs/info/672310f1fdcef81ea1b80163?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Oct 30 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Preschool Internship - Immediate](https://jobright.ai/jobs/info/6722f37218182ee904c37038?utm_campaign=1057&utm_source=git)** | Bakersfield, CA | On Site | Oct 30 |
 | ↳ | **[Preschool Internship - Immediate](https://jobright.ai/jobs/info/6722f37218182ee904c37052?utm_campaign=1057&utm_source=git)** | Lost Hills, CA | On Site | Oct 30 |
 | **[Lidl in Germany](https://www.lidl.de/)** | **[Ausbildung Kaufmann im Einzelhandel 08.2025 (m/w/d)](https://jobright.ai/jobs/info/6722fd172a6022b6df5867f2?utm_campaign=1057&utm_source=git)** | Germany, PA | On Site | Oct 30 |
@@ -138,23 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Arborist Trainee Internship](https://jobright.ai/jobs/info/672295b5343eef61ef987c45?utm_campaign=1057&utm_source=git)** | Rochester, NY | On Site | Oct 30 |
 | ↳ | **[Arborist Trainee Internship / Hartney Greymont](https://jobright.ai/jobs/info/672295b5343eef61ef987c46?utm_campaign=1057&utm_source=git)** | Mashpee, MA | On Site | Oct 30 |
 | ↳ | **[Arborist Trainee Internship](https://jobright.ai/jobs/info/672295b5343eef61ef987c48?utm_campaign=1057&utm_source=git)** | Glen Burnie, MD | On Site | Oct 30 |
-| ↳ | **[Arborist Trainee Internship](https://jobright.ai/jobs/info/672295b5343eef61ef987c49?utm_campaign=1057&utm_source=git)** | Hamden, CT | On Site | Oct 30 |
 | ↳ | **[Arborist Trainee Internship](https://jobright.ai/jobs/info/672295b5343eef61ef987c4a?utm_campaign=1057&utm_source=git)** | Gaithersburg, MD | On Site | Oct 30 |
+| ↳ | **[Arborist Trainee Internship](https://jobright.ai/jobs/info/672295b5343eef61ef987c49?utm_campaign=1057&utm_source=git)** | Hamden, CT | On Site | Oct 30 |
 | ↳ | **[Arborist Trainee Internship](https://jobright.ai/jobs/info/672295b5343eef61ef987c4b?utm_campaign=1057&utm_source=git)** | Faber, VA | On Site | Oct 30 |
 | ↳ | **[Arborist Trainee Internship](https://jobright.ai/jobs/info/672295b5343eef61ef987c4d?utm_campaign=1057&utm_source=git)** | Cordova, MD | On Site | Oct 30 |
 | **[Heidelberg University](http://www.heidelberg.edu)** | **[Assistant / Associate Professor of Finance](https://jobright.ai/jobs/info/6722936699b671217fb3bb08?utm_campaign=1057&utm_source=git)** | Tiffin, OH | On Site | Oct 30 |
-| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship / Chippers, Inc.](https://jobright.ai/jobs/info/67229e49d13b87dfa69e450a?utm_campaign=1057&utm_source=git)** | Woodstock, VT | On Site | Oct 30 |
-| **[Salt Lake Community College](http://www.slcc.edu/)** | **[SLCC Student, Work Study, Specialist I, Development Student Ambassador](https://jobright.ai/jobs/info/67228b5385a5128a2eb2e633?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | Oct 30 |
-| **[Lucid Motors](http://lucidmotors.com)** | **[Intern, Employee Development Specialist, Summer 2025](https://jobright.ai/jobs/info/6722753c3746299ca9caff37?utm_campaign=1057&utm_source=git)** | Casa Grande, AZ | On Site | Oct 30 |
-| **[Kaufman Rossin](http://kaufmanrossin.com)** | **[Assurance Intern - Spring 2025](https://jobright.ai/jobs/info/6722768c9128c71a9cb68264?utm_campaign=1057&utm_source=git)** | Boca Raton, FL | Hybrid | Oct 30 |
-| **[Altium Packaging](https://www.containerexperts.com/)** | **[Summer 2025 Internship](https://jobright.ai/jobs/info/6722853afa7379bc6c6a61e1?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Oct 30 |
-| **[HM Insurance Group](https://hmig.com/)** | **[Summer 2025 - Underwriting - Undergraduate Intern](https://jobright.ai/jobs/info/67228a85d45f833754c68515?utm_campaign=1057&utm_source=git)** | Pennsylvania, United States | On Site | Oct 30 |
-| **[Income Research + Management](http://incomeresearch.com)** | **[2025 Undergraduate Summer Internship](https://jobright.ai/jobs/info/67227c5b595da11b8a46f5d9?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Oct 30 |
-| **[Exos](http://www.teamexos.com/)** | **[2025 Spring Performance Specialist Intern - Phoenix](https://jobright.ai/jobs/info/67227c5b595da11b8a46f725?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Oct 30 |
-| ↳ | **[2025 Spring Performance Specialist Intern - Plano, TX](https://jobright.ai/jobs/info/67227c5b595da11b8a46f726?utm_campaign=1057&utm_source=git)** | Plano, TX | On Site | Oct 30 |
-| **[Emory University](http://www.emory.edu)** | **[Recreation Operations/Scheduling Coordinator - Campus Life](https://jobright.ai/jobs/info/672272fad97ffacd41cf2772?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Oct 30 |
-| **[Fifth Third Bank](http://53.com)** | **[Middle Market Externship](https://jobright.ai/jobs/info/6722640028282ce020a1e59a?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Oct 30 |
-| **[Jooble](https://jooble.org/)** | **[Data Analytics Job Training Program](https://jobright.ai/jobs/info/6722936699b671217fb3bb3a?utm_campaign=1057&utm_source=git)** | Temple Hills Park, MD | On Site | Oct 30 |
-| ↳ | **[Software Development Job Training Program](https://jobright.ai/jobs/info/6722936699b671217fb3bc8b?utm_campaign=1057&utm_source=git)** | Tucker, GA | On Site | Oct 30 |
-| ↳ | **[Data Analytics Job Training Program](https://jobright.ai/jobs/info/6722936699b671217fb3bb36?utm_campaign=1057&utm_source=git)** | Annandale, VA | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
