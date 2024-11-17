@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plante Moran](http://www.plantemoran.com)** | **[Track Internship Program (2025)](https://jobright.ai/jobs/info/66c931a44ccaa7a75b32b635?utm_campaign=1057&utm_source=git)** | Michigan, United States | On Site | Nov 17 |
+| ↳ | **[Track Internship Program (2025)](https://jobright.ai/jobs/info/66c931a44ccaa7a75b32b636?utm_campaign=1057&utm_source=git)** | Ohio, United States | On Site | Nov 17 |
+| **[Cintas](http://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/6739d8b69d7023a0d4db8810?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Nov 17 |
+| **[Kubota Tractor Corporation](https://linktr.ee/kubotausa)** | **[Summer Internship Program - 2025](https://jobright.ai/jobs/info/66e47c62aec7e499fb1dcb1b?utm_campaign=1057&utm_source=git)** | Grapevine, TX | On Site | Nov 17 |
+| **[Northwestern University](https://www.northwestern.edu)** | **[International Scholar Advisor](https://jobright.ai/jobs/info/671d4e97b7557c11cbaa9379?utm_campaign=1057&utm_source=git)** | Evanston, IL | Hybrid | Nov 17 |
 | **[Project for Pride in Living (PPL)](https://www.ppl-inc.org/)** | **[Youth Program Intern - Camden North Minneapolis - Spring 2025](https://jobright.ai/jobs/info/6739ba02d0c137deab3dbdca?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Nov 17 |
 | ↳ | **[Youth Program Intern - Fort Road Flats St. Paul - Spring 2025](https://jobright.ai/jobs/info/6739ba02d0c137deab3dbdd0?utm_campaign=1057&utm_source=git)** | St Paul, MN | On Site | Nov 17 |
 | **[Year Up](http://yearup.org)** | **[Financial Operations Job Training Opportunity](https://jobright.ai/jobs/info/6739aae90cbc95c3714654fb?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Nov 17 |
@@ -78,10 +83,12 @@ For a complete list, click the following sortable link below:
 | **[L.E.K. Consulting](http://www.lek.com)** | **[Kaleidoscope: Undergraduate Diversity Program - Virtual 2025](https://jobright.ai/jobs/info/6738cffe7458167a7f6cff5f?utm_campaign=1057&utm_source=git)** | Boston, NY | On Site | Nov 16 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Coordinator of Student Development, Tahlequah](https://jobright.ai/jobs/info/6738c20e0f9216a903b7103f?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Nov 16 |
 | **[Orbis Inc](http://orbisinc.net)** | **[NSI Paid Skilled Trade Intern](https://jobright.ai/jobs/info/6738973b9aa61de4a2172071?utm_campaign=1057&utm_source=git)** | Buzzards Bay, MA | On Site | Nov 16 |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - MSR Inclusive Futures Team](https://jobright.ai/jobs/info/671c6dce02d1cb0f500c06b0?utm_campaign=1057&utm_source=git)** | Redmond, WA | Hybrid | Nov 16 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2025 Internship - VA Tech](https://jobright.ai/jobs/info/67389361d2a5e52a16da4a8d?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Nov 16 |
 | **[JM&A Group](https://www.jmagroup.com/)** | **[Intern, Instructional Designer](https://jobright.ai/jobs/info/671c18897b324d50973cce3f?utm_campaign=1057&utm_source=git)** | Miami-FTL Area | Hybrid | Nov 16 |
 | **[California Department of State Hospitals](https://www.dsh.ca.gov/)** | **[CLINICAL PSYCHOLOGY INTERN](https://jobright.ai/jobs/info/6700e85d196e38010fce5782?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Nov 16 |
 | **[ERM](http://www.erm.com/)** | **[Technician, Internship Program (Internship)](https://jobright.ai/jobs/info/6738a110e9f15c8a0777eb3b?utm_campaign=1057&utm_source=git)** | Knoxville, TN | On Site | Nov 16 |
+| **[Penske Truck Leasing](https://www.pensketruckleasing.com)** | **[Corporate Summer Internship Program](https://jobright.ai/jobs/info/67004fe8e01baab035db318d?utm_campaign=1057&utm_source=git)** | Reading, PA | On Site | Nov 16 |
 | **[CEMEX USA](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/66e4769e31753e919d60a201?utm_campaign=1057&utm_source=git)** | Livermore, CA | On Site | Nov 16 |
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/66e4ccc9b4f1b89f17b1cc88?utm_campaign=1057&utm_source=git)** | Davenport, FL | On Site | Nov 16 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2025 Internship - Brown University](https://jobright.ai/jobs/info/6738851616ef5bae9cbe31f5?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Nov 16 |
@@ -100,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern - Neuro/Stroke/Tele](https://jobright.ai/jobs/info/67384e1623513ef9ebb63fb9?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Nov 15 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Graduate Assistant](https://jobright.ai/jobs/info/67382eb5c6ef0f4ecc9b048e?utm_campaign=1057&utm_source=git)** | Richmond, KY | On Site | Nov 15 |
 | **[Clackamas Community College](http://www.clackamas.edu/)** | **[Clackamas Community College is hiring: Lab Assistant - Art/Digital Media [Federa](https://jobright.ai/jobs/info/673849e0093aaf89fcdb22fb?utm_campaign=1057&utm_source=git)** | Oregon City, OR | Hybrid | Nov 15 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[Instructional Designer - Tahlequah Campus](https://jobright.ai/jobs/info/6738278e59eb43cfe8a97169?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Nov 15 |
 | **[Oregon State University](https://oregonstate.edu/)** | **[College of Education Internship Coordinator](https://jobright.ai/jobs/info/6738157221730e97352a6d84?utm_campaign=1057&utm_source=git)** | Bend, OR | Hybrid | Nov 15 |
 | **[Cintas](http://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/673800e60ed8ee5f6a8b625e?utm_campaign=1057&utm_source=git)** | Normal, IL | On Site | Nov 15 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Therapy Opportunities in SW Missouri  - Physical, Occupational, & Speech](https://jobright.ai/jobs/info/67395148329a41e1424a0662?utm_campaign=1057&utm_source=git)** | Springfield, MO | On Site | Nov 15 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[L.E.K. Consulting](http://www.lek.com)** | **[Kaleidoscope: Undergraduate Diversity Program - Virtual 2025](https://jobright.ai/jobs/info/6737a01b8a002e6398f12d09?utm_campaign=1057&utm_source=git)** | Boston, NY | On Site | Nov 15 |
 | **[Amgen](http://www.amgen.com)** | **[Grad Intern – R&D Knowledge & Learning](https://jobright.ai/jobs/info/67378b1ecfe7f071ee6488ed?utm_campaign=1057&utm_source=git)** | United States | Remote | Nov 15 |
 | **[Year Up](http://yearup.org)** | **[Financial Operations Job Training Program](https://jobright.ai/jobs/info/67375f10cb7aff2704eaa58e?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Nov 15 |
-| **[WVU Medicine](https://wvumedicine.org/)** | **[Student Intern- Med ED Program](https://jobright.ai/jobs/info/6737523d942271356b9274d2?utm_campaign=1057&utm_source=git)** | Berkeley Medical Center (BMC) | On Site | Nov 15 |
-| **[BGE, Inc.](https://www.bgeinc.com)** | **[Intern OR New Graduate Position - All Departments](https://jobright.ai/jobs/info/673743de479be28c7d20d3b8?utm_campaign=1057&utm_source=git)** | Chandler, AZ | On Site | Nov 15 |
-| **[Foundation Health Partners](https://www.foundationhealth.org/)** | **[Licensed Practical Nurse (LPN) - Internal Medicine/Senior Care Clinic](https://jobright.ai/jobs/info/673743de479be28c7d20d3c2?utm_campaign=1057&utm_source=git)** | Fairbanks, AK | On Site | Nov 15 |
-| **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Intern, Brockton Behavioral Health Center, 24 hrs (Days)](https://jobright.ai/jobs/info/66e22984459bde939dcb08e1?utm_campaign=1057&utm_source=git)** | Brockton, MA | On Site | Nov 15 |
-| **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[2025 Summer Internship](https://jobright.ai/jobs/info/671a9166596b0de5fc9710e4?utm_campaign=1057&utm_source=git)** | Livonia, MI | On Site | Nov 15 |
-| **[Samaritan's Purse](https://www.samaritanspurse.org/)** | **[Spring 2025 International Internship](https://jobright.ai/jobs/info/66c546afb8ec8eecf4817e6e?utm_campaign=1057&utm_source=git)** | Boone, NC | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
