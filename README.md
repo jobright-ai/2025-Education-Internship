@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pegasystems](http://www.pega.com)** | **[Curriculum Developer Summer Intern](https://jobright.ai/jobs/info/673925a1e33bc68bbd057dd3?utm_campaign=1057&utm_source=git)** | Waltham, MA | On Site | Nov 16 |
+| **[Hawaii Pacific Health](https://www.hawaiipacifichealth.org/straub/)** | **[Crisis Worker Training Opportunity - Sex Abuse Treatment Ctr](https://jobright.ai/jobs/info/6739310a27e6d47163228f7e?utm_campaign=1057&utm_source=git)** | Honolulu, HI | On Site | Nov 16 |
 | **[Year Up](http://yearup.org)** | **[Desktop Management Job Training Program](https://jobright.ai/jobs/info/6738f043965a0b951535735e?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Nov 16 |
+| ↳ | **[Financial Advisory Job Training Program](https://jobright.ai/jobs/info/6738f83f9c0cb0a1866e56b2?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Nov 16 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[Kaleidoscope: Undergraduate Diversity Program - Virtual 2025](https://jobright.ai/jobs/info/6738cffe7458167a7f6cff5f?utm_campaign=1057&utm_source=git)** | Boston, NY | On Site | Nov 16 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Coordinator of Student Development, Tahlequah](https://jobright.ai/jobs/info/6738c20e0f9216a903b7103f?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Nov 16 |
 | **[Orbis Inc](http://orbisinc.net)** | **[NSI Paid Skilled Trade Intern](https://jobright.ai/jobs/info/6738973b9aa61de4a2172071?utm_campaign=1057&utm_source=git)** | Buzzards Bay, MA | On Site | Nov 16 |
@@ -71,6 +74,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2025 Internship - UCONN](https://jobright.ai/jobs/info/6738851616ef5bae9cbe31e7?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Nov 16 |
 | ↳ | **[Summer 2025 Internship - Penn State](https://jobright.ai/jobs/info/6738851616ef5bae9cbe31e3?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Nov 16 |
 | ↳ | **[Summer 2025 Internship - ASU](https://jobright.ai/jobs/info/6738851616ef5bae9cbe31e4?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Nov 16 |
+| **[Cintas](http://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/671c8967135c0d366d1eb61a?utm_campaign=1057&utm_source=git)** | Lansing, MI | On Site | Nov 16 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Workforce Development Specialist](https://jobright.ai/jobs/info/671b67576d09525350df6030?utm_campaign=1057&utm_source=git)** | Boise, ID | On Site | Nov 16 |
 | **[Aramark](http://www.aramark.com)** | **[Health and Wellness Intern - Charleston, SC - College of Charleston](https://jobright.ai/jobs/info/67386fe3e881c1486efebb36?utm_campaign=1057&utm_source=git)** | Charleston, SC | On Site | Nov 15 |
 | **[Textron](http://textron.com)** | **[2025 Internship - Flight Ops Flight Instructor](https://jobright.ai/jobs/info/6738810fe0deb2686d8f2731?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Nov 15 |
@@ -79,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Johns Hopkins Hospital](http://www.hopkinsmedicine.org/)** | **[Clinical Tech Intern- PICU](https://jobright.ai/jobs/info/67382c57048d80ebeb7b0f59?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Nov 15 |
 | **[Pima County](https://webcms.pima.gov/)** | **[Academic Partnership and Internship Coordinator (5558 - Public Health Program Coordinator)](https://jobright.ai/jobs/info/673831b13b6f71207bfb2d27?utm_campaign=1057&utm_source=git)** | Tucson, AZ | On Site | Nov 15 |
 | **[Franklin Pierce University](http://www.franklinpierce.edu/)** | **[Franklin Pierce University is hiring: Students at FPU Only - Student Content Cre](https://jobright.ai/jobs/info/67383701be1db84636714a97?utm_campaign=1057&utm_source=git)** | Rindge, NH | On Site | Nov 15 |
-| **[Council on Foreign Relations](https://www.cfr.org/)** | **[Internship, Education, Written Content, Fall 2024 Job at Council on Foreign Rela](https://jobright.ai/jobs/info/673824bbaade8bd98190d713?utm_campaign=1057&utm_source=git)** | New York, NY | Remote | Nov 15 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[Kaleidoscope: Undergraduate Diversity Program - Virtual 2025](https://jobright.ai/jobs/info/673824bbaade8bd98190d764?utm_campaign=1057&utm_source=git)** | Boston, NY | Remote | Nov 15 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern - Neuro/Stroke/Tele](https://jobright.ai/jobs/info/67384e1623513ef9ebb63fb9?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Nov 15 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Graduate Assistant](https://jobright.ai/jobs/info/67382eb5c6ef0f4ecc9b048e?utm_campaign=1057&utm_source=git)** | Richmond, KY | On Site | Nov 15 |
@@ -118,6 +121,7 @@ For a complete list, click the following sortable link below:
 | **[State University of New York Upstate Medical University](https://www.upstate.edu)** | **[Federal Work Study- Research Assistant](https://jobright.ai/jobs/info/6737c38b22a4cc33189f1779?utm_campaign=1057&utm_source=git)** | Syracuse, NY | On Site | Nov 15 |
 | **[Jencap](https://jencapgroup.com)** | **[Summer Insurance Intern](https://jobright.ai/jobs/info/6737b105461bd52a4d9e7a1a?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Nov 15 |
 | **[Genentech](http://gene.com)** | **[Summer 2025 - Genentech Community College Internship Program - Laboratory](https://jobright.ai/jobs/info/6737b9c02762382cc30e4336?utm_campaign=1057&utm_source=git)** | South San Francisco, CA | On Site | Nov 15 |
+| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2025 - Boston Metro (45421)](https://jobright.ai/jobs/info/66e3303b60145809ba8ac2b3?utm_campaign=1057&utm_source=git)** | Braintree, MA | On Site | Nov 15 |
 | **[Federal Aviation Administration](http://www.faa.gov)** | **[FAA Internship: Minority Serving Institutions Program](https://jobright.ai/jobs/info/6737941a00205d377f11a1cf?utm_campaign=1057&utm_source=git)** | Texas, United States | On Site | Nov 15 |
 | **[Tacoma Public Schools](http://www.tacomaschools.org)** | **[School Psychologist Intern](https://jobright.ai/jobs/info/6737a01b8a002e6398f12bca?utm_campaign=1057&utm_source=git)** | Tacoma, WA | On Site | Nov 15 |
 | **[Medtronic](https://www.medtronic.com)** | **[2025 MBA Corporate Development Summer Internship](https://jobright.ai/jobs/info/6737f094c51aa6b49c658325?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 15 |
@@ -152,9 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Youth Program Intern - Camden North Minneapolis](https://jobright.ai/jobs/info/6737126cd2cb26613a9172ec?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Nov 15 |
 | **[Year Up](http://yearup.org)** | **[Application Development & Support Career Training Program](https://jobright.ai/jobs/info/6737079e845739827f101240?utm_campaign=1057&utm_source=git)** | Jersey City, NJ | On Site | Nov 15 |
 | ↳ | **[Financial Advisory Career Training Program](https://jobright.ai/jobs/info/6737079e845739827f10122f?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Nov 15 |
-| **[NYC Health + Hospitals](http://www.nychealthandhospitals.org)** | **[Student Intern Level II](https://jobright.ai/jobs/info/6737079e845739827f101353?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Nov 14 |
-| **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Summer Leadership Program (Abilene)](https://jobright.ai/jobs/info/66e015441bd299b2a37292c9?utm_campaign=1057&utm_source=git)** | Abilene, TX | On Site | Nov 14 |
-| **[Pegasystems](http://www.pega.com)** | **[Curriculum Developer Summer Intern](https://jobright.ai/jobs/info/6736d6c6b600062f9760742c?utm_campaign=1057&utm_source=git)** | Waltham, MA | On Site | Nov 14 |
-| **[L.E.K. Consulting](http://www.lek.com)** | **[Kaleidoscope: Undergraduate Diversity Program - Virtual 2025](https://jobright.ai/jobs/info/6736db32cd2801e574e82605?utm_campaign=1057&utm_source=git)** | Boston, NY | On Site | Nov 14 |
-| **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Clinical Intern](https://jobright.ai/jobs/info/6736cad35a392bc151e2ef5d?utm_campaign=1057&utm_source=git)** | Moorhead, MN | On Site | Nov 14 |
+| **[NYC Health + Hospitals](http://www.nychealthandhospitals.org)** | **[Student Intern Level II](https://jobright.ai/jobs/info/6737126cd2cb26613a917441?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
