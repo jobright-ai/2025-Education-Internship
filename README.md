@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Regent University](https://www.spiritsofts.com)** | **[Student Worker (Literacy Tutor)](https://jobright.ai/jobs/info/673a6c8767ae94be2a9a08a4?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA | On Site | Nov 17 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[University Relations  - Actuarial Intern](https://jobright.ai/jobs/info/673a1ffc1ff4e16ae5b69a9a?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Nov 17 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern - Craft Pathways High School - CAMPUS](https://jobright.ai/jobs/info/673a32ed4c7df98dbcdd35b2?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Nov 17 |
 | ↳ | **[Grad Intern  R&D Knowledge & Learning](https://jobright.ai/jobs/info/673a11187e95aaf2a2bbb6cd?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Nov 17 |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[Kaleidoscope: Undergraduate Diversity Program - Virtual 2025](https://jobright.ai/jobs/info/673a169bc6c30ac400f864d6?utm_campaign=1057&utm_source=git)** | Boston, NY | On Site | Nov 17 |
 | **[Piper Sandler](https://www.pipersandler.com/)** | **[2025 Piper Sandler MBA Investment Banking Fellowship Program](https://jobright.ai/jobs/info/673a05fa8252998e4c305e67?utm_campaign=1057&utm_source=git)** | Greater Houston | On Site | Nov 17 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Track Internship Program (2025)](https://jobright.ai/jobs/info/66c931a44ccaa7a75b32b635?utm_campaign=1057&utm_source=git)** | Michigan, United States | On Site | Nov 17 |
 | ↳ | **[Track Internship Program (2025)](https://jobright.ai/jobs/info/66c931a44ccaa7a75b32b636?utm_campaign=1057&utm_source=git)** | Ohio, United States | On Site | Nov 17 |
@@ -69,8 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Northwestern University](https://www.northwestern.edu)** | **[International Scholar Advisor](https://jobright.ai/jobs/info/671d4e97b7557c11cbaa9379?utm_campaign=1057&utm_source=git)** | Evanston, IL | Hybrid | Nov 17 |
 | **[Project for Pride in Living (PPL)](https://www.ppl-inc.org/)** | **[Youth Program Intern - Camden North Minneapolis - Spring 2025](https://jobright.ai/jobs/info/6739ba02d0c137deab3dbdca?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Nov 17 |
 | ↳ | **[Youth Program Intern - Fort Road Flats St. Paul - Spring 2025](https://jobright.ai/jobs/info/6739ba02d0c137deab3dbdd0?utm_campaign=1057&utm_source=git)** | St Paul, MN | On Site | Nov 17 |
-| **[Year Up](http://yearup.org)** | **[Financial Operations Job Training Opportunity](https://jobright.ai/jobs/info/6739aae90cbc95c3714654fb?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Nov 17 |
-| ↳ | **[Data Management Job Training Opportunity](https://jobright.ai/jobs/info/6739aae90cbc95c3714654fd?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Nov 17 |
+| **[Year Up](http://yearup.org)** | **[Data Management Job Training Opportunity](https://jobright.ai/jobs/info/6739aae90cbc95c3714654fd?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Nov 17 |
 | ↳ | **[Customer Service Fundamentals Job Training Program](https://jobright.ai/jobs/info/6739aae90cbc95c3714654ff?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Nov 17 |
 | ↳ | **[Desktop Support Job Training Program](https://jobright.ai/jobs/info/6739aae90cbc95c371465547?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Nov 17 |
 | **[Susquehanna University](http://www.susqu.edu)** | **[Student Worker- AMPLIFY Intern - Snyder County Libraries Technology Intern](https://jobright.ai/jobs/info/6739aae90cbc95c371465540?utm_campaign=1057&utm_source=git)** | Selinsgrove, PA | On Site | Nov 16 |
@@ -78,10 +79,10 @@ For a complete list, click the following sortable link below:
 | **[Zurich North America](https://www.zurichna.com)** | **[Risk Engineering Training Program - Philadelphia (Summer 2025)](https://jobright.ai/jobs/info/67399c4000378e6b47215d7d?utm_campaign=1057&utm_source=git)** | Kent County, DE | Remote | Nov 16 |
 | **[KnowBe4](http://www.KnowBe4.com)** | **[Courseware Technologist Intern (Hybrid)](https://jobright.ai/jobs/info/67399c1ec6690ed2c2547f2e?utm_campaign=1057&utm_source=git)** | Clearwater, FL | Hybrid | Nov 16 |
 | **[Advanced Behavioral Health, Inc.](https://www.abhcal.com/)** | **[Therapist - Paid Clinical Internship](https://jobright.ai/jobs/info/673975fd52ae7651de446c0a?utm_campaign=1057&utm_source=git)** | Frederick, MD | On Site | Nov 16 |
-| **[L.E.K. Consulting](http://www.lek.com)** | **[Kaleidoscope: Undergraduate Diversity Program - Virtual 2025](https://jobright.ai/jobs/info/6739732af2433af89818b28a?utm_campaign=1057&utm_source=git)** | Boston, NY | On Site | Nov 16 |
 | **[Year Up](http://yearup.org)** | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/6739635edf4c2fc995a1d0a0?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Nov 16 |
 | ↳ | **[Desktop Support Job Training Program](https://jobright.ai/jobs/info/67395b192232811b59412386?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Nov 16 |
 | **[Pegasystems](http://www.pega.com)** | **[Curriculum Developer Summer Intern](https://jobright.ai/jobs/info/673925a1e33bc68bbd057dd3?utm_campaign=1057&utm_source=git)** | Waltham, MA | On Site | Nov 16 |
+| **[Library of Congress](http://www.loc.gov)** | **[2025 Junior Fellows Program (Remote Intern)](https://jobright.ai/jobs/info/671f23c8dad9beba0cf8fdd6?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Nov 16 |
 | **[Hawaii Pacific Health](https://www.hawaiipacifichealth.org/straub/)** | **[Crisis Worker Training Opportunity - Sex Abuse Treatment Ctr](https://jobright.ai/jobs/info/6739310a27e6d47163228f7e?utm_campaign=1057&utm_source=git)** | Honolulu, HI | On Site | Nov 16 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[Kaleidoscope: Undergraduate Diversity Program - Virtual 2025](https://jobright.ai/jobs/info/6738cffe7458167a7f6cff5f?utm_campaign=1057&utm_source=git)** | Boston, NY | On Site | Nov 16 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Coordinator of Student Development, Tahlequah](https://jobright.ai/jobs/info/6738c20e0f9216a903b7103f?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Nov 16 |
@@ -139,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[Penn State University](http://psu.edu)** | **[Student Community Engagement Coordinator - Workforce Education and Development (Federal Work-Study Position)](https://jobright.ai/jobs/info/6737c38b22a4cc33189f162d?utm_campaign=1057&utm_source=git)** | University Park, PA | Hybrid | Nov 15 |
 | **[Robert Louis Stevenson School](https://www.stevenson-school.org/)** | **[Doctoral Psychology Intern (Independent School)](https://jobright.ai/jobs/info/6737c53ce12bd1bd242dde96?utm_campaign=1057&utm_source=git)** | NYC Metro Area | On Site | Nov 15 |
 | **[Oregon State University](https://oregonstate.edu/)** | **[College of Education Internship Coordinator](https://jobright.ai/jobs/info/6737c53ce12bd1bd242ddef5?utm_campaign=1057&utm_source=git)** | Bend, OR | Hybrid | Nov 15 |
-| **[State University of New York Upstate Medical University](https://www.upstate.edu)** | **[Federal Work Study- Research Assistant](https://jobright.ai/jobs/info/6737c38b22a4cc33189f1779?utm_campaign=1057&utm_source=git)** | Syracuse, NY | On Site | Nov 15 |
 | **[Jencap](https://jencapgroup.com)** | **[Summer Insurance Intern](https://jobright.ai/jobs/info/6737b105461bd52a4d9e7a1a?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Nov 15 |
 | **[Genentech](http://gene.com)** | **[Summer 2025 - Genentech Community College Internship Program - Laboratory](https://jobright.ai/jobs/info/6737b9c02762382cc30e4336?utm_campaign=1057&utm_source=git)** | South San Francisco, CA | On Site | Nov 15 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2025 - Boston Metro (45421)](https://jobright.ai/jobs/info/66e3303b60145809ba8ac2b3?utm_campaign=1057&utm_source=git)** | Braintree, MA | On Site | Nov 15 |
