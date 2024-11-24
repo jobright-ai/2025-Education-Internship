@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[College Internship Program (CIP)](https://cipworldwide.org/)** | **[Life Skills Coach](https://jobright.ai/jobs/info/6742ca50a7d9fc0583e67dd6?utm_campaign=1057&utm_source=git)** | Melbourne, FL | On Site | Nov 23 |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[Kaleidoscope: Undergraduate Diversity Program - Virtual 2025](https://jobright.ai/jobs/info/6742ac9c0a2f0f43e380518a?utm_campaign=1057&utm_source=git)** | Boston, NY | On Site | Nov 23 |
 | **[Baton Rouge General Medical Center](http://www.brgeneral.org/site406.php)** | **[RN-Nurse Intern Program](https://jobright.ai/jobs/info/674273d82ad609119b554ef7?utm_campaign=1057&utm_source=git)** | Baton Rouge, LA | On Site | Nov 23 |
 | **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[AAAD Student Employee - FWS](https://jobright.ai/jobs/info/67425bba802afaeed11df5e0?utm_campaign=1057&utm_source=git)** | Harrisonburg, VA | On Site | Nov 23 |
 | **[Piper Sandler](https://www.pipersandler.com/)** | **[2025 Piper Sandler MBA Investment Banking Fellowship Program](https://jobright.ai/jobs/info/67424604fea7e9e0867c184f?utm_campaign=1057&utm_source=git)** | Greater Houston | On Site | Nov 23 |
@@ -68,6 +70,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Coordinator of Student Development, Tahlequah](https://jobright.ai/jobs/info/67420cca2081e7c4a40fd59e?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Nov 23 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Postdoctoral Research Fellow](https://jobright.ai/jobs/info/6741ecd4be9c7523867f89fb?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Nov 23 |
 | **[University of Utah](http://utah.edu)** | **[UU Student Research](https://jobright.ai/jobs/info/6741d99b8c83a94999fb774b?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | Nov 23 |
+| **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Seeking Student Analysts with 1700+ Hours Completed – Start Your Career with Us!](https://jobright.ai/jobs/info/66ee2271e4cea31b5c42dbae?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Nov 23 |
 | **[New York State Department of Health](https://health.ny.gov/)** | **[Student Assistant - 60186](https://jobright.ai/jobs/info/667c9c6f5bb91f3e5e18c056?utm_campaign=1057&utm_source=git)** | Albany, NY | Hybrid | Nov 23 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Intern](https://jobright.ai/jobs/info/6709b6553401225e4459113b?utm_campaign=1057&utm_source=git)** | Winston-Salem, NC | On Site | Nov 23 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Precision University: Medical Writing Spring Internship](https://jobright.ai/jobs/info/6709df4b397a5339ee496a9d?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Nov 23 |
@@ -77,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Peterbilt Motors Company](http://www.peterbilt.com/)** | **[2025 Summer Internship: Advanced Technology Dealer Training](https://jobright.ai/jobs/info/6725490f869330b49f30b81a?utm_campaign=1057&utm_source=git)** | Denton, TX | On Site | Nov 23 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern '24-'25 (Southern California)](https://jobright.ai/jobs/info/66ee055b6e26e9858396c9d9?utm_campaign=1057&utm_source=git)** | Anaheim, CA | Hybrid | Nov 23 |
 | **[Cintas](http://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/6741c8a4ed355d52a80df1bf?utm_campaign=1057&utm_source=git)** | Laurel, MD | On Site | Nov 23 |
+| **[Pentair](http://www.pentair.com)** | **[Engineering Leadership Development Program Internship - Summer 2025](https://jobright.ai/jobs/info/66fcc2db9d7d3e68080e2fe0?utm_campaign=1057&utm_source=git)** | North Aurora, IL | On Site | Nov 23 |
 | **[Holmes Murphy](http://www.holmesmurphy.com/)** | **[2025 SUMMER INTERNSHIP PROGRAM](https://jobright.ai/jobs/info/66d0fa1a746cef0483bcbd87?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD | On Site | Nov 23 |
 | **[Daiichi Sankyo, Inc.](https://daiichisankyo.us)** | **[Medical Proficiency Acceleration Center Intern](https://jobright.ai/jobs/info/6724d2230ff7e6d2bc4b9734?utm_campaign=1057&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 23 |
 | **[Year Up](http://yearup.org)** | **[Information Security Job Training Program](https://jobright.ai/jobs/info/6741c467f0de61dff6d3dbe2?utm_campaign=1057&utm_source=git)** | Woodbridge, VA | On Site | Nov 23 |
@@ -108,7 +112,7 @@ For a complete list, click the following sortable link below:
 | **[Menlo School](https://www.menloschool.org/)** | **[Student Liaison Intern (2 positions)](https://jobright.ai/jobs/info/674142a4cc86c50bbb48e625?utm_campaign=1057&utm_source=git)** | Atherton, CA | On Site | Nov 22 |
 | **[Yale New Haven Health](https://www.ynhhs.org/)** | **[Flynn Fellowship Oncology Student Nurse Internship - Summer 2025; per diem](https://jobright.ai/jobs/info/67413ae1f28c48a2df7b26b5?utm_campaign=1057&utm_source=git)** | Greenwich, CT | On Site | Nov 22 |
 | **[NEOGOV](http://www.neogov.com)** | **[College Intern - First 5 Internship](https://jobright.ai/jobs/info/674126cbf35f6851d5f592a8?utm_campaign=1057&utm_source=git)** | Oroville/Chico Area, CA | On Site | Nov 22 |
-| **[Baldwin Risk Partners](https://baldwin.com/)** | **[Summer Insurance Advisory Services Intern](https://jobright.ai/jobs/info/67412de462fbe542a5f097ca?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Nov 22 |
+| **[Baldwin Risk Partners](https://baldwin.com/)** | **[Summer Insurance Advisory Services Intern](https://jobright.ai/jobs/info/67412de462fbe542a5f09760?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Nov 22 |
 | **[University of Utah](http://utah.edu)** | **[UCS Step Up Intern (Work Study)](https://jobright.ai/jobs/info/67412e352185b7536d24f153?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | Nov 22 |
 | **[Cedar Fair Entertainment Company](http://cedarfair.com)** | **[KD Business Intern (Spring 2025)](https://jobright.ai/jobs/info/6708a6569bdee84ee0a52d02?utm_campaign=1057&utm_source=git)** | Doswell, VA | On Site | Nov 22 |
 | **[Towson University](http://www.towson.edu/)** | **[Staff Psychologist](https://jobright.ai/jobs/info/6735ee22169f0b99ef92e40c?utm_campaign=1057&utm_source=git)** | Towson, MD | On Site | Nov 22 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Technical Service Center Intern- Summer 2025](https://jobright.ai/jobs/info/6740d9e2449f7c375af41416?utm_campaign=1057&utm_source=git)** | Lone Tree, CO | On Site | Nov 22 |
 | **[Anne Arundel County Public Schools](https://www.aacps.org/)** | **[Teacher: Career & Technology Education (Plumbing)](https://jobright.ai/jobs/info/6740ca28a9c970781c48c89b?utm_campaign=1057&utm_source=git)** | Annapolis, MD | On Site | Nov 22 |
 | **[ETS](http://www.ets.org)** | **[2025 Advanced Placement (AP) Reading Internship](https://jobright.ai/jobs/info/6740b6bc6adfa5f0a86e3022?utm_campaign=1057&utm_source=git)** | Princeton, NJ | On Site | Nov 22 |
-| **[Answers in Genesis](https://answersingenesis.org)** | **[Ark Encounter Zoo Animal Health Embark Intern- Spring 2025](https://jobright.ai/jobs/info/67420173b2c2aad8d38355ce?utm_campaign=1057&utm_source=git)** | Williamstown, KY | On Site | Nov 22 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Cultural Orientation Intern](https://jobright.ai/jobs/info/6740baa6ba939b647fe7881b?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Nov 22 |
-| **[AdventHealth](https://www.adventhealth.com/)** | **[Graduate Research Assistant, AHU, PRN](https://jobright.ai/jobs/info/6740baa6ba939b647fe7886b?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Nov 22 |
-| **[Shepherd University](http://shepherd.edu)** | **[DATA 118 Teaching Assistant](https://jobright.ai/jobs/info/6740baa6ba939b647fe788cb?utm_campaign=1057&utm_source=git)** | Shepherdstown, WV | On Site | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
