@@ -57,6 +57,27 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American University](http://american.edu)** | **[Graduate Office Student Assistant-1](https://jobright.ai/jobs/info/67527182d567239875e5c9fe?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Dec 05 |
+| **[L.A. Care Health Plan](http://www.lacare.org/)** | **[Student Intern (Community Resource Center, Long Beach)](https://jobright.ai/jobs/info/67526e8edb3d654f90de8ea0?utm_campaign=1057&utm_source=git)** | Long Beach, CA | On Site | Dec 05 |
+| **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67526834b47b0ccecb3274e3?utm_campaign=1057&utm_source=git)** | Shakopee, MN | On Site | Dec 05 |
+| ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67526834b47b0ccecb3274e4?utm_campaign=1057&utm_source=git)** | Indian Trail, NC | On Site | Dec 05 |
+| ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67526834b47b0ccecb3274e7?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Dec 05 |
+| ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67526834b47b0ccecb3274e8?utm_campaign=1057&utm_source=git)** | Corpus Christi, TX | On Site | Dec 05 |
+| ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67526e8edb3d654f90de8fbd?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Dec 05 |
+| ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67526e8edb3d654f90de8fbe?utm_campaign=1057&utm_source=git)** | Maple Grove, MN | On Site | Dec 05 |
+| ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67526e8edb3d654f90de8fbf?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Dec 05 |
+| ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67526e8edb3d654f90de8fc0?utm_campaign=1057&utm_source=git)** | Lake Wylie, SC | On Site | Dec 05 |
+| ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67526834b47b0ccecb3274eb?utm_campaign=1057&utm_source=git)** | Morrisville, NC | On Site | Dec 05 |
+| **[Security Benefit](https://securitybenefit.com)** | **[Intern - Teacher](https://jobright.ai/jobs/info/675265dc82dd40ab5ccec64e?utm_campaign=1057&utm_source=git)** | Topeka, KS | On Site | Dec 05 |
+| **[Paramount](https://www.paramount.com)** | **[MTV Entertainment Group JD/LLM Internship (Summer 2025, Hybrid- San Francisco)](https://jobright.ai/jobs/info/67525e8339695058d6fd76ed?utm_campaign=1057&utm_source=git)** | San Francisco, CA | Hybrid | Dec 05 |
+| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Summer 2025 Intern - Clinical Affairs - Michigan](https://jobright.ai/jobs/info/67526e390d9b1d84d6c52c63?utm_campaign=1057&utm_source=git)** | Portage, MI | On Site | Dec 05 |
+| **[North Carolina State University](http://www.ncsu.edu/)** | **[International Student & Scholar Advisor II](https://jobright.ai/jobs/info/675265dc82dd40ab5ccec5c4?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Dec 05 |
+| **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Program Performance Management Internship - 2025](https://jobright.ai/jobs/info/675251e797c1a26ad14190ee?utm_campaign=1057&utm_source=git)** | Scottsdale, AZ | Hybrid | Dec 05 |
+| **[Rural King](https://www.ruralking.com)** | **[Internship](https://jobright.ai/jobs/info/675251e797c1a26ad1419328?utm_campaign=1057&utm_source=git)** | Mattoon, IL | On Site | Dec 05 |
+| **[California Department of Health Care Services](https://www.dhcs.ca.gov)** | **[Student Assistant](https://jobright.ai/jobs/info/67524da84c5d94c144498853?utm_campaign=1057&utm_source=git)** | Sacramento, CA | Hybrid | Dec 05 |
+| **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[2025 Summer Intern Program](https://jobright.ai/jobs/info/67524646438cea7da270f2da?utm_campaign=1057&utm_source=git)** | Brookhaven, GA | On Site | Dec 05 |
+| **[Exos](http://www.teamexos.com/)** | **[2025 Spring Performance Specialist Intern - Maryland Heights](https://jobright.ai/jobs/info/67524646438cea7da270f47b?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Dec 05 |
+| **[Wisconsin Foundation and Alumni Association](https://www.uwalumni.com/)** | **[Advancement Program Intern](https://jobright.ai/jobs/info/67526e8edb3d654f90de8f48?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Dec 05 |
 | **[The Brattle Group](http://www.brattle.com)** | **[Summer Associate - 2025](https://jobright.ai/jobs/info/675232c86ef56a79e3b5b44b?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | Dec 05 |
 | **[Farmingdale State College](http://www.farmingdale.edu/)** | **[RF - Academic Success Coach (2 positions) - EMERGE Program](https://jobright.ai/jobs/info/67523a8cb656c2b1ad3cdc5e?utm_campaign=1057&utm_source=git)** | Farmingdale, NY | On Site | Dec 05 |
 | **[Des Moines Performing Arts](https://desmoinesperformingarts.org/)** | **[Teaching Internship - Musical Theater Camp (Summer 2025)](https://jobright.ai/jobs/info/67523a8cb656c2b1ad3cdc31?utm_campaign=1057&utm_source=git)** | Des Moines, IA | On Site | Dec 05 |
@@ -79,13 +100,14 @@ For a complete list, click the following sortable link below:
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67522767cbdea6438a5773a6?utm_campaign=1057&utm_source=git)** | Chandler, AZ | On Site | Dec 05 |
 | ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67522767cbdea6438a5773a7?utm_campaign=1057&utm_source=git)** | Mesa, AZ | On Site | Dec 05 |
 | ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67522767cbdea6438a5773a8?utm_campaign=1057&utm_source=git)** | Glendale, AZ | On Site | Dec 05 |
-| ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67522767cbdea6438a5773ae?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Dec 05 |
 | ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67522767cbdea6438a5773ac?utm_campaign=1057&utm_source=git)** | Gilbert, AZ | On Site | Dec 05 |
+| ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67522767cbdea6438a5773ae?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Dec 05 |
 | **[Ensign College](https://www.ldsbc.edu/)** | **[Student Employee - Interior Design Tutor in the Student Success Center](https://jobright.ai/jobs/info/6752235f164052be430b1554?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | Dec 05 |
 | ↳ | **[Student Employee - Instructional Design Assistant](https://jobright.ai/jobs/info/6752235f164052be430b152a?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | Dec 05 |
 | **[Educational Service District 123](https://www.esd123.org)** | **[Student Assistance Professional](https://jobright.ai/jobs/info/67522767cbdea6438a577194?utm_campaign=1057&utm_source=git)** | Pasco, WA | On Site | Dec 05 |
 | **[Ensign College](https://www.ldsbc.edu/)** | **[Student Employee - Writing Tutor in the Student Success Center](https://jobright.ai/jobs/info/67522767cbdea6438a57718f?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | Dec 05 |
 | **[National Heritage Academies](https://www.nhaschools.com)** | **[Curriculum & Instruction Intern NEX YR](https://jobright.ai/jobs/info/6752235f164052be430b1622?utm_campaign=1057&utm_source=git)** | Grand Rapids, MI | On Site | Dec 05 |
+| **[Cintas](http://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/67524b3014694f514e3213db?utm_campaign=1057&utm_source=git)** | Tuscaloosa, AL | On Site | Dec 05 |
 | **[Uponor](https://www.uponor.com)** | **[Sales Training Intern](https://jobright.ai/jobs/info/6752133c07303fdabebafb6e?utm_campaign=1057&utm_source=git)** | Apple Valley, MN | Hybrid | Dec 05 |
 | **[The University of Vermont Medical Center](http://www.UVMhealth.org/MedCenter)** | **[New Grad Residency Periop 101 Internship](https://jobright.ai/jobs/info/67521fdfc703ffab1d953cf5?utm_campaign=1057&utm_source=git)** | Burlington, VT | On Site | Dec 05 |
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[AfterSales Technical Training Intern](https://jobright.ai/jobs/info/675210a62a99078959221620?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Dec 05 |
@@ -98,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[National Heritage Academies](https://www.nhaschools.com)** | **[Curriculum & Instruction Intern NEX YR](https://jobright.ai/jobs/info/67520d356a22751dda834cc3?utm_campaign=1057&utm_source=git)** | 3850 Broadmoor Ave SE, Grand Rapids, MI, 49512, US | On Site | Dec 05 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Program Performance Management Internship - 2025](https://jobright.ai/jobs/info/67520e10c8300bc598c61b5e?utm_campaign=1057&utm_source=git)** | Scottsdale, AZ | Hybrid | Dec 05 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[1L Summer Associate (Twin Cities Diversity in Practice) / Minneapolis](https://jobright.ai/jobs/info/6751ee9dda64898079e56017?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 05 |
-| ↳ | **[2025 1L Summer Associate (LCLD) / Des Moines](https://jobright.ai/jobs/info/675207a799749dd91d24f420?utm_campaign=1057&utm_source=git)** | Des Moines, IA | Hybrid | Dec 05 |
 | ↳ | **[2025 1L Summer Associate / Minneapolis](https://jobright.ai/jobs/info/6751edba1187f2d85728daa4?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 05 |
 | **[The Henry M. Jackson Foundation for the Advancement of Military Medicine](https://www.hjf.org/)** | **[Intern - High School Summer Scholars Program](https://jobright.ai/jobs/info/673c1a9bc03e749d9e7126f2?utm_campaign=1057&utm_source=git)** | Bethesda, MD | On Site | Dec 05 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2025 1L Summer Associate / Des Moines](https://jobright.ai/jobs/info/6751e666dc868e858ff2b42a?utm_campaign=1057&utm_source=git)** | Des Moines, IA | Hybrid | Dec 05 |
@@ -109,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Virginia Tech](http://www.vt.edu)** | **[Student Support and Success Coordinator](https://jobright.ai/jobs/info/6751e9437ae8983ba12bae72?utm_campaign=1057&utm_source=git)** | Blacksburg, VA | On Site | Dec 05 |
 | **[NEOGOV](http://www.neogov.com)** | **[ST Off-Campus Literacy Tutor - Sierra Vista](https://jobright.ai/jobs/info/6751e7664188a2f16250b124?utm_campaign=1057&utm_source=git)** | Sierra Vista Campus, AZ | On Site | Dec 05 |
 | ↳ | **[ST Off-Campus Literacy Tutor - Douglas](https://jobright.ai/jobs/info/6751e7664188a2f16250b146?utm_campaign=1057&utm_source=git)** | Douglas Campus, AZ | On Site | Dec 05 |
-| **[Tampa General Hospital](https://www.tgh.org)** | **[Graduate Student Intern - USFTGP](https://jobright.ai/jobs/info/6751e8704188a2f16250ba91?utm_campaign=1057&utm_source=git)** | Tampa | On Site | Dec 05 |
-| ↳ | **[Graduate Student Intern - USFTGP](https://jobright.ai/jobs/info/6751e7664188a2f16250b1a1?utm_campaign=1057&utm_source=git)** | TGH Main Campus1 Tampa General Circle | On Site | Dec 05 |
+| **[Tampa General Hospital](https://www.tgh.org)** | **[Graduate Student Intern - USFTGP](https://jobright.ai/jobs/info/6751e7664188a2f16250b1a1?utm_campaign=1057&utm_source=git)** | TGH Main Campus1 Tampa General Circle | On Site | Dec 05 |
+| ↳ | **[Graduate Student Intern - USFTGP](https://jobright.ai/jobs/info/6751e8704188a2f16250ba91?utm_campaign=1057&utm_source=git)** | Tampa | On Site | Dec 05 |
 | **[Kennedy Wilson](http://kennedywilson.com)** | **[2025 SUMMER INTERNSHIP PROGRAM](https://jobright.ai/jobs/info/6751e4139cfd49421e8a25d7?utm_campaign=1057&utm_source=git)** | Beverly Hills, CA | On Site | Dec 05 |
 | **[Nebraska Medicine](https://www.nebraskamed.com)** | **[Neonatal Practicum Intern](https://jobright.ai/jobs/info/6751e7664188a2f16250b232?utm_campaign=1057&utm_source=git)** | Omaha, NE | On Site | Dec 05 |
 | **[The University of Vermont Medical Center](http://www.UVMhealth.org/MedCenter)** | **[New Grad Residency Periop 101 Internship](https://jobright.ai/jobs/info/6751e7664188a2f16250b2bb?utm_campaign=1057&utm_source=git)** | Burlington, VT | On Site | Dec 05 |
@@ -136,25 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Paid Intern](https://jobright.ai/jobs/info/6751c3dafee62bbd1c6ed4bb?utm_campaign=1057&utm_source=git)** | Buffalo, NY | On Site | Dec 05 |
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[Food and Beverage Training Intern (Summer 2025)](https://jobright.ai/jobs/info/6751cd410c0a5a0961fbad6e?utm_campaign=1057&utm_source=git)** | Hershey, PA | On Site | Dec 05 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/6751e9437ae8983ba12bafab?utm_campaign=1057&utm_source=git)** | Plymouth, MN | On Site | Dec 05 |
-| **[University of Michigan](https://www.umich.edu)** | **[IMSE Assistant in Research W25 (Student Temporary)](https://jobright.ai/jobs/info/6751cb6fbcfa674f9a79f994?utm_campaign=1057&utm_source=git)** | Dearborn, MI | On Site | Dec 05 |
-| **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/6751c3d1025285fe6262164a?utm_campaign=1057&utm_source=git)** | New Braunfels, TX | On Site | Dec 05 |
-| ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/6751c3d1025285fe6262164b?utm_campaign=1057&utm_source=git)** | Mansfield, TX | On Site | Dec 05 |
-| ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/6751be631e9f5e156d5ba278?utm_campaign=1057&utm_source=git)** | The Woodlands, TX | On Site | Dec 05 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[N99983 Financial Aid Specialist - Broken Arrow Campus](https://jobright.ai/jobs/info/6751d7bfd47c8ecf0b0f65a4?utm_campaign=1057&utm_source=git)** | Broken Arrow, OK | On Site | Dec 05 |
-| ↳ | **[Instructional Designer](https://jobright.ai/jobs/info/6751d7bfd47c8ecf0b0f65a5?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Dec 05 |
-| ↳ | **[Coordinator of Student Development, Tahlequah](https://jobright.ai/jobs/info/6751d7bfd47c8ecf0b0f65a6?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Dec 05 |
-| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (OT/OTA Catonsville Day Program) Winter Jan - Mar 2025 OT Fieldwork](https://jobright.ai/jobs/info/6751bb5d178e9f13b2772248?utm_campaign=1057&utm_source=git)** | Catonsville, MD | On Site | Dec 05 |
-| **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Psychiatric Services](https://jobright.ai/jobs/info/6751b622011435ff78eadcab?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Dec 05 |
-| ↳ | **[RN New Graduate Internship Program - Resource Float Pool](https://jobright.ai/jobs/info/6751b622011435ff78eadcb0?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Dec 05 |
-| ↳ | **[RN New Graduate Internship Program - Women's and Children's Unit](https://jobright.ai/jobs/info/6751b09ab78c28145aa9251e?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Dec 05 |
-| **[University of Central Oklahoma](http://www.uco.edu/)** | **[FWSP Student Technical - CeCE](https://jobright.ai/jobs/info/6751b09ab78c28145aa9216f?utm_campaign=1057&utm_source=git)** | Edmond, OK | Remote | Dec 05 |
-| **[TDIndustries, Inc.](https://www.tdindustries.com/)** | **[Summer 2025 Superintendent Internship - San Antonio, TX](https://jobright.ai/jobs/info/6735c48f80ba4ea621bed3a4?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Dec 05 |
-| **[Year Up](http://yearup.org)** | **[Desktop Support Job Training Program](https://jobright.ai/jobs/info/6751a585ba2c3676f1a11765?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Dec 05 |
-| ↳ | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/6751a585ba2c3676f1a11000?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Dec 05 |
-| ↳ | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/6751a585ba2c3676f1a1176b?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Dec 05 |
-| ↳ | **[Desktop Management Job Training Program](https://jobright.ai/jobs/info/6751a64cba2c3676f1a117b3?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Dec 05 |
-| ↳ | **[Customer Service Job Training Program](https://jobright.ai/jobs/info/6751a64cba2c3676f1a117b4?utm_campaign=1057&utm_source=git)** | Woodbridge, VA | On Site | Dec 05 |
-| ↳ | **[Desktop Support Job Training Program](https://jobright.ai/jobs/info/6751a585ba2c3676f1a11073?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 05 |
-| ↳ | **[Data Analytics Job Training Program](https://jobright.ai/jobs/info/6751a64cba2c3676f1a117f8?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Dec 05 |
-| ↳ | **[Application Development & Support Career Training Program](https://jobright.ai/jobs/info/6751a64cba2c3676f1a117fa?utm_campaign=1057&utm_source=git)** | Jersey City, NJ | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
