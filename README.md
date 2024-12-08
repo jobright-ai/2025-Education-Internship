@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trinity Health](http://www.trinity-health.org)** | **[Certified Surgical Technologist (CST) OR Part time](https://jobright.ai/jobs/info/675596d0ffb8760d0d044eb3?utm_campaign=1057&utm_source=git)** | Syracuse, NY | On Site | Dec 08 |
+| **[Year Up](http://yearup.org)** | **[Data Management Job Training Opportunity](https://jobright.ai/jobs/info/6751865c143f378310a7f164?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Dec 08 |
+| ↳ | **[Desktop Support Job Training Program](https://jobright.ai/jobs/info/675585e9dd1c346a78c45d25?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Dec 08 |
+| ↳ | **[Desktop Management Job Training Program](https://jobright.ai/jobs/info/675585e9dd1c346a78c45e2a?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Dec 08 |
+| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Business Insurance Summer Intern](https://jobright.ai/jobs/info/675585e9dd1c346a78c45d4d?utm_campaign=1057&utm_source=git)** | Ridgeland, MS | On Site | Dec 08 |
+| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Intern](https://jobright.ai/jobs/info/66c78f3900ea364ac1ffa973?utm_campaign=1057&utm_source=git)** | Leesville, SC | On Site | Dec 08 |
 | **[City of Berkeley](https://www.cityofberkeley.info/)** | **[Youth Enrollee Intern](https://jobright.ai/jobs/info/675567eb5f07089d1ce6e2d5?utm_campaign=1057&utm_source=git)** | Berkeley, CA | On Site | Dec 08 |
 | **[University of Wisconsin-Green Bay](http://www.uwgb.edu/)** | **[International Education Coordinator](https://jobright.ai/jobs/info/675567eb5f07089d1ce6e28b?utm_campaign=1057&utm_source=git)** | Green Bay, WI | On Site | Dec 08 |
 | **[Andrews University](https://www.andrews.edu/)** | **[Practicum & Internship Clinical Coord/Faculty](https://jobright.ai/jobs/info/675564a2564f46bf242fca12?utm_campaign=1057&utm_source=git)** | Berrien Springs, MI | On Site | Dec 08 |
@@ -75,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Amgen](http://www.amgen.com)** | **[Undergrad Intern – Representation in Clinical Trials (R&D) (Summer 2025)](https://jobright.ai/jobs/info/67544624d1d29e021091bc9b?utm_campaign=1057&utm_source=git)** | United States - Remote | On Site | Dec 07 |
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Emergency Department](https://jobright.ai/jobs/info/6754524932f335a74c79a037?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Dec 07 |
 | **[Fenwick & West](http://www.fenwick.com)** | **[1L Summer Associate Scholarship Program, 2025 Summer Program](https://jobright.ai/jobs/info/67379754c607401a448dc961?utm_campaign=1057&utm_source=git)** | Santa Monica, CA | On Site | Dec 07 |
+| **[Trinity Health](http://www.trinity-health.org)** | **[Intern (RN) - Cath Lab - Full Time - Days](https://jobright.ai/jobs/info/675576d85666ecf8d150c2fd?utm_campaign=1057&utm_source=git)** | Mason City, IA | On Site | Dec 07 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Instructional Design](https://jobright.ai/jobs/info/66fea4f6ef279252b0031a23?utm_campaign=1057&utm_source=git)** | Stamford, CT | On Site | Dec 07 |
 | **[Year Up](http://yearup.org)** | **[Financial Advisory Job Training Program](https://jobright.ai/jobs/info/675430e467c5378d7313f6cf?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Dec 07 |
 | ↳ | **[Financial Advisory Career Training Program](https://jobright.ai/jobs/info/6737079e845739827f10122f?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Dec 07 |
@@ -104,7 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Brightline](https://www.hellobrightline.com)** | **[BrightLife Kids - Health Educator Internship (Fresno, CA)](https://jobright.ai/jobs/info/6753a9f78c840fe8d24479fe?utm_campaign=1057&utm_source=git)** | Fresno, CA | On Site | Dec 06 |
 | ↳ | **[BrightLife Kids - Health Educator Internship (Inland Empire, CA)](https://jobright.ai/jobs/info/6753a45499bec8a92ebc9cc0?utm_campaign=1057&utm_source=git)** | San Bernardino, CA | On Site | Dec 06 |
 | ↳ | **[BrightLife Kids - Health Educator Internship (San Diego, CA)](https://jobright.ai/jobs/info/6753a563c37a64a3bdb32c94?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Dec 06 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern - Med Surg Oncology](https://jobright.ai/jobs/info/6753b3e53b310236a8ad19bd?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Dec 06 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern - Med Surg Oncology](https://jobright.ai/jobs/info/6753b4273b310236a8ad2243?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Dec 06 |
 | **[Howmet Aerospace](https://www.howmet.com/)** | **[Intern](https://jobright.ai/jobs/info/67538ea733e47e66d2205589?utm_campaign=1057&utm_source=git)** | Torrance, CA | On Site | Dec 06 |
 | **[Entegris](http://www.entegris.com)** | **[Instructional Design and Information Sciences Intern](https://jobright.ai/jobs/info/67538ceeba1e3a7a82493997?utm_campaign=1057&utm_source=git)** | Billerica, MA | Remote | Dec 06 |
 | **[ChildServe](https://www.childserve.org/)** | **[Child Development Center Administrative Intern](https://jobright.ai/jobs/info/675395ea938a78c26faf5e00?utm_campaign=1057&utm_source=git)** | Johnston, IA | On Site | Dec 06 |
@@ -115,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[Brightline](https://www.hellobrightline.com)** | **[Health Educator Internship (Inland Empire, CA)](https://jobright.ai/jobs/info/6712975ffc5183767190906c?utm_campaign=1057&utm_source=git)** | Riverside, CA | On Site | Dec 06 |
 | ↳ | **[Health Educator Internship (Fresno, CA)](https://jobright.ai/jobs/info/6753781bce0626af105d3001?utm_campaign=1057&utm_source=git)** | Fresno, CA | On Site | Dec 06 |
 | ↳ | **[Health Educator Internship (San Diego, CA)](https://jobright.ai/jobs/info/6753781bce0626af105d2f88?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Dec 06 |
-| **[NEOGOV](http://www.neogov.com)** | **[FWS A&P Open Lab Student Tutor](https://jobright.ai/jobs/info/675370642913120aad1b630b?utm_campaign=1057&utm_source=git)** | Stark State College - Main Campus (North Canton) | On Site | Dec 06 |
-| ↳ | **[Non-FWS A&P Open Lab Student Tutor](https://jobright.ai/jobs/info/675370642913120aad1b6303?utm_campaign=1057&utm_source=git)** | Stark State College - Main Campus (North Canton) | On Site | Dec 06 |
+| **[NEOGOV](http://www.neogov.com)** | **[Non-FWS A&P Open Lab Student Tutor](https://jobright.ai/jobs/info/675370642913120aad1b6303?utm_campaign=1057&utm_source=git)** | Stark State College - Main Campus (North Canton) | On Site | Dec 06 |
+| ↳ | **[FWS A&P Open Lab Student Tutor](https://jobright.ai/jobs/info/675370642913120aad1b630b?utm_campaign=1057&utm_source=git)** | Stark State College - Main Campus (North Canton) | On Site | Dec 06 |
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Psychiatric Services](https://jobright.ai/jobs/info/6753f238727ed4e5338e0bfb?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Dec 06 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[McCormick Postdoctoral Fellowships in Computer Science](https://jobright.ai/jobs/info/6753726a05d6f23c7ab200d8?utm_campaign=1057&utm_source=git)** | Evanston, IL | Hybrid | Dec 06 |
 | **[University of South Florida](http://www.usf.edu)** | **[Athletics Assistant- Equipment Intern (part-time)](https://jobright.ai/jobs/info/67538d2b742bac7905c40be3?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Dec 06 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[National Heritage Academies](https://www.nhaschools.com)** | **[Special Education Intern NEX YR](https://jobright.ai/jobs/info/6753486763f4af3472e9e6b4?utm_campaign=1057&utm_source=git)** | 3850 Broadmoor Ave SE, Grand Rapids, MI, 49512, US | On Site | Dec 06 |
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Surgical Care Unit](https://jobright.ai/jobs/info/6753490f82c9003f19bfe905?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Dec 06 |
 | **[Detroit Medical Center](http://www.dmc.org/)** | **[Pharmacy Intern P2 Contingent Rotate](https://jobright.ai/jobs/info/675346a06fdffbed4785746c?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Dec 06 |
-| **[Petfolk](https://petfolk.com)** | **[Campus Partner - University of Georgia ](https://jobright.ai/jobs/info/675341ddc93ae804149779b1?utm_campaign=1057&utm_source=git)** | Athens, GA | On Site | Dec 06 |
-| ↳ | **[Campus Partner - University of Florida](https://jobright.ai/jobs/info/675341ddc93ae804149779ad?utm_campaign=1057&utm_source=git)** | Gainesville, FL | On Site | Dec 06 |
-| ↳ | **[Campus Partner - Lincoln Memorial University ](https://jobright.ai/jobs/info/675341ddc93ae80414977967?utm_campaign=1057&utm_source=git)** | Harrogate, TN | On Site | Dec 06 |
-| ↳ | **[Campus Partner - Texas A&M University ](https://jobright.ai/jobs/info/675341ddc93ae80414977972?utm_campaign=1057&utm_source=git)** | College Station, TX | On Site | Dec 06 |
-| ↳ | **[Campus Partner - The Ohio State University ](https://jobright.ai/jobs/info/675341ddc93ae8041497798c?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Dec 06 |
-| ↳ | **[Campus Partner - North Carolina State University ](https://jobright.ai/jobs/info/675341ddc93ae804149779ef?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Dec 06 |
-| **[Oracle](https://www.oracle.com/)** | **[CSS North America Global Delivery Internship](https://jobright.ai/jobs/info/6753416ef1b1cfefc443fa64?utm_campaign=1057&utm_source=git)** | Austin, TX, United States | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
