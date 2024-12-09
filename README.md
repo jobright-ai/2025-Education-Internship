@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[MKS Instruments](http://www.mksinst.com)** | **[2025 Summer Contract Ops Undergraduate Intern/Co-op](https://jobright.ai/jobs/info/67561fb2de3aca251c175bc3?utm_campaign=1057&utm_source=git)** | Andover, MA | Hybrid | Dec 08 |
+| **[Fleis & VandenBrink](https://www.fveng.com/)** | **[Survey Intern](https://jobright.ai/jobs/info/675664a0030b36561291b6cf?utm_campaign=1057&utm_source=git)** | Grand Rapids, MI | On Site | Dec 08 |
+| **[MKS Instruments](http://www.mksinst.com)** | **[2025 Summer Contract Ops Undergraduate Intern/Co-op](https://jobright.ai/jobs/info/675652519a6d45f0ce2812e6?utm_campaign=1057&utm_source=git)** | Andover, MA | Hybrid | Dec 08 |
+| ↳ | **[2025 Summer Employee Engagement Undergraduate Intern/ Co-op Program](https://jobright.ai/jobs/info/675652519a6d45f0ce2812e5?utm_campaign=1057&utm_source=git)** | Andover, MA | Hybrid | Dec 08 |
+| ↳ | **[2025 Summer Contract Ops Undergraduate Intern/Co-op](https://jobright.ai/jobs/info/67561fb2de3aca251c175bc3?utm_campaign=1057&utm_source=git)** | Andover, MA | Hybrid | Dec 08 |
 | ↳ | **[2025 Summer Employee Engagement Undergraduate Intern/ Co-op Program](https://jobright.ai/jobs/info/67561fb2de3aca251c175bc7?utm_campaign=1057&utm_source=git)** | Andover, MA | Hybrid | Dec 08 |
 | **[INTEGRIS Health](https://www.integrisok.com)** | **[Physician Assistant Intern - Grand Lake OBGYN](https://jobright.ai/jobs/info/67561fb2de3aca251c175bc4?utm_campaign=1057&utm_source=git)** | Grove, OK, United States | On Site | Dec 08 |
 | **[Shalom Park](https://shalompark.org/)** | **[Internship (Unpaid)](https://jobright.ai/jobs/info/675611771c908d0ea723c59d?utm_campaign=1057&utm_source=git)** | Aurora, CO | On Site | Dec 08 |
@@ -93,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Undergrad Intern  Amgen Foundation (Summer 2025)](https://jobright.ai/jobs/info/6754a6793929df39ea2436a0?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Dec 07 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99983 Financial Aid Specialist - Broken Arrow Campus](https://jobright.ai/jobs/info/67548262b70a16a13dc083fc?utm_campaign=1057&utm_source=git)** | Broken Arrow, OK | On Site | Dec 07 |
 | ↳ | **[Instructional Designer - Tahlequah Campus](https://jobright.ai/jobs/info/67546fa21bed53346d268877?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Dec 07 |
-| **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Psychiatric Services](https://jobright.ai/jobs/info/67546311946b98a9bcbc6060?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Dec 07 |
 | **[AutoZone](http://www.autozone.com/)** | **[AutoZone 2025 Summer Internship – Loss Prevention](https://jobright.ai/jobs/info/67550e38ddcd332dd7097c48?utm_campaign=1057&utm_source=git)** | Memphis, TN | On Site | Dec 07 |
 | **[Amgen](http://www.amgen.com)** | **[Undergrad Intern – Representation in Clinical Trials (R&D) (Summer 2025)](https://jobright.ai/jobs/info/67544624d1d29e021091bc9b?utm_campaign=1057&utm_source=git)** | United States - Remote | On Site | Dec 07 |
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Emergency Department](https://jobright.ai/jobs/info/6754524932f335a74c79a037?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Dec 07 |
@@ -108,6 +110,7 @@ For a complete list, click the following sortable link below:
 | **[Moderna](http://www.modernatx.com)** | **[2025 Intern, Compliance Education](https://jobright.ai/jobs/info/675411aae6e0c42c37da41cb?utm_campaign=1057&utm_source=git)** | Norwood, MA | On Site | Dec 07 |
 | **[NEOGOV](http://www.neogov.com)** | **[Youth Aide (Landscape & Learning Spring)](https://jobright.ai/jobs/info/67540a665e8486d6437c82e3?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Dec 07 |
 | **[Bank of Hawaii](https://www.boh.com/personal/)** | **[2025 Summer Intern Program](https://jobright.ai/jobs/info/675407acb892043a6c5f86af?utm_campaign=1057&utm_source=git)** | Honolulu, HI | On Site | Dec 07 |
+| **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Psychiatric Services](https://jobright.ai/jobs/info/67540cb15501728204b8336e?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Dec 07 |
 | **[Year Up](http://yearup.org)** | **[Desktop Management Job Training Program](https://jobright.ai/jobs/info/67527f92590934997eb16cc1?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Dec 06 |
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Resource Float Pool](https://jobright.ai/jobs/info/67540cb15501728204b833de?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Dec 06 |
 | **[NEOGOV](http://www.neogov.com)** | **[*Intern 2025](https://jobright.ai/jobs/info/6753e0baee71ae898b551496?utm_campaign=1057&utm_source=git)** | Prince William County, VA | On Site | Dec 06 |
@@ -127,7 +130,7 @@ For a complete list, click the following sortable link below:
 | **[Brightline](https://www.hellobrightline.com)** | **[BrightLife Kids - Health Educator Internship (Fresno, CA)](https://jobright.ai/jobs/info/6753a9f78c840fe8d24479fe?utm_campaign=1057&utm_source=git)** | Fresno, CA | On Site | Dec 06 |
 | ↳ | **[BrightLife Kids - Health Educator Internship (Inland Empire, CA)](https://jobright.ai/jobs/info/6753a45499bec8a92ebc9cc0?utm_campaign=1057&utm_source=git)** | San Bernardino, CA | On Site | Dec 06 |
 | ↳ | **[BrightLife Kids - Health Educator Internship (San Diego, CA)](https://jobright.ai/jobs/info/6753a563c37a64a3bdb32c94?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Dec 06 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern - Med Surg Oncology](https://jobright.ai/jobs/info/6753b4273b310236a8ad2243?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Dec 06 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern - Med Surg Oncology](https://jobright.ai/jobs/info/6753b3e53b310236a8ad19bd?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Dec 06 |
 | **[Howmet Aerospace](https://www.howmet.com/)** | **[Intern](https://jobright.ai/jobs/info/67538ea733e47e66d2205589?utm_campaign=1057&utm_source=git)** | Torrance, CA | On Site | Dec 06 |
 | **[Entegris](http://www.entegris.com)** | **[Instructional Design and Information Sciences Intern](https://jobright.ai/jobs/info/67538ceeba1e3a7a82493997?utm_campaign=1057&utm_source=git)** | Billerica, MA | Remote | Dec 06 |
 | **[ChildServe](https://www.childserve.org/)** | **[Child Development Center Administrative Intern](https://jobright.ai/jobs/info/675395ea938a78c26faf5e00?utm_campaign=1057&utm_source=git)** | Johnston, IA | On Site | Dec 06 |
@@ -139,11 +142,10 @@ For a complete list, click the following sortable link below:
 | **[Brightline](https://www.hellobrightline.com)** | **[Health Educator Internship (Inland Empire, CA)](https://jobright.ai/jobs/info/6712975ffc5183767190906c?utm_campaign=1057&utm_source=git)** | Riverside, CA | On Site | Dec 06 |
 | ↳ | **[Health Educator Internship (Fresno, CA)](https://jobright.ai/jobs/info/6753781bce0626af105d3001?utm_campaign=1057&utm_source=git)** | Fresno, CA | On Site | Dec 06 |
 | ↳ | **[Health Educator Internship (San Diego, CA)](https://jobright.ai/jobs/info/6753781bce0626af105d2f88?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Dec 06 |
-| **[NEOGOV](http://www.neogov.com)** | **[FWS A&P Open Lab Student Tutor](https://jobright.ai/jobs/info/675370642913120aad1b630b?utm_campaign=1057&utm_source=git)** | Stark State College - Main Campus (North Canton) | On Site | Dec 06 |
-| ↳ | **[Non-FWS A&P Open Lab Student Tutor](https://jobright.ai/jobs/info/675370642913120aad1b6303?utm_campaign=1057&utm_source=git)** | Stark State College - Main Campus (North Canton) | On Site | Dec 06 |
+| **[NEOGOV](http://www.neogov.com)** | **[Non-FWS A&P Open Lab Student Tutor](https://jobright.ai/jobs/info/675370642913120aad1b6303?utm_campaign=1057&utm_source=git)** | Stark State College - Main Campus (North Canton) | On Site | Dec 06 |
+| ↳ | **[FWS A&P Open Lab Student Tutor](https://jobright.ai/jobs/info/675370642913120aad1b630b?utm_campaign=1057&utm_source=git)** | Stark State College - Main Campus (North Canton) | On Site | Dec 06 |
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Psychiatric Services](https://jobright.ai/jobs/info/6753f238727ed4e5338e0bfb?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Dec 06 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[McCormick Postdoctoral Fellowships in Computer Science](https://jobright.ai/jobs/info/6753726a05d6f23c7ab200d8?utm_campaign=1057&utm_source=git)** | Evanston, IL | Hybrid | Dec 06 |
-| **[State of Michigan](http://www.michigan.gov)** | **[Student Assistant](https://jobright.ai/jobs/info/67538ea733e47e66d22056dc?utm_campaign=1057&utm_source=git)** | Lansing, MI | Hybrid | Dec 06 |
 | **[University of South Florida](http://www.usf.edu)** | **[Athletics Assistant- Equipment Intern (part-time)](https://jobright.ai/jobs/info/67538d2b742bac7905c40be3?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Dec 06 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67538ea733e47e66d220589e?utm_campaign=1057&utm_source=git)** | Waco, TX | On Site | Dec 06 |
 | **[McDaniel College](http://www.mcdaniel.edu/)** | **[Graduate Assistant - International Programs, Center for Experience & Opportunity - McDaniel College](https://jobright.ai/jobs/info/67537fd0ef7ce2280cf2e52a?utm_campaign=1057&utm_source=git)** | Westminster, MD | On Site | Dec 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/6753876014a071c9f8e6076f?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Dec 06 |
 | **[University of Michigan](https://www.umich.edu)** | **[Athletic Trainer Intern (TEMP)](https://jobright.ai/jobs/info/67538498fe14c2faac290ec3?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Dec 06 |
 | **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[Program Management Office Student Assistant - Spring 2025](https://jobright.ai/jobs/info/6753a563c37a64a3bdb32c5f?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Dec 06 |
-| **[Hoyleton Youth & Family Services](https://hoyleton.org/)** | **[Clinical Intern - Masters Level](https://jobright.ai/jobs/info/67538498fe14c2faac290eb7?utm_campaign=1057&utm_source=git)** | Fairview Heights, IL | On Site | Dec 06 |
-| **[State of Michigan](http://www.michigan.gov)** | **[Student Assistant](https://jobright.ai/jobs/info/67538498fe14c2faac290e4e?utm_campaign=1057&utm_source=git)** | Lansing, MI | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
