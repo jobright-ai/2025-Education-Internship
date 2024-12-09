@@ -57,9 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Tilson](http://tilsontech.com)** | **[Summer Internship](https://jobright.ai/jobs/info/6756b33fa7fbd7547795d4d6?utm_campaign=1057&utm_source=git)** | Hartford, CT | On Site | Dec 09 |
-| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/6756b33fa7fbd7547795d4d7?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Dec 09 |
-| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/6756b33fa7fbd7547795d4d8?utm_campaign=1057&utm_source=git)** | Appleton, WI | On Site | Dec 09 |
+| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Boston Summer Intern](https://jobright.ai/jobs/info/6756e7b0ad086d190a344c75?utm_campaign=1057&utm_source=git)** | CW Site - USA - MA - Boston - 125 High Street | On Site | Dec 09 |
+| ↳ | **[Philadelphia Summer Intern](https://jobright.ai/jobs/info/6756e7b0ad086d190a344c84?utm_campaign=1057&utm_source=git)** | Philadelphia, Pennsylvania, USA | On Site | Dec 09 |
+| ↳ | **[New Jersey Summer Intern](https://jobright.ai/jobs/info/6756e7b0ad086d190a344cb1?utm_campaign=1057&utm_source=git)** | East Rutherford, New Jersey, USA | On Site | Dec 09 |
+| **[Tilson](http://tilsontech.com)** | **[Summer Internship](https://jobright.ai/jobs/info/6756db3ec4e5821ab11bdee0?utm_campaign=1057&utm_source=git)** | Greater Hartford | On Site | Dec 09 |
+| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/6756db3ec4e5821ab11bdf90?utm_campaign=1057&utm_source=git)** | United States | Remote | Dec 09 |
+| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/6756db3ec4e5821ab11bdf91?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Dec 09 |
+| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/6756e319d571926127521865?utm_campaign=1057&utm_source=git)** | Appleton-Oshkosh Area | On Site | Dec 09 |
+| **[Susquehanna International Group](http://sig.com)** | **[Quantitative Systematic Trading Internship – Master's: Summer 2025](https://jobright.ai/jobs/info/6756d7b3a4096adebf701af0?utm_campaign=1057&utm_source=git)** | Greater Philadelphia | On Site | Dec 09 |
+| **[Year Up United](http://yearup.org)** | **[Financial Operations Job Training Opportunity](https://jobright.ai/jobs/info/6756d7b3a4096adebf701b07?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 09 |
+| ↳ | **[Application Development & Support Job Training Program](https://jobright.ai/jobs/info/6756d7b3a4096adebf701b0e?utm_campaign=1057&utm_source=git)** | Wilmington, DE | On Site | Dec 09 |
+| ↳ | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/6756d7b3a4096adebf701b09?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 09 |
+| **[Eurofins](http://eurofins.com)** | **[Summer 2025 Internship - Viral Clearance](https://jobright.ai/jobs/info/6756d7b3a4096adebf701af3?utm_campaign=1057&utm_source=git)** | Lancaster, PA | On Site | Dec 09 |
+| **[University of Michigan](https://www.umich.edu)** | **[ME Research Assistant W25 (Student Temporary)](https://jobright.ai/jobs/info/6756bf522f888d2cdde3d593?utm_campaign=1057&utm_source=git)** | Dearborn, MI | On Site | Dec 09 |
+| **[Tilson](http://tilsontech.com)** | **[Summer Internship](https://jobright.ai/jobs/info/6756b33fa7fbd7547795d4d5?utm_campaign=1057&utm_source=git)** | Appleton, WI | On Site | Dec 09 |
+| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/6756b33fa7fbd7547795d4d4?utm_campaign=1057&utm_source=git)** | Hartford, CT | On Site | Dec 09 |
 | ↳ | **[Summer Internship](https://jobright.ai/jobs/info/6756b33fa7fbd7547795d4d9?utm_campaign=1057&utm_source=git)** | Remote - United States | Remote | Dec 09 |
 | **[Year Up United](http://yearup.org)** | **[Helpdesk Job Training Program](https://jobright.ai/jobs/info/6756af394ca735705a2715f6?utm_campaign=1057&utm_source=git)** | Providence, RI | On Site | Dec 09 |
 | **[Year Up United](http://yearup.org)** | **[Financial Advisory Job Training Program](https://jobright.ai/jobs/info/675686e9ac3af0ac60d268a6?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Dec 08 |
@@ -75,12 +87,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Information Security Job Training Program](https://jobright.ai/jobs/info/67560c6732d5dc85c8de613d?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Dec 08 |
 | ↳ | **[Financial Advisory Career Training Program](https://jobright.ai/jobs/info/67285de8ec75df75f1ea41b3?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Dec 08 |
 | **[Albion College](http://www.albion.edu/)** | **[Director of Student Engagement and Greek Life](https://jobright.ai/jobs/info/675607600026c8c50e1361c2?utm_campaign=1057&utm_source=git)** | Albion, MI | On Site | Dec 08 |
+| **[Amgen](http://www.amgen.com)** | **[Grad Intern - Field Medical Excellence (Summer 2025)](https://jobright.ai/jobs/info/674889196be2743de67b6a50?utm_campaign=1057&utm_source=git)** | United States | Remote | Dec 08 |
 | **[International Leadership of Texas](https://www.iltexas.org)** | **[International Leadership of Texas / Mandarin Chinese Teacher (Middle School) / houston, tx](https://jobright.ai/jobs/info/6755c56317869b87fa2dc2b6?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Dec 08 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Instructional Designer - Tahlequah Campus](https://jobright.ai/jobs/info/6755baa3fef5f2d5ee1b2202?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Dec 08 |
 | ↳ | **[N99983 Financial Aid Specialist - Broken Arrow Campus](https://jobright.ai/jobs/info/6755baa3fef5f2d5ee1b2203?utm_campaign=1057&utm_source=git)** | Broken Arrow, OK | On Site | Dec 08 |
 | **[Year Up United](http://yearup.org)** | **[Application Development & Support Career Training Program](https://jobright.ai/jobs/info/6755aa27d8a776d55539b695?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Dec 08 |
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Surgical Care Unit](https://jobright.ai/jobs/info/6755acbe0228c7f12ec0d553?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Dec 08 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Certified Surgical Technologist (CST) OR Part time](https://jobright.ai/jobs/info/675596d0ffb8760d0d044eb3?utm_campaign=1057&utm_source=git)** | Syracuse, NY | On Site | Dec 08 |
+| **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[2025 Summer Internship](https://jobright.ai/jobs/info/671a9166596b0de5fc9710e4?utm_campaign=1057&utm_source=git)** | Livonia, MI | On Site | Dec 08 |
 | **[Year Up United](http://yearup.org)** | **[Data Management Job Training Opportunity](https://jobright.ai/jobs/info/6751865c143f378310a7f164?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Dec 08 |
 | ↳ | **[Desktop Support Job Training Program](https://jobright.ai/jobs/info/675585e9dd1c346a78c45d25?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Dec 08 |
 | ↳ | **[Desktop Management Job Training Program](https://jobright.ai/jobs/info/675585e9dd1c346a78c45e2a?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Dec 08 |
@@ -117,6 +131,7 @@ For a complete list, click the following sortable link below:
 | **[Moderna](http://www.modernatx.com)** | **[2025 Intern, Compliance Education](https://jobright.ai/jobs/info/675411aae6e0c42c37da41cb?utm_campaign=1057&utm_source=git)** | Norwood, MA | On Site | Dec 07 |
 | **[NEOGOV](http://www.neogov.com)** | **[Youth Aide (Landscape & Learning Spring)](https://jobright.ai/jobs/info/67540a665e8486d6437c82e3?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Dec 07 |
 | **[Bank of Hawaii](https://www.boh.com/personal/)** | **[2025 Summer Intern Program](https://jobright.ai/jobs/info/675407acb892043a6c5f86af?utm_campaign=1057&utm_source=git)** | Honolulu, HI | On Site | Dec 07 |
+| **[Yale New Haven Health](https://www.ynhhs.org/)** | **[Registered Nurse - Internal Medicine - NEMG; Registered Nurse](https://jobright.ai/jobs/info/67369d991e640ed21adb3fb2?utm_campaign=1057&utm_source=git)** | Cos Cob, CT | On Site | Dec 07 |
 | **[Year Up United](http://yearup.org)** | **[Desktop Management Job Training Program](https://jobright.ai/jobs/info/67527f92590934997eb16cc1?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Dec 06 |
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Resource Float Pool](https://jobright.ai/jobs/info/67540cb15501728204b833de?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Dec 06 |
 | **[State of Michigan](http://www.michigan.gov)** | **[Student Assistant](https://jobright.ai/jobs/info/675685594413509565be09a4?utm_campaign=1057&utm_source=git)** | Lansing, MI | On Site | Dec 06 |
@@ -138,23 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Brightline](https://www.hellobrightline.com)** | **[BrightLife Kids - Health Educator Internship (Fresno, CA)](https://jobright.ai/jobs/info/6753a9f78c840fe8d24479fe?utm_campaign=1057&utm_source=git)** | Fresno, CA | On Site | Dec 06 |
 | ↳ | **[BrightLife Kids - Health Educator Internship (Inland Empire, CA)](https://jobright.ai/jobs/info/6753a45499bec8a92ebc9cc0?utm_campaign=1057&utm_source=git)** | San Bernardino, CA | On Site | Dec 06 |
 | ↳ | **[BrightLife Kids - Health Educator Internship (San Diego, CA)](https://jobright.ai/jobs/info/6753a563c37a64a3bdb32c94?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Dec 06 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern - Med Surg Oncology](https://jobright.ai/jobs/info/6753b4273b310236a8ad2243?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Dec 06 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern - Med Surg Oncology](https://jobright.ai/jobs/info/6753b3e53b310236a8ad19bd?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Dec 06 |
 | **[Howmet Aerospace](https://www.howmet.com/)** | **[Intern](https://jobright.ai/jobs/info/67538ea733e47e66d2205589?utm_campaign=1057&utm_source=git)** | Torrance, CA | On Site | Dec 06 |
 | **[Entegris](http://www.entegris.com)** | **[Instructional Design and Information Sciences Intern](https://jobright.ai/jobs/info/67538ceeba1e3a7a82493997?utm_campaign=1057&utm_source=git)** | Billerica, MA | Remote | Dec 06 |
 | **[ChildServe](https://www.childserve.org/)** | **[Child Development Center Administrative Intern](https://jobright.ai/jobs/info/675395ea938a78c26faf5e00?utm_campaign=1057&utm_source=git)** | Johnston, IA | On Site | Dec 06 |
-| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (OT/OTA Hospital Inpatient) Spring 2025 OT Fieldwork](https://jobright.ai/jobs/info/674e34906214014a2428e872?utm_campaign=1057&utm_source=git)** | Elkridge, MD | On Site | Dec 06 |
-| **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Medical Unit](https://jobright.ai/jobs/info/6753876014a071c9f8e6071f?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Dec 06 |
-| ↳ | **[RN New Graduate Internship Program - Women's and Children's Unit](https://jobright.ai/jobs/info/6753876014a071c9f8e605fb?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Dec 06 |
-| **[Chula Vista Elementary School District](https://cvesd.org/)** | **[Juarez Lincoln - SDC MM Tk-1 Grade Teacher #216 - Internal Transfer Applicants Only](https://jobright.ai/jobs/info/6754d8e50fce3fba402e51b2?utm_campaign=1057&utm_source=git)** | Chula Vista, CA | On Site | Dec 06 |
-| **[Meadows Behavioral Healthcare](https://www.meadowsbh.com)** | **[MBH - Clinical Intern - 2025](https://jobright.ai/jobs/info/6753876014a071c9f8e605d4?utm_campaign=1057&utm_source=git)** | Wickenburg, AZ | On Site | Dec 06 |
-| **[Brightline](https://www.hellobrightline.com)** | **[Health Educator Internship (Inland Empire, CA)](https://jobright.ai/jobs/info/6712975ffc5183767190906c?utm_campaign=1057&utm_source=git)** | Riverside, CA | On Site | Dec 06 |
-| ↳ | **[Health Educator Internship (Fresno, CA)](https://jobright.ai/jobs/info/6753781bce0626af105d3001?utm_campaign=1057&utm_source=git)** | Fresno, CA | On Site | Dec 06 |
-| ↳ | **[Health Educator Internship (San Diego, CA)](https://jobright.ai/jobs/info/6753781bce0626af105d2f88?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Dec 06 |
-| **[NEOGOV](http://www.neogov.com)** | **[FWS A&P Open Lab Student Tutor](https://jobright.ai/jobs/info/675370642913120aad1b630b?utm_campaign=1057&utm_source=git)** | Stark State College - Main Campus (North Canton) | On Site | Dec 06 |
-| ↳ | **[Non-FWS A&P Open Lab Student Tutor](https://jobright.ai/jobs/info/675370642913120aad1b6303?utm_campaign=1057&utm_source=git)** | Stark State College - Main Campus (North Canton) | On Site | Dec 06 |
-| **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Psychiatric Services](https://jobright.ai/jobs/info/6753f238727ed4e5338e0bfb?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Dec 06 |
-| **[Northwestern University](https://www.northwestern.edu)** | **[McCormick Postdoctoral Fellowships in Computer Science](https://jobright.ai/jobs/info/6753726a05d6f23c7ab200d8?utm_campaign=1057&utm_source=git)** | Evanston, IL | Hybrid | Dec 06 |
-| **[State of Michigan](http://www.michigan.gov)** | **[Student Assistant](https://jobright.ai/jobs/info/67538ea733e47e66d22056dc?utm_campaign=1057&utm_source=git)** | Lansing, MI | Hybrid | Dec 06 |
-| **[University of South Florida](http://www.usf.edu)** | **[Athletics Assistant- Equipment Intern (part-time)](https://jobright.ai/jobs/info/67538d2b742bac7905c40be3?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Dec 06 |
-| **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67538ea733e47e66d220589e?utm_campaign=1057&utm_source=git)** | Waco, TX | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
