@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NYS Office of Information Technology Services](https://its.ny.gov/)** | **[Student Assistant Internship (Integrated Eligibility System), Ref# 8379](https://jobright.ai/jobs/info/6757b6c1306729074582c1bf?utm_campaign=1057&utm_source=git)** | Albany, NY | Hybrid | Dec 09 |
+| **[University of Notre Dame](http://mendoza.nd.edu)** | **[Content Specialist - Summer Employment](https://jobright.ai/jobs/info/6757b3016d5e712d7cf01ddc?utm_campaign=1057&utm_source=git)** | Notre Dame, IN | On Site | Dec 09 |
+| **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/6757b2c91f739bf7e7f5cb9f?utm_campaign=1057&utm_source=git)** | Menomonee Falls, WI | On Site | Dec 09 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6757b2c91f739bf7e7f5cbb2?utm_campaign=1057&utm_source=git)** | Baton Rouge, LA | On Site | Dec 09 |
+| **[University of Arizona](https://www.arizona.edu)** | **[Pediatric Psychologist - Assistant/Associate/Full Professor (Career Track/NTE), Dept of Psychiatry](https://jobright.ai/jobs/info/6757a5b3e9f1585a73408552?utm_campaign=1057&utm_source=git)** | Tucson, AZ | Hybrid | Dec 09 |
+| **[MUSC Health](https://muschealth.org/locations/university-medical-center)** | **[Project IMPACT HBCU Student Intern - Charleston/Orangeburg](https://jobright.ai/jobs/info/6757983871dfe981eca4988a?utm_campaign=1057&utm_source=git)** | Charleston, SC | On Site | Dec 09 |
+| **[North Carolina State University](http://www.ncsu.edu/)** | **[Turtle Rescue Team/NC Museum of Natural Sciences Medical & Surgical Internship](https://jobright.ai/jobs/info/67579fb8637511196b5f14df?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Dec 09 |
+| **[University of Utah](http://utah.edu)** | **[UU Student Research](https://jobright.ai/jobs/info/6757aa577f86ce7c05706fad?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | Dec 09 |
+| **[Friendship Public Charter School](https://www.friendshipschools.org/)** | **[Instructional Lead and Student Programs Manager](https://jobright.ai/jobs/info/67579d644e6eeacb74fef875?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Dec 09 |
+| **[Bryan Health](https://www.bryanhealth.com/)** | **[Student Assistant](https://jobright.ai/jobs/info/67579a67237c15e2e2442893?utm_campaign=1057&utm_source=git)** | Lincoln, NE | On Site | Dec 09 |
 | **[World Relief](https://worldrelief.org/)** | **[Sacramento Family Services Education Internship- Winter/Spring 2025 - 2024957](https://jobright.ai/jobs/info/67577304982cb70e0c088dcb?utm_campaign=1057&utm_source=git)** | Sacramento, CA | Hybrid | Dec 09 |
 | **[KCTCS](https://southeast.kctcs.edu/)** | **[Adjunct - Advanced and Professional Technologies](https://jobright.ai/jobs/info/67577966070e32baa167f91e?utm_campaign=1057&utm_source=git)** | Hazard, KY | Hybrid | Dec 09 |
 | **[Atlantic Health System](http://www.atlantichealth.org)** | **[Nursing Education (MMC) Summer Intern](https://jobright.ai/jobs/info/675776074ab1bdc46b2e7991?utm_campaign=1057&utm_source=git)** | Morristown, NJ | On Site | Dec 09 |
@@ -126,9 +136,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/6756d7b3a4096adebf701b09?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 09 |
 | **[Eurofins](http://eurofins.com)** | **[Summer 2025 Internship - Viral Clearance](https://jobright.ai/jobs/info/6756d7b3a4096adebf701af3?utm_campaign=1057&utm_source=git)** | Lancaster, PA | On Site | Dec 09 |
 | **[University of Michigan](https://www.umich.edu)** | **[ME Research Assistant W25 (Student Temporary)](https://jobright.ai/jobs/info/6756bf522f888d2cdde3d593?utm_campaign=1057&utm_source=git)** | Dearborn, MI | On Site | Dec 09 |
-| **[Tilson](http://tilsontech.com)** | **[Summer Internship](https://jobright.ai/jobs/info/6756b33fa7fbd7547795d4d4?utm_campaign=1057&utm_source=git)** | Hartford, CT | On Site | Dec 09 |
+| **[Tilson](http://tilsontech.com)** | **[Summer Internship](https://jobright.ai/jobs/info/6756b33fa7fbd7547795d4d9?utm_campaign=1057&utm_source=git)** | Remote - United States | Remote | Dec 09 |
 | ↳ | **[Summer Internship](https://jobright.ai/jobs/info/6756b33fa7fbd7547795d4d8?utm_campaign=1057&utm_source=git)** | Appleton, WI | On Site | Dec 09 |
-| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/6756b33fa7fbd7547795d4d9?utm_campaign=1057&utm_source=git)** | Remote - United States | Remote | Dec 09 |
+| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/6756b33fa7fbd7547795d4d6?utm_campaign=1057&utm_source=git)** | Hartford, CT | On Site | Dec 09 |
 | **[Year Up United](http://yearup.org)** | **[Helpdesk Job Training Program](https://jobright.ai/jobs/info/6756af394ca735705a2715f6?utm_campaign=1057&utm_source=git)** | Providence, RI | On Site | Dec 09 |
 | **[Moraine Park Technical College](https://www.morainepark.edu/)** | **[College Advancement Specialist](https://jobright.ai/jobs/info/67575990031ba1a6f0c60d64?utm_campaign=1057&utm_source=git)** | Fond du Lac, WI, US | On Site | Dec 08 |
 | **[Year Up United](http://yearup.org)** | **[Financial Advisory Job Training Program](https://jobright.ai/jobs/info/675686e9ac3af0ac60d268a6?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Dec 08 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Instructional Designer - Tahlequah Campus](https://jobright.ai/jobs/info/6755baa3fef5f2d5ee1b2202?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Dec 08 |
 | **[Year Up United](http://yearup.org)** | **[Application Development & Support Career Training Program](https://jobright.ai/jobs/info/6755aa27d8a776d55539b695?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Dec 08 |
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Surgical Care Unit](https://jobright.ai/jobs/info/6755acbe0228c7f12ec0d553?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Dec 08 |
-| **[Trinity Health](http://www.trinity-health.org)** | **[Certified Surgical Technologist (CST) OR Part time](https://jobright.ai/jobs/info/675596d0ffb8760d0d044eb3?utm_campaign=1057&utm_source=git)** | Syracuse, NY | On Site | Dec 08 |
-| **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[2025 Summer Internship](https://jobright.ai/jobs/info/671a9166596b0de5fc9710e4?utm_campaign=1057&utm_source=git)** | Livonia, MI | On Site | Dec 08 |
-| **[Year Up United](http://yearup.org)** | **[Data Management Job Training Opportunity](https://jobright.ai/jobs/info/6751865c143f378310a7f164?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Dec 08 |
-| ↳ | **[Desktop Support Job Training Program](https://jobright.ai/jobs/info/675585e9dd1c346a78c45d25?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Dec 08 |
-| ↳ | **[Desktop Management Job Training Program](https://jobright.ai/jobs/info/675585e9dd1c346a78c45e2a?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Dec 08 |
-| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Business Insurance Summer Intern](https://jobright.ai/jobs/info/675585e9dd1c346a78c45d4d?utm_campaign=1057&utm_source=git)** | Ridgeland, MS | On Site | Dec 08 |
-| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Intern](https://jobright.ai/jobs/info/66c78f3900ea364ac1ffa973?utm_campaign=1057&utm_source=git)** | Leesville, SC | On Site | Dec 08 |
-| **[City of Berkeley](https://www.cityofberkeley.info/)** | **[Youth Enrollee Intern](https://jobright.ai/jobs/info/675567eb5f07089d1ce6e2d5?utm_campaign=1057&utm_source=git)** | Berkeley, CA | On Site | Dec 08 |
-| **[University of Wisconsin-Green Bay](http://www.uwgb.edu/)** | **[International Education Coordinator](https://jobright.ai/jobs/info/675567eb5f07089d1ce6e28b?utm_campaign=1057&utm_source=git)** | Green Bay, WI | On Site | Dec 08 |
-| **[Andrews University](https://www.andrews.edu/)** | **[Practicum & Internship Clinical Coord/Faculty](https://jobright.ai/jobs/info/675564a2564f46bf242fca12?utm_campaign=1057&utm_source=git)** | Berrien Springs, MI | On Site | Dec 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
