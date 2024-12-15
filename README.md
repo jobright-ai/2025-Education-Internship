@@ -57,14 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Susquehanna University](http://www.susqu.edu)** | **[Coach Intern for Womens Soccer](https://jobright.ai/jobs/info/675f10d017909aaf5b03f102?utm_campaign=1057&utm_source=git)** | Selinsgrove, PA | On Site | Dec 15 |
+| **[ADEC](https://www.adecinc.com)** | **[ADEC INC. is hiring: Music Therapist Internship in Elkhart](https://jobright.ai/jobs/info/675f0e18beeaaf711be78042?utm_campaign=1057&utm_source=git)** | Elkhart, IN | Hybrid | Dec 15 |
+| **[Perkins Coie](http://www.perkinscoie.com)** | **[2025 1L Diversity & Inclusion Fellowship - Real Estate & Land Use - San Francisco](https://jobright.ai/jobs/info/6737342df9e551f0a04fa34a?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Dec 15 |
 | **[Carnegie Mellon University](https://www.cmu.edu)** | **[POLITICAL SCIENCE, INTERNATIONAL RELATIONS, AND EMERGING TECHNOLOGIES- MULTIPLE TENURE-TRACK FACULTY LINES](https://jobright.ai/jobs/info/675eccb4f0ff0edbe05f8a72?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Dec 15 |
 | **[The MetroHealth System (Cleveland, OH)](http://www.metrohealth.org)** | **[Medical Assistant Intern (Paid) - Medical Assistant Training Program, Parma, Full-Time](https://jobright.ai/jobs/info/6724fb4552eb9130fbd905a4?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Dec 15 |
+| **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Medical Proficiency Acceleration Center Intern](https://jobright.ai/jobs/info/6724d2230ff7e6d2bc4b9734?utm_campaign=1057&utm_source=git)** | Basking Ridge, NJ | On Site | Dec 15 |
 | **[New York State Department of Health](https://health.ny.gov/)** | **[Student Assistant - 60186](https://jobright.ai/jobs/info/667c9c6f5bb91f3e5e18c056?utm_campaign=1057&utm_source=git)** | Albany, NY | Hybrid | Dec 15 |
+| **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Medical Information & Education Intern](https://jobright.ai/jobs/info/6724e9cbc70e17fcdf72f09a?utm_campaign=1057&utm_source=git)** | Basking Ridge, NJ | On Site | Dec 15 |
 | **[Kern Community College District](https://www.kccd.edu/)** | **[Program Coordinator - Access (COF)](https://jobright.ai/jobs/info/675ea5ae8613af43a711b7e8?utm_campaign=1057&utm_source=git)** | Ridgecrest, CA | On Site | Dec 15 |
 | ↳ | **[Program Coordinator - Access (COF)](https://jobright.ai/jobs/info/675ea5ae8613af43a711b7f7?utm_campaign=1057&utm_source=git)** | Ridgecrest, CA | On Site | Dec 15 |
 | **[The University of Texas Rio Grande Valley](https://www.utrgv.edu/)** | **[CAREER ADVISOR](https://jobright.ai/jobs/info/675e9de29be72bd2b621d210?utm_campaign=1057&utm_source=git)** | Edinburg, TX | On Site | Dec 14 |
 | **[Tinker Federal Credit Union](https://www.tinkerfcu.org)** | **[In-School Branch Intern](https://jobright.ai/jobs/info/675e96cbc01bf1f44a3bd3da?utm_campaign=1057&utm_source=git)** | Oklahoma City, OK | On Site | Dec 14 |
-| **[Billy Graham Evangelistic Association](https://billygraham.org)** | **[Summer 2025 Internship Program](https://jobright.ai/jobs/info/675e5709402c8972306de89b?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Dec 14 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99983 Financial Aid Specialist - Broken Arrow Campus](https://jobright.ai/jobs/info/675e7478804f6f22dfa6eed5?utm_campaign=1057&utm_source=git)** | Broken Arrow, OK | On Site | Dec 14 |
 | ↳ | **[Coordinator of Student Development, Tahlequah](https://jobright.ai/jobs/info/675e6ad5677e5fd6e6cbb7ac?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Dec 14 |
 | **[Year Up United](http://yearup.org)** | **[Computer Systems Administration Job Training Program](https://jobright.ai/jobs/info/675e107661605cfb43f3eae0?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Dec 14 |
@@ -92,12 +96,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Arborist Trainee Internship / Rochester, NY](https://jobright.ai/jobs/info/675de0dd3eb5844e8f4376e9?utm_campaign=1057&utm_source=git)** | Rochester, NY | On Site | Dec 14 |
 | ↳ | **[Arborist Trainee Internship / Cordova, MD](https://jobright.ai/jobs/info/675de0dd3eb5844e8f4376ea?utm_campaign=1057&utm_source=git)** | Cordova, MD | On Site | Dec 14 |
 | ↳ | **[Arborist Trainee Internship / Long Island, NY](https://jobright.ai/jobs/info/675de0dd3eb5844e8f4376eb?utm_campaign=1057&utm_source=git)** | Hicksville, NY | On Site | Dec 14 |
-| ↳ | **[Arborist Trainee Internship / Charlottesville, VA](https://jobright.ai/jobs/info/675de0dd3eb5844e8f4376ed?utm_campaign=1057&utm_source=git)** | Faber, VA | On Site | Dec 14 |
-| ↳ | **[Arborist Trainee Internship / Elmsford, NY](https://jobright.ai/jobs/info/675de0dd3eb5844e8f4376ee?utm_campaign=1057&utm_source=git)** | Elmsford, NY | On Site | Dec 14 |
 | ↳ | **[Arborist Trainee Internship / Pittsburgh, PA](https://jobright.ai/jobs/info/675de0dd3eb5844e8f4376ec?utm_campaign=1057&utm_source=git)** | Gibsonia, PA | On Site | Dec 14 |
+| ↳ | **[Arborist Trainee Internship / Elmsford, NY](https://jobright.ai/jobs/info/675de0dd3eb5844e8f4376ee?utm_campaign=1057&utm_source=git)** | Elmsford, NY | On Site | Dec 14 |
+| ↳ | **[Arborist Trainee Internship / Charlottesville, VA](https://jobright.ai/jobs/info/675de0dd3eb5844e8f4376ed?utm_campaign=1057&utm_source=git)** | Faber, VA | On Site | Dec 14 |
+| **[Year Up United](http://yearup.org)** | **[Financial Advisory Career Training Program](https://jobright.ai/jobs/info/6737079e845739827f10122f?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Dec 14 |
 | **[Northwestern Medicine](http://nm.org)** | **[Clinical Laboratory Intern Program - Summer 2025](https://jobright.ai/jobs/info/675dbeb06c34268fdc7746ef?utm_campaign=1057&utm_source=git)** | DeKalb, IL | On Site | Dec 14 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[Instructional Designer - Tahlequah Campus](https://jobright.ai/jobs/info/675da64b34d98de503b1c631?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Dec 14 |
 | **[Year Up United](http://yearup.org)** | **[Information Security Job Training Program](https://jobright.ai/jobs/info/675d9a5f3a9fecdd71274a5f?utm_campaign=1057&utm_source=git)** | Woodbridge, VA | On Site | Dec 14 |
+| **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Spring Undergraduate Intern](https://jobright.ai/jobs/info/67080398758814e8486a43a1?utm_campaign=1057&utm_source=git)** | Newark, NJ | Hybrid | Dec 14 |
 | **[Supportive Care](https://thesupportivecare.com)** | **[LPC, LMFT, LMHC, or Psychologist](https://jobright.ai/jobs/info/675d9fa01d9804af3762cf9e?utm_campaign=1057&utm_source=git)** | Rockville, MD | Hybrid | Dec 14 |
 | ↳ | **[LPC, LMFT, LMHC, or Psychologist](https://jobright.ai/jobs/info/675d9fa01d9804af3762cf9f?utm_campaign=1057&utm_source=git)** | Frederick, MD | Hybrid | Dec 14 |
 | ↳ | **[LPC, LMFT, LMHC, or Psychologist](https://jobright.ai/jobs/info/675d9fa01d9804af3762cfa4?utm_campaign=1057&utm_source=git)** | Lexington Park, MD | Hybrid | Dec 14 |
@@ -146,15 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Penn State University](http://psu.edu)** | **[Part-Time Undergraduate Learning Assistant for Nutr 358](https://jobright.ai/jobs/info/675d15852ccde1c9801fdc9a?utm_campaign=1057&utm_source=git)** | University Park, PA | On Site | Dec 13 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Sanford Student Nurse Internship Program - Network Locations](https://jobright.ai/jobs/info/675d135afbe37acd8fceb1c0?utm_campaign=1057&utm_source=git)** | Chamberlain, SD | On Site | Dec 13 |
 | **[Opportunities for Positive Growth, Inc.](http://opgrowth.com)** | **[Opportunities for Positive Growth is hiring: Music Therapy Intern in Fishers](https://jobright.ai/jobs/info/675d10c46374020ac0af61d8?utm_campaign=1057&utm_source=git)** | Fishers, IN | On Site | Dec 13 |
-| **[ADEC](https://www.adecinc.com)** | **[Music Therapist Internship Job at ADEC INC. in Elkhart](https://jobright.ai/jobs/info/675d316cbf995ca16f18f36a?utm_campaign=1057&utm_source=git)** | Elkhart, IN | Hybrid | Dec 13 |
 | **[Year Up United](http://yearup.org)** | **[Banking Job Training Program](https://jobright.ai/jobs/info/675056a4607e29c8c09af721?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Dec 13 |
 | ↳ | **[Desktop Support Job Training Program](https://jobright.ai/jobs/info/675d1ebb549f7e86845d1764?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Dec 13 |
 | ↳ | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/675d1ebb549f7e86845d17c4?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 13 |
 | **[University of Southern Indiana](http://www.usi.edu/)** | **[Director of Clinical Internships](https://jobright.ai/jobs/info/675d2afd66732fcc9fa2877a?utm_campaign=1057&utm_source=git)** | Evansville, IN | On Site | Dec 13 |
 | **[Year Up United](http://yearup.org)** | **[Computer Systems Administration Job Training Program](https://jobright.ai/jobs/info/675d0af1cf3841469a0c697a?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Dec 13 |
 | ↳ | **[Data Analytics Job Training Program](https://jobright.ai/jobs/info/675d393239155246a4e27b31?utm_campaign=1057&utm_source=git)** | Wilmington, DE | On Site | Dec 13 |
-| ↳ | **[Software Job Training Program](https://jobright.ai/jobs/info/675d393239155246a4e27c14?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Dec 13 |
-| ↳ | **[Application Development & Support Career Training Program](https://jobright.ai/jobs/info/675d393239155246a4e27b4e?utm_campaign=1057&utm_source=git)** | Jersey City, NJ | On Site | Dec 13 |
-| ↳ | **[Application Development & Support Career Training Program](https://jobright.ai/jobs/info/6732c43138b5e5c36e4abe30?utm_campaign=1057&utm_source=git)** | Pleasant Hill, CA | On Site | Dec 13 |
-| ↳ | **[Application Development Job Training Program](https://jobright.ai/jobs/info/675d393239155246a4e27af3?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
