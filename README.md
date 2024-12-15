@@ -63,6 +63,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Quality Assurance Job Training Program](https://jobright.ai/jobs/info/675e107661605cfb43f3eae5?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Dec 14 |
 | ↳ | **[Project Management Job Training Program](https://jobright.ai/jobs/info/675e008d52ff4a6c43096acd?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Dec 14 |
 | ↳ | **[Project Management Job Training Program](https://jobright.ai/jobs/info/675e008d52ff4a6c43096ace?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Dec 14 |
+| ↳ | **[Helpdesk Job Training Program](https://jobright.ai/jobs/info/675e355ac0b4455113386bc8?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Dec 14 |
+| ↳ | **[Desktop Support Job Training Program](https://jobright.ai/jobs/info/675e355ac0b4455113386bc9?utm_campaign=1057&utm_source=git)** | Pleasant Hill, CA | On Site | Dec 14 |
 | **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[Asst/Assoc/Full Professor, Internal Medicine, Hematology/Oncology, Classical Hematology](https://jobright.ai/jobs/info/675e158894049c94a3341bbe?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Dec 14 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship / Boston North Shore](https://jobright.ai/jobs/info/675dee0182456f82ca81fa0a?utm_campaign=1057&utm_source=git)** | Danvers, MA | On Site | Dec 14 |
 | ↳ | **[Arborist Trainee Internship / Albany, NY](https://jobright.ai/jobs/info/675dee0182456f82ca81fa0b?utm_campaign=1057&utm_source=git)** | Latham, NY | On Site | Dec 14 |
@@ -90,7 +92,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[LPC, LMFT, LMHC, or Psychologist](https://jobright.ai/jobs/info/675d9fa01d9804af3762cf9f?utm_campaign=1057&utm_source=git)** | Frederick, MD | Hybrid | Dec 14 |
 | ↳ | **[LPC, LMFT, LMHC, or Psychologist](https://jobright.ai/jobs/info/675d9fa01d9804af3762cfa4?utm_campaign=1057&utm_source=git)** | Lexington Park, MD | Hybrid | Dec 14 |
 | ↳ | **[LPC, LMFT, LMHC, or Psychologist](https://jobright.ai/jobs/info/675d9fa01d9804af3762cfae?utm_campaign=1057&utm_source=git)** | Rosedale, MD | Hybrid | Dec 14 |
+| **[Trinity Health](http://www.trinity-health.org)** | **[Student Nurse Intern Program - Saint Francis Hospital](https://jobright.ai/jobs/info/675e29181f6e1028d9723f7b?utm_campaign=1057&utm_source=git)** | Hartford, CT | On Site | Dec 14 |
 | **[Sentara Health](https://www.sentara.com/)** | **[EVENT: RN Student Summer Internship Virtual informational session; ALL LOCATIONS](https://jobright.ai/jobs/info/674078a89efc405a001e7211?utm_campaign=1057&utm_source=git)** | Norfolk, VA | On Site | Dec 14 |
+| **[Holmes Murphy](http://www.holmesmurphy.com/)** | **[2025 SUMMER INTERNSHIP PROGRAM](https://jobright.ai/jobs/info/66d0fa1a746cef0483bcbd87?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD | On Site | Dec 14 |
 | **[Yale New Haven Health](https://www.ynhhs.org/)** | **[Flynn Fellowship Oncology Student Nurse Internship - Summer 2025; per diem](https://jobright.ai/jobs/info/67413ae1f28c48a2df7b26b5?utm_campaign=1057&utm_source=git)** | Greenwich, CT | On Site | Dec 14 |
 | **[Cedar Fair Entertainment Company](http://cedarfair.com)** | **[KD Leadership Intern (2025 Program)](https://jobright.ai/jobs/info/67081738f8218e8f44fb31d0?utm_campaign=1057&utm_source=git)** | Doswell, VA | On Site | Dec 14 |
 | **[Aon](http://www.aon.com)** | **[Aon's Corporate Apprenticeship Program - Washington, DC](https://jobright.ai/jobs/info/674174ed0f0094442fd28d20?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Dec 14 |
@@ -100,6 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Higginbotham](https://www.higginbotham.com)** | **[Higginbotham Summer Internship - Class of 2025](https://jobright.ai/jobs/info/66d22aa4700fd5396cc1adca?utm_campaign=1057&utm_source=git)** | United States | Remote | Dec 14 |
 | **[Raymond James](http://www.raymondjames.com)** | **[2025 Summer Internship](https://jobright.ai/jobs/info/6741010a9757255949388d62?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | Hybrid | Dec 14 |
 | **[Pentair](http://www.pentair.com)** | **[Engineering Leadership Development Program Internship - Summer 2025](https://jobright.ai/jobs/info/66ece65c94299b4dcdd3cedc?utm_campaign=1057&utm_source=git)** | Golden Valley, MN | On Site | Dec 14 |
+| **[Fox Entertainment](http://www.fox.com/)** | **[Summer 2025 FOX Entertainment Internship Program - Entertainment MBA – Los Angeles, CA](https://jobright.ai/jobs/info/6708e29b5d3446a0702c76c3?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Dec 14 |
 | **[Macquarie Group](https://www.macquarie.com)** | **[2025 Business Services Summer Internship Program](https://jobright.ai/jobs/info/674182a04729fe4ba7d2f022?utm_campaign=1057&utm_source=git)** | New York, United States | On Site | Dec 14 |
 | **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/6709a58bc70fca053c8c33a4?utm_campaign=1057&utm_source=git)** | Pleasant Hill, IA | On Site | Dec 14 |
 | **[BJC HealthCare](http://www.bjc.org/Default.aspx)** | **[Family or Internal Medicine Physician for Greater St. Louis- Residency Stipend, Sign-On Bonus, Work/Life Balance](https://jobright.ai/jobs/info/6724dd1b7cf36183f9e19e2c?utm_campaign=1057&utm_source=git)** | Alton, IL | On Site | Dec 14 |
@@ -142,19 +147,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Helpdesk Job Training Program](https://jobright.ai/jobs/info/6751771c5aeb008bb93e997b?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Dec 13 |
 | ↳ | **[Desktop Support Job Training Program](https://jobright.ai/jobs/info/675d316cbf995ca16f18f372?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Dec 13 |
 | ↳ | **[Application Development & Support Job Training Program](https://jobright.ai/jobs/info/674197b14d5029375174d62e?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Dec 13 |
-| ↳ | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/675d316cbf995ca16f18f282?utm_campaign=1057&utm_source=git)** | Woodbridge, VA | On Site | Dec 13 |
-| ↳ | **[Application Development & Support Job Training Program](https://jobright.ai/jobs/info/675d316cbf995ca16f18f267?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Dec 13 |
 | ↳ | **[Customer Service Fundamentals Job Training Program](https://jobright.ai/jobs/info/6751a64cba2c3676f1a117f9?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Dec 13 |
-| ↳ | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/6751a585ba2c3676f1a11000?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Dec 13 |
+| ↳ | **[Application Development & Support Job Training Program](https://jobright.ai/jobs/info/675d316cbf995ca16f18f267?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Dec 13 |
+| ↳ | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/675d316cbf995ca16f18f282?utm_campaign=1057&utm_source=git)** | Woodbridge, VA | On Site | Dec 13 |
 | ↳ | **[Financial Advisory Career Training Program](https://jobright.ai/jobs/info/675d316cbf995ca16f18f243?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Dec 13 |
+| ↳ | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/6751a585ba2c3676f1a11000?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Dec 13 |
 | ↳ | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/675056a4607e29c8c09af71f?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Dec 13 |
-| ↳ | **[Financial Operations Job Training Opportunity](https://jobright.ai/jobs/info/67470ed9afa4934ee8f5f165?utm_campaign=1057&utm_source=git)** | Providence, RI | On Site | Dec 13 |
-| ↳ | **[Helpdesk Job Training Program](https://jobright.ai/jobs/info/67505538607e29c8c09aec9f?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Dec 13 |
-| ↳ | **[Project Management Job Training Program](https://jobright.ai/jobs/info/675d316cbf995ca16f18f375?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 13 |
-| ↳ | **[Banking Job Training Program](https://jobright.ai/jobs/info/672115c104d82994c05de022?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Dec 13 |
 | ↳ | **[Financial Advisory Job Training Program](https://jobright.ai/jobs/info/672d074142dc64a33885975a?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Dec 13 |
-| ↳ | **[Financial Operations Job Training Opportunity](https://jobright.ai/jobs/info/6752ed5194b65299b1e7c44e?utm_campaign=1057&utm_source=git)** | Wilmington, DE | On Site | Dec 13 |
-| ↳ | **[Computer Architecture & Systems Fundamentals Job Training Program](https://jobright.ai/jobs/info/67359f844b047ec7b597414c?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Dec 13 |
-| ↳ | **[Project Management Job Training Program](https://jobright.ai/jobs/info/6749af7ea6b78bdd1320ac43?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Dec 13 |
-| ↳ | **[Computer Systems Administration Job Training Program](https://jobright.ai/jobs/info/674da225a0bf072bcfbf1862?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Dec 13 |
+| ↳ | **[Banking Job Training Program](https://jobright.ai/jobs/info/672115c104d82994c05de022?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Dec 13 |
+| ↳ | **[Financial Operations Job Training Opportunity](https://jobright.ai/jobs/info/67470ed9afa4934ee8f5f165?utm_campaign=1057&utm_source=git)** | Providence, RI | On Site | Dec 13 |
+| ↳ | **[Project Management Job Training Program](https://jobright.ai/jobs/info/675d316cbf995ca16f18f375?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
