@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walden Behavioral Care](https://www.waldeneatingdisorders.com)** | **[Clinical Internship (Adult)](https://jobright.ai/jobs/info/67468293b63c3de5cf21f2f6?utm_campaign=1057&utm_source=git)** | Dedham, MA | On Site | Dec 20 |
+| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2025 Advancing Hispanics & Latinos Fellowship Program - Chase Leadership Development Program Track](https://jobright.ai/jobs/info/67453889fdba9e6ea3b7d528?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Dec 20 |
+| **[Year Up United](http://yearup.org)** | **[Desktop Management Job Training Program](https://jobright.ai/jobs/info/672071239f1f8d1cca815508?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Dec 20 |
 | **[Centene Corporation](http://www.centene.com)** | **[Health Equity & Drivers of Health Intern (Graduate - Summer)](https://jobright.ai/jobs/info/67621ccb3c7e2fb1c5f5cb71?utm_campaign=1057&utm_source=git)** | Missouri, United States | Remote | Dec 20 |
+| **[Davenport University](http://www.davenport.edu/)** | **[(Student) Financial Aid Assistant](https://jobright.ai/jobs/info/676550c6e1f1bce8acbd7f0f?utm_campaign=1057&utm_source=git)** | Grand Rapids, MI | On Site | Dec 20 |
+| **[DePaul University](http://www.depaul.edu)** | **[Assistant Professor (Tenure Track) - Theatre: Technical/Sound Design (25-26)](https://jobright.ai/jobs/info/67653be35b87c5f72123e8e4?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 20 |
 | **[KIPP DC](https://www.kippdc.org/)** | **[Academic - Humanities Intern (Summer 2025)](https://jobright.ai/jobs/info/67652c5742fb5cd3b91e17f5?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Dec 19 |
 | ↳ | **[Personalized Learning Team Intern - Undergraduate (Summer 2025)](https://jobright.ai/jobs/info/67652c5742fb5cd3b91e1888?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Dec 19 |
 | ↳ | **[Personalized Learning Team Intern - Graduate](https://jobright.ai/jobs/info/67652c5742fb5cd3b91e1855?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Dec 19 |
@@ -71,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[American University](http://american.edu)** | **[Office Assistant, Graduate Enrollment (Student) (FWS)](https://jobright.ai/jobs/info/6764f6ba53f2ea33e55a0dd5?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Dec 19 |
 | **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[Assistant Director Graduate Career Develop & Placement, Lindner College of Business](https://jobright.ai/jobs/info/6764f4085b3e00f43ab92aee?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | Hybrid | Dec 19 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Adjunct Faculty - Finance - 000004](https://jobright.ai/jobs/info/6765128d7f3793d8f4c25ae2?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Dec 19 |
-| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Intern - McGriff Insurance](https://jobright.ai/jobs/info/6764f1366947a2863db05361?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Dec 19 |
-| ↳ | **[Intern - McGriff Insurance](https://jobright.ai/jobs/info/6764f1366947a2863db0567f?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Dec 19 |
+| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Intern - McGriff Insurance](https://jobright.ai/jobs/info/6764f1366947a2863db0567f?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Dec 19 |
+| ↳ | **[Intern - McGriff Insurance](https://jobright.ai/jobs/info/6764f1366947a2863db05361?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Dec 19 |
 | ↳ | **[Intern - McGriff Insurance](https://jobright.ai/jobs/info/6764e504ef4fb2bfd2abfd77?utm_campaign=1057&utm_source=git)** | Addison, TX | On Site | Dec 19 |
 | **[Missouri State University](https://www.missouristate.edu/usa/)** | **[Artist in Residence (Design and New Media) 9 Month Appt](https://jobright.ai/jobs/info/6764e504ef4fb2bfd2abfe36?utm_campaign=1057&utm_source=git)** | Springfield, MO | On Site | Dec 19 |
 | **[Bank of Hawaii](https://www.boh.com/personal/)** | **[Student Assistant (Trust Administration Specialist)](https://jobright.ai/jobs/info/6764e14e280d4c6b89a1c0f4?utm_campaign=1057&utm_source=git)** | Honolulu, HI | On Site | Dec 19 |
@@ -98,11 +103,11 @@ For a complete list, click the following sortable link below:
 | **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Clinical Intern](https://jobright.ai/jobs/info/6764d13526dbe2e3f469ea52?utm_campaign=1057&utm_source=git)** | Baxter, MN | On Site | Dec 19 |
 | **[Atlantic Health System](http://www.atlantichealth.org)** | **[Child Development & Autism Center Summer Intern](https://jobright.ai/jobs/info/6764a4e41f56095357bbb5a2?utm_campaign=1057&utm_source=git)** | Morristown, NJ | On Site | Dec 19 |
 | **[Trilogy ](https://www.trilogyinc.org/)** | **[Child and Adolescent Therapist Intern](https://jobright.ai/jobs/info/6764a4e41f56095357bbb666?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Dec 19 |
-| **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67649e15b126d690350ae455?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Dec 19 |
-| ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67649e15b126d690350ae454?utm_campaign=1057&utm_source=git)** | Webster, TX | On Site | Dec 19 |
+| **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67649e15b126d690350ae454?utm_campaign=1057&utm_source=git)** | Webster, TX | On Site | Dec 19 |
+| ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67649e15b126d690350ae455?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Dec 19 |
 | ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67649e15b126d690350ae456?utm_campaign=1057&utm_source=git)** | Mansfield, TX | On Site | Dec 19 |
-| ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67649e15b126d690350ae459?utm_campaign=1057&utm_source=git)** | Vail, AZ | On Site | Dec 19 |
 | ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67649e15b126d690350ae45a?utm_campaign=1057&utm_source=git)** | Plymouth, MN | On Site | Dec 19 |
+| ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67649e15b126d690350ae459?utm_campaign=1057&utm_source=git)** | Vail, AZ | On Site | Dec 19 |
 | ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67649e15b126d690350ae45b?utm_campaign=1057&utm_source=git)** | Lakeway, TX | On Site | Dec 19 |
 | ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67649e15b126d690350ae45d?utm_campaign=1057&utm_source=git)** | Elgin, IL | On Site | Dec 19 |
 | ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67649e15b126d690350ae45c?utm_campaign=1057&utm_source=git)** | Maple Grove, MN | On Site | Dec 19 |
@@ -110,8 +115,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/6764b7cbc93bfcf7d7909f80?utm_campaign=1057&utm_source=git)** | Gilbert, AZ | On Site | Dec 19 |
 | ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/6764b7cbc93bfcf7d7909f81?utm_campaign=1057&utm_source=git)** | Tyler, TX | On Site | Dec 19 |
 | **[Florida Atlantic University](http://www.fau.edu)** | **[Student Assistant](https://jobright.ai/jobs/info/67649b75c5792d74f76b3bb7?utm_campaign=1057&utm_source=git)** | Boca Raton, FL | On Site | Dec 19 |
-| **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/6764d3fb7cfb6d4f33324ae7?utm_campaign=1057&utm_source=git)** | Wylie, TX | On Site | Dec 19 |
-| ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/6764d3fb7cfb6d4f33324ae8?utm_campaign=1057&utm_source=git)** | The Woodlands, TX | On Site | Dec 19 |
+| **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/6764d3fb7cfb6d4f33324ae8?utm_campaign=1057&utm_source=git)** | The Woodlands, TX | On Site | Dec 19 |
+| ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/6764d3fb7cfb6d4f33324ae7?utm_campaign=1057&utm_source=git)** | Wylie, TX | On Site | Dec 19 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Intern](https://jobright.ai/jobs/info/6764d3fb7cfb6d4f33324a11?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD | On Site | Dec 19 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/6764f1366947a2863db0571f?utm_campaign=1057&utm_source=git)** | Lake Wylie, SC | On Site | Dec 19 |
 | **[May Institute](https://www.mayinstitute.org)** | **[Teacher Assistant Intern (Co-op) Norwood](https://jobright.ai/jobs/info/6764938c3e2f28c645557b87?utm_campaign=1057&utm_source=git)** | Norwood, MA | On Site | Dec 19 |
@@ -120,27 +125,26 @@ For a complete list, click the following sortable link below:
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/6764a68f7b2b1922f20659b7?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Dec 19 |
 | ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67648699870b8ec868b0018b?utm_campaign=1057&utm_source=git)** | Lombard, IL | On Site | Dec 19 |
 | ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67648699870b8ec868b0018d?utm_campaign=1057&utm_source=git)** | Mesa, AZ | On Site | Dec 19 |
-| ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67648699870b8ec868b00190?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Dec 19 |
-| ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67648699870b8ec868b00192?utm_campaign=1057&utm_source=git)** | Lubbock, TX | On Site | Dec 19 |
 | ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67648699870b8ec868b0018f?utm_campaign=1057&utm_source=git)** | Sugar Land, TX | On Site | Dec 19 |
+| ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67648699870b8ec868b00192?utm_campaign=1057&utm_source=git)** | Lubbock, TX | On Site | Dec 19 |
+| ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67648699870b8ec868b00190?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Dec 19 |
 | ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67648699870b8ec868b00191?utm_campaign=1057&utm_source=git)** | Surprise, AZ | On Site | Dec 19 |
 | ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67648699870b8ec868b00193?utm_campaign=1057&utm_source=git)** | Glenview, IL | On Site | Dec 19 |
 | ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67648699870b8ec868b00198?utm_campaign=1057&utm_source=git)** | Westmont, IL | On Site | Dec 19 |
 | ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67648699870b8ec868b00196?utm_campaign=1057&utm_source=git)** | Sahuarita, AZ | On Site | Dec 19 |
 | ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67648699870b8ec868b00199?utm_campaign=1057&utm_source=git)** | Shakopee, MN | On Site | Dec 19 |
 | ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67648699870b8ec868b0019a?utm_campaign=1057&utm_source=git)** | Chandler, AZ | On Site | Dec 19 |
-| ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67648699870b8ec868b0019b?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Dec 19 |
+| ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67648b088dcfb675e0b804c7?utm_campaign=1057&utm_source=git)** | Leander, TX | On Site | Dec 19 |
 | ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67648699870b8ec868b0019c?utm_campaign=1057&utm_source=git)** | Watauga, TX | On Site | Dec 19 |
 | ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67648699870b8ec868b0019e?utm_campaign=1057&utm_source=git)** | El Paso, TX | On Site | Dec 19 |
 | ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67648699870b8ec868b0019d?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Dec 19 |
-| ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67648b088dcfb675e0b804c7?utm_campaign=1057&utm_source=git)** | Leander, TX | On Site | Dec 19 |
-| ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67648b088dcfb675e0b804c9?utm_campaign=1057&utm_source=git)** | Katy, TX | On Site | Dec 19 |
 | ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67648b088dcfb675e0b804c8?utm_campaign=1057&utm_source=git)** | Cedar Park, TX | On Site | Dec 19 |
+| ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67648b088dcfb675e0b804c9?utm_campaign=1057&utm_source=git)** | Katy, TX | On Site | Dec 19 |
 | ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67648699870b8ec868b0019f?utm_campaign=1057&utm_source=git)** | North Chicago, IL | On Site | Dec 19 |
 | ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67648b088dcfb675e0b804ca?utm_campaign=1057&utm_source=git)** | San Antonio, TX | Remote | Dec 19 |
 | ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67648699870b8ec868b001a1?utm_campaign=1057&utm_source=git)** | New Braunfels, TX | On Site | Dec 19 |
-| ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67648699870b8ec868b001a3?utm_campaign=1057&utm_source=git)** | Glendale, AZ | On Site | Dec 19 |
 | ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67648699870b8ec868b001a4?utm_campaign=1057&utm_source=git)** | Tucson, AZ | On Site | Dec 19 |
+| ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67648699870b8ec868b001a3?utm_campaign=1057&utm_source=git)** | Glendale, AZ | On Site | Dec 19 |
 | ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67648699870b8ec868b001a7?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Dec 19 |
 | ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67648699870b8ec868b001a5?utm_campaign=1057&utm_source=git)** | Schertz, TX | On Site | Dec 19 |
 | ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67648f898a6ea44fa5783ec3?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Dec 19 |
@@ -148,13 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67648699870b8ec868b001a9?utm_campaign=1057&utm_source=git)** | Buda, TX | On Site | Dec 19 |
 | ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67648f898a6ea44fa5783ec4?utm_campaign=1057&utm_source=git)** | Romeoville, IL | On Site | Dec 19 |
 | ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67648699870b8ec868b001ae?utm_campaign=1057&utm_source=git)** | Apple Valley, MN | On Site | Dec 19 |
+| ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67648699870b8ec868b001af?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Dec 19 |
 | **[Nebraska Methodist Health System](https://bestcare.org/)** | **[Behavioral Health Therapist Intern - Part Time - Days](https://jobright.ai/jobs/info/6764a13e822e7be8e35c89e9?utm_campaign=1057&utm_source=git)** | Fremont, NE | On Site | Dec 19 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67648b088dcfb675e0b804cb?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 19 |
 | **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/6764a050b1db6fd13839e064?utm_campaign=1057&utm_source=git)** | Vista, CA | On Site | Dec 19 |
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Women's and Children's Unit](https://jobright.ai/jobs/info/6764938c3e2f28c645557c8d?utm_campaign=1057&utm_source=git)** | Vermont, United States | On Site | Dec 19 |
-| **[WellPower](https://www.wellpower.org/)** | **[Park Place Intern](https://jobright.ai/jobs/info/676480d9f984cb228ac4c084?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Dec 19 |
-| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2025 - New York (45419)](https://jobright.ai/jobs/info/66e3303b60145809ba8ac2bc?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 19 |
-| **[DePaul University](http://www.depaul.edu)** | **[Assistant Professor (Tenure Track) - Theatre: Technical/Sound Design (25-26)](https://jobright.ai/jobs/info/67648c7ca5ec61bd09dd21ce?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 19 |
-| **[Live Oak Bank](https://www.liveoakbank.com)** | **[FitPark - Exercise Science & Training Intern](https://jobright.ai/jobs/info/67647459970ba417db84a4e2?utm_campaign=1057&utm_source=git)** | Wilmington, NC | On Site | Dec 19 |
-| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2025 - New Jersey (45420)](https://jobright.ai/jobs/info/66e324ab28d76d62d46cbd47?utm_campaign=1057&utm_source=git)** | Florham Park, NJ | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
