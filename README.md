@@ -57,9 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Bay Club Company](https://www.bayclubs.com)** | **[Sports, Outdoor Recreation, and Active Lifestyle Internship - Summer 2025](https://jobright.ai/jobs/info/676625f3744bdb051c176ec6?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Dec 20 |
+| **[United Wholesale Mortgage](http://uwm.com)** | **[2025 Summer Internship Program](https://jobright.ai/jobs/info/676621e8643eeb9d4d5b4d11?utm_campaign=1057&utm_source=git)** | Pontiac, MI | On Site | Dec 20 |
+| **[Behavioral Health Group - BHG](https://www.bhgrecovery.com)** | **[Unpaid Counselor Internship](https://jobright.ai/jobs/info/676625f3744bdb051c176eea?utm_campaign=1057&utm_source=git)** | Staunton, VA | On Site | Dec 20 |
+| **[Seacoast Bank](https://www.seacoastbank.com)** | **[Seacoast Bank Summer Intern, 2025](https://jobright.ai/jobs/info/676613fd8945eb30631bc1cc?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Dec 20 |
+| ↳ | **[Seacoast Bank Summer Intern, 2025](https://jobright.ai/jobs/info/676613fd8945eb30631bc1cb?utm_campaign=1057&utm_source=git)** | Coral Gables, FL | On Site | Dec 20 |
+| ↳ | **[Seacoast Bank Summer Intern, 2025](https://jobright.ai/jobs/info/67660d9c52a93b9f2e3eca09?utm_campaign=1057&utm_source=git)** | Stuart, FL | On Site | Dec 20 |
+| ↳ | **[Seacoast Bank Summer Intern, 2025](https://jobright.ai/jobs/info/67660d9c52a93b9f2e3eca47?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Dec 20 |
 | **[Sakata Seed America, Inc.](http://sakata.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6766012f4c33903e4fdb51fb?utm_campaign=1057&utm_source=git)** | Woodland, CA | On Site | Dec 20 |
+| **[CSL](https://www.csl.com)** | **[2024 Winter Medical Writing Intern (US)-2](https://jobright.ai/jobs/info/676616b0513078fb7535e4aa?utm_campaign=1057&utm_source=git)** | King of Prussia, PA | On Site | Dec 20 |
 | **[MaineHealth](https://mainehealth.org/)** | **[Intern- LincolnHealth Wellness and Rehabilitation](https://jobright.ai/jobs/info/6766012f4c33903e4fdb5138?utm_campaign=1057&utm_source=git)** | Damariscotta, ME | On Site | Dec 20 |
 | **[EverCommerce](https://www.evercommerce.com/)** | **[EverCommerce - Learning & Development Internship](https://jobright.ai/jobs/info/6765ffd84d2faf67130792c3?utm_campaign=1057&utm_source=git)** | Denver, CO | Remote | Dec 20 |
+| **[Mount Sinai Medical Center of Florida](https://www.msmc.com/)** | **[Registered Nurse Intern Program](https://jobright.ai/jobs/info/67660e62b7d3d11b751b4b27?utm_campaign=1057&utm_source=git)** | Miami Beach, FL | On Site | Dec 20 |
 | **[Rockland Trust](http://www.rocklandtrust.com)** | **[Retail Learning & Development Summer Intern](https://jobright.ai/jobs/info/6765f10025e8d1d15a820591?utm_campaign=1057&utm_source=git)** | 100 Slades Ferry Ave, Somerset, MA, 02726, US | On Site | Dec 20 |
 | **[Shifamed](https://www.shifamed.com/)** | **[2025 Shifamed Internship Program](https://jobright.ai/jobs/info/6765fab91c469f5e45ed5f72?utm_campaign=1057&utm_source=git)** | Campbell, CA | On Site | Dec 20 |
 | **[Akron Public Schools](https://www.diversityinc.com/)** | **[Student Worker-Custodial Services](https://jobright.ai/jobs/info/6766063c26e8e15d120ba506?utm_campaign=1057&utm_source=git)** | Akron, OH | On Site | Dec 20 |
@@ -87,9 +96,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Advisory Job Training Program](https://jobright.ai/jobs/info/6765e101ab58d452fdf93b97?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Dec 20 |
 | **[Middlebury College](http://www.middlebury.edu/)** | **[Knoll Intern (Summer 2025 900139)](https://jobright.ai/jobs/info/6765d70aa1db3b4416d1d181?utm_campaign=1057&utm_source=git)** | Middlebury, VT | On Site | Dec 20 |
 | **[Greenwich Country Day School](https://www.gcds.net/)** | **[School Psychologist Intern](https://jobright.ai/jobs/info/6765d70aa1db3b4416d1d148?utm_campaign=1057&utm_source=git)** | Greenwich, CT | On Site | Dec 20 |
-| **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Undergraduate Intern](https://jobright.ai/jobs/info/6765ba4885def9934719162e?utm_campaign=1057&utm_source=git)** | Houston, TX | Hybrid | Dec 20 |
 | **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[Clinical Operations Intern](https://jobright.ai/jobs/info/6765b86a630721dffc3e0d03?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Dec 20 |
 | **[California Institute of Applied Technology](https://www.ciat.edu/)** | **[Federal Work Study Student Position- Software Development Tutor](https://jobright.ai/jobs/info/6765b87e359603117b11e483?utm_campaign=1057&utm_source=git)** | San Diego, CA, USA | On Site | Dec 20 |
+| **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Undergraduate Intern](https://jobright.ai/jobs/info/6765b2e5d8d99a793cddd6d6?utm_campaign=1057&utm_source=git)** | Houston, TX | Hybrid | Dec 20 |
 | **[Duke University Health System](http://dukemedicine.org)** | **[New Grad RN - Specialty Nurse Intern Program (SNIP) - Emergency Department](https://jobright.ai/jobs/info/6765bea04563a82b0fb6d8ee?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Dec 20 |
 | **[Child Guidance Resource Centers](https://cgrc.org)** | **[Intern-Clinical-Bachelor Degree Program Enrollee-ABA](https://jobright.ai/jobs/info/6765bea04563a82b0fb6d9d4?utm_campaign=1057&utm_source=git)** | Havertown, PA | Hybrid | Dec 20 |
 | **[Kids in Need of Defense (KIND)](https://www.supportkind.org)** | **[Summer Undergraduate Intern](https://jobright.ai/jobs/info/6765b0971119087186377430?utm_campaign=1057&utm_source=git)** | Seattle, WA | Hybrid | Dec 20 |
@@ -132,6 +141,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - McGriff Insurance](https://jobright.ai/jobs/info/6764f1366947a2863db05361?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Dec 19 |
 | ↳ | **[Intern - McGriff Insurance](https://jobright.ai/jobs/info/6764e504ef4fb2bfd2abfd77?utm_campaign=1057&utm_source=git)** | Addison, TX | On Site | Dec 19 |
 | **[Bank of Hawaii](https://www.boh.com/personal/)** | **[Student Assistant (Trust Administration Specialist)](https://jobright.ai/jobs/info/6764e14e280d4c6b89a1c0f4?utm_campaign=1057&utm_source=git)** | Honolulu, HI | On Site | Dec 19 |
+| **[University of Sioux Falls](http://www.usiouxfalls.edu/)** | **[Student Internship in Athletics](https://jobright.ai/jobs/info/67662bfdaae55ce17980024f?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD | On Site | Dec 19 |
 | **[InterSources Inc](https://www.intersourcesinc.com)** | **[Training](https://jobright.ai/jobs/info/676587d260d9be1023fe27ab?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 19 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Temporary Summer Education Intern](https://jobright.ai/jobs/info/6764e504ef4fb2bfd2abfe7c?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Dec 19 |
 | **[SMX](https://www.smxtech.com)** | **[Intern-Summer 2025](https://jobright.ai/jobs/info/6764d9519fb77033c6858c4f?utm_campaign=1057&utm_source=git)** | United States | On Site | Dec 19 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GoTo Foods](http://www.focusbrands.com/)** | **[International Training and Development Intern](https://jobright.ai/jobs/info/6764a68f7b2b1922f2065834?utm_campaign=1057&utm_source=git)** | Atlanta, GA | Hybrid | Dec 19 |
 | **[Horizon Blue Cross Blue Shield of New Jersey](http://www.horizonblue.com)** | **[Health and Network Solutions Intern](https://jobright.ai/jobs/info/6764a613533175c90a44fcd4?utm_campaign=1057&utm_source=git)** | Hopewell, NJ - Hybrid | Hybrid | Dec 19 |
 | **[Marsh McLennan](http://www.mmc.com/)** | **[Intern - McGriff Insurance](https://jobright.ai/jobs/info/6764a435afbb90e249eb6917?utm_campaign=1057&utm_source=git)** | Denver - 1001 17th St | On Site | Dec 19 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[ASSOCIATE CLINICAL ACCOUNT SPECIALIST INTERN (Summer 2025) - Jackson, MS - Johnson and Johnson](https://jobright.ai/jobs/info/67649a56fcd4c27283a8d086?utm_campaign=1057&utm_source=git)** | Jackson, MS | On Site | Dec 19 |
-| **[Stambaugh Ness](https://www.stambaughness.com/)** | **[Video & Media Technology Intern](https://jobright.ai/jobs/info/67649cd5aa457da3fcc30c24?utm_campaign=1057&utm_source=git)** | United States | Remote | Dec 19 |
-| **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Clinical Intern](https://jobright.ai/jobs/info/6764d13526dbe2e3f469ea52?utm_campaign=1057&utm_source=git)** | Baxter, MN | On Site | Dec 19 |
-| **[Atlantic Health System](http://www.atlantichealth.org)** | **[Child Development & Autism Center Summer Intern](https://jobright.ai/jobs/info/6764a4e41f56095357bbb5a2?utm_campaign=1057&utm_source=git)** | Morristown, NJ | On Site | Dec 19 |
-| **[Trilogy ](https://www.trilogyinc.org/)** | **[Child and Adolescent Therapist Intern](https://jobright.ai/jobs/info/6764a4e41f56095357bbb666?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Dec 19 |
-| **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67649e15b126d690350ae455?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Dec 19 |
-| ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67649e15b126d690350ae454?utm_campaign=1057&utm_source=git)** | Webster, TX | On Site | Dec 19 |
-| ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67649e15b126d690350ae456?utm_campaign=1057&utm_source=git)** | Mansfield, TX | On Site | Dec 19 |
-| ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67649e15b126d690350ae45a?utm_campaign=1057&utm_source=git)** | Plymouth, MN | On Site | Dec 19 |
-| ↳ | **[Behavior Analysis Practicum](https://jobright.ai/jobs/info/67649e15b126d690350ae459?utm_campaign=1057&utm_source=git)** | Vail, AZ | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
