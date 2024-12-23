@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Merck](http://www.merck.com)** | **[2025 University Recruiting - Data Visualization Intern](https://jobright.ai/jobs/info/6768d72ac40dd21301146b86?utm_campaign=1057&utm_source=git)** | North Wales, PA | Hybrid | Dec 22 |
+| **[Saint Luke's Health System](https://www.saintlukeskc.org)** | **[Nursing Intern - Pediatric Behavioral Health](https://jobright.ai/jobs/info/673dbb9c8636602603f99ae8?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | Dec 22 |
 | **[UniFirst Corporation](https://unifirst.com/)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/676851212b8a114d3d23a91b?utm_campaign=1057&utm_source=git)** | Wilmington, MA | On Site | Dec 22 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 U.S Summer Internship Program: US Medical Affairs Oncology Digital Innovation and HCP](https://jobright.ai/jobs/info/6766e241dfb3744a5fbe10e5?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Dec 22 |
 | ↳ | **[2025 U.S Summer Internship Program: GCP (Good Clinical Practice) Process Excellence Intern](https://jobright.ai/jobs/info/676701d918ab3065e2f2cd26?utm_campaign=1057&utm_source=git)** | United States | Remote | Dec 22 |
@@ -69,10 +71,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 U.S Summer Internship Program: Learning Experience Design Intern](https://jobright.ai/jobs/info/6768360ff4f1e2af5187cc56?utm_campaign=1057&utm_source=git)** | Lexington, MA | Hybrid | Dec 22 |
 | **[Piper Sandler](https://www.pipersandler.com/)** | **[2025 Piper Sandler MBA Investment Banking Fellowship Program](https://jobright.ai/jobs/info/6768360ff4f1e2af5187cc6a?utm_campaign=1057&utm_source=git)** | Greater Houston | On Site | Dec 22 |
 | **[Riverside Community Care](http://www.riversidecc.org)** | **[BTS Community Based Clinical Intern- September / October 2025 Start Date](https://jobright.ai/jobs/info/67680c5e13b7dff0801dab4e?utm_campaign=1057&utm_source=git)** | Norwood, MA | On Site | Dec 22 |
-| ↳ | **[Life Skills Internship - Flexible Start Date - Summer 2024](https://jobright.ai/jobs/info/676805250bade4962bd03e03?utm_campaign=1057&utm_source=git)** | Needham, MA | On Site | Dec 22 |
 | ↳ | **[Engagement Specialist Internship - Flexible Start Date](https://jobright.ai/jobs/info/676805250bade4962bd03e04?utm_campaign=1057&utm_source=git)** | Norwood, MA | On Site | Dec 22 |
+| ↳ | **[Life Skills Internship - Flexible Start Date - Summer 2024](https://jobright.ai/jobs/info/676805250bade4962bd03e03?utm_campaign=1057&utm_source=git)** | Needham, MA | On Site | Dec 22 |
 | **[DePaul University](http://www.depaul.edu)** | **[Assistant Professor (Tenure Track) - Theatre: Technical/Sound Design (25-26)](https://jobright.ai/jobs/info/6767dac64a90b633c2a9a356?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 22 |
-| **[Year Up United](http://yearup.org)** | **[Helpdesk Job Training Program](https://jobright.ai/jobs/info/6767d075be4108a03d31a1f4?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Dec 21 |
 | **[Davenport University](http://www.davenport.edu/)** | **[(Student) Financial Aid Assistant](https://jobright.ai/jobs/info/6767d75e96030d17821683d7?utm_campaign=1057&utm_source=git)** | Grand Rapids, MI | On Site | Dec 21 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Clinical Research Intern](https://jobright.ai/jobs/info/6767d0fe77b31cf38976da9c?utm_campaign=1057&utm_source=git)** | Morrisville, NC | Remote | Dec 21 |
 | ↳ | **[Clinical Research Intern](https://jobright.ai/jobs/info/6767bcfd9525c538fac19c66?utm_campaign=1057&utm_source=git)** | Wilmington, NC | Remote | Dec 21 |
@@ -92,8 +93,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Application Development Job Training Program](https://jobright.ai/jobs/info/675d393239155246a4e27af3?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Dec 21 |
 | ↳ | **[Financial Advisory Job Training Program](https://jobright.ai/jobs/info/6767822d9361fb6089dbb006?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Dec 21 |
 | ↳ | **[Project Management Job Training Program](https://jobright.ai/jobs/info/6761daba0b0fc73b4c757b90?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Dec 21 |
-| ↳ | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/676779c54d2c837ac05b248a?utm_campaign=1057&utm_source=git)** | Wilmington, DE | On Site | Dec 21 |
 | ↳ | **[Information Security Job Training Program](https://jobright.ai/jobs/info/676779c54d2c837ac05b2482?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Dec 21 |
+| ↳ | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/676779c54d2c837ac05b248a?utm_campaign=1057&utm_source=git)** | Wilmington, DE | On Site | Dec 21 |
 | **[Stanford Health Care](https://stanfordhealthcare.org/)** | **[Summer 2025 Administrative Internship – Undergraduate (On-Site)](https://jobright.ai/jobs/info/67675bfb801cac21761c6397?utm_campaign=1057&utm_source=git)** | Palo Alto, CA | On Site | Dec 21 |
 | ↳ | **[Summer 2025 Technology & Digital Solutions – Undergraduate (Hybrid)](https://jobright.ai/jobs/info/67675a6e1e25e948bdf48a81?utm_campaign=1057&utm_source=git)** | Palo Alto, CA | Hybrid | Dec 21 |
 | ↳ | **[Summer 2025 Administrative Internship – High School (On-Site)](https://jobright.ai/jobs/info/6767528ed284b6e5c4dc5e38?utm_campaign=1057&utm_source=git)** | Palo Alto, CA | On Site | Dec 21 |
@@ -101,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[Heartland Veterinary Partners ](https://heartlandvetpartners.com/)** | **[Vet Tech Student Externship](https://jobright.ai/jobs/info/67674db5de86d7fc971bb243?utm_campaign=1057&utm_source=git)** | Wichita Falls, TX | On Site | Dec 21 |
 | ↳ | **[Vet Tech Student Externship](https://jobright.ai/jobs/info/676745ea8385012c3b5b649e?utm_campaign=1057&utm_source=git)** | Longmont, CO | On Site | Dec 21 |
 | ↳ | **[Vet Tech Student Externship](https://jobright.ai/jobs/info/676745ea8385012c3b5b64a4?utm_campaign=1057&utm_source=git)** | Coshocton, OH | On Site | Dec 21 |
-| **[DePaul University](http://www.depaul.edu)** | **[Assistant Professor (Tenure Track) - Theatre: Technical/Sound Design (25-26)](https://jobright.ai/jobs/info/6767352cd9099c594bef5b74?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 21 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Physician Relations Master's Intern](https://jobright.ai/jobs/info/6767069ae8e7e0dc5030c404?utm_campaign=1057&utm_source=git)** | Pasadena, CA | Hybrid | Dec 21 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 U.S Summer Internship Program: Business Excellence Intern](https://jobright.ai/jobs/info/6767069ae8e7e0dc5030c414?utm_campaign=1057&utm_source=git)** | Brooklyn Park, MN | On Site | Dec 21 |
 | ↳ | **[2025 U.S Summer Internship Program: Strategy & Business Operations Internship: Event Operations](https://jobright.ai/jobs/info/6766f1b134bd2ef37d54e9a1?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | Dec 21 |
@@ -111,14 +111,15 @@ For a complete list, click the following sortable link below:
 | **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Clinical Intern](https://jobright.ai/jobs/info/672e0cd717edb879efb09725?utm_campaign=1057&utm_source=git)** | Edina, MN | On Site | Dec 21 |
 | **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/67669fd2629716e89823686b?utm_campaign=1057&utm_source=git)** | Canton, OH | On Site | Dec 21 |
 | **[University of Central Florida](https://www.ucf.edu)** | **[Postdoctoral Scholar, Psychology](https://jobright.ai/jobs/info/672484f64de3064485a95a75?utm_campaign=1057&utm_source=git)** | Orlando, FL | Hybrid | Dec 21 |
+| **[DePaul University](http://www.depaul.edu)** | **[Assistant Professor (Tenure Track) - Theatre: Technical/Sound Design (25-26)](https://jobright.ai/jobs/info/676698acbaed17f487f6bfe6?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 21 |
 | **[RBC](https://www.rbc.com)** | **[2024/25 RBC Capital Markets, U.S. Women’s Advisory Program](https://jobright.ai/jobs/info/66aac45613e3b58a6ae2e03a?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Dec 21 |
 | **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Undergraduate Student Research Assistant](https://jobright.ai/jobs/info/67666b007ac1a0ada28cc283?utm_campaign=1057&utm_source=git)** | Columbus Campus | On Site | Dec 20 |
 | **[SCIEX](http://www.sciex.com)** | **[MBA Strategy & M&A Summer Internship](https://jobright.ai/jobs/info/676666d2e72a130e6482fa9d?utm_campaign=1057&utm_source=git)** | Port Washington, New York, United States | On Site | Dec 20 |
 | **[PNC](http://www.pnc.com)** | **[Corporate & Institutional Banking Undergraduate Intern – Corporate Banking – Financials and Diversified Track](https://jobright.ai/jobs/info/676666d2e72a130e6482fcf1?utm_campaign=1057&utm_source=git)** | NC - Charlotte | On Site | Dec 20 |
+| ↳ | **[Corporate & Institutional Banking Undergraduate Intern – Corporate Banking – Financials and Diversified Track](https://jobright.ai/jobs/info/676666d2e72a130e6482fb64?utm_campaign=1057&utm_source=git)** | PA - Pittsburgh (15222) | On Site | Dec 20 |
 | ↳ | **[Corporate & Institutional Banking Undergraduate Intern – Corporate Banking – Financials and Diversified Track](https://jobright.ai/jobs/info/676666d2e72a130e6482fcf2?utm_campaign=1057&utm_source=git)** | TX - Houston | On Site | Dec 20 |
 | ↳ | **[Corporate & Institutional Banking Undergraduate Intern – Corporate Banking – Financials and Diversified Track](https://jobright.ai/jobs/info/676666d2e72a130e6482fcf3?utm_campaign=1057&utm_source=git)** | NY - New York | On Site | Dec 20 |
 | ↳ | **[Corporate & Institutional Banking Undergraduate Intern – Corporate Banking – Financials and Diversified Track](https://jobright.ai/jobs/info/676666d2e72a130e6482fcf0?utm_campaign=1057&utm_source=git)** | GA - Atlanta | On Site | Dec 20 |
-| ↳ | **[Corporate & Institutional Banking Undergraduate Intern – Corporate Banking – Financials and Diversified Track](https://jobright.ai/jobs/info/676666d2e72a130e6482fb64?utm_campaign=1057&utm_source=git)** | PA - Pittsburgh (15222) | On Site | Dec 20 |
 | **[IBM](http://www.ibm.com)** | **[Technical Content Professional Apprentice](https://jobright.ai/jobs/info/674509f1937d5c694a43664f?utm_campaign=1057&utm_source=git)** | Poughkeepsie, NY | On Site | Dec 20 |
 | **[Peraton](https://www.peraton.com/)** | **[SkillBridge Intern (Peraton)](https://jobright.ai/jobs/info/67667229c41754d893366a19?utm_campaign=1057&utm_source=git)** | United States | Remote | Dec 20 |
 | ↳ | **[SkillBridge Intern SITEC 3 (Pacific)](https://jobright.ai/jobs/info/67667229c41754d893367043?utm_campaign=1057&utm_source=git)** | Smith, IN | Hybrid | Dec 20 |
@@ -146,6 +147,7 @@ For a complete list, click the following sortable link below:
 | **[Consilio LLC](http://www.consilio.com/)** | **[Summer 2025 Internship](https://jobright.ai/jobs/info/6765f8153079658b09983abd?utm_campaign=1057&utm_source=git)** | United States | Remote | Dec 20 |
 | **[DPR Construction](http://www.dpr.com)** | **[Build Up Internship - Charlotte](https://jobright.ai/jobs/info/672b51dde591f4305e4230d3?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Dec 20 |
 | **[University of Nebraska-Lincoln](https://alec.unl.edu)** | **[Professional Golf Management Internship Coordinator](https://jobright.ai/jobs/info/6753398a1917d068c020860c?utm_campaign=1057&utm_source=git)** | Lincoln, NE | On Site | Dec 20 |
+| **[AMD](http://www.amd.com)** | **[May -June 2025 US Graduate](https://jobright.ai/jobs/info/67660d9c52a93b9f2e3ec9f5?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Dec 20 |
 | **[Susan G. Komen](http://www.komen.org)** | **[Instructional Designer Intern (Remote)](https://jobright.ai/jobs/info/6765f261a8e6f4f315137c97?utm_campaign=1057&utm_source=git)** | United States | Remote | Dec 20 |
 | **[RK&K](https://www.rkk.com/)** | **[High School Intern](https://jobright.ai/jobs/info/6765f261a8e6f4f315137c56?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Dec 20 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Equity, Inclusion & Diversity Undergraduate Intern](https://jobright.ai/jobs/info/6766012f4c33903e4fdb5427?utm_campaign=1057&utm_source=git)** | Rochester, MN | Hybrid | Dec 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[Assistant Director Career Develop & Placement, Student Services, Lindner College of Business](https://jobright.ai/jobs/info/6765f4f103703a504fe0e140?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | Hybrid | Dec 20 |
 | **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/6765f40cda4c08a894a91f01?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Dec 20 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[INTERNAL: BCBA/ Sr BCBA / ACD / CD](https://jobright.ai/jobs/info/6765e3038e465cac3b7b1378?utm_campaign=1057&utm_source=git)** | Midland, TX | Hybrid | Dec 20 |
-| **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[Executive Vice President for Academic Affairs & Provost](https://jobright.ai/jobs/info/6765f261a8e6f4f315137df5?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Dec 20 |
-| **[NEOGOV](http://www.neogov.com)** | **[Prevention Intern](https://jobright.ai/jobs/info/6765d492db3ce4c757f90296?utm_campaign=1057&utm_source=git)** | Beaufort | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
