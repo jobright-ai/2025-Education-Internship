@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Allen Institute](https://alleninstitute.org/)** | **[Work Study Student/Office Assistant](https://jobright.ai/jobs/info/676b69c84b016ed2b1d44dda?utm_campaign=1057&utm_source=git)** | Seattle, WA | Hybrid | Dec 24 |
+| **[Tilson](http://tilsontech.com)** | **[Summer Internship](https://jobright.ai/jobs/info/676b52821aff40957b0bf503?utm_campaign=1057&utm_source=git)** | United States | Remote | Dec 24 |
+| **[AECOM](http://www.aecom.com/)** | **[GIS Summer Intern](https://jobright.ai/jobs/info/676b5242678638a11d44f890?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Dec 24 |
+| ↳ | **[GIS Summer Intern](https://jobright.ai/jobs/info/676b543948c5c3eff4571f93?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Dec 24 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Talent Development & Enterprise Learning](https://jobright.ai/jobs/info/676b42be912426fb585fc49b?utm_campaign=1057&utm_source=git)** | Morristown, NJ | On Site | Dec 24 |
 | **[Community Health Systems](http://www.chs.net)** | **[Nursing Student (Intern) House Rotation PRN](https://jobright.ai/jobs/info/676b478864a6d825890de1b4?utm_campaign=1057&utm_source=git)** | Fort Wayne, IN | On Site | Dec 24 |
 | **[Memorial Sloan Kettering Cancer Center](http://www.mskcc.org)** | **[PCCTC Clinical Operations Internship, Remote](https://jobright.ai/jobs/info/676b2869283503ed0682e935?utm_campaign=1057&utm_source=git)** | United States | Remote | Dec 24 |
@@ -92,19 +96,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/676a80728b4ee94e685c02bc?utm_campaign=1057&utm_source=git)** | Woodbridge, VA | On Site | Dec 24 |
 | **[Otterbein University](http://www.otterbein.edu/)** | **[Graduate Intern - Promise House](https://jobright.ai/jobs/info/676a85a18d3e000b9b4bce9e?utm_campaign=1057&utm_source=git)** | Westerville, OH | On Site | Dec 24 |
 | **[NYC Department of Education](https://schools.nyc.gov)** | **[COMMUNITY ASSISTANT - THE MANHATTAN INTERNATIONAL HIGH SCHOOL (02M459)](https://jobright.ai/jobs/info/676a85a18d3e000b9b4bce91?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 24 |
-| **[Year Up United](http://yearup.org)** | **[Financial Operations Job Training Program](https://jobright.ai/jobs/info/676a7a0dd30087ebeab52a17?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Dec 24 |
-| ↳ | **[Helpdesk Job Training Program](https://jobright.ai/jobs/info/676a77a39c0e81fa32baa5a5?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Dec 24 |
+| **[Year Up United](http://yearup.org)** | **[Helpdesk Job Training Program](https://jobright.ai/jobs/info/676a77a39c0e81fa32baa5a5?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Dec 24 |
 | ↳ | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/676a7a0dd30087ebeab52898?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Dec 24 |
 | ↳ | **[Software Development Career Training Program](https://jobright.ai/jobs/info/676a7a0dd30087ebeab52a1c?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Dec 24 |
 | ↳ | **[Customer Service Job Training Program](https://jobright.ai/jobs/info/676a7a0dd30087ebeab5288b?utm_campaign=1057&utm_source=git)** | Jersey City, NJ | On Site | Dec 24 |
-| ↳ | **[Desktop Support Job Training Program](https://jobright.ai/jobs/info/676a7a0dd30087ebeab52a1f?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Dec 24 |
-| ↳ | **[Financial Advisory Job Training Program](https://jobright.ai/jobs/info/676a7a0dd30087ebeab52a1d?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Dec 24 |
-| ↳ | **[Quality Assurance Job Training Program](https://jobright.ai/jobs/info/676a7e22ac1c9843338cc6d3?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Dec 24 |
-| ↳ | **[Computer Systems Administration Job Training Program](https://jobright.ai/jobs/info/676a7e22ac1c9843338cc6d4?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Dec 24 |
-| ↳ | **[Helpdesk Job Training Program](https://jobright.ai/jobs/info/676a7a0dd30087ebeab52a22?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Dec 24 |
 | ↳ | **[Customer Service Job Training Program](https://jobright.ai/jobs/info/676a7a0dd30087ebeab52893?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Dec 24 |
-| ↳ | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/676a7a0dd30087ebeab52a23?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Dec 24 |
 | ↳ | **[Helpdesk Job Training Program](https://jobright.ai/jobs/info/676a7a0dd30087ebeab52a24?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Dec 24 |
+| ↳ | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/676a7a0dd30087ebeab52a23?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Dec 24 |
 | ↳ | **[Desktop Support Job Training Program](https://jobright.ai/jobs/info/676a7a0dd30087ebeab52a25?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Dec 24 |
 | ↳ | **[Desktop Management Job Training Program](https://jobright.ai/jobs/info/676a77a39c0e81fa32baa5a6?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Dec 24 |
 | ↳ | **[Project Management Job Training Program](https://jobright.ai/jobs/info/676a7e22ac1c9843338cc6d9?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Dec 24 |
@@ -121,15 +119,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Computer Architecture & Systems Fundamentals Job Training Program](https://jobright.ai/jobs/info/67359f844b047ec7b597414c?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Dec 23 |
 | ↳ | **[Financial Advisory Career Training Program](https://jobright.ai/jobs/info/674aff8a86d36e8f93ea836e?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Dec 23 |
 | ↳ | **[Application Development & Support Career Training Program](https://jobright.ai/jobs/info/6766882167a373af442fcd48?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 23 |
-| ↳ | **[Financial Operations Job Training Opportunity](https://jobright.ai/jobs/info/676a22e9c9a31c8995a80cfc?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 23 |
 | ↳ | **[Desktop Support Job Training Program](https://jobright.ai/jobs/info/676a22e9c9a31c8995a80cfb?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Dec 23 |
+| ↳ | **[Financial Operations Job Training Opportunity](https://jobright.ai/jobs/info/676a22e9c9a31c8995a80cfc?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 23 |
 | ↳ | **[Banking Job Training Program](https://jobright.ai/jobs/info/676a22e9c9a31c8995a80cfd?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Dec 23 |
 | ↳ | **[Project Management Job Training Program](https://jobright.ai/jobs/info/676a22e9c9a31c8995a80cfe?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Dec 23 |
 | ↳ | **[Project Management Job Training Program](https://jobright.ai/jobs/info/676a22e9c9a31c8995a80cff?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Dec 23 |
 | ↳ | **[Software Development Job Training Program](https://jobright.ai/jobs/info/676a22e9c9a31c8995a80d00?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Dec 23 |
 | ↳ | **[Project Management Job Training Program](https://jobright.ai/jobs/info/676a22e9c9a31c8995a80d01?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Dec 23 |
-| **[Sight & Sound](https://www.sight-sound.com/)** | **[Summer Internship - Show Operations (Full Time)](https://jobright.ai/jobs/info/676a3707863d720902c9d34d?utm_campaign=1057&utm_source=git)** | Branson, MO | On Site | Dec 23 |
-| ↳ | **[Summer Internship - Automation & Effects (Full-Time)](https://jobright.ai/jobs/info/676a3707863d720902c9d389?utm_campaign=1057&utm_source=git)** | Branson, MO | On Site | Dec 23 |
+| **[Sight & Sound](https://www.sight-sound.com/)** | **[Summer Internship - Automation & Effects (Full-Time)](https://jobright.ai/jobs/info/676a3707863d720902c9d389?utm_campaign=1057&utm_source=git)** | Branson, MO | On Site | Dec 23 |
+| ↳ | **[Summer Internship - Show Operations (Full Time)](https://jobright.ai/jobs/info/676a3707863d720902c9d34d?utm_campaign=1057&utm_source=git)** | Branson, MO | On Site | Dec 23 |
 | **[University of Miami](http://miami.edu)** | **[Football Strength & Conditioning Intern/Specialist (Temporary)](https://jobright.ai/jobs/info/676a1fdd4a9c8f41fc63cdcd?utm_campaign=1057&utm_source=git)** | Coral Gables, FL | On Site | Dec 23 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Summer Intern](https://jobright.ai/jobs/info/676b05a1517b91c27f24be81?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Dec 23 |
 | **[ASEC](https://www.asec-incorporated.com/)** | **[SkillBridge Internship, ELINT Training](https://jobright.ai/jobs/info/676a2e41096561f08999557a?utm_campaign=1057&utm_source=git)** | Oak Harbor, WA | On Site | Dec 23 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Graduate Assistant - Audiology](https://jobright.ai/jobs/info/6769e3a3234147b1fbfdd3af?utm_campaign=1057&utm_source=git)** | Lubbock, TX | On Site | Dec 23 |
 | **[Colorado State University](http://www.colostate.edu/)** | **[Undergraduate Program Coordinator](https://jobright.ai/jobs/info/6769e3a3234147b1fbfdd46c?utm_campaign=1057&utm_source=git)** | Fort Collins, CO | Hybrid | Dec 23 |
 | **[Signature Solar](https://signaturesolar.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6769cf3f65cba2c07f215ed9?utm_campaign=1057&utm_source=git)** | Sulphur Springs, TX | On Site | Dec 23 |
+| **[Health Care Service Corporation](https://www.hcsc.com)** | **[University Relations – Associate Business Analyst Intern Job Description](https://jobright.ai/jobs/info/6769ce0c6077b2de60710565?utm_campaign=1057&utm_source=git)** | IL - Chicago | On Site | Dec 23 |
+| **[Interapt](https://interapt.com/)** | **[AI Powered IT Support Analyst: Training Immersive](https://jobright.ai/jobs/info/6769ca42a4b4331ff0ba9531?utm_campaign=1057&utm_source=git)** | Frankfort, KY | Remote | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
