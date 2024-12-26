@@ -72,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Community Health Systems](http://www.chs.net)** | **[Nursing Student (Intern) House Rotation PRN](https://jobright.ai/jobs/info/676b478864a6d825890de1b4?utm_campaign=1057&utm_source=git)** | Fort Wayne, IN | On Site | Dec 24 |
 | **[Memorial Sloan Kettering Cancer Center](http://www.mskcc.org)** | **[PCCTC Clinical Operations Internship, Remote](https://jobright.ai/jobs/info/676b2869283503ed0682e935?utm_campaign=1057&utm_source=git)** | United States | Remote | Dec 24 |
 | **[University of Michigan](https://www.umich.edu)** | **[Student Assistant, Office of the Registrar (Work Study Only)](https://jobright.ai/jobs/info/676b2f2ea343affdaa470864?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Dec 24 |
-| **[Year Up United](http://yearup.org)** | **[Financial Advisory Job Training Program](https://jobright.ai/jobs/info/676b371debc281c9ef45bf7e?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Dec 24 |
 | **[UCLA Health](https://uclahealth.org)** | **[Student Assistant - ARIA / Cousins Center](https://jobright.ai/jobs/info/676b2869283503ed0682eaf4?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Dec 24 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship (Summer 2025) / S St. Paul, MN](https://jobright.ai/jobs/info/676b1ebf089183105d2de77b?utm_campaign=1057&utm_source=git)** | South St Paul, MN | On Site | Dec 24 |
 | ↳ | **[Arborist Trainee Internship (Summer 2025) / Eden Prairie, MN](https://jobright.ai/jobs/info/676b2869283503ed0682eb1a?utm_campaign=1057&utm_source=git)** | Eden Prairie, MN | On Site | Dec 24 |
@@ -82,8 +81,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 SUMMER INTERNSHIP PROGRAM](https://jobright.ai/jobs/info/676b3992153b4014937f1a79?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Dec 24 |
 | ↳ | **[2025 SUMMER INTERNSHIP PROGRAM](https://jobright.ai/jobs/info/676b3992153b4014937f1a60?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD | On Site | Dec 24 |
 | ↳ | **[Summer 2025 Growth & Development Internship](https://jobright.ai/jobs/info/676b3992153b4014937f1a9f?utm_campaign=1057&utm_source=git)** | Waukee, IA | On Site | Dec 24 |
-| ↳ | **[2025 SUMMER INTERNSHIP PROGRAM](https://jobright.ai/jobs/info/676b3992153b4014937f1a6e?utm_campaign=1057&utm_source=git)** | Cedar Rapids, IA | On Site | Dec 24 |
 | ↳ | **[2025 SUMMER INTERNSHIP PROGRAM](https://jobright.ai/jobs/info/676b3992153b4014937f1a7b?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Dec 24 |
+| ↳ | **[2025 SUMMER INTERNSHIP PROGRAM](https://jobright.ai/jobs/info/676b3992153b4014937f1a6e?utm_campaign=1057&utm_source=git)** | Cedar Rapids, IA | On Site | Dec 24 |
 | ↳ | **[2025 SUMMER INTERNSHIP PROGRAM](https://jobright.ai/jobs/info/676b3992153b4014937f1aa0?utm_campaign=1057&utm_source=git)** | Omaha, NE | On Site | Dec 24 |
 | **[Rosendin](https://www.rosendin.com)** | **[Intern](https://jobright.ai/jobs/info/676add84027cf06442deb066?utm_campaign=1057&utm_source=git)** | Sterling, VA | On Site | Dec 24 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[First-Generation Student Success - Graduate Intern/Assistant](https://jobright.ai/jobs/info/676adf8fce0d58d079d0d8d3?utm_campaign=1057&utm_source=git)** | Wellesley, MA | On Site | Dec 24 |
@@ -102,8 +101,8 @@ For a complete list, click the following sortable link below:
 | **[NYC Department of Education](https://schools.nyc.gov)** | **[COMMUNITY ASSISTANT - THE MANHATTAN INTERNATIONAL HIGH SCHOOL (02M459)](https://jobright.ai/jobs/info/676a85a18d3e000b9b4bce91?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 24 |
 | **[Year Up United](http://yearup.org)** | **[Helpdesk Job Training Program](https://jobright.ai/jobs/info/676a77a39c0e81fa32baa5a5?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Dec 24 |
 | ↳ | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/676a7a0dd30087ebeab52898?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Dec 24 |
-| ↳ | **[Helpdesk Job Training Program](https://jobright.ai/jobs/info/676a7a0dd30087ebeab52a24?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Dec 24 |
 | ↳ | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/676a7a0dd30087ebeab52a23?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Dec 24 |
+| ↳ | **[Helpdesk Job Training Program](https://jobright.ai/jobs/info/676a7a0dd30087ebeab52a24?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Dec 24 |
 | ↳ | **[Desktop Management Job Training Program](https://jobright.ai/jobs/info/676a77a39c0e81fa32baa5a6?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Dec 24 |
 | ↳ | **[Helpdesk Job Training Program](https://jobright.ai/jobs/info/676a77a39c0e81fa32baa5a8?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Dec 24 |
 | **[First Quality](http://firstquality.com/)** | **[Training Intern](https://jobright.ai/jobs/info/676a5bb935aba17c13863e21?utm_campaign=1057&utm_source=git)** | US SC Anderson | On Site | Dec 23 |
@@ -118,10 +117,10 @@ For a complete list, click the following sortable link below:
 | **[Year Up United](http://yearup.org)** | **[Application Development & Support Job Training Program](https://jobright.ai/jobs/info/6763751e3e8727ebe5304259?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Dec 23 |
 | ↳ | **[Desktop Support Job Training Program](https://jobright.ai/jobs/info/676a22e9c9a31c8995a80cfb?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Dec 23 |
 | ↳ | **[Banking Job Training Program](https://jobright.ai/jobs/info/676a22e9c9a31c8995a80cfd?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Dec 23 |
-| ↳ | **[Project Management Job Training Program](https://jobright.ai/jobs/info/676a22e9c9a31c8995a80d01?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Dec 23 |
-| **[Sight & Sound](https://www.sight-sound.com/)** | **[Summer Internship - Automation & Effects (Full-Time)](https://jobright.ai/jobs/info/676a3707863d720902c9d389?utm_campaign=1057&utm_source=git)** | Branson, MO | On Site | Dec 23 |
-| ↳ | **[Summer Internship - Show Operations (Full Time)](https://jobright.ai/jobs/info/676a3707863d720902c9d34d?utm_campaign=1057&utm_source=git)** | Branson, MO | On Site | Dec 23 |
+| **[Sight & Sound](https://www.sight-sound.com/)** | **[Summer Internship - Show Operations (Full Time)](https://jobright.ai/jobs/info/676a3707863d720902c9d34d?utm_campaign=1057&utm_source=git)** | Branson, MO | On Site | Dec 23 |
+| ↳ | **[Summer Internship - Automation & Effects (Full-Time)](https://jobright.ai/jobs/info/676a3707863d720902c9d389?utm_campaign=1057&utm_source=git)** | Branson, MO | On Site | Dec 23 |
 | **[University of Miami](http://miami.edu)** | **[Football Strength & Conditioning Intern/Specialist (Temporary)](https://jobright.ai/jobs/info/676a1fdd4a9c8f41fc63cdcd?utm_campaign=1057&utm_source=git)** | Coral Gables, FL | On Site | Dec 23 |
+| **[Monmouth University](http://www.monmouth.edu)** | **[Coordinator for Career Engagement](https://jobright.ai/jobs/info/676cbdc515a2625c35d649ee?utm_campaign=1057&utm_source=git)** | West Long Branch, NJ | On Site | Dec 23 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Summer Intern](https://jobright.ai/jobs/info/676b05a1517b91c27f24be81?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Dec 23 |
 | **[ASEC](https://www.asec-incorporated.com/)** | **[SkillBridge Internship, ELINT Training](https://jobright.ai/jobs/info/676a2e41096561f08999557a?utm_campaign=1057&utm_source=git)** | Oak Harbor, WA | On Site | Dec 23 |
 | **[American Addiction Centers](https://americanaddictioncenters.org/)** | **[Counselor Intern](https://jobright.ai/jobs/info/676a2a988bb0abbf48b4881c?utm_campaign=1057&utm_source=git)** | North Kingstown, RI | On Site | Dec 23 |
@@ -151,10 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2025 - New York (45419)](https://jobright.ai/jobs/info/66e3303b60145809ba8ac2bc?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 23 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[University Relations – Access Provisioning Intern](https://jobright.ai/jobs/info/6769bdd22e3e77f863f282c8?utm_campaign=1057&utm_source=git)** | TX - Richardson | On Site | Dec 23 |
 | **[The Baker Center for Children and Families](https://www.bakercenter.org)** | **[Staff Psychologist](https://jobright.ai/jobs/info/6769db01fb66ca28739281f2?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Dec 23 |
-| **[UCLA Health](https://uclahealth.org)** | **[Student Assistant - BD2 / Cousins Center Study](https://jobright.ai/jobs/info/6769c76b31b928f984025f2b?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Dec 23 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[CUNY Summer Research Fellow](https://jobright.ai/jobs/info/6769c422e1d66e15f4445a45?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | Hybrid | Dec 23 |
-| **[UCLA Health](https://uclahealth.org)** | **[Student Assistant II](https://jobright.ai/jobs/info/676a4f7c63fe3d172a1378b7?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Dec 23 |
+| **[UCLA Health](https://uclahealth.org)** | **[Student Assistant - BD2 / Cousins Center Study](https://jobright.ai/jobs/info/676a58c4d3c271f4fb1a8bc0?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Dec 23 |
+| ↳ | **[Student Assistant II](https://jobright.ai/jobs/info/676a4f7c63fe3d172a1378b7?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Dec 23 |
 | **[MultiCare Health System](http://www.multicare.org)** | **[Military Intern](https://jobright.ai/jobs/info/6769957d58d3494941bb748a?utm_campaign=1057&utm_source=git)** | Auburn, Washington | On Site | Dec 23 |
 | **[NEOGOV](http://www.neogov.com)** | **[Library Internship- Technology Services](https://jobright.ai/jobs/info/6769957d58d3494941bb749c?utm_campaign=1057&utm_source=git)** | Southfield, MI | On Site | Dec 23 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[CUNY Summer Research Fellow](https://jobright.ai/jobs/info/67698cb0c209cd85cf7d5ec6?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | Hybrid | Dec 23 |
+| **[KLN Family Brands](https://www.klnfamilybrands.com/)** | **[Communication Design Internship](https://jobright.ai/jobs/info/6769e0a5b216aafa8031e414?utm_campaign=1057&utm_source=git)** | Perham, MN | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
