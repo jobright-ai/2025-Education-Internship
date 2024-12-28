@@ -64,7 +64,6 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Winter/Spring Internship - Women's Economic Empowerment Intern - Unpaid](https://jobright.ai/jobs/info/676f774804824a34d1bd8403?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Dec 27 |
 | **[State of Michigan](http://www.michigan.gov)** | **[Student Assistant - PDB / MCOLES / Licensing & Investigations Section](https://jobright.ai/jobs/info/676f78196737130276ba17a9?utm_campaign=1057&utm_source=git)** | Lansing, MI | On Site | Dec 27 |
 | **[Piper Sandler](https://www.pipersandler.com/)** | **[2025 Piper Sandler MBA Investment Banking Fellowship Program](https://jobright.ai/jobs/info/676f6ae312b21670f287a07b?utm_campaign=1057&utm_source=git)** | Greater Houston | On Site | Dec 27 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[Coordinator of Student Development, Tahlequah](https://jobright.ai/jobs/info/676f7271a03658d11e786979?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Dec 27 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Summer Intern](https://jobright.ai/jobs/info/676f65a67577aab4600955d6?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Dec 27 |
 | **[MacLean-Fogg Company](https://macleanfogg.com)** | **[Intern (Summer 2025)](https://jobright.ai/jobs/info/676f52e5050f950701904279?utm_campaign=1057&utm_source=git)** | Greater Chicago Area | On Site | Dec 27 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2025 - Health Sciences Intern - Gannon University Graduate Internship](https://jobright.ai/jobs/info/676f52e5050f950701904289?utm_campaign=1057&utm_source=git)** | Erie-Meadville Area | On Site | Dec 27 |
@@ -81,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[Orange County Government](http://www.ocfl.net)** | **[Student Intern - College](https://jobright.ai/jobs/info/66fdb96e9c9575cc5f62f6be?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Dec 27 |
 | **[Allegheny Health Network](https://www.ahn.org)** | **[Summer 2025 - Health Sciences Intern - Gannon University Graduate Internship](https://jobright.ai/jobs/info/676efd4e47e5bbd26188e632?utm_campaign=1057&utm_source=git)** | Erie, PA | On Site | Dec 27 |
 | **[Recovery Centers of America](http://www.recoverycentersofamerica.com/)** | **[Intern-Clinical](https://jobright.ai/jobs/info/676ef737a227a14c21c48cee?utm_campaign=1057&utm_source=git)** | Westminster, MA | On Site | Dec 27 |
-| **[Sanofi](https://www.sanofi.com)** | **[Summer Intern 2025, University Relations](https://jobright.ai/jobs/info/676ee5f001ff4debed37b4bf?utm_campaign=1057&utm_source=git)** | Bridgewater, NJ | On Site | Dec 27 |
-| ↳ | **[Summer Intern 2025, University Relations](https://jobright.ai/jobs/info/676ee5f001ff4debed37b485?utm_campaign=1057&utm_source=git)** | Cambridge, MA | On Site | Dec 27 |
+| **[Sanofi](https://www.sanofi.com)** | **[Summer Intern 2025, University Relations](https://jobright.ai/jobs/info/676ee5f001ff4debed37b485?utm_campaign=1057&utm_source=git)** | Cambridge, MA | On Site | Dec 27 |
+| ↳ | **[Summer Intern 2025, University Relations](https://jobright.ai/jobs/info/676ee5f001ff4debed37b4bf?utm_campaign=1057&utm_source=git)** | Bridgewater, NJ | On Site | Dec 27 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2025 - Health Sciences Intern - Gannon University Graduate Internship](https://jobright.ai/jobs/info/676ee5f001ff4debed37b48b?utm_campaign=1057&utm_source=git)** | Erie PA, 16502, 232 West 25th St | On Site | Dec 27 |
 | **[Delaware North](http://www.delawarenorth.com/)** | **[Internship for 2025 Baseball Season at Progressive Field](https://jobright.ai/jobs/info/676f36bdc1add4d71c195ee4?utm_campaign=1057&utm_source=git)** | Cleveland, OH | Hybrid | Dec 27 |
 | **[Zoetis](https://www.zoetis.com)** | **[Operational Excellence and Training Team Intern](https://jobright.ai/jobs/info/676ee03eb488eeb12f371d28?utm_campaign=1057&utm_source=git)** | Kalamazoo - Kilgore Road | On Site | Dec 27 |
@@ -119,12 +118,12 @@ For a complete list, click the following sortable link below:
 | **[University of Central Oklahoma](http://www.uco.edu/)** | **[FWSP Student Technical - CeCE](https://jobright.ai/jobs/info/676dd29c08ad2d6c31cbe40c?utm_campaign=1057&utm_source=git)** | Edmond, OK | Remote | Dec 26 |
 | **[Odyssey House Louisiana](http://www.ohlinc.org/)** | **[Counselor Internship - Claire House](https://jobright.ai/jobs/info/676de010dab37d84f46cefba?utm_campaign=1057&utm_source=git)** | Morgan City, LA | On Site | Dec 26 |
 | **[Gentex Corporation](http://www.gentex.com)** | **[Summer 2025 Internships](https://jobright.ai/jobs/info/6716d73ba89592d8e3fda638?utm_campaign=1057&utm_source=git)** | Zeeland, MI | On Site | Dec 26 |
-| **[CESO, INC.](http://cesoinc.com)** | **[Co-op / Intern](https://jobright.ai/jobs/info/676dcf27536d9f689478e088?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Dec 26 |
+| **[CESO, INC.](http://cesoinc.com)** | **[Co-op / Intern](https://jobright.ai/jobs/info/676dcf27536d9f689478e18c?utm_campaign=1057&utm_source=git)** | Dayton, OH | On Site | Dec 26 |
 | **[Baptist Health Bethesda Hospital](http://www.bethesdaweb.com/)** | **[Pool Nurse Intern, Labor and Delivery, Bethesda East, Per Diem, 7P-7:30A](https://jobright.ai/jobs/info/676dbef820d33e0573a49048?utm_campaign=1057&utm_source=git)** | Boynton Beach, FL | On Site | Dec 26 |
 | **[ABLE Incorporated](https://www.ableinc.net)** | **[PSYCHOLOGY INTERNSHIP](https://jobright.ai/jobs/info/676dd6b48de2235e5396738b?utm_campaign=1057&utm_source=git)** | Dickinson, ND | On Site | Dec 26 |
 | **[Franklin Templeton](http://www.franklintempleton.com)** | **[FT Academy Global Client Programs - Undergrad Intern](https://jobright.ai/jobs/info/676daf13b973e0f16cfa5036?utm_campaign=1057&utm_source=git)** | New York, New York, United States of America | On Site | Dec 26 |
-| ↳ | **[FT Academy Global Client Programs - Undergrad Intern](https://jobright.ai/jobs/info/676daf13b973e0f16cfa500d?utm_campaign=1057&utm_source=git)** | Rancho Cordova, California, United States of America | On Site | Dec 26 |
 | ↳ | **[FT Academy Global Client Programs - Undergrad Intern](https://jobright.ai/jobs/info/676daf13b973e0f16cfa5035?utm_campaign=1057&utm_source=git)** | Stamford, Connecticut, United States of America | On Site | Dec 26 |
+| ↳ | **[FT Academy Global Client Programs - Undergrad Intern](https://jobright.ai/jobs/info/676daf13b973e0f16cfa500d?utm_campaign=1057&utm_source=git)** | Rancho Cordova, California, United States of America | On Site | Dec 26 |
 | ↳ | **[FT Academy Global Client Programs - Undergrad Intern](https://jobright.ai/jobs/info/676daf13b973e0f16cfa5034?utm_campaign=1057&utm_source=git)** | St. Petersburg, Florida, United States of America | On Site | Dec 26 |
 | **[The GIANT Company](https://giantfoodstores.com)** | **[Pharmacy Internship - Greater Wilkes-Barre, PA](https://jobright.ai/jobs/info/674a68c9909a18a472ce82df?utm_campaign=1057&utm_source=git)** | Scranton, PA | On Site | Dec 26 |
 | **[Phillips 66](http://www.phillips66.com/)** | **[2025 University Intern - Information Technology](https://jobright.ai/jobs/info/66bb3eeeac3b3f4149ac40a9?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Dec 26 |
@@ -132,8 +131,7 @@ For a complete list, click the following sortable link below:
 | **[U.S. Securities and Exchange Commission](http://www.sec.gov)** | **[Summer Intern](https://jobright.ai/jobs/info/676d70ae85c99585a34cf06f?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Dec 26 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/676d70ae85c99585a34cf156?utm_campaign=1057&utm_source=git)** | Miami-Dade County, FL | Hybrid | Dec 26 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/676d70ae85c99585a34cf157?utm_campaign=1057&utm_source=git)** | Atlanta Metro | Hybrid | Dec 26 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[Coordinator of Student Development, Tahlequah](https://jobright.ai/jobs/info/676d7b7685e4e6958f790e26?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Dec 26 |
-| **[U.S. Securities and Exchange Commission](http://www.sec.gov)** | **[Summer Intern](https://jobright.ai/jobs/info/676d70ae85c99585a34cf158?utm_campaign=1057&utm_source=git)** | DC-Baltimore Area | Hybrid | Dec 26 |
+| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/676d70ae85c99585a34cf158?utm_campaign=1057&utm_source=git)** | DC-Baltimore Area | Hybrid | Dec 26 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/676d763a1b1718cb11610d89?utm_campaign=1057&utm_source=git)** | NYC Metro Area | On Site | Dec 26 |
 | **[NEOGOV](http://www.neogov.com)** | **[Recreation Intern -Seasonal](https://jobright.ai/jobs/info/676d6b1b030d6d25e9014ea6?utm_campaign=1057&utm_source=git)** | Ocean City, MD | On Site | Dec 26 |
 | **[Compass Health Center](https://compasshealthcenter.net)** | **[Group Therapist Intern](https://jobright.ai/jobs/info/674e76661417c381a0dfd7aa?utm_campaign=1057&utm_source=git)** | Northbrook, IL | On Site | Dec 26 |
@@ -147,14 +145,16 @@ For a complete list, click the following sortable link below:
 | **[Year Up United](http://yearup.org)** | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/676a7a0dd30087ebeab52a23?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Dec 26 |
 | ↳ | **[Customer Service Job Training Program](https://jobright.ai/jobs/info/673ca03bdf285c9ac945f85a?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Dec 26 |
 | ↳ | **[Financial Advisory Job Training Program](https://jobright.ai/jobs/info/676d1c880bc58620b63b7d4c?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Dec 26 |
-| ↳ | **[Computer Systems Administration Job Training Program](https://jobright.ai/jobs/info/676d1c880bc58620b63b7d4e?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Dec 26 |
 | ↳ | **[Application Development & Support Career Training Program](https://jobright.ai/jobs/info/676d1c880bc58620b63b7d4f?utm_campaign=1057&utm_source=git)** | Jersey City, NJ | On Site | Dec 26 |
-| ↳ | **[Data Management Career Training Opportunity](https://jobright.ai/jobs/info/676d1c880bc58620b63b7d51?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Dec 26 |
-| ↳ | **[Project Management Job Training Program](https://jobright.ai/jobs/info/676d1c880bc58620b63b7d50?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Dec 26 |
+| ↳ | **[Computer Systems Administration Job Training Program](https://jobright.ai/jobs/info/676d1c880bc58620b63b7d4e?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Dec 26 |
 | ↳ | **[Desktop Support Job Training Program](https://jobright.ai/jobs/info/676d1c880bc58620b63b7d52?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Dec 26 |
-| ↳ | **[Information Security Job Training Program](https://jobright.ai/jobs/info/676d1c880bc58620b63b7d56?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Dec 26 |
+| ↳ | **[Project Management Job Training Program](https://jobright.ai/jobs/info/676d1c880bc58620b63b7d50?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Dec 26 |
+| ↳ | **[Data Management Career Training Opportunity](https://jobright.ai/jobs/info/676d1c880bc58620b63b7d51?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Dec 26 |
 | ↳ | **[Banking Job Training Program](https://jobright.ai/jobs/info/676d1c880bc58620b63b7d54?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Dec 26 |
+| ↳ | **[Information Security Job Training Program](https://jobright.ai/jobs/info/676d1c880bc58620b63b7d56?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Dec 26 |
 | ↳ | **[Information Security Job Training Program](https://jobright.ai/jobs/info/676d1c880bc58620b63b7d5a?utm_campaign=1057&utm_source=git)** | Woodbridge, VA | On Site | Dec 26 |
-| ↳ | **[Application Development & Support Job Training Program](https://jobright.ai/jobs/info/676d1c880bc58620b63b7d5b?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Dec 26 |
 | ↳ | **[Data Management Job Training Opportunity](https://jobright.ai/jobs/info/676d1c880bc58620b63b7c75?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Dec 26 |
+| ↳ | **[Quality Assurance Job Training Program](https://jobright.ai/jobs/info/676d20a453b34d06d962b693?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Dec 26 |
+| ↳ | **[Information Security Job Training Program](https://jobright.ai/jobs/info/676d20a453b34d06d962b697?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Dec 26 |
+| ↳ | **[Project Management Job Training Program](https://jobright.ai/jobs/info/676d20a453b34d06d962b699?utm_campaign=1057&utm_source=git)** | Pleasant Hill, CA | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
