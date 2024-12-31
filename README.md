@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[American Bar Association](http://www.americanbar.org/aba.html)** | **[Legal Education - Research Assistant, Paid Legal Intern (Part-time)](https://jobright.ai/jobs/info/677339597fd285c4baecfe96?utm_campaign=1057&utm_source=git)** | ABA Chicago, Chicago, Illinois, United States of America | Hybrid | Dec 30 |
+| **[University of Utah](http://utah.edu)** | **[PS UU Student – Bilingual Research Assistant (Work Study)](https://jobright.ai/jobs/info/6773453513299cf522cc3cf6?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | Hybrid | Dec 30 |
+| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Co-Op Student Research Laboratory of Exercise Physiology and Physical Performance](https://jobright.ai/jobs/info/67735c64957c7da22ab89cd3?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Dec 30 |
+| ↳ | **[Pre-Doctoral Fellow Stipend (Bispo)](https://jobright.ai/jobs/info/67735c64957c7da22ab89d25?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Dec 30 |
+| ↳ | **[Research Student Intern NEUROLOGY Dhand Lab](https://jobright.ai/jobs/info/67735c64957c7da22ab89d8e?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Dec 30 |
 | **[University of Utah](http://utah.edu)** | **[PS UU Student – Bilingual Research Assistant (Work Study)](https://jobright.ai/jobs/info/67732e16ee2d4dc0d79a67a3?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | Remote | Dec 30 |
 | **[Tempus AI](https://www.tempus.com)** | **[Translational Research Summer Associate](https://jobright.ai/jobs/info/677321e163be56730f282db8?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Dec 30 |
 | **[NYS Office of Information Technology Services](https://its.ny.gov/)** | **[Student Assistant Internship (Dedicated Support: Sector C), Ref# 8456](https://jobright.ai/jobs/info/677325aba5c7f83e8107314e?utm_campaign=1057&utm_source=git)** | Albany, NY | Hybrid | Dec 30 |
@@ -65,7 +68,8 @@ For a complete list, click the following sortable link below:
 | **[Methodist Le Bonheur Healthcare](https://www.methodisthealth.org/)** | **[NT Graduate Training](https://jobright.ai/jobs/info/67732866ca0a140535d140de?utm_campaign=1057&utm_source=git)** | Memphis, TN | On Site | Dec 30 |
 | **[NEOGOV](http://www.neogov.com)** | **[Recreation - Intern](https://jobright.ai/jobs/info/67731948f13b70dff25da6c4?utm_campaign=1057&utm_source=git)** | Clive, IA | On Site | Dec 30 |
 | **[Northwestern Medicine](http://nm.org)** | **[Pre-PA Gap Year Internship 2025-2026](https://jobright.ai/jobs/info/67731c30e647b348c3f1d555?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 30 |
-| **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/67731a8f709a841ecff6045b?utm_campaign=1057&utm_source=git)** | Minneapolis–Saint Paul, WI | On Site | Dec 30 |
+| **[Cintas](https://www.cintas.com)** | **[Intern - First Aid and Safety](https://jobright.ai/jobs/info/677347af0762b72d475dec26?utm_campaign=1057&utm_source=git)** | Meridian, ID | On Site | Dec 30 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/67731a8f709a841ecff6045b?utm_campaign=1057&utm_source=git)** | Minneapolis–Saint Paul, WI | On Site | Dec 30 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/67731a8f709a841ecff6042f?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Dec 30 |
 | **[DePaul University](http://www.depaul.edu)** | **[Assistant Professor (Tenure Track) - Theatre: Technical/Sound Design (25-26)](https://jobright.ai/jobs/info/677322bc63be56730f283727?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 30 |
 | **[Emerson Health](https://www.emersonhospital.org/)** | **[Undergraduate Intern](https://jobright.ai/jobs/info/677322bc63be56730f28377e?utm_campaign=1057&utm_source=git)** | Concord, MA | On Site | Dec 30 |
@@ -85,15 +89,14 @@ For a complete list, click the following sortable link below:
 | **[Instructional ABA Consultants](https://www.iabaconsultants.com)** | **[Undergraduate Psychology/Other Paid Internship](https://jobright.ai/jobs/info/67729911faa4e3d76fb6efe5?utm_campaign=1057&utm_source=git)** | Naperville, IL | On Site | Dec 30 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-LPN I](https://jobright.ai/jobs/info/67727f543138b22384a62d4a?utm_campaign=1057&utm_source=git)** | Columbus, MS | On Site | Dec 30 |
 | **[MKS Instruments](http://www.mksinst.com)** | **[2025 Summer Employee Engagement Undergraduate Intern/ Co-op Program](https://jobright.ai/jobs/info/6772834b616cbcf9782c9af6?utm_campaign=1057&utm_source=git)** | Andover, MA | Hybrid | Dec 30 |
+| **[FHI 360](http://www.fhi360.org)** | **[Converse Positive Youth Engagement Fellow](https://jobright.ai/jobs/info/676338b0eafdbe093ea0c2e7?utm_campaign=1057&utm_source=git)** | United States | Remote | Dec 30 |
 | **[Nebraska Department of Education](https://www.education.ne.gov)** | **[School Psychologist Intern - $2,000 Hiring Bonus](https://jobright.ai/jobs/info/67726bd1b2547ea5d5329ec6?utm_campaign=1057&utm_source=git)** | Scottsbluff, NE | On Site | Dec 30 |
-| **[Year Up United](http://yearup.org)** | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/67725e7437ecc36ed08465d7?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 30 |
-| **[Davenport University](http://www.davenport.edu/)** | **[(Student) Financial Aid Assistant](https://jobright.ai/jobs/info/6772656cac32819e4e95f286?utm_campaign=1057&utm_source=git)** | Grand Rapids, MI | On Site | Dec 29 |
 | **[DePaul University](http://www.depaul.edu)** | **[Assistant Professor (Tenure Track) - Theatre: Technical/Sound Design (25-26)](https://jobright.ai/jobs/info/67725bdab34c14f82cc4e44f?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 29 |
 | **[NEOGOV](http://www.neogov.com)** | **[Senior Recreation Center Intern](https://jobright.ai/jobs/info/677240aa00e776c1b7286c64?utm_campaign=1057&utm_source=git)** | Urbandale, IA | On Site | Dec 29 |
-| **[Walden University](http://www.waldenu.edu/)** | **[Clinical Internship (Adolescent/Family)](https://jobright.ai/jobs/info/6772467aae51f14e56a209c7?utm_campaign=1057&utm_source=git)** | Dedham, MA | On Site | Dec 29 |
-| ↳ | **[Walden - Clinical Internship](https://jobright.ai/jobs/info/6772384c6da3aa7925050a71?utm_campaign=1057&utm_source=git)** | Westborough, MA | On Site | Dec 29 |
-| ↳ | **[Walden - Clinical Internship](https://jobright.ai/jobs/info/6772384c6da3aa7925050a21?utm_campaign=1057&utm_source=git)** | Waltham, MA | On Site | Dec 29 |
-| ↳ | **[Clinical Internship (Adult)](https://jobright.ai/jobs/info/6772384c6da3aa7925050a72?utm_campaign=1057&utm_source=git)** | Dedham, MA | On Site | Dec 29 |
+| **[Walden University](http://www.waldenu.edu/)** | **[Walden - Clinical Internship](https://jobright.ai/jobs/info/6772467aae51f14e56a209c5?utm_campaign=1057&utm_source=git)** | Waltham, MA | On Site | Dec 29 |
+| ↳ | **[Clinical Internship (Adolescent/Family)](https://jobright.ai/jobs/info/6772467aae51f14e56a209c7?utm_campaign=1057&utm_source=git)** | Dedham, MA | On Site | Dec 29 |
+| ↳ | **[Walden - Clinical Internship](https://jobright.ai/jobs/info/6772384c6da3aa7925050a2b?utm_campaign=1057&utm_source=git)** | Westborough, MA | On Site | Dec 29 |
+| ↳ | **[Clinical Internship (Adult)](https://jobright.ai/jobs/info/6772384c6da3aa7925050a2f?utm_campaign=1057&utm_source=git)** | Dedham, MA | On Site | Dec 29 |
 | **[Advanced Behavioral Health, Inc.](https://www.abhcal.com/)** | **[Therapist - Paid Clinical Internship](https://jobright.ai/jobs/info/6772196fc2f793d1f0b2543c?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Dec 29 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[Personal Risk Services, Underwriting Internship - Summer 2025](https://jobright.ai/jobs/info/677201a47f9fa3b2fc3a77d3?utm_campaign=1057&utm_source=git)** | Whitehouse Station, NJ, United States | On Site | Dec 29 |
 | **[Rawlings Sporting Goods](https://www.rawlings.com/)** | **[2025 Summer Internship- Information Technology](https://jobright.ai/jobs/info/67732866ca0a140535d14123?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Dec 29 |
@@ -140,9 +143,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern 2025, University Relations](https://jobright.ai/jobs/info/676ee5f001ff4debed37b485?utm_campaign=1057&utm_source=git)** | Cambridge, MA | On Site | Dec 27 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2025 - Health Sciences Intern - Gannon University Graduate Internship](https://jobright.ai/jobs/info/676ee5f001ff4debed37b48b?utm_campaign=1057&utm_source=git)** | Erie PA, 16502, 232 West 25th St | On Site | Dec 27 |
 | **[Delaware North](http://www.delawarenorth.com/)** | **[Internship for 2025 Baseball Season at Progressive Field](https://jobright.ai/jobs/info/676f36bdc1add4d71c195ee4?utm_campaign=1057&utm_source=git)** | Cleveland, OH | Hybrid | Dec 27 |
-| **[Zoetis](https://www.zoetis.com)** | **[Operational Excellence and Training Team Intern](https://jobright.ai/jobs/info/676ee03eb488eeb12f371d2c?utm_campaign=1057&utm_source=git)** | Kalamazoo - Kilgore Road | On Site | Dec 27 |
-| ↳ | **[Operational Excellence and Training Team Intern](https://jobright.ai/jobs/info/676ee03eb488eeb12f371d28?utm_campaign=1057&utm_source=git)** | Kalamazoo - Kilgore Road | On Site | Dec 27 |
-| **[FHI 360](http://www.fhi360.org)** | **[Converse Positive Youth Engagement Fellow](https://jobright.ai/jobs/info/676338b0eafdbe093ea0c2e7?utm_campaign=1057&utm_source=git)** | United States | Remote | Dec 27 |
+| **[Zoetis](https://www.zoetis.com)** | **[Operational Excellence and Training Team Intern](https://jobright.ai/jobs/info/676ee03eb488eeb12f371d28?utm_campaign=1057&utm_source=git)** | Kalamazoo - Kilgore Road | On Site | Dec 27 |
+| ↳ | **[Operational Excellence and Training Team Intern](https://jobright.ai/jobs/info/676ee03eb488eeb12f371d2c?utm_campaign=1057&utm_source=git)** | Kalamazoo - Kilgore Road | On Site | Dec 27 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Commercial Instructional Designer Intern](https://jobright.ai/jobs/info/676ebec37729fc45b6c5f10e?utm_campaign=1057&utm_source=git)** | Hennepin County, MN | On Site | Dec 27 |
 | **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/676ebd13f42be943d9084a4b?utm_campaign=1057&utm_source=git)** | Erie, PA | On Site | Dec 27 |
 | **[Draper](https://www.draper.com)** | **[Draper Scholar](https://jobright.ai/jobs/info/676e928ff98c8fa81d56383c?utm_campaign=1057&utm_source=git)** | Draper, UT | On Site | Dec 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[CTD Temporary Summer Front of House (FOH)](https://jobright.ai/jobs/info/676e6b4e6bb0d426b1db6a0b?utm_campaign=1057&utm_source=git)** | Evanston, IL | Hybrid | Dec 26 |
 | **[Christina School District](https://www.christinak12.org/)** | **[School Psychologist Intern #29835](https://jobright.ai/jobs/info/676e6b4e6bb0d426b1db6ab3?utm_campaign=1057&utm_source=git)** | Newark, DE | On Site | Dec 26 |
 | **[Youth Villages](http://www.youthvillages.org)** | **[Summer 2025 Paid Internship](https://jobright.ai/jobs/info/676e62cd1f8bd068fb76520e?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Dec 26 |
-| ↳ | **[Summer 2025 Paid Internship](https://jobright.ai/jobs/info/676e5c46ac3f86c2da837aa5?utm_campaign=1057&utm_source=git)** | Memphis, TN | On Site | Dec 26 |
-| **[Peraton](https://www.peraton.com/)** | **[SkillBridge Intern SITEC 3 (Pacific)](https://jobright.ai/jobs/info/676e33bc2361a1d31e1ec22a?utm_campaign=1057&utm_source=git)** | Smith, IN | Hybrid | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
