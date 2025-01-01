@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Resource Float Pool](https://jobright.ai/jobs/info/6775058fc1e91b2423613ec0?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Dec 31 |
+| **[Trivium Life Services](https://www.triviumlifeservices.org)** | **[Practicum Intern](https://jobright.ai/jobs/info/6775438841580597eeeaa202?utm_campaign=1057&utm_source=git)** | Boise, ID | On Site | Jan 01 |
+| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[New Jersey Summer Intern](https://jobright.ai/jobs/info/675a728a8300ecc406662210?utm_campaign=1057&utm_source=git)** | East Rutherford, NJ | On Site | Jan 01 |
+| **[DePaul University](http://www.depaul.edu)** | **[Assistant Professor (Tenure Track) - Theatre: Technical/Sound Design (25-26)](https://jobright.ai/jobs/info/67752cea248b5fcad08c0750?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jan 01 |
+| **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Medical Unit](https://jobright.ai/jobs/info/67753daa51d8725f2c719ec1?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Dec 31 |
+| ↳ | **[RN New Graduate Internship Program - Women's and Children's Unit](https://jobright.ai/jobs/info/67753daa51d8725f2c719e90?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Dec 31 |
+| ↳ | **[RN New Graduate Internship Program - Resource Float Pool](https://jobright.ai/jobs/info/6775058fc1e91b2423613ec0?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Dec 31 |
 | **[NEOGOV](http://www.neogov.com)** | **[2025 Summer Internship](https://jobright.ai/jobs/info/6774d5d6780b2e659701256c?utm_campaign=1057&utm_source=git)** | State Wide, GA | On Site | Dec 31 |
 | **[MaineHealth](https://mainehealth.org/)** | **[Intern- Vocational Services](https://jobright.ai/jobs/info/6774e5c0830c36943c42e8d3?utm_campaign=1057&utm_source=git)** | Portland, ME | On Site | Dec 31 |
 | ↳ | **[Intern - Research Training and Education](https://jobright.ai/jobs/info/6774f7dbc6123312dd7e777a?utm_campaign=1057&utm_source=git)** | Scarborough, ME | On Site | Dec 31 |
@@ -65,7 +70,7 @@ For a complete list, click the following sortable link below:
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Student Internship Trimmer Trainee / N Austin, TX](https://jobright.ai/jobs/info/6774cd8ddeec332fb821d236?utm_campaign=1057&utm_source=git)** | Leander, TX | On Site | Dec 31 |
 | ↳ | **[Student Internship Trimmer Trainee / S Houston, TX](https://jobright.ai/jobs/info/6774cd8ddeec332fb821d220?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Dec 31 |
 | ↳ | **[Student Internship Trimmer Trainee / E San Antonio, TX](https://jobright.ai/jobs/info/6774cd8ddeec332fb821d25c?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Dec 31 |
-| **[American Addiction Centers](https://americanaddictioncenters.org/)** | **[Counselor Intern](https://jobright.ai/jobs/info/6774ac6167a3571bdcd118bc?utm_campaign=1057&utm_source=git)** | Etta, MS | On Site | Dec 31 |
+| **[American Addiction Centers](https://americanaddictioncenters.org/)** | **[Counselor Intern](https://jobright.ai/jobs/info/6774ac6167a3571bdcd118bd?utm_campaign=1057&utm_source=git)** | Etta, MS | On Site | Dec 31 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Student Internship Trimmer Trainee / Dallas, TX / Richardson](https://jobright.ai/jobs/info/6774a859ba023047c842d09d?utm_campaign=1057&utm_source=git)** | Richardson, TX | On Site | Dec 31 |
 | ↳ | **[Student Internship Trimmer Trainee / S Denver, CO](https://jobright.ai/jobs/info/6774a859ba023047c842d0b7?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | Dec 31 |
 | ↳ | **[Student Internship Trimmer Trainee / SE Denver, CO](https://jobright.ai/jobs/info/6774a859ba023047c842d11a?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Dec 31 |
@@ -73,7 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Aristotle](https://aristotlecap.com)** | **[2025 Undergraduate Summer Internship](https://jobright.ai/jobs/info/6774a0eee061f855b0445c38?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 31 |
 | **[Truist](https://www.truist.com)** | **[2025 Credit Summer Internship](https://jobright.ai/jobs/info/67748390066c140d0be05101?utm_campaign=1057&utm_source=git)** | Orlando, FL | Hybrid | Dec 31 |
 | **[The Baldwin Group](https://baldwin.com/)** | **[Summer Insurance Advisory Services Intern](https://jobright.ai/jobs/info/677501746447c986a04e81d9?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Dec 31 |
-| **[Dallas Fort Worth International Airport (DFW)](http://www.dfwairport.com)** | **[2025 Summer Internship - Fire Protection](https://jobright.ai/jobs/info/67750052a5b519cef8e6b3e4?utm_campaign=1057&utm_source=git)** | DFW Metroplex | On Site | Dec 31 |
+| **[Dallas Fort Worth International Airport (DFW)](http://www.dfwairport.com)** | **[2025 Summer Internship - Public Safety Research & Analytics](https://jobright.ai/jobs/info/67753905c7b5485885dc1330?utm_campaign=1057&utm_source=git)** | DFW Metroplex | On Site | Dec 31 |
+| ↳ | **[2025 Summer Internship - Fire Protection](https://jobright.ai/jobs/info/67750052a5b519cef8e6b3e4?utm_campaign=1057&utm_source=git)** | DFW Metroplex | On Site | Dec 31 |
 | ↳ | **[2025 Summer Internship - IT Technology Security](https://jobright.ai/jobs/info/6774c3804a2b747bd700c2fd?utm_campaign=1057&utm_source=git)** | DFW Metroplex | On Site | Dec 31 |
 | **[CoralTree Hospitality](https://www.coraltreehospitality.com/)** | **[Temporary Intern](https://jobright.ai/jobs/info/67746924b3dc6b188a8637bd?utm_campaign=1057&utm_source=git)** | Vail, CO | On Site | Dec 31 |
 | **[Centene Corporation](http://www.centene.com)** | **[Clinical Implementation Pharmacy Intern (Graduate - Summer 2025)](https://jobright.ai/jobs/info/67749ed56658b85a073bb1f8?utm_campaign=1057&utm_source=git)** | California, United States | On Site | Dec 31 |
@@ -86,6 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Nemacolin](http://www.nemacolin.com)** | **[Kids Club Internship](https://jobright.ai/jobs/info/67748390066c140d0be0504b?utm_campaign=1057&utm_source=git)** | Farmington, PA | On Site | Dec 31 |
 | **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/67749e2274179c0236b3613c?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Dec 31 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Associate Degree Apprenticeship Program - RCIS Claims - Georgia (Summer 2025)](https://jobright.ai/jobs/info/66d0e27a1337b911efaee0e7?utm_campaign=1057&utm_source=git)** | Georgia, United States | Hybrid | Dec 31 |
+| ↳ | **[Associate Degree Apprenticeship Program - Recovery Claims - Schaumburg, IL (Summer 2025)](https://jobright.ai/jobs/info/66c3e8a8c8b7e5901021f681?utm_campaign=1057&utm_source=git)** | Schaumburg, IL | Hybrid | Dec 31 |
+| ↳ | **[Associate Degree Apprenticeship Program - RCIS Underwriting (Summer 2025)](https://jobright.ai/jobs/info/66c3e8a8c8b7e5901021f66c?utm_campaign=1057&utm_source=git)** | Winston-Salem, NC | Hybrid | Dec 31 |
 | **[Cintas](https://www.cintas.com)** | **[Intern - First Aid & Safety](https://jobright.ai/jobs/info/6774ac6167a3571bdcd1189a?utm_campaign=1057&utm_source=git)** | Dayton, OH | On Site | Dec 31 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Associate Degree Apprenticeship Program - RCIS Claims - Montana (Summer 2025)](https://jobright.ai/jobs/info/66d9d3082dee75ed9b5f3420?utm_campaign=1057&utm_source=git)** | Montana, United States | On Site | Dec 31 |
 | **[ASEC](https://www.asec-incorporated.com/)** | **[SkillBridge Internship, ELINT Training](https://jobright.ai/jobs/info/6774ed0c95db754b27bf8937?utm_campaign=1057&utm_source=git)** | Oak Harbor, WA | On Site | Dec 31 |
@@ -94,7 +102,8 @@ For a complete list, click the following sortable link below:
 | **[ASEC](https://www.asec-incorporated.com/)** | **[SkillBridge Internship, ELINT Training](https://jobright.ai/jobs/info/6774c20803f9543b6077032c?utm_campaign=1057&utm_source=git)** | Oak Harbor, WA, USA | On Site | Dec 31 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern/Tech - Pediatrics](https://jobright.ai/jobs/info/67746924b3dc6b188a863803?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Dec 31 |
 | **[CHI](https://www.catholichealthinitiatives.org/)** | **[Nursing Internship Behavioral Health](https://jobright.ai/jobs/info/677466e32383ba2dda3cde69?utm_campaign=1057&utm_source=git)** | Bismarck, ND | On Site | Dec 31 |
-| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Division of Behavioral Health Training (Spring)](https://jobright.ai/jobs/info/67747e0a95d0146613ffa879?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD | On Site | Dec 31 |
+| **[Capital Health (US)](http://www.capitalhealth.org)** | **[EMT Intern - EMT Training - FT - Day - HPW](https://jobright.ai/jobs/info/6775105a99f33e64071e2c31?utm_campaign=1057&utm_source=git)** | Hopewell, NJ | On Site | Dec 31 |
+| **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Division of Behavioral Health Training (Spring)](https://jobright.ai/jobs/info/67747e0a95d0146613ffa879?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD | On Site | Dec 31 |
 | **[Capital Health (US)](http://www.capitalhealth.org)** | **[EMT Intern - EMT Training - FT - Day - HPW](https://jobright.ai/jobs/info/677423a9fbabcda10682076c?utm_campaign=1057&utm_source=git)** | Hopewell | On Site | Dec 31 |
 | **[Association of Equipment Manufacturers (AEM)](http://aem.org)** | **[Tradeshow Education Intern](https://jobright.ai/jobs/info/67742091246ef09888de4217?utm_campaign=1057&utm_source=git)** | West Allis, WI | On Site | Dec 31 |
 | **[UT Health East Texas](https://uthealtheasttexas.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/677452fb77e280b0d340a532?utm_campaign=1057&utm_source=git)** | Tyler, TX | On Site | Dec 31 |
@@ -129,7 +138,7 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2025 MBA Intern - Adobe Genuine GTM](https://jobright.ai/jobs/info/673fed667f12c144118e3958?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Dec 30 |
 | **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/67731a8f709a841ecff6045b?utm_campaign=1057&utm_source=git)** | Minneapolis–Saint Paul, WI | On Site | Dec 30 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/67731a8f709a841ecff6042f?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Dec 30 |
-| **[Emerson Health](https://www.emersonhospital.org/)** | **[Undergraduate Intern](https://jobright.ai/jobs/info/677322bc63be56730f28377e?utm_campaign=1057&utm_source=git)** | Concord, MA | On Site | Dec 30 |
+| **[Emerson Health](https://www.emersonhospital.org/)** | **[Undergraduate Intern](https://jobright.ai/jobs/info/677322bc63be56730f283781?utm_campaign=1057&utm_source=git)** | Concord, MA | On Site | Dec 30 |
 | **[Adobe](http://www.adobe.com)** | **[2025 MBA Intern - Adobe Genuine GTM](https://jobright.ai/jobs/info/6740050222e7eebe1ee6bbf3?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Dec 30 |
 | **[AWP Safety](http://www.awpsafety.com)** | **[Summer Internship - Data Analytics ](https://jobright.ai/jobs/info/6772ec2ef67e4edbb8d6e8ff?utm_campaign=1057&utm_source=git)** | North Canton, OH, USA | On Site | Dec 30 |
 | ↳ | **[Summer Internship - Billing](https://jobright.ai/jobs/info/6772ec2ef67e4edbb8d6e901?utm_campaign=1057&utm_source=git)** | North Canton, OH, USA | On Site | Dec 30 |
@@ -137,8 +146,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Internship - Billing](https://jobright.ai/jobs/info/6772f5ea2dae3bfa32cf31b1?utm_campaign=1057&utm_source=git)** | North Canton, OH | On Site | Dec 30 |
 | **[Tempus AI](https://www.tempus.com)** | **[Translational Research Summer Associate](https://jobright.ai/jobs/info/6772e7db1a66497d400d2295?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 30 |
 | **[Wells Enterprises](http://www.wellsenterprisesinc.com)** | **[Internship - Shared Services - Summer 2025](https://jobright.ai/jobs/info/6772e50f251045c740751859?utm_campaign=1057&utm_source=git)** | 1 Blue Bunny Drive, Le Mars, IA, 51031, US | On Site | Dec 30 |
-| **[(USTA) United States Tennis Association](https://www.usta.com/en/home.html)** | **[Undergraduate Intern Summer 2025 - Pro Circuit](https://jobright.ai/jobs/info/676a4cd2f49b97f5793b3344?utm_campaign=1057&utm_source=git)** | Orlando, FL | Hybrid | Dec 30 |
-| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Masters for Mental Health Therapy (Spring)](https://jobright.ai/jobs/info/6772dd917ab2fe96e52b670f?utm_campaign=1057&utm_source=git)** | Yankton, SD | On Site | Dec 30 |
+| **[(USTA) United States Tennis Association](http://www.usta.com)** | **[Undergraduate Intern Summer 2025 - Pro Circuit](https://jobright.ai/jobs/info/676a4cd2f49b97f5793b3344?utm_campaign=1057&utm_source=git)** | Orlando, FL | Hybrid | Dec 30 |
+| **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Masters for Mental Health Therapy (Spring)](https://jobright.ai/jobs/info/6772dd917ab2fe96e52b670f?utm_campaign=1057&utm_source=git)** | Yankton, SD | On Site | Dec 30 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Atlanta Summer Internship](https://jobright.ai/jobs/info/6772d3cede0fc00a320f0709?utm_campaign=1057&utm_source=git)** | Atlanta, Georgia, USA | On Site | Dec 30 |
 | ↳ | **[Atlanta Summer Internship](https://jobright.ai/jobs/info/6772ed8c4538fe6a94783cb7?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Dec 30 |
 | **[Bridgewater State University](http://www.bridgew.edu/)** | **[Spring 2025 Graduate Assistant - Teaching & Technology Center](https://jobright.ai/jobs/info/6772cd2af359788dba833c07?utm_campaign=1057&utm_source=git)** | Bridgewater, MA | On Site | Dec 30 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-LPN I](https://jobright.ai/jobs/info/67727f543138b22384a62d4a?utm_campaign=1057&utm_source=git)** | Columbus, MS | On Site | Dec 30 |
 | **[MKS Instruments](http://www.mksinst.com)** | **[2025 Summer Employee Engagement Undergraduate Intern/ Co-op Program](https://jobright.ai/jobs/info/6772834b616cbcf9782c9af6?utm_campaign=1057&utm_source=git)** | Andover, MA | Hybrid | Dec 30 |
 | **[FHI 360](http://www.fhi360.org)** | **[Converse Positive Youth Engagement Fellow](https://jobright.ai/jobs/info/676338b0eafdbe093ea0c2e7?utm_campaign=1057&utm_source=git)** | United States | Remote | Dec 30 |
-| **[Nebraska Department of Education](https://www.education.ne.gov)** | **[School Psychologist Intern - $2,000 Hiring Bonus](https://jobright.ai/jobs/info/67726bd1b2547ea5d5329ec6?utm_campaign=1057&utm_source=git)** | Scottsbluff, NE | On Site | Dec 30 |
-| **[Instructional ABA Consultants](https://www.iabaconsultants.com)** | **[Undergraduate Psychology/Other Paid Internship](https://jobright.ai/jobs/info/67750503ebdc0b199ebbbc85?utm_campaign=1057&utm_source=git)** | Naperville, IL | On Site | Dec 30 |
-| **[DePaul University](http://www.depaul.edu)** | **[Assistant Professor (Tenure Track) - Theatre: Technical/Sound Design (25-26)](https://jobright.ai/jobs/info/67725bdab34c14f82cc4e44f?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 29 |
-| **[NEOGOV](http://www.neogov.com)** | **[Senior Recreation Center Intern](https://jobright.ai/jobs/info/677240aa00e776c1b7286c64?utm_campaign=1057&utm_source=git)** | Urbandale, IA | On Site | Dec 29 |
-| **[Walden University](http://www.waldenu.edu/)** | **[Clinical Internship (Adolescent/Family)](https://jobright.ai/jobs/info/6772384c6da3aa7925050a2a?utm_campaign=1057&utm_source=git)** | Dedham, MA | On Site | Dec 29 |
-| ↳ | **[Walden - Clinical Internship](https://jobright.ai/jobs/info/6772384c6da3aa7925050a71?utm_campaign=1057&utm_source=git)** | Westborough, MA | On Site | Dec 29 |
-| ↳ | **[Walden - Clinical Internship](https://jobright.ai/jobs/info/6772384c6da3aa7925050a21?utm_campaign=1057&utm_source=git)** | Waltham, MA | On Site | Dec 29 |
-| ↳ | **[Clinical Internship (Adult)](https://jobright.ai/jobs/info/6772384c6da3aa7925050a72?utm_campaign=1057&utm_source=git)** | Dedham, MA | On Site | Dec 29 |
-| **[Advanced Behavioral Health, Inc.](https://www.abhcal.com/)** | **[Therapist - Paid Clinical Internship](https://jobright.ai/jobs/info/6772196fc2f793d1f0b2543c?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
