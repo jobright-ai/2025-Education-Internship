@@ -91,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[DePaul University](http://www.depaul.edu)** | **[Assistant Professor (Tenure Track) - Theatre: Technical/Sound Design (25-26)](https://jobright.ai/jobs/info/677902690f9d35fc9785e55d?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jan 04 |
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[Graduate Administrative Assistant - Career Technical Education & Professional Studies (Spring 2025)](https://jobright.ai/jobs/info/67790a9bf312a3ea3e4f916a?utm_campaign=1057&utm_source=git)** | Jacksonville, AL | On Site | Jan 04 |
 | **[Volkert, Inc.](https://volkert.com/)** | **[Volkert Internship Program](https://jobright.ai/jobs/info/6778f4528d060ff8ccb91cb4?utm_campaign=1057&utm_source=git)** | Maitland, FL | On Site | Jan 03 |
-| ↳ | **[Volkert Internship Program](https://jobright.ai/jobs/info/6778f35f84221478d54051b3?utm_campaign=1057&utm_source=git)** | McKinney, TX | On Site | Jan 03 |
 | **[Art of Problem Solving](https://artofproblemsolving.com/)** | **[Math Curriculum Intern - Summer 2025](https://jobright.ai/jobs/info/6778f35f84221478d54050ef?utm_campaign=1057&utm_source=git)** | San Diego, CA | Hybrid | Jan 03 |
 | **[United Veterinary Care](https://unitedveterinarycare.com/)** | **[Rotating Veterinary Internship](https://jobright.ai/jobs/info/6778e3bb2270fb394ccb480f?utm_campaign=1057&utm_source=git)** | East Greenwich, RI | On Site | Jan 03 |
 | **[Bridgewater Bank](https://www.bridgewaterbankmn.com/)** | **[L&D Intern](https://jobright.ai/jobs/info/6778c7a421d75a60ba176df4?utm_campaign=1057&utm_source=git)** | St Louis Park, MN | On Site | Jan 03 |
@@ -99,21 +98,21 @@ For a complete list, click the following sortable link below:
 | **[Baylor Scott & White Health](https://www.bswhealth.com/)** | **[Phlebotomy Training Program Student NTX](https://jobright.ai/jobs/info/6778aa384292c64f91397d0c?utm_campaign=1057&utm_source=git)** | Dallas, TX | Hybrid | Jan 03 |
 | **[Volkert, Inc.](https://volkert.com/)** | **[Volkert Internship Program](https://jobright.ai/jobs/info/6779950e88cd6beaf54b63a6?utm_campaign=1057&utm_source=git)** | New Orleans, LA | On Site | Jan 03 |
 | **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Summer 2025 High School Internship Program](https://jobright.ai/jobs/info/6778a70a1348604ae24f47c3?utm_campaign=1057&utm_source=git)** | Los Alamos, NM | On Site | Jan 03 |
-| **[Volkert, Inc.](https://volkert.com/)** | **[Volkert Internship Program](https://jobright.ai/jobs/info/6778b498c2e5c24b56aa455c?utm_campaign=1057&utm_source=git)** | Cottonwood Heights, UT | On Site | Jan 03 |
-| ↳ | **[Volkert Internship Program](https://jobright.ai/jobs/info/6778b498c2e5c24b56aa455b?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Jan 03 |
+| **[Volkert, Inc.](https://volkert.com/)** | **[Volkert Internship Program](https://jobright.ai/jobs/info/6778b498c2e5c24b56aa455b?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Jan 03 |
+| ↳ | **[Volkert Internship Program](https://jobright.ai/jobs/info/6778b498c2e5c24b56aa455c?utm_campaign=1057&utm_source=git)** | Cottonwood Heights, UT | On Site | Jan 03 |
 | ↳ | **[Volkert Internship Program](https://jobright.ai/jobs/info/6778b498c2e5c24b56aa455d?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Jan 03 |
 | ↳ | **[Volkert Internship Program](https://jobright.ai/jobs/info/6778b498c2e5c24b56aa455e?utm_campaign=1057&utm_source=git)** | Monroe, LA | On Site | Jan 03 |
 | ↳ | **[Volkert Internship Program](https://jobright.ai/jobs/info/6778c9b6d78b35a0be7137b9?utm_campaign=1057&utm_source=git)** | Huntsville, AL | On Site | Jan 03 |
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2025 Internship - Los Angeles - Non-Profit Finance](https://jobright.ai/jobs/info/67789ad6997f079b841d1fb2?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jan 03 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Summer 2025] Education - Community Programs and Partnerships Internship](https://jobright.ai/jobs/info/6778a265bcaf60756af28ffc?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 03 |
-| ↳ | **[[Summer 2025] Research Resources - Library Internship](https://jobright.ai/jobs/info/6778a265bcaf60756af28fd0?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 03 |
 | ↳ | **[[Summer 2025] Education - Family Programs Internship](https://jobright.ai/jobs/info/6778a265bcaf60756af29087?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 03 |
 | ↳ | **[[Summer 2025] Education - Youth Learning Internship](https://jobright.ai/jobs/info/6778a265bcaf60756af28ffa?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 03 |
 | ↳ | **[[Summer 2025] Education - Interpretation and Teaching Strategies Internship](https://jobright.ai/jobs/info/6778a265bcaf60756af28fff?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 03 |
+| ↳ | **[[Summer 2025] Research Resources - Library Internship](https://jobright.ai/jobs/info/6778a265bcaf60756af28fd0?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 03 |
 | ↳ | **[[Summer 2025] Education - Spanish Initiatives Intern](https://jobright.ai/jobs/info/6778a265bcaf60756af28fcf?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 03 |
 | ↳ | **[[Summer 2025] Education - Public Programs Internship](https://jobright.ai/jobs/info/6778a265bcaf60756af2901d?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 03 |
-| **[Three Rivers Behavioral Health](https://threeriversbehavioral.org/)** | **[MSW INTERN](https://jobright.ai/jobs/info/67788d9ead060d4fa7bbd785?utm_campaign=1057&utm_source=git)** | West Columbia, SC | On Site | Jan 03 |
-| ↳ | **[OUTPATIENT COUNSELOR INTERNSHIP/PRACTICUM](https://jobright.ai/jobs/info/67788d9ead060d4fa7bbd789?utm_campaign=1057&utm_source=git)** | West Columbia, SC | On Site | Jan 03 |
+| **[Three Rivers Behavioral Health](https://threeriversbehavioral.org/)** | **[OUTPATIENT COUNSELOR INTERNSHIP/PRACTICUM](https://jobright.ai/jobs/info/67788d9ead060d4fa7bbd789?utm_campaign=1057&utm_source=git)** | West Columbia, SC | On Site | Jan 03 |
+| ↳ | **[MSW INTERN](https://jobright.ai/jobs/info/67788d9ead060d4fa7bbd785?utm_campaign=1057&utm_source=git)** | West Columbia, SC | On Site | Jan 03 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Information Experience Intern](https://jobright.ai/jobs/info/67787e4816cbfcaab793271a?utm_campaign=1057&utm_source=git)** | US - OR, Lake Oswego | On Site | Jan 03 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2025 Advancing Hispanics & Latinos Fellowship Program - International Private Bank LatAm Track](https://jobright.ai/jobs/info/6767d75e96030d1782168680?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 03 |
 | **[Peraton](https://www.peraton.com/)** | **[SkillBridge Intern 2025 (Peraton Wide)](https://jobright.ai/jobs/info/67788d9ead060d4fa7bbd666?utm_campaign=1057&utm_source=git)** | Reston, VA | Hybrid | Jan 03 |
@@ -128,7 +127,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 Summer Internship](https://jobright.ai/jobs/info/67787f2ff890158c9c126a79?utm_campaign=1057&utm_source=git)** | Basalt, CO | On Site | Jan 03 |
 | ↳ | **[2025 Summer Internship](https://jobright.ai/jobs/info/67787f2ff890158c9c126a7a?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jan 03 |
 | ↳ | **[2025 Summer Internship](https://jobright.ai/jobs/info/67787f2ff890158c9c126a7b?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jan 03 |
-| **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Women's and Children's Unit](https://jobright.ai/jobs/info/67786f7caf6aa27a2ddbc53b?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Jan 03 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Spring unpaid Internship](https://jobright.ai/jobs/info/677876c2c270cafe1987bc5d?utm_campaign=1057&utm_source=git)** | Wilkes-Barre, PA | On Site | Jan 03 |
 | **[Entegris](http://www.entegris.com)** | **[Training Specialist Intern](https://jobright.ai/jobs/info/675a46abb611feb9552fb4eb?utm_campaign=1057&utm_source=git)** | Colorado Springs, CO | On Site | Jan 03 |
 | **[Nexus Family Healing](https://www.nexusfamilyhealing.org)** | **[Clinical Internship](https://jobright.ai/jobs/info/6778790a3435dca8bb3d3d61?utm_campaign=1057&utm_source=git)** | Austin, MN | On Site | Jan 03 |
@@ -140,7 +138,7 @@ For a complete list, click the following sortable link below:
 | **[Kamehameha Schools](http://www.ksbe.edu/)** | **[Strength & Conditioning Intern](https://jobright.ai/jobs/info/6778532731b40106baeb52fc?utm_campaign=1057&utm_source=git)** | Honolulu, HI | On Site | Jan 03 |
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Resource Float Pool](https://jobright.ai/jobs/info/67786f7caf6aa27a2ddbc55d?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Jan 03 |
 | **[TIH](https://www.truistinsurance.com/)** | **[Intern - CRC](https://jobright.ai/jobs/info/677859615a65b447a2306d0f?utm_campaign=1057&utm_source=git)** | Metairie, LA | On Site | Jan 03 |
-| ↳ | **[Intern - CRC](https://jobright.ai/jobs/info/677859615a65b447a2306d11?utm_campaign=1057&utm_source=git)** | Franklin, TN | On Site | Jan 03 |
+| ↳ | **[Intern - CRC](https://jobright.ai/jobs/info/677859615a65b447a2306d10?utm_campaign=1057&utm_source=git)** | Franklin, TN | On Site | Jan 03 |
 | **[Washburn Center For Children](https://washburn.org)** | **[Summer Internship Opportunity:  Therapeutic Groups](https://jobright.ai/jobs/info/67786f7caf6aa27a2ddbc438?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Jan 03 |
 | **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Registered Intern Therapists RMHCI, RLMFT or RCSWI](https://jobright.ai/jobs/info/67785fc653f09f3b3120726a?utm_campaign=1057&utm_source=git)** | Hollywood, FL | On Site | Jan 03 |
 | **[Texas A&M University](http://www.tamu.edu/)** | **[Academic Professional Track (Non-Tenure): Open Rank-Clinical-Internal Medicine](https://jobright.ai/jobs/info/66cc5cbdd9249734a6add0ab?utm_campaign=1057&utm_source=git)** | San Angelo, TX | On Site | Jan 03 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Office of Academic Affairs Internship](https://jobright.ai/jobs/info/67784b9c2d36e7463a066ab6?utm_campaign=1057&utm_source=git)** | 1111 Marcus Ave, Lake Success, NY, 11042, US | On Site | Jan 03 |
 | **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/66ea032d32f9e647a52ad2c3?utm_campaign=1057&utm_source=git)** | Evansville, IN | On Site | Jan 03 |
 | **[DePaul University](http://www.depaul.edu)** | **[Assistant Professor (Tenure Track) - Theatre: Technical/Sound Design (25-26)](https://jobright.ai/jobs/info/677882351464a795e5d36ed0?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
+| **[HDR](http://www.hdrinc.com)** | **[University of Texas - Austin - 2025](https://jobright.ai/jobs/info/6778a265bcaf60756af29198?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Jan 03 |
+| **[Volkert, Inc.](https://volkert.com/)** | **[Volkert Internship Program](https://jobright.ai/jobs/info/6778532731b40106baeb5382?utm_campaign=1057&utm_source=git)** | Collinsville, IL | On Site | Jan 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
