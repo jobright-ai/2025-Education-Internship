@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Precision University: Medical Writing Spring Internship](https://jobright.ai/jobs/info/677bbabbb26c10c2ba82c024?utm_campaign=1057&utm_source=git)** | New York, NY | Remote | Jan 06 |
+| **[Raymond James](http://www.raymondjames.com)** | **[2025 Summer Internship Program - SumRidge - Information Technology (Jersey City, NJ)](https://jobright.ai/jobs/info/677bad721b7154957f7b1730?utm_campaign=1057&utm_source=git)** | Newark, NJ | Hybrid | Jan 06 |
+| ↳ | **[2025 Summer Internship Program - Information Technology (St. Petersburg, FL)](https://jobright.ai/jobs/info/677bad721b7154957f7b1734?utm_campaign=1057&utm_source=git)** | St Petersburg, FL | Hybrid | Jan 06 |
 | **[Kansas City National Security Campus](https://kcnsc.doe.gov/)** | **[Student Business Intern Summer 2025](https://jobright.ai/jobs/info/677b97c2d1752494eb483740?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | Jan 05 |
 | **[Honeywell](http://www.honeywell.com)** | **[Student Business Intern Summer 2025](https://jobright.ai/jobs/info/677b85486bd08f8dcc7db502?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | Jan 05 |
 | **[Raymond James](http://www.raymondjames.com)** | **[2025 Summer Internship Program - SumRidge - Information Technology (Jersey City, NJ)](https://jobright.ai/jobs/info/677b7d10fce50ca5855d1c2a?utm_campaign=1057&utm_source=git)** | US-NJ-Newark-Jersey City | On Site | Jan 05 |
@@ -69,12 +72,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[UREC Graduate Assistant - Operations &amp; Student Development](https://jobright.ai/jobs/info/677b883803cca0bf0bf5a9de?utm_campaign=1057&utm_source=git)** | Harrisonburg, VA | On Site | Jan 05 |
 | **[Elliott Davis](https://www.elliottdavis.com/)** | **[Summer 2026 EXPLORE Intern](https://jobright.ai/jobs/info/677b698a4d88a041f9e8a279?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Jan 05 |
 | ↳ | **[Summer 2026 EXPLORE Intern](https://jobright.ai/jobs/info/677b698a4d88a041f9e8a282?utm_campaign=1057&utm_source=git)** | Chattanooga, TN | On Site | Jan 05 |
+| ↳ | **[Summer 2026 EXPLORE Intern](https://jobright.ai/jobs/info/677b698a4d88a041f9e8a281?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Jan 05 |
 | ↳ | **[Summer 2026 EXPLORE Intern](https://jobright.ai/jobs/info/677b698a4d88a041f9e8a284?utm_campaign=1057&utm_source=git)** | Columbia, SC | On Site | Jan 05 |
 | ↳ | **[Summer 2026 EXPLORE Intern](https://jobright.ai/jobs/info/677b698a4d88a041f9e8a283?utm_campaign=1057&utm_source=git)** | Greenville, SC | On Site | Jan 05 |
-| ↳ | **[Summer 2026 EXPLORE Intern](https://jobright.ai/jobs/info/677b698a4d88a041f9e8a281?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Jan 05 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Summer Internship - International Business](https://jobright.ai/jobs/info/677b57172669866d03e62e16?utm_campaign=1057&utm_source=git)** | Hickory, NC | On Site | Jan 05 |
 | **[Merchants Distributors, LLC](https://www.mdi.com)** | **[Summer Internship - International Business](https://jobright.ai/jobs/info/677b40b136bea7cd1e6b8a93?utm_campaign=1057&utm_source=git)** | Hickory, NC | On Site | Jan 05 |
 | **[Amwins](http://www.amwins.com)** | **[Access Internship](https://jobright.ai/jobs/info/677b40005f8d853fc66f1afe?utm_campaign=1057&utm_source=git)** | Edison, NJ | On Site | Jan 05 |
+| **[Cook Inlet Tribal Council, Inc.](http://www.citci.org)** | **[Youth Employment Program Intern](https://jobright.ai/jobs/info/677bd70bbfc72d27e9e5157e?utm_campaign=1057&utm_source=git)** | Anchorage, AK | On Site | Jan 05 |
 | **[Emory University](http://www.emory.edu)** | **[UNDERGRADUATE INTERN (ETS) / 2025 Summer Internship Program](https://jobright.ai/jobs/info/677729a94556bf2234bc90fe?utm_campaign=1057&utm_source=git)** | Atlanta, GA | Hybrid | Jan 05 |
 | **[Education Through Music](https://etmonline.org)** | **[Music Teacher Intern](https://jobright.ai/jobs/info/677b0a5fc1d0f8494e481ed9?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 05 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Intern](https://jobright.ai/jobs/info/677b024a6812e653ea1e1f97?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jan 05 |
@@ -129,6 +133,7 @@ For a complete list, click the following sortable link below:
 | **[Yale New Haven Health](https://www.ynhhs.org/)** | **[Registered Nurse - Internal Medicine - NEMG; Registered Nurse](https://jobright.ai/jobs/info/67369d991e640ed21adb3fb2?utm_campaign=1057&utm_source=git)** | Cos Cob, CT | On Site | Jan 04 |
 | **[United Therapeutics Corporation](http://www.unither.com)** | **[Advanced Intern - Medical Engagement](https://jobright.ai/jobs/info/673ffb1e4c0b5a0b759e9b55?utm_campaign=1057&utm_source=git)** | Triangle Area | On Site | Jan 04 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nursing Intern Ortho Trauma](https://jobright.ai/jobs/info/67795b9aae2d5899e2c228d0?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Jan 04 |
+| **[Uline](http://www.uline.com)** | **[Instructional Design Internship - Summer 2025](https://jobright.ai/jobs/info/672cf638ad8e030fad2d2724?utm_campaign=1057&utm_source=git)** | Pleasant Prairie, WI | On Site | Jan 04 |
 | **[Monte Nido Walden](https://www.waldeneatingdisorders.com)** | **[Clinical Internship (Adolescent/Family)](https://jobright.ai/jobs/info/67468ef9e314b3ee49f4c144?utm_campaign=1057&utm_source=git)** | Dedham, MA | On Site | Jan 04 |
 | **[Lamb Weston](http://www.lambweston.com/)** | **[Lamb Weston Summer Internship Program (2025)](https://jobright.ai/jobs/info/6750bb84eb126c53ce4ad814?utm_campaign=1057&utm_source=git)** | Kennewick, WA | On Site | Jan 04 |
 | **[BJC Health System](http://www.bjc.org/Default.aspx)** | **[Teaching Opportunity at Internal Medicine Residency Program with BJC in St. Louis, MO](https://jobright.ai/jobs/info/67237634911eaa97c56a0889?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Jan 04 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[United Veterinary Care](https://unitedveterinarycare.com/)** | **[Rotating Veterinary Internship](https://jobright.ai/jobs/info/6778e3bb2270fb394ccb480f?utm_campaign=1057&utm_source=git)** | East Greenwich, RI | On Site | Jan 03 |
 | **[Volkert, Inc.](https://volkert.com/)** | **[Volkert Internship Program](https://jobright.ai/jobs/info/677b622862cc1860dda04088?utm_campaign=1057&utm_source=git)** | Little Rock, AR | On Site | Jan 03 |
 | **[Bridgewater Bank](https://www.bridgewaterbankmn.com/)** | **[L&D Intern](https://jobright.ai/jobs/info/6778c7a421d75a60ba176df4?utm_campaign=1057&utm_source=git)** | St Louis Park, MN | On Site | Jan 03 |
-| **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/6757b2c91f739bf7e7f5cbb2?utm_campaign=1057&utm_source=git)** | Baton Rouge, LA | On Site | Jan 03 |
-| **[Year Up United](http://yearup.org)** | **[Project Management Job Training Program](https://jobright.ai/jobs/info/677b6094bbb34bfa4ca0838f?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jan 03 |
-| **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Seeking Student Analysts with 1700+ Hours Completed – Start Your Career with Us!](https://jobright.ai/jobs/info/673eae7f4c57d2f85f385a04?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
-| **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/6750099a26fcf3080f596328?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Jan 03 |
-| **[Volkert, Inc.](https://volkert.com/)** | **[Volkert Internship Program](https://jobright.ai/jobs/info/677b4dcf4f6c922412727b10?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Jan 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
