@@ -57,19 +57,30 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Arkansas Children's](http://archildrens.org)** | **[Student Nurse Intern, Springdale, June 2025 Start](https://jobright.ai/jobs/info/677cf685a90a48a493aa35eb?utm_campaign=1057&utm_source=git)** | Springdale, AR | On Site | Jan 07 |
+| **[Virginia's Community College System](https://www.vccs.edu/)** | **[Adjunct Faculty - Student Development](https://jobright.ai/jobs/info/677d2c9ee7b7b120ee18a0fb?utm_campaign=1057&utm_source=git)** | Richmond, VA | Hybrid | Jan 07 |
+| **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[Masters Intern - DHS WIRED Development Program](https://jobright.ai/jobs/info/672ee8ec6f21c235ed2dd991?utm_campaign=1057&utm_source=git)** | United States | Hybrid | Jan 07 |
+| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Respiratory II - JO Nursing Student Program NEA Baptist Jonesboro](https://jobright.ai/jobs/info/677d167ab7438dd6b059e2cf?utm_campaign=1057&utm_source=git)** | Jonesboro, AR | On Site | Jan 07 |
+| **[Year Up United](http://yearup.org)** | **[Data Management Career Training Opportunity](https://jobright.ai/jobs/info/677d1cbaf9ce273d74535bac?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Jan 07 |
+| **[WellPower](https://www.wellpower.org/)** | **[Day Treatment Clinical Intern](https://jobright.ai/jobs/info/675b2598df2dc9c6db7159a4?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Jan 07 |
+| **[Brookfield](https://www.brookfield.com)** | **[Corporate Credit Intern (Undergraduate)](https://jobright.ai/jobs/info/675b5b51d2631ec6c6a50701?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jan 07 |
+| **[Compass Health Center](https://compasshealthcenter.net)** | **[Group Therapist Intern](https://jobright.ai/jobs/info/674e76661417c381a0dfd7b1?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jan 07 |
+| **[Susan G. Komen](http://www.komen.org)** | **[Nonprofit Volunteer Engagement Intern (Remote)](https://jobright.ai/jobs/info/6754c1d75a6ae85260a1789b?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | Remote | Jan 07 |
+| **[The Baldwin Group](https://baldwin.com/)** | **[Summer Insurance Advisory Services Intern 2025](https://jobright.ai/jobs/info/6760154b83ef6214f126e36d?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Jan 07 |
+| **[Elevance Health](https://www.elevancehealth.com)** | **[Graduate Technical Intern- Summer 2025](https://jobright.ai/jobs/info/677d05f950126a7856ff3025?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jan 07 |
+| **[Arkansas Children's](http://archildrens.org)** | **[Student Nurse Intern, Little Rock, June 2025 Start](https://jobright.ai/jobs/info/677d167ab7438dd6b059e36b?utm_campaign=1057&utm_source=git)** | Little Rock Metro | On Site | Jan 07 |
+| ↳ | **[Student Nurse Intern, Springdale, June 2025 Start](https://jobright.ai/jobs/info/677cf685a90a48a493aa35eb?utm_campaign=1057&utm_source=git)** | Springdale, AR | On Site | Jan 07 |
 | **[MD Anderson Cancer Center](https://www.mdanderson.org/)** | **[College Student - Internship](https://jobright.ai/jobs/info/677cf685a90a48a493aa36dc?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jan 07 |
 | **[Crawford County Clinic](http://www.ccmhia.com/)** | **[Physical Therapy Intern - Summer 2025](https://jobright.ai/jobs/info/677cf30f1ebefb95190174d7?utm_campaign=1057&utm_source=git)** | Denison, IA | On Site | Jan 06 |
 | **[SDSU Research Foundation](http://www.foundation.sdsu.edu/)** | **[Student Research Assistant](https://jobright.ai/jobs/info/677cdf8b35dce1b798dd4e25?utm_campaign=1057&utm_source=git)** | El Centro, CA | On Site | Jan 06 |
 | **[Riverside Community Care](http://www.riversidecc.org)** | **[Life Skills Internship - Flexible Start Date - Summer 2024](https://jobright.ai/jobs/info/677cdf8b35dce1b798dd5291?utm_campaign=1057&utm_source=git)** | Needham, MA | On Site | Jan 06 |
 | ↳ | **[BTS Community Based Clinical Intern- September / October 2025 Start Date](https://jobright.ai/jobs/info/677cdf8b35dce1b798dd5292?utm_campaign=1057&utm_source=git)** | Norwood, MA | On Site | Jan 06 |
 | ↳ | **[Engagement Specialist Internship - Flexible Start Date](https://jobright.ai/jobs/info/677cdf8b35dce1b798dd5316?utm_campaign=1057&utm_source=git)** | Norwood, MA | On Site | Jan 06 |
-| **[HITEC](https://hitecglobal.org/)** | **[Backstage Pass Sophomore Leadership Program (Virtual)](https://jobright.ai/jobs/info/677cc98dbbe310e30fe6d52e?utm_campaign=1057&utm_source=git)** | Chicago, IL | Remote | Jan 06 |
+| **[HITEC](https://hitecglobal.org/)** | **[Backstage Pass Sophomore Leadership Program (Virtual)](https://jobright.ai/jobs/info/677cc98dbbe310e30fe6dc8b?utm_campaign=1057&utm_source=git)** | Chicago, IL | Remote | Jan 06 |
 | **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[NSIP Masters Intern – Emerging Threats & Technologies Division [Summer 2025]](https://jobright.ai/jobs/info/677cc39b87308d3db2871006?utm_campaign=1057&utm_source=git)** | Seattle, WA | Hybrid | Jan 06 |
 | ↳ | **[NSIP Undergraduate Intern – Emerging Threats & Technologies Division [Summer 2025]](https://jobright.ai/jobs/info/677cc39b87308d3db2871008?utm_campaign=1057&utm_source=git)** | Richland, WA | Hybrid | Jan 06 |
 | ↳ | **[NSIP Undergraduate Intern – Emerging Threats & Technologies Division [Summer 2025]](https://jobright.ai/jobs/info/677cc39b87308d3db2871009?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Jan 06 |
-| ↳ | **[NSIP Masters Intern – Emerging Threats & Technologies Division [Summer 2025]](https://jobright.ai/jobs/info/677cc39b87308d3db287100b?utm_campaign=1057&utm_source=git)** | Richland, WA | Hybrid | Jan 06 |
 | ↳ | **[NSIP Undergraduate Intern – Emerging Threats & Technologies Division [Summer 2025]](https://jobright.ai/jobs/info/677cc39b87308d3db287100a?utm_campaign=1057&utm_source=git)** | United States | Hybrid | Jan 06 |
+| ↳ | **[NSIP Masters Intern – Emerging Threats & Technologies Division [Summer 2025]](https://jobright.ai/jobs/info/677cc39b87308d3db287100b?utm_campaign=1057&utm_source=git)** | Richland, WA | Hybrid | Jan 06 |
 | ↳ | **[NSIP Undergraduate Intern – Emerging Threats & Technologies Division [Summer 2025]](https://jobright.ai/jobs/info/677cb28cde977a792937f94d?utm_campaign=1057&utm_source=git)** | Seattle, WA | Hybrid | Jan 06 |
 | ↳ | **[NSIP Masters Intern – Emerging Threats & Technologies Division [Summer 2025]](https://jobright.ai/jobs/info/677cb28cde977a792937f957?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Jan 06 |
 | ↳ | **[NSIP Masters Intern – Emerging Threats & Technologies Division [Summer 2025]](https://jobright.ai/jobs/info/677cb3abde977a79293803cd?utm_campaign=1057&utm_source=git)** | United States | Hybrid | Jan 06 |
@@ -94,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[Macquarie Group](https://www.macquarie.com)** | **[2026 Commodities and Global Markets Summer Internship Program](https://jobright.ai/jobs/info/677c82b13d2b3c29d9745e43?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jan 06 |
 | ↳ | **[2026 Macquarie Capital Summer Internship Program](https://jobright.ai/jobs/info/677c82b13d2b3c29d9745e34?utm_campaign=1057&utm_source=git)** | New York, United States | On Site | Jan 06 |
 | ↳ | **[2026 Macquarie Capital Summer Internship Program](https://jobright.ai/jobs/info/677c8e1e41e7c9249d0c19c5?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jan 06 |
-| ↳ | **[2026 Commodities and Global Markets Summer Internship Program](https://jobright.ai/jobs/info/677c8e1e41e7c9249d0c19c7?utm_campaign=1057&utm_source=git)** | New York, United States | On Site | Jan 06 |
 | ↳ | **[2026 Macquarie Capital Summer Internship Program](https://jobright.ai/jobs/info/677c8e1e41e7c9249d0c19c6?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Jan 06 |
+| ↳ | **[2026 Commodities and Global Markets Summer Internship Program](https://jobright.ai/jobs/info/677c8e1e41e7c9249d0c19c7?utm_campaign=1057&utm_source=git)** | New York, United States | On Site | Jan 06 |
 | ↳ | **[2026 Macquarie Capital Summer Internship Program](https://jobright.ai/jobs/info/677c8e1e41e7c9249d0c19c8?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jan 06 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Summer Intern](https://jobright.ai/jobs/info/677c85cb2cfbc94eb4e99983?utm_campaign=1057&utm_source=git)** | Vallejo, CA | On Site | Jan 06 |
 | ↳ | **[Pharmacy Summer Intern](https://jobright.ai/jobs/info/677c85cb2cfbc94eb4e999a1?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Jan 06 |
@@ -109,8 +120,9 @@ For a complete list, click the following sortable link below:
 | **[MyFitnessPal](https://www.myfitnesspal.com/)** | **[Nutrition Intern - Summer 2025](https://jobright.ai/jobs/info/677c7324e9851110c91406bd?utm_campaign=1057&utm_source=git)** | Remote - US | Remote | Jan 06 |
 | **[Emory University](http://www.emory.edu)** | **[GRADUATE INTERN (ETS) / 2025 Summer Internship Program](https://jobright.ai/jobs/info/6777ab31170d5c2f41e01909?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jan 06 |
 | **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Student Facilitator (ETS)-Research Interviewer](https://jobright.ai/jobs/info/677c6e1a713c569f0550dbea?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jan 06 |
-| **[160over90](http://160over90.com/)** | **[Intern, Experiential - 160over90](https://jobright.ai/jobs/info/677c6a3dbe387dc0bcea59f4?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 06 |
-| ↳ | **[Intern, Experiential - 160over90](https://jobright.ai/jobs/info/677c6a3dbe387dc0bcea59ed?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jan 06 |
+| **[Peterbilt Motors Company](http://www.peterbilt.com/)** | **[2025 Summer Internship: Advanced Technology Dealer Training](https://jobright.ai/jobs/info/6725490f869330b49f30b81a?utm_campaign=1057&utm_source=git)** | Denton, TX | On Site | Jan 06 |
+| **[160over90](http://160over90.com/)** | **[Intern, Experiential - 160over90](https://jobright.ai/jobs/info/677c6a3dbe387dc0bcea59ed?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jan 06 |
+| ↳ | **[Intern, Experiential - 160over90](https://jobright.ai/jobs/info/677c6a3dbe387dc0bcea59f4?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 06 |
 | **[One80 Intermediaries](https://www.one80intermediaries.com/)** | **[Intern- Marine Insurance (Summer 2025)](https://jobright.ai/jobs/info/677c6e1a713c569f0550dd04?utm_campaign=1057&utm_source=git)** | Manchester, NH | On Site | Jan 06 |
 | **[The National Society of Leadership and Success (NSLS)](http://nsls.org/)** | **[Chapter Leader Intern](https://jobright.ai/jobs/info/677c6e1a713c569f0550dd4a?utm_campaign=1057&utm_source=git)** | United States | Remote | Jan 06 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern II - Behavioral Science](https://jobright.ai/jobs/info/677c56f831cdddd8c91578a7?utm_campaign=1057&utm_source=git)** | Remote - United States | Hybrid | Jan 06 |
@@ -118,13 +130,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Evaluation Assistant](https://jobright.ai/jobs/info/677c63c664520b1b673b7cca?utm_campaign=1057&utm_source=git)** | Riverside, CA | On Site | Jan 06 |
 | **[Banner Health](https://www.bannerhealth.com)** | **[Banner Health High School Internship](https://jobright.ai/jobs/info/677c56f831cdddd8c9157947?utm_campaign=1057&utm_source=git)** | Sterling Regional Med Ctr (615 Fairhurst St) | On Site | Jan 06 |
 | ↳ | **[Banner Health High School Internship](https://jobright.ai/jobs/info/677c56f831cdddd8c91578de?utm_campaign=1057&utm_source=git)** | Banner North Colorado Medical Center (1801 16th St) | On Site | Jan 06 |
+| ↳ | **[Banner Health High School Internship](https://jobright.ai/jobs/info/677c56f831cdddd8c91578d6?utm_campaign=1057&utm_source=git)** | Remote Fort Collins CO | Remote | Jan 06 |
+| ↳ | **[Banner Health High School Internship](https://jobright.ai/jobs/info/677c56f831cdddd8c9157a2a?utm_campaign=1057&utm_source=git)** | Remote Colorado | Remote | Jan 06 |
 | ↳ | **[Banner Health High School Internship](https://jobright.ai/jobs/info/677c56f831cdddd8c91578df?utm_campaign=1057&utm_source=git)** | Banner McKee Med Ctr (2000 N Boise Ave) | On Site | Jan 06 |
 | ↳ | **[Banner Health High School Internship](https://jobright.ai/jobs/info/677c56f831cdddd8c9157a29?utm_campaign=1057&utm_source=git)** | Remote Loveland CO | Remote | Jan 06 |
-| ↳ | **[Banner Health High School Internship](https://jobright.ai/jobs/info/677c56f831cdddd8c9157a2a?utm_campaign=1057&utm_source=git)** | Remote Colorado | Remote | Jan 06 |
 | ↳ | **[Banner Health High School Internship](https://jobright.ai/jobs/info/677c56f831cdddd8c9157a28?utm_campaign=1057&utm_source=git)** | Banner Fort Collins Med Ctr (4700 Lady Moon Dr) | On Site | Jan 06 |
-| ↳ | **[Banner Health High School Internship](https://jobright.ai/jobs/info/677c56f831cdddd8c91578d6?utm_campaign=1057&utm_source=git)** | Remote Fort Collins CO | Remote | Jan 06 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Services Intern - Old Dominion University](https://jobright.ai/jobs/info/677c6121d7ab569f755e72fb?utm_campaign=1057&utm_source=git)** | Norfolk, VA | On Site | Jan 06 |
 | ↳ | **[Services Intern - Old Dominion University](https://jobright.ai/jobs/info/677c6121d7ab569f755e7434?utm_campaign=1057&utm_source=git)** | Westminster, CO | On Site | Jan 06 |
+| **[Ben E. Keith Company](http://www.benekeith.com)** | **[ASPIRE Internship - North Carolina Division](https://jobright.ai/jobs/info/67795064d1274f893e719576?utm_campaign=1057&utm_source=git)** | Rocky Mount-Wilson Area | On Site | Jan 06 |
 | **[NorthWind Technical Services](https://www.northwindts.com)** | **[Summer Intern](https://jobright.ai/jobs/info/677c5fd914eaa19b2dc21813?utm_campaign=1057&utm_source=git)** | Sabetha, KS | On Site | Jan 06 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Learning Design and Delivery (Summer 2025) Internship](https://jobright.ai/jobs/info/677c5fd914eaa19b2dc21701?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jan 06 |
 | **[WakeMed](http://wakemed.org/)** | **[PA or NP, Fellow -  Pulmonary / Critical Care](https://jobright.ai/jobs/info/677c537e30fb228328a72ba1?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Jan 06 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Thrive Scholars](http://www.thrivescholars.org)** | **[Thrive Academy Spring Intern](https://jobright.ai/jobs/info/677c3ebf01aec317ca378fa5?utm_campaign=1057&utm_source=git)** | United States | On Site | Jan 06 |
 | **[American Addiction Centers](https://americanaddictioncenters.org/)** | **[Counselor Intern](https://jobright.ai/jobs/info/677c57393cb3db4e34cbcbbd?utm_campaign=1057&utm_source=git)** | Etta, MS | On Site | Jan 06 |
 | **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/677c3a73d76414159ac3c50a?utm_campaign=1057&utm_source=git)** | Alden, NY | On Site | Jan 06 |
-| **[California State University, Fullerton](https://linktr.ee/csufofficial)** | **[Volunteer Psychology Research Assistant](https://jobright.ai/jobs/info/677c4716c5c50c483be555df?utm_campaign=1057&utm_source=git)** | Fullerton, CA | Remote | Jan 06 |
-| **[NEOGOV](http://www.neogov.com)** | **[Power Academy Spring Internship - 2](https://jobright.ai/jobs/info/677c31da047bc9aed4ef2f58?utm_campaign=1057&utm_source=git)** | Lakeland, FL | On Site | Jan 06 |
-| ↳ | **[Staff Development & Training Internship with Juvenile Justice (Summer 2025)](https://jobright.ai/jobs/info/677c31da047bc9aed4ef2f4a?utm_campaign=1057&utm_source=git)** | Wake County, NC | On Site | Jan 06 |
-| ↳ | **[Seasonal Recreation Intern](https://jobright.ai/jobs/info/677c31da047bc9aed4ef2f40?utm_campaign=1057&utm_source=git)** | Kearney, NE | On Site | Jan 06 |
-| **[Abt Global](http://www.abtassociates.com)** | **[Mission Impact Intern](https://jobright.ai/jobs/info/677c41ec0684a60fd7e0c482?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Jan 06 |
-| ↳ | **[Mission Impact Intern](https://jobright.ai/jobs/info/677c41ec0684a60fd7e0c644?utm_campaign=1057&utm_source=git)** | Atlanta, GA | Remote | Jan 06 |
-| ↳ | **[Mission Impact Intern](https://jobright.ai/jobs/info/677c41ec0684a60fd7e0c645?utm_campaign=1057&utm_source=git)** | Cambridge, MA | Remote | Jan 06 |
-| ↳ | **[Mission Impact Intern](https://jobright.ai/jobs/info/677c5dd98dad8e008683cea1?utm_campaign=1057&utm_source=git)** | Rockville, MD | Remote | Jan 06 |
-| **[Legal Services NYC](https://www.legalservicesnyc.org/)** | **[Summer 2025 Internships](https://jobright.ai/jobs/info/677c38ebf5c0c7c1695f2883?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 06 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[2025 Wells Fargo Sophomore Discovery Fellowship Program](https://jobright.ai/jobs/info/677c48b74737af56f291abb5?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Jan 06 |
-| **[American Eagle Outfitters Inc.](https://www.aeo-inc.com/)** | **[Summer 2025 - Learning & Development Internship](https://jobright.ai/jobs/info/677c49ccff023826e2c666a2?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Jan 06 |
-| **[Howard University](http://www.howard.edu)** | **[Post Doctoral Fellow](https://jobright.ai/jobs/info/677c38ebf5c0c7c1695f2912?utm_campaign=1057&utm_source=git)** | DC-Baltimore Area | Hybrid | Jan 06 |
-| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Summer Intern - Graduate](https://jobright.ai/jobs/info/677c22d2e78ead1a4e3c7a06?utm_campaign=1057&utm_source=git)** | 55901 | On Site | Jan 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
