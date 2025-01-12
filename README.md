@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2025 Summer Internship Program: Global Technology Opportunities: (CA, NY, TN)](https://jobright.ai/jobs/info/67609a298089de3622c83460?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 12 |
+| **[Takeda](http://www.takeda.com)** | **[2025 U.S Summer Internship Program: QMS Enterprise Systems Intern](https://jobright.ai/jobs/info/676b92fa3f8f98679347ec33?utm_campaign=1057&utm_source=git)** | Louisiana, United States | Remote | Jan 12 |
+| **[Brown & Brown Insurance](http://www.bbinsurance.com/)** | **[2025 Professional Development Program - Summer Internship](https://jobright.ai/jobs/info/678393472299922b2aabee14?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jan 12 |
 | **[Nebo School District](http://www.nebo.edu)** | **[2025/26 - Intern School Psychologist - CT519i](https://jobright.ai/jobs/info/6783888b7917ec9703c4794a?utm_campaign=1057&utm_source=git)** | Spanish Fork, UT | On Site | Jan 12 |
 | **[University of North Texas](http://unt.edu)** | **[Lecturer of Actuary Mathematics](https://jobright.ai/jobs/info/678368c7d3ca8e2818089ea4?utm_campaign=1057&utm_source=git)** | Denton, TX | On Site | Jan 11 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Retail Training Summer (STAR) Intern](https://jobright.ai/jobs/info/67833af76f2c04321faf88cb?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jan 11 |
@@ -65,7 +68,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Arborist Trainee Internship](https://jobright.ai/jobs/info/678328215d46f41a449ed056?utm_campaign=1057&utm_source=git)** | Norwalk, CT | On Site | Jan 11 |
 | ↳ | **[Arborist Trainee Internship](https://jobright.ai/jobs/info/6783198c1bd978a98c6eec28?utm_campaign=1057&utm_source=git)** | Mashpee, MA | On Site | Jan 11 |
 | **[Mitsubishi Electric Power Products, Inc.](https://www.meppi.com)** | **[MEPPI Summer 2025 Internship Program](https://jobright.ai/jobs/info/678303b7bd1173ee11ef50e9?utm_campaign=1057&utm_source=git)** | Pittsburgh Region | On Site | Jan 11 |
-| **[Kennedy Wilson](http://kennedywilson.com)** | **[2025 SUMMER INTERNSHIP PROGRAM](https://jobright.ai/jobs/info/6782f735759131d605f60396?utm_campaign=1057&utm_source=git)** | Beverly Hills, CA | On Site | Jan 11 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Student Life Student Assistant](https://jobright.ai/jobs/info/6782edb5f35b1e8ce7848bb0?utm_campaign=1057&utm_source=git)** | Richmond, KY | On Site | Jan 11 |
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Labor & Delivery Unit](https://jobright.ai/jobs/info/6782eb8bf3942d9e1426916c?utm_campaign=1057&utm_source=git)** | Vermont, United States | On Site | Jan 11 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship / Chippers, Inc.](https://jobright.ai/jobs/info/6782d61886488db27f069c8e?utm_campaign=1057&utm_source=git)** | Woodstock, VT | On Site | Jan 11 |
@@ -108,14 +110,12 @@ For a complete list, click the following sortable link below:
 | **[Year Up United](http://yearup.org)** | **[Financial Advisory Career Training Program](https://jobright.ai/jobs/info/6781e21535b4cc2e9f542e76?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Jan 10 |
 | ↳ | **[Financial Operations Job Training Opportunity](https://jobright.ai/jobs/info/6781e21535b4cc2e9f542e78?utm_campaign=1057&utm_source=git)** | Providence, RI | On Site | Jan 10 |
 | ↳ | **[Data Analytics Job Training Program](https://jobright.ai/jobs/info/67824c4c6bb27b6530f1f706?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Jan 10 |
-| ↳ | **[Helpdesk Job Training Program](https://jobright.ai/jobs/info/6781dc52ea0e47a286e8f2e9?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Jan 10 |
 | ↳ | **[Helpdesk Job Training Program](https://jobright.ai/jobs/info/6781dc52ea0e47a286e8f2f0?utm_campaign=1057&utm_source=git)** | Providence, RI | On Site | Jan 10 |
-| ↳ | **[Investment Operations Job Training Program](https://jobright.ai/jobs/info/6781dc52ea0e47a286e8f2fd?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Jan 10 |
-| ↳ | **[Quality Assurance Job Training Program](https://jobright.ai/jobs/info/6781dc52ea0e47a286e8f2fa?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jan 10 |
+| ↳ | **[Helpdesk Job Training Program](https://jobright.ai/jobs/info/6781dc52ea0e47a286e8f2e9?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Jan 10 |
 | ↳ | **[Desktop Management Job Training Program](https://jobright.ai/jobs/info/6781dc52ea0e47a286e8f300?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Jan 10 |
 | ↳ | **[Information Security Job Training Program](https://jobright.ai/jobs/info/6781dc52ea0e47a286e8f303?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Jan 10 |
-| ↳ | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/6781dc52ea0e47a286e8f2fb?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Jan 10 |
 | ↳ | **[Computer Systems Administration Job Training Program](https://jobright.ai/jobs/info/6781dc52ea0e47a286e8f305?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Jan 10 |
+| ↳ | **[Customer Service Job Training Program](https://jobright.ai/jobs/info/6781dc52ea0e47a286e8f307?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Jan 10 |
 | ↳ | **[Desktop Management Job Training Program](https://jobright.ai/jobs/info/6781dc52ea0e47a286e8f309?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jan 10 |
 | **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[Masters Intern - DHS WIRED Development Program](https://jobright.ai/jobs/info/672ee8ec6f21c235ed2dd98f?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Jan 10 |
 | ↳ | **[Masters Intern - DHS WIRED Development Program](https://jobright.ai/jobs/info/672ee8ec6f21c235ed2dd995?utm_campaign=1057&utm_source=git)** | Seattle, WA | Hybrid | Jan 10 |
@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Marriott International](https://www.marriott.com/hotels/travel/mkeak-hotel-metro-autograph-collection/)** | **[University Intern -US](https://jobright.ai/jobs/info/67816cbfcf7768dd7e3864f8?utm_campaign=1057&utm_source=git)** | 1501 Gaylord Trail, Grapevine, TX, 76051, US | On Site | Jan 10 |
 | **[Year Up United](http://yearup.org)** | **[Financial Operations Job Training Program](https://jobright.ai/jobs/info/67818f7bf83f99b126091aee?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Jan 10 |
 | ↳ | **[Financial Advisory Job Training Program](https://jobright.ai/jobs/info/67818f7bf83f99b126091aef?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Jan 10 |
-| ↳ | **[Computer Systems Administration Job Training Program](https://jobright.ai/jobs/info/67817da94f48ceca0fb66b94?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jan 10 |
+| ↳ | **[Quality Assurance Job Training Program](https://jobright.ai/jobs/info/67817da94f48ceca0fb66aad?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
