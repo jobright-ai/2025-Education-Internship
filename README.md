@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nebo School District](http://www.nebo.edu)** | **[2025/26 - Intern School Psychologist - CT519i](https://jobright.ai/jobs/info/6783888b7917ec9703c4794a?utm_campaign=1057&utm_source=git)** | Spanish Fork, UT | On Site | Jan 12 |
+| **[University of North Texas](http://unt.edu)** | **[Lecturer of Actuary Mathematics](https://jobright.ai/jobs/info/678368c7d3ca8e2818089ea4?utm_campaign=1057&utm_source=git)** | Denton, TX | On Site | Jan 11 |
+| **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Retail Training Summer (STAR) Intern](https://jobright.ai/jobs/info/67833af76f2c04321faf88cb?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jan 11 |
 | **[Genentech](http://gene.com)** | **[2025 Summer Intern - Computational Catalysts](https://jobright.ai/jobs/info/67832a0cacc3d514edc753cf?utm_campaign=1057&utm_source=git)** | South San Francisco, CA | On Site | Jan 11 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Internship](https://jobright.ai/jobs/info/678328215d46f41a449ed03e?utm_campaign=1057&utm_source=git)** | Wilmington, DE | On Site | Jan 11 |
 | ↳ | **[Arborist Trainee Internship](https://jobright.ai/jobs/info/678328215d46f41a449ed056?utm_campaign=1057&utm_source=git)** | Norwalk, CT | On Site | Jan 11 |
@@ -80,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[University of Rochester](https://www.urmc.rochester.edu)** | **[Project Assistant I - Pharmacy High School Intern (TAR)](https://jobright.ai/jobs/info/67826ff4c74ff6cb2ac9e641?utm_campaign=1057&utm_source=git)** | Strong, ME | On Site | Jan 10 |
 | **[Federal Aviation Administration](http://www.faa.gov)** | **[Administrative and Office Support Student Trainee](https://jobright.ai/jobs/info/677b7de0c08176d106148afd?utm_campaign=1057&utm_source=git)** | Atlantic City, NJ | On Site | Jan 10 |
 | **[The Baldwin Group](https://baldwin.com/)** | **[Summer Insurance Advisory Services Intern 2025](https://jobright.ai/jobs/info/6760154b83ef6214f126e36d?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Jan 10 |
+| **[Greenberg Traurig, LLP](https://www.gtlaw.com/)** | **[2025 1L LCLD Scholar - Fort Lauderdale](https://jobright.ai/jobs/info/67835316b5bde5fbc6a48d93?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, FL | On Site | Jan 10 |
 | **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[Masters Intern - DHS WIRED Development Program](https://jobright.ai/jobs/info/672ee8ec6f21c235ed2dd991?utm_campaign=1057&utm_source=git)** | United States | Hybrid | Jan 10 |
 | **[Upstate Medical University](https://www.upstate.edu)** | **[Primary Care/Internal Medicine LGBTQ Focus](https://jobright.ai/jobs/info/677c57b2dff3f7a042e577e3?utm_campaign=1057&utm_source=git)** | Syracuse, NY | On Site | Jan 10 |
 | **[Nelson-Jameson, Inc](https://nelsonjameson.com/)** | **[Intern](https://jobright.ai/jobs/info/6758dedd40f87b5544c4ff5f?utm_campaign=1057&utm_source=git)** | Marshfield, WI | On Site | Jan 10 |
@@ -102,14 +106,17 @@ For a complete list, click the following sortable link below:
 | **[University of Denver](http://du.edu)** | **[Sports Medicine Certified Athletic Training Intern](https://jobright.ai/jobs/info/6781b386557ce9ace3a2e784?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Jan 10 |
 | **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Summer Leadership Program (Reno, NV)](https://jobright.ai/jobs/info/6781b1df84b707759e45e50c?utm_campaign=1057&utm_source=git)** | Reno, NV | On Site | Jan 10 |
 | **[Year Up United](http://yearup.org)** | **[Financial Advisory Career Training Program](https://jobright.ai/jobs/info/6781e21535b4cc2e9f542e76?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Jan 10 |
+| ↳ | **[Financial Operations Job Training Opportunity](https://jobright.ai/jobs/info/6781e21535b4cc2e9f542e78?utm_campaign=1057&utm_source=git)** | Providence, RI | On Site | Jan 10 |
 | ↳ | **[Data Analytics Job Training Program](https://jobright.ai/jobs/info/67824c4c6bb27b6530f1f706?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Jan 10 |
+| ↳ | **[Helpdesk Job Training Program](https://jobright.ai/jobs/info/6781dc52ea0e47a286e8f2e9?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Jan 10 |
 | ↳ | **[Helpdesk Job Training Program](https://jobright.ai/jobs/info/6781dc52ea0e47a286e8f2f0?utm_campaign=1057&utm_source=git)** | Providence, RI | On Site | Jan 10 |
-| ↳ | **[Financial Advisory Career Training Program](https://jobright.ai/jobs/info/6781dc52ea0e47a286e8f2f8?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Jan 10 |
+| ↳ | **[Investment Operations Job Training Program](https://jobright.ai/jobs/info/6781dc52ea0e47a286e8f2fd?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Jan 10 |
+| ↳ | **[Quality Assurance Job Training Program](https://jobright.ai/jobs/info/6781dc52ea0e47a286e8f2fa?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jan 10 |
 | ↳ | **[Desktop Management Job Training Program](https://jobright.ai/jobs/info/6781dc52ea0e47a286e8f300?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Jan 10 |
 | ↳ | **[Information Security Job Training Program](https://jobright.ai/jobs/info/6781dc52ea0e47a286e8f303?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Jan 10 |
-| ↳ | **[Investment Operations Job Training Program](https://jobright.ai/jobs/info/6781dc52ea0e47a286e8f2fd?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Jan 10 |
+| ↳ | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/6781dc52ea0e47a286e8f2fb?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Jan 10 |
 | ↳ | **[Computer Systems Administration Job Training Program](https://jobright.ai/jobs/info/6781dc52ea0e47a286e8f305?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Jan 10 |
-| **[UMass Memorial Health](https://www.ummhealth.org)** | **[Clinical Intern, Worcester, Community Healthlink](https://jobright.ai/jobs/info/6781b1df84b707759e45e5a3?utm_campaign=1057&utm_source=git)** | Worcester, MA | On Site | Jan 10 |
+| ↳ | **[Desktop Management Job Training Program](https://jobright.ai/jobs/info/6781dc52ea0e47a286e8f309?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jan 10 |
 | **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[Masters Intern - DHS WIRED Development Program](https://jobright.ai/jobs/info/672ee8ec6f21c235ed2dd98f?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Jan 10 |
 | ↳ | **[Masters Intern - DHS WIRED Development Program](https://jobright.ai/jobs/info/672ee8ec6f21c235ed2dd995?utm_campaign=1057&utm_source=git)** | Seattle, WA | Hybrid | Jan 10 |
 | **[La Sierra University](http://www.lasierra.edu/)** | **[Biology Student Lab Prep Teaching Assistant (TA3) W’25 DENT103 Intro to Dentistry Lab](https://jobright.ai/jobs/info/6781add1bd178f76b919f54d?utm_campaign=1057&utm_source=git)** | Riverside, CA | On Site | Jan 10 |
@@ -140,7 +147,7 @@ For a complete list, click the following sortable link below:
 | **[Strada Education Foundation](https://www.stradaeducation.org)** | **[Strada Education Foundation Internship: Finance, Investments, and Operations Intern](https://jobright.ai/jobs/info/676348ac3da6e1dff422fd8c?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | Hybrid | Jan 10 |
 | ↳ | **[Strada Education Foundation Internship: Non-Profit Administration and Leadership Intern](https://jobright.ai/jobs/info/676217cb1719fd51aff3be62?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | Hybrid | Jan 10 |
 | **[Lam Research](http://www.lamresearch.com)** | **[Virtual Reality Training Intern - Summer 2025](https://jobright.ai/jobs/info/678196e8991940cf4a78b733?utm_campaign=1057&utm_source=git)** | Fremont, CA | Hybrid | Jan 10 |
-| **[Randolph Brooks Federal Credit Union](https://www.rbfcu.org/)** | **[Central Operations College Intern](https://jobright.ai/jobs/info/67817bdce7caddfd9a130bf0?utm_campaign=1057&utm_source=git)** | San Antonio, Texas Area | On Site | Jan 10 |
+| **[Randolph Brooks Federal Credit Union](https://www.rbfcu.org/)** | **[Central Operations College Intern](https://jobright.ai/jobs/info/678178ec71f838974352f271?utm_campaign=1057&utm_source=git)** | San Antonio, Texas Area | On Site | Jan 10 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Admissions & International Clearance Processor](https://jobright.ai/jobs/info/678185f95deba7936229b8b6?utm_campaign=1057&utm_source=git)** | Triangle Area | On Site | Jan 10 |
 | **[Meridian Bank](https://meridianbanker.com/)** | **[2025 Summer Internship](https://jobright.ai/jobs/info/675c320e31068d99eca9cf05?utm_campaign=1057&utm_source=git)** | Malvern, PA | On Site | Jan 10 |
 | **[East Carolina University](http://www.ecu.edu/)** | **[Student - Undergraduate Research Assistant - Zine Lab](https://jobright.ai/jobs/info/67817ea6e52ec27d5783850c?utm_campaign=1057&utm_source=git)** | NC | On Site | Jan 10 |
@@ -149,12 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Marriott International](https://www.marriott.com/hotels/travel/mkeak-hotel-metro-autograph-collection/)** | **[University Intern -US](https://jobright.ai/jobs/info/67816cbfcf7768dd7e3864f8?utm_campaign=1057&utm_source=git)** | 1501 Gaylord Trail, Grapevine, TX, 76051, US | On Site | Jan 10 |
 | **[Year Up United](http://yearup.org)** | **[Financial Operations Job Training Program](https://jobright.ai/jobs/info/67818f7bf83f99b126091aee?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Jan 10 |
 | ↳ | **[Financial Advisory Job Training Program](https://jobright.ai/jobs/info/67818f7bf83f99b126091aef?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Jan 10 |
-| ↳ | **[Helpdesk Job Training Program](https://jobright.ai/jobs/info/67818f7bf83f99b126091af1?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Jan 10 |
-| ↳ | **[Desktop Management Job Training Program](https://jobright.ai/jobs/info/67817da94f48ceca0fb66b88?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jan 10 |
-| ↳ | **[Quality Assurance Job Training Program](https://jobright.ai/jobs/info/67817da94f48ceca0fb66aad?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jan 10 |
 | ↳ | **[Computer Systems Administration Job Training Program](https://jobright.ai/jobs/info/67817da94f48ceca0fb66b94?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jan 10 |
-| ↳ | **[Customer Service Job Training Program](https://jobright.ai/jobs/info/67817da94f48ceca0fb66b98?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Jan 10 |
-| ↳ | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/67817da94f48ceca0fb66b9c?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Jan 10 |
-| ↳ | **[Financial Operations Job Training Opportunity](https://jobright.ai/jobs/info/67817da94f48ceca0fb66b9e?utm_campaign=1057&utm_source=git)** | Providence, RI | On Site | Jan 10 |
-| ↳ | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/67817da94f48ceca0fb66b9d?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
