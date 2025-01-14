@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Henry M. Jackson Foundation for the Advancement of Military Medicine](https://www.hjf.org/)** | **[Intern - Undergraduate Summer Scholars Program](https://jobright.ai/jobs/info/673cb8419649964bb6d389a7?utm_campaign=1057&utm_source=git)** | Bethesda, MD | On Site | Jan 14 |
+| **[Safeway](http://www.safeway.com)** | **[Pharmacy Summer Intern](https://jobright.ai/jobs/info/676b05a1517b91c27f24be81?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Jan 14 |
+| **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Culinary](https://jobright.ai/jobs/info/67865ccc27b8aef311752a18?utm_campaign=1057&utm_source=git)** | Winston-Salem, NC | On Site | Jan 14 |
+| **[Vistra Corp.](https://www.vistracorp.com/)** | **[Intern Undergrad](https://jobright.ai/jobs/info/672ca95cd887a81aae6321b9?utm_campaign=1057&utm_source=git)** | Perry, OH | On Site | Jan 14 |
+| **[Compass Health Center](https://compasshealthcenter.net)** | **[Group Therapist Intern](https://jobright.ai/jobs/info/674e76661417c381a0dfd7ae?utm_campaign=1057&utm_source=git)** | Silver Spring, MD | On Site | Jan 14 |
+| **[The Goodyear Tire & Rubber Company](https://jobs.goodyear.com/)** | **[Supply Chain Operations Intern (Summer 2025)](https://jobright.ai/jobs/info/6740baa6ba939b647fe789f7?utm_campaign=1057&utm_source=git)** | Akron, OH | On Site | Jan 14 |
+| **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Summer Leadership Program (Minneapolis)](https://jobright.ai/jobs/info/66b199070c1fac533ff7834c?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Jan 14 |
+| **[TCW](http://www.tcw.com)** | **[Summer 2025 Internship Program](https://jobright.ai/jobs/info/678648cabc5f21440cde1a70?utm_campaign=1057&utm_source=git)** | Los Angeles County, CA | On Site | Jan 14 |
+| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Student Assistant PRN](https://jobright.ai/jobs/info/67863c92e3aace8d3b43f506?utm_campaign=1057&utm_source=git)** | Memphis, TN | On Site | Jan 14 |
+| **[Union Kitchen](https://unionkitchen.com/)** | **[SNAP Recipient Career Development Program](https://jobright.ai/jobs/info/67863c92e3aace8d3b43f599?utm_campaign=1057&utm_source=git)** | Maryland, United States | Remote | Jan 14 |
+| ↳ | **[SNAP Recipient Career Development Program](https://jobright.ai/jobs/info/67863de3e3aace8d3b440020?utm_campaign=1057&utm_source=git)** | District of Columbia, United States | Remote | Jan 14 |
 | **[Urenco USA](https://urencousa.com)** | **[2025 Summer Internship - Training](https://jobright.ai/jobs/info/6786297c9fd6cd72f936a9a2?utm_campaign=1057&utm_source=git)** | Eunice, NM | On Site | Jan 14 |
 | **[Regeneron](http://www.regeneron.com)** | **[Summer 2025 Intern- Masters or PhD in Training Development, Instructional Design, Education, or Related Majors](https://jobright.ai/jobs/info/67860726b3a43f7285d40da7?utm_campaign=1057&utm_source=git)** | United States | On Site | Jan 13 |
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Education Administration College Intern](https://jobright.ai/jobs/info/6785fb58a1266341a55a67b1?utm_campaign=1057&utm_source=git)** | Cleveland, OH | Remote | Jan 13 |
@@ -70,8 +81,8 @@ For a complete list, click the following sortable link below:
 | **[Atlantic Health System](http://www.atlantichealth.org)** | **[Nursing Education (MMC) Summer Intern](https://jobright.ai/jobs/info/675776074ab1bdc46b2e7991?utm_campaign=1057&utm_source=git)** | Morristown, NJ | On Site | Jan 13 |
 | ↳ | **[Nursing Education (OMC) Summer Intern](https://jobright.ai/jobs/info/675776074ab1bdc46b2e79ea?utm_campaign=1057&utm_source=git)** | Summit, NJ | On Site | Jan 13 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Intern](https://jobright.ai/jobs/info/6785fb58a1266341a55a68a6?utm_campaign=1057&utm_source=git)** | Thousand Oaks, CA | On Site | Jan 13 |
-| **[NYS Office of Information Technology Services](https://its.ny.gov/)** | **[Student Assistant Internship (Administration), Ref# 8649](https://jobright.ai/jobs/info/6785e10ead3793e32eefd9ab?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Jan 13 |
-| ↳ | **[Student Assistant Internship (Administration), Ref# 8649](https://jobright.ai/jobs/info/6785e67304c3ba50f082ef49?utm_campaign=1057&utm_source=git)** | Albany, NY | Hybrid | Jan 13 |
+| **[NYS Office of Information Technology Services](https://its.ny.gov/)** | **[Student Assistant Internship (Administration), Ref# 8649](https://jobright.ai/jobs/info/6785e67304c3ba50f082ef49?utm_campaign=1057&utm_source=git)** | Albany, NY | Hybrid | Jan 13 |
+| ↳ | **[Student Assistant Internship (Administration), Ref# 8649](https://jobright.ai/jobs/info/6785e10ead3793e32eefd9ab?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Jan 13 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Intern](https://jobright.ai/jobs/info/6785ebc1994c85533e67492b?utm_campaign=1057&utm_source=git)** | Murray, KY | On Site | Jan 13 |
 | **[Heartland Veterinary Partners ](https://heartlandvetpartners.com/)** | **[Vet Tech Student Externship](https://jobright.ai/jobs/info/6785f659540079ebea2c6dc8?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Jan 13 |
 | ↳ | **[Vet Tech Student Externship](https://jobright.ai/jobs/info/6785f659540079ebea2c6db6?utm_campaign=1057&utm_source=git)** | Pewaukee, WI | On Site | Jan 13 |
@@ -80,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Personal Training Intern](https://jobright.ai/jobs/info/6785d8cab0c94d6b27445785?utm_campaign=1057&utm_source=git)** | Flower Mound, TX | On Site | Jan 13 |
 | **[Navy Region Northwest Fleet and Family Readiness (FFR)](https://www.navylifepnw.com/)** | **[Student Intern](https://jobright.ai/jobs/info/6785db6ccd26c67dafb816c9?utm_campaign=1057&utm_source=git)** | Bremerton, WA | On Site | Jan 13 |
 | ↳ | **[Student Intern](https://jobright.ai/jobs/info/6785d5e398a114096f271fd3?utm_campaign=1057&utm_source=git)** | Oak Harbor, WA | On Site | Jan 13 |
-| ↳ | **[Student Intern](https://jobright.ai/jobs/info/6785e10ead3793e32eefde6f?utm_campaign=1057&utm_source=git)** | Bangor, WA | On Site | Jan 13 |
 | ↳ | **[Student Intern](https://jobright.ai/jobs/info/6785e10ead3793e32eefde6e?utm_campaign=1057&utm_source=git)** | Everett, WA | On Site | Jan 13 |
+| ↳ | **[Student Intern](https://jobright.ai/jobs/info/6785e10ead3793e32eefde6f?utm_campaign=1057&utm_source=git)** | Bangor, WA | On Site | Jan 13 |
 | ↳ | **[Student Intern](https://jobright.ai/jobs/info/6785e10ead3793e32eefde70?utm_campaign=1057&utm_source=git)** | Keyport, WA | On Site | Jan 13 |
 | **[Genentech](http://gene.com)** | **[9 months Intern – Early Clinical Development, Medical Communications & Governance (Summer 2025 - 2026)](https://jobright.ai/jobs/info/6785d09e5f10e7a7d0df9fda?utm_campaign=1057&utm_source=git)** | South San Francisco, CA | On Site | Jan 13 |
 | **[Year Up United](http://yearup.org)** | **[Desktop Support Job Training Program](https://jobright.ai/jobs/info/6785d5e398a114096f27220e?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jan 13 |
@@ -104,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[Education Through Music](https://etmonline.org)** | **[Music Teacher Intern](https://jobright.ai/jobs/info/6785a40e46593b8c85d75783?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 13 |
 | **[University of Northern Colorado](http://www.unco.edu/)** | **[Advising Specialist](https://jobright.ai/jobs/info/6785a7ee1a62fe05398a755c?utm_campaign=1057&utm_source=git)** | Greeley, CO | On Site | Jan 13 |
 | **[Yates Construction](https://www.wgyates.com)** | **[INTERN](https://jobright.ai/jobs/info/678599dea23daa8c545257b5?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Jan 13 |
-| **[Seton Hall University](http://www.shu.edu/)** | **[IT Web Communication Team Student Assistant 2024 - 2025](https://jobright.ai/jobs/info/6785a40e46593b8c85d75682?utm_campaign=1057&utm_source=git)** | South Orange, NJ | On Site | Jan 13 |
-| ↳ | **[IT - Video Production Student Technology Assistant 2024-2025](https://jobright.ai/jobs/info/6785a40e46593b8c85d756ba?utm_campaign=1057&utm_source=git)** | South Orange, NJ | On Site | Jan 13 |
+| **[Seton Hall University](http://www.shu.edu/)** | **[IT - Video Production Student Technology Assistant 2024-2025](https://jobright.ai/jobs/info/6785a40e46593b8c85d756ba?utm_campaign=1057&utm_source=git)** | South Orange, NJ | On Site | Jan 13 |
+| ↳ | **[IT Web Communication Team Student Assistant 2024 - 2025](https://jobright.ai/jobs/info/6785a40e46593b8c85d75682?utm_campaign=1057&utm_source=git)** | South Orange, NJ | On Site | Jan 13 |
 | **[Bridgewater State University](http://www.bridgew.edu/)** | **[Spring 2025 Graduate Assistant - EXCEL Program](https://jobright.ai/jobs/info/6785915f29384755cc04a131?utm_campaign=1057&utm_source=git)** | Bridgewater, MA | On Site | Jan 13 |
 | **[Penn State University](http://psu.edu)** | **[Part Time - Student - Criminal Justice Research Assistant](https://jobright.ai/jobs/info/67859740de6019b3f62d62f2?utm_campaign=1057&utm_source=git)** | University Park, PA | On Site | Jan 13 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[HTM Intern](https://jobright.ai/jobs/info/67859740de6019b3f62d632f?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Jan 13 |
@@ -115,6 +126,7 @@ For a complete list, click the following sortable link below:
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/67858d3e40e66e889d44de25?utm_campaign=1057&utm_source=git)** | Greensboro, NC | On Site | Jan 13 |
 | **[Community First Solutions](http://www.community-first.org)** | **[Behavioral Health Internship](https://jobright.ai/jobs/info/67859413c7eee4021e8aeb76?utm_campaign=1057&utm_source=git)** | Hamilton, OH | On Site | Jan 13 |
 | **[Verizon](https://www.verizon.com)** | **[BEYA STEM Conference Full Stack Software Development Summer 2025 Internship](https://jobright.ai/jobs/info/6785915f29384755cc04a259?utm_campaign=1057&utm_source=git)** | Ashburn, VA | Hybrid | Jan 13 |
+| **[University of Michigan](https://www.umich.edu)** | **[Asst. in Research (UROP/FCERP) - WINTER 2025 (STUDENT/WORKSTUDY)](https://jobright.ai/jobs/info/678632c217d32389d2cade72?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Jan 13 |
 | **[Skookum](https://www.skookum.org/)** | **[Scholarship Intern](https://jobright.ai/jobs/info/67859b9892511b2579d3b3dc?utm_campaign=1057&utm_source=git)** | Bremerton, WA | On Site | Jan 13 |
 | **[We Energies](https://www.we-energies.com)** | **[Student - Clerical](https://jobright.ai/jobs/info/67858d3e40e66e889d44dd26?utm_campaign=1057&utm_source=git)** | Burlington, WI | On Site | Jan 13 |
 | ↳ | **[Student - Clerical](https://jobright.ai/jobs/info/67858d3e40e66e889d44dd08?utm_campaign=1057&utm_source=git)** | Menomonee Falls, WI | On Site | Jan 13 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SSM Health](https://www.ssmhealth.com/)** | **[Structural Interventional Fellowship in the Saint Louis Metropolitan Area](https://jobright.ai/jobs/info/6785651503ef3954026505eb?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Jan 13 |
 | **[UHY LLP, Certified Public Accountants](https://uhy-us.com/)** | **[Campus Intern Program](https://jobright.ai/jobs/info/6785573c26980a5226106149?utm_campaign=1057&utm_source=git)** | Greater Richmond Region | On Site | Jan 13 |
 | **[Chicago Cubs](http://www.cubs.com)** | **[2025 Chicago Cubs Summer Internship Program](https://jobright.ai/jobs/info/6785e80fd597a90ed3cd2a14?utm_campaign=1057&utm_source=git)** | Chicago, Illinois | On Site | Jan 13 |
-| **[Ancestry](http://ancestry.com)** | **[2025 Internships](https://jobright.ai/jobs/info/6785500472e9dd912e63d189?utm_campaign=1057&utm_source=git)** | Lehi, Utah | On Site | Jan 13 |
-| **[Health Care Service Corporation](https://www.hcsc.com)** | **[University Relations – Digital Communications Intern](https://jobright.ai/jobs/info/6785500472e9dd912e63d1a6?utm_campaign=1057&utm_source=git)** | IL - Chicago | On Site | Jan 13 |
-| **[Exiger](http://www.exiger.com)** | **[Junior Implementation Intern](https://jobright.ai/jobs/info/678551390f2f5faefcf5bb77?utm_campaign=1057&utm_source=git)** | McLean, VA | Hybrid | Jan 13 |
-| ↳ | **[Junior Implementation Intern](https://jobright.ai/jobs/info/67854d43d21f5b159baf2e6e?utm_campaign=1057&utm_source=git)** | McLean, VA | Hybrid | Jan 13 |
-| **[Marriott International](https://www.marriott.com/hotels/travel/mkeak-hotel-metro-autograph-collection/)** | **[University Intern-US](https://jobright.ai/jobs/info/678543ce8dca791d7b484960?utm_campaign=1057&utm_source=git)** | 900 Newport Center Drive, Newport Beach, CA, 92660, US | On Site | Jan 13 |
-| **[Middlebury College](http://www.middlebury.edu/)** | **[GIS Specialist/Teaching Fellow/Internship Coordinator](https://jobright.ai/jobs/info/678551390f2f5faefcf5bbde?utm_campaign=1057&utm_source=git)** | Middlebury, VT | On Site | Jan 13 |
-| **[BAYADA Home Health Care](http://www.bayada.com)** | **[Home Health Aide Program](https://jobright.ai/jobs/info/6785419e837330522308212d?utm_campaign=1057&utm_source=git)** | Bloomfield, NJ 07003 | 40.8017236 | -74.189874924 | On Site | Jan 13 |
-| **[Skookum](https://www.skookum.org/)** | **[Scholarship Intern](https://jobright.ai/jobs/info/67853d8fbe13a3736726d183?utm_campaign=1057&utm_source=git)** | Bremerton, Washington | On Site | Jan 13 |
-| **[Pacific Clinics](https://www.pacificclinics.org)** | **[Clinical Intern](https://jobright.ai/jobs/info/67804ac63c02699eef4aaf90?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Jan 13 |
-| **[Stride, Inc.](https://www.stridelearning.com)** | **[Talent Development Training Intern](https://jobright.ai/jobs/info/67852f5e8ee5dccdba509668?utm_campaign=1057&utm_source=git)** | Virginia, United States | Remote | Jan 13 |
-| **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Registered Intern Therapist Outpatient](https://jobright.ai/jobs/info/675fc14d3380d07625e3c574?utm_campaign=1057&utm_source=git)** | Bradenton, FL | On Site | Jan 13 |
-| **[Intermountain Health](http://intermountainhealthcare.org/)** | **[Surgical Technology Apprentice - Intermountain Health Training program](https://jobright.ai/jobs/info/67851780a77dd1fe1cd6714b?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
