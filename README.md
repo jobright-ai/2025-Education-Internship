@@ -58,7 +58,10 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Summer Treatment Program Internship](https://jobright.ai/jobs/info/679e0c5384fc5d3938398466?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Feb 01 |
+| **[FOX Sports](http://foxsports.com)** | **[Summer 2025 FOX Sports Internship Program - Los Angeles](https://jobright.ai/jobs/info/6789475526bd20a87814cc52?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Feb 01 |
+| **[KCTCS](https://southeast.kctcs.edu/)** | **[Student Learning Communities (SLC) Peer Guide](https://jobright.ai/jobs/info/679e168614269032adfbf037?utm_campaign=1057&utm_source=git)** | Lexington, KY | On Site | Feb 01 |
 | **[Endeavor](http://www.endeavorco.com/)** | **[Intern, Experiential - 160over90](https://jobright.ai/jobs/info/677cbb2a22ce91b9ca3a3ec9?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Feb 01 |
+| **[Year Up United](http://yearup.org)** | **[Financial Advisory Career Training Program](https://jobright.ai/jobs/info/679e13671286245d4e50c38f?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Feb 01 |
 | **[Bluebeam](http://www.bluebeam.com)** | **[Summer Interns - Dallas & Pasadena](https://jobright.ai/jobs/info/670f1546def1ec4937bbe213?utm_campaign=1057&utm_source=git)** | Dallas, TX | Remote | Feb 01 |
 | **[Year Up United](http://yearup.org)** | **[Data Management Career Training Opportunity](https://jobright.ai/jobs/info/679dfd2bb2224a45ccf0d955?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Feb 01 |
 | ↳ | **[Desktop Support Job Training Program](https://jobright.ai/jobs/info/679dfd2bb2224a45ccf0d9da?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Feb 01 |
@@ -101,22 +104,23 @@ For a complete list, click the following sortable link below:
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Summer 2025 - Design, Strategy, and Technology - San Francisco](https://jobright.ai/jobs/info/679d759aeb19fb183b7d4b71?utm_campaign=1057&utm_source=git)** | San Francisco, CA, US | On Site | Jan 31 |
 | **[MercyOne](https://www.mercyone.org/)** | **[Intern (RN) - Cath Lab - Full Time - Days](https://jobright.ai/jobs/info/679d84ba1465a01d0f39e175?utm_campaign=1057&utm_source=git)** | Mason City, IA | On Site | Jan 31 |
 | **[CHI](https://www.catholichealthinitiatives.org/)** | **[Nursing Internship OR](https://jobright.ai/jobs/info/679d84ba1465a01d0f39e27d?utm_campaign=1057&utm_source=git)** | Bismarck, ND | On Site | Jan 31 |
-| **[University of Kentucky](https://medicine.uky.edu/centers/sbcoa/)** | **[CASE Advancement Internship](https://jobright.ai/jobs/info/679d7caa3d4043d6a1070098?utm_campaign=1057&utm_source=git)** | Lexington, KY | On Site | Jan 31 |
+| **[University of Kentucky](https://ccm.med.uky.edu/)** | **[CASE Advancement Internship](https://jobright.ai/jobs/info/679d7caa3d4043d6a1070098?utm_campaign=1057&utm_source=git)** | Lexington, KY | On Site | Jan 31 |
 | **[Baker Electric](http://baker-electric.com)** | **[Intern Summer 2025 Brea](https://jobright.ai/jobs/info/679d6f7790d23482a7c915bd?utm_campaign=1057&utm_source=git)** | Baker Electric Brea Office, Brea, California, United States of America | On Site | Jan 31 |
-| **[Galileo Learning](http://www.galileo-camps.com)** | **[Summer Camp Intern (Littleton)](https://jobright.ai/jobs/info/679d6ae0e2041034e29b3b3e?utm_campaign=1057&utm_source=git)** | Littleton, CO, USA | On Site | Jan 31 |
-| ↳ | **[Summer Camp Intern (Denver Platt Park)](https://jobright.ai/jobs/info/679d6ae0e2041034e29b3bc5?utm_campaign=1057&utm_source=git)** | Denver, CO, USA | On Site | Jan 31 |
+| **[Galileo Learning](http://www.galileo-camps.com)** | **[Summer Camp Intern (Denver Platt Park)](https://jobright.ai/jobs/info/679d6ae0e2041034e29b3bc5?utm_campaign=1057&utm_source=git)** | Denver, CO, USA | On Site | Jan 31 |
 | ↳ | **[Summer Camp Intern (Parker)](https://jobright.ai/jobs/info/679d6ae0e2041034e29b3b46?utm_campaign=1057&utm_source=git)** | Parker, CO, USA | On Site | Jan 31 |
+| ↳ | **[Summer Camp Intern (Littleton)](https://jobright.ai/jobs/info/679d6ae0e2041034e29b3b3e?utm_campaign=1057&utm_source=git)** | Littleton, CO, USA | On Site | Jan 31 |
 | ↳ | **[Summer Camp Intern (Broomfield)](https://jobright.ai/jobs/info/679d6ae0e2041034e29b3b57?utm_campaign=1057&utm_source=git)** | Broomfield, CO, USA | On Site | Jan 31 |
-| ↳ | **[Summer Camp Intern (Denver- Highland/ Wheat Ridge)](https://jobright.ai/jobs/info/679d6ae0e2041034e29b3b84?utm_campaign=1057&utm_source=git)** | Denver, CO, USA | On Site | Jan 31 |
 | ↳ | **[Summer Camp Intern (Highlands Ranch)](https://jobright.ai/jobs/info/679d6ae0e2041034e29b3b79?utm_campaign=1057&utm_source=git)** | Highlands Ranch, CO, USA | On Site | Jan 31 |
-| ↳ | **[Summer Camp Intern (Greenwood Village)](https://jobright.ai/jobs/info/679d6ae0e2041034e29b3b91?utm_campaign=1057&utm_source=git)** | Greenwood Village, CO, USA | On Site | Jan 31 |
 | ↳ | **[Summer Camp Intern (Boulder)](https://jobright.ai/jobs/info/679d6ae0e2041034e29b3b52?utm_campaign=1057&utm_source=git)** | Boulder, CO, USA | On Site | Jan 31 |
+| ↳ | **[Summer Camp Intern (Greenwood Village)](https://jobright.ai/jobs/info/679d6ae0e2041034e29b3b91?utm_campaign=1057&utm_source=git)** | Greenwood Village, CO, USA | On Site | Jan 31 |
+| ↳ | **[Summer Camp Intern (Denver- Highland/ Wheat Ridge)](https://jobright.ai/jobs/info/679d6ae0e2041034e29b3b84?utm_campaign=1057&utm_source=git)** | Denver, CO, USA | On Site | Jan 31 |
 | ↳ | **[Summer Camp Intern (Denver Park Hill/ Central Park)](https://jobright.ai/jobs/info/679d6ae0e2041034e29b3b40?utm_campaign=1057&utm_source=git)** | Denver, CO, USA | On Site | Jan 31 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern - Tele/Neuro](https://jobright.ai/jobs/info/679d8787e3b57e1a4e00845d?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Jan 31 |
 | **[Porter Novelli](http://www.porternovelli.com)** | **[Summer Intern - Health](https://jobright.ai/jobs/info/679d6b07b71b40e5f27d9ad4?utm_campaign=1057&utm_source=git)** | New York, New York or Washington, DC | On Site | Jan 31 |
 | **[Marriott International](http://travel-brilliantly.marriott.com)** | **[Hotel Operations Internship](https://jobright.ai/jobs/info/679d6ae0e2041034e29b3af8?utm_campaign=1057&utm_source=git)** | 2101 Richard Arrington Jr Blvd N, Birmingham, AL, 35203, US | On Site | Jan 31 |
 | **[Vizance](https://vizance.com/)** | **[Summer Internship](https://jobright.ai/jobs/info/679d6ae0e2041034e29b3be8?utm_campaign=1057&utm_source=git)** | Hartland, WI, USA | On Site | Jan 31 |
 | **[The Frick Collection](http://www.frick.org/)** | **[Library Access Internship for Graduate Students](https://jobright.ai/jobs/info/679d6ae0e2041034e29b3bda?utm_campaign=1057&utm_source=git)** | New York, NY, USA | On Site | Jan 31 |
+| **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Resource Float Pool](https://jobright.ai/jobs/info/679e1f85f50e218d4f51ba30?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Jan 31 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Intern (RN) - Cath Lab - Full Time - Days](https://jobright.ai/jobs/info/679d70d096badb40019c94e2?utm_campaign=1057&utm_source=git)** | Mason City, IA | On Site | Jan 31 |
 | **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Learning & Development Co-op](https://jobright.ai/jobs/info/679d6b07b71b40e5f27d9bd5?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Jan 31 |
 | **[Galileo Learning](http://www.galileo-camps.com)** | **[Summer Camp Intern (Broomfield)](https://jobright.ai/jobs/info/679d84ba1465a01d0f39e1e6?utm_campaign=1057&utm_source=git)** | Broomfield, CO | On Site | Jan 31 |
@@ -138,6 +142,7 @@ For a complete list, click the following sortable link below:
 | **[NEOGOV](http://www.neogov.com)** | **[Student Intern/Graduate Student Intern (Part-Time) - Department of Transportation](https://jobright.ai/jobs/info/679d4f16b155637a5ddbf09f?utm_campaign=1057&utm_source=git)** | San Jose | On Site | Jan 31 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Intern (RN) - Cath Lab - Full Time - Days](https://jobright.ai/jobs/info/679d4f16b155637a5ddbf17a?utm_campaign=1057&utm_source=git)** | MercyOne North Iowa Medical Center - East Campus, Mason City, Iowa | On Site | Jan 31 |
 | **[Year Up United](http://yearup.org)** | **[Customer Service Job Training Program](https://jobright.ai/jobs/info/679d5996af6620d4252ddee0?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Jan 31 |
+| ↳ | **[IT Job Training Opportunity](https://jobright.ai/jobs/info/679d5996af6620d4252de04b?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Jan 31 |
 | ↳ | **[Software Job Training Program](https://jobright.ai/jobs/info/679d5996af6620d4252de04d?utm_campaign=1057&utm_source=git)** | Wilmington, DE | On Site | Jan 31 |
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Summer Internship 2025 - Graduate Research](https://jobright.ai/jobs/info/679d5996af6620d4252de051?utm_campaign=1057&utm_source=git)** | Malvern, PA | Hybrid | Jan 31 |
 | **[Year Up United](http://yearup.org)** | **[Financial Operations Job Training Program](https://jobright.ai/jobs/info/679d5996af6620d4252de059?utm_campaign=1057&utm_source=git)** | Wilmington, DE | On Site | Jan 31 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Utility Supply and Construction Company](https://www.uscco.com)** | **[2025 Summer Internship](https://jobright.ai/jobs/info/679d493cea0f8d197dd50253?utm_campaign=1057&utm_source=git)** | Reed City, MI | On Site | Jan 31 |
 | **[Medpace](http://www.medpace.com)** | **[Medpace Virtual IT Intern Info Session - February 27th, 2025](https://jobright.ai/jobs/info/679d3e7b6cf67dfba4ec645c?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | Hybrid | Jan 31 |
 | **[PVH Corp.](https://www.pvh.com)** | **[Intern, Strategic Enablement, Global Product Kitchen - PVH Corp.](https://jobright.ai/jobs/info/679d554e9bc6e6339bab03e2?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Jan 31 |
-| **[WSFS Bank](http://www.wsfsbank.com/)** | **[2025 Summer Internship Program](https://jobright.ai/jobs/info/679d3466cc9e78fe9f008159?utm_campaign=1057&utm_source=git)** | Wilmington, DE | Hybrid | Jan 31 |
-| **[Summit BHC](http://summitbhc.com/)** | **[Counselor Intern / FT](https://jobright.ai/jobs/info/679d4f16b155637a5ddbf142?utm_campaign=1057&utm_source=git)** | Seabrook | On Site | Jan 31 |
-| **[Orange County Government](http://www.ocfl.net)** | **[Student Intern - College](https://jobright.ai/jobs/info/679d4edff02d4628a94eff82?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Jan 31 |
-| **[The New School](http://www.newschool.edu/nssr/)** | **[Internship Coordinator](https://jobright.ai/jobs/info/679d4b70b0de791cd694df14?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Jan 31 |
-| **[William Blair](http://www.williamblair.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/679d2b38d81538790229dfdd?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
