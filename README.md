@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ascension](https://healthcare.ascension.org)** | **[Respiratory Therapy Student Intern](https://jobright.ai/jobs/info/679f6117460b3fa3c9f6bfdb?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Feb 02 |
+| **[Year Up United](http://yearup.org)** | **[Financial Advisory Career Training Program](https://jobright.ai/jobs/info/679f51fbea19e9754b5356bb?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Feb 02 |
+| ↳ | **[Information Security Job Training Program](https://jobright.ai/jobs/info/679f51fbea19e9754b5356c1?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Feb 02 |
+| ↳ | **[Desktop Support Job Training Program](https://jobright.ai/jobs/info/679f4576a70e9151f8d6db9b?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Feb 02 |
 | **[Westminster University](http://westminsteru.edu)** | **[Meldrum Science Center Research Assistant - S](https://jobright.ai/jobs/info/679f3cbd23d41dc499ce1706?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | Feb 01 |
+| **[Community College of Aurora](http://www.ccaurora.edu/)** | **[Research & Instruction Intern](https://jobright.ai/jobs/info/679f3fd9ce8869f677ba9059?utm_campaign=1057&utm_source=git)** | Aurora, CO | On Site | Feb 01 |
 | **[UnityPoint Health](http://www.unitypoint.org/)** | **[Student Nurse Internship - Summer 2025 - Home Health/Hospice - Des Moines IA](https://jobright.ai/jobs/info/679c2674036078aa07d59c53?utm_campaign=1057&utm_source=git)** | Urbandale, IA | On Site | Feb 01 |
 | **[Year Up United](http://yearup.org)** | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/679f072fb5d056c4171a7c7a?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Feb 01 |
 | ↳ | **[Desktop Support Job Training Program](https://jobright.ai/jobs/info/679f072fb5d056c4171a7c7c?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Feb 01 |
-| ↳ | **[Information Security Job Training Program](https://jobright.ai/jobs/info/679ef9462edd8d00beffb872?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Feb 01 |
-| ↳ | **[Financial Advisory Career Training Program](https://jobright.ai/jobs/info/679ef3fe1cce1953b839859f?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Feb 01 |
 | ↳ | **[Data Management Career Training Opportunity](https://jobright.ai/jobs/info/679ef9462edd8d00beffb88f?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Feb 01 |
 | **[Prevailance, Inc.](http://prevailance.com)** | **[Analytics Development SkillBridge Program](https://jobright.ai/jobs/info/679ed9516851cd8ae449d114?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA | On Site | Feb 01 |
 | **[Trayt Health](https://trayt.health)** | **[LCDC Intern](https://jobright.ai/jobs/info/679ec072cd923297678d8331?utm_campaign=1057&utm_source=git)** | Deer Park, TX | On Site | Feb 01 |
@@ -124,11 +127,11 @@ For a complete list, click the following sortable link below:
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Labor & Delivery Unit](https://jobright.ai/jobs/info/679e29b86793194397902c87?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Jan 31 |
 | **[CHI](https://www.catholichealthinitiatives.org/)** | **[Nursing Internship OR](https://jobright.ai/jobs/info/679d84ba1465a01d0f39e27d?utm_campaign=1057&utm_source=git)** | Bismarck, ND | On Site | Jan 31 |
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Psychiatric Services](https://jobright.ai/jobs/info/679e29b86793194397902c88?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Jan 31 |
-| **[University of Kentucky](https://ccm.med.uky.edu/)** | **[CASE Advancement Internship](https://jobright.ai/jobs/info/679d7caa3d4043d6a1070098?utm_campaign=1057&utm_source=git)** | Lexington, KY | On Site | Jan 31 |
+| **[University of Kentucky](https://www.research.uky.edu/)** | **[CASE Advancement Internship](https://jobright.ai/jobs/info/679d7caa3d4043d6a1070098?utm_campaign=1057&utm_source=git)** | Lexington, KY | On Site | Jan 31 |
 | **[Baker Electric](http://baker-electric.com)** | **[Intern Summer 2025 Brea](https://jobright.ai/jobs/info/679d6f7790d23482a7c915bd?utm_campaign=1057&utm_source=git)** | Baker Electric Brea Office, Brea, California, United States of America | On Site | Jan 31 |
-| **[Galileo Learning](http://www.galileo-camps.com)** | **[Summer Camp Intern (Littleton)](https://jobright.ai/jobs/info/679d6ae0e2041034e29b3b3e?utm_campaign=1057&utm_source=git)** | Littleton, CO, USA | On Site | Jan 31 |
+| **[Galileo Learning](http://www.galileo-camps.com)** | **[Summer Camp Intern (Parker)](https://jobright.ai/jobs/info/679d6ae0e2041034e29b3b46?utm_campaign=1057&utm_source=git)** | Parker, CO, USA | On Site | Jan 31 |
 | ↳ | **[Summer Camp Intern (Denver Platt Park)](https://jobright.ai/jobs/info/679d6ae0e2041034e29b3bc5?utm_campaign=1057&utm_source=git)** | Denver, CO, USA | On Site | Jan 31 |
-| ↳ | **[Summer Camp Intern (Parker)](https://jobright.ai/jobs/info/679d6ae0e2041034e29b3b46?utm_campaign=1057&utm_source=git)** | Parker, CO, USA | On Site | Jan 31 |
+| ↳ | **[Summer Camp Intern (Littleton)](https://jobright.ai/jobs/info/679d6ae0e2041034e29b3b3e?utm_campaign=1057&utm_source=git)** | Littleton, CO, USA | On Site | Jan 31 |
 | ↳ | **[Summer Camp Intern (Broomfield)](https://jobright.ai/jobs/info/679d6ae0e2041034e29b3b57?utm_campaign=1057&utm_source=git)** | Broomfield, CO, USA | On Site | Jan 31 |
 | ↳ | **[Summer Camp Intern (Boulder)](https://jobright.ai/jobs/info/679d6ae0e2041034e29b3b52?utm_campaign=1057&utm_source=git)** | Boulder, CO, USA | On Site | Jan 31 |
 | ↳ | **[Summer Camp Intern (Denver- Highland/ Wheat Ridge)](https://jobright.ai/jobs/info/679d6ae0e2041034e29b3b84?utm_campaign=1057&utm_source=git)** | Denver, CO, USA | On Site | Jan 31 |
@@ -137,7 +140,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Camp Intern (Denver Park Hill/ Central Park)](https://jobright.ai/jobs/info/679d6ae0e2041034e29b3b40?utm_campaign=1057&utm_source=git)** | Denver, CO, USA | On Site | Jan 31 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern - Tele/Neuro](https://jobright.ai/jobs/info/679d8787e3b57e1a4e00845d?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Jan 31 |
 | **[Porter Novelli](http://www.porternovelli.com)** | **[Summer Intern - Health](https://jobright.ai/jobs/info/679d6b07b71b40e5f27d9ad4?utm_campaign=1057&utm_source=git)** | New York, New York or Washington, DC | On Site | Jan 31 |
-| **[Marriott International](http://travel-brilliantly.marriott.com)** | **[Hotel Operations Internship](https://jobright.ai/jobs/info/679d6ae0e2041034e29b3af8?utm_campaign=1057&utm_source=git)** | 2101 Richard Arrington Jr Blvd N, Birmingham, AL, 35203, US | On Site | Jan 31 |
+| **[Marriott International](https://www.marriott.com/hotels/travel/mkeak-hotel-metro-autograph-collection/)** | **[Hotel Operations Internship](https://jobright.ai/jobs/info/679d6ae0e2041034e29b3af8?utm_campaign=1057&utm_source=git)** | 2101 Richard Arrington Jr Blvd N, Birmingham, AL, 35203, US | On Site | Jan 31 |
 | **[Vizance](https://vizance.com/)** | **[Summer Internship](https://jobright.ai/jobs/info/679d6ae0e2041034e29b3be8?utm_campaign=1057&utm_source=git)** | Hartland, WI, USA | On Site | Jan 31 |
 | **[The Frick Collection](http://www.frick.org/)** | **[Library Access Internship for Graduate Students](https://jobright.ai/jobs/info/679d6ae0e2041034e29b3bda?utm_campaign=1057&utm_source=git)** | New York, NY, USA | On Site | Jan 31 |
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Resource Float Pool](https://jobright.ai/jobs/info/679e1f85f50e218d4f51ba30?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Jan 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Galileo Learning](http://www.galileo-camps.com)** | **[Summer Camp Intern (Denver Platt Park)](https://jobright.ai/jobs/info/679d6e68343eb009a5b6f56b?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Jan 31 |
 | ↳ | **[Summer Camp Intern (Boulder)](https://jobright.ai/jobs/info/679d6e68343eb009a5b6f566?utm_campaign=1057&utm_source=git)** | Boulder, CO | On Site | Jan 31 |
 | ↳ | **[Summer Camp Intern (Littleton)](https://jobright.ai/jobs/info/679d6e68343eb009a5b6f55f?utm_campaign=1057&utm_source=git)** | Littleton, CO | On Site | Jan 31 |
-| ↳ | **[Summer Camp Intern (Highlands Ranch)](https://jobright.ai/jobs/info/679d6e68343eb009a5b6f56c?utm_campaign=1057&utm_source=git)** | Highlands Ranch, CO | On Site | Jan 31 |
-| ↳ | **[Summer Camp Intern (San Francisco Twin Peaks/ Noe Valley)](https://jobright.ai/jobs/info/679d6e68343eb009a5b6f615?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Jan 31 |
-| ↳ | **[Summer Camp Intern (Denver- Highland/ Wheat Ridge)](https://jobright.ai/jobs/info/679d6b07b71b40e5f27d9bf0?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
