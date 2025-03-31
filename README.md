@@ -59,9 +59,10 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[BigID](https://www.bigid.com)** | **[Instructional Designer Intern](https://jobright.ai/jobs/info/67e9ac7970f3d3bac6203408?utm_campaign=1057&utm_source=git)** | Remote - US | Remote | Mar 30 |
 | **[Milpitas Unified School District](https://musd.org)** | **[Director, Elementary Education (internal applicants only)](https://jobright.ai/jobs/info/67e9ad97cbb82974f3f31634?utm_campaign=1057&utm_source=git)** | Milpitas, CA | On Site | Mar 30 |
+| **[Behavioral Health Group - BHG](https://www.bhgrecovery.com)** | **[Counselor Internship](https://jobright.ai/jobs/info/67aab408597416200522a430?utm_campaign=1057&utm_source=git)** | Westminster, CO | On Site | Mar 30 |
 | **[Shepherd University](https://www.shepherd.edu/)** | **[Summer Student Swim Instructor/Certification Class Instructor](https://jobright.ai/jobs/info/67e97273c94697f2065343dd?utm_campaign=1057&utm_source=git)** | Shepherdstown, WV | On Site | Mar 30 |
 | **[Kaufman Rossin](http://kaufmanrossin.com)** | **[Jumpstart 2025 - Summer Leadership Program](https://jobright.ai/jobs/info/6792b540e779351adf8ad6e9?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Mar 30 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[Instructional Designer, Tahlequah](https://jobright.ai/jobs/info/67e9634d54ec434e24096374?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Mar 30 |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[Instructional Designer, Tahlequah](https://jobright.ai/jobs/info/67ea076085598f3a4307ef24?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Mar 30 |
 | **[GA Telesis](http://www.gatelesis.com/)** | **[Summer Intern- 2025](https://jobright.ai/jobs/info/67e941e5494b171173cd558f?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 30 |
 | **[Compass Health Center](https://compasshealthcenter.net)** | **[Family Therapist Intern](https://jobright.ai/jobs/info/674e76661417c381a0dfd7ba?utm_campaign=1057&utm_source=git)** | Oak Brook, IL | On Site | Mar 30 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2025 Summer Business Administration/Legal & HR Intern](https://jobright.ai/jobs/info/67e9316d66e09885b00b51cc?utm_campaign=1057&utm_source=git)** | North Carolina, United States | On Site | Mar 30 |
@@ -124,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[Rocket](https://rocket.com/?utm_source=linkedin&utm_medium=social&source=SocialMedia-LinkedInOrganic)** | **[Instructional Design Intern - Summer 2025](https://jobright.ai/jobs/info/67e731c50b7de206a8a13b20?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Mar 28 |
 | **[Crawford, Murphy & Tilly](http://cmtengr.com)** | **[Career Fair: Uni of IL Springfield - Intern and Entry Roles](https://jobright.ai/jobs/info/67e7289498ae388ac22cec51?utm_campaign=1057&utm_source=git)** | Springfield, IL | On Site | Mar 28 |
 | **[Texas A&M AgriLife Research](https://agriliferesearch.tamu.edu/)** | **[Student Coordinator](https://jobright.ai/jobs/info/67e7289498ae388ac22cebee?utm_campaign=1057&utm_source=git)** | College Station, TX | On Site | Mar 28 |
-| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Rehabilitation Tech - (SEOP)](https://jobright.ai/jobs/info/67e7289498ae388ac22cedf7?utm_campaign=1057&utm_source=git)** | Eau Claire, WI | On Site | Mar 28 |
-| ↳ | **[Undergraduate Intern – Epidemiology](https://jobright.ai/jobs/info/67e7289498ae388ac22ced5c?utm_campaign=1057&utm_source=git)** | Rochester, MN | On Site | Mar 28 |
+| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Undergraduate Intern – Epidemiology](https://jobright.ai/jobs/info/67e7289498ae388ac22ced5c?utm_campaign=1057&utm_source=git)** | Rochester, MN | On Site | Mar 28 |
+| ↳ | **[Rehabilitation Tech - (SEOP)](https://jobright.ai/jobs/info/67e7289498ae388ac22cedf7?utm_campaign=1057&utm_source=git)** | Eau Claire, WI | On Site | Mar 28 |
 | **[Fermilab](http://fnal.gov)** | **[Teacher Research Associates (TRAC) - 2025](https://jobright.ai/jobs/info/67e7289498ae388ac22cee99?utm_campaign=1057&utm_source=git)** | Batavia, IL | On Site | Mar 28 |
 | **[Family & Children's Association](https://fcali.org)** | **[Student Internship-Families Healing Together](https://jobright.ai/jobs/info/67e7289498ae388ac22cef6e?utm_campaign=1057&utm_source=git)** | Bohemia, NY | On Site | Mar 28 |
 | **[CME Group](http://www.cmegroup.com)** | **[Credit Product - Research Internship - Summer 2025](https://jobright.ai/jobs/info/67e71beb34dbb318b8291d4c?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Mar 28 |
@@ -133,28 +134,27 @@ For a complete list, click the following sortable link below:
 | **[BigID](https://www.bigid.com)** | **[Instructional Designer Intern](https://jobright.ai/jobs/info/67e716388c9a71412c3fb57c?utm_campaign=1057&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[RS Technical School Intern (Part TIme)](https://jobright.ai/jobs/info/67e716388c9a71412c3fb64f?utm_campaign=1057&utm_source=git)** | Appleton, WI | Hybrid | Mar 28 |
 | ↳ | **[A&P Technical School (Summer) Intern](https://jobright.ai/jobs/info/67e716388c9a71412c3fb662?utm_campaign=1057&utm_source=git)** | Appleton, WI | On Site | Mar 28 |
-| **[Family Health Centers of San Diego](https://www.fhcsd.org/)** | **[Volunteer, Nursing Student Intern](https://jobright.ai/jobs/info/67e9b01656513b0a2a541754?utm_campaign=1057&utm_source=git)** | DTFHC at Connections - San Diego, CA | On Site | Mar 28 |
-| ↳ | **[Volunteer, Nursing Student Intern](https://jobright.ai/jobs/info/67e9b01656513b0a2a541749?utm_campaign=1057&utm_source=git)** | Beach Area FHC - San Diego, CA | On Site | Mar 28 |
+| **[Family Health Centers of San Diego](https://www.fhcsd.org/)** | **[Volunteer, Nursing Student Intern](https://jobright.ai/jobs/info/67e9b01656513b0a2a541749?utm_campaign=1057&utm_source=git)** | Beach Area FHC - San Diego, CA | On Site | Mar 28 |
 | ↳ | **[Volunteer, Nursing Student Intern](https://jobright.ai/jobs/info/67e9b01656513b0a2a541744?utm_campaign=1057&utm_source=git)** | Logan Heights FHC - San Diego, CA | On Site | Mar 28 |
-| ↳ | **[Volunteer, Nursing Student Intern](https://jobright.ai/jobs/info/67e9b01656513b0a2a54174a?utm_campaign=1057&utm_source=git)** | Gateway - San Diego, CA | On Site | Mar 28 |
-| ↳ | **[Volunteer, Nursing Student Intern](https://jobright.ai/jobs/info/67e9b01656513b0a2a54140d?utm_campaign=1057&utm_source=git)** | Beach Area FHC-Annex - San Diego, CA | On Site | Mar 28 |
-| ↳ | **[Volunteer, Nursing Student Intern](https://jobright.ai/jobs/info/67e9b01656513b0a2a54174f?utm_campaign=1057&utm_source=git)** | Rice FHC - San Diego, CA | On Site | Mar 28 |
-| ↳ | **[Volunteer, Nursing Student Intern](https://jobright.ai/jobs/info/67e9b01656513b0a2a541751?utm_campaign=1057&utm_source=git)** | Sherman Heights FHC - San Diego, CA | On Site | Mar 28 |
+| ↳ | **[Volunteer, Nursing Student Intern](https://jobright.ai/jobs/info/67e9b01656513b0a2a541754?utm_campaign=1057&utm_source=git)** | DTFHC at Connections - San Diego, CA | On Site | Mar 28 |
+| ↳ | **[Volunteer, Nursing Student Intern](https://jobright.ai/jobs/info/67e9b01656513b0a2a541753?utm_campaign=1057&utm_source=git)** | Diamond Neighborhoods FHC - San Diego, CA | On Site | Mar 28 |
+| ↳ | **[Volunteer, Nursing Student Intern](https://jobright.ai/jobs/info/67e9b01656513b0a2a541740?utm_campaign=1057&utm_source=git)** | Elm Street FHC - San Diego, CA | On Site | Mar 28 |
 | ↳ | **[Volunteer, Nursing Student Intern](https://jobright.ai/jobs/info/67e9b01656513b0a2a54174e?utm_campaign=1057&utm_source=git)** | Ibarra FHC - San Diego, CA | On Site | Mar 28 |
-| ↳ | **[Volunteer, Nursing Student Intern](https://jobright.ai/jobs/info/67e9b01656513b0a2a541747?utm_campaign=1057&utm_source=git)** | College Grove Family Health Center  - San Diego, CA | On Site | Mar 28 |
-| ↳ | **[Volunteer, Nursing Student Intern](https://jobright.ai/jobs/info/67e9b01656513b0a2a54173f?utm_campaign=1057&utm_source=git)** | Grossmont Spring Valley FHC - San Diego, CA | On Site | Mar 28 |
-| ↳ | **[Volunteer, Nursing Student Intern](https://jobright.ai/jobs/info/67e9b01656513b0a2a541756?utm_campaign=1057&utm_source=git)** | Chula Vista FHC - San Diego, CA | On Site | Mar 28 |
-| ↳ | **[Volunteer, Nursing Student Intern](https://jobright.ai/jobs/info/67e9b01656513b0a2a541742?utm_campaign=1057&utm_source=git)** | Oak Park FHC - San Diego, CA | On Site | Mar 28 |
+| ↳ | **[Volunteer, Nursing Student Intern](https://jobright.ai/jobs/info/67e9b01656513b0a2a54174c?utm_campaign=1057&utm_source=git)** | Hillcrest FHC - San Diego, CA | On Site | Mar 28 |
 | ↳ | **[Volunteer, Nursing Student Intern](https://jobright.ai/jobs/info/67e9b01656513b0a2a54174b?utm_campaign=1057&utm_source=git)** | Hillcrest FHC-Annex - San Diego, CA | On Site | Mar 28 |
 | ↳ | **[Volunteer, Nursing Student Intern](https://jobright.ai/jobs/info/67e9b01656513b0a2a541746?utm_campaign=1057&utm_source=git)** | National City FHC - San Diego, CA | On Site | Mar 28 |
 | ↳ | **[Volunteer, Nursing Student Intern](https://jobright.ai/jobs/info/67e9b01656513b0a2a541748?utm_campaign=1057&utm_source=git)** | Familyhealth on Commercial - San Diego, CA | On Site | Mar 28 |
-| ↳ | **[Volunteer, Nursing Student Intern](https://jobright.ai/jobs/info/67e9b01656513b0a2a54174d?utm_campaign=1057&utm_source=git)** | City Heights East - San Diego, CA | On Site | Mar 28 |
+| ↳ | **[Volunteer, Nursing Student Intern](https://jobright.ai/jobs/info/67e9b01656513b0a2a541745?utm_campaign=1057&utm_source=git)** | Lemon Grove FHC - San Diego, CA | On Site | Mar 28 |
+| ↳ | **[Volunteer, Nursing Student Intern](https://jobright.ai/jobs/info/67e9b01656513b0a2a541752?utm_campaign=1057&utm_source=git)** | City Heights FHC - San Diego, CA | On Site | Mar 28 |
+| ↳ | **[Volunteer, Nursing Student Intern](https://jobright.ai/jobs/info/67e9b01656513b0a2a54174a?utm_campaign=1057&utm_source=git)** | Gateway - San Diego, CA | On Site | Mar 28 |
+| ↳ | **[Volunteer, Nursing Student Intern](https://jobright.ai/jobs/info/67e9b01656513b0a2a54140d?utm_campaign=1057&utm_source=git)** | Beach Area FHC-Annex - San Diego, CA | On Site | Mar 28 |
 | ↳ | **[Volunteer, Nursing Student Intern](https://jobright.ai/jobs/info/67e9b01656513b0a2a541741?utm_campaign=1057&utm_source=git)** | El Cajon FHC - San Diego, CA | On Site | Mar 28 |
 | ↳ | **[Volunteer, Nursing Student Intern](https://jobright.ai/jobs/info/67e9b01656513b0a2a541757?utm_campaign=1057&utm_source=git)** | Chula Vista Family Counseling Center - San Diego, CA | On Site | Mar 28 |
 | ↳ | **[Volunteer, Nursing Student Intern](https://jobright.ai/jobs/info/67e9b01656513b0a2a541750?utm_campaign=1057&utm_source=git)** | North Park FHC II - San Diego, CA | On Site | Mar 28 |
 | ↳ | **[Volunteer, Nursing Student Intern](https://jobright.ai/jobs/info/67e9b01656513b0a2a541755?utm_campaign=1057&utm_source=git)** | FamilyHealth at City College - San Diego, CA | On Site | Mar 28 |
+| ↳ | **[Volunteer, Nursing Student Intern](https://jobright.ai/jobs/info/67e9b01656513b0a2a54174d?utm_campaign=1057&utm_source=git)** | City Heights East - San Diego, CA | On Site | Mar 28 |
+| ↳ | **[Volunteer, Nursing Student Intern](https://jobright.ai/jobs/info/67e9b01656513b0a2a541742?utm_campaign=1057&utm_source=git)** | Oak Park FHC - San Diego, CA | On Site | Mar 28 |
 | ↳ | **[Volunteer, Nursing Student Intern](https://jobright.ai/jobs/info/67e9b01656513b0a2a541743?utm_campaign=1057&utm_source=git)** | North Park FHC - San Diego, CA | On Site | Mar 28 |
-| ↳ | **[Volunteer, Nursing Student Intern](https://jobright.ai/jobs/info/67e9b01656513b0a2a541753?utm_campaign=1057&utm_source=git)** | Diamond Neighborhoods FHC - San Diego, CA | On Site | Mar 28 |
-| ↳ | **[Volunteer, Nursing Student Intern](https://jobright.ai/jobs/info/67e9b01656513b0a2a541740?utm_campaign=1057&utm_source=git)** | Elm Street FHC - San Diego, CA | On Site | Mar 28 |
-| ↳ | **[Volunteer, Nursing Student Intern](https://jobright.ai/jobs/info/67e9b01656513b0a2a541745?utm_campaign=1057&utm_source=git)** | Lemon Grove FHC - San Diego, CA | On Site | Mar 28 |
+| ↳ | **[Volunteer, Nursing Student Intern](https://jobright.ai/jobs/info/67e9b01656513b0a2a54173f?utm_campaign=1057&utm_source=git)** | Grossmont Spring Valley FHC - San Diego, CA | On Site | Mar 28 |
+| ↳ | **[Volunteer, Nursing Student Intern](https://jobright.ai/jobs/info/67e9b01656513b0a2a541756?utm_campaign=1057&utm_source=git)** | Chula Vista FHC - San Diego, CA | On Site | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
