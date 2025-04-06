@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Complete Care Centers](https://complete-care.com/)** | **[Physical Therapy Assistant Internship](https://jobright.ai/jobs/info/67f2c835225da4c5faf620af?utm_campaign=1057&utm_source=git)** | Lake Mary, FL | On Site | Apr 06 |
+| ↳ | **[Physical Therapy Assistant Internship](https://jobright.ai/jobs/info/67f2bab3b459941bfd9734df?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Apr 06 |
+| **[Year Up United](http://yearup.org)** | **[Project Management Job Training Program](https://jobright.ai/jobs/info/67f2a89daab0261d4d31577c?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Apr 06 |
+| **[Bluebeam](http://www.bluebeam.com)** | **[Summer Interns - Dallas & Pasadena](https://jobright.ai/jobs/info/670f1546def1ec4937bbe213?utm_campaign=1057&utm_source=git)** | Dallas, TX | Remote | Apr 06 |
+| **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Psychiatric Services](https://jobright.ai/jobs/info/67f28d289dabb8356d7bc507?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Apr 06 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2025 Summer Computer Science/Software/Cyber Security Intern](https://jobright.ai/jobs/info/67f27a3b00a3a7d1a849792b?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Apr 06 |
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Surgical Care Unit](https://jobright.ai/jobs/info/67f27d964e8fcbe7dc190325?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Apr 06 |
 | **[Indianapolis Public Schools](https://myips.org/)** | **[School Psychologist Intern](https://jobright.ai/jobs/info/67f24a8a8b57874c41eef2b9?utm_campaign=1057&utm_source=git)** | Aurora, IN | Hybrid | Apr 06 |
@@ -80,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Cloudera](http://www.cloudera.com)** | **[Cloudera High School Intern](https://jobright.ai/jobs/info/67d4b9c40e2f8af3415a86f6?utm_campaign=1057&utm_source=git)** | Texas, United States | Remote | Apr 05 |
 | ↳ | **[Cloudera High School Intern](https://jobright.ai/jobs/info/67d4c386e44e932af4b9cc74?utm_campaign=1057&utm_source=git)** | Knoxville Metro | Remote | Apr 05 |
 | ↳ | **[Cloudera High School Intern](https://jobright.ai/jobs/info/67d4c386e44e932af4b9cc73?utm_campaign=1057&utm_source=git)** | California, United States | Remote | Apr 05 |
+| **[OhioHealth](https://www.ohiohealth.com/)** | **[Intern Working on Bachelor's-1](https://jobright.ai/jobs/info/67ec6f5d4512cc225a6f139f?utm_campaign=1057&utm_source=git)** | Marion, OH | On Site | Apr 05 |
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Quality and Training Development Intern](https://jobright.ai/jobs/info/67d4b10c747ec1c14d1f23d4?utm_campaign=1057&utm_source=git)** | Malvern, PA | On Site | Apr 05 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Probation Intern (Hourly) Gun Violence Reduction Initiative](https://jobright.ai/jobs/info/67e5d9db822cf7267c2a5bf4?utm_campaign=1057&utm_source=git)** | Trenton, NJ | Hybrid | Apr 05 |
 | **[Protiviti](http://www.protiviti.com)** | **[New York City Digital Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f77?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Apr 05 |
@@ -114,12 +120,12 @@ For a complete list, click the following sortable link below:
 | **[Bergen New Bridge Medical Center](http://www.newbridgehealth.org/)** | **[2025 SUMMER STUDENT INTERN/INTERNSHIP - PHARMACY (23757)](https://jobright.ai/jobs/info/67f069e560e8529beed57fb4?utm_campaign=1057&utm_source=git)** | Paramus, NJ | On Site | Apr 04 |
 | **[Texas State University](http://www.txstate.edu/)** | **[Postdoctoral Scholar Pool - School of Family & Consumer Sciences](https://jobright.ai/jobs/info/67f073e52aba6d839003842e?utm_campaign=1057&utm_source=git)** | Texas, United States | On Site | Apr 04 |
 | ↳ | **[Postdoctoral Scholar Pool-Department of Biology](https://jobright.ai/jobs/info/67f073e52aba6d8390038431?utm_campaign=1057&utm_source=git)** | Texas, United States | On Site | Apr 04 |
-| ↳ | **[Postdoctoral Scholar Pool - Finance & Economics](https://jobright.ai/jobs/info/67f073e52aba6d839003843a?utm_campaign=1057&utm_source=git)** | Texas, United States | On Site | Apr 04 |
 | ↳ | **[Postdoctoral Scholar Pool – Translational Health Research Center](https://jobright.ai/jobs/info/67f073e52aba6d8390038438?utm_campaign=1057&utm_source=git)** | Texas, United States | On Site | Apr 04 |
+| ↳ | **[Postdoctoral Scholar Pool - Finance & Economics](https://jobright.ai/jobs/info/67f073e52aba6d839003843a?utm_campaign=1057&utm_source=git)** | Texas, United States | On Site | Apr 04 |
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[311 Call Center Intern (NCS) - BCIT](https://jobright.ai/jobs/info/67f071ed2aba6d8390037fae?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Apr 04 |
-| **[Texas State University](http://www.txstate.edu/)** | **[Open Rank, Faculty of Instruction, Engineering Management](https://jobright.ai/jobs/info/67f069e560e8529beed58015?utm_campaign=1057&utm_source=git)** | Texas, United States | Remote | Apr 04 |
-| ↳ | **[Nontenure Faculty Pool - Legal Studies](https://jobright.ai/jobs/info/67f069e560e8529beed58017?utm_campaign=1057&utm_source=git)** | Texas, United States | Hybrid | Apr 04 |
+| **[Texas State University](http://www.txstate.edu/)** | **[Nontenure Faculty Pool - Legal Studies](https://jobright.ai/jobs/info/67f069e560e8529beed58017?utm_campaign=1057&utm_source=git)** | Texas, United States | Hybrid | Apr 04 |
 | ↳ | **[Nontenure Line Faculty Pool - Department of Accounting](https://jobright.ai/jobs/info/67f069e560e8529beed58014?utm_campaign=1057&utm_source=git)** | Texas, United States | Hybrid | Apr 04 |
+| ↳ | **[Open Rank, Faculty of Instruction, Engineering Management](https://jobright.ai/jobs/info/67f069e560e8529beed58015?utm_campaign=1057&utm_source=git)** | Texas, United States | Remote | Apr 04 |
 | **[Children's Minnesota](https://www.childrensmn.org/)** | **[Child Life Intern](https://jobright.ai/jobs/info/67f071ed2aba6d8390037ff0?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Apr 04 |
 | **[Oberlin College](http://new.oberlin.edu/office/creativity/funding-opportunities/launchu/)** | **[Summer Research Associate](https://jobright.ai/jobs/info/67f067ed60e8529beed57c16?utm_campaign=1057&utm_source=git)** | Oberlin, OH | Hybrid | Apr 04 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Research Student Intern](https://jobright.ai/jobs/info/67f067ed60e8529beed57c11?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Apr 04 |
@@ -145,16 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Complete Care Centers](https://complete-care.com/)** | **[Physical Therapy Assistant Internship](https://jobright.ai/jobs/info/67f035ec4f5d2e802a159600?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Apr 04 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern-Undergraduate](https://jobright.ai/jobs/info/67f033e84f5d2e802a1592c7?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Apr 04 |
 | ↳ | **[Intern-Undergraduate](https://jobright.ai/jobs/info/67f035ec4f5d2e802a1596a6?utm_campaign=1057&utm_source=git)** | Pasadena, CA | On Site | Apr 04 |
+| **[Safeway](http://www.safeway.com)** | **[Pharmacy Summer Intern](https://jobright.ai/jobs/info/67d2f9d439df218c8e9c5f79?utm_campaign=1057&utm_source=git)** | Kihei, HI | On Site | Apr 04 |
+| ↳ | **[Pharmacy Summer Intern](https://jobright.ai/jobs/info/67d2f9d439df218c8e9c5f73?utm_campaign=1057&utm_source=git)** | Honolulu, HI | On Site | Apr 04 |
 | **[Dover Food Retail](https://www.dovercorporation.com/our-markets/refrigeration-and-food-equipment/)** | **[Intern, AMS Training/Instructional Design](https://jobright.ai/jobs/info/674fe088c8364f7859b046aa?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Apr 04 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Atlanta Summer Intern](https://jobright.ai/jobs/info/67f00fe33c3913307f232e23?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Apr 04 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Micro-Internship, RISE University of Tennessee](https://jobright.ai/jobs/info/67f01708ba92eb874814f87b?utm_campaign=1057&utm_source=git)** | Knoxville, TN | On Site | Apr 04 |
 | **[Geisinger](https://www.geisinger.org)** | **[Intern Undergraduate, Volunteer Services](https://jobright.ai/jobs/info/67f029e688fc7e3c4175e2d6?utm_campaign=1057&utm_source=git)** | Lewistown, PA | On Site | Apr 04 |
-| **[Pflugerville ISD](https://www.pfisd.net/)** | **[Summer School High School Teacher (Internal Only)](https://jobright.ai/jobs/info/67f033e84f5d2e802a15935d?utm_campaign=1057&utm_source=git)** | Pflugerville, TX | On Site | Apr 04 |
-| **[Sand Cherry](http://sandcherryassociates.com)** | **[Sand Cherry Internship Program - Summer 2025](https://jobright.ai/jobs/info/67f01708ba92eb874814ffe5?utm_campaign=1057&utm_source=git)** | United States | Remote | Apr 04 |
-| **[Year Up United](http://yearup.org)** | **[Desktop Support Job Training Program](https://jobright.ai/jobs/info/67d165fde9c19f1c3cbfab44?utm_campaign=1057&utm_source=git)** | Providence, RI | On Site | Apr 04 |
-| **[California State University, Long Beach](http://www.csulb.edu/)** | **[2025-26 Lecturer Pool Department of Child Development](https://jobright.ai/jobs/info/67f018d0ba92eb87481500c4?utm_campaign=1057&utm_source=git)** | Chico, CA | Hybrid | Apr 04 |
-| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Surgical Technologist Intern - Training Program](https://jobright.ai/jobs/info/67f00d66c906e086f59ceca0?utm_campaign=1057&utm_source=git)** | Springfield, MO | On Site | Apr 04 |
-| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT CORPORATE HEALTH & SAFETY](https://jobright.ai/jobs/info/66da64a55afca971d3634eae?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Apr 04 |
-| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Atlanta Summer Intern](https://jobright.ai/jobs/info/67eff9a5433861d6740a2ba3?utm_campaign=1057&utm_source=git)** | Atlanta, Georgia, USA | On Site | Apr 04 |
-| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Mercy Joplin Pre-Med Summer Internship](https://jobright.ai/jobs/info/67d36b6c08e7964bf3416b57?utm_campaign=1057&utm_source=git)** | Joplin, MO | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
