@@ -57,41 +57,48 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Advertising Specialty Institute](http://asicentral.com/)** | **[Client Education Intern](https://jobright.ai/jobs/info/679d377c0c41b2102622cdd1?utm_campaign=1057&utm_source=git)** | Trevose, PA | Hybrid | Apr 12 |
+| **[University of Michigan](https://www.umich.edu)** | **[Fraternity and Sorority Life Student Assistant](https://jobright.ai/jobs/info/67fa35f053e2e4524e03e832?utm_campaign=1057&utm_source=git)** | Dearborn, MI | On Site | Apr 12 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Apprenticeship Program DBPIT](https://jobright.ai/jobs/info/67fa2a0bd186625e8bb648a1?utm_campaign=1057&utm_source=git)** | Pittsboro, IN | On Site | Apr 12 |
+| **[Gardner-Webb University](http://gardner-webb.edu)** | **[Athletic Graduate Intern - Volleyball](https://jobright.ai/jobs/info/67fa35f053e2e4524e03ea85?utm_campaign=1057&utm_source=git)** | Shelby, NC | On Site | Apr 12 |
+| ↳ | **[Athletic Graduate Intern-Womens Soccer](https://jobright.ai/jobs/info/67fa35f053e2e4524e03ea86?utm_campaign=1057&utm_source=git)** | Shelby, NC | On Site | Apr 12 |
+| **[Western Michigan University Homer Stryker M.D. School of Medicine](http://med.wmich.edu/)** | **[Part Time Pediatric Psychology Intern](https://jobright.ai/jobs/info/67fa35f053e2e4524e03e8ec?utm_campaign=1057&utm_source=git)** | Kalamazoo, MI | On Site | Apr 12 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Assistant - Resource Sharing](https://jobright.ai/jobs/info/67fa1592b2027af5cb302ba0?utm_campaign=1057&utm_source=git)** | Auburn, AL | On Site | Apr 12 |
+| **[New York State Department of Labor](http://www.labor.ny.gov)** | **[DEWS Apprenticeship Internship - Hourly - Albany](https://jobright.ai/jobs/info/67fa2d265930e4b3cc65b991?utm_campaign=1057&utm_source=git)** | Albany, NY | On Site | Apr 12 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2025 Internship - Liberty University](https://jobright.ai/jobs/info/67fa0f1b5986b9b6e89312f5?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Apr 11 |
 | **[Year Up United](http://yearup.org)** | **[Data Management Job Training Program](https://jobright.ai/jobs/info/67fa01b131e8748f3998fd6a?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Apr 11 |
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Summer Treatment Program Internship](https://jobright.ai/jobs/info/67fa0f1b5986b9b6e893134a?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Apr 11 |
 | **[University of Michigan](https://www.umich.edu)** | **[Student Program Assistant - Identity Programs](https://jobright.ai/jobs/info/67f9f1bc8569a044bfa8c56a?utm_campaign=1057&utm_source=git)** | Dearborn, MI | On Site | Apr 11 |
-| **[Life Time Inc.](https://www.lifetime.life/)** | **[Intern - Personal Training](https://jobright.ai/jobs/info/67f9f0a36cfb2a71f8e296ff?utm_campaign=1057&utm_source=git)** | Sandy Springs, GA | On Site | Apr 11 |
-| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/67f9f0a36cfb2a71f8e29700?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Apr 11 |
+| **[Life Time Inc.](https://www.lifetime.life/)** | **[Intern - Personal Training](https://jobright.ai/jobs/info/67f9f0a36cfb2a71f8e29701?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Apr 11 |
 | ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/67f9f0a36cfb2a71f8e296fa?utm_campaign=1057&utm_source=git)** | Westwood, MA | On Site | Apr 11 |
-| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/67f9f0a36cfb2a71f8e296fd?utm_campaign=1057&utm_source=git)** | Alpharetta, GA | On Site | Apr 11 |
-| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/67f9f0a36cfb2a71f8e29701?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Apr 11 |
-| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/67f9f0a36cfb2a71f8e296fb?utm_campaign=1057&utm_source=git)** | Columbia, MD | On Site | Apr 11 |
+| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/67f9f0a36cfb2a71f8e296ff?utm_campaign=1057&utm_source=git)** | Sandy Springs, GA | On Site | Apr 11 |
+| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/67f9f0a36cfb2a71f8e29700?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Apr 11 |
 | ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/67f9f0a36cfb2a71f8e296fc?utm_campaign=1057&utm_source=git)** | Cary, NC | On Site | Apr 11 |
+| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/67f9f0a36cfb2a71f8e296fd?utm_campaign=1057&utm_source=git)** | Alpharetta, GA | On Site | Apr 11 |
+| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/67f9f0a36cfb2a71f8e296fb?utm_campaign=1057&utm_source=git)** | Columbia, MD | On Site | Apr 11 |
 | **[University of Utah](http://utah.edu)** | **[Athletics Academic Services Intern](https://jobright.ai/jobs/info/67fa0d735986b9b6e89310f1?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 11 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern-Development](https://jobright.ai/jobs/info/67f9ea239e5d9871a0540056?utm_campaign=1057&utm_source=git)** | Rochester, MN | On Site | Apr 11 |
 | ↳ | **[Intern-Undergraduate - Cardiovascular Research - Temporary](https://jobright.ai/jobs/info/67f9ea239e5d9871a054004c?utm_campaign=1057&utm_source=git)** | Rochester, MN | On Site | Apr 11 |
 | **[Lawndale Christian Health Center](https://lawndale.org)** | **[Nurse Intern](https://jobright.ai/jobs/info/67f9ea239e5d9871a054008f?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Apr 11 |
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Intern - Personal Training](https://jobright.ai/jobs/info/67f9e85fd0fea5cff711c53a?utm_campaign=1057&utm_source=git)** | Johns Creek, GA | On Site | Apr 11 |
 | ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/67f9e85fd0fea5cff711c522?utm_campaign=1057&utm_source=git)** | Medford, MA | On Site | Apr 11 |
-| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/67f9e85fd0fea5cff711c53b?utm_campaign=1057&utm_source=git)** | Lawrenceville, GA | On Site | Apr 11 |
 | ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/67f9e85fd0fea5cff711c53d?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 11 |
 | ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/67f9e85fd0fea5cff711c53c?utm_campaign=1057&utm_source=git)** | Gaithersburg, MD | On Site | Apr 11 |
 | ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/67f9e85fd0fea5cff711c53e?utm_campaign=1057&utm_source=git)** | Apex, NC | On Site | Apr 11 |
-| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/67f9e2b08279615eae44ac7d?utm_campaign=1057&utm_source=git)** | Mount Laurel, NJ | On Site | Apr 11 |
+| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/67f9e85fd0fea5cff711c53b?utm_campaign=1057&utm_source=git)** | Lawrenceville, GA | On Site | Apr 11 |
 | ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/67f9e2b08279615eae44acd8?utm_campaign=1057&utm_source=git)** | Princeton, NJ | On Site | Apr 11 |
 | ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/67f9e2b08279615eae44ac7b?utm_campaign=1057&utm_source=git)** | Annapolis, MD | On Site | Apr 11 |
 | ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/67f9e2b08279615eae44acd9?utm_campaign=1057&utm_source=git)** | Woodstock, GA | On Site | Apr 11 |
+| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/67f9e2b08279615eae44ac7d?utm_campaign=1057&utm_source=git)** | Mount Laurel, NJ | On Site | Apr 11 |
 | **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/67f9db5459d100fd878c82b9?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Apr 11 |
 | **[Georgia Institute of Technology](http://gatech.edu)** | **[Director of Undergraduate Cooperative Education (Co-op) and Internship Programs (Academic Professional/ Sr/Principal) - Open Rank](https://jobright.ai/jobs/info/67f9d78e58724f6e738edaaa?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Apr 11 |
-| **[Aramark](http://www.aramark.com)** | **[Nutrition Intern - West Chester University](https://jobright.ai/jobs/info/67f9cd5220b826fe3e716fc7?utm_campaign=1057&utm_source=git)** | West Chester, PA | On Site | Apr 11 |
-| ↳ | **[Culinary Student Intern -- IUP Dining - IUP-Cash & Special Evnt](https://jobright.ai/jobs/info/67f9cd5220b826fe3e716fc8?utm_campaign=1057&utm_source=git)** | Indiana, PA | On Site | Apr 11 |
+| **[Aramark](http://www.aramark.com)** | **[Culinary Student Intern -- IUP Dining - IUP-Cash & Special Evnt](https://jobright.ai/jobs/info/67f9cd5220b826fe3e716fc8?utm_campaign=1057&utm_source=git)** | Indiana, PA | On Site | Apr 11 |
 | ↳ | **[Student Nutrition Intern: UNC Carolina Dining Services](https://jobright.ai/jobs/info/67f9cd5220b826fe3e716f83?utm_campaign=1057&utm_source=git)** | Chapel Hill, NC | On Site | Apr 11 |
+| ↳ | **[Nutrition Intern - West Chester University](https://jobright.ai/jobs/info/67f9cd5220b826fe3e716fc7?utm_campaign=1057&utm_source=git)** | West Chester, PA | On Site | Apr 11 |
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Student Assistant- TCHATT](https://jobright.ai/jobs/info/67f9cc0a140d249cb6c9f4d8?utm_campaign=1057&utm_source=git)** | Lubbock, TX | On Site | Apr 11 |
 | **[State of Michigan](http://www.michigan.gov)** | **[Student Assistant - Rural Readiness Network Assistant](https://jobright.ai/jobs/info/67f9cc0a140d249cb6c9f4e5?utm_campaign=1057&utm_source=git)** | Michigan, United States | On Site | Apr 11 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Graduate Programming Coordinator](https://jobright.ai/jobs/info/67f9cc0a140d249cb6c9f421?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Apr 11 |
+| **[University of North Carolina at Chapel Hill](https://www.unc.edu/)** | **[Gil Internship Program Coordinator](https://jobright.ai/jobs/info/67fa4e91d19d011fa4dee213?utm_campaign=1057&utm_source=git)** | Chapel Hill, NC | Hybrid | Apr 11 |
 | **[University Health KC](https://www.universityhealthkc.org)** | **[APA Doctoral Psychology Intern](https://jobright.ai/jobs/info/67f9c4c62777827478b58aee?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | Apr 11 |
 | **[Villanova University](http://www.villanueva.edu)** | **[Academic Support for Athletics & UNITAS Internship](https://jobright.ai/jobs/info/67f9e203d56d1dabcf984de4?utm_campaign=1057&utm_source=git)** | Villanova, PA | On Site | Apr 11 |
 | **[Macalester College](http://www.macalester.edu/)** | **[Residential Life Intern](https://jobright.ai/jobs/info/67f9c3102777827478b58623?utm_campaign=1057&utm_source=git)** | St Paul, MN | On Site | Apr 11 |
@@ -116,23 +123,23 @@ For a complete list, click the following sortable link below:
 | **[Jackson Health System](http://www.jacksonhealth.org)** | **[Psychology Intern, Jackson Behavioral Health Hospital](https://jobright.ai/jobs/info/67f9c3102777827478b5879e?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Apr 11 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[MBA Intern, Supply Chain Management (Summer 2026)](https://jobright.ai/jobs/info/67f99e956b653c3c6b798e31?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Apr 11 |
 | **[Bergen New Bridge Medical Center](http://www.newbridgehealth.org/)** | **[2025 SUMMER STUDENT INTERN/INTERNSHIP - QUALITY AND PATIENT/RESIDENT SAFETY AND SERVICE EXCELLENCE (23757)](https://jobright.ai/jobs/info/67f9bab70dc10334e539b571?utm_campaign=1057&utm_source=git)** | Paramus, NJ | On Site | Apr 11 |
-| **[Life Time Inc.](https://www.lifetime.life/)** | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/67f9995b9cb73711ad80ba44?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Apr 11 |
-| ↳ | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/67f9995b9cb73711ad80ba46?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Apr 11 |
+| **[Life Time Inc.](https://www.lifetime.life/)** | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/67f9995b9cb73711ad80ba47?utm_campaign=1057&utm_source=git)** | Missouri City, TX | On Site | Apr 11 |
 | ↳ | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/67f9995b9cb73711ad80ba45?utm_campaign=1057&utm_source=git)** | Mansfield, TX | On Site | Apr 11 |
-| ↳ | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/67f9995b9cb73711ad80ba47?utm_campaign=1057&utm_source=git)** | Missouri City, TX | On Site | Apr 11 |
+| ↳ | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/67f9995b9cb73711ad80ba44?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Apr 11 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern-Development](https://jobright.ai/jobs/info/67f9987f6819ef7ae2dce8ec?utm_campaign=1057&utm_source=git)** | Rochester, MN, United States | On Site | Apr 11 |
-| **[Life Time Inc.](https://www.lifetime.life/)** | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/67f997300e0b8640a42d945d?utm_campaign=1057&utm_source=git)** | McKinney, TX | On Site | Apr 11 |
-| ↳ | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/67f997300e0b8640a42d9459?utm_campaign=1057&utm_source=git)** | Garland, TX | On Site | Apr 11 |
+| **[Life Time Inc.](https://www.lifetime.life/)** | **[Dynamic PErsonal Training Internship](https://jobright.ai/jobs/info/67f997300e0b8640a42d9417?utm_campaign=1057&utm_source=git)** | Frisco, TX | On Site | Apr 11 |
 | ↳ | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/67f997300e0b8640a42d9456?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Apr 11 |
+| ↳ | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/67f997300e0b8640a42d945a?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Apr 11 |
 | ↳ | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/67f997300e0b8640a42d9455?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Apr 11 |
-| ↳ | **[Dynamic PErsonal Training Internship](https://jobright.ai/jobs/info/67f997300e0b8640a42d9417?utm_campaign=1057&utm_source=git)** | Frisco, TX | On Site | Apr 11 |
+| ↳ | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/67f997300e0b8640a42d945d?utm_campaign=1057&utm_source=git)** | McKinney, TX | On Site | Apr 11 |
+| ↳ | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/67f997300e0b8640a42d9459?utm_campaign=1057&utm_source=git)** | Garland, TX | On Site | Apr 11 |
 | **[University Health KC](https://www.universityhealthkc.org)** | **[Integrated Behavioral Health Intern - Family Practice - Lakewood Medical Center (FT 8:30am - 4:30pm)](https://jobright.ai/jobs/info/67f996dba35bc25342db7a9f?utm_campaign=1057&utm_source=git)** | UH Lakewood Medical Center | On Site | Apr 11 |
 | **[St. Louis Community College](https://www.stlcc.edu)** | **[Student Assistant I-CDCA](https://jobright.ai/jobs/info/67f9aeb57e1357c68b539762?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Apr 11 |
 | **[RELX](https://www.relx.com)** | **[RX 2025 Summer Internship Program (Hybrid or Remote)](https://jobright.ai/jobs/info/67f98bf1d1212f90d7a207a8?utm_campaign=1057&utm_source=git)** | Norwalk, CT | Hybrid | Apr 11 |
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/67f98bf1d1212f90d7a20765?utm_campaign=1057&utm_source=git)** | Flower Mound, TX | On Site | Apr 11 |
 | **[University of Notre Dame](http://mendoza.nd.edu)** | **[Notre Dame Cares Summer Research Assistant](https://jobright.ai/jobs/info/67f9a48a256beec5cddb6c3d?utm_campaign=1057&utm_source=git)** | Notre Dame, IN | On Site | Apr 11 |
-| **[Nuvance Health](https://www.nuvancehealth.org)** | **[Student Nurse Associate-Summer Intern](https://jobright.ai/jobs/info/67f97dd869c8b01716a50afe?utm_campaign=1057&utm_source=git)** | Sharon, CT | On Site | Apr 11 |
-| ↳ | **[Student Nurse Associate-Summer Intern](https://jobright.ai/jobs/info/67f97dd869c8b01716a50aff?utm_campaign=1057&utm_source=git)** | Sharon, CT | On Site | Apr 11 |
+| **[Nuvance Health](https://www.nuvancehealth.org)** | **[Student Nurse Associate-Summer Intern](https://jobright.ai/jobs/info/67f97dd869c8b01716a50aff?utm_campaign=1057&utm_source=git)** | Sharon, CT | On Site | Apr 11 |
+| ↳ | **[Student Nurse Associate-Summer Intern](https://jobright.ai/jobs/info/67f97dd869c8b01716a50afe?utm_campaign=1057&utm_source=git)** | Sharon, CT | On Site | Apr 11 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern-Undergraduate - Cardiovascular Research - Temporary](https://jobright.ai/jobs/info/67f97cc4e11dade2f0903f1d?utm_campaign=1057&utm_source=git)** | Rochester, MN, United States | On Site | Apr 11 |
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Medical Unit](https://jobright.ai/jobs/info/67f97c6569c8b01716a503a0?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Apr 11 |
 | **[Marist University](http://www.marist.edu/)** | **[Internship Coordinator and Lecturer of Crime and Justice Studies](https://jobright.ai/jobs/info/67f97c6569c8b01716a504e9?utm_campaign=1057&utm_source=git)** | Poughkeepsie, NY | On Site | Apr 11 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of Kansas City](https://www.kansascityfed.org)** | **[Money Museum Intern - Summer 2025](https://jobright.ai/jobs/info/67f95a34e1ba63856b4d4f88?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | Apr 11 |
 | **[Allegheny Health Network](https://www.ahn.org)** | **[Intern -Penn State University / Clinical Research](https://jobright.ai/jobs/info/67f9ea239e5d9871a05404cf?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Apr 11 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/67f9ea239e5d9871a0540528?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Apr 11 |
-| **[Year Up United](http://yearup.org)** | **[Customer Service Job Training Program](https://jobright.ai/jobs/info/67f95224366e5eb8f16844d2?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Apr 11 |
-| **[Lakeview Center](https://elakeviewcenter.org/)** | **[Intern APRN](https://jobright.ai/jobs/info/67f95224366e5eb8f168467c?utm_campaign=1057&utm_source=git)** | Pensacola, FL | On Site | Apr 11 |
-| **[PTC Therapeutics, Inc.](http://www.ptcbio.com)** | **[Contract, Patient Engagement Fellow](https://jobright.ai/jobs/info/67f9512d664d66b4d70b3bab?utm_campaign=1057&utm_source=git)** | Florida, United States | Remote | Apr 11 |
-| **[Year Up United](http://yearup.org)** | **[Desktop Support Job Training Program](https://jobright.ai/jobs/info/67dcfd473079cdc85bb41b94?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Apr 11 |
-| ↳ | **[Customer Service Job Training Program](https://jobright.ai/jobs/info/67d95f6e5de715b760754d56?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Apr 11 |
-| ↳ | **[Data Management Job Training Opportunity](https://jobright.ai/jobs/info/67f949dd70e665a53891fb07?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Apr 11 |
-| **[Shepherd University](https://www.shepherd.edu/)** | **[DATA 118 Teaching Assistant](https://jobright.ai/jobs/info/67f949dd70e665a53891fc15?utm_campaign=1057&utm_source=git)** | Shepherdstown, WV | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
