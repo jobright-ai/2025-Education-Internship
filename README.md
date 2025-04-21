@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Winston & Strawn LLP](https://www.winston.com)** | **[Houston Office - 2026 2L Transactions Summer Associate](https://jobright.ai/jobs/info/6805969b10a8f21e39bb6053?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Apr 20 |
 | **[Tulsa Community College](http://www.tulsacc.edu/)** | **[Workstudy - Office Support Clerk](https://jobright.ai/jobs/info/6805863f554ae465489f5ac9?utm_campaign=1057&utm_source=git)** | Tulsa, OK | On Site | Apr 20 |
 | **[La Sierra University](http://www.lasierra.edu/)** | **[Biology Student Laboratory Teaching Assistant 2 (TA2) Sp’25 BIOL132L A&P II](https://jobright.ai/jobs/info/68057987a58f1359aacdb66d?utm_campaign=1057&utm_source=git)** | Riverside, CA | On Site | Apr 20 |
 | ↳ | **[Biology Student Laboratory Teaching Assistant (TA2)- Sp'25 BIOL446L Human Gross Anatomy](https://jobright.ai/jobs/info/680571fe638bba8b652da488?utm_campaign=1057&utm_source=git)** | Riverside, CA | On Site | Apr 20 |
@@ -89,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Goodwill Industries of Akron](https://goodwillakron.org/)** | **[Summer Intern-Job Training Specialist](https://jobright.ai/jobs/info/6804057030abb555cdc3d108?utm_campaign=1057&utm_source=git)** | Ashland, OH | On Site | Apr 19 |
 | ↳ | **[Summer Intern-Job Training Specialist](https://jobright.ai/jobs/info/6804057030abb555cdc3d107?utm_campaign=1057&utm_source=git)** | Medina, OH | On Site | Apr 19 |
 | **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[Assistant / Associate Professor of Clinical, Internal Medicine, Hospital Medicine](https://jobright.ai/jobs/info/6804034df499386a00d77c26?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Apr 19 |
-| **[Fairview Health Services](http://www.fairview.org/)** | **[Life Enrichment Activities High School Intern Ebenezer- summer 2025](https://jobright.ai/jobs/info/6803f142c34411e9aa59bf46?utm_campaign=1057&utm_source=git)** | St Paul, MN | On Site | Apr 19 |
 | **[Select Medical](http://www.selectmedical.com/)** | **[Student Care Tech - Per Diem](https://jobright.ai/jobs/info/6803ee60a79824c3ee61d0ad?utm_campaign=1057&utm_source=git)** | Tucson, AZ | On Site | Apr 19 |
+| **[Fairview Health Services](http://www.fairview.org/)** | **[2025 David Page Career Advancement Scholarship](https://jobright.ai/jobs/info/68040895719565cdcfbe56c5?utm_campaign=1057&utm_source=git)** | St Paul, MN | On Site | Apr 19 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Summer Intern](https://jobright.ai/jobs/info/6803dd08348f640037ab534a?utm_campaign=1057&utm_source=git)** | Baldwin Park, CA | On Site | Apr 19 |
 | **[Avon Community School Corporation](https://www.avon-schools.org)** | **[5th Grade Teacher (Internal Only)](https://jobright.ai/jobs/info/6803c8415daae8cb70aeafb8?utm_campaign=1057&utm_source=git)** | Avon, IN | On Site | Apr 19 |
 | **[Bryant & Stratton College](https://www.bryantstratton.edu)** | **[Nursing Internship Coordinator](https://jobright.ai/jobs/info/67e0e6289bb4a85ab2bca2cc?utm_campaign=1057&utm_source=git)** | Akron, OH | On Site | Apr 19 |
@@ -125,9 +126,9 @@ For a complete list, click the following sortable link below:
 | **[Sodexo](http://www.sodexo.com)** | **[Sodexo Intern](https://jobright.ai/jobs/info/68030861f8e23452513f3578?utm_campaign=1057&utm_source=git)** | Ada, OH | On Site | Apr 18 |
 | **[State of Michigan](http://www.michigan.gov)** | **[Student Assistant/Intern - Communication Design Section](https://jobright.ai/jobs/info/680300d27e6b1f381a50bbe1?utm_campaign=1057&utm_source=git)** | Lansing, MI | On Site | Apr 18 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Assistant Professor of Small Animal Internal Medicine](https://jobright.ai/jobs/info/680300d27e6b1f381a50bb41?utm_campaign=1057&utm_source=git)** | Triangle Area | On Site | Apr 18 |
-| **[Alameda County Office of Education](https://www.acoe.org/)** | **[Instructional Coach, P.A.T.H. Intern Program (Starting in the 2025-2026 School Year)](https://jobright.ai/jobs/info/67fdb89f815c0e883f9945ea?utm_campaign=1057&utm_source=git)** | Hayward, CA | On Site | Apr 18 |
-| ↳ | **[Education Specialist Instructional Coach, P.A.T.H. Intern Program (Starting in the 2025-2026 School Year)](https://jobright.ai/jobs/info/67fdb692c47e2660d55d841a?utm_campaign=1057&utm_source=git)** | Hayward, CA | On Site | Apr 18 |
-| **[Fairview Health Services](http://www.fairview.org/)** | **[2025 David Page Career Advancement Scholarship](https://jobright.ai/jobs/info/6802f6b7fac5731a608f4c1f?utm_campaign=1057&utm_source=git)** | St Paul, MN | On Site | Apr 18 |
+| **[Alameda County Office of Education](https://www.acoe.org/)** | **[Education Specialist Instructional Coach, P.A.T.H. Intern Program (Starting in the 2025-2026 School Year)](https://jobright.ai/jobs/info/67fdb692c47e2660d55d841a?utm_campaign=1057&utm_source=git)** | Hayward, CA | On Site | Apr 18 |
+| ↳ | **[Instructional Coach, P.A.T.H. Intern Program (Starting in the 2025-2026 School Year)](https://jobright.ai/jobs/info/67fdb89f815c0e883f9945ea?utm_campaign=1057&utm_source=git)** | Hayward, CA | On Site | Apr 18 |
+| **[Fairview Health Services](http://www.fairview.org/)** | **[Life Enrichment Activities High School Intern Ebenezer- summer 2025](https://jobright.ai/jobs/info/6802f6b7fac5731a608f4abc?utm_campaign=1057&utm_source=git)** | St Paul, MN | On Site | Apr 18 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Research Assistant - Huntsville, AL](https://jobright.ai/jobs/info/6802f6b7fac5731a608f4ae4?utm_campaign=1057&utm_source=git)** | Huntsville, AL | On Site | Apr 18 |
 | **[The Culinary Edge](http://theculinaryedge.com/)** | **[Summer Student Strategy Internship](https://jobright.ai/jobs/info/6802e818a05e68f2cd1e5760?utm_campaign=1057&utm_source=git)** | San Francisco, CA | Hybrid | Apr 18 |
 | **[American University](http://american.edu)** | **[Circulation and Course Reserves Assistant (Student) (FWS)](https://jobright.ai/jobs/info/6802e818a05e68f2cd1e5783?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Apr 18 |
@@ -135,7 +136,8 @@ For a complete list, click the following sortable link below:
 | **[Year Up United](http://yearup.org)** | **[IT Job Training Opportunity](https://jobright.ai/jobs/info/6802d160872756c7c648c658?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Apr 18 |
 | ↳ | **[Desktop Support Job Training Program](https://jobright.ai/jobs/info/6802d160872756c7c648c56d?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Apr 18 |
 | **[Wesco](http://www.wesco.com/)** | **[Intern - Summer Internship](https://jobright.ai/jobs/info/6802cd5d870f485a1430e810?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 18 |
-| **[University of Michigan](https://www.umich.edu)** | **[Engineering Learning Center - ME/BENG Tutor (Student Temp) F25](https://jobright.ai/jobs/info/6802ca8f0e4fdeaac8f1ce77?utm_campaign=1057&utm_source=git)** | Dearborn, MI | On Site | Apr 18 |
+| **[University of Michigan](https://www.umich.edu)** | **[Engineering Learning Center - EE/CE Tutor (Student Temp) F25](https://jobright.ai/jobs/info/6802ca8f0e4fdeaac8f1ce62?utm_campaign=1057&utm_source=git)** | Dearborn, MI | On Site | Apr 18 |
+| ↳ | **[Engineering Learning Center - ME/BENG Tutor (Student Temp) F25](https://jobright.ai/jobs/info/6802ca8f0e4fdeaac8f1ce77?utm_campaign=1057&utm_source=git)** | Dearborn, MI | On Site | Apr 18 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Internship - Undergraduate CRC (UMR Students Only)](https://jobright.ai/jobs/info/6802ca8f0e4fdeaac8f1ce96?utm_campaign=1057&utm_source=git)** | Rochester, MN | On Site | Apr 18 |
 | **[Gresham Smith](http://www.greshamsmith.com)** | **[DISD High School Student Internship](https://jobright.ai/jobs/info/6802ca8f0e4fdeaac8f1ce12?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Apr 18 |
 | **[Year Up United](http://yearup.org)** | **[Project Management Job Training Program](https://jobright.ai/jobs/info/68040e21c19f5608c7ec42fb?utm_campaign=1057&utm_source=git)** | Pleasant Hill, CA | On Site | Apr 18 |
@@ -151,10 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/6802b3da39be8703be91706d?utm_campaign=1057&utm_source=git)** | Pawtucket, RI | On Site | Apr 18 |
 | **[Peabody Companies](https://www.wearepeabody.com)** | **[Internship](https://jobright.ai/jobs/info/6802f3442e0c119564ba2ced?utm_campaign=1057&utm_source=git)** | Braintree, MA | On Site | Apr 18 |
 | **[Topgolf](https://topgolf.com/us/)** | **[Summer Intern - Golf Instructor](https://jobright.ai/jobs/info/6802b38f7c3b556e787d67e9?utm_campaign=1057&utm_source=git)** | Overland Park, KS | On Site | Apr 18 |
-| **[Christ Fellowship Church](https://www.christfellowship.church/)** | **[Production College Intern](https://jobright.ai/jobs/info/6802b38f7c3b556e787d682c?utm_campaign=1057&utm_source=git)** | Palm Beach Gardens, FL | On Site | Apr 18 |
-| ↳ | **[Family Ministries College Intern](https://jobright.ai/jobs/info/6802b38f7c3b556e787d6835?utm_campaign=1057&utm_source=git)** | Palm Beach Gardens, FL | On Site | Apr 18 |
+| **[Christ Fellowship Church](https://www.christfellowship.church/)** | **[Creative Ministries College Intern](https://jobright.ai/jobs/info/6802b38f7c3b556e787d6821?utm_campaign=1057&utm_source=git)** | Palm Beach Gardens, FL | On Site | Apr 18 |
 | ↳ | **[Events/ Campus Logistics College Intern](https://jobright.ai/jobs/info/6802b38f7c3b556e787d680e?utm_campaign=1057&utm_source=git)** | Palm Beach Gardens, FL | On Site | Apr 18 |
-| ↳ | **[Creative Ministries College Intern](https://jobright.ai/jobs/info/6802b38f7c3b556e787d6821?utm_campaign=1057&utm_source=git)** | Palm Beach Gardens, FL | On Site | Apr 18 |
-| **[Bryan Health](https://www.bryanhealth.com/)** | **[Student Assistant](https://jobright.ai/jobs/info/6802b38f7c3b556e787d6875?utm_campaign=1057&utm_source=git)** | Lincoln, NE | On Site | Apr 18 |
-| **[Arkansas Children's](http://archildrens.org)** | **[Student Nurse Intern, Springdale, June 2025 Start](https://jobright.ai/jobs/info/6802afdf5e0134248234fce3?utm_campaign=1057&utm_source=git)** | Springdale, AR | On Site | Apr 18 |
+| ↳ | **[Family Ministries College Intern](https://jobright.ai/jobs/info/6802b38f7c3b556e787d6835?utm_campaign=1057&utm_source=git)** | Palm Beach Gardens, FL | On Site | Apr 18 |
+| ↳ | **[Production College Intern](https://jobright.ai/jobs/info/6802b38f7c3b556e787d682c?utm_campaign=1057&utm_source=git)** | Palm Beach Gardens, FL | On Site | Apr 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
