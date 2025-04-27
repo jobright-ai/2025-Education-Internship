@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Harris County](https://www.harriscountytx.gov/)** | **[Student 2 Government Leaders Academy Intern](https://jobright.ai/jobs/info/680e1bdb5f8cd6137845c9cf?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Apr 27 |
+| **[Priority Health](http://www.priorityhealth.com/)** | **[Intern Priority Health Medicare Quality Pharmacy](https://jobright.ai/jobs/info/680e0d97325d445abc3888e1?utm_campaign=1057&utm_source=git)** | Grand Rapids, MI | Hybrid | Apr 27 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Student Internship Trimmer Trainee / Menlo Park, CA](https://jobright.ai/jobs/info/680de90fbe30d261582da1fc?utm_campaign=1057&utm_source=git)** | Redwood City, CA | On Site | Apr 27 |
 | **[Year Up United](http://yearup.org)** | **[Customer Service Job Training Program](https://jobright.ai/jobs/info/67ffde7e4ba4129e07b061f9?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Apr 26 |
 | **[Franciscan Health](https://www.franciscanhealth.org/)** | **[CT Student Intern- Mooresville](https://jobright.ai/jobs/info/680dac914db6a52a74834941?utm_campaign=1057&utm_source=git)** | Mooresville, IN | On Site | Apr 26 |
@@ -64,9 +66,9 @@ For a complete list, click the following sortable link below:
 | **[BlackRock](http://www.blackrock.com)** | **[2026 Summer Internship Program - AMERS](https://jobright.ai/jobs/info/680d8c69b0bbcdab5bb05f08?utm_campaign=1057&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Apr 26 |
 | **[Volkert, Inc.](https://volkert.com/)** | **[Volkert Internship Program](https://jobright.ai/jobs/info/680d89cffa1abcc62eea3673?utm_campaign=1057&utm_source=git)** | Chattanooga, TN | On Site | Apr 26 |
 | **[Catholic Charities](https://catholiccharitiesflint.org)** | **[Masters Level Intern](https://jobright.ai/jobs/info/680d89cffa1abcc62eea3678?utm_campaign=1057&utm_source=git)** | Waterbury, CT | On Site | Apr 26 |
-| **[Volkert, Inc.](https://volkert.com/)** | **[Volkert Internship Program](https://jobright.ai/jobs/info/680d84b15d2c37179cc3184a?utm_campaign=1057&utm_source=git)** | New Orleans, LA | On Site | Apr 26 |
-| ↳ | **[Volkert Internship Program](https://jobright.ai/jobs/info/680d84b15d2c37179cc3183b?utm_campaign=1057&utm_source=git)** | Little Rock, AR | On Site | Apr 26 |
+| **[Volkert, Inc.](https://volkert.com/)** | **[Volkert Internship Program](https://jobright.ai/jobs/info/680d84b15d2c37179cc3183b?utm_campaign=1057&utm_source=git)** | Little Rock, AR | On Site | Apr 26 |
 | ↳ | **[Volkert Internship Program](https://jobright.ai/jobs/info/680d84b15d2c37179cc31886?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | Apr 26 |
+| ↳ | **[Volkert Internship Program](https://jobright.ai/jobs/info/680d84b15d2c37179cc3184a?utm_campaign=1057&utm_source=git)** | New Orleans, LA | On Site | Apr 26 |
 | ↳ | **[Volkert Internship Program](https://jobright.ai/jobs/info/680d7bb989221c2639c8c4c3?utm_campaign=1057&utm_source=git)** | McKinney, TX | On Site | Apr 26 |
 | ↳ | **[Volkert Internship Program](https://jobright.ai/jobs/info/680d7bb989221c2639c8c484?utm_campaign=1057&utm_source=git)** | Mobile, AL | On Site | Apr 26 |
 | ↳ | **[Volkert Internship Program](https://jobright.ai/jobs/info/680d7bb989221c2639c8c464?utm_campaign=1057&utm_source=git)** | Knoxville, TN | On Site | Apr 26 |
@@ -79,9 +81,8 @@ For a complete list, click the following sortable link below:
 | **[Catholic Charities](https://catholiccharitiesflint.org)** | **[Masters Level Intern](https://jobright.ai/jobs/info/680d70e0d338bd9779c5a0f5?utm_campaign=1057&utm_source=git)** | Hartford, CT | On Site | Apr 26 |
 | ↳ | **[Masters Level Intern](https://jobright.ai/jobs/info/680d70e0d338bd9779c5a12d?utm_campaign=1057&utm_source=git)** | New Haven, CT | On Site | Apr 26 |
 | **[Volkert, Inc.](https://volkert.com/)** | **[Volkert Internship Program](https://jobright.ai/jobs/info/680d6fa2b80eeaa33f9f262f?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Apr 26 |
-| ↳ | **[Volkert Internship Program](https://jobright.ai/jobs/info/680d682f062cafb4f8a33e27?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Apr 26 |
-| ↳ | **[Volkert Internship Program](https://jobright.ai/jobs/info/680d5f36499e5018b6869909?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Apr 26 |
 | ↳ | **[Volkert Internship Program](https://jobright.ai/jobs/info/680d5f36499e5018b6869892?utm_campaign=1057&utm_source=git)** | Bentonville, AR | On Site | Apr 26 |
+| ↳ | **[Volkert Internship Program](https://jobright.ai/jobs/info/680d5f36499e5018b6869909?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Apr 26 |
 | **[City of San Antonio](http://www.sanantonio.gov)** | **[Library Student Intern III (Unpaid)](https://jobright.ai/jobs/info/680d4f33045480b64e77f022?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Apr 26 |
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Student Intern, Psychiatry Research (per diem)](https://jobright.ai/jobs/info/680d4cd5a1ae3a69f61fca19?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Apr 26 |
 | **[The City University of New York](http://www.cuny.edu)** | **[International Student Specialist- Roosevelt House Public Policy Institute, International Scholar Program](https://jobright.ai/jobs/info/680d3944ddeaafc696d8321b?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Apr 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Washington Permanente Medical Group](https://www.wpmgcareers.org/)** | **[HCCP Intern](https://jobright.ai/jobs/info/680bb90f67d09ced2ff5557f?utm_campaign=1057&utm_source=git)** | Renton, WA | Hybrid | Apr 25 |
 | **[The University of Texas Medical Branch](http://www.utmb.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/680bb90f67d09ced2ff553ab?utm_campaign=1057&utm_source=git)** | Galveston, TX | On Site | Apr 25 |
 | **[Apiture](https://www.apiture.com/)** | **[Content Management Intern (Training)](https://jobright.ai/jobs/info/67db3bf5168a55f5026053bd?utm_campaign=1057&utm_source=git)** | Wilmington, NC | Hybrid | Apr 25 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[DCPP Video and Training Materials Intern](https://jobright.ai/jobs/info/680ba9f5fc61b41496231a70?utm_campaign=1057&utm_source=git)** | Avila Beach, CA | On Site | Apr 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
