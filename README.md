@@ -57,33 +57,41 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Catholic Charities](https://catholiccharitiesflint.org)** | **[Internship Mental Health Therapist](https://jobright.ai/jobs/info/682a15a42043003f5a977ac3?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | May 18 |
+| ↳ | **[Internship Mental Health Therapist](https://jobright.ai/jobs/info/682a15a42043003f5a977a9f?utm_campaign=1057&utm_source=git)** | Waukesha, WI | On Site | May 18 |
+| **[Education Through Music](https://etmonline.org)** | **[Music Teacher Intern](https://jobright.ai/jobs/info/6829e8d7a8dfb4883a6ff5e5?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | May 18 |
 | **[Year Up United](http://yearup.org)** | **[IT Job Training Opportunity](https://jobright.ai/jobs/info/6829e31023529f15717d2db9?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | May 18 |
 | **[Lakefield Veterinary Group](https://www.lakefieldvet.com/)** | **[Internist](https://jobright.ai/jobs/info/6829db00d8c397db55f154f3?utm_campaign=1057&utm_source=git)** | Gig Harbor, WA | On Site | May 18 |
+| **[Year Up United](http://yearup.org)** | **[Financial Operations Job Training Program](https://jobright.ai/jobs/info/6829fed5cb2d71abc2401511?utm_campaign=1057&utm_source=git)** | Wilmington, DE | On Site | May 18 |
 | **[Vituity](https://www.vituity.com)** | **[Intern - College - Digital Adoption & Enablement and Service Delivery Optimization - Remote CA - N](https://jobright.ai/jobs/info/6829cbe094657b4b8750c7c9?utm_campaign=1057&utm_source=git)** | Sacramento, CA | Hybrid | May 18 |
 | **[L.A. Care Health Plan](http://www.lacare.org/)** | **[Student Intern (Pharmacy Strategy & Data Analytics)](https://jobright.ai/jobs/info/6829c85e6bac78a57560d8c6?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 18 |
 | ↳ | **[Student Intern (Digital Communications)](https://jobright.ai/jobs/info/6829c85e6bac78a57560d8c8?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 18 |
 | ↳ | **[Student Intern (Community Resource Center, Pomona)](https://jobright.ai/jobs/info/6829c85e6bac78a57560d8bb?utm_campaign=1057&utm_source=git)** | Pomona, CA | On Site | May 18 |
+| ↳ | **[Student Intern (Pharmacy)](https://jobright.ai/jobs/info/68297e38a12bf87e534a663f?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 18 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[ATL- Internship Co-Op Program 2023-24](https://jobright.ai/jobs/info/67ea22c576afd47e44becc2c?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | May 18 |
+| **[Nebraska Medicine](https://www.nebraskamed.com)** | **[Neonatal Practicum Intern](https://jobright.ai/jobs/info/6751ddfc8c2834300ffeeb3c?utm_campaign=1057&utm_source=git)** | Omaha Metropolitan Area | On Site | May 18 |
+| **[PAR Western Line Contractors, LLC](http://www.parwlc.com)** | **[California Internships - All Majors / Summer 2025](https://jobright.ai/jobs/info/6795ba897cca49570c8f1e9e?utm_campaign=1057&utm_source=git)** | Vacaville, CA | On Site | May 18 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[L.E.K. Bridge Pre-MBA Program - Virtual 2025](https://jobright.ai/jobs/info/6829a6afc63a93facc68555c?utm_campaign=1057&utm_source=git)** | Boston, NY | On Site | May 18 |
 | **[Mercy Health](https://www.mercyhealth.com)** | **[MERCY JOPLIN PRE-MED SUMMER INTERNSHIP](https://jobright.ai/jobs/info/6829526141673c55c04aa18e?utm_campaign=1057&utm_source=git)** | Joplin, MO | On Site | May 17 |
 | ↳ | **[SURGICAL TECHNOLOGIST INTERN - TRAINING PROGRAM](https://jobright.ai/jobs/info/6829526141673c55c04aa1d4?utm_campaign=1057&utm_source=git)** | Springfield, MO | On Site | May 17 |
 | **[Year Up United](http://yearup.org)** | **[Software Development JOB Training Opportunity](https://jobright.ai/jobs/info/6829526141673c55c04aa5e1?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 17 |
+| ↳ | **[Application Development JOB Training Program](https://jobright.ai/jobs/info/6829529341673c55c04aa80f?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 17 |
 | ↳ | **[Application Developmentjob Training Program](https://jobright.ai/jobs/info/6829529341673c55c04aa797?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 17 |
 | ↳ | **[IT JOB Training Program](https://jobright.ai/jobs/info/6829529341673c55c04aa747?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 17 |
 | ↳ | **[Data Management JOB Training Program](https://jobright.ai/jobs/info/6829529341673c55c04aa7d8?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 17 |
 | ↳ | **[IT Systems Administration JOB Training Program](https://jobright.ai/jobs/info/6829529341673c55c04aa7c9?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 17 |
 | ↳ | **[Data Management JOB Training Opportunity](https://jobright.ai/jobs/info/6829529341673c55c04aa7e3?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 17 |
 | ↳ | **[Software Development JOB Training Program](https://jobright.ai/jobs/info/6829529341673c55c04aa7c0?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 17 |
-| ↳ | **[Software Development Career Training Opportunity](https://jobright.ai/jobs/info/6829529341673c55c04aa766?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 17 |
-| ↳ | **[Software Development JOB Training Opportunity](https://jobright.ai/jobs/info/6829529341673c55c04aa7da?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 17 |
-| ↳ | **[Application Development Career Training Program](https://jobright.ai/jobs/info/6829529341673c55c04aa7e0?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 17 |
 | ↳ | **[Application Developmentcareer Training Program](https://jobright.ai/jobs/info/6829529341673c55c04aa772?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 17 |
-| ↳ | **[Application Development JOB Training Program](https://jobright.ai/jobs/info/6829529341673c55c04aa80f?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 17 |
+| ↳ | **[Software Development Career Training Opportunity](https://jobright.ai/jobs/info/6829529341673c55c04aa766?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 17 |
+| ↳ | **[Application Development Career Training Program](https://jobright.ai/jobs/info/6829529341673c55c04aa7e0?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 17 |
+| ↳ | **[Software Development JOB Training Opportunity](https://jobright.ai/jobs/info/6829529341673c55c04aa7da?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 17 |
 | **[ANTIOCH UNIFIED SCHOOL DISTRICT](http://antiochschools.net)** | **[School Psychologist , Site to Be Determined (2025-26 School Year $6,000 Signing Bonus)](https://jobright.ai/jobs/info/682911a3e80bd7f714d4617d?utm_campaign=1057&utm_source=git)** | Antioch, CA | On Site | May 17 |
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[Federal Work Study - Office of Financial Aid (Fall 2025-Spring 2026)](https://jobright.ai/jobs/info/682901aed936794c0ca12dc0?utm_campaign=1057&utm_source=git)** | Jacksonville, AL | On Site | May 17 |
 | **[Pennsauken Public Schools](http://www.pennsauken.net)** | **[Student Summer Clerk](https://jobright.ai/jobs/info/6828f9c92df01b210fd12e20?utm_campaign=1057&utm_source=git)** | Pennsauken, NJ | On Site | May 17 |
 | **[Amentum](https://www.amentum.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/6828df4a0ad8e1263f0dd27f?utm_campaign=1057&utm_source=git)** | Chantilly, VA | On Site | May 17 |
-| **[Office of Management and Budget](https://www.whitehouse.gov/omb/)** | **[SUMMER GRADUATE INTERN - Cultural and Libraries](https://jobright.ai/jobs/info/6828dd7404d6c7edf852ad68?utm_campaign=1057&utm_source=git)** | Manhattan, NY | Hybrid | May 17 |
-| ↳ | **[SUMMER COLLEGE INTERN - Cultural and Libraries](https://jobright.ai/jobs/info/6828dd7404d6c7edf852ad69?utm_campaign=1057&utm_source=git)** | Manhattan, NY | Hybrid | May 17 |
+| **[Office of Management and Budget](https://www.whitehouse.gov/omb/)** | **[SUMMER COLLEGE INTERN - Cultural and Libraries](https://jobright.ai/jobs/info/6828dd7404d6c7edf852ad69?utm_campaign=1057&utm_source=git)** | Manhattan, NY | Hybrid | May 17 |
+| ↳ | **[SUMMER GRADUATE INTERN - Cultural and Libraries](https://jobright.ai/jobs/info/6828dd7404d6c7edf852ad68?utm_campaign=1057&utm_source=git)** | Manhattan, NY | Hybrid | May 17 |
 | **[Leon County Schools](https://www.leonschools.net/)** | **[Student Assistant Hrly](https://jobright.ai/jobs/info/6828dd7404d6c7edf852acc3?utm_campaign=1057&utm_source=git)** | Tallahassee, FL | On Site | May 17 |
 | **[Detroit Medical Center](http://www.dmc.org/)** | **[Pharmacy Intern P2 Contingent Rotating](https://jobright.ai/jobs/info/6828d9f7396ca6a9e0f7e746?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | May 17 |
 | **[Circle K](http://www.circlek.com)** | **[Real Estate Training Intern](https://jobright.ai/jobs/info/6828d7a6718e1c56821a18fb?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | May 17 |
@@ -99,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[University of Utah](http://utah.edu)** | **[Music Therapy Intern](https://jobright.ai/jobs/info/68287ee0ac8ddcf60a281b72?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | May 17 |
 | **[Nestlé](https://www.nestle.com)** | **[2025 Diversity Leadership Symposium: 2026 Nestlé USA Finance & Accounting Internship Program](https://jobright.ai/jobs/info/6822df3409ddae73fbfbd5aa?utm_campaign=1057&utm_source=git)** | Jonesboro, AR | On Site | May 17 |
 | ↳ | **[2025 Diversity Leadership Symposium: 2026 Nestlé USA Finance & Accounting Internship Program](https://jobright.ai/jobs/info/6822df3409ddae73fbfbd5ab?utm_campaign=1057&utm_source=git)** | Mount Sterling, KY | On Site | May 17 |
-| ↳ | **[2025 Diversity Leadership Symposium: 2026 Nestlé USA Finance & Accounting Internship Program](https://jobright.ai/jobs/info/68287d83c2dd76d8c21a8e1c?utm_campaign=1057&utm_source=git)** | Solon, OH | On Site | May 17 |
 | ↳ | **[2025 Diversity Leadership Symposium: 2026 Nestlé USA Finance & Accounting Internship Program](https://jobright.ai/jobs/info/68287d83c2dd76d8c21a8e1a?utm_campaign=1057&utm_source=git)** | Bridgewater, NJ | On Site | May 17 |
+| ↳ | **[2025 Diversity Leadership Symposium: 2026 Nestlé USA Finance & Accounting Internship Program](https://jobright.ai/jobs/info/68287d83c2dd76d8c21a8e1c?utm_campaign=1057&utm_source=git)** | Solon, OH | On Site | May 17 |
 | ↳ | **[2025 Diversity Leadership Symposium: 2026 Nestlé USA Finance & Accounting Internship Program](https://jobright.ai/jobs/info/68287d83c2dd76d8c21a8e1b?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | May 17 |
 | ↳ | **[2025 Diversity Leadership Symposium: 2026 Nestlé USA Finance & Accounting Internship Program](https://jobright.ai/jobs/info/68287974b564dce7fb5ddef7?utm_campaign=1057&utm_source=git)** | Gaffney, SC | On Site | May 17 |
 | ↳ | **[2025 Diversity Leadership Symposium: 2026 Nestlé USA Finance & Accounting Internship Program](https://jobright.ai/jobs/info/68287974b564dce7fb5ddf00?utm_campaign=1057&utm_source=git)** | Fremont, MI | On Site | May 17 |
@@ -109,17 +117,17 @@ For a complete list, click the following sortable link below:
 | **[CHRISTUS Trinity Mother Frances Health System](http://www.christushealth.org/)** | **[Registered Nurse Residency-Nursing Internship-St. Francis Cabrini (Alexandria) (Alexandria)](https://jobright.ai/jobs/info/6828972abfc80338bc089afb?utm_campaign=1057&utm_source=git)** | Alexandria, LA | On Site | May 17 |
 | **[Year Up United](http://yearup.org)** | **[Financial Operations Job Training Program](https://jobright.ai/jobs/info/6828972abfc80338bc089d5c?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | May 17 |
 | ↳ | **[Technical Support Job Training Program](https://jobright.ai/jobs/info/6828972abfc80338bc089cdf?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | May 17 |
-| ↳ | **[Data Management JOB Training Program](https://jobright.ai/jobs/info/68289ba24b691ad86a9c42eb?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 17 |
 | ↳ | **[Software Development JOB Training Program](https://jobright.ai/jobs/info/68289ba24b691ad86a9c42e1?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 17 |
 | ↳ | **[Application Developmentcareer Training Program](https://jobright.ai/jobs/info/68289ba24b691ad86a9c42f2?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 17 |
-| ↳ | **[Customer Service Fundamentals JOB Training Opportunity](https://jobright.ai/jobs/info/68289ba24b691ad86a9c42e9?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 17 |
 | ↳ | **[IT JOB Training Program](https://jobright.ai/jobs/info/68289ba24b691ad86a9c4302?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 17 |
+| ↳ | **[Data Management JOB Training Program](https://jobright.ai/jobs/info/68289ba24b691ad86a9c42eb?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 17 |
+| ↳ | **[Customer Service Fundamentals JOB Training Opportunity](https://jobright.ai/jobs/info/68289ba24b691ad86a9c42e9?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 17 |
 | ↳ | **[Application Development JOB Training Program](https://jobright.ai/jobs/info/68289ba24b691ad86a9c438e?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 17 |
-| ↳ | **[Data Management JOB Training Opportunity](https://jobright.ai/jobs/info/68289ba24b691ad86a9c43ba?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 17 |
-| ↳ | **[IT Systems Administration JOB Training Program](https://jobright.ai/jobs/info/68289ba24b691ad86a9c43e4?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 17 |
 | ↳ | **[Application Developmentjob Training Program](https://jobright.ai/jobs/info/68289ba24b691ad86a9c4385?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 17 |
-| ↳ | **[Software Development Career Training Opportunity](https://jobright.ai/jobs/info/68289ba24b691ad86a9c44b9?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 17 |
+| ↳ | **[IT Systems Administration JOB Training Program](https://jobright.ai/jobs/info/68289ba24b691ad86a9c43e4?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 17 |
+| ↳ | **[Data Management JOB Training Opportunity](https://jobright.ai/jobs/info/68289ba24b691ad86a9c43ba?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 17 |
 | ↳ | **[Software Development JOB Training Opportunity](https://jobright.ai/jobs/info/68289ba24b691ad86a9c448f?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 17 |
+| ↳ | **[Software Development Career Training Opportunity](https://jobright.ai/jobs/info/68289ba24b691ad86a9c44b9?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 17 |
 | ↳ | **[Application Development Career Training Program](https://jobright.ai/jobs/info/6828a0418bcf5c842634fb6f?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | May 17 |
 | **[Nestlé](https://www.nestle.com)** | **[2025 Diversity Leadership Symposium: 2026 Nestlé USA Finance & Accounting Internship Program](https://jobright.ai/jobs/info/682967c24f9cb34a9ba1a9f9?utm_campaign=1057&utm_source=git)** | Springville, UT | On Site | May 17 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Summer Intern](https://jobright.ai/jobs/info/67d2f9d439df218c8e9c5f7c?utm_campaign=1057&utm_source=git)** | Livermore, CA | On Site | May 17 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Social Model Recovery Systems](https://www.socialmodelrecovery.org)** | **[Licensed Clinical Internship Coordinator](https://jobright.ai/jobs/info/682804467be169a13faae715?utm_campaign=1057&utm_source=git)** | Covina, CA | On Site | May 16 |
 | **[Year Up United](http://yearup.org)** | **[Financial Operations Job Training Program](https://jobright.ai/jobs/info/682808a3d90255406557e62e?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | May 16 |
 | ↳ | **[Technical Support Job Training Program](https://jobright.ai/jobs/info/682808a3d90255406557e60b?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | May 16 |
-| **[CommonSpirit Health](https://www.commonspirit.org)** | **[CPE Chaplain Intern](https://jobright.ai/jobs/info/6827e121bc12abda75f9a20a?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | May 16 |
-| **[Houston Methodist](http://www.houstonmethodist.org/)** | **[Chaplain Intern](https://jobright.ai/jobs/info/67eed6fe0bdb919a84e18530?utm_campaign=1057&utm_source=git)** | Baytown, TX | On Site | May 16 |
-| **[Recovery Centers of America](http://www.recoverycentersofamerica.com/)** | **[Intern-Clinical](https://jobright.ai/jobs/info/6827da85b56c7fab9352193f?utm_campaign=1057&utm_source=git)** | King of Prussia, PA | On Site | May 16 |
-| **[CommonSpirit Health](https://www.commonspirit.org)** | **[Nurse Intern Intermediate Care](https://jobright.ai/jobs/info/6827d87e558ed52b2b9aec9e?utm_campaign=1057&utm_source=git)** | Henderson, NV | On Site | May 16 |
-| **[American University](http://american.edu)** | **[Research Assistant (Student)](https://jobright.ai/jobs/info/6827d87e558ed52b2b9aec6f?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | May 16 |
-| ↳ | **[HSHC Research Assistant (Student)](https://jobright.ai/jobs/info/6827d87e558ed52b2b9aecb3?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | May 16 |
-| **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[BH Education Intern - HS](https://jobright.ai/jobs/info/6827d51536ebfd9465d7b653?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | May 16 |
-| **[Risepoint](http://www.risepoint.com)** | **[Student Experience Intern (Current Students Only)](https://jobright.ai/jobs/info/6827c56351356c318e4184bf?utm_campaign=1057&utm_source=git)** | United States | Remote | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
