@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Campus Activities Board Assistant](https://jobright.ai/jobs/info/684e32f21bb617fdcf036ae7?utm_campaign=1057&utm_source=git)** | Sellersburg, IN | On Site | Jun 14 |
+| ↳ | **[Upward Bound Summer Intern](https://jobright.ai/jobs/info/684e288ff5fa96b59fe0e65f?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Jun 14 |
+| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[2025 Summer Internship](https://jobright.ai/jobs/info/684e2506e0e332eca96e2cc5?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Jun 14 |
+| **[American University](http://american.edu)** | **[Research Assistant (Student)](https://jobright.ai/jobs/info/684e151afccf4105d97eca43?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Jun 14 |
 | **[Cooley LLP](http://www.cooley.com)** | **[2026 Summer Associate – Education](https://jobright.ai/jobs/info/684e086f4c842cc23f5ae7da?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Jun 14 |
 | **[Stanislaus County Office of Education](http://www.stancoe.org/)** | **[SHORT TERM - NATURALIST INTERN Foothill Horizons, Deadline: 07/03/25](https://jobright.ai/jobs/info/684deb52c8a79e3f3e6156e4?utm_campaign=1057&utm_source=git)** | West Modesto, CA | On Site | Jun 14 |
 | **[21st Century Equipment LLC](https://www.21stcenturyequipment.com/)** | **[Internship Program - College Students](https://jobright.ai/jobs/info/684ddb7105a41ebc10bb13da?utm_campaign=1057&utm_source=git)** | Pueblo, CO | On Site | Jun 14 |
@@ -83,8 +87,8 @@ For a complete list, click the following sortable link below:
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Instructional Designer, Tahlequah](https://jobright.ai/jobs/info/684ceac35c914a5780454234?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Jun 13 |
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Federal Workstudy Financial Aid Student Assistant](https://jobright.ai/jobs/info/684ceac35c914a5780453fd7?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Jun 13 |
 | **[Hebrew SeniorLife](http://www.hebrewseniorlife.org/)** | **[Home Health Aide Student Internship Respite Innovation Program](https://jobright.ai/jobs/info/684ceac35c914a5780453ffd?utm_campaign=1057&utm_source=git)** | Brookline Village, MA | On Site | Jun 13 |
-| **[Point Loma Nazarene University](http://www.pointloma.edu/)** | **[Adjunct Pool (2024 - 25) Clinical Practice/Intern Supervisor, Mission Valley](https://jobright.ai/jobs/info/684ce84c42e6930eed582fed?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Jun 13 |
-| ↳ | **[Adjunct Pool (2024-25) Clinical Practice/Intern Supervisor, Bakersfield](https://jobright.ai/jobs/info/684ce84c42e6930eed582fd3?utm_campaign=1057&utm_source=git)** | Bakersfield, CA | On Site | Jun 13 |
+| **[Point Loma Nazarene University](http://www.pointloma.edu/)** | **[Adjunct Pool (2024-25) Clinical Practice/Intern Supervisor, Bakersfield](https://jobright.ai/jobs/info/684ce84c42e6930eed582fd3?utm_campaign=1057&utm_source=git)** | Bakersfield, CA | On Site | Jun 13 |
+| ↳ | **[Adjunct Pool (2024 - 25) Clinical Practice/Intern Supervisor, Mission Valley](https://jobright.ai/jobs/info/684ce84c42e6930eed582fed?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Jun 13 |
 | **[Penn State University](http://psu.edu)** | **[Professional Attire Closet Intern](https://jobright.ai/jobs/info/684ce84c42e6930eed5832bd?utm_campaign=1057&utm_source=git)** | University Park, PA | On Site | Jun 13 |
 | **[Berklee College of Music](http://berklee.edu)** | **[Cultural Arts Education Administration Internship](https://jobright.ai/jobs/info/684ce84c42e6930eed583152?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Jun 13 |
 | **[American University](http://american.edu)** | **[MGSC Graduate Assistant (Student)](https://jobright.ai/jobs/info/684ce84c42e6930eed582f95?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Jun 13 |
@@ -93,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Carnegie Mellon University](https://www.cmu.edu)** | **[Career Services Graduate Intern (non-CMU student)](https://jobright.ai/jobs/info/684ce4675213d45f53327e05?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Jun 13 |
 | **[ACLU](https://www.aclu.org/)** | **[Spring 2025 Paid Undergraduate/Graduate Intern, Organizational Management, Equity and Inclusion](https://jobright.ai/jobs/info/684ce4675213d45f533283f2?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Jun 13 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[A&F Co. Freshman+ Forum - Summer 2025](https://jobright.ai/jobs/info/684ce3ae5832769717b9e72e?utm_campaign=1057&utm_source=git)** | Columbus, OH | Remote | Jun 13 |
+| **[Community Options, Inc.](https://www.comop.org/)** | **[Rotating Veterinary Internship](https://jobright.ai/jobs/info/684e3a2311efb9153be8a2d5?utm_campaign=1057&utm_source=git)** | East Greenwich, RI | On Site | Jun 13 |
 | **[Young Life](https://sworlando.younglife.org)** | **[Year Long Camp Intern](https://jobright.ai/jobs/info/684cdde70abcd95f34868c37?utm_campaign=1057&utm_source=git)** | Ocklawaha, FL | On Site | Jun 13 |
 | **[Point Loma Nazarene University](http://www.pointloma.edu/)** | **[Memorandum of Understanding / Intern Coordinator, School of Education](https://jobright.ai/jobs/info/684cdde70abcd95f34868ef1?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Jun 13 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Finance Co-op – US – Fall 2026 - Returning Students](https://jobright.ai/jobs/info/684cdde70abcd95f348690d0?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Jun 13 |
@@ -101,11 +106,10 @@ For a complete list, click the following sortable link below:
 | **[UHS](https://uhs.com)** | **[Summer 2025 Partial Hospitalization Internship](https://jobright.ai/jobs/info/684cda191e4f0aee34abddab?utm_campaign=1057&utm_source=git)** | LOWELL, Massachusetts | On Site | Jun 13 |
 | ↳ | **[Clinical Intern](https://jobright.ai/jobs/info/684cda191e4f0aee34abddb1?utm_campaign=1057&utm_source=git)** | WOODS CROSS, Utah | On Site | Jun 13 |
 | **[KinderCare Learning Companies](http://www.kcecareers.com/)** | **[Teacher at International Leadership of Texas - Richmond](https://jobright.ai/jobs/info/684cd59bb603b584bdcc5c57?utm_campaign=1057&utm_source=git)** | Richmond, TX | On Site | Jun 13 |
-| **[Kern Family Health Care](https://www.kernfamilyhealthcare.com)** | **[Health Education Intern-Public Health-Bakersfield College PT](https://jobright.ai/jobs/info/684cd59bb603b584bdcc5caa?utm_campaign=1057&utm_source=git)** | Bakersfield, CA | On Site | Jun 13 |
-| ↳ | **[Health Education Intern-Public Health-CSUB PT](https://jobright.ai/jobs/info/684cd59bb603b584bdcc5c92?utm_campaign=1057&utm_source=git)** | Bakersfield, CA | On Site | Jun 13 |
+| **[Kern Family Health Care](https://www.kernfamilyhealthcare.com)** | **[Health Education Intern-Public Health-CSUB PT](https://jobright.ai/jobs/info/684cd59bb603b584bdcc5c92?utm_campaign=1057&utm_source=git)** | Bakersfield, CA | On Site | Jun 13 |
+| ↳ | **[Health Education Intern-Public Health-Bakersfield College PT](https://jobright.ai/jobs/info/684cd59bb603b584bdcc5caa?utm_campaign=1057&utm_source=git)** | Bakersfield, CA | On Site | Jun 13 |
 | **[KCI](http://www.kci.com/)** | **[High School Intern](https://jobright.ai/jobs/info/684cd59bb603b584bdcc5d33?utm_campaign=1057&utm_source=git)** | Mission, TX | On Site | Jun 13 |
 | **[Dartmouth College](http://dartmouth.edu)** | **[Men’s Rugby Strength & Conditioning Intern.](https://jobright.ai/jobs/info/684cd59bb603b584bdcc5ca7?utm_campaign=1057&utm_source=git)** | Hanover, NH | On Site | Jun 13 |
-| **[Corewell Health](https://corewellhealth.org)** | **[Trauma Services Internship](https://jobright.ai/jobs/info/684cd59bb603b584bdcc5974?utm_campaign=1057&utm_source=git)** | Farmington Hills, MI | Hybrid | Jun 13 |
 | **[ACLU](https://www.aclu.org/)** | **[Spring 2025 Paid Undergraduate/Graduate Intern, Organizational Management, Equity and Inclusion](https://jobright.ai/jobs/info/684cd59bb603b584bdcc5a6b?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jun 13 |
 | **[Villanova University](http://www.villanueva.edu)** | **[Career Development Graduate Assistant](https://jobright.ai/jobs/info/684cf6bac4d8ca29afa19045?utm_campaign=1057&utm_source=git)** | Hall, MT | On Site | Jun 13 |
 | **[Hebrew SeniorLife](http://www.hebrewseniorlife.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/684cefcb9139e52f0ceae181?utm_campaign=1057&utm_source=git)** | Dedham, MA | On Site | Jun 13 |
@@ -117,10 +121,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Year Long Camp Intern](https://jobright.ai/jobs/info/684ce88542e6930eed583793?utm_campaign=1057&utm_source=git)** | Goshen, VA | On Site | Jun 13 |
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Adjunct Faculty- Human Services Internship Instructor](https://jobright.ai/jobs/info/684ce84c42e6930eed583585?utm_campaign=1057&utm_source=git)** | Fort Wayne, IN | On Site | Jun 13 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern-Undergraduate](https://jobright.ai/jobs/info/684cc9c7fe89f8caf30e1ea8?utm_campaign=1057&utm_source=git)** | Rochester, MN, United States | On Site | Jun 13 |
+| **[Corewell Health](https://corewellhealth.org)** | **[Trauma Services Internship](https://jobright.ai/jobs/info/684cc52e74330904da73c7dd?utm_campaign=1057&utm_source=git)** | Farmington Hills, MI | Hybrid | Jun 13 |
 | **[Penn State University](http://psu.edu)** | **[Postdoctoral Scholar of Psychology](https://jobright.ai/jobs/info/684cc3c71e326d2b265eaa7b?utm_campaign=1057&utm_source=git)** | University Park, PA | On Site | Jun 13 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Finance Co-op – US – Spring 2026 - Returning Students](https://jobright.ai/jobs/info/684cc3c71e326d2b265eaa89?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Jun 13 |
 | ↳ | **[Finance Intern – US – Summer 2026 - Returning Students](https://jobright.ai/jobs/info/684cc3c71e326d2b265eaa95?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Jun 13 |
-| **[Seven Counties Services](https://sevencounties.org)** | **[Psychology Intern](https://jobright.ai/jobs/info/684cbfe0e1cd87fdbb3c0738?utm_campaign=1057&utm_source=git)** | Louisville, KY | Hybrid | Jun 13 |
+| **[Seven Counties Services](https://sevencounties.org)** | **[Psychology Intern](https://jobright.ai/jobs/info/684cbfe0e1cd87fdbb3c0737?utm_campaign=1057&utm_source=git)** | Louisville, KY | Hybrid | Jun 13 |
 | **[Cooley LLP](http://www.cooley.com)** | **[2026 Summer Associate – Education](https://jobright.ai/jobs/info/67fef2a1d08ba43505ad8130?utm_campaign=1057&utm_source=git)** | Reston, VA | On Site | Jun 13 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Sheppard Pratt School - Rockville) 2025- 2026 Mental Health Counseling/Social Work Fieldwork](https://jobright.ai/jobs/info/67cba08bfaa575407404023d?utm_campaign=1057&utm_source=git)** | Rockville, MD | On Site | Jun 13 |
 | **[Seven Counties Services](https://sevencounties.org)** | **[Psychology Intern](https://jobright.ai/jobs/info/684cd59bb603b584bdcc5e76?utm_campaign=1057&utm_source=git)** | Louisville, KY | Hybrid | Jun 13 |
@@ -134,10 +139,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Adult Workforce Development Healthcare - Intern](https://jobright.ai/jobs/info/684d541ea5ed2b09154f8dee?utm_campaign=1057&utm_source=git)** | Poughkeepsie, NY | On Site | Jun 13 |
 | ↳ | **[School Psychologist Intern - San Antonio (25-26)](https://jobright.ai/jobs/info/684d541ea5ed2b09154f8e6c?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jun 13 |
 | ↳ | **[School Counselor Intern - UTRGV Grant Funded (25-26)](https://jobright.ai/jobs/info/684cac2f5dd1c122cd433473?utm_campaign=1057&utm_source=git)** | Weslaco, TX | On Site | Jun 13 |
-| ↳ | **[Intern-Nurse II - ME CV Step Down Unit Baptist Memphis](https://jobright.ai/jobs/info/684ca97b78c40262be18bc98?utm_campaign=1057&utm_source=git)** | Memphis, TN | On Site | Jun 13 |
-| ↳ | **[Intern-Nurse I - JO Nursing Student Program NEA Baptist Jonesboro](https://jobright.ai/jobs/info/684ca97b78c40262be18bcc0?utm_campaign=1057&utm_source=git)** | Jonesboro, AR | On Site | Jun 13 |
 | ↳ | **[Counselor/Counselor Intern](https://jobright.ai/jobs/info/684ca97b78c40262be18bc1b?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Jun 13 |
+| ↳ | **[Intern-Nurse II - ME CV Step Down Unit Baptist Memphis](https://jobright.ai/jobs/info/684ca97b78c40262be18bc98?utm_campaign=1057&utm_source=git)** | Memphis, TN | On Site | Jun 13 |
 | ↳ | **[Paid Internship - Substance Abuse Counseling](https://jobright.ai/jobs/info/684ca97b78c40262be18bc52?utm_campaign=1057&utm_source=git)** | Bangor, ME | On Site | Jun 13 |
+| ↳ | **[Intern-Nurse I - JO Nursing Student Program NEA Baptist Jonesboro](https://jobright.ai/jobs/info/684ca97b78c40262be18bcc0?utm_campaign=1057&utm_source=git)** | Jonesboro, AR | On Site | Jun 13 |
 | ↳ | **[Student Aide - Student Engagement](https://jobright.ai/jobs/info/684ca5d6606df8a38227dc4c?utm_campaign=1057&utm_source=git)** | Palatine, IL | On Site | Jun 13 |
 | ↳ | **[SkillBridge Intern](https://jobright.ai/jobs/info/684ca5d6606df8a38227dcb2?utm_campaign=1057&utm_source=git)** | Sterling Heights, MI | On Site | Jun 13 |
 | ↳ | **[School Psychologist Intern - Lower Rio Grande Valley Future Vacancy General Pool](https://jobright.ai/jobs/info/684d541ea5ed2b09154f8ea0?utm_campaign=1057&utm_source=git)** | Weslaco, TX | On Site | Jun 13 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[High Impact Program (HIP!) Intern](https://jobright.ai/jobs/info/684d59002c0723c7e31d0d4d?utm_campaign=1057&utm_source=git)** | Oakmont, PA | On Site | Jun 13 |
 | ↳ | **[School Psychologist Intern - Upper Rio Grande Valley Future Vacancy General Pool](https://jobright.ai/jobs/info/684ca224c8fd3f30b1617859?utm_campaign=1057&utm_source=git)** | Weslaco, TX | On Site | Jun 13 |
 | ↳ | **[Intern - Special Programs Team - Rio Grande Valley (25-26)](https://jobright.ai/jobs/info/684ca224c8fd3f30b1617820?utm_campaign=1057&utm_source=git)** | Weslaco, TX | On Site | Jun 13 |
-| ↳ | **[School Psychologist Intern General Pool - San Antonio](https://jobright.ai/jobs/info/684ca224c8fd3f30b161785c?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jun 13 |
-| ↳ | **[Speech Language Pathologist Intern - San Antonio Future Vacancy General Pool](https://jobright.ai/jobs/info/684ca224c8fd3f30b161785d?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jun 13 |
-| ↳ | **[Speech Language Pathologist Intern General Pool - Mid Rio Grande Valley](https://jobright.ai/jobs/info/684d59002c0723c7e31d0f97?utm_campaign=1057&utm_source=git)** | Weslaco, TX | On Site | Jun 13 |
-| ↳ | **[Speech Language Pathologist Intern General Pool - Permian Basin](https://jobright.ai/jobs/info/684d59002c0723c7e31d1199?utm_campaign=1057&utm_source=git)** | Midland, TX | On Site | Jun 13 |
-| ↳ | **[School Psychologist Intern Future Vacancy General Pool - Austin](https://jobright.ai/jobs/info/684d59002c0723c7e31d1287?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Jun 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
