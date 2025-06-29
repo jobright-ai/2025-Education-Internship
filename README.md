@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Duke University Health System](http://dukemedicine.org)** | **[New Grad RN - Specialty Nurse Intern Program (SNIP) - Emergency Department](https://jobright.ai/jobs/info/6861407a875b4ddb815df343?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Jun 29 |
 | **[Riverside Community Care](http://www.riversidecc.org)** | **[Life Skills Internship - Flexible Start Date](https://jobright.ai/jobs/info/6860e89644cc6fd9cc597e02?utm_campaign=1057&utm_source=git)** | Milford, MA | On Site | Jun 29 |
 | **[World Relief](https://worldrelief.org/)** | **[Sacramento Family Services Education Internship- Winter/Spring 2025 - 2024957](https://jobright.ai/jobs/info/6860c1a807b89fa16011cd6b?utm_campaign=1057&utm_source=git)** | Sacramento, CA | Hybrid | Jun 28 |
 | **[Penn State University](http://psu.edu)** | **[Graduate Workshop Intern](https://jobright.ai/jobs/info/6860a7bea625a9b3269c40ca?utm_campaign=1057&utm_source=git)** | University Park, PA | On Site | Jun 28 |
@@ -71,25 +72,25 @@ For a complete list, click the following sortable link below:
 | **[Dallas Independent School District](https://www.dallasisd.org/)** | **[Phase 64: Dallas ISD Alternative Certification Program Internship 2025 – 2026](https://jobright.ai/jobs/info/6806959ef92185eec07a8872?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jun 28 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse I - RC Nursing Student Program Restorative Care](https://jobright.ai/jobs/info/67d3fcb50506b03ad76f000e?utm_campaign=1057&utm_source=git)** | Memphis, TN | On Site | Jun 28 |
 | **[Iowa State University](http://www.iastate.edu)** | **[Intern - Food Animal Medicine & Surgery](https://jobright.ai/jobs/info/685fe878d664471342b13883?utm_campaign=1057&utm_source=git)** | Ames, IA | On Site | Jun 28 |
-| **[University of Central Oklahoma](http://www.uco.edu/)** | **[Graduate Assistant - Health and Fitness, Department of Wellness and Sport](https://jobright.ai/jobs/info/685fe2195bb5d4ca5f78a1d6?utm_campaign=1057&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
+| **[University of Central Oklahoma](http://www.uco.edu/)** | **[FWSP Student Ambassador (Technical) - GEN STEM](https://jobright.ai/jobs/info/685fe2195bb5d4ca5f78a5d3?utm_campaign=1057&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
+| ↳ | **[Graduate Assistant- Women's Track/Field and Cross Country Assistant Coach](https://jobright.ai/jobs/info/685fe2195bb5d4ca5f78a27c?utm_campaign=1057&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
+| ↳ | **[Graduate Assistant - Health and Fitness, Department of Wellness and Sport](https://jobright.ai/jobs/info/685fe2195bb5d4ca5f78a1d6?utm_campaign=1057&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
 | ↳ | **[Reg Student Technical - Child Study Center](https://jobright.ai/jobs/info/685fe2195bb5d4ca5f78a194?utm_campaign=1057&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
 | ↳ | **[Graduate Assistant/Proctor - eLearning Testing Center](https://jobright.ai/jobs/info/685fe2195bb5d4ca5f78a5ca?utm_campaign=1057&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
-| ↳ | **[Graduate Assistant - College of Business](https://jobright.ai/jobs/info/685fe2195bb5d4ca5f78a5d0?utm_campaign=1057&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
-| ↳ | **[Graduate Research Assistant - Testing Services](https://jobright.ai/jobs/info/685fe2195bb5d4ca5f78a5de?utm_campaign=1057&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
-| ↳ | **[FWSP Clerical (Off-Campus) - YWCA DVVAP](https://jobright.ai/jobs/info/685fe2195bb5d4ca5f78a5df?utm_campaign=1057&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
 | ↳ | **[Regular Student Tutor, Japanese - Modern Languages](https://jobright.ai/jobs/info/685fe2195bb5d4ca5f78a5d1?utm_campaign=1057&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
+| ↳ | **[FWSP Clerical (Off-Campus) - YWCA DVVAP](https://jobright.ai/jobs/info/685fe2195bb5d4ca5f78a5df?utm_campaign=1057&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
 | ↳ | **[Regular Student Tutor, Korean - Modern Languages](https://jobright.ai/jobs/info/685fe2195bb5d4ca5f78a1c7?utm_campaign=1057&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
+| ↳ | **[Graduate Research Assistant - Testing Services](https://jobright.ai/jobs/info/685fe2195bb5d4ca5f78a5de?utm_campaign=1057&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
+| ↳ | **[Graduate Assistant - College of Business](https://jobright.ai/jobs/info/685fe2195bb5d4ca5f78a5d0?utm_campaign=1057&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
 | ↳ | **[FWSP Grad Research Assistant - Testing Services](https://jobright.ai/jobs/info/685fe2195bb5d4ca5f78a1b8?utm_campaign=1057&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
-| ↳ | **[FWSP Student Ambassador (Technical) - GEN STEM](https://jobright.ai/jobs/info/685fe2195bb5d4ca5f78a5d3?utm_campaign=1057&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
-| ↳ | **[Graduate Assistant- Women's Track/Field and Cross Country Assistant Coach](https://jobright.ai/jobs/info/685fe2195bb5d4ca5f78a27c?utm_campaign=1057&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Sports Intern](https://jobright.ai/jobs/info/684391e2774a21487ab6d27e?utm_campaign=1057&utm_source=git)** | Spartanburg, SC | On Site | Jun 28 |
 | **[University of Central Oklahoma](http://www.uco.edu/)** | **[Regular Student Technical - Endeavor Games](https://jobright.ai/jobs/info/6861085a624545d1dfb88257?utm_campaign=1057&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
 | ↳ | **[Regular Student Tutor, Spanish - Modern Languages](https://jobright.ai/jobs/info/6861085a624545d1dfb8804a?utm_campaign=1057&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
 | **[Texas State University](http://www.txstate.edu/)** | **[Postdoctoral Scholar Pool - School of Family & Consumer Sciences](https://jobright.ai/jobs/info/67f073e52aba6d839003842e?utm_campaign=1057&utm_source=git)** | Texas, United States | On Site | Jun 28 |
 | **[University of Central Oklahoma](http://www.uco.edu/)** | **[Regular Student Tutor, French - Modern Languages](https://jobright.ai/jobs/info/685ffa67eff520a5ac91f2a8?utm_campaign=1057&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
 | ↳ | **[FWSP Student Clerical - Career Development Center](https://jobright.ai/jobs/info/685ffa67eff520a5ac91f4d0?utm_campaign=1057&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
-| ↳ | **[FWSP ST Technical - Chambers Library, Innovation Studio](https://jobright.ai/jobs/info/685ffa67eff520a5ac91f4d1?utm_campaign=1057&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
 | ↳ | **[Music Ensemble Librarian (Clerical) - School of Music](https://jobright.ai/jobs/info/685ffa67eff520a5ac91f2a7?utm_campaign=1057&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
+| ↳ | **[FWSP ST Technical - Chambers Library, Innovation Studio](https://jobright.ai/jobs/info/685ffa67eff520a5ac91f4d1?utm_campaign=1057&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
 | ↳ | **[Student Event Staff (Technical) - Athletics Department](https://jobright.ai/jobs/info/685ffa67eff520a5ac91f2b2?utm_campaign=1057&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
 | ↳ | **[Regular Student Clerical - Office of Global Affairs](https://jobright.ai/jobs/info/685ffa67eff520a5ac91f4d7?utm_campaign=1057&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
 | ↳ | **[FWSP Student Clerical - Financial Services](https://jobright.ai/jobs/info/685ffa67eff520a5ac91f4d8?utm_campaign=1057&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
@@ -138,7 +139,7 @@ For a complete list, click the following sortable link below:
 | **[Crown Equipment Corporation](http://www.crown.com)** | **[Fall 2025 Instructional Designer Co-Op](https://jobright.ai/jobs/info/685ef390bad40fb8047ec7cf?utm_campaign=1057&utm_source=git)** | Hebron, KY | On Site | Jun 27 |
 | **[City of Berkeley](https://www.cityofberkeley.info/)** | **[Youth Enrollee Intern](https://jobright.ai/jobs/info/685f120717c26576c2aeb163?utm_campaign=1057&utm_source=git)** | Berkeley, CA | On Site | Jun 27 |
 | **[The Ohio State University](http://www.osu.edu/)** | **[Student Assistant - Non-OSU](https://jobright.ai/jobs/info/685ffa67eff520a5ac91f4e0?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Jun 27 |
-| **[Yale University](https://www.yale.edu)** | **[YCCI Clinical Research Intern](https://jobright.ai/jobs/info/685f33a5fe1c349374a26248?utm_campaign=1057&utm_source=git)** | South Bend, IN | On Site | Jun 27 |
+| **[Yale University](https://www.yale.edu)** | **[YCCI Clinical Research Intern](https://jobright.ai/jobs/info/685f33a5fe1c349374a2640c?utm_campaign=1057&utm_source=git)** | South Bend, IN | On Site | Jun 27 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Content Intern, Kids Mental Health Foundation](https://jobright.ai/jobs/info/685edf12e170c993be53704c?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Jun 27 |
 | **[Five Keys Schools and Programs](https://www.fivekeyscharter.org/)** | **[School Based Mental Health Provider (Intern)](https://jobright.ai/jobs/info/685edf12e170c993be537168?utm_campaign=1057&utm_source=git)** | Menlo Park, CA | On Site | Jun 27 |
 | **[Elizabeth City State University](http://www.ecsu.edu/)** | **[Student Employment-Student Affairs](https://jobright.ai/jobs/info/685edf12e170c993be537115?utm_campaign=1057&utm_source=git)** | Elizabeth City, NC | On Site | Jun 27 |
@@ -152,9 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (OT/OTA Catonsville Day Program) Summer 2025 OT Fieldwork](https://jobright.ai/jobs/info/680926de9ec22c126575b54e?utm_campaign=1057&utm_source=git)** | Catonsville, MD | On Site | Jun 27 |
 | **[Regent University](http://www.regent.edu/)** | **[Graduate Assistant (Counseling Ministries Department)](https://jobright.ai/jobs/info/685e759128e7759c4bdef9f5?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA | On Site | Jun 27 |
 | **[University of Washington](http://www.washington.edu)** | **[STUDENT ASSISTANT](https://jobright.ai/jobs/info/685e6e175e0bfb041accc3bd?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Jun 27 |
-| **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-Division of Enrollment Success-SAMbassador](https://jobright.ai/jobs/info/685e6e175e0bfb041accc4d2?utm_campaign=1057&utm_source=git)** | Huntsville, TX | On Site | Jun 27 |
-| ↳ | **[Student Employee-Student Success Initiative-FYE Peer Mentor](https://jobright.ai/jobs/info/685e6e175e0bfb041accc4d1?utm_campaign=1057&utm_source=git)** | Huntsville, TX | On Site | Jun 27 |
+| **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-Student Success Initiative-FYE Peer Mentor](https://jobright.ai/jobs/info/685e6e175e0bfb041accc4d1?utm_campaign=1057&utm_source=git)** | Huntsville, TX | On Site | Jun 27 |
+| ↳ | **[Student Employee-Division of Enrollment Success-SAMbassador](https://jobright.ai/jobs/info/685e6e175e0bfb041accc4d2?utm_campaign=1057&utm_source=git)** | Huntsville, TX | On Site | Jun 27 |
 | ↳ | **[Student Employee-Residence Life-Advisor](https://jobright.ai/jobs/info/685e6e175e0bfb041accc4d0?utm_campaign=1057&utm_source=git)** | Huntsville, TX | Hybrid | Jun 27 |
 | ↳ | **[Student Employee-COM Research-Student Assistant](https://jobright.ai/jobs/info/685e667c91ff998ed394e95c?utm_campaign=1057&utm_source=git)** | Huntsville, TX | On Site | Jun 27 |
-| **[Telecare Corporation](http://www.telecarecorp.com)** | **[Internship Opportunities for All Telecare Locations! FY25](https://jobright.ai/jobs/info/66fbd78808e8896ccef2b078?utm_campaign=1057&utm_source=git)** | Alameda, CA | On Site | Jun 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
