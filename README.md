@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of San Antonio](http://www.sanantonio.gov)** | **[Public Health Unpaid Student Intern - 2025 FALL Semester](https://jobright.ai/jobs/info/686d1d2971f94f31eb2c1281?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jul 08 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Speech Clinical Fellowship Year Intern](https://jobright.ai/jobs/info/686d11171d4e123a4f028fba?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Jul 08 |
+| **[Rush University Medical Center](https://www.rush.edu/)** | **[Physician - Division Chief - Internal Medicine - Endocrinology and Metabolism - Chicago (Downtown)-12089](https://jobright.ai/jobs/info/66c53b3a33e3d96dc7762349?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jul 08 |
+| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Marsh Apprenticeship Programme 2025](https://jobright.ai/jobs/info/686d065077602cf13d5af1b5?utm_campaign=1057&utm_source=git)** | Dublin - Charlotte | Hybrid | Jul 08 |
+| **[State Farm](https://www.statefarm.com/careers)** | **[2025 Fall Intern MAGNet Program @ Arizona State University](https://jobright.ai/jobs/info/68506820765578e763a99568?utm_campaign=1057&utm_source=git)** | Tempe, AZ | On Site | Jul 08 |
+| **[University of Mississippi](http://www.olemiss.edu/)** | **[Athletics Intern (Sports Nutrition - Olympic) - Temporary](https://jobright.ai/jobs/info/686cf89698792753b69ff067?utm_campaign=1057&utm_source=git)** | Oxford, MS | On Site | Jul 08 |
+| **[University of Arkansas System](https://www.uasys.edu)** | **[SBUS Graduate Assistant-1](https://jobright.ai/jobs/info/686cf89698792753b69ff021?utm_campaign=1057&utm_source=git)** | Little Rock, AR | On Site | Jul 08 |
+| ↳ | **[Graduate Assistant / Administrative](https://jobright.ai/jobs/info/686ce99727fa671097d90b67?utm_campaign=1057&utm_source=git)** | Little Rock, AR | On Site | Jul 08 |
 | **[Celonis](https://www.celonis.com)** | **[Intern Academic Alliance](https://jobright.ai/jobs/info/686ce4a7935aa4b41ee16d2a?utm_campaign=1057&utm_source=git)** | New York, US, New York | On Site | Jul 08 |
 | **[Jefferson Healthcare](https://www.jeffersonhealthcare.org)** | **[Job Shadow](https://jobright.ai/jobs/info/686cdd1e18e9389fc6fca277?utm_campaign=1057&utm_source=git)** | Port Townsend, WA | On Site | Jul 08 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/686cd62e303f7f63cb03fbb8?utm_campaign=1057&utm_source=git)** | Alexandria, LA | On Site | Jul 08 |
@@ -76,11 +84,11 @@ For a complete list, click the following sortable link below:
 | **[The City University of New York](http://www.cuny.edu)** | **[Director of Student Development (Student Life Director) - Macaulay Honors College](https://jobright.ai/jobs/info/686c8ebb35584b65425e3b19?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Jul 07 |
 | **[Beech Acres Parenting Center](https://beechacres.org)** | **[Intern - Therapeutic Service Provider - Beyond the Classroom - $15.00 hourly](https://jobright.ai/jobs/info/686c6eb035584b6542af8107?utm_campaign=1057&utm_source=git)** | US-OH-Cincinnati | On Site | Jul 07 |
 | **[UHS](https://uhs.com)** | **[Tech - MH/BH (No Degree) / Behavioral Health Acute Psych III / PRN](https://jobright.ai/jobs/info/686c6d3235584b6542a91ea6?utm_campaign=1057&utm_source=git)** | AMARILLO, Texas | On Site | Jul 07 |
+| **[ABB](https://global.abb/group/en)** | **[Instructional Design Intern - Fall 2025](https://jobright.ai/jobs/info/685c4b028146ebc0b1c38157?utm_campaign=1057&utm_source=git)** | Memphis, TN | On Site | Jul 07 |
 | **[UC Health](http://uchealth.com/)** | **[Intern- EAP Counseling](https://jobright.ai/jobs/info/686c6a6935584b6542982013?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Jul 07 |
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Dynamic Personal Trainer Internship](https://jobright.ai/jobs/info/686c67da35584b65428b7e5f?utm_campaign=1057&utm_source=git)** | Cypress, TX | On Site | Jul 07 |
 | **[Year Up United](http://yearup.org)** | **[IT Job Training Program](https://jobright.ai/jobs/info/68654bd7c16474335688bc68?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jul 07 |
 | **[Novant Health](https://www.novanthealth.org/)** | **[Intern](https://jobright.ai/jobs/info/686c3a4235584b6542791636?utm_campaign=1057&utm_source=git)** | Salisbury, NC | On Site | Jul 07 |
-| **[Syneos Health](https://www.syneoshealth.com/)** | **[Intern (Start in Aug/ Sep for 6 months)](https://jobright.ai/jobs/info/686c376735584b6542687f4d?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 07 |
 | **[American University](http://american.edu)** | **[Program Coordinator- PPL (Student)](https://jobright.ai/jobs/info/686c2f8235584b65423586a3?utm_campaign=1057&utm_source=git)** | Main Campus (Washington, DC) | On Site | Jul 07 |
 | **[Brigham and Women’s Faulkner Hospital](http://www.brighamandwomensfaulkner.org)** | **[Student Intern](https://jobright.ai/jobs/info/686c2ed435584b654230f7ba?utm_campaign=1057&utm_source=git)** | Boston-MA | Hybrid | Jul 07 |
 | **[Dignity Health](https://www.dignityhealth.org)** | **[Knowledge Donor Intern](https://jobright.ai/jobs/info/686c2dcc35584b654229909d?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Jul 07 |
@@ -91,9 +99,9 @@ For a complete list, click the following sortable link below:
 | **[Barnhart Crane & Rigging](https://www.barnhartcrane.com/)** | **[Training Department Intern - 4206](https://jobright.ai/jobs/info/686c18ac35584b6542962090?utm_campaign=1057&utm_source=git)** | Memphis, TN | On Site | Jul 07 |
 | **[Children's National Hospital](http://childrensnational.org)** | **[Postdoctoral Fellow Psych](https://jobright.ai/jobs/info/686c175e35584b65428e64c3?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Jul 07 |
 | **[The Centers](https://thecentersohio.org/)** | **[SUD Counseling Intern](https://jobright.ai/jobs/info/686c15f335584b654284fb1c?utm_campaign=1057&utm_source=git)** | East Cleveland, OH | On Site | Jul 07 |
-| **[Dallas College](https://www.dcccd.edu)** | **[International Campus Employment-1](https://jobright.ai/jobs/info/686c153c35584b65428122bd?utm_campaign=1057&utm_source=git)** | Mesquite, TX | On Site | Jul 07 |
 | **[KinderCare Learning Companies](http://www.kcecareers.com/)** | **[Teacher at International Leadership of Texas College Station](https://jobright.ai/jobs/info/686c329f35584b654248d1ef?utm_campaign=1057&utm_source=git)** | College Station, TX | On Site | Jul 07 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, OnBoard Services, Charters Analytics (Fall 2025)](https://jobright.ai/jobs/info/686c0c6e35584b6542485e96?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jul 07 |
+| **[NAVWAR](https://www.navwar.navy.mil/)** | **[Child and Youth Program Assistant (INTERNAL)](https://jobright.ai/jobs/info/686cf37cdd515a24b79af9a3?utm_campaign=1057&utm_source=git)** | Corpus Christi, TX | On Site | Jul 07 |
 | **[GBH](http://www.wgbh.org/)** | **[Audio Visual Metadata and Training Data Internship - Fall 2025](https://jobright.ai/jobs/info/686c07f335584b65422a0694?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | Jul 07 |
 | **[University of California, Merced](http://www.ucmerced.edu/)** | **[Yosemite Leadership Program Student Assistant](https://jobright.ai/jobs/info/686c075335584b6542265e35?utm_campaign=1057&utm_source=git)** | Merced, CA | On Site | Jul 07 |
 | **[Chevron](http://www.chevron.com)** | **[2025-2026 Finance & Commercial MBA Development Program (FCMP) Intern (Previous Intern)](https://jobright.ai/jobs/info/686c028a35584b65420ce517?utm_campaign=1057&utm_source=git)** | Houston, Texas, United States of America | On Site | Jul 07 |
@@ -116,25 +124,25 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Audio Visual Support - Training & Job Placement](https://jobright.ai/jobs/info/686b513835584b6542b704f2?utm_campaign=1057&utm_source=git)** | Dayton, OH | On Site | Jul 06 |
 | ↳ | **[Audio Visual Support - Training & Job Placement](https://jobright.ai/jobs/info/686b513735584b6542b70443?utm_campaign=1057&utm_source=git)** | Newark, NJ | On Site | Jul 06 |
 | ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/686b513435584b6542b6fb75?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Jul 06 |
-| ↳ | **[Audio Visual Support - Training & Job Placement](https://jobright.ai/jobs/info/686b512d35584b6542b6eba7?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jul 06 |
 | ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/686b512d35584b6542b6ebe9?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Jul 06 |
-| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/686b512c35584b6542b6e96f?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | Jul 06 |
+| ↳ | **[Audio Visual Support - Training & Job Placement](https://jobright.ai/jobs/info/686b512d35584b6542b6eba7?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jul 06 |
 | ↳ | **[Desktop Analyst - Training & Job Placement](https://jobright.ai/jobs/info/686b512c35584b6542b6ea72?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Jul 06 |
+| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/686b512c35584b6542b6e96f?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | Jul 06 |
 | ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/686b512c35584b6542b6e958?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jul 06 |
-| ↳ | **[Audio Visual Support - Training & Job Placement](https://jobright.ai/jobs/info/686b512735584b6542b6db71?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Jul 06 |
 | ↳ | **[Desktop Analyst - Training & Job Placement](https://jobright.ai/jobs/info/686b512735584b6542b6ddaf?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Jul 06 |
+| ↳ | **[Audio Visual Support - Training & Job Placement](https://jobright.ai/jobs/info/686b512735584b6542b6db71?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Jul 06 |
 | ↳ | **[Desktop Analyst - Training & Job Placement](https://jobright.ai/jobs/info/686b512735584b6542b6ddcd?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jul 06 |
-| ↳ | **[Desktop Analyst - Training & Job Placement](https://jobright.ai/jobs/info/686b510a35584b6542b6789f?utm_campaign=1057&utm_source=git)** | Newark, NJ | On Site | Jul 06 |
 | ↳ | **[Audio Visual Support - Training & Job Placement](https://jobright.ai/jobs/info/686b510a35584b6542b678ab?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jul 06 |
+| ↳ | **[Desktop Analyst - Training & Job Placement](https://jobright.ai/jobs/info/686b510a35584b6542b6789f?utm_campaign=1057&utm_source=git)** | Newark, NJ | On Site | Jul 06 |
 | ↳ | **[Desktop Analyst - Training & Job Placement](https://jobright.ai/jobs/info/686b510935584b6542b66cd0?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Jul 06 |
 | ↳ | **[Audio Visual Support - Training & Job Placement](https://jobright.ai/jobs/info/686b510635584b6542b666f8?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | Jul 06 |
-| ↳ | **[Audio Visual Support - Training & Job Placement](https://jobright.ai/jobs/info/686b510335584b6542b655f5?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Jul 06 |
 | ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/686b510335584b6542b65630?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Jul 06 |
+| ↳ | **[Audio Visual Support - Training & Job Placement](https://jobright.ai/jobs/info/686b510335584b6542b655f5?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Jul 06 |
 | ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/686b510335584b6542b655ee?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jul 06 |
 | ↳ | **[Desktop Analyst - Training & Job Placement](https://jobright.ai/jobs/info/686b510135584b6542b65348?utm_campaign=1057&utm_source=git)** | Dayton, OH | On Site | Jul 06 |
-| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/686b50fd35584b6542b6406a?utm_campaign=1057&utm_source=git)** | Dayton, OH | On Site | Jul 06 |
 | ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/686b50fd35584b6542b6404f?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Jul 06 |
 | ↳ | **[Audio Visual Support - Training & Job Placement](https://jobright.ai/jobs/info/686b50fd35584b6542b64102?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Jul 06 |
+| ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/686b50fd35584b6542b6406a?utm_campaign=1057&utm_source=git)** | Dayton, OH | On Site | Jul 06 |
 | ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/686b50f835584b6542b62bff?utm_campaign=1057&utm_source=git)** | Newark, NJ | On Site | Jul 06 |
 | ↳ | **[Business Analyst - Training & Job Placement](https://jobright.ai/jobs/info/686b50f535584b6542b61725?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jul 06 |
 | ↳ | **[Audio Visual Support - Training & Job Placement](https://jobright.ai/jobs/info/686b50f235584b6542b609b3?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Jul 06 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Virginia Beach City Public Schools](https://www.vbschools.com)** | **[Psychologist (10 month)](https://jobright.ai/jobs/info/686c4e1135584b6542fa09a7?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA | On Site | Jul 06 |
 | **[City of San Antonio](http://www.sanantonio.gov)** | **[Public Health Unpaid Student Intern - 2025 FALL Semester](https://jobright.ai/jobs/info/686c27c535584b6542fd6b3a?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jul 06 |
 | **[Urbis](https://urbis.com.au)** | **[Student Internship Program - Archaeology (National)](https://jobright.ai/jobs/info/686b0fdd35584b654284b3a1?utm_campaign=1057&utm_source=git)** | National, MD | On Site | Jul 06 |
-| ↳ | **[Student Internship Program - Economics & Property (National)](https://jobright.ai/jobs/info/686b0fbf35584b654283de48?utm_campaign=1057&utm_source=git)** | National, MD | On Site | Jul 06 |
-| **[Opelousas General Health System](https://www.opelousasgeneral.com)** | **[Nurse Intern - For RN Clinical Students](https://jobright.ai/jobs/info/66cb0491796ebc6d6929cb3e?utm_campaign=1057&utm_source=git)** | Opelousas, LA | On Site | Jul 06 |
-| **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychotherapist Intern Outpatient Clinic– CSW / MHC / MFT/ Independent Contractor/Port Charlotte](https://jobright.ai/jobs/info/686ae24d35584b6542b87d72?utm_campaign=1057&utm_source=git)** | Punta Gorda, FL | Hybrid | Jul 06 |
-| **[Chrysalis Health](http://chrysalishealth.com)** | **[Ana G. Mendez University Master’s Level Mental Health Counselor, Clinical Social Worker, or Marriage and Family Therapist Registered Internship](https://jobright.ai/jobs/info/686ae21a35584b6542b6657c?utm_campaign=1057&utm_source=git)** | Orlando, FL | Hybrid | Jul 06 |
-| **[Elko County School District](https://www.ecsdnv.net/)** | **[Districtwide/ School Psychologist/ School Psychologist Intern (2025-26) **$5000. Signing Bonus**](https://jobright.ai/jobs/info/686adf1a35584b6542aad113?utm_campaign=1057&utm_source=git)** | Elko, NV | On Site | Jul 06 |
-| **[Bryan Health](https://www.bryanhealth.com/)** | **[Student Assistant-College Administration](https://jobright.ai/jobs/info/67f8b3d18e62263379530b6c?utm_campaign=1057&utm_source=git)** | Lincoln, NE | On Site | Jul 06 |
-| **[Nebraska Methodist Health System](https://bestcare.org/)** | **[Behavioral Health Therapist Intern - Inpatient Behavioral Health](https://jobright.ai/jobs/info/684eb9a2eee3fda2038fca6b?utm_campaign=1057&utm_source=git)** | Fremont, NE | On Site | Jul 06 |
-| **[Meadows Behavioral Healthcare](https://www.meadowsbh.com)** | **[MBH - Clinical Intern - 2025](https://jobright.ai/jobs/info/6753876014a071c9f8e605d4?utm_campaign=1057&utm_source=git)** | Wickenburg, AZ | On Site | Jul 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
