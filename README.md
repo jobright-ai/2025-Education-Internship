@@ -57,31 +57,35 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Life Time Inc.](https://www.lifetime.life/)** | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/687441f401889204ff8f627b?utm_campaign=1057&utm_source=git)** | Boca Raton, FL | On Site | Jul 13 |
+| **[Life Time Inc.](https://www.lifetime.life/)** | **[Intern - Personal Training](https://jobright.ai/jobs/info/687450b5ae2f413e4a59bfa7?utm_campaign=1057&utm_source=git)** | Johns Creek, GA | On Site | Jul 13 |
+| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/68745085ae2f413e4a59bf98?utm_campaign=1057&utm_source=git)** | Sandy Springs, GA | On Site | Jul 13 |
+| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/6874443e4001e95011b1bc8c?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jul 13 |
+| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/687441f401889204ff8f627b?utm_campaign=1057&utm_source=git)** | Boca Raton, FL | On Site | Jul 13 |
+| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/687441ed01889204ff8f6279?utm_campaign=1057&utm_source=git)** | Eden Prairie, MN | On Site | Jul 13 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/687441e201889204ff8f6274?utm_campaign=1057&utm_source=git)** | Canton, MI | On Site | Jul 13 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/687441cf01889204ff8f626d?utm_campaign=1057&utm_source=git)** | Wheat Ridge, CO | On Site | Jul 13 |
-| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/687441cb27d5e6163cae74cd?utm_campaign=1057&utm_source=git)** | Eden Prairie, MN | On Site | Jul 13 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/687441cb01889204ff8f6268?utm_campaign=1057&utm_source=git)** | Peoria, AZ | On Site | Jul 13 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/687441c427d5e6163cae74ca?utm_campaign=1057&utm_source=git)** | Gilbert, AZ | On Site | Jul 13 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/687441c427d5e6163cae74c9?utm_campaign=1057&utm_source=git)** | Frontenac, MO | On Site | Jul 13 |
-| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/687441b501889204ff8f6264?utm_campaign=1057&utm_source=git)** | Colorado Springs, CO | On Site | Jul 13 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/687441b501889204ff8f6263?utm_campaign=1057&utm_source=git)** | Brookfield, WI | On Site | Jul 13 |
+| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/687441b501889204ff8f6264?utm_campaign=1057&utm_source=git)** | Colorado Springs, CO | On Site | Jul 13 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/687441b027d5e6163cae74c4?utm_campaign=1057&utm_source=git)** | Bloomfield Township, MI | On Site | Jul 13 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/687441a627d5e6163cae74bf?utm_campaign=1057&utm_source=git)** | St Paul, MN | On Site | Jul 13 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/687441a627d5e6163cae74c1?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Jul 13 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/6874419727d5e6163cae74bb?utm_campaign=1057&utm_source=git)** | Bellevue, WA | On Site | Jul 13 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/6874419727d5e6163cae74b8?utm_campaign=1057&utm_source=git)** | Chanhassen, MN | On Site | Jul 13 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/6874419427d5e6163cae74b5?utm_campaign=1057&utm_source=git)** | Bloomington, MN | On Site | Jul 13 |
-| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/6874418d27d5e6163cae74b0?utm_campaign=1057&utm_source=git)** | Fridley, MN | On Site | Jul 13 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/6874418d27d5e6163cae74b1?utm_campaign=1057&utm_source=git)** | Germantown, TN | On Site | Jul 13 |
+| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/6874418d27d5e6163cae74b0?utm_campaign=1057&utm_source=git)** | Fridley, MN | On Site | Jul 13 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/6874417e4001e95011b1bc6e?utm_campaign=1057&utm_source=git)** | Eagan, MN | On Site | Jul 13 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/6874417c4001e95011b1bc6c?utm_campaign=1057&utm_source=git)** | Dublin, OH | On Site | Jul 13 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/6874417b4001e95011b1bc69?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Jul 13 |
-| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/687441754001e95011b1bc66?utm_campaign=1057&utm_source=git)** | Franklin, TN | On Site | Jul 13 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/687441754001e95011b1bc65?utm_campaign=1057&utm_source=git)** | Coon Rapids, MN | On Site | Jul 13 |
+| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/687441754001e95011b1bc66?utm_campaign=1057&utm_source=git)** | Franklin, TN | On Site | Jul 13 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/687441714001e95011b1bc62?utm_campaign=1057&utm_source=git)** | Henderson, NV | On Site | Jul 13 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68743ec701889204ff8f6243?utm_campaign=1057&utm_source=git)** | Commerce Township, MI | On Site | Jul 13 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68743ead4001e95011b1bc4e?utm_campaign=1057&utm_source=git)** | Mason, OH | On Site | Jul 13 |
+| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/6871514506ad7073463c475d?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 13 |
 | **[Nebraska Machinery Company](https://nmccat.com)** | **[Coop Student](https://jobright.ai/jobs/info/68741fe04001e95011b1baee?utm_campaign=1057&utm_source=git)** | Omaha, NE | On Site | Jul 13 |
 | **[University of La Verne](http://laverne.edu)** | **[Office of Student Engagement and Leadership - Front Desk Assistant (2024/2025) - FWS](https://jobright.ai/jobs/info/687419fc01889204ff8f606d?utm_campaign=1057&utm_source=git)** | La Verne, CA | On Site | Jul 13 |
 | **[HealthCorps](https://www.HealthCorps.org)** | **[Teens Make Health Happen Internship 2025-26 School Year](https://jobright.ai/jobs/info/687419424001e95011b1ba55?utm_campaign=1057&utm_source=git)** | Sahuarita, AZ | On Site | Jul 13 |
@@ -95,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Administrative Graduate Assistant (AGA) for School of Education](https://jobright.ai/jobs/info/68737ae927d5e6163cae63d9?utm_campaign=1057&utm_source=git)** | Lynchburg, VA | On Site | Jul 13 |
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-Services for Students with Disabilities-Notetaker](https://jobright.ai/jobs/info/6873c2134001e95011b19b4c?utm_campaign=1057&utm_source=git)** | Huntsville, TX | On Site | Jul 13 |
 | **[City of San Antonio](http://www.sanantonio.gov)** | **[STUDENT INTERN I (UNPAID)](https://jobright.ai/jobs/info/68739b4d01889204ff8f5244?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jul 13 |
+| **[Winston & Strawn LLP](https://www.winston.com)** | **[New York Office - 2026 2L Transactions Summer Associate](https://jobright.ai/jobs/info/682d6a747a0884edcb67b695?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 12 |
 | **[Charlie Health](https://www.charliehealth.com)** | **[Clinical Practicum Intern (Master's Level)](https://jobright.ai/jobs/info/67e33212129b8df174369854?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 12 |
 | **[HELP USA](http://www.helpusa.org/)** | **[Intern](https://jobright.ai/jobs/info/6872b55ce0a1abbcc93146a1?utm_campaign=1057&utm_source=git)** | Brooklyn, NY, USA | On Site | Jul 12 |
 | **[Catholic Charities](https://catholiccharitiesflint.org)** | **[Internship Mental Health Therapist](https://jobright.ai/jobs/info/6872954606ad7073463cc707?utm_campaign=1057&utm_source=git)** | Racine, WI | On Site | Jul 12 |
@@ -103,27 +108,27 @@ For a complete list, click the following sortable link below:
 | **[R+V Versicherung](https://www.ruv.de)** | **[Ausbildung zum Kaufmann für Versicherungen und Finanzanlagen / Vertrieb (m/w/d)](https://jobright.ai/jobs/info/685561257146c2c35b5f11ce?utm_campaign=1057&utm_source=git)** | Weimar, TX | On Site | Jul 12 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Military DoD SkillBridge Internship - Multiple Positions Q4 - 2025](https://jobright.ai/jobs/info/67a93a6b2d450e6342cddf83?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | Remote | Jul 12 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Global Technology Apprentice - NPower/Per Scholas](https://jobright.ai/jobs/info/68724b90a5ae807a59d061b1?utm_campaign=1057&utm_source=git)** | Jersey City, NJ | On Site | Jul 12 |
-| **[npower](https://www.npower.com/)** | **[Audio Visual Support - Tech Training Opportunity](https://jobright.ai/jobs/info/68721f1f5daa12172448c8ca?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | Jul 12 |
-| ↳ | **[Audio Visual Support - Tech Training Opportunity](https://jobright.ai/jobs/info/68721f1f5daa12172448c8d3?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Jul 12 |
-| ↳ | **[Audio Visual Support - Tech Training Opportunity](https://jobright.ai/jobs/info/68721f1f5daa12172448c8a8?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jul 12 |
-| ↳ | **[Audio Visual Support - Tech Training Opportunity](https://jobright.ai/jobs/info/68721f1f5daa12172448c8d7?utm_campaign=1057&utm_source=git)** | Newark, NJ | On Site | Jul 12 |
-| ↳ | **[Audio Visual Support - Tech Training Opportunity](https://jobright.ai/jobs/info/68721f1f5daa12172448c8a9?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Jul 12 |
-| ↳ | **[Audio Visual Support - Tech Training Opportunity](https://jobright.ai/jobs/info/68721f1f5daa12172448c8c3?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jul 12 |
-| ↳ | **[Audio Visual Support - Tech Training Opportunity](https://jobright.ai/jobs/info/68721f1f5daa12172448c8b6?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jul 12 |
-| ↳ | **[Business Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/68721f1f5daa12172448c8c5?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jul 12 |
-| ↳ | **[Business Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/68721f1f5daa12172448c8a5?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Jul 12 |
-| ↳ | **[Business Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/68721f1f5daa12172448c8d5?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Jul 12 |
-| ↳ | **[Audio Visual Support - Tech Training Opportunity](https://jobright.ai/jobs/info/68721f1f5daa12172448c8bd?utm_campaign=1057&utm_source=git)** | Saint Louis, MO | On Site | Jul 12 |
-| ↳ | **[Business Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/68721f1f5daa12172448c8c9?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Jul 12 |
-| ↳ | **[Business Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/68721f1f5daa12172448c8b0?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jul 12 |
-| ↳ | **[Business Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/68721f1f5daa12172448c8cc?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jul 12 |
-| ↳ | **[Audio Visual Support - Tech Training Opportunity](https://jobright.ai/jobs/info/68721f1f5daa12172448c8b5?utm_campaign=1057&utm_source=git)** | Dayton, OH | On Site | Jul 12 |
-| ↳ | **[Business Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/68721f1f5daa12172448c89e?utm_campaign=1057&utm_source=git)** | Dayton, OH | On Site | Jul 12 |
-| ↳ | **[Audio Visual Support - Tech Training Opportunity](https://jobright.ai/jobs/info/68721f1f5daa12172448c8dc?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Jul 12 |
+| **[npower](https://www.npower.com/)** | **[Audio Visual Support - Tech Training Opportunity](https://jobright.ai/jobs/info/68721f1f5daa12172448c8dc?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Jul 12 |
 | ↳ | **[Business Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/68721f1f5daa12172448c8c2?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | Jul 12 |
-| ↳ | **[Business Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/68721f1f5daa12172448c8cd?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Jul 12 |
-| ↳ | **[Business Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/68721f1f5daa12172448c8c7?utm_campaign=1057&utm_source=git)** | Saint Louis, MO | On Site | Jul 12 |
+| ↳ | **[Audio Visual Support - Tech Training Opportunity](https://jobright.ai/jobs/info/68721f1f5daa12172448c8b6?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jul 12 |
+| ↳ | **[Audio Visual Support - Tech Training Opportunity](https://jobright.ai/jobs/info/68721f1f5daa12172448c8bd?utm_campaign=1057&utm_source=git)** | Saint Louis, MO | On Site | Jul 12 |
+| ↳ | **[Audio Visual Support - Tech Training Opportunity](https://jobright.ai/jobs/info/68721f1f5daa12172448c8c3?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jul 12 |
+| ↳ | **[Audio Visual Support - Tech Training Opportunity](https://jobright.ai/jobs/info/68721f1f5daa12172448c8ca?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | Jul 12 |
+| ↳ | **[Business Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/68721f1f5daa12172448c8c9?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Jul 12 |
+| ↳ | **[Audio Visual Support - Tech Training Opportunity](https://jobright.ai/jobs/info/68721f1f5daa12172448c8a9?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Jul 12 |
+| ↳ | **[Business Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/68721f1f5daa12172448c8a5?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Jul 12 |
+| ↳ | **[Business Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/68721f1f5daa12172448c8b0?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jul 12 |
+| ↳ | **[Audio Visual Support - Tech Training Opportunity](https://jobright.ai/jobs/info/68721f1f5daa12172448c8d7?utm_campaign=1057&utm_source=git)** | Newark, NJ | On Site | Jul 12 |
+| ↳ | **[Business Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/68721f1f5daa12172448c8d5?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Jul 12 |
+| ↳ | **[Business Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/68721f1f5daa12172448c8cc?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jul 12 |
 | ↳ | **[Business Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/68721f1f5daa12172448c8af?utm_campaign=1057&utm_source=git)** | Newark, NJ | On Site | Jul 12 |
+| ↳ | **[Business Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/68721f1f5daa12172448c8c7?utm_campaign=1057&utm_source=git)** | Saint Louis, MO | On Site | Jul 12 |
+| ↳ | **[Audio Visual Support - Tech Training Opportunity](https://jobright.ai/jobs/info/68721f1f5daa12172448c8b5?utm_campaign=1057&utm_source=git)** | Dayton, OH | On Site | Jul 12 |
+| ↳ | **[Business Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/68721f1f5daa12172448c8c5?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jul 12 |
+| ↳ | **[Audio Visual Support - Tech Training Opportunity](https://jobright.ai/jobs/info/68721f1f5daa12172448c8d3?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Jul 12 |
+| ↳ | **[Business Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/68721f1f5daa12172448c8cd?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Jul 12 |
+| ↳ | **[Audio Visual Support - Tech Training Opportunity](https://jobright.ai/jobs/info/68721f1f5daa12172448c8a8?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jul 12 |
+| ↳ | **[Business Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/68721f1f5daa12172448c89e?utm_campaign=1057&utm_source=git)** | Dayton, OH | On Site | Jul 12 |
 | **[University of Colorado Boulder](https://www.colorado.edu)** | **[Postdoctoral Scholar: Mindfulness for College Students and Undergraduate Mentor](https://jobright.ai/jobs/info/6871f7f506ad7073463c978c?utm_campaign=1057&utm_source=git)** | Boulder, CO | On Site | Jul 11 |
 | **[Youth Villages](http://www.youthvillages.org)** | **[Paid Recreation Therapy Internship - Fall 2025](https://jobright.ai/jobs/info/6871e69e06ad7073463c8ad7?utm_campaign=1057&utm_source=git)** | Douglasville, GA | On Site | Jul 11 |
 | **[State of Delaware](https://www.delawarestatejobs.com/)** | **[DSAMH Workforce Development & Behavioral Health Training Intern Term: Summer/Fall](https://jobright.ai/jobs/info/687209e906ad7073463caae7?utm_campaign=1057&utm_source=git)** | Delaware, United States | On Site | Jul 11 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern-Graduate - UW-Eau Claire Students](https://jobright.ai/jobs/info/68715e4806ad7073463c4b78?utm_campaign=1057&utm_source=git)** | Eau Claire, WI | Hybrid | Jul 11 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Youth Programs Intern (Fall 2025- unpaid)](https://jobright.ai/jobs/info/68717d53a5ae807a59cffe7b?utm_campaign=1057&utm_source=git)** | Charlottesville, VA | On Site | Jul 11 |
 | **[Trustmark](https://www.trustmarkbenefits.com/)** | **[Fall/Winter Fitness Intern (Phoenix, AZ)](https://jobright.ai/jobs/info/68715be54b595fce1666fb69?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Jul 11 |
-| **[Life Time Inc.](https://www.lifetime.life/)** | **[Intern - Personal Training](https://jobright.ai/jobs/info/68715bd7a5ae807a59cff262?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Jul 11 |
-| **[Syracuse University](https://www.tracfed.syr.edu/)** | **[Postdoctoral Scholar - Mathematics](https://jobright.ai/jobs/info/6871835006ad7073463c595f?utm_campaign=1057&utm_source=git)** | Syracuse, NY | On Site | Jul 11 |
-| **[Life Time Inc.](https://www.lifetime.life/)** | **[Intern - Personal Training](https://jobright.ai/jobs/info/6871557da5ae807a59cff0aa?utm_campaign=1057&utm_source=git)** | Fort Washington, PA | On Site | Jul 11 |
-| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/6871535606ad7073463c4829?utm_campaign=1057&utm_source=git)** | Syosset, NY | On Site | Jul 11 |
-| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/68715210a5ae807a59cfef84?utm_campaign=1057&utm_source=git)** | Columbia, MD | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
