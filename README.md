@@ -57,14 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Intern - NC Charlotte](https://jobright.ai/jobs/info/6875adb7299cbc74b8756f00?utm_campaign=1057&utm_source=git)** | Charlotte, NC | Hybrid | Jul 14 |
+| **[Penn State University](http://psu.edu)** | **[Teaching Assistant - Fall MKTG 422 - Smeal College of Business, Marketing Dept](https://jobright.ai/jobs/info/6875c0f5ae2f413e4a5a990b?utm_campaign=1057&utm_source=git)** | University Park, PA | On Site | Jul 14 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Intern - MT Billings](https://jobright.ai/jobs/info/6875bb74ae2f413e4a5a96f1?utm_campaign=1057&utm_source=git)** | Billings, MT, United States | On Site | Jul 14 |
+| ↳ | **[Intern - UT Springville](https://jobright.ai/jobs/info/6875bb57ae2f413e4a5a96d5?utm_campaign=1057&utm_source=git)** | Springville, UT, United States | On Site | Jul 14 |
+| ↳ | **[Intern - NC Charlotte](https://jobright.ai/jobs/info/6875adb7299cbc74b8756f00?utm_campaign=1057&utm_source=git)** | Charlotte, NC | Hybrid | Jul 14 |
 | **[Year Up United](http://yearup.org)** | **[Data Management Job Training Opportunity](https://jobright.ai/jobs/info/6866a564e54699cffd115940?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Jul 14 |
 | **[IBM](http://www.ibm.com)** | **[P-TECH at IBM University Co-op](https://jobright.ai/jobs/info/6875a6a9299cbc74b87569b3?utm_campaign=1057&utm_source=git)** | Poughkeepsie, NY | Remote | Jul 14 |
 | **[Loma Linda University Health](https://lluh.org/)** | **[Intern-Clinical Psych](https://jobright.ai/jobs/info/6875a60eae2f413e4a5a8a59?utm_campaign=1057&utm_source=git)** | 1686 Barton Road, Redlands, CA, 92373, US | On Site | Jul 14 |
 | **[IBM](http://www.ibm.com)** | **[P-TECH at IBM University Co-op](https://jobright.ai/jobs/info/6875a59a299cbc74b87568cd?utm_campaign=1057&utm_source=git)** | Armonk, NY | Remote | Jul 14 |
+| **[Travelers](https://www.travelers.com)** | **[Data Science Leadership Development Program (DSLDP) Intern](https://jobright.ai/jobs/info/6875c2515cebcd1dd51c3356?utm_campaign=1057&utm_source=git)** | Hartford, CT | Hybrid | Jul 14 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern (SNI)- Salem-ED](https://jobright.ai/jobs/info/6875be13299cbc74b8757499?utm_campaign=1057&utm_source=git)** | Salem, IN | On Site | Jul 14 |
+| **[Avila University](http://www.avila.edu/)** | **[Graduate Assistant – School of Psychology (Research/Teaching Assistant)](https://jobright.ai/jobs/info/6875bbdd5cebcd1dd51c311a?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | Jul 14 |
+| **[County of Los Angeles](https://lacounty.gov/)** | **[CAREER DEVELOPMENT INTERN - OFFICE AND CLERICAL SUPPORT](https://jobright.ai/jobs/info/6875ca43ae2f413e4a5a9c54?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jul 14 |
 | **[Susquehanna International Group](http://sig.com)** | **[Quantitative Trader Internship: Summer 2026](https://jobright.ai/jobs/info/68759a1b5cebcd1dd51c2076?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 14 |
 | **[IBM](http://www.ibm.com)** | **[P-TECH at IBM University Co-op](https://jobright.ai/jobs/info/68759789299cbc74b87562ca?utm_campaign=1057&utm_source=git)** | Rochester, MN | Remote | Jul 14 |
+| **[County of Los Angeles](https://lacounty.gov/)** | **[CAREER DEVELOPMENT INTERN, HEAVY MAINTENANCE AND OPERATIONAL SUPPORT](https://jobright.ai/jobs/info/6875b274ae2f413e4a5a9330?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jul 14 |
 | **[City of Irvine](https://www.cityofirvine.org)** | **[Part-time Intern I](https://jobright.ai/jobs/info/68758fa9ae2f413e4a5a8245?utm_campaign=1057&utm_source=git)** | Irvine, CA | On Site | Jul 14 |
+| **[University of Central Oklahoma](http://www.uco.edu/)** | **[Proctor & Classroom Tech (Grad Assistant) - College of Business](https://jobright.ai/jobs/info/6875b4a75cebcd1dd51c2e3e?utm_campaign=1057&utm_source=git)** | Edmond, OK | On Site | Jul 14 |
 | **[IBM](http://www.ibm.com)** | **[P-TECH at IBM University Co-op](https://jobright.ai/jobs/info/6875aa00ae2f413e4a5a8f05?utm_campaign=1057&utm_source=git)** | Baton Rouge, LA | Remote | Jul 14 |
 | ↳ | **[P-TECH at IBM University Co-op](https://jobright.ai/jobs/info/6875ab2c5cebcd1dd51c2ad2?utm_campaign=1057&utm_source=git)** | Buffalo, NY | Remote | Jul 14 |
 | ↳ | **[P-TECH at IBM University Co-op](https://jobright.ai/jobs/info/6875ad135cebcd1dd51c2bbf?utm_campaign=1057&utm_source=git)** | Coppell, TX | Remote | Jul 14 |
@@ -75,8 +84,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Administrative Support- Student Assistant (Basic Needs NLC)-3](https://jobright.ai/jobs/info/687584c2ae2f413e4a5a7dc4?utm_campaign=1057&utm_source=git)** | North Lake Campus | On Site | Jul 14 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Intern - NC Charlotte](https://jobright.ai/jobs/info/687584bd299cbc74b8755bc6?utm_campaign=1057&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 14 |
 | **[Dallas College](https://www.dcccd.edu)** | **[Administrative Support- Student Assistant (Basic Needs NLC)-4](https://jobright.ai/jobs/info/687584b85cebcd1dd51c1852?utm_campaign=1057&utm_source=git)** | North Lake Campus | On Site | Jul 14 |
-| ↳ | **[Administrative Support- Student Assistant (Basic Needs CVC)-4](https://jobright.ai/jobs/info/6875849f299cbc74b8755ba0?utm_campaign=1057&utm_source=git)** | Cedar Valley Campus | On Site | Jul 14 |
 | ↳ | **[Administrative Support- Student Assistant (Basic Needs EFC)-6](https://jobright.ai/jobs/info/6875849fae2f413e4a5a7da1?utm_campaign=1057&utm_source=git)** | Eastfield Campus | On Site | Jul 14 |
+| ↳ | **[Administrative Support- Student Assistant (Basic Needs CVC)-4](https://jobright.ai/jobs/info/6875849f299cbc74b8755ba0?utm_campaign=1057&utm_source=git)** | Cedar Valley Campus | On Site | Jul 14 |
 | ↳ | **[Administrative Support- Student Assistant (Basic Needs RLC)-5](https://jobright.ai/jobs/info/68758498299cbc74b8755b9a?utm_campaign=1057&utm_source=git)** | Richland Campus | On Site | Jul 14 |
 | ↳ | **[Administrative Support- Student Assistant (Basic Needs RLC)-2](https://jobright.ai/jobs/info/6875848cae2f413e4a5a7d8f?utm_campaign=1057&utm_source=git)** | Richland Campus | On Site | Jul 14 |
 | ↳ | **[Administrative Support- Student Assistant (Basic Needs NLC)-6](https://jobright.ai/jobs/info/68758486299cbc74b8755b86?utm_campaign=1057&utm_source=git)** | North Lake Campus | On Site | Jul 14 |
@@ -144,17 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68749c555cebcd1dd51bb524?utm_campaign=1057&utm_source=git)** | Oakbrook Terrace, IL | On Site | Jul 13 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/687498c75cebcd1dd51bb40d?utm_campaign=1057&utm_source=git)** | Irvine, CA | On Site | Jul 13 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/687498a85cebcd1dd51bb401?utm_campaign=1057&utm_source=git)** | Plymouth, MN | On Site | Jul 13 |
-| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/687498875cebcd1dd51bb3fa?utm_campaign=1057&utm_source=git)** | Vernon Hills, IL | On Site | Jul 13 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/687498875cebcd1dd51bb3f8?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Jul 13 |
+| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/687498875cebcd1dd51bb3fa?utm_campaign=1057&utm_source=git)** | Vernon Hills, IL | On Site | Jul 13 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/687498805cebcd1dd51bb3f5?utm_campaign=1057&utm_source=git)** | Savage, MN | On Site | Jul 13 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/6874986f5cebcd1dd51bb3ef?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Jul 13 |
-| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/687496ae299cbc74b874f63e?utm_campaign=1057&utm_source=git)** | Westminster, CO | On Site | Jul 13 |
-| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/687496a6299cbc74b874f63b?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jul 13 |
-| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/687496a3299cbc74b874f636?utm_campaign=1057&utm_source=git)** | Skokie, IL | On Site | Jul 13 |
-| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/6874969b299cbc74b874f62d?utm_campaign=1057&utm_source=git)** | Laguna Niguel, CA | On Site | Jul 13 |
-| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/6874968d299cbc74b874f625?utm_campaign=1057&utm_source=git)** | Lenexa, KS | On Site | Jul 13 |
-| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/6875056aae2f413e4a5a2ebd?utm_campaign=1057&utm_source=git)** | Troy, MI | On Site | Jul 13 |
-| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/6874bf8cae2f413e4a59ff99?utm_campaign=1057&utm_source=git)** | Palm Beach Gardens, FL | On Site | Jul 13 |
-| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/6874e9beae2f413e4a5a1aea?utm_campaign=1057&utm_source=git)** | Overland Park, KS | On Site | Jul 13 |
-| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/6874bef1ae2f413e4a59ff41?utm_campaign=1057&utm_source=git)** | St Louis Park, MN | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
