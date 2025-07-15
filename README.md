@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trustmark](https://www.trustmarkbenefits.com/)** | **[Fall/Winter Fitness Intern (Sunnyvale, CA)](https://jobright.ai/jobs/info/687680ca5cebcd1dd51c97b7?utm_campaign=1057&utm_source=git)** | Sunnyvale, CA | On Site | Jul 15 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Student Assistant - Alumni & Donor Events, Cockrell School of Engineering (Open to work study and non-work study)](https://jobright.ai/jobs/info/68767143299cbc74b875d1e7?utm_campaign=1057&utm_source=git)** | UT MAIN CAMPUS | Hybrid | Jul 15 |
 | **[TriHealth](http://www.trihealth.com)** | **[STUDENT NURSE INTERN](https://jobright.ai/jobs/info/687668d0299cbc74b875cf58?utm_campaign=1057&utm_source=git)** | 10500 Montgomery Rd, MONTGOMERY, OH, 45242, US | On Site | Jul 15 |
+| **[Brailsford & Dunlavey, Inc.](http://programmanagers.com)** | **[Program Sustainability Intern](https://jobright.ai/jobs/info/68768b9a5cebcd1dd51c9e74?utm_campaign=1057&utm_source=git)** | Oakland, CA | Hybrid | Jul 15 |
 | **[VCU Health](https://www.vcuhealth.org)** | **[Child Life Specialist Internship](https://jobright.ai/jobs/info/68765b86ae2f413e4a5af23e?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Jul 15 |
 | **[UVA Health](https://www.uvahealth.com)** | **[Research and Program Development Assistant (Student Wage)](https://jobright.ai/jobs/info/68765584ae2f413e4a5aefb7?utm_campaign=1057&utm_source=git)** | Charlottesville, VA | Hybrid | Jul 15 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[RBT - 1700+ Hours Completed - Relocation Assistance!](https://jobright.ai/jobs/info/678cc4eccd1a68208b130203?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jul 15 |
@@ -66,14 +68,17 @@ For a complete list, click the following sortable link below:
 | **[University of Houston](https://www.uh.edu)** | **[Non-College Work-Study/ Web Support & Social Media Assistant](https://jobright.ai/jobs/info/687674365cebcd1dd51c9155?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jul 15 |
 | ↳ | **[Student Research Assistant](https://jobright.ai/jobs/info/68767212299cbc74b875d264?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jul 15 |
 | **[Clarity](https://clarityapp.io)** | **[Skillbridge Internships](https://jobright.ai/jobs/info/68767631299cbc74b875d4b6?utm_campaign=1057&utm_source=git)** | Herndon, VA | On Site | Jul 15 |
-| **[University of Houston](https://www.uh.edu)** | **[Federal Work-Study II/ Talent Search Program](https://jobright.ai/jobs/info/687668fb5cebcd1dd51c8ca2?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jul 15 |
+| **[University of Houston](https://www.uh.edu)** | **[Federal Work-Study/ Scholars Academy](https://jobright.ai/jobs/info/687679c6299cbc74b875d766?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jul 15 |
+| ↳ | **[Non-College Work-Study/ Faculty Research Student Assistant (part-time)](https://jobright.ai/jobs/info/6876793aae2f413e4a5b004c?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jul 15 |
+| ↳ | **[Student Research Assistant](https://jobright.ai/jobs/info/68768e9cae2f413e4a5b0d2a?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jul 15 |
+| ↳ | **[Federal Work-Study II/ Talent Search Program](https://jobright.ai/jobs/info/687668fb5cebcd1dd51c8ca2?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jul 15 |
 | ↳ | **[Texas Work-Study/ Financial Aid](https://jobright.ai/jobs/info/687670425cebcd1dd51c8f00?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jul 15 |
 | ↳ | **[Graduate Teaching Assistant/ Sciences & Technology](https://jobright.ai/jobs/info/68765f215cebcd1dd51c88d0?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jul 15 |
 | **[Kleinfelder](http://www.kleinfelder.com/)** | **[ASCE Championships Cal Poly SLO 2025](https://jobright.ai/jobs/info/6859e26de37bf4b3ef1e485f?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Jul 15 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[VOCATIONAL REHABILITATION CAREER TRAINING COORDINATOR - 07152025- 69378](https://jobright.ai/jobs/info/68762825299cbc74b875b1cd?utm_campaign=1057&utm_source=git)** | Henry County, TN | On Site | Jul 15 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Intern - MT Billings](https://jobright.ai/jobs/info/68762096299cbc74b875ae28?utm_campaign=1057&utm_source=git)** | Billings, MT | Hybrid | Jul 14 |
 | ↳ | **[Intern - UT Springville](https://jobright.ai/jobs/info/687620caae2f413e4a5ad217?utm_campaign=1057&utm_source=git)** | Springville, UT | On Site | Jul 14 |
-| **[Loma Linda University Health](https://lluh.org/)** | **[Intern-Clinical Psych](https://jobright.ai/jobs/info/687630065cebcd1dd51c71cc?utm_campaign=1057&utm_source=git)** | Redlands, CA | On Site | Jul 14 |
+| **[Loma Linda University Health](https://lluh.org/)** | **[Intern-Clinical Psych](https://jobright.ai/jobs/info/687633f9ae2f413e4a5add30?utm_campaign=1057&utm_source=git)** | Redlands, CA | On Site | Jul 14 |
 | **[University of Virginia](https://lvg.virginia.edu)** | **[Postdoctoral Research Scholar and Program Advisor](https://jobright.ai/jobs/info/687615c65cebcd1dd51c6794?utm_campaign=1057&utm_source=git)** | Charlottesville, VA | On Site | Jul 14 |
 | **[NPower](http://www.npower.org/)** | **[Helpdesk Level 1 - Tech Training Opportunity](https://jobright.ai/jobs/info/68762410ae2f413e4a5ad3c2?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Jul 14 |
 | ↳ | **[Business Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/687618be299cbc74b875aac4?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jul 14 |
@@ -81,8 +86,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/6875fd62299cbc74b87599df?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Jul 14 |
 | ↳ | **[Helpdesk Level 1 - Tech Training Opportunity](https://jobright.ai/jobs/info/6876043d299cbc74b8759e9f?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Jul 14 |
 | ↳ | **[Helpdesk Level 1 - Tech Training Opportunity](https://jobright.ai/jobs/info/687627dc299cbc74b875b1b2?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jul 14 |
-| ↳ | **[Helpdesk Level 1 - Tech Training Opportunity](https://jobright.ai/jobs/info/687620e15cebcd1dd51c6cc8?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Jul 14 |
 | ↳ | **[Audio Visual Support - Tech Training Opportunity](https://jobright.ai/jobs/info/68761004299cbc74b875a71d?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jul 14 |
+| ↳ | **[Helpdesk Level 1 - Tech Training Opportunity](https://jobright.ai/jobs/info/687620e15cebcd1dd51c6cc8?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Jul 14 |
 | ↳ | **[Helpdesk Level 1 - Tech Training Opportunity](https://jobright.ai/jobs/info/68760067299cbc74b8759bb3?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jul 14 |
 | ↳ | **[Audio Visual Support - Tech Training Opportunity](https://jobright.ai/jobs/info/68761c84ae2f413e4a5ad027?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Jul 14 |
 | ↳ | **[Audio Visual Support - Tech Training Opportunity](https://jobright.ai/jobs/info/687624e6299cbc74b875b02b?utm_campaign=1057&utm_source=git)** | Dayton, OH | On Site | Jul 14 |
@@ -90,17 +95,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Helpdesk Level 1 - Tech Training Opportunity](https://jobright.ai/jobs/info/6876131c5cebcd1dd51c6668?utm_campaign=1057&utm_source=git)** | Dayton, OH | On Site | Jul 14 |
 | ↳ | **[Audio Visual Support - Tech Training Opportunity](https://jobright.ai/jobs/info/687602c5299cbc74b8759d5c?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jul 14 |
 | ↳ | **[Business Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/6875f8e95cebcd1dd51c52ab?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jul 14 |
-| ↳ | **[Audio Visual Support - Tech Training Opportunity](https://jobright.ai/jobs/info/6876235bae2f413e4a5ad336?utm_campaign=1057&utm_source=git)** | Newark, NJ | On Site | Jul 14 |
 | ↳ | **[Audio Visual Support - Tech Training Opportunity](https://jobright.ai/jobs/info/687605eb299cbc74b875a014?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Jul 14 |
-| ↳ | **[Helpdesk Level 1 - Tech Training Opportunity](https://jobright.ai/jobs/info/6875fae2ae2f413e4a5abd13?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jul 14 |
-| ↳ | **[Business Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/6875fe1a299cbc74b8759a69?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | Jul 14 |
-| ↳ | **[Business Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/687600bb299cbc74b8759be3?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Jul 14 |
-| ↳ | **[Audio Visual Support - Tech Training Opportunity](https://jobright.ai/jobs/info/687601525cebcd1dd51c57cd?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Jul 14 |
-| ↳ | **[Helpdesk Level 1 - Tech Training Opportunity](https://jobright.ai/jobs/info/68761d205cebcd1dd51c6b09?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Jul 14 |
-| ↳ | **[Business Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/68761ad25cebcd1dd51c69dd?utm_campaign=1057&utm_source=git)** | Dayton, OH | On Site | Jul 14 |
+| ↳ | **[Audio Visual Support - Tech Training Opportunity](https://jobright.ai/jobs/info/6876235bae2f413e4a5ad336?utm_campaign=1057&utm_source=git)** | Newark, NJ | On Site | Jul 14 |
 | ↳ | **[Audio Visual Support - Tech Training Opportunity](https://jobright.ai/jobs/info/687619cd299cbc74b875ab2d?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Jul 14 |
-| ↳ | **[Business Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/6876193b299cbc74b875aae6?utm_campaign=1057&utm_source=git)** | Newark, NJ | On Site | Jul 14 |
 | ↳ | **[Business Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/6875f7065cebcd1dd51c51b4?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Jul 14 |
+| ↳ | **[Helpdesk Level 1 - Tech Training Opportunity](https://jobright.ai/jobs/info/6875fae2ae2f413e4a5abd13?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jul 14 |
+| ↳ | **[Business Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/687600bb299cbc74b8759be3?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Jul 14 |
+| ↳ | **[Helpdesk Level 1 - Tech Training Opportunity](https://jobright.ai/jobs/info/68761d205cebcd1dd51c6b09?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Jul 14 |
+| ↳ | **[Audio Visual Support - Tech Training Opportunity](https://jobright.ai/jobs/info/687601525cebcd1dd51c57cd?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Jul 14 |
+| ↳ | **[Business Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/6875fe1a299cbc74b8759a69?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | Jul 14 |
+| ↳ | **[Business Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/6876193b299cbc74b875aae6?utm_campaign=1057&utm_source=git)** | Newark, NJ | On Site | Jul 14 |
+| ↳ | **[Business Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/68761ad25cebcd1dd51c69dd?utm_campaign=1057&utm_source=git)** | Dayton, OH | On Site | Jul 14 |
 | ↳ | **[Business Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/68760d2b299cbc74b875a645?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Jul 14 |
 | ↳ | **[Audio Visual Support - Tech Training Opportunity](https://jobright.ai/jobs/info/68761616ae2f413e4a5acd60?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Jul 14 |
 | ↳ | **[Audio Visual Support - Tech Training Opportunity](https://jobright.ai/jobs/info/6875f98c5cebcd1dd51c5317?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | Jul 14 |
@@ -118,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[P-TECH at IBM University Co-op](https://jobright.ai/jobs/info/6875a6a9299cbc74b87569b3?utm_campaign=1057&utm_source=git)** | Poughkeepsie, NY | Remote | Jul 14 |
 | **[Loma Linda University Health](https://lluh.org/)** | **[Intern-Clinical Psych](https://jobright.ai/jobs/info/6875a60eae2f413e4a5a8a59?utm_campaign=1057&utm_source=git)** | 1686 Barton Road, Redlands, CA, 92373, US | On Site | Jul 14 |
 | **[IBM](http://www.ibm.com)** | **[P-TECH at IBM University Co-op](https://jobright.ai/jobs/info/6875a59a299cbc74b87568cd?utm_campaign=1057&utm_source=git)** | Armonk, NY | Remote | Jul 14 |
-| **[Travelers](https://www.travelers.com)** | **[Data Science Leadership Development Program (DSLDP) Intern](https://jobright.ai/jobs/info/6875c2515cebcd1dd51c3356?utm_campaign=1057&utm_source=git)** | Hartford, CT | Hybrid | Jul 14 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern (SNI)- Salem-ED](https://jobright.ai/jobs/info/6875be13299cbc74b8757499?utm_campaign=1057&utm_source=git)** | Salem, IN | On Site | Jul 14 |
 | **[Susquehanna International Group](http://sig.com)** | **[Quantitative Trader Internship: Summer 2026](https://jobright.ai/jobs/info/68759a1b5cebcd1dd51c2076?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 14 |
 | **[IBM](http://www.ibm.com)** | **[P-TECH at IBM University Co-op](https://jobright.ai/jobs/info/68759789299cbc74b87562ca?utm_campaign=1057&utm_source=git)** | Rochester, MN | Remote | Jul 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Administrative Support- Student Assistant (Basic Needs RLC)-4](https://jobright.ai/jobs/info/687583dc5cebcd1dd51c1767?utm_campaign=1057&utm_source=git)** | Richland Campus | On Site | Jul 14 |
 | **[UVA Health](https://www.uvahealth.com)** | **[PhD Plus Graduate Student Intern, Office of Graduate and Postdoctoral Affairs](https://jobright.ai/jobs/info/687583cb5cebcd1dd51c1758?utm_campaign=1057&utm_source=git)** | Charlottesville, VA | On Site | Jul 14 |
 | **[Dallas College](https://www.dcccd.edu)** | **[Administrative Support- Student Assistant (Basic Needs EFC)-2](https://jobright.ai/jobs/info/687583ad299cbc74b8755ad0?utm_campaign=1057&utm_source=git)** | Eastfield Campus | On Site | Jul 14 |
-| ↳ | **[Administrative Support- Student Assistant (Basic Needs EFC)-5](https://jobright.ai/jobs/info/6875838c5cebcd1dd51c1723?utm_campaign=1057&utm_source=git)** | Eastfield Campus | On Site | Jul 14 |
-| ↳ | **[Administrative Support- Student Assistant (Basic Needs EFC)-4](https://jobright.ai/jobs/info/687583865cebcd1dd51c1719?utm_campaign=1057&utm_source=git)** | Eastfield Campus | On Site | Jul 14 |
-| **[State of Missouri](http://mo.gov)** | **[Paid Intern](https://jobright.ai/jobs/info/6875796a5cebcd1dd51c11d0?utm_campaign=1057&utm_source=git)** | Jefferson City, MO | On Site | Jul 14 |
-| **[University of La Verne](http://laverne.edu)** | **[Information, Events and Scheduling Services - Campus Center Student Assistant (2025/2026) - FWS](https://jobright.ai/jobs/info/687571355cebcd1dd51c0bf0?utm_campaign=1057&utm_source=git)** | La Verne, CA | On Site | Jul 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
