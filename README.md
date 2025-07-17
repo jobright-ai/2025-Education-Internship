@@ -57,16 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Selective Insurance](https://www.selective.com/)** | **[2026 Corporate Internships - Branchville, NJ](https://jobright.ai/jobs/info/6878fd552097a271a8973976?utm_campaign=1057&utm_source=git)** | Branchville, NJ | On Site | Jul 17 |
 | **[Baker Tilly](https://www.bakertilly.global/)** | **[Summer 2026 Digital Internship](https://jobright.ai/jobs/info/6878faaced63844c94497a1d?utm_campaign=1057&utm_source=git)** | USA IL Chicago 205 N Michigan Ave | On Site | Jul 17 |
 | ↳ | **[Summer 2026 Digital Internship](https://jobright.ai/jobs/info/6878fa99a7fc8904e395ebef?utm_campaign=1057&utm_source=git)** | USA DC Washington DC | On Site | Jul 17 |
 | **[University of Central Florida](https://www.ucf.edu)** | **[International Program Advisor](https://jobright.ai/jobs/info/6878fa572097a271a89738af?utm_campaign=1057&utm_source=git)** | Greater Orlando | Hybrid | Jul 17 |
+| **[County of Los Angeles](https://lacounty.gov/)** | **[CLINICAL PSYCHOLOGY INTERN](https://jobright.ai/jobs/info/68790ea4ed63844c944984b5?utm_campaign=1057&utm_source=git)** | Los Angeles County, CA | On Site | Jul 17 |
 | **[Greystar](http://greystar.com)** | **[Student Operations & Technology Assistant - Woodland Glen (Student Living)](https://jobright.ai/jobs/info/685c317e70d50b3beefc3b09?utm_campaign=1057&utm_source=git)** | Lexington, KY | On Site | Jul 17 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Speech Clinical Fellowship Year Intern, Pediatrics](https://jobright.ai/jobs/info/685d4917fe4937d00d0c9032?utm_campaign=1057&utm_source=git)** | Tracy, CA | On Site | Jul 17 |
+| **[Denver Botanic Gardens](http://www.botanicgardens.org)** | **[School Program Intern, Chatfield Farms](https://jobright.ai/jobs/info/6879187ded63844c944989b4?utm_campaign=1057&utm_source=git)** | Littleton, CO | On Site | Jul 17 |
+| **[Deloitte](https://www2.deloitte.com)** | **[Hiring our Heroes Corporate Fellowship - Fall 2025](https://jobright.ai/jobs/info/685bfc59daa3aeaa9f5f54a6?utm_campaign=1057&utm_source=git)** | Jersey City, NJ | Hybrid | Jul 17 |
 | **[North Central College](http://www.northcentralcollege.edu/)** | **[Student Sports Information Student Assistant](https://jobright.ai/jobs/info/6878d94d6133e56eb648eb73?utm_campaign=1057&utm_source=git)** | Naperville, IL | On Site | Jul 17 |
 | **[University of Wyoming](https://www.uwyo.edu/)** | **[Work Study Posn Student - Editorial, Design, and Production Internship - University Libraries/Univer](https://jobright.ai/jobs/info/6878e3522097a271a8972fbe?utm_campaign=1057&utm_source=git)** | Laramie, WY | Hybrid | Jul 17 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6878a77f5cebcd1dd51dcdc1?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 17 |
 | **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for Men's and Women's Swimming](https://jobright.ai/jobs/info/68789c885cebcd1dd51dc6e3?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | Jul 16 |
 | **[County of Los Angeles](https://lacounty.gov/)** | **[CAREER DEVELOPMENT INTERN, HEAVY MAINTENANCE AND OPERATIONAL SUPPORT](https://jobright.ai/jobs/info/6878bb0905b04b0ca9f5b729?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jul 16 |
-| ↳ | **[CAREER DEVELOPMENT INTERN - OFFICE AND CLERICAL SUPPORT](https://jobright.ai/jobs/info/6878b639991967626f06f079?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jul 16 |
 | ↳ | **[CLINICAL PSYCHOLOGY INTERN](https://jobright.ai/jobs/info/6878aaa8866a435525abc113?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jul 16 |
 | **[State of Michigan](http://www.michigan.gov)** | **[Student Assistant](https://jobright.ai/jobs/info/68785d0c866a435525ab8b3a?utm_campaign=1057&utm_source=git)** | Lansing, MI | On Site | Jul 16 |
 | **[Scottsdale Unified School District](https://www.susd.org/)** | **[High School Intern - Kids Club - Multiple Locations](https://jobright.ai/jobs/info/68785c4d5cebcd1dd51d9bbe?utm_campaign=1057&utm_source=git)** | Scottsdale, AZ | On Site | Jul 16 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dignity Health](https://www.dignityhealth.org)** | **[CPE Chaplain Intern](https://jobright.ai/jobs/info/68773dd5299cbc74b8765bc1?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Jul 15 |
 | **[Virginia Commonwealth University](http://www.vcu.edu/)** | **[General Internist (Ambulatory Care Center) / Department of Internal Medicine / SOM - M67642](https://jobright.ai/jobs/info/68789c93866a435525abb66b?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Jul 15 |
 | **[NYC Health + Hospitals](http://www.nychealthandhospitals.org)** | **[Student Intern LI](https://jobright.ai/jobs/info/68775c38299cbc74b8766e5d?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Jul 15 |
-| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern-Graduate - Education Research](https://jobright.ai/jobs/info/6877657a299cbc74b876710e?utm_campaign=1057&utm_source=git)** | Rochester, MN | On Site | Jul 15 |
-| **[American Public Health Association](https://www.apha.org)** | **[Injury and Violence Prevention Internship: 2025 fall term (Sept. 1-Dec. 15)](https://jobright.ai/jobs/info/68771ee7299cbc74b8763c4f?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Jul 15 |
-| **[Villanova University](http://www.villanueva.edu)** | **[Undergraduate Admission Seasonal Reader](https://jobright.ai/jobs/info/687718c1ae2f413e4a5b6990?utm_campaign=1057&utm_source=git)** | Villanova, PA | On Site | Jul 15 |
-| **[Dominican University of California](http://www.dominican.edu/)** | **[Program Coordinator, Student Success Center](https://jobright.ai/jobs/info/687733ad5cebcd1dd51d1145?utm_campaign=1057&utm_source=git)** | San Rafael, CA | On Site | Jul 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
