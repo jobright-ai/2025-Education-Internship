@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Central College](http://www.northcentralcollege.edu/)** | **[Student Sports Information Student Assistant](https://jobright.ai/jobs/info/6878d94d6133e56eb648eb73?utm_campaign=1057&utm_source=git)** | Naperville, IL | On Site | Jul 17 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6878a77f5cebcd1dd51dcdc1?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 17 |
 | **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for Men's and Women's Swimming](https://jobright.ai/jobs/info/68789c885cebcd1dd51dc6e3?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | Jul 16 |
 | **[County of Los Angeles](https://lacounty.gov/)** | **[CAREER DEVELOPMENT INTERN, HEAVY MAINTENANCE AND OPERATIONAL SUPPORT](https://jobright.ai/jobs/info/6878bb0905b04b0ca9f5b729?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jul 16 |
@@ -94,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[MedMark Treatment Centers](https://medmark.com)** | **[Counselor/Counselor Intern](https://jobright.ai/jobs/info/687887c25cebcd1dd51db811?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Jul 16 |
 | **[Dallas College](https://www.dcccd.edu)** | **[Administrative Support- Student Assistant (Financial Aid CVC)-3](https://jobright.ai/jobs/info/687827395cebcd1dd51d82e9?utm_campaign=1057&utm_source=git)** | Cedar Valley Campus | On Site | Jul 16 |
 | ↳ | **[Administrative Support- Student Assistant (Accessibility Services NLC)-3](https://jobright.ai/jobs/info/687826ed5cebcd1dd51d8298?utm_campaign=1057&utm_source=git)** | North Lake Campus | On Site | Jul 16 |
-| ↳ | **[Administrative Support- Student Assistant (Accessibility Services NLC)-2](https://jobright.ai/jobs/info/687826d4ae2f413e4a5c035b?utm_campaign=1057&utm_source=git)** | North Lake Campus | On Site | Jul 16 |
 | ↳ | **[Administrative Support- Student Assistant (Financial Aid CVC)-1](https://jobright.ai/jobs/info/687826d4ae2f413e4a5c035a?utm_campaign=1057&utm_source=git)** | Cedar Valley Campus | On Site | Jul 16 |
+| ↳ | **[Administrative Support- Student Assistant (Accessibility Services NLC)-2](https://jobright.ai/jobs/info/687826d4ae2f413e4a5c035b?utm_campaign=1057&utm_source=git)** | North Lake Campus | On Site | Jul 16 |
 | ↳ | **[Administrative Support- Student Assistant (Accessibility Services NLC)-4](https://jobright.ai/jobs/info/687826c2866a435525ab71e2?utm_campaign=1057&utm_source=git)** | North Lake Campus | On Site | Jul 16 |
 | ↳ | **[Administrative Support- Student Assistant (Financial Aid CVC)-2](https://jobright.ai/jobs/info/687826b6866a435525ab71d5?utm_campaign=1057&utm_source=git)** | Cedar Valley Campus | On Site | Jul 16 |
 | ↳ | **[Administrative Support- Student Assistant (Accessibility Services NLC)-1](https://jobright.ai/jobs/info/687826555cebcd1dd51d8202?utm_campaign=1057&utm_source=git)** | North Lake Campus | On Site | Jul 16 |
@@ -106,10 +107,8 @@ For a complete list, click the following sortable link below:
 | **[The Ohio State University](http://www.osu.edu/)** | **[Student Research Assistant](https://jobright.ai/jobs/info/68780a695cebcd1dd51d73a4?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Jul 16 |
 | **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Fall 2025 - Education Internship – Biloxi](https://jobright.ai/jobs/info/687582f5299cbc74b8755a5c?utm_campaign=1057&utm_source=git)** | Biloxi, MS | On Site | Jul 16 |
 | **[CalOptima](https://www.caloptima.org/)** | **[Intern (Training and Education)](https://jobright.ai/jobs/info/687807215cebcd1dd51d71e4?utm_campaign=1057&utm_source=git)** | Orange, CA | On Site | Jul 16 |
-| **[The New York Foundling](https://www.nyfoundling.org/)** | **[MSW Intern Haven Academy](https://jobright.ai/jobs/info/687805155cebcd1dd51d70ce?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Jul 16 |
-| **[MedMark Treatment Centers](https://medmark.com)** | **[Counselor Intern LCDC-I](https://jobright.ai/jobs/info/687887a95cebcd1dd51db7e7?utm_campaign=1057&utm_source=git)** | Duncanville, TX | On Site | Jul 16 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Fall 2025: Digital Inclusion Intern (Unpaid)](https://jobright.ai/jobs/info/687821eb866a435525ab6fab?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Jul 16 |
-| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[PT Intern](https://jobright.ai/jobs/info/6877ff3eae2f413e4a5bef3f?utm_campaign=1057&utm_source=git)** | Charlestown-MA | On Site | Jul 16 |
+| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[PT Intern](https://jobright.ai/jobs/info/6877fee85cebcd1dd51d6d7f?utm_campaign=1057&utm_source=git)** | Charlestown-MA | On Site | Jul 16 |
 | **[PEAK6 InsurTech](https://peak6.com/peak6-insurtech/)** | **[Trading Bootcamp Micro-Internship - Summer 2026](https://jobright.ai/jobs/info/68781c69ae2f413e4a5bfe35?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Jul 16 |
 | **[SCO Family of Services](https://sco.org/)** | **[Behavioral Health Provider– CFTSS Intern](https://jobright.ai/jobs/info/68782e34ae2f413e4a5c072f?utm_campaign=1057&utm_source=git)** | Huntington Station, NY | On Site | Jul 16 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[PT Intern](https://jobright.ai/jobs/info/68781935ae2f413e4a5bfca5?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Jul 16 |
@@ -120,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Intern](https://jobright.ai/jobs/info/68780aac5cebcd1dd51d73e5?utm_campaign=1057&utm_source=git)** | Warrensburg, MO | On Site | Jul 16 |
 | **[Kindred](https://www.kindredhospitals.com)** | **[Registered Nurse Critical Care Internship - RN ICU](https://jobright.ai/jobs/info/6878095a5cebcd1dd51d731a?utm_campaign=1057&utm_source=git)** | St. Petersburg, FL | On Site | Jul 16 |
 | **[Dallas College](https://www.dcccd.edu)** | **[Instructional Support- Student Assistant (Video Technology - North Lake)-3](https://jobright.ai/jobs/info/6877e37c5cebcd1dd51d5d40?utm_campaign=1057&utm_source=git)** | North Lake Campus | On Site | Jul 16 |
-| **[MedMark Treatment Centers](https://medmark.com)** | **[Counselor Intern LCDC-I](https://jobright.ai/jobs/info/68789350ae2f413e4a5c40e6?utm_campaign=1057&utm_source=git)** | El Paso, TX | On Site | Jul 16 |
 | **[Apex Physical Therapy](https://apexptflorida.com)** | **[Trading Bootcamp Micro-Internship - Summer 2026](https://jobright.ai/jobs/info/6877dde0866a435525ab4bf9?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jul 16 |
 | **[BALENCIAGA](https://www.balenciaga.com/)** | **[BALENCIAGA Fall 2025 Retail & Product Training Intern / NYC](https://jobright.ai/jobs/info/6877d9c5ae2f413e4a5bdb2c?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 16 |
 | **[Dallas College](https://www.dcccd.edu)** | **[Instructional Support- Student Assistant (Video Technology - NLC)-1](https://jobright.ai/jobs/info/6877d6ed5cebcd1dd51d57b0?utm_campaign=1057&utm_source=git)** | North Lake Campus | On Site | Jul 16 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Dominican University of California](http://www.dominican.edu/)** | **[Program Coordinator, Student Success Center](https://jobright.ai/jobs/info/687733ad5cebcd1dd51d1145?utm_campaign=1057&utm_source=git)** | San Rafael, CA | On Site | Jul 15 |
 | **[Yeshiva University](https://www.yu.edu/)** | **[Senior Director, Graduate & International Programs](https://jobright.ai/jobs/info/68770e675cebcd1dd51cec40?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 15 |
 | **[National Renewable Energy Laboratory](http://www.nrel.gov)** | **[Undergraduate/Graduate (Summer) ESHQ Requirements Management Administrator Support - Intern](https://jobright.ai/jobs/info/6859e26de37bf4b3ef1e47e7?utm_campaign=1057&utm_source=git)** | Golden, CO | On Site | Jul 15 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Monitoring, Evaluation, Accountability, & Learning - Paid Intern](https://jobright.ai/jobs/info/68770aecae2f413e4a5b616b?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | Hybrid | Jul 15 |
+| **[Boston University](http://www.bu.edu/dbin/stemcells/)** | **[Post-Doctoral Fellow - Disabilities, Center on Forced Displacement, Boston University](https://jobright.ai/jobs/info/68770796299cbc74b8762c0c?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Jul 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
