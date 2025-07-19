@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ChristianaCare](http://christianacare.org)** | **[Administrative Fellow - ChristianaCare](https://jobright.ai/jobs/info/687b7016764c3d7411c32b64?utm_campaign=1057&utm_source=git)** | Wilmington, DE | On Site | Jul 19 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687b1eebed63844c944a6a82?utm_campaign=1057&utm_source=git)** | Richfield, MN | On Site | Jul 18 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687b151fed63844c944a6916?utm_campaign=1057&utm_source=git)** | Norton, MA | On Site | Jul 18 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687b465d764c3d7411c31c62?utm_campaign=1057&utm_source=git)** | Dover, NJ | On Site | Jul 18 |
+| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687b753ded63844c944a7e0a?utm_campaign=1057&utm_source=git)** | East Alton, IL | On Site | Jul 18 |
 | **[Alameda County Office of Education](https://www.acoe.org/)** | **[Education Specialist Instructional Coach, P.A.T.H. Intern Program](https://jobright.ai/jobs/info/687b5f45ed63844c944a77f3?utm_campaign=1057&utm_source=git)** | Hayward, CA | On Site | Jul 18 |
+| **[WellSpan Health](https://www.wellspan.org/)** | **[Behavioral Health Internship (Master's Level) - Adult Extended Care](https://jobright.ai/jobs/info/67997a9e0bf61f079ec05ccd?utm_campaign=1057&utm_source=git)** | Lebanon, PA | On Site | Jul 18 |
 | **[Year Up United](http://yearup.org)** | **[Financial Operations Job Training Opportunity](https://jobright.ai/jobs/info/6869fd8b35584b65421e26ce?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 18 |
+| ↳ | **[Project Management Job Training Program](https://jobright.ai/jobs/info/687b7ffd2097a271a8984888?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 18 |
 | **[Endeavor Health](https://www.endeavorhealth.org)** | **[Intern Pre-Doctoral-Day-LOH](https://jobright.ai/jobs/info/687ac7eb2097a271a898141e?utm_campaign=1057&utm_source=git)** | EDH Main Hospital Naperville | On Site | Jul 18 |
 | **[Trustmark](https://www.trustmarkbenefits.com/)** | **[Fall/Winter Fitness Internship (Schenectady, NY)](https://jobright.ai/jobs/info/687abd5bed63844c944a5497?utm_campaign=1057&utm_source=git)** | Selkirk, NY | On Site | Jul 18 |
 | ↳ | **[Fall/Winter Fitness Internship (Schenectady, NY)](https://jobright.ai/jobs/info/687aba2c2097a271a8981215?utm_campaign=1057&utm_source=git)** | Niskayuna, NY | On Site | Jul 18 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Newman University](http://www.newmanu.edu/)** | **[Graduate Assistant - Bowling](https://jobright.ai/jobs/info/68793957a7fc8904e3960dd8?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Jul 17 |
 | **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Intern, Skillbridge Internship Program (Military Transition Program)](https://jobright.ai/jobs/info/6824030d341b6a709e87d8db?utm_campaign=1057&utm_source=git)** | Suwanee, GA | On Site | Jul 17 |
 | **[World Vision](http://www.worldvision.org/)** | **[U.S.–Based Internships at World Vision](https://jobright.ai/jobs/info/6879338b2097a271a8975821?utm_campaign=1057&utm_source=git)** | Home Working, United States | Remote | Jul 17 |
-| **[InterVarsity Christian Fellowship/USA](http://www.intervarsity.org)** | **[Student Intern-Iowa, Kansas, Missouri, Nebraska (Undergraduate & Faculty Ministry)](https://jobright.ai/jobs/info/687933632097a271a89757f1?utm_campaign=1057&utm_source=git)** | Missouri | Hybrid | Jul 17 |
-| ↳ | **[Student Intern-Iowa, Kansas, Missouri, Nebraska (Undergraduate & Faculty Ministry)](https://jobright.ai/jobs/info/68793341ed63844c94499929?utm_campaign=1057&utm_source=git)** | Nebraska | Hybrid | Jul 17 |
-| ↳ | **[Student Intern-Iowa, Kansas, Missouri, Nebraska (Undergraduate & Faculty Ministry)](https://jobright.ai/jobs/info/68793306a7fc8904e3960b26?utm_campaign=1057&utm_source=git)** | Kansas | Hybrid | Jul 17 |
-| ↳ | **[Student Intern-Iowa, Kansas, Missouri, Nebraska (Undergraduate & Faculty Ministry)](https://jobright.ai/jobs/info/68793275a7fc8904e3960a93?utm_campaign=1057&utm_source=git)** | Iowa | Hybrid | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
