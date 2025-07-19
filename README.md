@@ -58,14 +58,16 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[ChristianaCare](http://christianacare.org)** | **[Administrative Fellow - ChristianaCare](https://jobright.ai/jobs/info/687b7016764c3d7411c32b64?utm_campaign=1057&utm_source=git)** | Wilmington, DE | On Site | Jul 19 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687b1eebed63844c944a6a82?utm_campaign=1057&utm_source=git)** | Richfield, MN | On Site | Jul 18 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687b919f764c3d7411c33c5d?utm_campaign=1057&utm_source=git)** | South Williamsport, PA | On Site | Jul 18 |
+| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687b1eebed63844c944a6a82?utm_campaign=1057&utm_source=git)** | Richfield, MN | On Site | Jul 18 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687b151fed63844c944a6916?utm_campaign=1057&utm_source=git)** | Norton, MA | On Site | Jul 18 |
+| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687b94212097a271a8985a0d?utm_campaign=1057&utm_source=git)** | East Stroudsburg, PA | On Site | Jul 18 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687b465d764c3d7411c31c62?utm_campaign=1057&utm_source=git)** | Dover, NJ | On Site | Jul 18 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687b753ded63844c944a7e0a?utm_campaign=1057&utm_source=git)** | East Alton, IL | On Site | Jul 18 |
 | **[Alameda County Office of Education](https://www.acoe.org/)** | **[Education Specialist Instructional Coach, P.A.T.H. Intern Program](https://jobright.ai/jobs/info/687b5f45ed63844c944a77f3?utm_campaign=1057&utm_source=git)** | Hayward, CA | On Site | Jul 18 |
 | **[WellSpan Health](https://www.wellspan.org/)** | **[Behavioral Health Internship (Master's Level) - Adult Extended Care](https://jobright.ai/jobs/info/67997a9e0bf61f079ec05ccd?utm_campaign=1057&utm_source=git)** | Lebanon, PA | On Site | Jul 18 |
-| **[Year Up United](http://yearup.org)** | **[Financial Operations Job Training Opportunity](https://jobright.ai/jobs/info/6869fd8b35584b65421e26ce?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 18 |
-| ↳ | **[Project Management Job Training Program](https://jobright.ai/jobs/info/687b7ffd2097a271a8984888?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 18 |
+| **[Year Up United](http://yearup.org)** | **[Project Management Job Training Program](https://jobright.ai/jobs/info/687b7ffd2097a271a8984888?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 18 |
+| **[University of Michigan](https://www.umich.edu)** | **[CIT Lab & Classroom Assistant (Student/Work Study)](https://jobright.ai/jobs/info/687b8578ed63844c944a8183?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Jul 18 |
 | **[Endeavor Health](https://www.endeavorhealth.org)** | **[Intern Pre-Doctoral-Day-LOH](https://jobright.ai/jobs/info/687ac7eb2097a271a898141e?utm_campaign=1057&utm_source=git)** | EDH Main Hospital Naperville | On Site | Jul 18 |
 | **[Trustmark](https://www.trustmarkbenefits.com/)** | **[Fall/Winter Fitness Internship (Schenectady, NY)](https://jobright.ai/jobs/info/687abd5bed63844c944a5497?utm_campaign=1057&utm_source=git)** | Selkirk, NY | On Site | Jul 18 |
 | ↳ | **[Fall/Winter Fitness Internship (Schenectady, NY)](https://jobright.ai/jobs/info/687aba2c2097a271a8981215?utm_campaign=1057&utm_source=git)** | Niskayuna, NY | On Site | Jul 18 |
@@ -103,7 +105,7 @@ For a complete list, click the following sortable link below:
 | **[Sinclair Inc.](http://sbgi.net)** | **[NYSBA Internship - General](https://jobright.ai/jobs/info/687a5d532097a271a897e83c?utm_campaign=1057&utm_source=git)** | 1030 James Street, Syracuse, NY, 13203, US | On Site | Jul 18 |
 | **[Year Up United](http://yearup.org)** | **[Data Management Job Training Program](https://jobright.ai/jobs/info/685d3b0b49cc8710b3d27ccf?utm_campaign=1057&utm_source=git)** | Providence, RI | On Site | Jul 18 |
 | ↳ | **[Banking Job Training Program](https://jobright.ai/jobs/info/6864dadc685e50e8d29ba781?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Jul 18 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Intern, Skillbridge Internship Program (Military Transition Program)](https://jobright.ai/jobs/info/6823e4885477a27952f3b231?utm_campaign=1057&utm_source=git)** | Suwanee, GA | On Site | Jul 18 |
+| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Intern, Skillbridge Internship Program (Military Transition Program)](https://jobright.ai/jobs/info/6823e4885477a27952f3b232?utm_campaign=1057&utm_source=git)** | Suwanee, GA | On Site | Jul 18 |
 | **[BayMark Health Services](http://baymark.com/)** | **[Counselor Intern LCDC-I](https://jobright.ai/jobs/info/687a5672ed63844c944a279d?utm_campaign=1057&utm_source=git)** | El Paso, TX | On Site | Jul 18 |
 | **[BlackRock](http://www.blackrock.com)** | **[2026 Summer Internship Program - AMERS](https://jobright.ai/jobs/info/680823825db404e69199ca16?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 18 |
 | **[McAllister & Quinn](https://www.jm-aq.com)** | **[Higher Education Practice Fall 2025 Internship](https://jobright.ai/jobs/info/687a43d8764c3d7411c2c44e?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Jul 18 |
@@ -123,6 +125,7 @@ For a complete list, click the following sortable link below:
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Paide Education Student Intern - Khazaie Lab (1-Year Assignment)](https://jobright.ai/jobs/info/6879b3dbed63844c9449d803?utm_campaign=1057&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 17 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Hiring our Heroes Corporate Fellowship - Fall 2025](https://jobright.ai/jobs/info/685cd4eb3ebc8d118e1c55c3?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jul 17 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6879a658ed63844c9449d22a?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 17 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Registered Nurse RN - Student Intern - Neurology](https://jobright.ai/jobs/info/6879a443a7fc8904e39644b6?utm_campaign=1057&utm_source=git)** | Elk Grove Village, IL | On Site | Jul 17 |
 | **[The GEO Group, Inc.](http://www.geogroup.com)** | **[PSYCHOLOGICAL SPECIALIST, INTERN](https://jobright.ai/jobs/info/6879a0e5ed63844c9449d021?utm_campaign=1057&utm_source=git)** | Milton, FL | On Site | Jul 17 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6879c4c0ed63844c9449e1b0?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Jul 17 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6879c41eed63844c9449e166?utm_campaign=1057&utm_source=git)** | Apple Valley, CA | On Site | Jul 17 |
@@ -132,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[KinderCare Learning Companies](http://www.kcecareers.com/)** | **[Teacher at International Leadership - Lancaster](https://jobright.ai/jobs/info/6879bde1ed63844c9449db3b?utm_campaign=1057&utm_source=git)** | Lancaster, TX | On Site | Jul 17 |
 | **[McAllister & Quinn](https://www.jm-aq.com)** | **[Higher Education Practice Fall 2025 Internship](https://jobright.ai/jobs/info/6879989f2097a271a8978a7a?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Jul 17 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Hiring our Heroes Corporate Fellowship - Fall 2025](https://jobright.ai/jobs/info/685cd4eb3ebc8d118e1c5565?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Jul 17 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Registered Nurse RN - Student Intern - Neurology](https://jobright.ai/jobs/info/6879bc76ed63844c9449da96?utm_campaign=1057&utm_source=git)** | Elk Grove Village, IL | On Site | Jul 17 |
 | **[University of Florida](https://www.ufl.edu)** | **[Graduate Assistant (9 Month) for Student Engagement, Experiential Learning](https://jobright.ai/jobs/info/687ace2ded63844c944a5807?utm_campaign=1057&utm_source=git)** | Gainesville, FL | On Site | Jul 17 |
 | **[Carthage System - Professional Swine Management LLC](https://carthagesystem.com/)** | **[Internship](https://jobright.ai/jobs/info/687b58cded63844c944a767e?utm_campaign=1057&utm_source=git)** | Carthage, IL | On Site | Jul 17 |
 | **[California State University, Fullerton](https://linktr.ee/csufofficial)** | **[Graduate Admissions Coordinator and International Advisor (Student Services Professional II)](https://jobright.ai/jobs/info/68798a522097a271a8978544?utm_campaign=1057&utm_source=git)** | Fullerton, CA | On Site | Jul 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Princeton University](http://www.princeton.edu)** | **[Undergraduate Research Assistant - Temporary](https://jobright.ai/jobs/info/68795f77ed63844c9449b1e8?utm_campaign=1057&utm_source=git)** | Princeton, NJ | On Site | Jul 17 |
 | **[Clarkson University](http://www.clarkson.edu)** | **[International Graduate Admissions Counse](https://jobright.ai/jobs/info/68793f1ded63844c94499d66?utm_campaign=1057&utm_source=git)** | Latham, NY | On Site | Jul 17 |
 | **[Newman University](http://www.newmanu.edu/)** | **[Graduate Assistant - Bowling](https://jobright.ai/jobs/info/68793957a7fc8904e3960dd8?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Jul 17 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Intern, Skillbridge Internship Program (Military Transition Program)](https://jobright.ai/jobs/info/6824030d341b6a709e87d8db?utm_campaign=1057&utm_source=git)** | Suwanee, GA | On Site | Jul 17 |
-| **[World Vision](http://www.worldvision.org/)** | **[U.S.–Based Internships at World Vision](https://jobright.ai/jobs/info/6879338b2097a271a8975821?utm_campaign=1057&utm_source=git)** | Home Working, United States | Remote | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
