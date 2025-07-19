@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Georgia State University](http://www.gsu.edu)** | **[Post Doctoral Research Associate](https://jobright.ai/jobs/info/687b8cbe2097a271a898517e?utm_campaign=1057&utm_source=git)** | Atlanta Metro | Hybrid | Jul 19 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Intern - UT Orem](https://jobright.ai/jobs/info/685f4cae752d584a82bda68d?utm_campaign=1057&utm_source=git)** | Orem, UT | On Site | Jul 19 |
 | **[Baptist Health](http://baptisthealth.net/)** | **[Nurse Intern, Oncology, PT, 7A-7:30P](https://jobright.ai/jobs/info/687ba67e2097a271a89863fb?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Jul 19 |
 | **[Lakeview Center](https://elakeviewcenter.org/)** | **[Intern](https://jobright.ai/jobs/info/687bc322764c3d7411c35634?utm_campaign=1057&utm_source=git)** | Pensacola, FL | On Site | Jul 19 |
 | **[Yale University](https://www.yale.edu)** | **[YCCI Clinical Research Intern](https://jobright.ai/jobs/info/687bc1572097a271a89871f1?utm_campaign=1057&utm_source=git)** | New Haven, CT | On Site | Jul 19 |
@@ -101,7 +102,8 @@ For a complete list, click the following sortable link below:
 | **[Carnegie Mellon University](https://www.cmu.edu)** | **[Graduate Assistant – Office of Community Responsibility – Division of Student Affairs](https://jobright.ai/jobs/info/687a8539764c3d7411c2daaf?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Jul 18 |
 | **[TriHealth](http://www.trihealth.com)** | **[Pharmacy Student Intern - PRN](https://jobright.ai/jobs/info/687a7a56764c3d7411c2d707?utm_campaign=1057&utm_source=git)** | 375 Dixmyth Avenue, CINCINNATI, OH, 45220, US | On Site | Jul 18 |
 | **[Eliot Community Human Services](https://www.eliotchs.org)** | **[Specialty Clinical Intern](https://jobright.ai/jobs/info/6862b9ae535f1d0815b95e04?utm_campaign=1057&utm_source=git)** | Lexington, KY | On Site | Jul 18 |
-| ↳ | **[Bachelor's Level Intern](https://jobright.ai/jobs/info/6862b9ae535f1d0815b95de0?utm_campaign=1057&utm_source=git)** | Lexington, KY | On Site | Jul 18 |
+| **[Year Up United](http://yearup.org)** | **[Banking Job Training Program](https://jobright.ai/jobs/info/68403d5d22d00c42ac9d607f?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Jul 18 |
+| **[Eliot Community Human Services](https://www.eliotchs.org)** | **[Bachelor's Level Intern](https://jobright.ai/jobs/info/6862b9ae535f1d0815b95de0?utm_campaign=1057&utm_source=git)** | Lexington, KY | On Site | Jul 18 |
 | ↳ | **[Master’s Level Clinical Intern](https://jobright.ai/jobs/info/6862b9ae535f1d0815b95e01?utm_campaign=1057&utm_source=git)** | Lexington, KY | On Site | Jul 18 |
 | **[Year Up United](http://yearup.org)** | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/6866992b543aea30061d20cc?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Jul 18 |
 | ↳ | **[Banking Job Training Program](https://jobright.ai/jobs/info/687a686a2097a271a897eb5c?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Jul 18 |
@@ -110,9 +112,9 @@ For a complete list, click the following sortable link below:
 | **[Sinclair Inc.](http://sbgi.net)** | **[NYSBA Internship - General](https://jobright.ai/jobs/info/687a5d532097a271a897e83c?utm_campaign=1057&utm_source=git)** | 1030 James Street, Syracuse, NY, 13203, US | On Site | Jul 18 |
 | **[Year Up United](http://yearup.org)** | **[Data Management Job Training Program](https://jobright.ai/jobs/info/685d3b0b49cc8710b3d27ccf?utm_campaign=1057&utm_source=git)** | Providence, RI | On Site | Jul 18 |
 | ↳ | **[Banking Job Training Program](https://jobright.ai/jobs/info/6864dadc685e50e8d29ba781?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Jul 18 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Intern, Skillbridge Internship Program (Military Transition Program)](https://jobright.ai/jobs/info/6823e4885477a27952f3b231?utm_campaign=1057&utm_source=git)** | Suwanee, GA | On Site | Jul 18 |
 | **[BayMark Health Services](http://baymark.com/)** | **[Counselor Intern LCDC-I](https://jobright.ai/jobs/info/687a5672ed63844c944a279d?utm_campaign=1057&utm_source=git)** | El Paso, TX | On Site | Jul 18 |
 | **[BlackRock](http://www.blackrock.com)** | **[2026 Summer Internship Program - AMERS](https://jobright.ai/jobs/info/680823825db404e69199ca16?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 18 |
+| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Intern, Skillbridge Internship Program (Military Transition Program)](https://jobright.ai/jobs/info/6823e4885477a27952f3b230?utm_campaign=1057&utm_source=git)** | Suwanee, GA | On Site | Jul 18 |
 | **[Jacobs](http://www.jacobs.com)** | **[DoD Skillbridge Internship](https://jobright.ai/jobs/info/683bf7ebea33380a284b69c8?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jul 18 |
 | **[McAllister & Quinn](https://www.jm-aq.com)** | **[Higher Education Practice Fall 2025 Internship](https://jobright.ai/jobs/info/687a43d8764c3d7411c2c44e?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Jul 18 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[RBT - 1700+ Hours Completed - Relocation Assistance!](https://jobright.ai/jobs/info/678cc4eccd1a68208b130205?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Jul 18 |
@@ -123,7 +125,7 @@ For a complete list, click the following sortable link below:
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Paide Education Student Intern - Khazaie Lab (1-Year Assignment)](https://jobright.ai/jobs/info/6879f0142097a271a897bdc3?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Jul 17 |
 | **[Year Up United](http://yearup.org)** | **[Customer Service Job Training Program](https://jobright.ai/jobs/info/6864d70a177413afbe1f34da?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Jul 17 |
 | **[Luminis Health](http://www.luminishealth.org)** | **[Nursing Graduate -Joint and Spine Unit - August 2025 Cohort](https://jobright.ai/jobs/info/6879dbd3a7fc8904e39664d8?utm_campaign=1057&utm_source=git)** | Annapolis, MD | On Site | Jul 17 |
-| ↳ | **[Nursing Graduate - Medical Oncology - August 2025 Cohort](https://jobright.ai/jobs/info/6879da6aa7fc8904e3966446?utm_campaign=1057&utm_source=git)** | Lanham, MD | On Site | Jul 17 |
+| ↳ | **[Nursing Graduate - Medical Oncology - August 2025 Cohort](https://jobright.ai/jobs/info/6879da76a7fc8904e396644b?utm_campaign=1057&utm_source=git)** | Lanham, MD | On Site | Jul 17 |
 | **[University of North Carolina at Chapel Hill](https://www.kenan-flagler.unc.edu)** | **[Member Services and Events Intern](https://jobright.ai/jobs/info/687bac542097a271a8986793?utm_campaign=1057&utm_source=git)** | Chapel Hill, NC | On Site | Jul 17 |
 | **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Fall 2025 - Wraparound Internship – Jackson](https://jobright.ai/jobs/info/687580e65cebcd1dd51c15bf?utm_campaign=1057&utm_source=git)** | Jackson, MS | On Site | Jul 17 |
 | **[Bridgewater State University](http://www.bridgew.edu/)** | **[AY25-26 Graduate Assistant - Honors Program (Internal)](https://jobright.ai/jobs/info/6879c6c6a7fc8904e39656d6?utm_campaign=1057&utm_source=git)** | Bridgewater, MA | On Site | Jul 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Administrative Support- Student Assistant(CV Admissions)-2](https://jobright.ai/jobs/info/68795ec8ed63844c9449b15f?utm_campaign=1057&utm_source=git)** | Cedar Valley Campus | On Site | Jul 17 |
 | **[Auburn University](https://www.auburn.edu/)** | **[RFID Lab Financial Student Assistant](https://jobright.ai/jobs/info/6879555aed63844c9449abf7?utm_campaign=1057&utm_source=git)** | Auburn, AL | On Site | Jul 17 |
 | **[Embry-Riddle Aeronautical University](https://www.erau.edu)** | **[Strength & Conditioning Intern](https://jobright.ai/jobs/info/68795352ed63844c9449aaa8?utm_campaign=1057&utm_source=git)** | 601 ICI Center & Fieldhouse | On Site | Jul 17 |
-| **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Fall 2025 - Therapeutic Foster Care Internship - Jackson](https://jobright.ai/jobs/info/687971e8a7fc8904e3962e9a?utm_campaign=1057&utm_source=git)** | Jackson, MS | On Site | Jul 17 |
-| **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[Medical - College Intern - (20068617)](https://jobright.ai/jobs/info/68796ec32097a271a8977839?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
