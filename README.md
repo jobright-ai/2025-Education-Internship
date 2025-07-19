@@ -59,11 +59,13 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687b1eebed63844c944a6a82?utm_campaign=1057&utm_source=git)** | Richfield, MN | On Site | Jul 18 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687b151fed63844c944a6916?utm_campaign=1057&utm_source=git)** | Norton, MA | On Site | Jul 18 |
+| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687b465d764c3d7411c31c62?utm_campaign=1057&utm_source=git)** | Dover, NJ | On Site | Jul 18 |
+| **[Year Up United](http://yearup.org)** | **[Financial Operations Job Training Opportunity](https://jobright.ai/jobs/info/6869fd8b35584b65421e26ce?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 18 |
 | **[Endeavor Health](https://www.endeavorhealth.org)** | **[Intern Pre-Doctoral-Day-LOH](https://jobright.ai/jobs/info/687ac7eb2097a271a898141e?utm_campaign=1057&utm_source=git)** | EDH Main Hospital Naperville | On Site | Jul 18 |
 | **[Trustmark](https://www.trustmarkbenefits.com/)** | **[Fall/Winter Fitness Internship (Schenectady, NY)](https://jobright.ai/jobs/info/687abd5bed63844c944a5497?utm_campaign=1057&utm_source=git)** | Selkirk, NY | On Site | Jul 18 |
 | ↳ | **[Fall/Winter Fitness Internship (Schenectady, NY)](https://jobright.ai/jobs/info/687aba2c2097a271a8981215?utm_campaign=1057&utm_source=git)** | Niskayuna, NY | On Site | Jul 18 |
 | ↳ | **[Fall/Winter Fitness Internship (Schenectady, NY)](https://jobright.ai/jobs/info/687ab131764c3d7411c2f3da?utm_campaign=1057&utm_source=git)** | Schenectady, NY | On Site | Jul 18 |
-| **[Fairview Health Services](http://www.fairview.org/)** | **[Psychology Intern](https://jobright.ai/jobs/info/687aa88c2097a271a8980d98?utm_campaign=1057&utm_source=git)** | St Paul, MN | On Site | Jul 18 |
+| **[Fairview Health Services](http://www.fairview.org/)** | **[Psychology Intern](https://jobright.ai/jobs/info/687aa7932097a271a8980c78?utm_campaign=1057&utm_source=git)** | St Paul, MN | On Site | Jul 18 |
 | **[Temple University](https://www.temple.edu)** | **[2 PhDs @ Temple University: Fall25. AI or IoT. RA $3000/Month.](https://jobright.ai/jobs/info/687ad38ced63844c944a5955?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Jul 18 |
 | **[Compass One Healthcare](https://www.compassonehealthcare.com)** | **[DIETETIC INTERNSHIP COORNDINATOR](https://jobright.ai/jobs/info/687aa516ed63844c944a4b2f?utm_campaign=1057&utm_source=git)** | Atlanta, GA | Remote | Jul 18 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Physical Therapy Intern](https://jobright.ai/jobs/info/687b1ad2764c3d7411c30b42?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Jul 18 |
@@ -89,7 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Eliot Community Human Services](https://www.eliotchs.org)** | **[Specialty Clinical Intern](https://jobright.ai/jobs/info/6862b9ae535f1d0815b95e04?utm_campaign=1057&utm_source=git)** | Lexington, KY | On Site | Jul 18 |
 | ↳ | **[Bachelor's Level Intern](https://jobright.ai/jobs/info/6862b9ae535f1d0815b95de0?utm_campaign=1057&utm_source=git)** | Lexington, KY | On Site | Jul 18 |
 | ↳ | **[Master’s Level Clinical Intern](https://jobright.ai/jobs/info/6862b9ae535f1d0815b95e01?utm_campaign=1057&utm_source=git)** | Lexington, KY | On Site | Jul 18 |
-| **[Year Up United](http://yearup.org)** | **[Banking Job Training Program](https://jobright.ai/jobs/info/687a686a2097a271a897eb5c?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Jul 18 |
+| **[Year Up United](http://yearup.org)** | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/6866992b543aea30061d20cc?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Jul 18 |
+| ↳ | **[Banking Job Training Program](https://jobright.ai/jobs/info/687a686a2097a271a897eb5c?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Jul 18 |
 | ↳ | **[Desktop Support Job Training Program](https://jobright.ai/jobs/info/685f8ac187c7f34cc64a8997?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Jul 18 |
 | ↳ | **[Desktop Management Job Training Program](https://jobright.ai/jobs/info/6866ab0ff6c144b9470c514a?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Jul 18 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[NYSBA Internship - General](https://jobright.ai/jobs/info/687a5d532097a271a897e83c?utm_campaign=1057&utm_source=git)** | 1030 James Street, Syracuse, NY, 13203, US | On Site | Jul 18 |
@@ -107,7 +110,8 @@ For a complete list, click the following sortable link below:
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Paide Education Student Intern - Khazaie Lab (1-Year Assignment)](https://jobright.ai/jobs/info/6879f0142097a271a897bdc3?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Jul 17 |
 | **[Year Up United](http://yearup.org)** | **[Customer Service Job Training Program](https://jobright.ai/jobs/info/6864d70a177413afbe1f34da?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Jul 17 |
 | **[Luminis Health](http://www.luminishealth.org)** | **[Nursing Graduate -Joint and Spine Unit - August 2025 Cohort](https://jobright.ai/jobs/info/6879dbd3a7fc8904e39664d8?utm_campaign=1057&utm_source=git)** | Annapolis, MD | On Site | Jul 17 |
-| ↳ | **[Nursing Graduate - Medical Oncology - August 2025 Cohort](https://jobright.ai/jobs/info/6879da6aa7fc8904e3966446?utm_campaign=1057&utm_source=git)** | Lanham, MD | On Site | Jul 17 |
+| ↳ | **[Nursing Graduate - Medical Oncology - August 2025 Cohort](https://jobright.ai/jobs/info/6879da76a7fc8904e396644b?utm_campaign=1057&utm_source=git)** | Lanham, MD | On Site | Jul 17 |
+| **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Fall 2025 - Wraparound Internship – Jackson](https://jobright.ai/jobs/info/687580e65cebcd1dd51c15bf?utm_campaign=1057&utm_source=git)** | Jackson, MS | On Site | Jul 17 |
 | **[Bridgewater State University](http://www.bridgew.edu/)** | **[AY25-26 Graduate Assistant - Honors Program (Internal)](https://jobright.ai/jobs/info/6879c6c6a7fc8904e39656d6?utm_campaign=1057&utm_source=git)** | Bridgewater, MA | On Site | Jul 17 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6879b66ea7fc8904e3964d25?utm_campaign=1057&utm_source=git)** | Torrington, CT | On Site | Jul 17 |
 | **[Duke University](http://www.duke.edu)** | **[POSTDOCTORAL ASSOCIATE](https://jobright.ai/jobs/info/6879db8bed63844c9449ef25?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Jul 17 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2026 Digital Internship](https://jobright.ai/jobs/info/68794e302097a271a89766c4?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Jul 17 |
 | **[Kansas State University](http://www.k-state.edu/)** | **[Intern - Rotating Equine](https://jobright.ai/jobs/info/687958d8a7fc8904e3962023?utm_campaign=1057&utm_source=git)** | Manhattan, KS | On Site | Jul 17 |
 | ↳ | **[Intern - Clinical Nutrition](https://jobright.ai/jobs/info/68795b0ced63844c9449aef3?utm_campaign=1057&utm_source=git)** | Manhattan, KS | On Site | Jul 17 |
-| **[BayMark Health Services](http://baymark.com/)** | **[Counselor/Counselor Intern](https://jobright.ai/jobs/info/68792af12097a271a89753c4?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Jul 17 |
-| **[Trustmark](https://www.trustmarkbenefits.com/)** | **[Fall/ Winter Fitness Intern (Indianapolis, IN)](https://jobright.ai/jobs/info/687926982097a271a89750f8?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Jul 17 |
-| **[San Juan College](http://www.sanjuancollege.edu/)** | **[Work Study/Financial Aid/Main Campus](https://jobright.ai/jobs/info/68792649a7fc8904e3960433?utm_campaign=1057&utm_source=git)** | Central New Mexico, Albuquerque, NM | On Site | Jul 17 |
-| **[American University](http://american.edu)** | **[Research Assistant (Student)](https://jobright.ai/jobs/info/68791d1aed63844c94498cb1?utm_campaign=1057&utm_source=git)** | Main Campus (Washington, DC) | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
