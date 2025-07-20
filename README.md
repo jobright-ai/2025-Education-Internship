@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Montevallo](http://www.montevallo.edu)** | **[Graduate Assistant I - English 100](https://jobright.ai/jobs/info/687cb8de2097a271a898d1e4?utm_campaign=1057&utm_source=git)** | Montevallo, AL | On Site | Jul 20 |
+| **[Wichita State University](http://www.wichita.edu)** | **[Graduate Assistant](https://jobright.ai/jobs/info/687cb7d6764c3d7411c3b8c5?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Jul 20 |
+| ↳ | **[Graduate Assistant](https://jobright.ai/jobs/info/687cb731764c3d7411c3b899?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Jul 20 |
+| **[Regent University](http://www.regent.edu/)** | **[Graduate Assistant (Teaching Assistant)](https://jobright.ai/jobs/info/687cb6ee764c3d7411c3b884?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA | On Site | Jul 20 |
+| **[East Tennessee State University](http://www.etsu.edu/)** | **[Doctoral Intern (Limited Term)](https://jobright.ai/jobs/info/687cb6382097a271a898d1ac?utm_campaign=1057&utm_source=git)** | Johnson City, TN | On Site | Jul 20 |
+| **[City of Berkeley](https://www.cityofberkeley.info/)** | **[Youth Enrollee Intern](https://jobright.ai/jobs/info/687cb3c2ed63844c944b1236?utm_campaign=1057&utm_source=git)** | Berkeley, CA | On Site | Jul 20 |
+| **[University of Mississippi](http://www.olemiss.edu/)** | **[Student Employee (Tutor)](https://jobright.ai/jobs/info/687cb344764c3d7411c3b682?utm_campaign=1057&utm_source=git)** | Oxford, MS | On Site | Jul 20 |
 | **[Bridgewater State University](http://www.bridgew.edu/)** | **[AY25-26 Evening Weekend Program Coordinator (Non-Work Study)](https://jobright.ai/jobs/info/687c6727764c3d7411c3737d?utm_campaign=1057&utm_source=git)** | Bridgewater, MA | On Site | Jul 19 |
 | **[M3 Engineering & Technology Corp.](https://m3eng.com)** | **[STUDENT INTERN Charlotte](https://jobright.ai/jobs/info/687c73a32097a271a89896e7?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Jul 19 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687c47fe764c3d7411c367de?utm_campaign=1057&utm_source=git)** | Paterson, NJ | On Site | Jul 19 |
@@ -87,8 +94,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687b465d764c3d7411c31c62?utm_campaign=1057&utm_source=git)** | Dover, NJ | On Site | Jul 18 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687b753ded63844c944a7e0a?utm_campaign=1057&utm_source=git)** | East Alton, IL | On Site | Jul 18 |
 | **[Alameda County Office of Education](https://www.acoe.org/)** | **[Education Specialist Instructional Coach, P.A.T.H. Intern Program](https://jobright.ai/jobs/info/687b5f45ed63844c944a77f3?utm_campaign=1057&utm_source=git)** | Hayward, CA | On Site | Jul 18 |
+| **[University of Minnesota](https://twin-cities.umn.edu)** | **[Teaching Specialist, OUE 1830 Developing Cultural Intelligence and Career Readiness in Your Internship Experience](https://jobright.ai/jobs/info/687ca4e02097a271a898c479?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | Remote | Jul 18 |
 | **[WellSpan Health](https://www.wellspan.org/)** | **[Behavioral Health Internship (Master's Level) - Adult Extended Care](https://jobright.ai/jobs/info/67997a9e0bf61f079ec05ccd?utm_campaign=1057&utm_source=git)** | Lebanon, PA | On Site | Jul 18 |
 | **[University of Oregon](http://www.cirl.uoregon.edu/)** | **[Senior Staff Therapist/Psychologist: Latinx Student Specialist](https://jobright.ai/jobs/info/687c806c764c3d7411c38905?utm_campaign=1057&utm_source=git)** | Eugene, OR | On Site | Jul 18 |
+| **[University of Missouri-Kansas City](http://www.umkc.edu/)** | **[Part Time Early Childhood Mental Health Intern Supervisor – Psychology and Counseling, UMKC School of Education, Social Work and Psychological Sciences](https://jobright.ai/jobs/info/687ca4b7ed63844c944b05f1?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | Jul 18 |
 | **[Brigham Young University](https://byu.edu)** | **[Internship Assistant, BYUMove!](https://jobright.ai/jobs/info/687c92f52097a271a898b309?utm_campaign=1057&utm_source=git)** | Provo, UT | On Site | Jul 18 |
 | **[Year Up United](http://yearup.org)** | **[Computer Systems Administration Job Training Program](https://jobright.ai/jobs/info/687c950f2097a271a898b492?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Jul 18 |
 | **[University of Michigan](https://www.umich.edu)** | **[CIT Lab & Classroom Assistant (Student/Work Study)](https://jobright.ai/jobs/info/687b8578ed63844c944a8183?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Jul 18 |
@@ -130,6 +139,7 @@ For a complete list, click the following sortable link below:
 | **[Sinclair Inc.](http://sbgi.net)** | **[NYSBA Internship - General](https://jobright.ai/jobs/info/687a5d532097a271a897e83c?utm_campaign=1057&utm_source=git)** | 1030 James Street, Syracuse, NY, 13203, US | On Site | Jul 18 |
 | **[Year Up United](http://yearup.org)** | **[Data Management Job Training Program](https://jobright.ai/jobs/info/685d3b0b49cc8710b3d27ccf?utm_campaign=1057&utm_source=git)** | Providence, RI | On Site | Jul 18 |
 | ↳ | **[Banking Job Training Program](https://jobright.ai/jobs/info/6864dadc685e50e8d29ba781?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Jul 18 |
+| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Intern, Skillbridge Internship Program (Military Transition Program)](https://jobright.ai/jobs/info/6823e4885477a27952f3b232?utm_campaign=1057&utm_source=git)** | Suwanee, GA | On Site | Jul 18 |
 | **[BayMark Health Services](http://baymark.com/)** | **[Counselor Intern LCDC-I](https://jobright.ai/jobs/info/687a5672ed63844c944a279d?utm_campaign=1057&utm_source=git)** | El Paso, TX | On Site | Jul 18 |
 | **[BlackRock](http://www.blackrock.com)** | **[2026 Summer Internship Program - AMERS](https://jobright.ai/jobs/info/680823825db404e69199ca16?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 18 |
 | **[Jacobs](http://www.jacobs.com)** | **[DoD Skillbridge Internship](https://jobright.ai/jobs/info/683bf7ebea33380a284b69c8?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jul 18 |
@@ -142,19 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Paide Education Student Intern - Khazaie Lab (1-Year Assignment)](https://jobright.ai/jobs/info/6879f0142097a271a897bdc3?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Jul 17 |
 | **[Year Up United](http://yearup.org)** | **[Customer Service Job Training Program](https://jobright.ai/jobs/info/6864d70a177413afbe1f34da?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Jul 17 |
 | **[Luminis Health](http://www.luminishealth.org)** | **[Nursing Graduate -Joint and Spine Unit - August 2025 Cohort](https://jobright.ai/jobs/info/6879dbd3a7fc8904e39664d8?utm_campaign=1057&utm_source=git)** | Annapolis, MD | On Site | Jul 17 |
-| ↳ | **[Nursing Graduate - Medical Oncology - August 2025 Cohort](https://jobright.ai/jobs/info/6879da76a7fc8904e396644b?utm_campaign=1057&utm_source=git)** | Lanham, MD | On Site | Jul 17 |
+| ↳ | **[Nursing Graduate - Medical Oncology - August 2025 Cohort](https://jobright.ai/jobs/info/6879da6aa7fc8904e3966446?utm_campaign=1057&utm_source=git)** | Lanham, MD | On Site | Jul 17 |
 | **[University of North Carolina at Chapel Hill](https://www.kenan-flagler.unc.edu)** | **[Member Services and Events Intern](https://jobright.ai/jobs/info/687bac542097a271a8986793?utm_campaign=1057&utm_source=git)** | Chapel Hill, NC | On Site | Jul 17 |
 | **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Fall 2025 - Wraparound Internship – Jackson](https://jobright.ai/jobs/info/687580e65cebcd1dd51c15bf?utm_campaign=1057&utm_source=git)** | Jackson, MS | On Site | Jul 17 |
+| **[University of Florida](https://www.ufl.edu)** | **[Federal Work Study Student Assistant](https://jobright.ai/jobs/info/687ca939ed63844c944b0cd6?utm_campaign=1057&utm_source=git)** | Gainesville, FL | On Site | Jul 17 |
 | **[Bridgewater State University](http://www.bridgew.edu/)** | **[AY25-26 Graduate Assistant - Honors Program (Internal)](https://jobright.ai/jobs/info/6879c6c6a7fc8904e39656d6?utm_campaign=1057&utm_source=git)** | Bridgewater, MA | On Site | Jul 17 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6879b66ea7fc8904e3964d25?utm_campaign=1057&utm_source=git)** | Torrington, CT | On Site | Jul 17 |
-| **[Duke University](http://www.duke.edu)** | **[POSTDOCTORAL ASSOCIATE](https://jobright.ai/jobs/info/6879db8bed63844c9449ef25?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Jul 17 |
-| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Paide Education Student Intern - Khazaie Lab (1-Year Assignment)](https://jobright.ai/jobs/info/6879b3dbed63844c9449d803?utm_campaign=1057&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 17 |
-| **[Deloitte](https://www2.deloitte.com)** | **[Hiring our Heroes Corporate Fellowship - Fall 2025](https://jobright.ai/jobs/info/685cd4eb3ebc8d118e1c55c3?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jul 17 |
-| **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6879a658ed63844c9449d22a?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 17 |
-| **[The GEO Group, Inc.](http://www.geogroup.com)** | **[PSYCHOLOGICAL SPECIALIST, INTERN](https://jobright.ai/jobs/info/6879a0e5ed63844c9449d021?utm_campaign=1057&utm_source=git)** | Milton, FL | On Site | Jul 17 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Intern, Skillbridge Internship Program (Military Transition Program)](https://jobright.ai/jobs/info/6823e4885477a27952f3b22f?utm_campaign=1057&utm_source=git)** | Suwanee, GA | On Site | Jul 17 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6879c4c0ed63844c9449e1b0?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Jul 17 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6879c41eed63844c9449e166?utm_campaign=1057&utm_source=git)** | Apple Valley, CA | On Site | Jul 17 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6879c0062097a271a8979e18?utm_campaign=1057&utm_source=git)** | Wilder, VT | On Site | Jul 17 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6879c0fa2097a271a8979e73?utm_campaign=1057&utm_source=git)** | East Hampton, CT | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
