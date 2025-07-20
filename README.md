@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Irvine](https://www.cityofirvine.org)** | **[Part-time Intern I](https://jobright.ai/jobs/info/687d54372097a271a898e49d?utm_campaign=1057&utm_source=git)** | Irvine, CA | On Site | Jul 20 |
+| **[INTEGRIS Health](https://www.integrisok.com)** | **[Physician Assistant Intern - Woodward, OK](https://jobright.ai/jobs/info/687d53dbed63844c944b2582?utm_campaign=1057&utm_source=git)** | Woodward, OK, United States | On Site | Jul 20 |
 | **[Year Up United](http://yearup.org)** | **[Software Job Training Program](https://jobright.ai/jobs/info/687d2811ed63844c944b21a3?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jul 20 |
 | ↳ | **[Desktop Support Job Training Program](https://jobright.ai/jobs/info/685aa8a0390c9cc5111552a1?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Jul 20 |
 | **[Georgia Gwinnett College](http://www.ggc.edu)** | **[Student Assistant - Grizzly Career Ambassador - General Office](https://jobright.ai/jobs/info/687cc821764c3d7411c3b96d?utm_campaign=1057&utm_source=git)** | Lawrenceville, GA | On Site | Jul 20 |
@@ -81,12 +83,12 @@ For a complete list, click the following sortable link below:
 | **[Georgia State University](http://www.gsu.edu)** | **[Post Doctoral Research Associate](https://jobright.ai/jobs/info/687b8cbe2097a271a898517e?utm_campaign=1057&utm_source=git)** | Atlanta Metro | Hybrid | Jul 19 |
 | **[Lakeview Center](https://elakeviewcenter.org/)** | **[Intern](https://jobright.ai/jobs/info/687bc322764c3d7411c35634?utm_campaign=1057&utm_source=git)** | Pensacola, FL | On Site | Jul 19 |
 | **[Yale University](https://www.yale.edu)** | **[YCCI Clinical Research Intern](https://jobright.ai/jobs/info/687bc1572097a271a89871f1?utm_campaign=1057&utm_source=git)** | New Haven, CT | On Site | Jul 19 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Intern, Skillbridge Internship Program (Military Transition Program)](https://jobright.ai/jobs/info/6823f88ea2ba228deff0aa7f?utm_campaign=1057&utm_source=git)** | Suwanee, GA | On Site | Jul 19 |
 | **[Mission Veterinary Partners](https://missionvetpartners.com/)** | **[Veterinary Medicine- Emergency Internship](https://jobright.ai/jobs/info/683438a5b62228b2cc9f38b0?utm_campaign=1057&utm_source=git)** | Corvallis, OR | On Site | Jul 19 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Student Analyst Opportunity: 1700+ Hours Completed Required – Join Our Team!](https://jobright.ai/jobs/info/68452534ae5cce2dd39addec?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jul 19 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (OT/OTA Catonsville Day Program) Summer 2025 OT Fieldwork](https://jobright.ai/jobs/info/680926de9ec22c126575b54e?utm_campaign=1057&utm_source=git)** | Catonsville, MD | On Site | Jul 19 |
 | **[ChristianaCare](http://christianacare.org)** | **[Administrative Fellow - ChristianaCare](https://jobright.ai/jobs/info/687b7016764c3d7411c32b64?utm_campaign=1057&utm_source=git)** | Wilmington, DE | On Site | Jul 19 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Intern](https://jobright.ai/jobs/info/6842a66ea9d25b0889886f2e?utm_campaign=1057&utm_source=git)** | Asheville, NC | On Site | Jul 19 |
+| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Intern, Skillbridge Internship Program (Military Transition Program)](https://jobright.ai/jobs/info/6823e4885477a27952f3b22c?utm_campaign=1057&utm_source=git)** | Suwanee, GA | On Site | Jul 19 |
 | **[Year Up United](http://yearup.org)** | **[Software Development Career Training Opportunity](https://jobright.ai/jobs/info/6874defb299cbc74b8750ad2?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Jul 18 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[RBT - 1700+ Hours Completed - Relocation Assistance!](https://jobright.ai/jobs/info/678cc4eccd1a68208b130208?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Jul 18 |
 | **[State of Missouri](http://mo.gov)** | **[Paid Intern](https://jobright.ai/jobs/info/687c9601ed63844c944af88b?utm_campaign=1057&utm_source=git)** | Liberty, MO | On Site | Jul 18 |
@@ -142,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[Sinclair Inc.](http://sbgi.net)** | **[NYSBA Internship - General](https://jobright.ai/jobs/info/687a5d532097a271a897e83c?utm_campaign=1057&utm_source=git)** | 1030 James Street, Syracuse, NY, 13203, US | On Site | Jul 18 |
 | **[Year Up United](http://yearup.org)** | **[Data Management Job Training Program](https://jobright.ai/jobs/info/685d3b0b49cc8710b3d27ccf?utm_campaign=1057&utm_source=git)** | Providence, RI | On Site | Jul 18 |
 | ↳ | **[Banking Job Training Program](https://jobright.ai/jobs/info/6864dadc685e50e8d29ba781?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Jul 18 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Intern, Skillbridge Internship Program (Military Transition Program)](https://jobright.ai/jobs/info/6823e4885477a27952f3b231?utm_campaign=1057&utm_source=git)** | Suwanee, GA | On Site | Jul 18 |
 | **[BayMark Health Services](http://baymark.com/)** | **[Counselor Intern LCDC-I](https://jobright.ai/jobs/info/687a5672ed63844c944a279d?utm_campaign=1057&utm_source=git)** | El Paso, TX | On Site | Jul 18 |
 | **[BlackRock](http://www.blackrock.com)** | **[2026 Summer Internship Program - AMERS](https://jobright.ai/jobs/info/680823825db404e69199ca16?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 18 |
 | **[Montefiore Einstein Technology](https://montefioreeinstein.org)** | **[Phipps Train & Earn Interns](https://jobright.ai/jobs/info/687cfeb0ed63844c944b1c0c?utm_campaign=1057&utm_source=git)** | 3411 Wayne Avenue | On Site | Jul 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Worcester State University](http://www.worcester.edu)** | **[Student Notetaker (03 Student) 6 positions - Worcester State University](https://jobright.ai/jobs/info/687a24ff764c3d7411c2ba0e?utm_campaign=1057&utm_source=git)** | Worcester, MA | On Site | Jul 18 |
 | **[Selective Insurance](https://www.selective.com/)** | **[2026 Corporate Internships - Branchville, NJ (Hybrid)](https://jobright.ai/jobs/info/6878fd552097a271a8973976?utm_campaign=1057&utm_source=git)** | Branchville, NJ | Hybrid | Jul 18 |
 | **[Pentair](http://www.pentair.com)** | **[Engineering Leadership Development Program Internship - Summer 2025](https://jobright.ai/jobs/info/67e483ba38df7833070999f3?utm_campaign=1057&utm_source=git)** | Hanover Park, IL | On Site | Jul 18 |
-| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Paide Education Student Intern - Khazaie Lab (1-Year Assignment)](https://jobright.ai/jobs/info/6879f0142097a271a897bdc3?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
