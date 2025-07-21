@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Proofpoint](http://www.proofpoint.com)** | **[University Relations Intern](https://jobright.ai/jobs/info/687d6c1c764c3d7411c3cc26?utm_campaign=1057&utm_source=git)** | Texas | Hybrid | Jul 20 |
+| **[Stellar](https://stellarlearning.app)** | **[High School DEI Dept. Intern](https://jobright.ai/jobs/info/687d6b6bed63844c944b2688?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 20 |
 | **[City of Irvine](https://www.cityofirvine.org)** | **[Part-time Intern I](https://jobright.ai/jobs/info/687d54372097a271a898e49d?utm_campaign=1057&utm_source=git)** | Irvine, CA | On Site | Jul 20 |
 | **[INTEGRIS Health](https://www.integrisok.com)** | **[Physician Assistant Intern - Woodward, OK](https://jobright.ai/jobs/info/687d53dbed63844c944b2582?utm_campaign=1057&utm_source=git)** | Woodward, OK, United States | On Site | Jul 20 |
 | **[Year Up United](http://yearup.org)** | **[Software Job Training Program](https://jobright.ai/jobs/info/687d2811ed63844c944b21a3?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jul 20 |
@@ -113,7 +115,7 @@ For a complete list, click the following sortable link below:
 | **[Trustmark](https://www.trustmarkbenefits.com/)** | **[Fall/Winter Fitness Internship (Schenectady, NY)](https://jobright.ai/jobs/info/687abd5bed63844c944a5497?utm_campaign=1057&utm_source=git)** | Selkirk, NY | On Site | Jul 18 |
 | ↳ | **[Fall/Winter Fitness Internship (Schenectady, NY)](https://jobright.ai/jobs/info/687aba2c2097a271a8981215?utm_campaign=1057&utm_source=git)** | Niskayuna, NY | On Site | Jul 18 |
 | ↳ | **[Fall/Winter Fitness Internship (Schenectady, NY)](https://jobright.ai/jobs/info/687ab131764c3d7411c2f3da?utm_campaign=1057&utm_source=git)** | Schenectady, NY | On Site | Jul 18 |
-| **[Fairview Health Services](http://www.fairview.org/)** | **[Psychology Intern](https://jobright.ai/jobs/info/687aa7932097a271a8980c78?utm_campaign=1057&utm_source=git)** | St Paul, MN | On Site | Jul 18 |
+| **[Fairview Health Services](http://www.fairview.org/)** | **[Psychology Intern](https://jobright.ai/jobs/info/687aa88c2097a271a8980d98?utm_campaign=1057&utm_source=git)** | St Paul, MN | On Site | Jul 18 |
 | **[Temple University](https://www.temple.edu)** | **[2 PhDs @ Temple University: Fall25. AI or IoT. RA $3000/Month.](https://jobright.ai/jobs/info/687ad38ced63844c944a5955?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Jul 18 |
 | **[Compass One Healthcare](https://www.compassonehealthcare.com)** | **[DIETETIC INTERNSHIP COORNDINATOR](https://jobright.ai/jobs/info/687aa516ed63844c944a4b2f?utm_campaign=1057&utm_source=git)** | Atlanta, GA | Remote | Jul 18 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Physical Therapy Intern](https://jobright.ai/jobs/info/687b1ad2764c3d7411c30b42?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Jul 18 |
@@ -129,6 +131,7 @@ For a complete list, click the following sortable link below:
 | **[BTIG](https://www.btig.com)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/687a96e02097a271a897fdc1?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 18 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Clinical or Tenure Track, Asst/Assoc/Full Professer of Small Animal Internal Medicine](https://jobright.ai/jobs/info/687ac094764c3d7411c2f62b?utm_campaign=1057&utm_source=git)** | Auburn, AL | On Site | Jul 18 |
 | **[Mighty Health](http://www.mightyhealth.com)** | **[Mental Health Therapist Intern - Pennsylvania - Fox Chapel](https://jobright.ai/jobs/info/687b1ac62097a271a898273b?utm_campaign=1057&utm_source=git)** | McDonald, PA | On Site | Jul 18 |
+| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Intern, Skillbridge Internship Program (Military Transition Program)](https://jobright.ai/jobs/info/6823f88ea2ba228deff0aa82?utm_campaign=1057&utm_source=git)** | Suwanee, GA | On Site | Jul 18 |
 | **[Southern New Hampshire University](http://www.snhu.edu)** | **[Student - Content Development Assistant](https://jobright.ai/jobs/info/687a889fed63844c944a3a14?utm_campaign=1057&utm_source=git)** | United States | Hybrid | Jul 18 |
 | **[Carnegie Mellon University](https://www.cmu.edu)** | **[Graduate Assistant – Office of Community Responsibility – Division of Student Affairs](https://jobright.ai/jobs/info/687a8539764c3d7411c2daaf?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Jul 18 |
 | **[TriHealth](http://www.trihealth.com)** | **[Pharmacy Student Intern - PRN](https://jobright.ai/jobs/info/687a7a56764c3d7411c2d707?utm_campaign=1057&utm_source=git)** | 375 Dixmyth Avenue, CINCINNATI, OH, 45220, US | On Site | Jul 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Elder Research](http://elderresearch.com/)** | **[Skillbridge Internship Program (Separating Military Only)](https://jobright.ai/jobs/info/6789566cb33a8dfc97820c93?utm_campaign=1057&utm_source=git)** | Arlington, VA | On Site | Jul 18 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Student Analyst Opportunity: 1700+ Hours Completed Required – Join Our Team!](https://jobright.ai/jobs/info/678cc4eccd1a68208b130202?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Jul 18 |
 | **[Bob Jones University](http://www.bju.edu/)** | **[Freshman English Assistant (GA)- Fall 2025- Spring 2026](https://jobright.ai/jobs/info/687a5581764c3d7411c2c884?utm_campaign=1057&utm_source=git)** | Greenville, SC | On Site | Jul 18 |
-| **[Worcester State University](http://www.worcester.edu)** | **[Student Notetaker (03 Student) 6 positions - Worcester State University](https://jobright.ai/jobs/info/687a24ff764c3d7411c2ba0e?utm_campaign=1057&utm_source=git)** | Worcester, MA | On Site | Jul 18 |
-| **[Selective Insurance](https://www.selective.com/)** | **[2026 Corporate Internships - Branchville, NJ (Hybrid)](https://jobright.ai/jobs/info/6878fd552097a271a8973976?utm_campaign=1057&utm_source=git)** | Branchville, NJ | Hybrid | Jul 18 |
-| **[Pentair](http://www.pentair.com)** | **[Engineering Leadership Development Program Internship - Summer 2025](https://jobright.ai/jobs/info/67e483ba38df7833070999f3?utm_campaign=1057&utm_source=git)** | Hanover Park, IL | On Site | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
