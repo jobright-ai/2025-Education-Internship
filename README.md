@@ -57,15 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Joliet Junior College](http://www.jjc.edu/)** | **[Business Department Intern](https://jobright.ai/jobs/info/687e4f0ddb19f31cf0d69655?utm_campaign=1057&utm_source=git)** | Main Campus, Joliet, IL | On Site | Jul 21 |
+| **[Year Up United](http://yearup.org)** | **[Financial Operations Job Training Program](https://jobright.ai/jobs/info/687e47b42097a271a8993f96?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Jul 21 |
+| ↳ | **[Project Management Job Training Program](https://jobright.ai/jobs/info/687e4717db19f31cf0d691aa?utm_campaign=1057&utm_source=git)** | Pleasant Hill, CA | On Site | Jul 21 |
 | **[Pittsburgh Public Schools](https://www.pghschools.org)** | **[INTERN, INTERSCHOLASTIC ATHLETICS](https://jobright.ai/jobs/info/687de4b1ed63844c944b5586?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Jul 20 |
+| **[Dallas Independent School District](https://www.dallasisd.org/)** | **[TEACHER LEADER INTERN](https://jobright.ai/jobs/info/687e497bdb19f31cf0d6928f?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jul 20 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Landmarks Education Intern](https://jobright.ai/jobs/info/687dcdfa2097a271a8990a0a?utm_campaign=1057&utm_source=git)** | UT MAIN CAMPUS | On Site | Jul 20 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687d94ab2097a271a898ec41?utm_campaign=1057&utm_source=git)** | Centerville, UT | On Site | Jul 20 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[University Relations Intern](https://jobright.ai/jobs/info/687d8d46ed63844c944b2cce?utm_campaign=1057&utm_source=git)** | Dallas, TX | Hybrid | Jul 20 |
 | **[American Bar Foundation](http://americanbarfoundation.org)** | **[Visiting Scholar](https://jobright.ai/jobs/info/687d855e2097a271a898eacd?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jul 20 |
-| **[Year Up United](http://yearup.org)** | **[Quality Assurance Job Training Program](https://jobright.ai/jobs/info/687d8236ed63844c944b2b90?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jul 20 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[University Relations Intern](https://jobright.ai/jobs/info/687d6c1c764c3d7411c3cc26?utm_campaign=1057&utm_source=git)** | Texas | Hybrid | Jul 20 |
 | **[Stellar](https://stellarlearning.app)** | **[High School DEI Dept. Intern](https://jobright.ai/jobs/info/687d6b6bed63844c944b2688?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 20 |
 | **[INTEGRIS Health](https://www.integrisok.com)** | **[Physician Assistant Intern - Woodward, OK](https://jobright.ai/jobs/info/687d53dbed63844c944b2582?utm_campaign=1057&utm_source=git)** | Woodward, OK, United States | On Site | Jul 20 |
+| **[Domo](http://www.domo.com)** | **[Intern - Domo Education](https://jobright.ai/jobs/info/685f56a5f014ba49e810b3ed?utm_campaign=1057&utm_source=git)** | American Fork, UT | On Site | Jul 20 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Carolinas Internship & Co-Op Program 2023-24](https://jobright.ai/jobs/info/687dd400764c3d7411c3f2a4?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Jul 20 |
 | **[ASRC Industrial](http://www.asrcindustrial.com)** | **[ASRC Shareholder Internship with ASRC Industrial](https://jobright.ai/jobs/info/66cb13e034a1a605c862051d?utm_campaign=1057&utm_source=git)** | Tempe, AZ | On Site | Jul 20 |
 | **[Georgia Gwinnett College](http://www.ggc.edu)** | **[Student Assistant - Grizzly Career Ambassador - General Office](https://jobright.ai/jobs/info/687cc821764c3d7411c3b96d?utm_campaign=1057&utm_source=git)** | Lawrenceville, GA | On Site | Jul 20 |
@@ -137,6 +141,7 @@ For a complete list, click the following sortable link below:
 | **[BTIG](https://www.btig.com)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/687a96e02097a271a897fdc1?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 18 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Clinical or Tenure Track, Asst/Assoc/Full Professer of Small Animal Internal Medicine](https://jobright.ai/jobs/info/687ac094764c3d7411c2f62b?utm_campaign=1057&utm_source=git)** | Auburn, AL | On Site | Jul 18 |
 | **[Mighty Health](http://www.mightyhealth.com)** | **[Mental Health Therapist Intern - Pennsylvania - Fox Chapel](https://jobright.ai/jobs/info/687b1ac62097a271a898273b?utm_campaign=1057&utm_source=git)** | McDonald, PA | On Site | Jul 18 |
+| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Intern, Skillbridge Internship Program (Military Transition Program)](https://jobright.ai/jobs/info/6823f88ea2ba228deff0aa82?utm_campaign=1057&utm_source=git)** | Suwanee, GA | On Site | Jul 18 |
 | **[Southern New Hampshire University](http://www.snhu.edu)** | **[Student - Content Development Assistant](https://jobright.ai/jobs/info/687a889fed63844c944a3a14?utm_campaign=1057&utm_source=git)** | United States | Hybrid | Jul 18 |
 | **[Carnegie Mellon University](https://www.cmu.edu)** | **[Graduate Assistant – Office of Community Responsibility – Division of Student Affairs](https://jobright.ai/jobs/info/687a8539764c3d7411c2daaf?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Jul 18 |
 | **[TriHealth](http://www.trihealth.com)** | **[Pharmacy Student Intern - PRN](https://jobright.ai/jobs/info/687a7a56764c3d7411c2d707?utm_campaign=1057&utm_source=git)** | 375 Dixmyth Avenue, CINCINNATI, OH, 45220, US | On Site | Jul 18 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sinclair Inc.](http://sbgi.net)** | **[NYSBA Internship - General](https://jobright.ai/jobs/info/687a5d532097a271a897e83c?utm_campaign=1057&utm_source=git)** | 1030 James Street, Syracuse, NY, 13203, US | On Site | Jul 18 |
 | **[Year Up United](http://yearup.org)** | **[Data Management Job Training Program](https://jobright.ai/jobs/info/685d3b0b49cc8710b3d27ccf?utm_campaign=1057&utm_source=git)** | Providence, RI | On Site | Jul 18 |
 | ↳ | **[Banking Job Training Program](https://jobright.ai/jobs/info/6864dadc685e50e8d29ba781?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Jul 18 |
-| **[BayMark Health Services](http://baymark.com/)** | **[Counselor Intern LCDC-I](https://jobright.ai/jobs/info/687a5672ed63844c944a279d?utm_campaign=1057&utm_source=git)** | El Paso, TX | On Site | Jul 18 |
-| **[BlackRock](http://www.blackrock.com)** | **[2026 Summer Internship Program - AMERS](https://jobright.ai/jobs/info/680823825db404e69199ca16?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 18 |
-| **[Montefiore Einstein Technology](https://montefioreeinstein.org)** | **[Phipps Train & Earn Interns](https://jobright.ai/jobs/info/687cfeb0ed63844c944b1c0c?utm_campaign=1057&utm_source=git)** | 3411 Wayne Avenue | On Site | Jul 18 |
-| ↳ | **[NICU - Baby Cuddling Volunteer - Weiler](https://jobright.ai/jobs/info/687cfe7e2097a271a898daf7?utm_campaign=1057&utm_source=git)** | 1895 Eastchester Road | On Site | Jul 18 |
-| **[Jacobs](http://www.jacobs.com)** | **[DoD Skillbridge Internship](https://jobright.ai/jobs/info/683bf7ebea33380a284b69c8?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
