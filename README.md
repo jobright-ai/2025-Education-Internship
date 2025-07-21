@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687d94ab2097a271a898ec41?utm_campaign=1057&utm_source=git)** | Centerville, UT | On Site | Jul 20 |
+| **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Landmarks Education Intern](https://jobright.ai/jobs/info/687dcdfa2097a271a8990a0a?utm_campaign=1057&utm_source=git)** | UT MAIN CAMPUS | On Site | Jul 20 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687d94b0764c3d7411c3d288?utm_campaign=1057&utm_source=git)** | Greer, SC | On Site | Jul 20 |
+| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687d94ab2097a271a898ec41?utm_campaign=1057&utm_source=git)** | Centerville, UT | On Site | Jul 20 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[University Relations Intern](https://jobright.ai/jobs/info/687d8d46ed63844c944b2cce?utm_campaign=1057&utm_source=git)** | Dallas, TX | Hybrid | Jul 20 |
 | **[American Bar Foundation](http://americanbarfoundation.org)** | **[Visiting Scholar](https://jobright.ai/jobs/info/687d855e2097a271a898eacd?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jul 20 |
 | **[Year Up United](http://yearup.org)** | **[Quality Assurance Job Training Program](https://jobright.ai/jobs/info/687d8236ed63844c944b2b90?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jul 20 |
@@ -71,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[University of Montevallo](http://www.montevallo.edu)** | **[Graduate Assistant I - Stephens College of Business](https://jobright.ai/jobs/info/687cbbf82097a271a898d210?utm_campaign=1057&utm_source=git)** | Montevallo, AL | On Site | Jul 20 |
 | ↳ | **[Graduate Assistant I - English 100](https://jobright.ai/jobs/info/687cb8de2097a271a898d1e4?utm_campaign=1057&utm_source=git)** | Montevallo, AL | On Site | Jul 20 |
 | **[Wichita State University](http://www.wichita.edu)** | **[Graduate Assistant](https://jobright.ai/jobs/info/687cb7d6764c3d7411c3b8c5?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Jul 20 |
-| ↳ | **[Graduate Assistant](https://jobright.ai/jobs/info/687cb731764c3d7411c3b899?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Jul 20 |
 | **[Regent University](https://www.spiritsofts.com)** | **[Graduate Assistant (Teaching Assistant)](https://jobright.ai/jobs/info/687cb6ee764c3d7411c3b884?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA | On Site | Jul 20 |
 | **[East Tennessee State University](http://www.etsu.edu/)** | **[Doctoral Intern (Limited Term)](https://jobright.ai/jobs/info/687cb6382097a271a898d1ac?utm_campaign=1057&utm_source=git)** | Johnson City, TN | On Site | Jul 20 |
 | **[University of Mississippi](http://www.olemiss.edu/)** | **[Student Employee (Tutor)](https://jobright.ai/jobs/info/687cb344764c3d7411c3b682?utm_campaign=1057&utm_source=git)** | Oxford, MS | On Site | Jul 20 |
@@ -149,12 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Sinclair Inc.](http://sbgi.net)** | **[NYSBA Internship - General](https://jobright.ai/jobs/info/687a5d532097a271a897e83c?utm_campaign=1057&utm_source=git)** | 1030 James Street, Syracuse, NY, 13203, US | On Site | Jul 18 |
 | **[Year Up United](http://yearup.org)** | **[Data Management Job Training Program](https://jobright.ai/jobs/info/685d3b0b49cc8710b3d27ccf?utm_campaign=1057&utm_source=git)** | Providence, RI | On Site | Jul 18 |
 | ↳ | **[Banking Job Training Program](https://jobright.ai/jobs/info/6864dadc685e50e8d29ba781?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Jul 18 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Intern, Skillbridge Internship Program (Military Transition Program)](https://jobright.ai/jobs/info/6823e4885477a27952f3b231?utm_campaign=1057&utm_source=git)** | Suwanee, GA | On Site | Jul 18 |
+| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Intern, Skillbridge Internship Program (Military Transition Program)](https://jobright.ai/jobs/info/6823e4885477a27952f3b232?utm_campaign=1057&utm_source=git)** | Suwanee, GA | On Site | Jul 18 |
 | **[BayMark Health Services](http://baymark.com/)** | **[Counselor Intern LCDC-I](https://jobright.ai/jobs/info/687a5672ed63844c944a279d?utm_campaign=1057&utm_source=git)** | El Paso, TX | On Site | Jul 18 |
 | **[BlackRock](http://www.blackrock.com)** | **[2026 Summer Internship Program - AMERS](https://jobright.ai/jobs/info/680823825db404e69199ca16?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 18 |
 | **[Montefiore Einstein Technology](https://montefioreeinstein.org)** | **[Phipps Train & Earn Interns](https://jobright.ai/jobs/info/687cfeb0ed63844c944b1c0c?utm_campaign=1057&utm_source=git)** | 3411 Wayne Avenue | On Site | Jul 18 |
 | ↳ | **[NICU - Baby Cuddling Volunteer - Weiler](https://jobright.ai/jobs/info/687cfe7e2097a271a898daf7?utm_campaign=1057&utm_source=git)** | 1895 Eastchester Road | On Site | Jul 18 |
 | **[Jacobs](http://www.jacobs.com)** | **[DoD Skillbridge Internship](https://jobright.ai/jobs/info/683bf7ebea33380a284b69c8?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jul 18 |
 | **[McAllister & Quinn](https://www.jm-aq.com)** | **[Higher Education Practice Fall 2025 Internship](https://jobright.ai/jobs/info/687a43d8764c3d7411c2c44e?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Jul 18 |
-| **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[RBT - 1700+ Hours Completed - Relocation Assistance!](https://jobright.ai/jobs/info/678cc4eccd1a68208b130205?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
