@@ -73,7 +73,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Graduate Assistant- 2nd year SOM Summer Research Program 2025](https://jobright.ai/jobs/info/687ee727764c3d7411c472bc?utm_campaign=1057&utm_source=git)** | Lubbock | On Site | Jul 21 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2025-2026 Yearlong Internship and Education Program Management Intern](https://jobright.ai/jobs/info/687ee656764c3d7411c471db?utm_campaign=1057&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jul 21 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Abshire-Inamori Leadership Academy (Fall 2025)](https://jobright.ai/jobs/info/687ee3c4db19f31cf0d6dcf4?utm_campaign=1057&utm_source=git)** | Washington, US | On Site | Jul 21 |
-| **[Syracuse University](https://www.syracuse.edu)** | **[Postdoctoral Researcher - PARCC Philanthropy](https://jobright.ai/jobs/info/687f0f009f72804245700b5b?utm_campaign=1057&utm_source=git)** | Syracuse, NY | On Site | Jul 21 |
+| **[Syracuse University](https://www.tracfed.syr.edu/)** | **[Postdoctoral Researcher - PARCC Philanthropy](https://jobright.ai/jobs/info/687f0f009f72804245700b5b?utm_campaign=1057&utm_source=git)** | Syracuse, NY | On Site | Jul 21 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist](https://jobright.ai/jobs/info/687f02cf2097a271a89999a1?utm_campaign=1057&utm_source=git)** | Myrtle Beach, SC | On Site | Jul 21 |
 | ↳ | **[Staff Psychologist](https://jobright.ai/jobs/info/687f0ced9f72804245700a67?utm_campaign=1057&utm_source=git)** | Hinesville, GA | On Site | Jul 21 |
 | **[ACLU](https://www.aclu.org/)** | **[Spring 2025 Paid Undergraduate/Graduate Intern, Organizational Management, Equity and Inclusion](https://jobright.ai/jobs/info/687f05e0764c3d7411c483d2?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Jul 21 |
@@ -92,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Foundation for Individual Rights and Expression](https://www.thefire.org/)** | **[Campus Scholar Program](https://jobright.ai/jobs/info/687ea6a4db19f31cf0d6c001?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Jul 21 |
 | **[Entergy](https://www.entergy.com)** | **[(Spring 2026) Student, InternCompliance & Systems Support (Power Delivery)](https://jobright.ai/jobs/info/687ea5fc2097a271a8996b8a?utm_campaign=1057&utm_source=git)** | Tyler-Jacksonville Area | Hybrid | Jul 21 |
 | **[The College of New Jersey](http://www.tcnj.edu/)** | **[Assistant Director of Career Development](https://jobright.ai/jobs/info/687ea3032097a271a89969db?utm_campaign=1057&utm_source=git)** | Ewing, NJ | On Site | Jul 21 |
-| **[Aleut Federal](https://aleutfederal.com)** | **[Work Based Learning (WBL) Student Intern - Recreation](https://jobright.ai/jobs/info/687ed7622097a271a89983f1?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jul 21 |
-| ↳ | **[Work Based Learning (WBL) Student Intern - Security](https://jobright.ai/jobs/info/687ec5f6764c3d7411c4622f?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jul 21 |
+| **[Aleut Federal](https://aleutfederal.com)** | **[Work Based Learning (WBL) Student Intern - Security](https://jobright.ai/jobs/info/687ec5f6764c3d7411c4622f?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jul 21 |
+| ↳ | **[Work Based Learning (WBL) Student Intern - Recreation](https://jobright.ai/jobs/info/687ed7622097a271a89983f1?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jul 21 |
 | **[Genworth](https://www.genworth.com)** | **[Genworth Finance Development Program Intern – Summer 2026](https://jobright.ai/jobs/info/687e97d8db19f31cf0d6b82a?utm_campaign=1057&utm_source=git)** | Richmond, Virginia | Hybrid | Jul 21 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist](https://jobright.ai/jobs/info/687f0fbb2097a271a899a45e?utm_campaign=1057&utm_source=git)** | Brooksville, FL | On Site | Jul 21 |
 | ↳ | **[Staff Psychologist - Behavioral Health Interdisciplinary Program](https://jobright.ai/jobs/info/687f10292097a271a899a481?utm_campaign=1057&utm_source=git)** | The Villages, FL | On Site | Jul 21 |
@@ -104,7 +104,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Staff Psychologist - Behavioral Health Interdisciplinary Program - AMENDED](https://jobright.ai/jobs/info/687f114b9f72804245700c5d?utm_campaign=1057&utm_source=git)** | Tallahassee, FL | On Site | Jul 21 |
 | ↳ | **[Staff Psychologist (Primary Care-Mental Health Integration)](https://jobright.ai/jobs/info/687f0fc29f72804245700bba?utm_campaign=1057&utm_source=git)** | Parma, OH | On Site | Jul 21 |
 | ↳ | **[Psychologist (Suicide Prevention Coordinator)](https://jobright.ai/jobs/info/687f12452097a271a899a53d?utm_campaign=1057&utm_source=git)** | Memphis, TN | On Site | Jul 21 |
-| ↳ | **[Psychologist](https://jobright.ai/jobs/info/687f150d2097a271a899a68a?utm_campaign=1057&utm_source=git)** | White River Junction, VT | On Site | Jul 21 |
 | ↳ | **[Staff Psychologist (MH&BSS)](https://jobright.ai/jobs/info/687f13622097a271a899a60d?utm_campaign=1057&utm_source=git)** | Cape Coral, FL | On Site | Jul 21 |
 | ↳ | **[Staff Psychologist](https://jobright.ai/jobs/info/687f0750764c3d7411c48483?utm_campaign=1057&utm_source=git)** | Pensacola, FL | On Site | Jul 21 |
 | ↳ | **[Staff Psychologist - PTSD, EDRP & Recruitment/Relocation Incentive](https://jobright.ai/jobs/info/687f0f062097a271a899a424?utm_campaign=1057&utm_source=git)** | Amarillo, TX | On Site | Jul 21 |
@@ -122,10 +121,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Staff Psychologist (MH&BSS)](https://jobright.ai/jobs/info/687f10a32097a271a899a4aa?utm_campaign=1057&utm_source=git)** | Bradenton, FL | On Site | Jul 21 |
 | ↳ | **[Psychology Program Manager - Workplace Violence Prevention Program](https://jobright.ai/jobs/info/687f1083764c3d7411c4891f?utm_campaign=1057&utm_source=git)** | Spokane, WA | On Site | Jul 21 |
 | ↳ | **[Staff Psychologist (MH&BSS)](https://jobright.ai/jobs/info/687f14449f72804245700e22?utm_campaign=1057&utm_source=git)** | Sebring, FL | On Site | Jul 21 |
-| ↳ | **[Staff Psychologist (BHIP)](https://jobright.ai/jobs/info/687f08f6764c3d7411c48594?utm_campaign=1057&utm_source=git)** | Fredericksburg, VA | On Site | Jul 21 |
-| ↳ | **[Staff Psychologist (MH&BSS)](https://jobright.ai/jobs/info/687f0c6c9f72804245700a12?utm_campaign=1057&utm_source=git)** | St. Petersburg, FL | On Site | Jul 21 |
 | ↳ | **[Staff Psychologist- PTSD](https://jobright.ai/jobs/info/687f0eeb2097a271a899a41d?utm_campaign=1057&utm_source=git)** | Fredericksburg, VA | On Site | Jul 21 |
 | ↳ | **[Staff Psychologist](https://jobright.ai/jobs/info/687f14342097a271a899a649?utm_campaign=1057&utm_source=git)** | Murfreesboro, TN | On Site | Jul 21 |
+| ↳ | **[Staff Psychologist (BHIP)](https://jobright.ai/jobs/info/687f08f6764c3d7411c48594?utm_campaign=1057&utm_source=git)** | Fredericksburg, VA | On Site | Jul 21 |
+| ↳ | **[Staff Psychologist (MH&BSS)](https://jobright.ai/jobs/info/687f0c6c9f72804245700a12?utm_campaign=1057&utm_source=git)** | St. Petersburg, FL | On Site | Jul 21 |
 | ↳ | **[Staff Psychologist (MH&BSS)](https://jobright.ai/jobs/info/687f0ff42097a271a899a474?utm_campaign=1057&utm_source=git)** | Palm Harbor, FL | On Site | Jul 21 |
 | ↳ | **[Staff Psychologist - Behavioral Health Interdisciplinary Program - AMENDED](https://jobright.ai/jobs/info/687f112b2097a271a899a4d9?utm_campaign=1057&utm_source=git)** | The Villages, FL | On Site | Jul 21 |
 | ↳ | **[Staff Psychologist](https://jobright.ai/jobs/info/687f0c51764c3d7411c486f5?utm_campaign=1057&utm_source=git)** | Alexandria, LA | On Site | Jul 21 |
@@ -152,9 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Justice Resource Institute](https://jri.org/)** | **[Outpatient Clinical Intern](https://jobright.ai/jobs/info/687eb0a0db19f31cf0d6c471?utm_campaign=1057&utm_source=git)** | Acton, MA | On Site | Jul 21 |
 | **[The Menta Education Group](https://menta.com/)** | **[Teacher Internship (Paid)](https://jobright.ai/jobs/info/687ec13f2097a271a89979e1?utm_campaign=1057&utm_source=git)** | Casa Grande, AZ | On Site | Jul 21 |
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Student Workstudy-School of Information Technology](https://jobright.ai/jobs/info/687ea6a02097a271a8996c06?utm_campaign=1057&utm_source=git)** | Kokomo, IN | On Site | Jul 21 |
-| **[Howard University](http://www.howard.edu)** | **[Counseling Services Intern](https://jobright.ai/jobs/info/687e846d2097a271a8995a78?utm_campaign=1057&utm_source=git)** | DC-Baltimore Area | Hybrid | Jul 21 |
 | **[Georgia Department of Public Health](https://dph.georgia.gov/)** | **[Fall Intern 2025](https://jobright.ai/jobs/info/687e9f02db19f31cf0d6bbfd?utm_campaign=1057&utm_source=git)** | Atlanta, GA | Remote | Jul 21 |
-| **[Howard University](http://www.howard.edu)** | **[Counseling Services Intern](https://jobright.ai/jobs/info/687e79922097a271a899565f?utm_campaign=1057&utm_source=git)** | Mental Health Center | Hybrid | Jul 21 |
+| **[Howard University](http://www.howard.edu)** | **[Counseling Services Intern](https://jobright.ai/jobs/info/687e7fff2097a271a89958a9?utm_campaign=1057&utm_source=git)** | DC-Baltimore Area | Hybrid | Jul 21 |
+| ↳ | **[Counseling Services Intern](https://jobright.ai/jobs/info/687e79922097a271a899565f?utm_campaign=1057&utm_source=git)** | Mental Health Center | Hybrid | Jul 21 |
 | ↳ | **[Counseling Services Intern](https://jobright.ai/jobs/info/687e78c9db19f31cf0d6a7ef?utm_campaign=1057&utm_source=git)** | Mental Health Center | Hybrid | Jul 21 |
 | **[Texas A&M University](http://www.tamu.edu)** | **[Student Data & Information Assistant (TCFBEED)](https://jobright.ai/jobs/info/687e7888764c3d7411c43a8b?utm_campaign=1057&utm_source=git)** | Laredo, TX | On Site | Jul 21 |
+| **[Howard University](http://www.howard.edu)** | **[Counseling Services Intern](https://jobright.ai/jobs/info/687e7813764c3d7411c439fc?utm_campaign=1057&utm_source=git)** | Mental Health Center | Hybrid | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
