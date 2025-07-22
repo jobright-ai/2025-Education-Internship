@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Irvine](https://www.cityofirvine.org)** | **[Part-time Intern I](https://jobright.ai/jobs/info/687f637e9f728042457033bb?utm_campaign=1057&utm_source=git)** | Irvine, CA | On Site | Jul 22 |
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-Student Account Services-CWS optional/Bilingual Preferred (2 positions)](https://jobright.ai/jobs/info/687f5adf9f728042457031cd?utm_campaign=1057&utm_source=git)** | Huntsville, TX | On Site | Jul 22 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2025-2026 Yearlong Training Specialist Intern](https://jobright.ai/jobs/info/687f4add9f72804245702e22?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jul 22 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2025-2026 Yearlong Internship and Education Program Management Intern](https://jobright.ai/jobs/info/687f54152097a271a899c9c4?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jul 21 |
 | **[Year Up United](http://yearup.org)** | **[Desktop Support Job Training Program](https://jobright.ai/jobs/info/68653ac8058af3cde128ea65?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Jul 21 |
-| **[Genentech](http://gene.com)** | **[2025 Fall Intern - US Medical - Field Medical](https://jobright.ai/jobs/info/687f29ae9f72804245701ca7?utm_campaign=1057&utm_source=git)** | South San Francisco, CA | On Site | Jul 21 |
 | **[Dallas Independent School District](https://www.dallasisd.org/)** | **[School Nurse (187 Days) 2025-2026 School Year (Internal)](https://jobright.ai/jobs/info/687f56582097a271a899ca4e?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jul 21 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Youth Hockey Development (Part-Time/Seasonal)](https://jobright.ai/jobs/info/687f00ebdb19f31cf0d6ebde?utm_campaign=1057&utm_source=git)** | Arlington, VA | On Site | Jul 21 |
 | **[United States Holocaust Memorial Museum](http://www.ushmm.org/)** | **[Intern - Levine Institute (Youth & Community Initiative)](https://jobright.ai/jobs/info/687f288b2097a271a899b416?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Jul 21 |
@@ -92,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Foundation for Individual Rights and Expression](https://www.thefire.org/)** | **[Campus Scholar Program](https://jobright.ai/jobs/info/687ea6a4db19f31cf0d6c001?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Jul 21 |
 | **[Entergy](https://www.entergy.com)** | **[(Spring 2026) Student, InternCompliance & Systems Support (Power Delivery)](https://jobright.ai/jobs/info/687ea5fc2097a271a8996b8a?utm_campaign=1057&utm_source=git)** | Tyler-Jacksonville Area | Hybrid | Jul 21 |
 | **[The College of New Jersey](http://www.tcnj.edu/)** | **[Assistant Director of Career Development](https://jobright.ai/jobs/info/687ea3032097a271a89969db?utm_campaign=1057&utm_source=git)** | Ewing, NJ | On Site | Jul 21 |
-| **[Aleut Federal](https://aleutfederal.com)** | **[Work Based Learning (WBL) Student Intern - Security](https://jobright.ai/jobs/info/687ec5f6764c3d7411c4622f?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jul 21 |
-| ↳ | **[Work Based Learning (WBL) Student Intern - Recreation](https://jobright.ai/jobs/info/687ed7622097a271a89983f1?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jul 21 |
+| **[Aleut Federal](https://aleutfederal.com)** | **[Work Based Learning (WBL) Student Intern - Recreation](https://jobright.ai/jobs/info/687ed7622097a271a89983f1?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jul 21 |
+| ↳ | **[Work Based Learning (WBL) Student Intern - Security](https://jobright.ai/jobs/info/687ec5f6764c3d7411c4622f?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jul 21 |
 | **[Genworth](https://www.genworth.com)** | **[Genworth Finance Development Program Intern – Summer 2026](https://jobright.ai/jobs/info/687e97d8db19f31cf0d6b82a?utm_campaign=1057&utm_source=git)** | Richmond, Virginia | Hybrid | Jul 21 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist](https://jobright.ai/jobs/info/687f0fbb2097a271a899a45e?utm_campaign=1057&utm_source=git)** | Brooksville, FL | On Site | Jul 21 |
 | ↳ | **[Staff Psychologist - Behavioral Health Interdisciplinary Program](https://jobright.ai/jobs/info/687f10292097a271a899a481?utm_campaign=1057&utm_source=git)** | The Villages, FL | On Site | Jul 21 |
@@ -122,8 +122,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Staff Psychologist (MH&BSS)](https://jobright.ai/jobs/info/687f10a32097a271a899a4aa?utm_campaign=1057&utm_source=git)** | Bradenton, FL | On Site | Jul 21 |
 | ↳ | **[Psychology Program Manager - Workplace Violence Prevention Program](https://jobright.ai/jobs/info/687f1083764c3d7411c4891f?utm_campaign=1057&utm_source=git)** | Spokane, WA | On Site | Jul 21 |
 | ↳ | **[Staff Psychologist (MH&BSS)](https://jobright.ai/jobs/info/687f14449f72804245700e22?utm_campaign=1057&utm_source=git)** | Sebring, FL | On Site | Jul 21 |
-| ↳ | **[Staff Psychologist (MH&BSS)](https://jobright.ai/jobs/info/687f0c6c9f72804245700a12?utm_campaign=1057&utm_source=git)** | St. Petersburg, FL | On Site | Jul 21 |
 | ↳ | **[Staff Psychologist (BHIP)](https://jobright.ai/jobs/info/687f08f6764c3d7411c48594?utm_campaign=1057&utm_source=git)** | Fredericksburg, VA | On Site | Jul 21 |
+| ↳ | **[Staff Psychologist (MH&BSS)](https://jobright.ai/jobs/info/687f0c6c9f72804245700a12?utm_campaign=1057&utm_source=git)** | St. Petersburg, FL | On Site | Jul 21 |
 | ↳ | **[Staff Psychologist- PTSD](https://jobright.ai/jobs/info/687f0eeb2097a271a899a41d?utm_campaign=1057&utm_source=git)** | Fredericksburg, VA | On Site | Jul 21 |
 | ↳ | **[Staff Psychologist](https://jobright.ai/jobs/info/687f14342097a271a899a649?utm_campaign=1057&utm_source=git)** | Murfreesboro, TN | On Site | Jul 21 |
 | ↳ | **[Staff Psychologist (MH&BSS)](https://jobright.ai/jobs/info/687f0ff42097a271a899a474?utm_campaign=1057&utm_source=git)** | Palm Harbor, FL | On Site | Jul 21 |
@@ -143,7 +143,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Staff Psychologist](https://jobright.ai/jobs/info/687f12cd2097a271a899a5c8?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | On Site | Jul 21 |
 | ↳ | **[Staff Psychologist (MH&BSS)](https://jobright.ai/jobs/info/687f12a32097a271a899a598?utm_campaign=1057&utm_source=git)** | Bay Pines, FL | On Site | Jul 21 |
 | ↳ | **[Staff Psychologist - Behavioral Health Interdisciplinary Programs](https://jobright.ai/jobs/info/687f11cb9f72804245700c94?utm_campaign=1057&utm_source=git)** | Columbia, MO | On Site | Jul 21 |
-| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Physical Therapy Intern](https://jobright.ai/jobs/info/687f077b764c3d7411c4849d?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Jul 21 |
+| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Physical Therapy Intern](https://jobright.ai/jobs/info/687eaff0db19f31cf0d6c42b?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Jul 21 |
 | **[Pyramid Global Hospitality](https://pyramidglobal.com)** | **[Tennis Intern](https://jobright.ai/jobs/info/687e914f764c3d7411c4463c?utm_campaign=1057&utm_source=git)** | Wesley Chapel, Florida | On Site | Jul 21 |
 | **[Joliet Junior College](http://www.jjc.edu/)** | **[Business Department Intern](https://jobright.ai/jobs/info/687f30a6764c3d7411c4a0d7?utm_campaign=1057&utm_source=git)** | Joliet, IL | On Site | Jul 21 |
 | **[Penn State University](http://psu.edu)** | **[Federal Work Study Internships and Career Placement Office - Donald P. Bellisario College of Communications](https://jobright.ai/jobs/info/687eb9452097a271a899761a?utm_campaign=1057&utm_source=git)** | University Park, PA | On Site | Jul 21 |
