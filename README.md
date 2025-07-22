@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-Student Account Services-CWS optional/Bilingual Preferred (2 positions)](https://jobright.ai/jobs/info/687f5adf9f728042457031cd?utm_campaign=1057&utm_source=git)** | Huntsville, TX | On Site | Jul 22 |
+| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2025-2026 Yearlong Training Specialist Intern](https://jobright.ai/jobs/info/687f4add9f72804245702e22?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jul 22 |
+| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2025-2026 Yearlong Internship and Education Program Management Intern](https://jobright.ai/jobs/info/687f54152097a271a899c9c4?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jul 21 |
 | **[Year Up United](http://yearup.org)** | **[Desktop Support Job Training Program](https://jobright.ai/jobs/info/68653ac8058af3cde128ea65?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Jul 21 |
 | **[Genentech](http://gene.com)** | **[2025 Fall Intern - US Medical - Field Medical](https://jobright.ai/jobs/info/687f29ae9f72804245701ca7?utm_campaign=1057&utm_source=git)** | South San Francisco, CA | On Site | Jul 21 |
+| **[Dallas Independent School District](https://www.dallasisd.org/)** | **[School Nurse (187 Days) 2025-2026 School Year (Internal)](https://jobright.ai/jobs/info/687f56582097a271a899ca4e?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jul 21 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Youth Hockey Development (Part-Time/Seasonal)](https://jobright.ai/jobs/info/687f00ebdb19f31cf0d6ebde?utm_campaign=1057&utm_source=git)** | Arlington, VA | On Site | Jul 21 |
 | **[United States Holocaust Memorial Museum](http://www.ushmm.org/)** | **[Intern - Levine Institute (Youth & Community Initiative)](https://jobright.ai/jobs/info/687f288b2097a271a899b416?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Jul 21 |
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Graduate Assistant](https://jobright.ai/jobs/info/687ef543db19f31cf0d6e5d0?utm_campaign=1057&utm_source=git)** | Lubbock, TX | On Site | Jul 21 |
@@ -69,7 +73,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Graduate Assistant- 2nd year SOM Summer Research Program 2025](https://jobright.ai/jobs/info/687ee727764c3d7411c472bc?utm_campaign=1057&utm_source=git)** | Lubbock | On Site | Jul 21 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2025-2026 Yearlong Internship and Education Program Management Intern](https://jobright.ai/jobs/info/687ee656764c3d7411c471db?utm_campaign=1057&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jul 21 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Abshire-Inamori Leadership Academy (Fall 2025)](https://jobright.ai/jobs/info/687ee3c4db19f31cf0d6dcf4?utm_campaign=1057&utm_source=git)** | Washington, US | On Site | Jul 21 |
-| **[Syracuse University](https://www.tracfed.syr.edu/)** | **[Postdoctoral Researcher - PARCC Philanthropy](https://jobright.ai/jobs/info/687f0f009f72804245700b5b?utm_campaign=1057&utm_source=git)** | Syracuse, NY | On Site | Jul 21 |
+| **[Syracuse University](https://www.syracuse.edu)** | **[Postdoctoral Researcher - PARCC Philanthropy](https://jobright.ai/jobs/info/687f0f009f72804245700b5b?utm_campaign=1057&utm_source=git)** | Syracuse, NY | On Site | Jul 21 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist](https://jobright.ai/jobs/info/687f02cf2097a271a89999a1?utm_campaign=1057&utm_source=git)** | Myrtle Beach, SC | On Site | Jul 21 |
 | ↳ | **[Staff Psychologist](https://jobright.ai/jobs/info/687f0ced9f72804245700a67?utm_campaign=1057&utm_source=git)** | Hinesville, GA | On Site | Jul 21 |
 | **[ACLU](https://www.aclu.org/)** | **[Spring 2025 Paid Undergraduate/Graduate Intern, Organizational Management, Equity and Inclusion](https://jobright.ai/jobs/info/687f05e0764c3d7411c483d2?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Jul 21 |
@@ -88,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Foundation for Individual Rights and Expression](https://www.thefire.org/)** | **[Campus Scholar Program](https://jobright.ai/jobs/info/687ea6a4db19f31cf0d6c001?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Jul 21 |
 | **[Entergy](https://www.entergy.com)** | **[(Spring 2026) Student, InternCompliance & Systems Support (Power Delivery)](https://jobright.ai/jobs/info/687ea5fc2097a271a8996b8a?utm_campaign=1057&utm_source=git)** | Tyler-Jacksonville Area | Hybrid | Jul 21 |
 | **[The College of New Jersey](http://www.tcnj.edu/)** | **[Assistant Director of Career Development](https://jobright.ai/jobs/info/687ea3032097a271a89969db?utm_campaign=1057&utm_source=git)** | Ewing, NJ | On Site | Jul 21 |
-| **[Aleut Federal](https://aleutfederal.com)** | **[Work Based Learning (WBL) Student Intern - Recreation](https://jobright.ai/jobs/info/687ed7622097a271a89983f1?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jul 21 |
-| ↳ | **[Work Based Learning (WBL) Student Intern - Security](https://jobright.ai/jobs/info/687ec5f6764c3d7411c4622f?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jul 21 |
+| **[Aleut Federal](https://aleutfederal.com)** | **[Work Based Learning (WBL) Student Intern - Security](https://jobright.ai/jobs/info/687ec5f6764c3d7411c4622f?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jul 21 |
+| ↳ | **[Work Based Learning (WBL) Student Intern - Recreation](https://jobright.ai/jobs/info/687ed7622097a271a89983f1?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jul 21 |
 | **[Genworth](https://www.genworth.com)** | **[Genworth Finance Development Program Intern – Summer 2026](https://jobright.ai/jobs/info/687e97d8db19f31cf0d6b82a?utm_campaign=1057&utm_source=git)** | Richmond, Virginia | Hybrid | Jul 21 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist](https://jobright.ai/jobs/info/687f0fbb2097a271a899a45e?utm_campaign=1057&utm_source=git)** | Brooksville, FL | On Site | Jul 21 |
 | ↳ | **[Staff Psychologist - Behavioral Health Interdisciplinary Program](https://jobright.ai/jobs/info/687f10292097a271a899a481?utm_campaign=1057&utm_source=git)** | The Villages, FL | On Site | Jul 21 |
@@ -99,8 +103,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Psychologist (Domiciliary Residential Rehabilitation Treatment Program)- EDRP Authorized](https://jobright.ai/jobs/info/687f0a31764c3d7411c48612?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jul 21 |
 | ↳ | **[Staff Psychologist - Behavioral Health Interdisciplinary Program - AMENDED](https://jobright.ai/jobs/info/687f114b9f72804245700c5d?utm_campaign=1057&utm_source=git)** | Tallahassee, FL | On Site | Jul 21 |
 | ↳ | **[Staff Psychologist (Primary Care-Mental Health Integration)](https://jobright.ai/jobs/info/687f0fc29f72804245700bba?utm_campaign=1057&utm_source=git)** | Parma, OH | On Site | Jul 21 |
-| ↳ | **[Psychologist](https://jobright.ai/jobs/info/687f150d2097a271a899a68a?utm_campaign=1057&utm_source=git)** | White River Junction, VT | On Site | Jul 21 |
 | ↳ | **[Psychologist (Suicide Prevention Coordinator)](https://jobright.ai/jobs/info/687f12452097a271a899a53d?utm_campaign=1057&utm_source=git)** | Memphis, TN | On Site | Jul 21 |
+| ↳ | **[Psychologist](https://jobright.ai/jobs/info/687f150d2097a271a899a68a?utm_campaign=1057&utm_source=git)** | White River Junction, VT | On Site | Jul 21 |
 | ↳ | **[Staff Psychologist (MH&BSS)](https://jobright.ai/jobs/info/687f13622097a271a899a60d?utm_campaign=1057&utm_source=git)** | Cape Coral, FL | On Site | Jul 21 |
 | ↳ | **[Staff Psychologist](https://jobright.ai/jobs/info/687f0750764c3d7411c48483?utm_campaign=1057&utm_source=git)** | Pensacola, FL | On Site | Jul 21 |
 | ↳ | **[Staff Psychologist - PTSD, EDRP & Recruitment/Relocation Incentive](https://jobright.ai/jobs/info/687f0f062097a271a899a424?utm_campaign=1057&utm_source=git)** | Amarillo, TX | On Site | Jul 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Howard University](http://www.howard.edu)** | **[Counseling Services Intern](https://jobright.ai/jobs/info/687e79922097a271a899565f?utm_campaign=1057&utm_source=git)** | Mental Health Center | Hybrid | Jul 21 |
 | ↳ | **[Counseling Services Intern](https://jobright.ai/jobs/info/687e78c9db19f31cf0d6a7ef?utm_campaign=1057&utm_source=git)** | Mental Health Center | Hybrid | Jul 21 |
 | **[Texas A&M University](http://www.tamu.edu)** | **[Student Data & Information Assistant (TCFBEED)](https://jobright.ai/jobs/info/687e7888764c3d7411c43a8b?utm_campaign=1057&utm_source=git)** | Laredo, TX | On Site | Jul 21 |
-| **[Howard University](http://www.howard.edu)** | **[Counseling Services Intern](https://jobright.ai/jobs/info/687e7813764c3d7411c439fc?utm_campaign=1057&utm_source=git)** | Mental Health Center | Hybrid | Jul 21 |
-| **[Wingate University](http://www.wingate.edu/)** | **[Clinical Counseling Intern](https://jobright.ai/jobs/info/687e6eca764c3d7411c43541?utm_campaign=1057&utm_source=git)** | Wingate Campus | On Site | Jul 21 |
-| ↳ | **[Practicum Counseling Intern](https://jobright.ai/jobs/info/687e6e36db19f31cf0d6a194?utm_campaign=1057&utm_source=git)** | Wingate Campus | On Site | Jul 21 |
-| **[M&T Bank](https://www3.mtb.com/)** | **[2026 Summer Internship Program- Corporate and Institutional Banking (Financial Institutions Group)](https://jobright.ai/jobs/info/687e6dcf764c3d7411c43460?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
