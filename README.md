@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Year Up United](http://yearup.org)** | **[Desktop Support Job Training Program](https://jobright.ai/jobs/info/68653ac8058af3cde128ea65?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Jul 21 |
+| **[Genentech](http://gene.com)** | **[2025 Fall Intern - US Medical - Field Medical](https://jobright.ai/jobs/info/687f29ae9f72804245701ca7?utm_campaign=1057&utm_source=git)** | South San Francisco, CA | On Site | Jul 21 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Youth Hockey Development (Part-Time/Seasonal)](https://jobright.ai/jobs/info/687f00ebdb19f31cf0d6ebde?utm_campaign=1057&utm_source=git)** | Arlington, VA | On Site | Jul 21 |
+| **[United States Holocaust Memorial Museum](http://www.ushmm.org/)** | **[Intern - Levine Institute (Youth & Community Initiative)](https://jobright.ai/jobs/info/687f288b2097a271a899b416?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Jul 21 |
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Graduate Assistant](https://jobright.ai/jobs/info/687ef543db19f31cf0d6e5d0?utm_campaign=1057&utm_source=git)** | Lubbock, TX | On Site | Jul 21 |
 | **[Duke University](http://www.duke.edu)** | **[POSTDOCTORAL ASSOCIATE](https://jobright.ai/jobs/info/687f14172097a271a899a63c?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Jul 21 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Intern - UT Provo](https://jobright.ai/jobs/info/687ef266db19f31cf0d6e528?utm_campaign=1057&utm_source=git)** | Provo, UT | On Site | Jul 21 |
@@ -96,8 +99,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Psychologist (Domiciliary Residential Rehabilitation Treatment Program)- EDRP Authorized](https://jobright.ai/jobs/info/687f0a31764c3d7411c48612?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jul 21 |
 | ↳ | **[Staff Psychologist - Behavioral Health Interdisciplinary Program - AMENDED](https://jobright.ai/jobs/info/687f114b9f72804245700c5d?utm_campaign=1057&utm_source=git)** | Tallahassee, FL | On Site | Jul 21 |
 | ↳ | **[Staff Psychologist (Primary Care-Mental Health Integration)](https://jobright.ai/jobs/info/687f0fc29f72804245700bba?utm_campaign=1057&utm_source=git)** | Parma, OH | On Site | Jul 21 |
-| ↳ | **[Psychologist (Suicide Prevention Coordinator)](https://jobright.ai/jobs/info/687f12452097a271a899a53d?utm_campaign=1057&utm_source=git)** | Memphis, TN | On Site | Jul 21 |
 | ↳ | **[Psychologist](https://jobright.ai/jobs/info/687f150d2097a271a899a68a?utm_campaign=1057&utm_source=git)** | White River Junction, VT | On Site | Jul 21 |
+| ↳ | **[Psychologist (Suicide Prevention Coordinator)](https://jobright.ai/jobs/info/687f12452097a271a899a53d?utm_campaign=1057&utm_source=git)** | Memphis, TN | On Site | Jul 21 |
 | ↳ | **[Staff Psychologist (MH&BSS)](https://jobright.ai/jobs/info/687f13622097a271a899a60d?utm_campaign=1057&utm_source=git)** | Cape Coral, FL | On Site | Jul 21 |
 | ↳ | **[Staff Psychologist](https://jobright.ai/jobs/info/687f0750764c3d7411c48483?utm_campaign=1057&utm_source=git)** | Pensacola, FL | On Site | Jul 21 |
 | ↳ | **[Staff Psychologist - PTSD, EDRP & Recruitment/Relocation Incentive](https://jobright.ai/jobs/info/687f0f062097a271a899a424?utm_campaign=1057&utm_source=git)** | Amarillo, TX | On Site | Jul 21 |
@@ -112,8 +115,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Staff Psychologist (PCMHI)](https://jobright.ai/jobs/info/687f10db2097a271a899a4b7?utm_campaign=1057&utm_source=git)** | Spokane, WA | On Site | Jul 21 |
 | ↳ | **[Staff Psychologist - Behavioral Health Interdisciplinary Program - AMENDED](https://jobright.ai/jobs/info/687f0937764c3d7411c485b3?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Jul 21 |
 | ↳ | **[Staff Psychologist](https://jobright.ai/jobs/info/687f10f59f72804245700c32?utm_campaign=1057&utm_source=git)** | Des Moines, IA | On Site | Jul 21 |
-| ↳ | **[Psychology Program Manager - Workplace Violence Prevention Program](https://jobright.ai/jobs/info/687f1083764c3d7411c4891f?utm_campaign=1057&utm_source=git)** | Spokane, WA | On Site | Jul 21 |
 | ↳ | **[Staff Psychologist (MH&BSS)](https://jobright.ai/jobs/info/687f10a32097a271a899a4aa?utm_campaign=1057&utm_source=git)** | Bradenton, FL | On Site | Jul 21 |
+| ↳ | **[Psychology Program Manager - Workplace Violence Prevention Program](https://jobright.ai/jobs/info/687f1083764c3d7411c4891f?utm_campaign=1057&utm_source=git)** | Spokane, WA | On Site | Jul 21 |
 | ↳ | **[Staff Psychologist (MH&BSS)](https://jobright.ai/jobs/info/687f14449f72804245700e22?utm_campaign=1057&utm_source=git)** | Sebring, FL | On Site | Jul 21 |
 | ↳ | **[Staff Psychologist (MH&BSS)](https://jobright.ai/jobs/info/687f0c6c9f72804245700a12?utm_campaign=1057&utm_source=git)** | St. Petersburg, FL | On Site | Jul 21 |
 | ↳ | **[Staff Psychologist (BHIP)](https://jobright.ai/jobs/info/687f08f6764c3d7411c48594?utm_campaign=1057&utm_source=git)** | Fredericksburg, VA | On Site | Jul 21 |
@@ -138,13 +141,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Staff Psychologist - Behavioral Health Interdisciplinary Programs](https://jobright.ai/jobs/info/687f11cb9f72804245700c94?utm_campaign=1057&utm_source=git)** | Columbia, MO | On Site | Jul 21 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Physical Therapy Intern](https://jobright.ai/jobs/info/687f077b764c3d7411c4849d?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Jul 21 |
 | **[Pyramid Global Hospitality](https://pyramidglobal.com)** | **[Tennis Intern](https://jobright.ai/jobs/info/687e914f764c3d7411c4463c?utm_campaign=1057&utm_source=git)** | Wesley Chapel, Florida | On Site | Jul 21 |
+| **[Joliet Junior College](http://www.jjc.edu/)** | **[Business Department Intern](https://jobright.ai/jobs/info/687f30a6764c3d7411c4a0d7?utm_campaign=1057&utm_source=git)** | Joliet, IL | On Site | Jul 21 |
 | **[Penn State University](http://psu.edu)** | **[Federal Work Study Internships and Career Placement Office - Donald P. Bellisario College of Communications](https://jobright.ai/jobs/info/687eb9452097a271a899761a?utm_campaign=1057&utm_source=git)** | University Park, PA | On Site | Jul 21 |
 | **[OCHIN, Inc.](https://ochin.org)** | **[HRSA- COMMUNITY HEALTH WORKER - INTERNSHIP TRAINING PROGRAM](https://jobright.ai/jobs/info/687e89ef2097a271a8995c7b?utm_campaign=1057&utm_source=git)** | Portland, OR | On Site | Jul 21 |
 | **[The Culinary Edge](http://theculinaryedge.com/)** | **[Fall Student Strategy Internship](https://jobright.ai/jobs/info/687eb6d52097a271a89974ec?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Jul 21 |
-| **[Howard University](http://www.howard.edu)** | **[Counseling Services Intern](https://jobright.ai/jobs/info/687e862e2097a271a8995b36?utm_campaign=1057&utm_source=git)** | DC-Baltimore Area | Hybrid | Jul 21 |
 | **[Justice Resource Institute](https://jri.org/)** | **[Outpatient Clinical Intern](https://jobright.ai/jobs/info/687eb0a0db19f31cf0d6c471?utm_campaign=1057&utm_source=git)** | Acton, MA | On Site | Jul 21 |
 | **[The Menta Education Group](https://menta.com/)** | **[Teacher Internship (Paid)](https://jobright.ai/jobs/info/687ec13f2097a271a89979e1?utm_campaign=1057&utm_source=git)** | Casa Grande, AZ | On Site | Jul 21 |
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Student Workstudy-School of Information Technology](https://jobright.ai/jobs/info/687ea6a02097a271a8996c06?utm_campaign=1057&utm_source=git)** | Kokomo, IN | On Site | Jul 21 |
+| **[Howard University](http://www.howard.edu)** | **[Counseling Services Intern](https://jobright.ai/jobs/info/687e846d2097a271a8995a78?utm_campaign=1057&utm_source=git)** | DC-Baltimore Area | Hybrid | Jul 21 |
 | **[Georgia Department of Public Health](https://dph.georgia.gov/)** | **[Fall Intern 2025](https://jobright.ai/jobs/info/687e9f02db19f31cf0d6bbfd?utm_campaign=1057&utm_source=git)** | Atlanta, GA | Remote | Jul 21 |
 | **[Howard University](http://www.howard.edu)** | **[Counseling Services Intern](https://jobright.ai/jobs/info/687e79922097a271a899565f?utm_campaign=1057&utm_source=git)** | Mental Health Center | Hybrid | Jul 21 |
 | ↳ | **[Counseling Services Intern](https://jobright.ai/jobs/info/687e78c9db19f31cf0d6a7ef?utm_campaign=1057&utm_source=git)** | Mental Health Center | Hybrid | Jul 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wingate University](http://www.wingate.edu/)** | **[Clinical Counseling Intern](https://jobright.ai/jobs/info/687e6eca764c3d7411c43541?utm_campaign=1057&utm_source=git)** | Wingate Campus | On Site | Jul 21 |
 | ↳ | **[Practicum Counseling Intern](https://jobright.ai/jobs/info/687e6e36db19f31cf0d6a194?utm_campaign=1057&utm_source=git)** | Wingate Campus | On Site | Jul 21 |
 | **[M&T Bank](https://www3.mtb.com/)** | **[2026 Summer Internship Program- Corporate and Institutional Banking (Financial Institutions Group)](https://jobright.ai/jobs/info/687e6dcf764c3d7411c43460?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Jul 21 |
-| **[Eastern Kentucky University](http://www.eku.edu/)** | **[Graduate Assistant](https://jobright.ai/jobs/info/687e67392097a271a8994cff?utm_campaign=1057&utm_source=git)** | Richmond, KY | On Site | Jul 21 |
-| **[Joliet Junior College](http://www.jjc.edu/)** | **[Business Department Intern](https://jobright.ai/jobs/info/687e4f0ddb19f31cf0d69655?utm_campaign=1057&utm_source=git)** | Main Campus, Joliet, IL | On Site | Jul 21 |
-| **[Year Up United](http://yearup.org)** | **[Financial Operations Job Training Program](https://jobright.ai/jobs/info/687e47b42097a271a8993f96?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Jul 21 |
-| ↳ | **[Project Management Job Training Program](https://jobright.ai/jobs/info/687e4717db19f31cf0d691aa?utm_campaign=1057&utm_source=git)** | Pleasant Hill, CA | On Site | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
