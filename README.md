@@ -90,8 +90,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Psychology Program Manager - Workplace Violence Prevention Program](https://jobright.ai/jobs/info/687f1083764c3d7411c4891f?utm_campaign=1057&utm_source=git)** | Spokane, WA | On Site | Jul 21 |
 | ↳ | **[Staff Psychologist (MH&BSS)](https://jobright.ai/jobs/info/687f10a32097a271a899a4aa?utm_campaign=1057&utm_source=git)** | Bradenton, FL | On Site | Jul 21 |
 | ↳ | **[Staff Psychologist (MH&BSS)](https://jobright.ai/jobs/info/687f14449f72804245700e22?utm_campaign=1057&utm_source=git)** | Sebring, FL | On Site | Jul 21 |
-| ↳ | **[Staff Psychologist (BHIP)](https://jobright.ai/jobs/info/687f08f6764c3d7411c48594?utm_campaign=1057&utm_source=git)** | Fredericksburg, VA | On Site | Jul 21 |
 | ↳ | **[Staff Psychologist](https://jobright.ai/jobs/info/687f14342097a271a899a649?utm_campaign=1057&utm_source=git)** | Murfreesboro, TN | On Site | Jul 21 |
+| ↳ | **[Staff Psychologist (BHIP)](https://jobright.ai/jobs/info/687f08f6764c3d7411c48594?utm_campaign=1057&utm_source=git)** | Fredericksburg, VA | On Site | Jul 21 |
 | ↳ | **[Staff Psychologist- PTSD](https://jobright.ai/jobs/info/687f0eeb2097a271a899a41d?utm_campaign=1057&utm_source=git)** | Fredericksburg, VA | On Site | Jul 21 |
 | ↳ | **[Staff Psychologist (MH&BSS)](https://jobright.ai/jobs/info/687f0c6c9f72804245700a12?utm_campaign=1057&utm_source=git)** | St. Petersburg, FL | On Site | Jul 21 |
 | ↳ | **[Staff Psychologist (MH&BSS)](https://jobright.ai/jobs/info/687f0ff42097a271a899a474?utm_campaign=1057&utm_source=git)** | Palm Harbor, FL | On Site | Jul 21 |
@@ -113,8 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Wingate University](http://www.wingate.edu/)** | **[Clinical Counseling Intern](https://jobright.ai/jobs/info/687e6eca764c3d7411c43541?utm_campaign=1057&utm_source=git)** | Wingate Campus | On Site | Jul 21 |
 | ↳ | **[Practicum Counseling Intern](https://jobright.ai/jobs/info/687e6e36db19f31cf0d6a194?utm_campaign=1057&utm_source=git)** | Wingate Campus | On Site | Jul 21 |
 | **[M&T Bank](https://www3.mtb.com/)** | **[2026 Summer Internship Program- Corporate and Institutional Banking (Financial Institutions Group)](https://jobright.ai/jobs/info/687e6dcf764c3d7411c43460?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Jul 21 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687d94b0764c3d7411c3d288?utm_campaign=1057&utm_source=git)** | Greer, SC | On Site | Jul 20 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687d94ab2097a271a898ec41?utm_campaign=1057&utm_source=git)** | Centerville, UT | On Site | Jul 20 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687d94ab2097a271a898ec41?utm_campaign=1057&utm_source=git)** | Centerville, UT | On Site | Jul 20 |
 | **[Deutsche Bank](https://www.db.com)** | **[Deutsche Bank Internship Program - Investment Bank: Fixed Income & Currencies - New York - 2026](https://jobright.ai/jobs/info/687ea973764c3d7411c454cc?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Jul 20 |
 | **[Domo](http://www.domo.com)** | **[Intern - Domo Education](https://jobright.ai/jobs/info/685f56a5f014ba49e810b3ed?utm_campaign=1057&utm_source=git)** | American Fork, UT | On Site | Jul 20 |
 | **[Wichita State University](http://www.wichita.edu)** | **[Graduate Assistant](https://jobright.ai/jobs/info/687cb7d6764c3d7411c3b8c5?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Jul 20 |
@@ -150,11 +149,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Hiring our Heroes Corporate Fellowship - Fall 2025](https://jobright.ai/jobs/info/685cd4eb3ebc8d118e1c55b9?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Jul 17 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Intern](https://jobright.ai/jobs/info/67ca7b7e906a3c5d2be853bc?utm_campaign=1057&utm_source=git)** | Monroe, LA | On Site | Jul 17 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Hiring our Heroes Corporate Fellowship - Fall 2025](https://jobright.ai/jobs/info/685bfc59daa3aeaa9f5f54a6?utm_campaign=1057&utm_source=git)** | Jersey City, NJ | Hybrid | Jul 17 |
-| **[Achieve Beyond](http://www.achievebeyondusa.com)** | **[Intern Behavior Therapist](https://jobright.ai/jobs/info/687dbe81764c3d7411c3e515?utm_campaign=1057&utm_source=git)** | White Plains, NY | On Site | Jul 16 |
-| ↳ | **[Intern Behavior Therapist](https://jobright.ai/jobs/info/687dbd42ed63844c944b3f31?utm_campaign=1057&utm_source=git)** | Melville, NY | On Site | Jul 16 |
+| **[Achieve Beyond](http://www.achievebeyondusa.com)** | **[Intern Behavior Therapist](https://jobright.ai/jobs/info/687dbd42ed63844c944b3f31?utm_campaign=1057&utm_source=git)** | Melville, NY | On Site | Jul 16 |
+| ↳ | **[Intern Behavior Therapist](https://jobright.ai/jobs/info/6879a0af2097a271a8978f18?utm_campaign=1057&utm_source=git)** | White Plains, NY | On Site | Jul 16 |
 | **[Carnegie Mellon University](https://www.cmu.edu)** | **[High Performance Computing Education Intern - Mellon College of Science - Pittsburgh Supercomputing Center](https://jobright.ai/jobs/info/68783d4f866a435525ab7a4a?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 16 |
 | **[BALENCIAGA](https://www.balenciaga.com/)** | **[BALENCIAGA Fall 2025 Retail & Product Training Intern / NYC](https://jobright.ai/jobs/info/6877d9c5ae2f413e4a5bdb2c?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 16 |
 | **[Capital One](http://www.capitalone.com)** | **[Associate - Students & Grads Program Manager (Analyst Internship Program)](https://jobright.ai/jobs/info/6877b50c866a435525ab3689?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Jul 16 |
 | ↳ | **[Associate - Students & Grads Program Manager (Analyst Internship Program)](https://jobright.ai/jobs/info/6877a7ad5cebcd1dd51d40a0?utm_campaign=1057&utm_source=git)** | Plano, TX | On Site | Jul 16 |
 | ↳ | **[Associate - Students & Grads Program Manager (Analyst Internship Program)](https://jobright.ai/jobs/info/68779e9f5cebcd1dd51d3d36?utm_campaign=1057&utm_source=git)** | McLean, VA | On Site | Jul 16 |
+| **[The University of Kansas](http://www.spencerart.ku.edu/)** | **[Asst/Assoc Prof of Strategic Management and International Business](https://jobright.ai/jobs/info/687b9a8f2097a271a8985d0c?utm_campaign=1057&utm_source=git)** | Lawrence, KS | On Site | Jul 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
