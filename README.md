@@ -57,10 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[ELS International Student Advisor](https://jobright.ai/jobs/info/68825251b54cac0f1e72ea8c?utm_campaign=1057&utm_source=git)** | Gulfport, FL | On Site | Jul 24 |
+| **[Year Up United](http://yearup.org)** | **[Project Management Career Training Program](https://jobright.ai/jobs/info/6864b44d0123eb491ffc05b1?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Jul 24 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Clinical Intern](https://jobright.ai/jobs/info/6882421f835a903aa07ec1a9?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Jul 24 |
+| **[Erickson Senior Living](https://www.ericksonseniorliving.com)** | **[College Intern](https://jobright.ai/jobs/info/68823c766fcd973d15ad799b?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jul 24 |
+| **[UIC Tutorium](https://tutorium.uic.edu/)** | **[Teaching Assistant Learning Design - Learning Technology Solutions](https://jobright.ai/jobs/info/68823a9e835a903aa07ebf10?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jul 24 |
+| ↳ | **[Clinical Physician – Correctional Medicine / Family or Internal Medicine Faculty](https://jobright.ai/jobs/info/68823a3db54cac0f1e72deb1?utm_campaign=1057&utm_source=git)** | Rockford, IL | On Site | Jul 24 |
 | **[Heartland Veterinary Partners ](https://heartlandvetpartners.com/)** | **[Vet Tech Student Externship- Highland Square Family Vet](https://jobright.ai/jobs/info/6882393eb54cac0f1e72de54?utm_campaign=1057&utm_source=git)** | Lakeland, FL | On Site | Jul 24 |
 | **[Life.Church](http://www.life.church)** | **[Life.Church Campus Internship](https://jobright.ai/jobs/info/67eed4e10bdb919a84e17e6c?utm_campaign=1057&utm_source=git)** | Edmond, OK | On Site | Jul 24 |
+| **[Indy Reads](https://indyreads.org/)** | **[Rolling Application: High School Equivalency (HSE) Adult Education In](https://jobright.ai/jobs/info/688253f26fcd973d15ad84d6?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | Hybrid | Jul 24 |
 | **[Year Up United](http://yearup.org)** | **[Computer Systems Administration Job Training Program](https://jobright.ai/jobs/info/688230076fcd973d15ad73ca?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Jul 24 |
-| ↳ | **[Project Management Job Training Program](https://jobright.ai/jobs/info/688229efe36ab438ac25a60f?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Jul 24 |
+| **[Drama Kids of North Columbus](https://dramakids.com/north-columbus-oh/)** | **[Drama Teacher - Part Time Position/Intern](https://jobright.ai/jobs/info/68824cd7b54cac0f1e72e6b1?utm_campaign=1057&utm_source=git)** | Lewis Center, OH | On Site | Jul 24 |
+| **[Year Up United](http://yearup.org)** | **[Project Management Job Training Program](https://jobright.ai/jobs/info/688229efe36ab438ac25a60f?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Jul 24 |
 | ↳ | **[Data Analytics Job Training Program](https://jobright.ai/jobs/info/6882389b835a903aa07ebe51?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Jul 24 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Abshire-Inamori Leadership Academy (Fall 2025)](https://jobright.ai/jobs/info/68821722e36ab438ac259e0d?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Jul 24 |
 | **[Alcorn State University](http://www.alcorn.edu/)** | **[Research/Student Tutor](https://jobright.ai/jobs/info/68821078e36ab438ac259ac7?utm_campaign=1057&utm_source=git)** | Lorman, MS | On Site | Jul 24 |
@@ -114,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[Kolmac Integrated Behavioral Health](http://www.kolmac.com/)** | **[Clinical Intern](https://jobright.ai/jobs/info/68819a7129ad6b2744ae34fe?utm_campaign=1057&utm_source=git)** | Burtonsville, MD | On Site | Jul 23 |
 | **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Student Assistant - Comprehensive Cancer Center](https://jobright.ai/jobs/info/6881a1d916ea5743a373a9dc?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Jul 23 |
 | **[UIC Tutorium](https://tutorium.uic.edu/)** | **[Director of Experiential Learning and Career Outcomes](https://jobright.ai/jobs/info/68819cbef4f06100f3a282b1?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jul 23 |
-| **[County of Los Angeles](https://lacounty.gov/)** | **[CAREER DEVELOPMENT INTERN, INFORMATION TECHNOLOGY/TECHNICAL SUPPORT](https://jobright.ai/jobs/info/6881ab8416ea5743a373b362?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jul 23 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist](https://jobright.ai/jobs/info/68817554f4f06100f3a2717a?utm_campaign=1057&utm_source=git)** | Carroll, IA | On Site | Jul 23 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Research Student- Department of Orthopedics](https://jobright.ai/jobs/info/6881b5a1f4f06100f3a295ae?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Jul 23 |
 | **[University of North Texas](http://unt.edu)** | **[Doctoral Internship Supervisor](https://jobright.ai/jobs/info/688170a6f4f06100f3a26f6a?utm_campaign=1057&utm_source=git)** | Denton, TX | On Site | Jul 23 |
@@ -123,6 +130,7 @@ For a complete list, click the following sortable link below:
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Undergraduate Intern](https://jobright.ai/jobs/info/6881a47b16ea5743a373ac01?utm_campaign=1057&utm_source=git)** | Rochester, MN | On Site | Jul 23 |
 | **[American Food & Vending](https://www.afvusa.com/)** | **[Sustainability Intern](https://jobright.ai/jobs/info/68816d66f4f06100f3a26dbd?utm_campaign=1057&utm_source=git)** | Webster Groves, MO | On Site | Jul 23 |
 | **[The New York Foundling](https://www.nyfoundling.org/)** | **[MSW Student Intern - TST](https://jobright.ai/jobs/info/68816b4929ad6b2744ae2091?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Jul 23 |
+| **[Jobright.ai](https://jobright.ai)** | **[AI Trainer for Telugu Writers/Speakers - Internship - (Remote)](https://jobright.ai/jobs/info/68816791f4f06100f3a26b62?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 23 |
 | **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[Student Intern, Support Groups](https://jobright.ai/jobs/info/6881670216ea5743a3738d54?utm_campaign=1057&utm_source=git)** | 6100 Neil Rd, Reno, NV, 89511, US | On Site | Jul 23 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Student Assistant - Development Office](https://jobright.ai/jobs/info/688186e616ea5743a3739c8f?utm_campaign=1057&utm_source=git)** | Athens, GA | On Site | Jul 23 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[Technical and Professional Internships - Spring 2026](https://jobright.ai/jobs/info/6881805129ad6b2744ae29dd?utm_campaign=1057&utm_source=git)** | Oak Ridge, TN | On Site | Jul 23 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UFC GYM](http://UFCGYM.com)** | **[UFC Brazilian JuJitsu Intern](https://jobright.ai/jobs/info/688157ae16ea5743a373863a?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Jul 23 |
 | **[Fydo](https://fydo.ai)** | **[MBA Behavioral Science Intern (Fall 2025)](https://jobright.ai/jobs/info/6881384e29ad6b2744ae05e6?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 23 |
 | **[Huntington Health](https://www.huntingtonhealth.org)** | **[Student Nurse Intern Per Diem Days - Physical Rehab](https://jobright.ai/jobs/info/6881335d16ea5743a37371c0?utm_campaign=1057&utm_source=git)** | Pasadena, CA | On Site | Jul 23 |
-| **[Lincoln Center for the Performing Arts](http://www.lincolncenter.org/)** | **[Education Intern](https://jobright.ai/jobs/info/68813226f4f06100f3a25064?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 23 |
-| **[University of California, Berkeley](http://berkeley.edu)** | **[Athletic Performance Volunteer Intern](https://jobright.ai/jobs/info/68812fe5f4f06100f3a24cf7?utm_campaign=1057&utm_source=git)** | Berkeley, CA | On Site | Jul 23 |
-| **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Psychologist](https://jobright.ai/jobs/info/68812f08f4f06100f3a24bb0?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Jul 23 |
-| ↳ | **[Psychologist](https://jobright.ai/jobs/info/68812efef4f06100f3a24bad?utm_campaign=1057&utm_source=git)** | Littleton, NH | On Site | Jul 23 |
-| **[Henry Ford Health](http://www.henryford.com/)** | **[Research Student- Department of Orthopedics](https://jobright.ai/jobs/info/68812ee129ad6b2744adfe3c?utm_campaign=1057&utm_source=git)** | Detroit, Michigan | On Site | Jul 23 |
-| **[Brown University Health](https://www.brownhealth.org)** | **[Behavioral Health Intern](https://jobright.ai/jobs/info/687dbd67764c3d7411c3e45d?utm_campaign=1057&utm_source=git)** | Exeter, RI | On Site | Jul 23 |
-| ↳ | **[Behavioral Health Intern](https://jobright.ai/jobs/info/687f2e76764c3d7411c4a040?utm_campaign=1057&utm_source=git)** | Rumford, RI | On Site | Jul 23 |
-| **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Psychologist](https://jobright.ai/jobs/info/6881c16eee15177ae9716e7f?utm_campaign=1057&utm_source=git)** | Keene, NH | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
