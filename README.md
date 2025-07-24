@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Abshire-Inamori Leadership Academy (Fall 2025)](https://jobright.ai/jobs/info/68821722e36ab438ac259e0d?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Jul 24 |
+| **[Alcorn State University](http://www.alcorn.edu/)** | **[Research/Student Tutor](https://jobright.ai/jobs/info/68821078e36ab438ac259ac7?utm_campaign=1057&utm_source=git)** | Lorman, MS | On Site | Jul 24 |
+| **[City of Lakeland](http://www.lakelandgov.net/)** | **[College Intern - Esports](https://jobright.ai/jobs/info/68820fbd89987b37105b1384?utm_campaign=1057&utm_source=git)** | Lakeland, FL | On Site | Jul 24 |
+| **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-Residence Life-Advisor](https://jobright.ai/jobs/info/68820eda89987b37105b136b?utm_campaign=1057&utm_source=git)** | Huntsville, TX | Hybrid | Jul 24 |
 | **[Behavioral Health Resources](http://www.bhr.org/)** | **[Harvest Home Therapist Internship](https://jobright.ai/jobs/info/6881feadfbd21804fcfb7ec4?utm_campaign=1057&utm_source=git)** | Olympia, WA | On Site | Jul 24 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Senior Coordinator - Student Success - PAC - req12885](https://jobright.ai/jobs/info/6881fe8f9fba273e952c698a?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jul 24 |
 | **[Chelsea Public Schools](https://chelseaschools.tedk12.com/hire/index.aspx)** | **[CPS Summer Intern- Student Worker (Summer 2025)](https://jobright.ai/jobs/info/6881fc77ee15177ae9719745?utm_campaign=1057&utm_source=git)** | Chelsea, MA | On Site | Jul 24 |
@@ -115,6 +119,7 @@ For a complete list, click the following sortable link below:
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Undergraduate Intern](https://jobright.ai/jobs/info/6881a47b16ea5743a373ac01?utm_campaign=1057&utm_source=git)** | Rochester, MN | On Site | Jul 23 |
 | **[American Food & Vending](https://www.afvusa.com/)** | **[Sustainability Intern](https://jobright.ai/jobs/info/68816d66f4f06100f3a26dbd?utm_campaign=1057&utm_source=git)** | Webster Groves, MO | On Site | Jul 23 |
 | **[The New York Foundling](https://www.nyfoundling.org/)** | **[MSW Student Intern - TST](https://jobright.ai/jobs/info/68816b4929ad6b2744ae2091?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Jul 23 |
+| **[Jobright.ai](https://jobright.ai)** | **[AI Trainer for Telugu Writers/Speakers - Internship - (Remote)](https://jobright.ai/jobs/info/68816791f4f06100f3a26b62?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 23 |
 | **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[Student Intern, Support Groups](https://jobright.ai/jobs/info/6881670216ea5743a3738d54?utm_campaign=1057&utm_source=git)** | 6100 Neil Rd, Reno, NV, 89511, US | On Site | Jul 23 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Student Assistant - Development Office](https://jobright.ai/jobs/info/688186e616ea5743a3739c8f?utm_campaign=1057&utm_source=git)** | Athens, GA | On Site | Jul 23 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[Technical and Professional Internships - Spring 2026](https://jobright.ai/jobs/info/6881805129ad6b2744ae29dd?utm_campaign=1057&utm_source=git)** | Oak Ridge, TN | On Site | Jul 23 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Psychologist](https://jobright.ai/jobs/info/6881c16eee15177ae9716e7f?utm_campaign=1057&utm_source=git)** | Keene, NH | On Site | Jul 23 |
 | ↳ | **[Psychologist](https://jobright.ai/jobs/info/6881c4d91321092fa00610c7?utm_campaign=1057&utm_source=git)** | White River Junction, VT | On Site | Jul 23 |
 | ↳ | **[Psychologist](https://jobright.ai/jobs/info/688150b329ad6b2744ae11d4?utm_campaign=1057&utm_source=git)** | Bennington, VT | On Site | Jul 23 |
-| ↳ | **[Staff Psychologist](https://jobright.ai/jobs/info/688118a829ad6b2744adf080?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Jul 23 |
-| ↳ | **[Staff Psychologist](https://jobright.ai/jobs/info/68814caf16ea5743a3737f51?utm_campaign=1057&utm_source=git)** | Fayetteville, AR | On Site | Jul 23 |
-| ↳ | **[Psychologist](https://jobright.ai/jobs/info/68814e27f4f06100f3a25e60?utm_campaign=1057&utm_source=git)** | Brattleboro, VT | On Site | Jul 23 |
-| **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[THECB - Intern, English Language](https://jobright.ai/jobs/info/6881169029ad6b2744adeeb4?utm_campaign=1057&utm_source=git)** | Texas-AustinWork Locations | On Site | Jul 23 |
-| ↳ | **[THECB - Intern, English Language](https://jobright.ai/jobs/info/6881157616ea5743a3735d3e?utm_campaign=1057&utm_source=git)** | TX Hghr Edu Coordinating Board1801 Congress Ave | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
