@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Illinois Chicago (UIC) School of Public Health](https://publichealth.uic.edu)** | **[Director of Experiential Learning and Career Outcomes](https://jobright.ai/jobs/info/6881e4a41321092fa00628df?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jul 23 |
 | **[Field of Futures](https://fieldoffutures.wixsite.com/my-site-1)** | **[Field of Futures High School Chapter/ SummerInternship](https://jobright.ai/jobs/info/6881bcbfee15177ae9716a4e?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 23 |
 | **[NYC Public Schools](https://schools.nyc.gov)** | **[Community Coordinator - International Community High School (07X334)](https://jobright.ai/jobs/info/6881bb231321092fa0060a7a?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 23 |
 | **[Georgia Gwinnett College](http://www.ggc.edu)** | **[Student Assistant - Classroom Technology](https://jobright.ai/jobs/info/6881bad71321092fa0060a65?utm_campaign=1057&utm_source=git)** | Lawrenceville, GA | On Site | Jul 23 |
@@ -96,10 +97,8 @@ For a complete list, click the following sortable link below:
 | **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Student Assistant - Comprehensive Cancer Center](https://jobright.ai/jobs/info/6881a1d916ea5743a373a9dc?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Jul 23 |
 | **[UIC Tutorium](https://tutorium.uic.edu/)** | **[Director of Experiential Learning and Career Outcomes](https://jobright.ai/jobs/info/68819cbef4f06100f3a282b1?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jul 23 |
 | **[County of Los Angeles](https://lacounty.gov/)** | **[CAREER DEVELOPMENT INTERN, INFORMATION TECHNOLOGY/TECHNICAL SUPPORT](https://jobright.ai/jobs/info/6881ab8416ea5743a373b362?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jul 23 |
-| **[Year Up United](http://yearup.org)** | **[Financial Operations Job Training Program](https://jobright.ai/jobs/info/6866a564e54699cffd115942?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jul 23 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist](https://jobright.ai/jobs/info/68817554f4f06100f3a2717a?utm_campaign=1057&utm_source=git)** | Carroll, IA | On Site | Jul 23 |
 | **[County of Los Angeles](https://lacounty.gov/)** | **[CAREER DEVELOPMENT INTERN - OFFICE AND CLERICAL SUPPORT](https://jobright.ai/jobs/info/688195ef29ad6b2744ae336a?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jul 23 |
-| ↳ | **[CAREER DEVELOPMENT INTERN - CRAFTS SUPPORT](https://jobright.ai/jobs/info/688197f0f4f06100f3a280fe?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jul 23 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Research Student- Department of Orthopedics](https://jobright.ai/jobs/info/6881b5a1f4f06100f3a295ae?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Jul 23 |
 | **[University of North Texas](http://unt.edu)** | **[Doctoral Internship Supervisor](https://jobright.ai/jobs/info/688170a6f4f06100f3a26f6a?utm_campaign=1057&utm_source=git)** | Denton, TX | On Site | Jul 23 |
 | **[Mayo Clinic Healthcare](https://mayoclinichealthcare.co.uk)** | **[Undergraduate Intern](https://jobright.ai/jobs/info/68819e2716ea5743a373a733?utm_campaign=1057&utm_source=git)** | Rochester, MN | On Site | Jul 23 |
@@ -107,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Undergraduate Intern](https://jobright.ai/jobs/info/6881a47b16ea5743a373ac01?utm_campaign=1057&utm_source=git)** | Rochester, MN | On Site | Jul 23 |
 | **[American Food & Vending](https://www.afvusa.com/)** | **[Sustainability Intern](https://jobright.ai/jobs/info/68816d66f4f06100f3a26dbd?utm_campaign=1057&utm_source=git)** | Webster Groves, MO | On Site | Jul 23 |
 | **[The New York Foundling](https://www.nyfoundling.org/)** | **[MSW Student Intern - TST](https://jobright.ai/jobs/info/68816b4929ad6b2744ae2091?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Jul 23 |
-| **[Jobright.ai](https://jobright.ai)** | **[AI Trainer for Telugu Writers/Speakers - Internship - (Remote)](https://jobright.ai/jobs/info/68816791f4f06100f3a26b62?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 23 |
 | **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[Student Intern, Support Groups](https://jobright.ai/jobs/info/6881670216ea5743a3738d54?utm_campaign=1057&utm_source=git)** | 6100 Neil Rd, Reno, NV, 89511, US | On Site | Jul 23 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Student Assistant - Development Office](https://jobright.ai/jobs/info/688186e616ea5743a3739c8f?utm_campaign=1057&utm_source=git)** | Athens, GA | On Site | Jul 23 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[Technical and Professional Internships - Spring 2026](https://jobright.ai/jobs/info/6881805129ad6b2744ae29dd?utm_campaign=1057&utm_source=git)** | Oak Ridge, TN | On Site | Jul 23 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[University of Michigan](https://www.umich.edu)** | **[JuMP Student Assistant](https://jobright.ai/jobs/info/6881280cf4f06100f3a24929?utm_campaign=1057&utm_source=git)** | Dearborn, MI | On Site | Jul 23 |
 | **[Jobright.ai](https://jobright.ai)** | **[AI Trainer for English Writers/Speakers (Internship) (Remote)](https://jobright.ai/jobs/info/688120f7f4f06100f3a2464c?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 23 |
 | **[theCoderSchool](https://www.thecoderschool.com/)** | **[Coding Tutor (College Internship)](https://jobright.ai/jobs/info/688124c116ea5743a3736932?utm_campaign=1057&utm_source=git)** | Branford, CT | On Site | Jul 23 |
+| **[ServiceSource](https://www.servicesource.org)** | **[MSW Clinical Intern](https://jobright.ai/jobs/info/6880f35829ad6b2744add6bc?utm_campaign=1057&utm_source=git)** | Lakewood-CO | Hybrid | Jul 23 |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Senior Coordinator - Student Success - PAC - req12885](https://jobright.ai/jobs/info/688120b2f4f06100f3a24615?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
