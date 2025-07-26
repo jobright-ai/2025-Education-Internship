@@ -57,6 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Financial Times](http://ft.com)** | **[Student Program Assistant, FT Schools](https://jobright.ai/jobs/info/68485bc2d11080ce51217e9d?utm_campaign=1057&utm_source=git)** | California | On Site | Jul 26 |
+| **[Powerback](https://www.getpowerback.com)** | **[Student-PT Assistant](https://jobright.ai/jobs/info/6884ae28fbbf032d0006ad86?utm_campaign=1057&utm_source=git)** | Reston, VA | On Site | Jul 26 |
+| ↳ | **[Student-PT Assistant](https://jobright.ai/jobs/info/6884ae20fbbf032d0006ad85?utm_campaign=1057&utm_source=git)** | Lewis Center, OH | On Site | Jul 26 |
+| ↳ | **[Student-PT Assistant](https://jobright.ai/jobs/info/6884ae044174df41e0f95066?utm_campaign=1057&utm_source=git)** | Millville, NJ | On Site | Jul 26 |
+| ↳ | **[Student-PT Assistant](https://jobright.ai/jobs/info/6884adf1b651c92cb78aa178?utm_campaign=1057&utm_source=git)** | Williamsport, PA | On Site | Jul 26 |
+| ↳ | **[Student-PT Assistant](https://jobright.ai/jobs/info/6884add8b651c92cb78aa173?utm_campaign=1057&utm_source=git)** | Midland, MI | On Site | Jul 26 |
+| ↳ | **[Student-PT Assistant](https://jobright.ai/jobs/info/6884adc74174df41e0f95058?utm_campaign=1057&utm_source=git)** | Annapolis, MD | On Site | Jul 26 |
+| ↳ | **[Student-PT Assistant](https://jobright.ai/jobs/info/6884adbafbbf032d0006ad73?utm_campaign=1057&utm_source=git)** | Las Cruces, NM | On Site | Jul 26 |
+| ↳ | **[Student-PT Assistant](https://jobright.ai/jobs/info/6884ad68b651c92cb78aa15d?utm_campaign=1057&utm_source=git)** | Tulsa, OK | On Site | Jul 26 |
+| ↳ | **[Student-PT Assistant](https://jobright.ai/jobs/info/6884ad62fbbf032d0006ad65?utm_campaign=1057&utm_source=git)** | Oklahoma City, OK | On Site | Jul 26 |
+| ↳ | **[Student-PT Assistant](https://jobright.ai/jobs/info/6884ad614174df41e0f95048?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Jul 26 |
+| ↳ | **[Student-PT Assistant](https://jobright.ai/jobs/info/6884ad5b4174df41e0f95045?utm_campaign=1057&utm_source=git)** | La Follette, TN | On Site | Jul 26 |
+| ↳ | **[Student-PT Assistant](https://jobright.ai/jobs/info/6884ad504174df41e0f95042?utm_campaign=1057&utm_source=git)** | Torrance, CA | On Site | Jul 26 |
+| ↳ | **[Student-PT Assistant](https://jobright.ai/jobs/info/6884ad4dfbbf032d0006ad5f?utm_campaign=1057&utm_source=git)** | Norman, OK | On Site | Jul 26 |
+| ↳ | **[Student-PT Assistant](https://jobright.ai/jobs/info/6884ad444174df41e0f9503f?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jul 26 |
+| ↳ | **[Student-PT Assistant](https://jobright.ai/jobs/info/6884ad1db651c92cb78aa157?utm_campaign=1057&utm_source=git)** | Milford, NH | On Site | Jul 26 |
 | **[University of Washington](http://www.washington.edu)** | **[ATHLETIC TRAINER DIDACTIC INTERNSHIP](https://jobright.ai/jobs/info/6884a33f4174df41e0f94fa9?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Jul 26 |
 | **[Jobright.ai](https://jobright.ai)** | **[Technical Communicator, Internship, (Remote)](https://jobright.ai/jobs/info/6884a30fb651c92cb78aa0b5?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Powerback](https://www.getpowerback.com)** | **[Student-PT Assistant](https://jobright.ai/jobs/info/68849f114174df41e0f94f50?utm_campaign=1057&utm_source=git)** | O'Fallon, MO | On Site | Jul 26 |
@@ -66,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Bridgewater State University](http://www.bridgew.edu/)** | **[AY25-26 Evening Weekend Program Coordinator (Work Study)](https://jobright.ai/jobs/info/68847383fbbf032d0006968e?utm_campaign=1057&utm_source=git)** | Bridgewater, MA | On Site | Jul 25 |
 | **[Poudre School District](http://www.psdschools.org)** | **[INTERNAL ONLY-2025-26 Dean Secondary School-Fort Collins High School](https://jobright.ai/jobs/info/688472eafbbf032d00069650?utm_campaign=1057&utm_source=git)** | Fort Collins, CO | On Site | Jul 25 |
 | **[Project Harmony Child Protection Center](https://projectharmony.com)** | **[Intern/Practicum Student - MSW/Clinical Mental Health](https://jobright.ai/jobs/info/688470a5b651c92cb78a86b4?utm_campaign=1057&utm_source=git)** | Omaha, NE | On Site | Jul 25 |
+| **[University of Michigan](https://www.umich.edu)** | **[JuMP Student Assistant](https://jobright.ai/jobs/info/6881280cf4f06100f3a24929?utm_campaign=1057&utm_source=git)** | Dearborn, MI | On Site | Jul 25 |
 | **[Jobright.ai](https://jobright.ai)** | **[IT Professional Development Program, Internship](https://jobright.ai/jobs/info/688460ae4174df41e0f927a4?utm_campaign=1057&utm_source=git)** | Portage, MI | On Site | Jul 25 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/688449b3fbbf032d00066c4f?utm_campaign=1057&utm_source=git)** | Davenport, IA | On Site | Jul 25 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist (BHIP Therapist)](https://jobright.ai/jobs/info/6884496e4174df41e0f90e20?utm_campaign=1057&utm_source=git)** | Tucson, AZ | Hybrid | Jul 25 |
@@ -87,19 +104,16 @@ For a complete list, click the following sortable link below:
 | **[Eagle Mountain-Saginaw ISD](https://www.emsisd.com/emsisd)** | **[STUDENT](https://jobright.ai/jobs/info/68843d2b4174df41e0f9050b?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Jul 25 |
 | **[City of Lauderhill](http://www.lauderhill-fl.gov)** | **[College Intern](https://jobright.ai/jobs/info/68843d02fbbf032d00066391?utm_campaign=1057&utm_source=git)** | Lauderhill, FL | On Site | Jul 25 |
 | **[City of San Antonio](http://www.sanantonio.gov)** | **[STUDENT INTERN I (UNPAID)](https://jobright.ai/jobs/info/68844491fbbf032d00066892?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jul 25 |
-| **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/688447cb4174df41e0f90cff?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Jul 25 |
+| **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/6884461efbbf032d000669b0?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Jul 25 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Intern](https://jobright.ai/jobs/info/688444e7b651c92cb78a5c81?utm_campaign=1057&utm_source=git)** | Flagstaff, AZ | On Site | Jul 25 |
 | **[denova collaborative health](https://www.denova.com)** | **[Behavioral Health Intern](https://jobright.ai/jobs/info/688414aab54cac0f1e73bfdd?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 25 |
 | **[North Memorial Health](https://northmemorial.com/)** | **[Respiratory Therapist Intern](https://jobright.ai/jobs/info/688411b1835a903aa07f9f94?utm_campaign=1057&utm_source=git)** | Twin Cities Area | On Site | Jul 25 |
 | **[American University](http://american.edu)** | **[CECE Postdoctoral Fellow](https://jobright.ai/jobs/info/68844799b651c92cb78a5e71?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Jul 25 |
-| **[Northwest Special Recreation Association (NWSRA)](http://www.nwsra.org)** | **[Recreation Intern / Fieldwork Student](https://jobright.ai/jobs/info/688410e8835a903aa07f9f13?utm_campaign=1057&utm_source=git)** | Rolling Meadows, IL | On Site | Jul 25 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Public Engagement Intern (Fall 2025) at Smithsonian Environmental Research Center](https://jobright.ai/jobs/info/68844932fbbf032d00066bde?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jul 25 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Elementary Counselor and Interns](https://jobright.ai/jobs/info/68844a4ab651c92cb78a602d?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Jul 25 |
 | **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Research Coordinator II - General Internal Medicine](https://jobright.ai/jobs/info/68840e80835a903aa07f9e16?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jul 25 |
 | **[Mamaya Health](https://www.mamayahealth.com)** | **[Clinical Internship](https://jobright.ai/jobs/info/68840c2a835a903aa07f9d32?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Jul 25 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Student Assistant](https://jobright.ai/jobs/info/68840aa7835a903aa07f9cfa?utm_campaign=1057&utm_source=git)** | Athens, GA | On Site | Jul 25 |
-| **[Global Kids](https://globalkids.org/)** | **[Global Kids, Student Academic Support Intern](https://jobright.ai/jobs/info/688408756fcd973d15ae5329?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 25 |
-| **[Integrity Learning Center](https://www.integrityaba.com)** | **[Behavioral Therapist Intern](https://jobright.ai/jobs/info/688407d6835a903aa07f9bc4?utm_campaign=1057&utm_source=git)** | Plainfield, IN | On Site | Jul 25 |
 | **[Elko County School District](https://www.ecsdnv.net/)** | **[Districtwide/ School Psychologist/ School Psychologist Intern (2025-26) **$5000. Signing Bonus**](https://jobright.ai/jobs/info/688407c0835a903aa07f9ba8?utm_campaign=1057&utm_source=git)** | Elko, NV | On Site | Jul 25 |
 | **[Esalen Institute](https://www.esalen.org/)** | **[WORK SCHOLAR PROGRAM](https://jobright.ai/jobs/info/67483caa49657b07edd77b3d?utm_campaign=1057&utm_source=git)** | Big Sur, California | On Site | Jul 25 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Trading BootCamp Manager](https://jobright.ai/jobs/info/688405246fcd973d15ae526a?utm_campaign=1057&utm_source=git)** | Chicago, IL | Remote | Jul 25 |
@@ -143,18 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship (OT/OTA Towson RTC) Spring 2025 OT Fieldwork](https://jobright.ai/jobs/info/67cb747b57e09f619c57d285?utm_campaign=1057&utm_source=git)** | Towson, MD | On Site | Jul 25 |
 | **[Corewell Health](https://corewellhealth.org)** | **[Pharmacy Intern 1](https://jobright.ai/jobs/info/682fe118fb11d628442881b2?utm_campaign=1057&utm_source=git)** | Dearborn, MI | Hybrid | Jul 25 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/68679d7235584b654294d107?utm_campaign=1057&utm_source=git)** | Alexandria, LA | On Site | Jul 25 |
-| **[MathWorks](http://www.mathworks.com)** | **[University of Missouri, Columbia](https://jobright.ai/jobs/info/6867aded35584b6542e7d8c2?utm_campaign=1057&utm_source=git)** | Natick, MA | Hybrid | Jul 25 |
-| **[Kalamazoo Gospel Ministries](https://www.kzoogospel.org)** | **[Internship- Unpaid](https://jobright.ai/jobs/info/688341c06fcd973d15ae0c93?utm_campaign=1057&utm_source=git)** | Kalamazoo, MI | On Site | Jul 25 |
-| **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[CPE Undergraduate Student Teaching Fellows](https://jobright.ai/jobs/info/688337fb6fcd973d15ae09cd?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Jul 25 |
-| **[St. David's Center for Child and Family Development](https://www.stdavidscenter.org/)** | **[Dougherty Internship](https://jobright.ai/jobs/info/688335e1835a903aa07f4e69?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | Hybrid | Jul 25 |
-| **[WesleyLife](https://www.wesleylife.org)** | **[Exercise and Well-Being Intern](https://jobright.ai/jobs/info/687aa80d2097a271a8980d13?utm_campaign=1057&utm_source=git)** | Des Moines, IA | On Site | Jul 25 |
-| **[BrightSpring Health Services](https://www.brightspringhealth.com/)** | **[Mental Health Practitioner Intern](https://jobright.ai/jobs/info/6884733bb651c92cb78a887e?utm_campaign=1057&utm_source=git)** | St Paul, MN | On Site | Jul 24 |
-| **[AHRC NYC](https://www.linkedin.com/company/8945860)** | **[DSP Paid Internship Program - NYC Youth (18-24yrs. old)](https://jobright.ai/jobs/info/68831a706fcd973d15adf2eb?utm_campaign=1057&utm_source=git)** | New York County, NY | On Site | Jul 24 |
-| **[LattaHarris, LLP](https://www.lattaharris.com)** | **[2026 Spring Internship- Cedar Rapids](https://jobright.ai/jobs/info/68846038fbbf032d0006849a?utm_campaign=1057&utm_source=git)** | Cedar Rapids, IA | On Site | Jul 24 |
-| ↳ | **[2026 Spring Internship Iowa City](https://jobright.ai/jobs/info/68845fba4174df41e0f926dc?utm_campaign=1057&utm_source=git)** | Iowa City, IA | On Site | Jul 24 |
-| **[Pine Street Inn](https://www.pinestreetinn.org)** | **[Substance Abuse Clinician, Unpaid Intern](https://jobright.ai/jobs/info/68846324b651c92cb78a7da8?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Jul 24 |
-| **[Muckleshoot Indian Tribe](http://www.muckleshoot.nsn.us/default.aspx)** | **[Adult Work Training Program Participant](https://jobright.ai/jobs/info/6883129d6fcd973d15adef91?utm_campaign=1057&utm_source=git)** | Auburn, WA | On Site | Jul 24 |
-| **[University of Michigan](https://www.umich.edu)** | **[CIT Lab & Classroom Assistant (Student/Work Study)](https://jobright.ai/jobs/info/687b8578ed63844c944a8183?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Jul 24 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern - Investigative News Fall Internship](https://jobright.ai/jobs/info/688301876fcd973d15ade241?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Jul 24 |
-| **[The Association of Former Students](http://www.aggienetwork.com)** | **[Club Programs Student Assistant](https://jobright.ai/jobs/info/6882fe48b54cac0f1e7344fc?utm_campaign=1057&utm_source=git)** | College Station, TX | On Site | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
