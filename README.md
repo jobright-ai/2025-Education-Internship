@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/688605e04174df41e0f99972?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Jul 27 |
+| **[Drexel University](http://drexel.edu)** | **[Program Coordinator II - Tutoring](https://jobright.ai/jobs/info/6885fab34174df41e0f998e8?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Jul 27 |
 | **[City of New Berlin](http://www.NewBerlinWI.gov)** | **[Library Intern: Youth Services](https://jobright.ai/jobs/info/6885eecffbbf032d0006f6f4?utm_campaign=1057&utm_source=git)** | New Berlin, WI | Hybrid | Jul 27 |
 | **[Cherokee Nation](https://www.cherokee.org/)** | **[Intern - Education Services (Fall 2025)](https://jobright.ai/jobs/info/6885eeb1fbbf032d0006f6e9?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Jul 27 |
 | **[General Dynamics Land Systems](http://www.gdls.com)** | **[SkillBridge Intern (Transitioning Military Service Members)](https://jobright.ai/jobs/info/6885da42b651c92cb78ae870?utm_campaign=1057&utm_source=git)** | Sterling Heights, MI | On Site | Jul 27 |
@@ -75,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Visiting Assistant Professor - International Business](https://jobright.ai/jobs/info/6884efeb4174df41e0f959b5?utm_campaign=1057&utm_source=git)** | Lawrence, KS | On Site | Jul 26 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Research Volunteer Professional Placement (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803a1?utm_campaign=1057&utm_source=git)** | Stanford, CA | Hybrid | Jul 26 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2025 School Partnerships Intern: Fall](https://jobright.ai/jobs/info/68151c4f201cabf9bfdd40b1?utm_campaign=1057&utm_source=git)** | Bentonville, AR | On Site | Jul 26 |
-| **[Moxell](https://www.linkedin.com/company/31184082)** | **[Part Time Trading Bootcamp Intern](https://jobright.ai/jobs/info/6884e663b651c92cb78aaa3a?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Jul 26 |
 | **[CONSUMER DIRECTED SERVICES INC.](https://www.linkedin.com/company/61295339)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6884e2484174df41e0f9575f?utm_campaign=1057&utm_source=git)** | Elm Grove, LA | On Site | Jul 26 |
 | ↳ | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/6884e235b651c92cb78aa90c?utm_campaign=1057&utm_source=git)** | Deville, LA | On Site | Jul 26 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Husky Ranch + Wilderness Adventure Volunteer in Scotland](https://jobright.ai/jobs/info/68125ac8a6e41049a106c4f9?utm_campaign=1057&utm_source=git)** | New Haven, CT | On Site | Jul 26 |
@@ -127,7 +128,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student-PT Assistant](https://jobright.ai/jobs/info/688597fbfbbf032d0006d1a1?utm_campaign=1057&utm_source=git)** | Martinsburg, WV | On Site | Jul 26 |
 | **[Bridgewater State University](http://www.bridgew.edu/)** | **[AY25-26 Evening Weekend Program Coordinator (Work Study)](https://jobright.ai/jobs/info/68847383fbbf032d0006968e?utm_campaign=1057&utm_source=git)** | Bridgewater, MA | On Site | Jul 25 |
 | **[Poudre School District](http://www.psdschools.org)** | **[INTERNAL ONLY-2025-26 Dean Secondary School-Fort Collins High School](https://jobright.ai/jobs/info/688472eafbbf032d00069650?utm_campaign=1057&utm_source=git)** | Fort Collins, CO | On Site | Jul 25 |
-| **[University of Illinois Chicago (UIC) School of Public Health](https://publichealth.uic.edu)** | **[Director of Experiential Learning and Career Outcomes](https://jobright.ai/jobs/info/688503b0fbbf032d0006b9f2?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jul 25 |
 | **[Project Harmony Child Protection Center](https://projectharmony.com)** | **[Intern/Practicum Student - MSW/Clinical Mental Health](https://jobright.ai/jobs/info/688470a5b651c92cb78a86b4?utm_campaign=1057&utm_source=git)** | Omaha, NE | On Site | Jul 25 |
 | **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Student Research Assistant](https://jobright.ai/jobs/info/6876722d299cbc74b875d276?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Jul 25 |
 | **[University of Michigan](https://www.umich.edu)** | **[JuMP Student Assistant](https://jobright.ai/jobs/info/6885b680fbbf032d0006e596?utm_campaign=1057&utm_source=git)** | Dearborn, MI | On Site | Jul 25 |
@@ -154,7 +154,7 @@ For a complete list, click the following sortable link below:
 | **[CareOregon](https://www.careoregon.org/)** | **[Internship](https://jobright.ai/jobs/info/688421a16fcd973d15ae5b2d?utm_campaign=1057&utm_source=git)** | Portland, OR | Hybrid | Jul 25 |
 | **[Eagle Mountain-Saginaw ISD](https://www.emsisd.com/emsisd)** | **[STUDENT](https://jobright.ai/jobs/info/68843d2b4174df41e0f9050b?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Jul 25 |
 | **[City of San Antonio](http://www.sanantonio.gov)** | **[STUDENT INTERN I (UNPAID)](https://jobright.ai/jobs/info/68844491fbbf032d00066892?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jul 25 |
-| **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/688447cb4174df41e0f90cff?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Jul 25 |
+| **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/6884461efbbf032d000669b0?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Jul 25 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Intern](https://jobright.ai/jobs/info/688444e7b651c92cb78a5c81?utm_campaign=1057&utm_source=git)** | Flagstaff, AZ | On Site | Jul 25 |
 | **[North Memorial Health](https://northmemorial.com/)** | **[Respiratory Therapist Intern](https://jobright.ai/jobs/info/688411b1835a903aa07f9f94?utm_campaign=1057&utm_source=git)** | Twin Cities Area | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
