@@ -121,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[Powerback](https://www.getpowerback.com)** | **[Student-PT Assistant](https://jobright.ai/jobs/info/68849f114174df41e0f94f50?utm_campaign=1057&utm_source=git)** | O'Fallon, MO | On Site | Jul 26 |
 | ↳ | **[Student-PT Assistant](https://jobright.ai/jobs/info/68849f00b651c92cb78aa00e?utm_campaign=1057&utm_source=git)** | Bel Air, MD | On Site | Jul 26 |
 | **[Teacher of Arts (High school) Philosophy of the Arts (HKU)](https://www.hku.hk)** | **[Post-doctoral Fellow (several posts) at the Centre for Quantitative History (CQH)](https://jobright.ai/jobs/info/68849ec04174df41e0f94f36?utm_campaign=1057&utm_source=git)** | Carteret, NJ | On Site | Jul 26 |
-| **[City of Berkeley](https://www.cityofberkeley.info/)** | **[Youth Enrollee Intern](https://jobright.ai/jobs/info/68849e87fbbf032d0006ac5c?utm_campaign=1057&utm_source=git)** | Berkeley, CA | On Site | Jul 26 |
 | **[Powerback](https://www.getpowerback.com)** | **[Student-PT Assistant](https://jobright.ai/jobs/info/688598b0b651c92cb78ac55e?utm_campaign=1057&utm_source=git)** | Scranton, PA | On Site | Jul 26 |
 | ↳ | **[Student-PT Assistant](https://jobright.ai/jobs/info/688599024174df41e0f97444?utm_campaign=1057&utm_source=git)** | Reading, PA | On Site | Jul 26 |
 | ↳ | **[Student-PT Assistant](https://jobright.ai/jobs/info/6885988c4174df41e0f97400?utm_campaign=1057&utm_source=git)** | Lancaster, PA | On Site | Jul 26 |
@@ -147,7 +146,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6884433bb651c92cb78a5b95?utm_campaign=1057&utm_source=git)** | Northfield, NJ | On Site | Jul 25 |
 | **[Huntington Health](https://www.huntingtonhealth.org)** | **[Student Nurse Intern Per Diem Nights - Surgical](https://jobright.ai/jobs/info/68843d9a4174df41e0f90541?utm_campaign=1057&utm_source=git)** | Pasadena, CA | On Site | Jul 25 |
 | **[ACTS - Agency for Community Treatment Services](https://www.actsfl.org)** | **[Interns- All levels](https://jobright.ai/jobs/info/688502d0b651c92cb78aadfb?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Jul 25 |
-| **[Prime Nest Solutions](https://www.linkedin.com/company/100044646)** | **[Trading Bootcamp Intern - Part Time](https://jobright.ai/jobs/info/688434fc6fcd973d15ae658d?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Jul 25 |
 | **[TCW](http://www.tcw.com)** | **[Summer 2026 Internship Program](https://jobright.ai/jobs/info/68667359789cf3a749fffe4c?utm_campaign=1057&utm_source=git)** | Los Angeles County, CA | On Site | Jul 25 |
 | **[NKU Graduate Education](https://www.nku.edu/admissions/graduate.html)** | **[Asst. Dean, Undergraduate Students (internal only)](https://jobright.ai/jobs/info/68842eb86fcd973d15ae61b9?utm_campaign=1057&utm_source=git)** | Newport, KY | On Site | Jul 25 |
 | **[The Salvation Army USA Eastern Territory](http://easternusa.salvationarmy.org)** | **[Summer Program Aide](https://jobright.ai/jobs/info/68842e20835a903aa07faa26?utm_campaign=1057&utm_source=git)** | Bridgeport, CT | On Site | Jul 25 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Intern](https://jobright.ai/jobs/info/688426946fcd973d15ae5d4b?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | Jul 25 |
 | **[CareOregon](https://www.careoregon.org/)** | **[Internship](https://jobright.ai/jobs/info/688421a16fcd973d15ae5b2d?utm_campaign=1057&utm_source=git)** | Portland, OR | Hybrid | Jul 25 |
 | **[Eagle Mountain-Saginaw ISD](https://www.emsisd.com/emsisd)** | **[STUDENT](https://jobright.ai/jobs/info/68843d2b4174df41e0f9050b?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Jul 25 |
+| **[City of San Antonio](http://www.sanantonio.gov)** | **[STUDENT INTERN I (UNPAID)](https://jobright.ai/jobs/info/68844491fbbf032d00066892?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jul 25 |
+| **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/688447cb4174df41e0f90cff?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
