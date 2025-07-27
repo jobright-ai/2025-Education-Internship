@@ -57,14 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Year Up United](http://yearup.org)** | **[Project Management Job Training Program](https://jobright.ai/jobs/info/68863a194174df41e0f99e52?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Jul 27 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Virtual Student Presenter at Campus NIL Corporation](https://jobright.ai/jobs/info/688617f1fbbf032d0006f8d1?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jul 27 |
-| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/688605e04174df41e0f99972?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Jul 27 |
-| **[Drexel University](http://drexel.edu)** | **[Program Coordinator II - Tutoring](https://jobright.ai/jobs/info/6885fab34174df41e0f998e8?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Jul 27 |
 | **[City of New Berlin](http://www.NewBerlinWI.gov)** | **[Library Intern: Youth Services](https://jobright.ai/jobs/info/6885eecffbbf032d0006f6f4?utm_campaign=1057&utm_source=git)** | New Berlin, WI | Hybrid | Jul 27 |
 | **[Cherokee Nation](https://www.cherokee.org/)** | **[Intern - Education Services (Fall 2025)](https://jobright.ai/jobs/info/6885eeb1fbbf032d0006f6e9?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Jul 27 |
 | **[General Dynamics Land Systems](http://www.gdls.com)** | **[SkillBridge Intern (Transitioning Military Service Members)](https://jobright.ai/jobs/info/6885da42b651c92cb78ae870?utm_campaign=1057&utm_source=git)** | Sterling Heights, MI | On Site | Jul 27 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Instructor, Advertising Public Relations and Director of Creative Services - 526696](https://jobright.ai/jobs/info/6885d6dcb651c92cb78ae46b?utm_campaign=1057&utm_source=git)** | Tuscaloosa, AL | On Site | Jul 26 |
 | **[Education Service Center Region 13 ](https://esc13.net)** | **[2025/26 Aspiring Administrator Academy (INTERNAL APPLICANTS ONLY)](https://jobright.ai/jobs/info/6885a791fbbf032d0006ddcb?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Jul 26 |
+| **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Intern/Graduate Student- Radiology, Fall 2025](https://jobright.ai/jobs/info/688194e2f4f06100f3a27fad?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | Jul 26 |
 | **[UIC Tutorium](https://tutorium.uic.edu/)** | **[Clinical Physician – Correctional Medicine / Family or Internal Medicine Faculty](https://jobright.ai/jobs/info/688580be4174df41e0f96ca1?utm_campaign=1057&utm_source=git)** | Rockford, IL | On Site | Jul 26 |
 | **[Jobright.ai](https://jobright.ai)** | **[Board Certified Behavior Analyst - Remote - Internship](https://jobright.ai/jobs/info/688568a64174df41e0f969b2?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 26 |
 | **[New England Homes for the Deaf](http://nehd.org/)** | **[Activities Assistant Volunteer](https://jobright.ai/jobs/info/68855e9ab651c92cb78ab9fc?utm_campaign=1057&utm_source=git)** | Danvers, MA | On Site | Jul 26 |
@@ -72,9 +72,9 @@ For a complete list, click the following sortable link below:
 | **[University of La Verne](http://laverne.edu)** | **[Natural Science Division Student Assistant (25/26) - NFWS (Student)](https://jobright.ai/jobs/info/688553dffbbf032d0006c57f?utm_campaign=1057&utm_source=git)** | La Verne, CA | On Site | Jul 26 |
 | ↳ | **[Law Library in Ontario - Law Library Academic Support Specialist (2025/2026)](https://jobright.ai/jobs/info/6885902dfbbf032d0006ce6a?utm_campaign=1057&utm_source=git)** | La Verne, CA | On Site | Jul 26 |
 | ↳ | **[Digital Media Student Assistant (2005-2026) - FWS ONLY](https://jobright.ai/jobs/info/688546354174df41e0f96754?utm_campaign=1057&utm_source=git)** | La Verne, CA | On Site | Jul 26 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Senior Coordinator - Student Success - PAC - req12885](https://jobright.ai/jobs/info/688541474174df41e0f966fa?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jul 26 |
 | **[Catholic Charities Serving Central Washington](https://catholiccharitiescw.org)** | **[Internship - Counseling or Social Work](https://jobright.ai/jobs/info/688511bdb651c92cb78ab268?utm_campaign=1057&utm_source=git)** | Yakima, WA | On Site | Jul 26 |
 | **[Year Up United](http://yearup.org)** | **[Computer Systems Administration Job Training Program](https://jobright.ai/jobs/info/68851092b651c92cb78ab1fe?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Jul 26 |
+| **[University of Puget Sound](http://pugetsound.edu)** | **[School of Business and Leadership Program Coordinator](https://jobright.ai/jobs/info/68864907fbbf032d0006feea?utm_campaign=1057&utm_source=git)** | Tacoma, WA | On Site | Jul 26 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Visiting Assistant Professor - International Business](https://jobright.ai/jobs/info/6884efeb4174df41e0f959b5?utm_campaign=1057&utm_source=git)** | Lawrence, KS | On Site | Jul 26 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Research Volunteer Professional Placement (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803a1?utm_campaign=1057&utm_source=git)** | Stanford, CA | Hybrid | Jul 26 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2025 School Partnerships Intern: Fall](https://jobright.ai/jobs/info/68151c4f201cabf9bfdd40b1?utm_campaign=1057&utm_source=git)** | Bentonville, AR | On Site | Jul 26 |
@@ -118,11 +118,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student-PT Assistant](https://jobright.ai/jobs/info/68849f00b651c92cb78aa00e?utm_campaign=1057&utm_source=git)** | Bel Air, MD | On Site | Jul 26 |
 | **[Teacher of Arts (High school) Philosophy of the Arts (HKU)](https://www.hku.hk)** | **[Post-doctoral Fellow (several posts) at the Centre for Quantitative History (CQH)](https://jobright.ai/jobs/info/68849ec04174df41e0f94f36?utm_campaign=1057&utm_source=git)** | Carteret, NJ | On Site | Jul 26 |
 | **[City of Berkeley](https://www.cityofberkeley.info/)** | **[Youth Enrollee Intern](https://jobright.ai/jobs/info/68849e87fbbf032d0006ac5c?utm_campaign=1057&utm_source=git)** | Berkeley, CA | On Site | Jul 26 |
-| **[Powerback](https://www.getpowerback.com)** | **[Student-PT Assistant](https://jobright.ai/jobs/info/688599024174df41e0f97444?utm_campaign=1057&utm_source=git)** | Reading, PA | On Site | Jul 26 |
-| ↳ | **[Student-PT Assistant](https://jobright.ai/jobs/info/688598b0b651c92cb78ac55e?utm_campaign=1057&utm_source=git)** | Scranton, PA | On Site | Jul 26 |
+| **[Powerback](https://www.getpowerback.com)** | **[Student-PT Assistant](https://jobright.ai/jobs/info/688598b0b651c92cb78ac55e?utm_campaign=1057&utm_source=git)** | Scranton, PA | On Site | Jul 26 |
+| ↳ | **[Student-PT Assistant](https://jobright.ai/jobs/info/688599024174df41e0f97444?utm_campaign=1057&utm_source=git)** | Reading, PA | On Site | Jul 26 |
 | ↳ | **[Student-PT Assistant](https://jobright.ai/jobs/info/6885988c4174df41e0f97400?utm_campaign=1057&utm_source=git)** | Lancaster, PA | On Site | Jul 26 |
-| ↳ | **[Student-PT Assistant](https://jobright.ai/jobs/info/68859882b651c92cb78ac546?utm_campaign=1057&utm_source=git)** | Belen, NM | On Site | Jul 26 |
 | ↳ | **[Student-PT Assistant](https://jobright.ai/jobs/info/688597f0fbbf032d0006d18f?utm_campaign=1057&utm_source=git)** | Exeter, NH | On Site | Jul 26 |
+| ↳ | **[Student-PT Assistant](https://jobright.ai/jobs/info/68859882b651c92cb78ac546?utm_campaign=1057&utm_source=git)** | Belen, NM | On Site | Jul 26 |
 | ↳ | **[Student-PT Assistant](https://jobright.ai/jobs/info/68859820b651c92cb78ac515?utm_campaign=1057&utm_source=git)** | Omaha, NE | On Site | Jul 26 |
 | ↳ | **[Student-PT Assistant](https://jobright.ai/jobs/info/6885998eb651c92cb78ac5e3?utm_campaign=1057&utm_source=git)** | Coraopolis, PA | On Site | Jul 26 |
 | ↳ | **[Student-PT Assistant](https://jobright.ai/jobs/info/688598264174df41e0f973b5?utm_campaign=1057&utm_source=git)** | Rochester, MI | On Site | Jul 26 |
@@ -154,7 +154,7 @@ For a complete list, click the following sortable link below:
 | **[CareOregon](https://www.careoregon.org/)** | **[Internship](https://jobright.ai/jobs/info/688421a16fcd973d15ae5b2d?utm_campaign=1057&utm_source=git)** | Portland, OR | Hybrid | Jul 25 |
 | **[Eagle Mountain-Saginaw ISD](https://www.emsisd.com/emsisd)** | **[STUDENT](https://jobright.ai/jobs/info/68843d2b4174df41e0f9050b?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Jul 25 |
 | **[City of San Antonio](http://www.sanantonio.gov)** | **[STUDENT INTERN I (UNPAID)](https://jobright.ai/jobs/info/68844491fbbf032d00066892?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jul 25 |
-| **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/6884461efbbf032d000669b0?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Jul 25 |
+| **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/688447cb4174df41e0f90cff?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Jul 25 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Intern](https://jobright.ai/jobs/info/688444e7b651c92cb78a5c81?utm_campaign=1057&utm_source=git)** | Flagstaff, AZ | On Site | Jul 25 |
 | **[North Memorial Health](https://northmemorial.com/)** | **[Respiratory Therapist Intern](https://jobright.ai/jobs/info/688411b1835a903aa07f9f94?utm_campaign=1057&utm_source=git)** | Twin Cities Area | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
