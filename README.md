@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of New Berlin](http://www.NewBerlinWI.gov)** | **[Library Intern: Youth Services](https://jobright.ai/jobs/info/6885eecffbbf032d0006f6f4?utm_campaign=1057&utm_source=git)** | New Berlin, WI | Hybrid | Jul 27 |
+| **[Cherokee Nation](https://www.cherokee.org/)** | **[Intern - Education Services (Fall 2025)](https://jobright.ai/jobs/info/6885eeb1fbbf032d0006f6e9?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Jul 27 |
 | **[General Dynamics Land Systems](http://www.gdls.com)** | **[SkillBridge Intern (Transitioning Military Service Members)](https://jobright.ai/jobs/info/6885da42b651c92cb78ae870?utm_campaign=1057&utm_source=git)** | Sterling Heights, MI | On Site | Jul 27 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Instructor, Advertising Public Relations and Director of Creative Services - 526696](https://jobright.ai/jobs/info/6885d6dcb651c92cb78ae46b?utm_campaign=1057&utm_source=git)** | Tuscaloosa, AL | On Site | Jul 26 |
 | **[Education Service Center Region 13 ](https://esc13.net)** | **[2025/26 Aspiring Administrator Academy (INTERNAL APPLICANTS ONLY)](https://jobright.ai/jobs/info/6885a791fbbf032d0006ddcb?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Jul 26 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | **[CareOregon](https://www.careoregon.org/)** | **[Internship](https://jobright.ai/jobs/info/688421a16fcd973d15ae5b2d?utm_campaign=1057&utm_source=git)** | Portland, OR | Hybrid | Jul 25 |
 | **[Eagle Mountain-Saginaw ISD](https://www.emsisd.com/emsisd)** | **[STUDENT](https://jobright.ai/jobs/info/68843d2b4174df41e0f9050b?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Jul 25 |
 | **[City of San Antonio](http://www.sanantonio.gov)** | **[STUDENT INTERN I (UNPAID)](https://jobright.ai/jobs/info/68844491fbbf032d00066892?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jul 25 |
-| **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/6884461efbbf032d000669b0?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Jul 25 |
+| **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/688447cb4174df41e0f90cff?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Jul 25 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Intern](https://jobright.ai/jobs/info/688444e7b651c92cb78a5c81?utm_campaign=1057&utm_source=git)** | Flagstaff, AZ | On Site | Jul 25 |
 | **[North Memorial Health](https://northmemorial.com/)** | **[Respiratory Therapist Intern](https://jobright.ai/jobs/info/688411b1835a903aa07f9f94?utm_campaign=1057&utm_source=git)** | Twin Cities Area | On Site | Jul 25 |
-| **[American University](http://american.edu)** | **[CECE Postdoctoral Fellow](https://jobright.ai/jobs/info/68844799b651c92cb78a5e71?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Jul 25 |
-| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Public Engagement Intern (Fall 2025) at Smithsonian Environmental Research Center](https://jobright.ai/jobs/info/68844932fbbf032d00066bde?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
