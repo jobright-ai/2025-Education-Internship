@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PhDFinder](Phdfinder.com)** | **[[Expired] Postdoctoral Opportunity in Organizational Behavior – Diversity, Inclusion, and Work Relationships](https://jobright.ai/jobs/info/688669704174df41e0f9a26a?utm_campaign=1057&utm_source=git)** | Delaware County, PA | Hybrid | Jul 27 |
 | **[Erie Community College](http://www.ecc.edu/)** | **[Asst Project Coord - Student Engagement](https://jobright.ai/jobs/info/6886615e4174df41e0f9a213?utm_campaign=1057&utm_source=git)** | New York, United States | On Site | Jul 27 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Intern - IL Chicago](https://jobright.ai/jobs/info/67f8a9eb7d95fe4250176a44?utm_campaign=1057&utm_source=git)** | Iowa City, IA | Hybrid | Jul 27 |
 | **[Year Up United](http://yearup.org)** | **[Project Management Job Training Program](https://jobright.ai/jobs/info/68863a194174df41e0f99e52?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Jul 27 |
@@ -64,7 +65,6 @@ For a complete list, click the following sortable link below:
 | **[City of New Berlin](http://www.NewBerlinWI.gov)** | **[Library Intern: Youth Services](https://jobright.ai/jobs/info/6885eecffbbf032d0006f6f4?utm_campaign=1057&utm_source=git)** | New Berlin, WI | Hybrid | Jul 27 |
 | **[Cherokee Nation](https://www.cherokee.org/)** | **[Intern - Education Services (Fall 2025)](https://jobright.ai/jobs/info/6885eeb1fbbf032d0006f6e9?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Jul 27 |
 | **[General Dynamics Land Systems](http://www.gdls.com)** | **[SkillBridge Intern (Transitioning Military Service Members)](https://jobright.ai/jobs/info/6885da42b651c92cb78ae870?utm_campaign=1057&utm_source=git)** | Sterling Heights, MI | On Site | Jul 27 |
-| **[CHEManager International](https://www.chemanager-online.com/en)** | **[Instructor, Advertising Public Relations and Director of Creative Services - 526696](https://jobright.ai/jobs/info/6885d6dcb651c92cb78ae46b?utm_campaign=1057&utm_source=git)** | Tuscaloosa, AL | On Site | Jul 26 |
 | **[Education Service Center Region 13 ](https://esc13.net)** | **[2025/26 Aspiring Administrator Academy (INTERNAL APPLICANTS ONLY)](https://jobright.ai/jobs/info/6885a791fbbf032d0006ddcb?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Jul 26 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Intern/Graduate Student- Radiology, Fall 2025](https://jobright.ai/jobs/info/688194e2f4f06100f3a27fad?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | Jul 26 |
 | **[UIC Tutorium](https://tutorium.uic.edu/)** | **[Clinical Physician – Correctional Medicine / Family or Internal Medicine Faculty](https://jobright.ai/jobs/info/688580be4174df41e0f96ca1?utm_campaign=1057&utm_source=git)** | Rockford, IL | On Site | Jul 26 |
@@ -76,6 +76,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Media Student Assistant (2005-2026) - FWS ONLY](https://jobright.ai/jobs/info/688546354174df41e0f96754?utm_campaign=1057&utm_source=git)** | La Verne, CA | On Site | Jul 26 |
 | **[Catholic Charities Serving Central Washington](https://catholiccharitiescw.org)** | **[Internship - Counseling or Social Work](https://jobright.ai/jobs/info/688511bdb651c92cb78ab268?utm_campaign=1057&utm_source=git)** | Yakima, WA | On Site | Jul 26 |
 | **[Year Up United](http://yearup.org)** | **[Computer Systems Administration Job Training Program](https://jobright.ai/jobs/info/68851092b651c92cb78ab1fe?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Jul 26 |
+| **[CareerVillage.org](https://careervillage.org/)** | **[Learning Opportunity for Students Interested in Education Management](https://jobright.ai/jobs/info/67c0260ef283c02615bf4749?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 26 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Husky Ranch + Wilderness Adventure Volunteer in Scotland](https://jobright.ai/jobs/info/68126730828e2b4909601cf8?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 26 |
 | **[University of Puget Sound](http://pugetsound.edu)** | **[School of Business and Leadership Program Coordinator](https://jobright.ai/jobs/info/68864907fbbf032d0006feea?utm_campaign=1057&utm_source=git)** | Tacoma, WA | On Site | Jul 26 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Visiting Assistant Professor - International Business](https://jobright.ai/jobs/info/6884efeb4174df41e0f959b5?utm_campaign=1057&utm_source=git)** | Lawrence, KS | On Site | Jul 26 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Research Volunteer Professional Placement (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803a1?utm_campaign=1057&utm_source=git)** | Stanford, CA | Hybrid | Jul 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Intern](https://jobright.ai/jobs/info/688426946fcd973d15ae5d4b?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | Jul 25 |
 | **[CareOregon](https://www.careoregon.org/)** | **[Internship](https://jobright.ai/jobs/info/688421a16fcd973d15ae5b2d?utm_campaign=1057&utm_source=git)** | Portland, OR | Hybrid | Jul 25 |
 | **[Eagle Mountain-Saginaw ISD](https://www.emsisd.com/emsisd)** | **[STUDENT](https://jobright.ai/jobs/info/68843d2b4174df41e0f9050b?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Jul 25 |
-| **[City of San Antonio](http://www.sanantonio.gov)** | **[STUDENT INTERN I (UNPAID)](https://jobright.ai/jobs/info/68844491fbbf032d00066892?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jul 25 |
-| **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/688447cb4174df41e0f90cff?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
