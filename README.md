@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Dynamics Land Systems](http://www.gdls.com)** | **[SkillBridge Intern (Transitioning Military Service Members)](https://jobright.ai/jobs/info/6885da42b651c92cb78ae870?utm_campaign=1057&utm_source=git)** | Sterling Heights, MI | On Site | Jul 27 |
+| **[CHEManager International](https://www.chemanager-online.com/en)** | **[Instructor, Advertising Public Relations and Director of Creative Services - 526696](https://jobright.ai/jobs/info/6885d6dcb651c92cb78ae46b?utm_campaign=1057&utm_source=git)** | Tuscaloosa, AL | On Site | Jul 26 |
 | **[Education Service Center Region 13 ](https://esc13.net)** | **[2025/26 Aspiring Administrator Academy (INTERNAL APPLICANTS ONLY)](https://jobright.ai/jobs/info/6885a791fbbf032d0006ddcb?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Jul 26 |
 | **[UIC Tutorium](https://tutorium.uic.edu/)** | **[Clinical Physician – Correctional Medicine / Family or Internal Medicine Faculty](https://jobright.ai/jobs/info/688580be4174df41e0f96ca1?utm_campaign=1057&utm_source=git)** | Rockford, IL | On Site | Jul 26 |
 | **[Jobright.ai](https://jobright.ai)** | **[Board Certified Behavior Analyst - Remote - Internship](https://jobright.ai/jobs/info/688568a64174df41e0f969b2?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 26 |
@@ -126,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[University of Illinois Chicago (UIC) School of Public Health](https://publichealth.uic.edu)** | **[Director of Experiential Learning and Career Outcomes](https://jobright.ai/jobs/info/688503b0fbbf032d0006b9f2?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jul 25 |
 | **[Project Harmony Child Protection Center](https://projectharmony.com)** | **[Intern/Practicum Student - MSW/Clinical Mental Health](https://jobright.ai/jobs/info/688470a5b651c92cb78a86b4?utm_campaign=1057&utm_source=git)** | Omaha, NE | On Site | Jul 25 |
 | **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Student Research Assistant](https://jobright.ai/jobs/info/6876722d299cbc74b875d276?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Jul 25 |
-| **[New Story ](https://www.newstory.com/)** | **[School Psychology Intern](https://jobright.ai/jobs/info/6885beb1fbbf032d0006e977?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Jul 25 |
 | **[University of Michigan](https://www.umich.edu)** | **[JuMP Student Assistant](https://jobright.ai/jobs/info/6885b680fbbf032d0006e596?utm_campaign=1057&utm_source=git)** | Dearborn, MI | On Site | Jul 25 |
 | **[Jobright.ai](https://jobright.ai)** | **[IT Professional Development Program, Internship](https://jobright.ai/jobs/info/688460ae4174df41e0f927a4?utm_campaign=1057&utm_source=git)** | Portage, MI | On Site | Jul 25 |
 | **[Shepherd University](https://www.shepherd.edu/)** | **[Student Swim Instructor/Certification Class Instructor](https://jobright.ai/jobs/info/68859f904174df41e0f97694?utm_campaign=1057&utm_source=git)** | Shepherdstown, WV | On Site | Jul 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[North Memorial Health](https://northmemorial.com/)** | **[Respiratory Therapist Intern](https://jobright.ai/jobs/info/688411b1835a903aa07f9f94?utm_campaign=1057&utm_source=git)** | Twin Cities Area | On Site | Jul 25 |
 | **[American University](http://american.edu)** | **[CECE Postdoctoral Fellow](https://jobright.ai/jobs/info/68844799b651c92cb78a5e71?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Jul 25 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Public Engagement Intern (Fall 2025) at Smithsonian Environmental Research Center](https://jobright.ai/jobs/info/68844932fbbf032d00066bde?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jul 25 |
-| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Elementary Counselor and Interns](https://jobright.ai/jobs/info/68844a4ab651c92cb78a602d?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
