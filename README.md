@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Virtual Student Presenter at Campus NIL Corporation](https://jobright.ai/jobs/info/688617f1fbbf032d0006f8d1?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jul 27 |
 | **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/688605e04174df41e0f99972?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Jul 27 |
 | **[Drexel University](http://drexel.edu)** | **[Program Coordinator II - Tutoring](https://jobright.ai/jobs/info/6885fab34174df41e0f998e8?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Jul 27 |
 | **[City of New Berlin](http://www.NewBerlinWI.gov)** | **[Library Intern: Youth Services](https://jobright.ai/jobs/info/6885eecffbbf032d0006f6f4?utm_campaign=1057&utm_source=git)** | New Berlin, WI | Hybrid | Jul 27 |
@@ -149,7 +150,6 @@ For a complete list, click the following sortable link below:
 | **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[Research Security Student Assistant - Fall 2025 - RS](https://jobright.ai/jobs/info/68842bb46fcd973d15ae60ee?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jul 25 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist (BHIP Psychotherapist)](https://jobright.ai/jobs/info/688449f3fbbf032d00066cde?utm_campaign=1057&utm_source=git)** | Tucson, AZ | On Site | Jul 25 |
 | **[Project Harmony Child Protection Center](https://projectharmony.com)** | **[Intern/Practicum Student - MSW/Clinical Mental Health](https://jobright.ai/jobs/info/68842851835a903aa07fa851?utm_campaign=1057&utm_source=git)** | Omaha | On Site | Jul 25 |
-| **[City of Lauderhill](http://www.lauderhill-fl.gov)** | **[College Intern](https://jobright.ai/jobs/info/68856edafbbf032d0006c787?utm_campaign=1057&utm_source=git)** | Lauderhill, FL | On Site | Jul 25 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Intern](https://jobright.ai/jobs/info/688426946fcd973d15ae5d4b?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | Jul 25 |
 | **[CareOregon](https://www.careoregon.org/)** | **[Internship](https://jobright.ai/jobs/info/688421a16fcd973d15ae5b2d?utm_campaign=1057&utm_source=git)** | Portland, OR | Hybrid | Jul 25 |
 | **[Eagle Mountain-Saginaw ISD](https://www.emsisd.com/emsisd)** | **[STUDENT](https://jobright.ai/jobs/info/68843d2b4174df41e0f9050b?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Jul 25 |
