@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6886d867b651c92cb78afc2d?utm_campaign=1057&utm_source=git)** | Little Rock, AR | On Site | Jul 27 |
+| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6886d83eb651c92cb78afc17?utm_campaign=1057&utm_source=git)** | Odessa, TX | On Site | Jul 27 |
+| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6886d7ac4174df41e0f9aa26?utm_campaign=1057&utm_source=git)** | Heidenheimer, TX | On Site | Jul 27 |
+| **[UIC Tutorium](https://tutorium.uic.edu/)** | **[Teaching Assistant Learning Design - Learning Technology Solutions](https://jobright.ai/jobs/info/6886cdbffbbf032d0007080e?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jul 27 |
+| **[UC Santa Barbara](https://www.ucsb.edu/)** | **[Capital Internship Program Advisor (UCDC / UCCS)](https://jobright.ai/jobs/info/6886c4a7fbbf032d000706cb?utm_campaign=1057&utm_source=git)** | Santa Barbara, CA | On Site | Jul 27 |
 | **[Chattanooga Zoo](http://www.chattzoo.org)** | **[2025 Fall Internship - Vet Tech / Rehab](https://jobright.ai/jobs/info/6886b559fbbf032d000705e6?utm_campaign=1057&utm_source=git)** | Chattanooga, TN | On Site | Jul 27 |
 | **[O&G Industries, Inc.](http://ogind.com)** | **[Summer Interns 2026](https://jobright.ai/jobs/info/6886ad49fbbf032d0007056b?utm_campaign=1057&utm_source=git)** | Torrington, CT | On Site | Jul 27 |
 | **[Chattanooga Zoo](http://www.chattzoo.org)** | **[2025 Fall Internship - Animal Care](https://jobright.ai/jobs/info/6886a7764174df41e0f9a6ce?utm_campaign=1057&utm_source=git)** | Chattanooga, TN | On Site | Jul 27 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6884433bb651c92cb78a5b95?utm_campaign=1057&utm_source=git)** | Northfield, NJ | On Site | Jul 25 |
 | **[Huntington Health](https://www.huntingtonhealth.org)** | **[Student Nurse Intern Per Diem Nights - Surgical](https://jobright.ai/jobs/info/68843d9a4174df41e0f90541?utm_campaign=1057&utm_source=git)** | Pasadena, CA | On Site | Jul 25 |
 | **[ACTS - Agency for Community Treatment Services](https://www.actsfl.org)** | **[Interns- All levels](https://jobright.ai/jobs/info/688502d0b651c92cb78aadfb?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Jul 25 |
-| **[TCW](http://www.tcw.com)** | **[Summer 2026 Internship Program](https://jobright.ai/jobs/info/68667359789cf3a749fffe4c?utm_campaign=1057&utm_source=git)** | Los Angeles County, CA | On Site | Jul 25 |
-| **[NKU Graduate Education](https://www.nku.edu/admissions/graduate.html)** | **[Asst. Dean, Undergraduate Students (internal only)](https://jobright.ai/jobs/info/68842eb86fcd973d15ae61b9?utm_campaign=1057&utm_source=git)** | Newport, KY | On Site | Jul 25 |
-| **[The Salvation Army USA Eastern Territory](http://easternusa.salvationarmy.org)** | **[Summer Program Aide](https://jobright.ai/jobs/info/68842e20835a903aa07faa26?utm_campaign=1057&utm_source=git)** | Bridgeport, CT | On Site | Jul 25 |
-| **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[Research Security Student Assistant - Fall 2025 - RS](https://jobright.ai/jobs/info/68842bb46fcd973d15ae60ee?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jul 25 |
-| **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist (BHIP Psychotherapist)](https://jobright.ai/jobs/info/688449f3fbbf032d00066cde?utm_campaign=1057&utm_source=git)** | Tucson, AZ | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
