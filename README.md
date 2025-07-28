@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dallas College](https://www.dcccd.edu)** | **[FWS-Administrative Support-Student Assistant (Basic Needs Irving Workforce Center)](https://jobright.ai/jobs/info/6887b70bfbbf032d00075e26?utm_campaign=1057&utm_source=git)** | North Lake Campus | On Site | Jul 28 |
+| **[City of Georgetown](https://www.georgetowntexas.gov)** | **[Art Center Student Intern (Fall, 2025)](https://jobright.ai/jobs/info/6887b6844174df41e0f9ff52?utm_campaign=1057&utm_source=git)** | Georgetown Arts Center | On Site | Jul 28 |
+| **[HealthCorps](https://www.HealthCorps.org)** | **[Teen Health Education Intern](https://jobright.ai/jobs/info/6887b2f573e3e13cbd93f5f2?utm_campaign=1057&utm_source=git)** | Piketon, OH | On Site | Jul 28 |
+| **[Excel Sports Management](http://www.excelsm.com)** | **[Fall 2025 Associate, Sports Performance](https://jobright.ai/jobs/info/6887ae9ffbbf032d00075a02?utm_campaign=1057&utm_source=git)** | Irvine, California, United States | On Site | Jul 28 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Intern - UT Saratoga Springs](https://jobright.ai/jobs/info/6887aac54174df41e0f9f946?utm_campaign=1057&utm_source=git)** | Saratoga Springs, UT, United States | On Site | Jul 28 |
+| **[MarketEQ](https://www.linkedin.com/company/77759425)** | **[Instructional Design Internship](https://jobright.ai/jobs/info/6887a7e14174df41e0f9f73a?utm_campaign=1057&utm_source=git)** | United States | Hybrid | Jul 28 |
+| **[Botany and Plant Pathology Department at Purdue University](https://ag.purdue.edu/btny/Pages/default.aspx)** | **[Graduate Student Proctor - Purdue Testing Services](https://jobright.ai/jobs/info/6887a7a34174df41e0f9f71b?utm_campaign=1057&utm_source=git)** | West Lafayette, IN | On Site | Jul 28 |
 | **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[College Intern - Children's Village](https://jobright.ai/jobs/info/68879dcb73e3e13cbd93ec49?utm_campaign=1057&utm_source=git)** | US-MI-Pontiac | On Site | Jul 28 |
 | **[County of San Diego](http://www.sdcounty.ca.gov)** | **[Student Worker-19090504-Undergraduate, Graduate/Tech and High School](https://jobright.ai/jobs/info/688797d54174df41e0f9f150?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Jul 28 |
 | **[Berklee College of Music](http://berklee.edu)** | **[Accessibility Resources Testing Center Graduate Proctor](https://jobright.ai/jobs/info/688797c273e3e13cbd93e967?utm_campaign=1057&utm_source=git)** | Berklee College of Music - Boston | On Site | Jul 28 |
@@ -78,14 +85,10 @@ For a complete list, click the following sortable link below:
 | **[Year Up United](http://yearup.org)** | **[Project Management Job Training Program](https://jobright.ai/jobs/info/688725e5fbbf032d00072d4f?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Jul 28 |
 | **[Commonwealth of Pennsylvania](http://www.arts.pa.gov)** | **[Aide Trainee - Ebensburg Center (2nd shift)](https://jobright.ai/jobs/info/688724f4b651c92cb78b1ff9?utm_campaign=1057&utm_source=git)** | Cambria County, PA | On Site | Jul 28 |
 | **[San Jacinto College](http://www.sanjac.edu/)** | **[Student Records Specialist](https://jobright.ai/jobs/info/68870c164174df41e0f9c9e3?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jul 27 |
-| **[NPower](http://www.npower.org/)** | **[Audio Visual Support - Tech Training Opportunity](https://jobright.ai/jobs/info/6886fe1a4174df41e0f9bcbe?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Jul 27 |
-| ↳ | **[Desktop Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/6886fddeb651c92cb78b0e39?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Jul 27 |
-| ↳ | **[Business Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/6886fdc84174df41e0f9bc88?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Jul 27 |
 | **[Raymond James](http://www.raymondjames.com)** | **[2026 Summer Internship Program - Information Technology (St. Petersburg or Jersey City)](https://jobright.ai/jobs/info/6886fc204174df41e0f9bc58?utm_campaign=1057&utm_source=git)** | FL - Saint Petersburg - 880 Carillon Pkwy Tower 1 | Hybrid | Jul 27 |
 | ↳ | **[2026 Summer Internship Program - Information Technology (St. Petersburg or Jersey City)](https://jobright.ai/jobs/info/6886fc05fbbf032d00071a5b?utm_campaign=1057&utm_source=git)** | Jersey City, New Jersey - United States | Hybrid | Jul 27 |
 | **[NPower](http://www.npower.org/)** | **[Audio Visual Support - Tech Training Opportunity](https://jobright.ai/jobs/info/6886f30ab651c92cb78b0a1e?utm_campaign=1057&utm_source=git)** | Newark, NJ | On Site | Jul 27 |
 | ↳ | **[Audio Visual Support - Tech Training Opportunity](https://jobright.ai/jobs/info/6886f289fbbf032d0007168d?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Jul 27 |
-| ↳ | **[Helpdesk Level 1 - Tech Training Opportunity](https://jobright.ai/jobs/info/6886f23b4174df41e0f9b857?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | Jul 27 |
 | ↳ | **[Audio Visual Support - Tech Training Opportunity](https://jobright.ai/jobs/info/6886f2224174df41e0f9b851?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | Jul 27 |
 | ↳ | **[Desktop Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/6886f1fb4174df41e0f9b842?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jul 27 |
 | ↳ | **[Business Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/6886f0f3fbbf032d0007166b?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Jul 27 |
@@ -108,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[UC Santa Barbara](https://www.ucsb.edu/)** | **[Capital Internship Program Advisor (UCDC / UCCS)](https://jobright.ai/jobs/info/6886c4a7fbbf032d000706cb?utm_campaign=1057&utm_source=git)** | Santa Barbara, CA | On Site | Jul 27 |
 | **[O&G Industries, Inc.](http://ogind.com)** | **[Summer Interns 2026](https://jobright.ai/jobs/info/6886ad49fbbf032d0007056b?utm_campaign=1057&utm_source=git)** | Torrington, CT | On Site | Jul 27 |
 | **[Erie Community College](http://www.ecc.edu/)** | **[Asst Project Coord - Student Engagement](https://jobright.ai/jobs/info/6886615e4174df41e0f9a213?utm_campaign=1057&utm_source=git)** | New York, United States | On Site | Jul 27 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Co-op - Crew Resources - Training Analytics - Pilot Learner Experience and Strategy (Spring, 2025)](https://jobright.ai/jobs/info/688799e173e3e13cbd93ea93?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jul 27 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Intern - IL Chicago](https://jobright.ai/jobs/info/67f8a9eb7d95fe4250176a44?utm_campaign=1057&utm_source=git)** | Iowa City, IA | Hybrid | Jul 27 |
 | **[Year Up United](http://yearup.org)** | **[Project Management Job Training Program](https://jobright.ai/jobs/info/68863a194174df41e0f99e52?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Jul 27 |
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Summer Temp - Research Assistant](https://jobright.ai/jobs/info/67f6a0327c264810bea5efa2?utm_campaign=1057&utm_source=git)** | Lynchburg, VA | Hybrid | Jul 27 |
@@ -117,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[Corewell Health](https://corewellhealth.org)** | **[Pharmacy Intern 1](https://jobright.ai/jobs/info/682f8d8948fd3d58a7042e5c?utm_campaign=1057&utm_source=git)** | Dearborn, MI | Hybrid | Jul 27 |
 | **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Health Information Technologist](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36af?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 27 |
 | **[Cherokee Nation](https://www.cherokee.org/)** | **[Intern - Education Services (Fall 2025)](https://jobright.ai/jobs/info/6885eeb1fbbf032d0006f6e9?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Jul 27 |
-| **[Year Up United](http://yearup.org)** | **[Software Job Training Program](https://jobright.ai/jobs/info/68807ded9f7280424570be43?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Jul 27 |
 | **[General Dynamics Land Systems](http://www.gdls.com)** | **[SkillBridge Intern (Transitioning Military Service Members)](https://jobright.ai/jobs/info/6885da42b651c92cb78ae870?utm_campaign=1057&utm_source=git)** | Sterling Heights, MI | On Site | Jul 27 |
 | **[Education Service Center Region 13 ](https://esc13.net)** | **[2025/26 Aspiring Administrator Academy (INTERNAL APPLICANTS ONLY)](https://jobright.ai/jobs/info/6885a791fbbf032d0006ddcb?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Jul 26 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Intern/Graduate Student- Radiology, Fall 2025](https://jobright.ai/jobs/info/688194e2f4f06100f3a27fad?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | Jul 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Financial Times](http://ft.com)** | **[Student Program Assistant, FT Schools](https://jobright.ai/jobs/info/68485bc2d11080ce51217e9d?utm_campaign=1057&utm_source=git)** | California | On Site | Jul 26 |
 | **[Powerback](https://www.getpowerback.com)** | **[Student-PT Assistant](https://jobright.ai/jobs/info/6884ae28fbbf032d0006ad86?utm_campaign=1057&utm_source=git)** | Reston, VA | On Site | Jul 26 |
 | ↳ | **[Student-PT Assistant](https://jobright.ai/jobs/info/6884ae20fbbf032d0006ad85?utm_campaign=1057&utm_source=git)** | Lewis Center, OH | On Site | Jul 26 |
-| ↳ | **[Student-PT Assistant](https://jobright.ai/jobs/info/6884ae044174df41e0f95066?utm_campaign=1057&utm_source=git)** | Millville, NJ | On Site | Jul 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
