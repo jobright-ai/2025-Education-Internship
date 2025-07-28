@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Abshire-Inamori Leadership Academy (Fall 2025)](https://jobright.ai/jobs/info/68875d8373e3e13cbd93d68e?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Jul 28 |
+| **[UW Medicine](https://www.uwmedicine.org)** | **[ATHLETIC TRAINER DIDACTIC INTERNSHIP](https://jobright.ai/jobs/info/68875220fbbf032d00073843?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Jul 28 |
+| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/68874ff873e3e13cbd93d192?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Jul 28 |
 | **[Iowa Western Community College](https://www.iwcc.edu)** | **[Dr. John & Jean Marshall Wellness Center Rec Rep](https://jobright.ai/jobs/info/688737034174df41e0f9d59f?utm_campaign=1057&utm_source=git)** | Council Bluffs, IA | On Site | Jul 28 |
 | **[Year Up United](http://yearup.org)** | **[Project Management Job Training Program](https://jobright.ai/jobs/info/688725e5fbbf032d00072d4f?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Jul 28 |
 | **[Commonwealth of Pennsylvania](http://www.arts.pa.gov)** | **[Aide Trainee - Ebensburg Center (2nd shift)](https://jobright.ai/jobs/info/688724f4b651c92cb78b1ff9?utm_campaign=1057&utm_source=git)** | Cambria County, PA | On Site | Jul 28 |
@@ -94,12 +97,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Helpdesk Level 1 - Tech Training Opportunity](https://jobright.ai/jobs/info/6886f2084174df41e0f9b848?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Jul 27 |
 | ↳ | **[Audio Visual Support - Tech Training Opportunity](https://jobright.ai/jobs/info/6886f1fb4174df41e0f9b840?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Jul 27 |
 | ↳ | **[Desktop Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/6886f1fb4174df41e0f9b842?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jul 27 |
-| ↳ | **[Desktop Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/6886f0f3fbbf032d0007166a?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Jul 27 |
 | ↳ | **[Business Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/6886f0f3fbbf032d0007166b?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Jul 27 |
-| ↳ | **[Desktop Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/6886f0ae4174df41e0f9b82f?utm_campaign=1057&utm_source=git)** | Dayton, OH | On Site | Jul 27 |
+| ↳ | **[Desktop Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/6886f0f3fbbf032d0007166a?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Jul 27 |
 | ↳ | **[Helpdesk Level 1 - Tech Training Opportunity](https://jobright.ai/jobs/info/6886f0ae4174df41e0f9b830?utm_campaign=1057&utm_source=git)** | Dayton, OH | On Site | Jul 27 |
-| ↳ | **[Helpdesk Level 1 - Tech Training Opportunity](https://jobright.ai/jobs/info/6886f0a14174df41e0f9b824?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jul 27 |
+| ↳ | **[Desktop Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/6886f0ae4174df41e0f9b82f?utm_campaign=1057&utm_source=git)** | Dayton, OH | On Site | Jul 27 |
 | ↳ | **[Audio Visual Support - Tech Training Opportunity](https://jobright.ai/jobs/info/6886f0a14174df41e0f9b823?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Jul 27 |
+| ↳ | **[Helpdesk Level 1 - Tech Training Opportunity](https://jobright.ai/jobs/info/6886f0a14174df41e0f9b824?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jul 27 |
 | ↳ | **[Desktop Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/6886f09f4174df41e0f9b820?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jul 27 |
 | ↳ | **[Desktop Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/6886f09f4174df41e0f9b81f?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Jul 27 |
 | ↳ | **[Helpdesk Level 1 - Tech Training Opportunity](https://jobright.ai/jobs/info/6886f0994174df41e0f9b818?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Jul 27 |
@@ -128,7 +131,9 @@ For a complete list, click the following sortable link below:
 | **[Year Up United](http://yearup.org)** | **[Project Management Job Training Program](https://jobright.ai/jobs/info/68863a194174df41e0f99e52?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Jul 27 |
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Summer Temp - Research Assistant](https://jobright.ai/jobs/info/67f6a0327c264810bea5efa2?utm_campaign=1057&utm_source=git)** | Lynchburg, VA | Hybrid | Jul 27 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Virtual Student Presenter at Campus NIL Corporation](https://jobright.ai/jobs/info/688617f1fbbf032d0006f8d1?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jul 27 |
+| **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Health Information Technologist](https://jobright.ai/jobs/info/67f798975e8ad53ff96b36af?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 27 |
 | **[Cherokee Nation](https://www.cherokee.org/)** | **[Intern - Education Services (Fall 2025)](https://jobright.ai/jobs/info/6885eeb1fbbf032d0006f6e9?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Jul 27 |
+| **[Year Up United](http://yearup.org)** | **[Software Job Training Program](https://jobright.ai/jobs/info/68807ded9f7280424570be43?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Jul 27 |
 | **[General Dynamics Land Systems](http://www.gdls.com)** | **[SkillBridge Intern (Transitioning Military Service Members)](https://jobright.ai/jobs/info/6885da42b651c92cb78ae870?utm_campaign=1057&utm_source=git)** | Sterling Heights, MI | On Site | Jul 27 |
 | **[Education Service Center Region 13 ](https://esc13.net)** | **[2025/26 Aspiring Administrator Academy (INTERNAL APPLICANTS ONLY)](https://jobright.ai/jobs/info/6885a791fbbf032d0006ddcb?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Jul 26 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Intern/Graduate Student- Radiology, Fall 2025](https://jobright.ai/jobs/info/688194e2f4f06100f3a27fad?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | Jul 26 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/6884e235b651c92cb78aa90c?utm_campaign=1057&utm_source=git)** | Deville, LA | On Site | Jul 26 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Husky Ranch + Wilderness Adventure Volunteer in Scotland](https://jobright.ai/jobs/info/68125ac8a6e41049a106c4f9?utm_campaign=1057&utm_source=git)** | New Haven, CT | On Site | Jul 26 |
 | **[Rock Health](https://rockhealth.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6884ddfdfbbf032d0006b3de?utm_campaign=1057&utm_source=git)** | Red Chute, LA | On Site | Jul 26 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Research Volunteer Professional Placement (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803bb?utm_campaign=1057&utm_source=git)** | Cambridge, MA | Hybrid | Jul 26 |
-| **[Northshore Home Health Care](http://www.northshorehomehealth.com)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/6884f5fdb651c92cb78aacaa?utm_campaign=1057&utm_source=git)** | Pineville, LA | On Site | Jul 26 |
-| **[Preferred Home Health Care & Nursing Services](https://www.preferredcares.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6884f4644174df41e0f95af7?utm_campaign=1057&utm_source=git)** | Belcher, LA | On Site | Jul 26 |
-| **[Northshore Home Health Care](http://www.northshorehomehealth.com)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/6884f585b651c92cb78aac7b?utm_campaign=1057&utm_source=git)** | Lena, LA | On Site | Jul 26 |
-| **[Black Women's Mental Health Institute](www.bwmhi.org)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6884f3dc4174df41e0f95ac5?utm_campaign=1057&utm_source=git)** | Shreveport, LA | On Site | Jul 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
