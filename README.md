@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BAART Programs](https://baartprograms.com/)** | **[Counselor/Counselor Intern](https://jobright.ai/jobs/info/68872a62b651c92cb78b25cb?utm_campaign=1057&utm_source=git)** | LaPlace, LA | On Site | Jul 28 |
+| **[Year Up United](http://yearup.org)** | **[Project Management Job Training Program](https://jobright.ai/jobs/info/688725e5fbbf032d00072d4f?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Jul 28 |
+| **[Commonwealth of Pennsylvania](http://www.arts.pa.gov)** | **[Aide Trainee - Ebensburg Center (2nd shift)](https://jobright.ai/jobs/info/688724f4b651c92cb78b1ff9?utm_campaign=1057&utm_source=git)** | Cambria County, PA | On Site | Jul 28 |
 | **[San Jacinto College](http://www.sanjac.edu/)** | **[Student Records Specialist](https://jobright.ai/jobs/info/68870c164174df41e0f9c9e3?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jul 27 |
 | **[NPower](http://www.npower.org/)** | **[Audio Visual Support - Tech Training Opportunity](https://jobright.ai/jobs/info/68870352b651c92cb78b12bd?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jul 27 |
 | ↳ | **[Business Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/6887031dfbbf032d00071ef1?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | Jul 27 |
@@ -95,8 +98,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Desktop Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/6886f0f3fbbf032d0007166a?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Jul 27 |
 | ↳ | **[Helpdesk Level 1 - Tech Training Opportunity](https://jobright.ai/jobs/info/6886f0ae4174df41e0f9b830?utm_campaign=1057&utm_source=git)** | Dayton, OH | On Site | Jul 27 |
 | ↳ | **[Desktop Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/6886f0ae4174df41e0f9b82f?utm_campaign=1057&utm_source=git)** | Dayton, OH | On Site | Jul 27 |
-| ↳ | **[Audio Visual Support - Tech Training Opportunity](https://jobright.ai/jobs/info/6886f0a14174df41e0f9b823?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Jul 27 |
 | ↳ | **[Helpdesk Level 1 - Tech Training Opportunity](https://jobright.ai/jobs/info/6886f0a14174df41e0f9b824?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jul 27 |
+| ↳ | **[Audio Visual Support - Tech Training Opportunity](https://jobright.ai/jobs/info/6886f0a14174df41e0f9b823?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Jul 27 |
 | ↳ | **[Desktop Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/6886f09f4174df41e0f9b81f?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Jul 27 |
 | ↳ | **[Desktop Analyst - Tech Training Opportunity](https://jobright.ai/jobs/info/6886f09f4174df41e0f9b820?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Jul 27 |
 | ↳ | **[Helpdesk Level 1 - Tech Training Opportunity](https://jobright.ai/jobs/info/6886f0994174df41e0f9b818?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Jul 27 |
@@ -130,7 +133,6 @@ For a complete list, click the following sortable link below:
 | **[Education Service Center Region 13 ](https://esc13.net)** | **[2025/26 Aspiring Administrator Academy (INTERNAL APPLICANTS ONLY)](https://jobright.ai/jobs/info/6885a791fbbf032d0006ddcb?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Jul 26 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Intern/Graduate Student- Radiology, Fall 2025](https://jobright.ai/jobs/info/688194e2f4f06100f3a27fad?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | Jul 26 |
 | **[UIC Tutorium](https://tutorium.uic.edu/)** | **[Clinical Physician – Correctional Medicine / Family or Internal Medicine Faculty](https://jobright.ai/jobs/info/688580be4174df41e0f96ca1?utm_campaign=1057&utm_source=git)** | Rockford, IL | On Site | Jul 26 |
-| **[Jobright.ai](https://jobright.ai)** | **[Board Certified Behavior Analyst - Remote - Internship](https://jobright.ai/jobs/info/688568a64174df41e0f969b2?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 26 |
 | **[New England Homes for the Deaf](http://nehd.org/)** | **[Activities Assistant Volunteer](https://jobright.ai/jobs/info/68855e9ab651c92cb78ab9fc?utm_campaign=1057&utm_source=git)** | Danvers, MA | On Site | Jul 26 |
 | **[CSU Careers](https://www.linkedin.com/company/81884531)** | **[Assistive Technology Center, Document Remediation - Student Assistant](https://jobright.ai/jobs/info/6885583ab651c92cb78ab989?utm_campaign=1057&utm_source=git)** | San Bernardino, CA | On Site | Jul 26 |
 | **[University of La Verne](http://laverne.edu)** | **[Natural Science Division Student Assistant (25/26) - NFWS (Student)](https://jobright.ai/jobs/info/688553dffbbf032d0006c57f?utm_campaign=1057&utm_source=git)** | La Verne, CA | On Site | Jul 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Preferred Home Health Care & Nursing Services](https://www.preferredcares.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6884f4644174df41e0f95af7?utm_campaign=1057&utm_source=git)** | Belcher, LA | On Site | Jul 26 |
 | **[Northshore Home Health Care](http://www.northshorehomehealth.com)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/6884f585b651c92cb78aac7b?utm_campaign=1057&utm_source=git)** | Lena, LA | On Site | Jul 26 |
 | **[CONSUMER DIRECTED SERVICES INC.](https://www.linkedin.com/company/61295339)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6884f4b9fbbf032d0006b86f?utm_campaign=1057&utm_source=git)** | Greenwood, LA | On Site | Jul 26 |
-| **[Black Women's Mental Health Institute](www.bwmhi.org)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6884f3dc4174df41e0f95ac5?utm_campaign=1057&utm_source=git)** | Shreveport, LA | On Site | Jul 26 |
-| **[Health Here](http://www.healthhere.com)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/6884cb6ffbbf032d0006b0b3?utm_campaign=1057&utm_source=git)** | Ruby, LA | On Site | Jul 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
