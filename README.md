@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Year Up United](http://yearup.org)** | **[Computer Systems Administration Job Training Program](https://jobright.ai/jobs/info/68884f8c73e3e13cbd9443cb?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Jul 28 |
+| **[Lodi Unified School District](https://www.lodiusd.net/)** | **[Family and Consumer Education Teacher for 2025-2026 School Year (Interns May Apply)](https://jobright.ai/jobs/info/688879828168d45fe878d80d?utm_campaign=1057&utm_source=git)** | Lodi, CA | On Site | Jul 29 |
+| **[WesleyLife](https://www.wesleylife.org)** | **[Well-Being Internship](https://jobright.ai/jobs/info/68886e2127fa3c629236771a?utm_campaign=1057&utm_source=git)** | Des Moines, IA | On Site | Jul 28 |
+| **[Year Up United](http://yearup.org)** | **[Project Management Job Training Program](https://jobright.ai/jobs/info/6888664c4174df41e0fa5cd3?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Jul 28 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Senior Coordinator - Student Success - PAC - req12885](https://jobright.ai/jobs/info/68884ae2fbbf032d0007a38b?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jul 28 |
 | **[Children's National Hospital](http://childrensnational.org)** | **[Postdoctoral Fellow Psych](https://jobright.ai/jobs/info/68882c1c73e3e13cbd942b94?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Jul 28 |
 | **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Student Assistant - Architectural / Fall 2025](https://jobright.ai/jobs/info/688827d073e3e13cbd9429e7?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Jul 28 |
@@ -140,6 +142,7 @@ For a complete list, click the following sortable link below:
 | **[KinderCare Learning Companies](http://www.kcecareers.com/)** | **[Teacher at International Leadership Texas - Katy](https://jobright.ai/jobs/info/688858c7fbbf032d0007b005?utm_campaign=1057&utm_source=git)** | Katy, TX | On Site | Jul 28 |
 | ↳ | **[Site Director at International Leadership of Texas](https://jobright.ai/jobs/info/688856c6fbbf032d0007af1a?utm_campaign=1057&utm_source=git)** | Richmond, TX | On Site | Jul 28 |
 | ↳ | **[Teacher at International Leadership - Lancaster](https://jobright.ai/jobs/info/68885d79fbbf032d0007b284?utm_campaign=1057&utm_source=git)** | Lancaster, TX | On Site | Jul 28 |
+| ↳ | **[Teacher at International Leadership of Texas - Heritage](https://jobright.ai/jobs/info/6888645e73e3e13cbd945181?utm_campaign=1057&utm_source=git)** | Midlothian, TX | On Site | Jul 28 |
 | ↳ | **[Teacher at International Leadership - Garland](https://jobright.ai/jobs/info/68885ce473e3e13cbd944e2b?utm_campaign=1057&utm_source=git)** | Garland, TX | On Site | Jul 28 |
 | ↳ | **[Teacher at International Leadership - Saginaw K-8](https://jobright.ai/jobs/info/68885e9873e3e13cbd944ee0?utm_campaign=1057&utm_source=git)** | Saginaw, TX | On Site | Jul 28 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Abshire-Inamori Leadership Academy (Fall 2025)](https://jobright.ai/jobs/info/68875d8373e3e13cbd93d68e?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Jul 28 |
@@ -148,13 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Iowa Western Community College](https://www.iwcc.edu)** | **[Dr. John & Jean Marshall Wellness Center Rec Rep](https://jobright.ai/jobs/info/688737034174df41e0f9d59f?utm_campaign=1057&utm_source=git)** | Council Bluffs, IA | On Site | Jul 28 |
 | **[Year Up United](http://yearup.org)** | **[Project Management Job Training Program](https://jobright.ai/jobs/info/688725e5fbbf032d00072d4f?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Jul 28 |
 | **[Commonwealth of Pennsylvania](http://www.arts.pa.gov)** | **[Aide Trainee - Ebensburg Center (2nd shift)](https://jobright.ai/jobs/info/688724f4b651c92cb78b1ff9?utm_campaign=1057&utm_source=git)** | Cambria County, PA | On Site | Jul 28 |
+| **[NPower](http://www.npower.org/)** | **[Helpdesk Level 1 - Tech Training Opportunity](https://jobright.ai/jobs/info/68887c4c27fa3c6292367ff7?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jul 27 |
+| **[Comfort Systems USA](http://www.comfortsystemsusa.com/home/index.php)** | **[Summer Intern](https://jobright.ai/jobs/info/686a25cb35584b6542b8553a?utm_campaign=1057&utm_source=git)** | Greater Houston | On Site | Jul 27 |
 | **[San Jacinto College](http://www.sanjac.edu/)** | **[Student Records Specialist](https://jobright.ai/jobs/info/68870c164174df41e0f9c9e3?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jul 27 |
 | **[Raymond James](http://www.raymondjames.com)** | **[2026 Summer Internship Program - Information Technology (St. Petersburg or Jersey City)](https://jobright.ai/jobs/info/6886fc204174df41e0f9bc58?utm_campaign=1057&utm_source=git)** | FL - Saint Petersburg - 880 Carillon Pkwy Tower 1 | Hybrid | Jul 27 |
 | ↳ | **[2026 Summer Internship Program - Information Technology (St. Petersburg or Jersey City)](https://jobright.ai/jobs/info/6886fc05fbbf032d00071a5b?utm_campaign=1057&utm_source=git)** | Jersey City, New Jersey - United States | Hybrid | Jul 27 |
 | **[International Institute of New England](https://iine.org/)** | **[Youth Services Intern (INE Lowell)](https://jobright.ai/jobs/info/68884a304174df41e0fa470a?utm_campaign=1057&utm_source=git)** | Lowell, MA | On Site | Jul 27 |
-| **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Clinical Intern](https://jobright.ai/jobs/info/688852dffbbf032d0007a90a?utm_campaign=1057&utm_source=git)** | Sauk Rapids, MN | On Site | Jul 27 |
-| **[International Institute of New England](https://iine.org/)** | **[Education Data Entry Intern (IINE Manchester)](https://jobright.ai/jobs/info/6888537373e3e13cbd944618?utm_campaign=1057&utm_source=git)** | Manchester, NH | On Site | Jul 27 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6886ea66fbbf032d000710a8?utm_campaign=1057&utm_source=git)** | Middle, NJ | On Site | Jul 27 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6886ea5b4174df41e0f9b2c6?utm_campaign=1057&utm_source=git)** | Albertville, MN | On Site | Jul 27 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6886e9afb651c92cb78b0477?utm_campaign=1057&utm_source=git)** | Fort Washington, PA | On Site | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
