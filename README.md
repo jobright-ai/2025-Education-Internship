@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Community Development Assistant](https://jobright.ai/jobs/info/6888ec8faab47a17f66fda4a?utm_campaign=1057&utm_source=git)** | Stevens Point, WI | On Site | Jul 29 |
+| **[Stanford Health Care](https://stanfordhealthcare.org/)** | **[CLINICAL PASTORAL EDU INTERN  - Spiritual Care Services - Part-time, Rotating Shift (EVERGREEN)](https://jobright.ai/jobs/info/6888ea839f961617fe2103ec?utm_campaign=1057&utm_source=git)** | Palo Alto, CA | On Site | Jul 29 |
+| **[Barnhart Crane & Rigging](https://www.barnhartcrane.com/)** | **[Training Department Intern - 4206](https://jobright.ai/jobs/info/686c21a135584b6542d12d61?utm_campaign=1057&utm_source=git)** | Memphis, TN | On Site | Jul 29 |
+| **[Stanford Health Care](https://stanfordhealthcare.org/)** | **[Graduate  Intern. Interpretation and Translation Services.](https://jobright.ai/jobs/info/6888e055aab47a17f66fd453?utm_campaign=1057&utm_source=git)** | Palo Alto, CA | On Site | Jul 29 |
+| **[Baptist Health](http://baptisthealth.net/)** | **[Nurse Intern, Observation I, Per Diem, 07A-7:30P](https://jobright.ai/jobs/info/6888dd4909808a6103e4321a?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Jul 29 |
+| ↳ | **[Nurse Intern, Observation I, Per Diem, 07P-7:30A](https://jobright.ai/jobs/info/6888db54aab47a17f66fd317?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Jul 29 |
+| ↳ | **[Nurse Intern, Observation, Per Diem, 7P-7:30A](https://jobright.ai/jobs/info/6888daf7aab47a17f66fd300?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Jul 29 |
+| ↳ | **[Nurse Intern, Med/Surg-Tele -5 Tower, FT, 7P-7A](https://jobright.ai/jobs/info/6888da229f961617fe20fe95?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Jul 29 |
+| **[Stanford Health Care](https://stanfordhealthcare.org/)** | **[CLIN PASTORAL EDU INTERN](https://jobright.ai/jobs/info/6888d7b2aab47a17f66fd204?utm_campaign=1057&utm_source=git)** | Palo Alto, CA | On Site | Jul 29 |
+| **[BlueBill](https://www.linkedin.com/company/107259322)** | **[Field Outreach Intern](https://jobright.ai/jobs/info/6888d488aab47a17f66fd16b?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 29 |
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee - SHSU Online - Learning Experience Design (LXD)](https://jobright.ai/jobs/info/6888abe709808a6103e42805?utm_campaign=1057&utm_source=git)** | Huntsville, TX | Hybrid | Jul 29 |
 | **[Pacific University](http://www.pacificu.edu/)** | **[FWS - Student Affairs Front Desk Receptionist 25-26](https://jobright.ai/jobs/info/6888a99f9f961617fe20f4f5?utm_campaign=1057&utm_source=git)** | Forest Grove, OR | On Site | Jul 29 |
 | **[Cher ®](https://cherahome.com/)** | **[AI Video Course Creator (Internship)](https://jobright.ai/jobs/info/6888a1ea9f961617fe20f3b9?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 29 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Teacher at International Leadership - Lancaster](https://jobright.ai/jobs/info/68885d79fbbf032d0007b284?utm_campaign=1057&utm_source=git)** | Lancaster, TX | On Site | Jul 28 |
 | ↳ | **[Teacher at International Leadership of Texas - Heritage](https://jobright.ai/jobs/info/6888645e73e3e13cbd945181?utm_campaign=1057&utm_source=git)** | Midlothian, TX | On Site | Jul 28 |
 | ↳ | **[Teacher at International Leadership - Garland](https://jobright.ai/jobs/info/68885ce473e3e13cbd944e2b?utm_campaign=1057&utm_source=git)** | Garland, TX | On Site | Jul 28 |
-| ↳ | **[Teacher at International Leadership - Saginaw K-8](https://jobright.ai/jobs/info/68885e9873e3e13cbd944ee0?utm_campaign=1057&utm_source=git)** | Saginaw, TX | On Site | Jul 28 |
-| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Abshire-Inamori Leadership Academy (Fall 2025)](https://jobright.ai/jobs/info/68875d8373e3e13cbd93d68e?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Jul 28 |
-| **[UW Medicine](https://www.uwmedicine.org)** | **[ATHLETIC TRAINER DIDACTIC INTERNSHIP](https://jobright.ai/jobs/info/68875220fbbf032d00073843?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Jul 28 |
-| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/68874ff873e3e13cbd93d192?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Jul 28 |
-| **[Iowa Western Community College](https://www.iwcc.edu)** | **[Dr. John & Jean Marshall Wellness Center Rec Rep](https://jobright.ai/jobs/info/688737034174df41e0f9d59f?utm_campaign=1057&utm_source=git)** | Council Bluffs, IA | On Site | Jul 28 |
-| **[Christina School District](https://www.christinak12.org/)** | **[Work Based Learning (WBL) Coordinator #31917](https://jobright.ai/jobs/info/68888c6daab47a17f66fc357?utm_campaign=1057&utm_source=git)** | Newark, DE | On Site | Jul 28 |
-| **[Year Up United](http://yearup.org)** | **[Project Management Job Training Program](https://jobright.ai/jobs/info/688725e5fbbf032d00072d4f?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Jul 28 |
-| **[Commonwealth of Pennsylvania](http://www.arts.pa.gov)** | **[Aide Trainee - Ebensburg Center (2nd shift)](https://jobright.ai/jobs/info/688724f4b651c92cb78b1ff9?utm_campaign=1057&utm_source=git)** | Cambria County, PA | On Site | Jul 28 |
-| **[Comfort Systems USA](http://www.comfortsystemsusa.com/home/index.php)** | **[Summer Intern](https://jobright.ai/jobs/info/686a25cb35584b6542b8553a?utm_campaign=1057&utm_source=git)** | Greater Houston | On Site | Jul 27 |
-| **[San Jacinto College](http://www.sanjac.edu/)** | **[Student Records Specialist](https://jobright.ai/jobs/info/68870c164174df41e0f9c9e3?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
