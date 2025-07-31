@@ -57,13 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mount Carmel Health System](https://www.mountcarmelhealth.com/)** | **[Student Intern, Mount Carmel College of Nursing](https://jobright.ai/jobs/info/688b292c3a30793eb9638e72?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Jul 31 |
+| **[City of Noblesville](https://www.cityofnoblesville.org)** | **[Noblesville High School Intern](https://jobright.ai/jobs/info/688b261d09808a6103e5543d?utm_campaign=1057&utm_source=git)** | Noblesville, IN | On Site | Jul 31 |
+| **[County of Los Angeles](https://lacounty.gov/)** | **[CAREER DEVELOPMENT INTERN, HEAVY MAINTENANCE AND OPERATIONAL SUPPORT](https://jobright.ai/jobs/info/688b24ef9f961617fe222131?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jul 31 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Accounting and Finance Summer Internship](https://jobright.ai/jobs/info/688b1d03aab47a17f670edb6?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 31 |
 | ↳ | **[2026 New York Life Direct Summer Internship Program - Tampa](https://jobright.ai/jobs/info/688b17b509808a6103e54ade?utm_campaign=1057&utm_source=git)** | Tampa, FL | Hybrid | Jul 31 |
 | **[LAC Federal](https://lacfederal.com)** | **[Library - Intern (Summer)](https://jobright.ai/jobs/info/688b110109808a6103e544fe?utm_campaign=1057&utm_source=git)** | West - Shasta - Redding, CA | On Site | Jul 30 |
 | **[Year Up United](http://yearup.org)** | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/688b0add09808a6103e53f39?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Jul 30 |
 | ↳ | **[Project Management Job Training Program](https://jobright.ai/jobs/info/688b094baab47a17f670dedc?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Jul 30 |
 | **[Calvary Community Church, Manteca](https://calvarymanteca.org)** | **[Youth Ministry Assistant/Intern](https://jobright.ai/jobs/info/688b065f09808a6103e53c72?utm_campaign=1057&utm_source=git)** | Manteca, CA | On Site | Jul 30 |
+| **[The TEAK Fellowship](https://teakfellowship.org/about/)** | **[Writing Instructor - Queens](https://jobright.ai/jobs/info/688b258509808a6103e553ec?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 30 |
 | **[County of San Diego](http://www.sdcounty.ca.gov)** | **[Student Worker-19090504-Undergraduate, Graduate/Tech and High School](https://jobright.ai/jobs/info/688b038809808a6103e53acd?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Jul 30 |
+| **[Mayo Clinic](https://www.mayoclinic.org)** | **[HTM Intern](https://jobright.ai/jobs/info/688b2c943a30793eb9638f79?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Jul 30 |
 | **[American Addiction Centers](https://americanaddictioncenters.org/)** | **[Counselor Intern](https://jobright.ai/jobs/info/688b17899f961617fe221845?utm_campaign=1057&utm_source=git)** | Etta, MS | On Site | Jul 30 |
 | **[Bloomsbury USA](http://www.bloomsbury.com/us)** | **[Academic Editorial Internship](https://jobright.ai/jobs/info/688b1214aab47a17f670e67e?utm_campaign=1057&utm_source=git)** | New York, NY | Remote | Jul 30 |
 | **[Villanova University](http://www.villanueva.edu)** | **[Graduate Assistant - MSN (FCN - MSN)](https://jobright.ai/jobs/info/688af0b2aab47a17f670cce5?utm_campaign=1057&utm_source=git)** | Driscoll, ND | On Site | Jul 30 |
@@ -142,19 +147,14 @@ For a complete list, click the following sortable link below:
 | **[University of Illinois Chicago (UIC) School of Public Health](https://publichealth.uic.edu)** | **[Director of Experiential Learning and Career Outcomes](https://jobright.ai/jobs/info/688a90bdaab47a17f6709d82?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jul 30 |
 | **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a59059f961617fe21ae77?utm_campaign=1057&utm_source=git)** | USA-UT - Utah Remote | Remote | Jul 30 |
 | ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a59059f961617fe21ae76?utm_campaign=1057&utm_source=git)** | USA-NH - New Hampshire Remote | Remote | Jul 30 |
-| ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a58e2aab47a17f6708140?utm_campaign=1057&utm_source=git)** | USA-RI - Rhode Island Remote | Remote | Jul 30 |
 | ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a58e29f961617fe21ae34?utm_campaign=1057&utm_source=git)** | USA-DC - Washington, D.C. Remote | Remote | Jul 30 |
+| ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a58e2aab47a17f6708140?utm_campaign=1057&utm_source=git)** | USA-RI - Rhode Island Remote | Remote | Jul 30 |
 | ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a58d89f961617fe21ae28?utm_campaign=1057&utm_source=git)** | USA-MT - Montana Remote | Remote | Jul 30 |
-| ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a58cf09808a6103e4dfbb?utm_campaign=1057&utm_source=git)** | USA-DE - Delaware Remote | Remote | Jul 30 |
 | ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a58cf09808a6103e4dfbd?utm_campaign=1057&utm_source=git)** | USA-ME - Maine Remote | Remote | Jul 30 |
+| ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a58cf09808a6103e4dfbb?utm_campaign=1057&utm_source=git)** | USA-DE - Delaware Remote | Remote | Jul 30 |
 | ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a58c8aab47a17f670811a?utm_campaign=1057&utm_source=git)** | USA-AR - Arkansas Remote | Remote | Jul 30 |
 | ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a58c8aab47a17f670811b?utm_campaign=1057&utm_source=git)** | USA-NJ - New Jersey Remote | Remote | Jul 30 |
 | ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a58c59f961617fe21ae0e?utm_campaign=1057&utm_source=git)** | USA-CO - Colorado Remote | Remote | Jul 30 |
 | ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a58c59f961617fe21ae0d?utm_campaign=1057&utm_source=git)** | USA-KY - Kentucky Remote | Remote | Jul 30 |
 | **[College of Southern Nevada](http://www.csn.edu/)** | **[College Work Study Student - Government and Leadership Development Program Charleston Campus - Fall 2025](https://jobright.ai/jobs/info/688a58c19f961617fe21ae08?utm_campaign=1057&utm_source=git)** | CSN - Charleston Campus | On Site | Jul 30 |
-| **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a58be09808a6103e4dfa2?utm_campaign=1057&utm_source=git)** | USA-KS - Kansas Remote | Remote | Jul 30 |
-| ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a58b1aab47a17f67080f4?utm_campaign=1057&utm_source=git)** | USA-AL - Alabama Remote | Remote | Jul 30 |
-| ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a589b09808a6103e4df79?utm_campaign=1057&utm_source=git)** | USA-WI - Wisconsin Remote | Remote | Jul 30 |
-| ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a58969f961617fe21add7?utm_campaign=1057&utm_source=git)** | USA-MD - Maryland Remote | Remote | Jul 30 |
-| ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a5891aab47a17f67080c3?utm_campaign=1057&utm_source=git)** | USA-NC - North Carolina Remote | Remote | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
