@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/688b566f1808534a89cb2524?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | On Site | Jul 31 |
+| **[University of Houston](https://www.uh.edu)** | **[Non-College Work-Study- Faculty Research Student Assistant (part-time)](https://jobright.ai/jobs/info/688b4ed83a30793eb9639b13?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jul 31 |
+| **[University of Illinois College of Medicine](http://www.medicine.uic.edu)** | **[Admissions and Records Assistant - Student and Diversity Affairs - College of Dentistry](https://jobright.ai/jobs/info/688b4a693a30793eb96397a7?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jul 31 |
+| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/688b41c71808534a89cb1c45?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Jul 31 |
+| **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Psychologist](https://jobright.ai/jobs/info/688b3d783a30793eb9639445?utm_campaign=1057&utm_source=git)** | Huntington, IN | On Site | Jul 31 |
 | **[Mount Carmel Health System](https://www.mountcarmelhealth.com/)** | **[Student Intern, Mount Carmel College of Nursing](https://jobright.ai/jobs/info/688b292c3a30793eb9638e72?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Jul 31 |
 | **[City of Noblesville](https://www.cityofnoblesville.org)** | **[Noblesville High School Intern](https://jobright.ai/jobs/info/688b261d09808a6103e5543d?utm_campaign=1057&utm_source=git)** | Noblesville, IN | On Site | Jul 31 |
 | **[County of Los Angeles](https://lacounty.gov/)** | **[CAREER DEVELOPMENT INTERN, HEAVY MAINTENANCE AND OPERATIONAL SUPPORT](https://jobright.ai/jobs/info/688b24ef9f961617fe222131?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jul 31 |
@@ -64,7 +69,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 New York Life Direct Summer Internship Program - Tampa](https://jobright.ai/jobs/info/688b17b509808a6103e54ade?utm_campaign=1057&utm_source=git)** | Tampa, FL | Hybrid | Jul 31 |
 | **[LAC Federal](https://lacfederal.com)** | **[Library - Intern (Summer)](https://jobright.ai/jobs/info/688b110109808a6103e544fe?utm_campaign=1057&utm_source=git)** | West - Shasta - Redding, CA | On Site | Jul 30 |
 | **[Year Up United](http://yearup.org)** | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/688b0add09808a6103e53f39?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Jul 30 |
-| ↳ | **[Project Management Job Training Program](https://jobright.ai/jobs/info/688b094baab47a17f670dedc?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Jul 30 |
 | **[Calvary Community Church, Manteca](https://calvarymanteca.org)** | **[Youth Ministry Assistant/Intern](https://jobright.ai/jobs/info/688b065f09808a6103e53c72?utm_campaign=1057&utm_source=git)** | Manteca, CA | On Site | Jul 30 |
 | **[The TEAK Fellowship](https://teakfellowship.org/about/)** | **[Writing Instructor - Queens](https://jobright.ai/jobs/info/688b258509808a6103e553ec?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 30 |
 | **[County of San Diego](http://www.sdcounty.ca.gov)** | **[Student Worker-19090504-Undergraduate, Graduate/Tech and High School](https://jobright.ai/jobs/info/688b038809808a6103e53acd?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Jul 30 |
@@ -150,11 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a58e29f961617fe21ae34?utm_campaign=1057&utm_source=git)** | USA-DC - Washington, D.C. Remote | Remote | Jul 30 |
 | ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a58e2aab47a17f6708140?utm_campaign=1057&utm_source=git)** | USA-RI - Rhode Island Remote | Remote | Jul 30 |
 | ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a58d89f961617fe21ae28?utm_campaign=1057&utm_source=git)** | USA-MT - Montana Remote | Remote | Jul 30 |
-| ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a58cf09808a6103e4dfbd?utm_campaign=1057&utm_source=git)** | USA-ME - Maine Remote | Remote | Jul 30 |
 | ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a58cf09808a6103e4dfbb?utm_campaign=1057&utm_source=git)** | USA-DE - Delaware Remote | Remote | Jul 30 |
-| ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a58c8aab47a17f670811a?utm_campaign=1057&utm_source=git)** | USA-AR - Arkansas Remote | Remote | Jul 30 |
+| ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a58cf09808a6103e4dfbd?utm_campaign=1057&utm_source=git)** | USA-ME - Maine Remote | Remote | Jul 30 |
 | ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a58c8aab47a17f670811b?utm_campaign=1057&utm_source=git)** | USA-NJ - New Jersey Remote | Remote | Jul 30 |
-| ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a58c59f961617fe21ae0e?utm_campaign=1057&utm_source=git)** | USA-CO - Colorado Remote | Remote | Jul 30 |
-| ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a58c59f961617fe21ae0d?utm_campaign=1057&utm_source=git)** | USA-KY - Kentucky Remote | Remote | Jul 30 |
-| **[College of Southern Nevada](http://www.csn.edu/)** | **[College Work Study Student - Government and Leadership Development Program Charleston Campus - Fall 2025](https://jobright.ai/jobs/info/688a58c19f961617fe21ae08?utm_campaign=1057&utm_source=git)** | CSN - Charleston Campus | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
