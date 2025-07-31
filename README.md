@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[County of San Diego](http://www.sdcounty.ca.gov)** | **[Student Worker-19090504-Undergraduate, Graduate/Tech and High School](https://jobright.ai/jobs/info/688b038809808a6103e53acd?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Jul 30 |
+| **[Villanova University](http://www.villanueva.edu)** | **[Graduate Assistant - MSN (FCN - MSN)](https://jobright.ai/jobs/info/688af0b2aab47a17f670cce5?utm_campaign=1057&utm_source=git)** | Driscoll, ND | On Site | Jul 30 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Senior Coordinator - Student Success - PAC - req12885](https://jobright.ai/jobs/info/688ae9709f961617fe21f32e?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jul 30 |
 | **[North Star Behavioral Health](https://northstarbehavioral.com)** | **[RECREATIONAL THERAPY INTERN - UNPAID INTERNSHIP](https://jobright.ai/jobs/info/688ae967aab47a17f670c67f?utm_campaign=1057&utm_source=git)** | ARLINGTON, Texas | On Site | Jul 30 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Health Education & Promotion Intern (unpaid)](https://jobright.ai/jobs/info/688ae924aab47a17f670c63b?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 30 |
 | **[Drexel University's Westphal College of Media Arts & Design](https://drexel.edu/westphal)** | **[Assistant Director, Teaching Labs](https://jobright.ai/jobs/info/688ae75409808a6103e522ae?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Jul 30 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Psychology Program Manager (PTSD Domiciliary Program)](https://jobright.ai/jobs/info/688ae2d209808a6103e51f0f?utm_campaign=1057&utm_source=git)** | Aurora, CO | On Site | Jul 30 |
-| ↳ | **[Staff Psychologist](https://jobright.ai/jobs/info/688adb2109808a6103e51bd8?utm_campaign=1057&utm_source=git)** | Tucson, AZ | On Site | Jul 30 |
+| **[Embark Behavioral Health](https://www.embarkbh.com/)** | **[Clinical Intern](https://jobright.ai/jobs/info/688af7c4aab47a17f670d167?utm_campaign=1057&utm_source=git)** | Greeley, CO | On Site | Jul 30 |
+| **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist](https://jobright.ai/jobs/info/688adb2109808a6103e51bd8?utm_campaign=1057&utm_source=git)** | Tucson, AZ | On Site | Jul 30 |
 | **[UHS](https://uhs.com)** | **[RECREATIONAL THERAPY INTERN - UNPAID INTERNSHIP](https://jobright.ai/jobs/info/688adada09808a6103e51bb7?utm_campaign=1057&utm_source=git)** | ARLINGTON, Texas | On Site | Jul 30 |
 | **[Whittier College](http://www.whittier.edu)** | **[Associate Director of Internship & Experiential Learning](https://jobright.ai/jobs/info/688ad150aab47a17f670b875?utm_campaign=1057&utm_source=git)** | Whittier, CA | On Site | Jul 30 |
 | **[KinderCare Learning Companies](http://www.kcecareers.com/)** | **[After-School Teacher at Uplift Summit International Preparatory](https://jobright.ai/jobs/info/688accc009808a6103e51575?utm_campaign=1057&utm_source=git)** | Arlington, TX | On Site | Jul 30 |
@@ -83,7 +86,8 @@ For a complete list, click the following sortable link below:
 | **[University of La Verne](http://laverne.edu)** | **[Honors Program Student Assistant (25/26) - FWS](https://jobright.ai/jobs/info/688ae7ebaab47a17f670c55f?utm_campaign=1057&utm_source=git)** | La Verne, CA | On Site | Jul 30 |
 | **[UW School of Medicine and Public Health](https://www.med.wisc.edu)** | **[Internal Medicine Physician](https://jobright.ai/jobs/info/688aabc29f961617fe21d567?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Jul 30 |
 | **[Bottega Veneta](http://bottegaveneta.it)** | **[BOTTEGA VENETA Retail Training Intern, Fall](https://jobright.ai/jobs/info/688aaaeeaab47a17f670a8b3?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 30 |
-| ↳ | **[BOTTEGA VENETA Retail Training Intern](https://jobright.ai/jobs/info/688aa71caab47a17f670a7a6?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 30 |
+| **[Project Harmony](https://linktr.ee/projectforharmony?utm_source=linktree_profile_share&ltsid=39f1b2d6-e6f5-423d-b0dd-d07ee5a1c8ee)** | **[Intern/Practicum Student - MSW/Clinical Mental Health](https://jobright.ai/jobs/info/688af53709808a6103e52d6c?utm_campaign=1057&utm_source=git)** | Omaha, NE | On Site | Jul 30 |
+| **[Bottega Veneta](http://bottegaveneta.it)** | **[BOTTEGA VENETA Retail Training Intern](https://jobright.ai/jobs/info/688aa71caab47a17f670a7a6?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 30 |
 | **[Commonpoint](https://www.commonpointqueens.org)** | **[Internship Coordinator, Opportunity Youth, Adult Workforce for Train and Earn](https://jobright.ai/jobs/info/688abc9a09808a6103e50de0?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jul 30 |
 | **[CIANBRO](https://www.cianbro.com)** | **[College Internship](https://jobright.ai/jobs/info/688ae5d4aab47a17f670c401?utm_campaign=1057&utm_source=git)** | Pittsfield, ME | On Site | Jul 30 |
 | **[Nice Life Recording Company](http://nice.life)** | **[Fall Internship Program](https://jobright.ai/jobs/info/688a9ecf09808a6103e502d6?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 30 |
@@ -108,6 +112,7 @@ For a complete list, click the following sortable link below:
 | **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Spiritual Health Intern](https://jobright.ai/jobs/info/688a8187aab47a17f670950b?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jul 30 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[JSchoolTech Digital Media Student Assistant](https://jobright.ai/jobs/info/688a80ea09808a6103e4f3ec?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Jul 30 |
 | **[Carle Health](https://carle.org/)** | **[Intern - Outpatient Behavioral Health](https://jobright.ai/jobs/info/688a7fcaaab47a17f670947e?utm_campaign=1057&utm_source=git)** | Peoria, IL | On Site | Jul 30 |
+| **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688ae9c59f961617fe21f369?utm_campaign=1057&utm_source=git)** | Columbia, SC | On Site | Jul 30 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist - Neuropsychologist](https://jobright.ai/jobs/info/688ae93e9f961617fe21f31c?utm_campaign=1057&utm_source=git)** | Fort Meade, SD | On Site | Jul 30 |
 | **[BBYO](https://www.bbyo.org)** | **[BBYO Center for Adolescent Wellness Intern](https://jobright.ai/jobs/info/688a77f59f961617fe21be74?utm_campaign=1057&utm_source=git)** | Washington, DC | Remote | Jul 30 |
 | **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Skillbridge Program Internship for Service Members](https://jobright.ai/jobs/info/688a7742aab47a17f6709099?utm_campaign=1057&utm_source=git)** | Alexandria, VA | On Site | Jul 30 |
@@ -116,13 +121,15 @@ For a complete list, click the following sortable link below:
 | **[Partners Behavioral Healthcare](https://pirmn.com)** | **[Mental Health Intern](https://jobright.ai/jobs/info/688a90a99f961617fe21cae2?utm_campaign=1057&utm_source=git)** | Minneapolis–Saint Paul, WI | On Site | Jul 30 |
 | **[Ivy Tech Community College Indianapolis](www.ivytech.edu/indianapolis)** | **[Part-Time On-Campus Internship - Ivy Tech Fort Wayne](https://jobright.ai/jobs/info/688a6e2c9f961617fe21b8f6?utm_campaign=1057&utm_source=git)** | Fort Wayne, IN | On Site | Jul 30 |
 | **[Obsidian Solutions Group](http://www.obsidiansg.com)** | **[JNAT/JST Intern](https://jobright.ai/jobs/info/688a6dfbaab47a17f6708ba0?utm_campaign=1057&utm_source=git)** | Fort Bragg (NC) | On Site | Jul 30 |
+| **[Texas Health and Human Services](http://hhs.texas.gov)** | **[Psychologist II](https://jobright.ai/jobs/info/688af7c009808a6103e52f11?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Jul 30 |
+| **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Hourly – Student Office Assistant](https://jobright.ai/jobs/info/688aeec609808a6103e5268e?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Jul 30 |
 | **[Bloomsbury USA](http://www.bloomsbury.com/us)** | **[Academic Editorial Internship](https://jobright.ai/jobs/info/688a6ccfaab47a17f6708a37?utm_campaign=1057&utm_source=git)** | New York | Hybrid | Jul 30 |
 | **[College of Southern Nevada](http://www.csn.edu/)** | **[College Work Study Student - Government and Leadership Development Program Henderson Campus - Fall 2025](https://jobright.ai/jobs/info/688a6beb09808a6103e4e7a9?utm_campaign=1057&utm_source=git)** | CSN - Henderson Campus | On Site | Jul 30 |
 | **[Southern New Hampshire University](http://www.snhu.edu)** | **[Student - Student Technology Assistant Summer Position](https://jobright.ai/jobs/info/688a6b1109808a6103e4e69d?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 30 |
 | **[Bloomsbury USA](http://www.bloomsbury.com/us)** | **[Academic Editorial Internship](https://jobright.ai/jobs/info/688a6ac809808a6103e4e630?utm_campaign=1057&utm_source=git)** | Hybrid Remote | Hybrid | Jul 30 |
-| **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Psychology intern](https://jobright.ai/jobs/info/688a6477aab47a17f6708583?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Jul 30 |
+| **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Psychology Intern](https://jobright.ai/jobs/info/688a653009808a6103e4e485?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Jul 30 |
+| ↳ | **[Psychology intern](https://jobright.ai/jobs/info/688a6477aab47a17f6708583?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Jul 30 |
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Part-Time On-Campus Internship - Ivy Tech Fort Wayne](https://jobright.ai/jobs/info/688a91609f961617fe21cbe0?utm_campaign=1057&utm_source=git)** | Fort Wayne, IN | On Site | Jul 30 |
-| **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Psychology Intern](https://jobright.ai/jobs/info/688a61919f961617fe21b1f4?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Jul 30 |
 | **[Cintas](https://www.cintas.com)** | **[Intern - Part-Time](https://jobright.ai/jobs/info/688a5e10aab47a17f67083a5?utm_campaign=1057&utm_source=git)** | Memphis, TN | On Site | Jul 30 |
 | **[University of Illinois Chicago (UIC) School of Public Health](https://publichealth.uic.edu)** | **[Director of Experiential Learning and Career Outcomes](https://jobright.ai/jobs/info/688a90bdaab47a17f6709d82?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jul 30 |
 | **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a59059f961617fe21ae77?utm_campaign=1057&utm_source=git)** | USA-UT - Utah Remote | Remote | Jul 30 |
@@ -130,12 +137,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a58e29f961617fe21ae34?utm_campaign=1057&utm_source=git)** | USA-DC - Washington, D.C. Remote | Remote | Jul 30 |
 | ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a58e2aab47a17f6708140?utm_campaign=1057&utm_source=git)** | USA-RI - Rhode Island Remote | Remote | Jul 30 |
 | ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a58d89f961617fe21ae28?utm_campaign=1057&utm_source=git)** | USA-MT - Montana Remote | Remote | Jul 30 |
-| ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a58cf09808a6103e4dfbd?utm_campaign=1057&utm_source=git)** | USA-ME - Maine Remote | Remote | Jul 30 |
 | ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a58cf09808a6103e4dfbb?utm_campaign=1057&utm_source=git)** | USA-DE - Delaware Remote | Remote | Jul 30 |
+| ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a58cf09808a6103e4dfbd?utm_campaign=1057&utm_source=git)** | USA-ME - Maine Remote | Remote | Jul 30 |
 | ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a58c8aab47a17f670811a?utm_campaign=1057&utm_source=git)** | USA-AR - Arkansas Remote | Remote | Jul 30 |
 | ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a58c8aab47a17f670811b?utm_campaign=1057&utm_source=git)** | USA-NJ - New Jersey Remote | Remote | Jul 30 |
-| ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a58c59f961617fe21ae0d?utm_campaign=1057&utm_source=git)** | USA-KY - Kentucky Remote | Remote | Jul 30 |
 | ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a58c59f961617fe21ae0e?utm_campaign=1057&utm_source=git)** | USA-CO - Colorado Remote | Remote | Jul 30 |
+| ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a58c59f961617fe21ae0d?utm_campaign=1057&utm_source=git)** | USA-KY - Kentucky Remote | Remote | Jul 30 |
 | **[College of Southern Nevada](http://www.csn.edu/)** | **[College Work Study Student - Government and Leadership Development Program Charleston Campus - Fall 2025](https://jobright.ai/jobs/info/688a58c19f961617fe21ae08?utm_campaign=1057&utm_source=git)** | CSN - Charleston Campus | On Site | Jul 30 |
 | **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a58be09808a6103e4dfa2?utm_campaign=1057&utm_source=git)** | USA-KS - Kansas Remote | Remote | Jul 30 |
 | ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a58b1aab47a17f67080f4?utm_campaign=1057&utm_source=git)** | USA-AL - Alabama Remote | Remote | Jul 30 |
@@ -144,17 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a5891aab47a17f67080c3?utm_campaign=1057&utm_source=git)** | USA-NC - North Carolina Remote | Remote | Jul 30 |
 | ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a5891aab47a17f67080c2?utm_campaign=1057&utm_source=git)** | USA-IL - Illinois Remote | Remote | Jul 30 |
 | ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a5882aab47a17f67080af?utm_campaign=1057&utm_source=git)** | USA-OK - Oklahoma Remote | Remote | Jul 30 |
-| ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a58809f961617fe21adba?utm_campaign=1057&utm_source=git)** | USA-MN - Minnesota Remote | Remote | Jul 30 |
 | ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a58809f961617fe21adb9?utm_campaign=1057&utm_source=git)** | USA-AZ - Arizona Remote | Remote | Jul 30 |
+| ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a58809f961617fe21adba?utm_campaign=1057&utm_source=git)** | USA-MN - Minnesota Remote | Remote | Jul 30 |
 | ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a587c09808a6103e4df52?utm_campaign=1057&utm_source=git)** | USA-IN - Indiana Remote | Remote | Jul 30 |
 | ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a587309808a6103e4df46?utm_campaign=1057&utm_source=git)** | USA-MI - Michigan Remote | Remote | Jul 30 |
 | ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a5872aab47a17f6708097?utm_campaign=1057&utm_source=git)** | USA-LA - Louisiana Remote | Remote | Jul 30 |
-| ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a58719f961617fe21ad9f?utm_campaign=1057&utm_source=git)** | USA-NY - New York Remote | Remote | Jul 30 |
 | ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a58719f961617fe21ad9e?utm_campaign=1057&utm_source=git)** | USA-ID - Idaho Remote | Remote | Jul 30 |
-| ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a586d09808a6103e4df3a?utm_campaign=1057&utm_source=git)** | USA-ND - North Dakota Remote | Remote | Jul 30 |
-| ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a58659f961617fe21ad8e?utm_campaign=1057&utm_source=git)** | USA-PA - Pennsylvania Remote | Remote | Jul 30 |
-| ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a5865aab47a17f670807e?utm_campaign=1057&utm_source=git)** | USA-MA - Massachusetts Remote | Remote | Jul 30 |
-| ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a5865aab47a17f670807d?utm_campaign=1057&utm_source=git)** | USA-NE - Nebraska Remote | Remote | Jul 30 |
-| ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a585709808a6103e4df1f?utm_campaign=1057&utm_source=git)** | USA-NV - Nevada Remote | Remote | Jul 30 |
-| ↳ | **[Fall 2025 Internship - Access](https://jobright.ai/jobs/info/688a584e09808a6103e4df14?utm_campaign=1057&utm_source=git)** | USA-TX - Texas Remote | Remote | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
