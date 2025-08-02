@@ -57,14 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lutheran Services in Iowa](https://www.lsiowa.org)** | **[Unpaid LSI Internship or Practicum - Iowa Statewide - Spring 2026](https://jobright.ai/jobs/info/688e5e5fe5cead4afd45c9ed?utm_campaign=1057&utm_source=git)** | Des Moines, IA | On Site | Aug 02 |
+| **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting (Tenure Track)](https://jobright.ai/jobs/info/688e6b61cdbd821a366418e3?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Aug 02 |
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Psychiatric Services](https://jobright.ai/jobs/info/688e49b8cdbd821a3664128e?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Aug 02 |
 | ↳ | **[RN New Graduate Internship Program - Resource Float Pool](https://jobright.ai/jobs/info/688e48f9e5cead4afd45c4c0?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Aug 02 |
 | ↳ | **[RN New Graduate Internship Program - Medical Unit](https://jobright.ai/jobs/info/688e48536a4aac5783cd8e0f?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Aug 02 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Trading Bootcamp Intern](https://jobright.ai/jobs/info/688e3dc46a4aac5783cd8cd4?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Aug 02 |
 | **[County of San Diego](http://www.sdcounty.ca.gov)** | **[Student Worker-19090504-Undergraduate, Graduate/Tech and High School](https://jobright.ai/jobs/info/688e3b92cdbd821a36641003?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Aug 02 |
 | **[Astro Arpanet LLC](https://www.linkedin.com/company/28663593)** | **[Research Assistant (Student Role) – Test AI Tutor for all disciplines](https://jobright.ai/jobs/info/688e32becdbd821a36640f50?utm_campaign=1057&utm_source=git)** | United States | Remote | Aug 02 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Trading Bootcamp Intern](https://jobright.ai/jobs/info/688e30956a4aac5783cd8b29?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Aug 02 |
-| **[Thrive Pet Healthcare](https://www.thrivepetcare.com)** | **[Rotating Veterinary Internship - Chicago, IL - 2026 Class](https://jobright.ai/jobs/info/688e302acdbd821a36640e35?utm_campaign=1057&utm_source=git)** | Hoffman Estates, IL | On Site | Aug 02 |
+| **[Thrive Pet Healthcare](https://www.thrivepetcare.com)** | **[Rotating Veterinary Internship - Chicago, IL - 2025 Class](https://jobright.ai/jobs/info/688e304fcdbd821a36640e63?utm_campaign=1057&utm_source=git)** | Hoffman Estates, IL | On Site | Aug 02 |
+| ↳ | **[Rotating Veterinary Internship - Chicago, IL - 2026 Class](https://jobright.ai/jobs/info/688e302acdbd821a36640e35?utm_campaign=1057&utm_source=git)** | Hoffman Estates, IL | On Site | Aug 02 |
 | **[Hems & Brims](http://www.hemsandbrims.com)** | **[Fashion Intern](https://jobright.ai/jobs/info/688e2d87cdbd821a36640d04?utm_campaign=1057&utm_source=git)** | United States | Remote | Aug 02 |
 | **[Thrive Pet Healthcare](https://www.thrivepetcare.com)** | **[ER Veterinary Internship - South Carolina Veterinary Specialist & Emergency](https://jobright.ai/jobs/info/688e2d75e5cead4afd45bfa2?utm_campaign=1057&utm_source=git)** | Columbia, SC | On Site | Aug 02 |
 | ↳ | **[Equine Veterinary Intern - Pilchuck Veterinary Hospital](https://jobright.ai/jobs/info/688e2d156a4aac5783cd8936?utm_campaign=1057&utm_source=git)** | Snohomish, WA | On Site | Aug 02 |
@@ -76,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Jewish Board of Family and Children's Services](https://jewishboard.org/)** | **[Intern Clinical Supervisor LCSW](https://jobright.ai/jobs/info/68716c7fa5ae807a59cff7bd?utm_campaign=1057&utm_source=git)** | Staten Island, NY | On Site | Aug 02 |
 | ↳ | **[Intern Clinical Supervisor LCSW](https://jobright.ai/jobs/info/68739bd34001e95011b17e5f?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Aug 02 |
 | **[Protiviti](http://www.protiviti.com)** | **[New York City Digital Intern - 2026](https://jobright.ai/jobs/info/688df4866a4aac5783cd7dd7?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Aug 02 |
-| **[Thrive Pet Healthcare](https://www.thrivepetcare.com)** | **[Rotating Veterinary Internship - Chicago, IL - 2025 Class](https://jobright.ai/jobs/info/688def8acdbd821a36640163?utm_campaign=1057&utm_source=git)** | Hoffman Estates, IL | On Site | Aug 02 |
 | **[California Department of State Hospitals](https://www.dsh.ca.gov/)** | **[STUDENT ASSISTANT](https://jobright.ai/jobs/info/68738ec94001e95011b1747e?utm_campaign=1057&utm_source=git)** | Atascadero, CA | On Site | Aug 02 |
 | **[Independent Women's Forum](https://www.iwf.org/)** | **[Intern](https://jobright.ai/jobs/info/688de7186a4aac5783cd7c6d?utm_campaign=1057&utm_source=git)** | Washington, DC | Remote | Aug 02 |
 | **[KaiPod Learning](http://www.kaipodlearning.com)** | **[Classroom Facilitator (Volunteer)](https://jobright.ai/jobs/info/688e070d6a4aac5783cd80dd?utm_campaign=1057&utm_source=git)** | Plano, TX | On Site | Aug 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rutgers University](http://www.rutgers.edu)** | **[Instructor/Internship Coordinator for CCAS](https://jobright.ai/jobs/info/688d70223a30793eb964ae55?utm_campaign=1057&utm_source=git)** | Camden, NJ | On Site | Aug 01 |
 | ↳ | **[Lecturers and Coadjutants Various Courses Winter 2025 Internal](https://jobright.ai/jobs/info/688d713f27f9022553c0b7b4?utm_campaign=1057&utm_source=git)** | New Brunswick, NJ | On Site | Aug 01 |
 | ↳ | **[2025 Graders and TAs for Summer Session](https://jobright.ai/jobs/info/688d6f7b1808534a89cc3412?utm_campaign=1057&utm_source=git)** | New Brunswick, NJ | On Site | Aug 01 |
-| ↳ | **[Post Doctoral Associate](https://jobright.ai/jobs/info/688d737e27f9022553c0b8f8?utm_campaign=1057&utm_source=git)** | New Brunswick, NJ | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
