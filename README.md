@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jewish Board of Family and Children's Services](https://jewishboard.org/)** | **[Intern Clinical Supervisor LCSW](https://jobright.ai/jobs/info/68716c7fa5ae807a59cff7bd?utm_campaign=1057&utm_source=git)** | Staten Island, NY | On Site | Aug 02 |
+| ↳ | **[Intern Clinical Supervisor LCSW](https://jobright.ai/jobs/info/68739bd34001e95011b17e5f?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Aug 02 |
+| **[Protiviti](http://www.protiviti.com)** | **[New York City Digital Intern - 2026](https://jobright.ai/jobs/info/688df4866a4aac5783cd7dd7?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Aug 02 |
+| **[Thrive Pet Healthcare](https://www.thrivepetcare.com)** | **[Rotating Veterinary Internship - Chicago, IL - 2025 Class](https://jobright.ai/jobs/info/688def8acdbd821a36640163?utm_campaign=1057&utm_source=git)** | Hoffman Estates, IL | On Site | Aug 02 |
+| **[Independent Women's Forum](https://www.iwf.org/)** | **[Intern](https://jobright.ai/jobs/info/688de7186a4aac5783cd7c6d?utm_campaign=1057&utm_source=git)** | Washington, DC | Remote | Aug 02 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Senior Coordinator - Student Success - PAC - req12885](https://jobright.ai/jobs/info/688dda30e5cead4afd45b1f2?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Aug 02 |
 | **[Fowler College of Business at San Diego State University](https://business.sdsu.edu/)** | **[Center for Intercultural Relations Program and Operations Coordinator (Student Services Professional III)](https://jobright.ai/jobs/info/688dd13f6a4aac5783cd7a37?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Aug 02 |
 | **[Kamehameha Schools](http://www.ksbe.edu/)** | **[Kamaluonalani Workplace Student Aides](https://jobright.ai/jobs/info/688dcf6dcdbd821a3663fb77?utm_campaign=1057&utm_source=git)** | Keaau, HI | On Site | Aug 02 |
@@ -132,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[Year Up United](http://yearup.org)** | **[Financial Operations Job Training Opportunity](https://jobright.ai/jobs/info/688d4fa91808534a89cc2822?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Oklahoma City Winter Extern Program - 2025/2026](https://jobright.ai/jobs/info/688d7ac36a4aac5783cd250e?utm_campaign=1057&utm_source=git)** | Oklahoma City, OK | On Site | Aug 01 |
 | **[Rutgers University](http://www.rutgers.edu)** | **[Instructor/Internship Coordinator for CCAS](https://jobright.ai/jobs/info/688d70223a30793eb964ae55?utm_campaign=1057&utm_source=git)** | Camden, NJ | On Site | Aug 01 |
-| ↳ | **[2025 Graders and TAs for Summer Session](https://jobright.ai/jobs/info/688d6f7b1808534a89cc3412?utm_campaign=1057&utm_source=git)** | New Brunswick, NJ | On Site | Aug 01 |
 | ↳ | **[Lecturers and Coadjutants Various Courses Winter 2025 Internal](https://jobright.ai/jobs/info/688d713f27f9022553c0b7b4?utm_campaign=1057&utm_source=git)** | New Brunswick, NJ | On Site | Aug 01 |
+| ↳ | **[2025 Graders and TAs for Summer Session](https://jobright.ai/jobs/info/688d6f7b1808534a89cc3412?utm_campaign=1057&utm_source=git)** | New Brunswick, NJ | On Site | Aug 01 |
 | ↳ | **[Post Doctoral Associate](https://jobright.ai/jobs/info/688d737e27f9022553c0b8f8?utm_campaign=1057&utm_source=git)** | New Brunswick, NJ | On Site | Aug 01 |
 | ↳ | **[Part Time Course Assistant - Summer 2025](https://jobright.ai/jobs/info/688d725c1808534a89cc358d?utm_campaign=1057&utm_source=git)** | Piscataway, NJ | Hybrid | Aug 01 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Clinical Intern - Substance Abuse Recovery](https://jobright.ai/jobs/info/688d9451cdbd821a3663c3e7?utm_campaign=1057&utm_source=git)** | Southfield, MI | On Site | Aug 01 |
@@ -146,15 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Dallas College](https://www.dcccd.edu)** | **[Administrative Support Student Assistant (WRU) EFC-2](https://jobright.ai/jobs/info/688d34791808534a89cc1de6?utm_campaign=1057&utm_source=git)** | Eastfield Campus | On Site | Aug 01 |
 | ↳ | **[FWS-Administrative Support Student Assistant (WRU) NLC-2](https://jobright.ai/jobs/info/688d344827f9022553c09f80?utm_campaign=1057&utm_source=git)** | North Lake Campus | On Site | Aug 01 |
 | **[Raise a Child of the Carolinas](http://www.raiseachildcarolinas.org)** | **[Volunteer](https://jobright.ai/jobs/info/688d8c056a4aac5783cd36f4?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Aug 01 |
-| **[Space Dynamics Laboratory](https://www.sdl.usu.edu)** | **[Student: Strategy Support Assistant](https://jobright.ai/jobs/info/688d2ef73a30793eb9649473?utm_campaign=1057&utm_source=git)** | North Logan, UT | On Site | Aug 01 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Start Your Legacy HBCU Externship  -  IT](https://jobright.ai/jobs/info/688d2c0d1808534a89cc195e?utm_campaign=1057&utm_source=git)** | US – REMOTE | Remote | Aug 01 |
 | **[ASPCA](http://www.aspca.org/)** | **[Internship in Applied Animal Welfare Research (Spring or Summer 2026)](https://jobright.ai/jobs/info/688d27c01808534a89cc14ae?utm_campaign=1057&utm_source=git)** | United States | Remote | Aug 01 |
 | **[Thrive Pet Healthcare](https://www.thrivepetcare.com)** | **[Veterinary Rotating Internships - Chicago, Seattle, Scottsdale](https://jobright.ai/jobs/info/688d27523a30793eb9648e10?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Aug 01 |
 | **[Easterseals NH](https://www.easterseals.com/nh)** | **[Intern-Senior Services Adult Day](https://jobright.ai/jobs/info/688dc2cae5cead4afd45a6b9?utm_campaign=1057&utm_source=git)** | Manchester, NH | On Site | Aug 01 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist (Family Services Coordinator)](https://jobright.ai/jobs/info/688d92da6a4aac5783cd40b7?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Aug 01 |
 | **[Huntington Health](https://www.huntingtonhealth.org)** | **[Student Nurse Intern Per Diem - Days - Oncology](https://jobright.ai/jobs/info/688d24891808534a89cc13d3?utm_campaign=1057&utm_source=git)** | Pasadena, CA | On Site | Aug 01 |
-| **[Northwest Lineman College](https://www.lineman.edu/)** | **[Power Lineworker Apprenticeship Training Program Instructor - Sumter, SC](https://jobright.ai/jobs/info/688d9934cdbd821a3663c8f6?utm_campaign=1057&utm_source=git)** | York, SC | On Site | Aug 01 |
-| **[Lee Health](http://www.leehealth.org/)** | **[Intern/RN- Home Health](https://jobright.ai/jobs/info/688d236827f9022553c095bd?utm_campaign=1057&utm_source=git)** | Fort Myers, FL | On Site | Aug 01 |
-| **[Baptist Health](http://baptisthealth.net/)** | **[Nurse Intern, 2Hope-Multispecialty Stepdown, PT, 7A-7P](https://jobright.ai/jobs/info/688d207d3a30793eb9648c0a?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Aug 01 |
-| **[Truist](https://www.truist.com)** | **[2026 Credit Summer Internship (LDP Intern Conversion)](https://jobright.ai/jobs/info/688d1f4f27f9022553c094a7?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
