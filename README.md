@@ -57,9 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Year Up United](http://yearup.org)** | **[Financial Operations Job Training Opportunity](https://jobright.ai/jobs/info/688d4fa91808534a89cc2822?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Aug 01 |
+| ↳ | **[Desktop Support Job Training Program](https://jobright.ai/jobs/info/688d4acc3a30793eb9649f64?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Aug 01 |
+| ↳ | **[Quality Assurance Job Training Program](https://jobright.ai/jobs/info/688d4abe3a30793eb9649f60?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Aug 01 |
+| **[PNC](http://www.pnc.com)** | **[Retail Product Innovation Undergraduate Intern](https://jobright.ai/jobs/info/688cfc7a27f9022553c08467?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Aug 01 |
+| **[Mosaic Community Health](https://mosaicmedical.org)** | **[Student/Intern](https://jobright.ai/jobs/info/688d46a627f9022553c0a752?utm_campaign=1057&utm_source=git)** | Bend, OR | On Site | Aug 01 |
+| **[Ferris State University College of Business ](http://ferris.edu/business)** | **[Museum & Gallery Stu Assistant (Student Position)](https://jobright.ai/jobs/info/688d45b127f9022553c0a6f3?utm_campaign=1057&utm_source=git)** | Big Rapids, MI | On Site | Aug 01 |
 | **[The Jewish Museum](https://thejewishmuseum.org/)** | **[2025-2026 Academic Year Internship Program](https://jobright.ai/jobs/info/688d351e27f9022553c0a0bd?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[Dallas College](https://www.dcccd.edu)** | **[Administrative Support Student Assistant (WRU) EFC-2](https://jobright.ai/jobs/info/688d34791808534a89cc1de6?utm_campaign=1057&utm_source=git)** | Eastfield Campus | On Site | Aug 01 |
 | ↳ | **[FWS-Administrative Support Student Assistant (WRU) NLC-2](https://jobright.ai/jobs/info/688d344827f9022553c09f80?utm_campaign=1057&utm_source=git)** | North Lake Campus | On Site | Aug 01 |
+| **[Space Dynamics Laboratory](https://www.sdl.usu.edu)** | **[Student: Strategy Support Assistant](https://jobright.ai/jobs/info/688d2ef73a30793eb9649473?utm_campaign=1057&utm_source=git)** | North Logan, UT | On Site | Aug 01 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Start Your Legacy HBCU Externship  -  IT](https://jobright.ai/jobs/info/688d2c0d1808534a89cc195e?utm_campaign=1057&utm_source=git)** | US – REMOTE | Remote | Aug 01 |
 | **[ASPCA](http://www.aspca.org/)** | **[Internship in Applied Animal Welfare Research (Spring or Summer 2026)](https://jobright.ai/jobs/info/688d27c01808534a89cc14ae?utm_campaign=1057&utm_source=git)** | United States | Remote | Aug 01 |
 | **[Thrive Pet Healthcare](https://www.thrivepetcare.com)** | **[Veterinary Rotating Internships - Chicago, Seattle, Scottsdale](https://jobright.ai/jobs/info/688d27523a30793eb9648e10?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Aug 01 |
@@ -79,9 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Bank of Hawaii](https://www.boh.com/personal/)** | **[Student Assistant (Strategic Analytics)](https://jobright.ai/jobs/info/688d112a1808534a89cc0ac6?utm_campaign=1057&utm_source=git)** | 130 Merchant St, Honolulu, HI, 96813, US | On Site | Aug 01 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Intern](https://jobright.ai/jobs/info/688d0fd83a30793eb964828e?utm_campaign=1057&utm_source=git)** | Bourbonnais, IL | On Site | Aug 01 |
 | **[BayCare Health System](https://baycare.org/bmg)** | **[RN - Registered Nurse - Labor and Delivery Internship - South Florida Baptist Hospital - L&D](https://jobright.ai/jobs/info/688d35a627f9022553c0a0fc?utm_campaign=1057&utm_source=git)** | Plant City, FL | On Site | Aug 01 |
-| **[Space Dynamics Laboratory](https://www.sdl.usu.edu)** | **[Student: Strategy Support Assistant](https://jobright.ai/jobs/info/688d0e1b27f9022553c08be3?utm_campaign=1057&utm_source=git)** | North Logan, UT | On Site | Aug 01 |
 | **[Kraft Heinz](http://www.kraftheinzcompany.com)** | **[2026 US Internship Program](https://jobright.ai/jobs/info/688d0cc41808534a89cc0693?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Aug 01 |
-| **[PNC](http://www.pnc.com)** | **[Retail Product Innovation Undergraduate Intern](https://jobright.ai/jobs/info/688cfc7a27f9022553c08467?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Aug 01 |
 | **[University of Colorado Boulder](https://www.colorado.edu)** | **[Chancellor’s Postdoctoral Fellowship](https://jobright.ai/jobs/info/688cfa1327f9022553c0833a?utm_campaign=1057&utm_source=git)** | Boulder, CO | On Site | Aug 01 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Intern](https://jobright.ai/jobs/info/688cf9e63a30793eb96479b2?utm_campaign=1057&utm_source=git)** | NY, Buffalo | On Site | Aug 01 |
 | **[foundry10](http://foundry10.org/)** | **[Senior Researcher, Labor Economics](https://jobright.ai/jobs/info/688d25753a30793eb9648d4c?utm_campaign=1057&utm_source=git)** | Seattle, WA | Hybrid | Aug 01 |
@@ -108,9 +113,9 @@ For a complete list, click the following sortable link below:
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[School Nurse [Snowden International High] (SY25-26)](https://jobright.ai/jobs/info/688cd55f1808534a89cbef73?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Aug 01 |
 | ↳ | **[Noon Supervisor (0.6 FTE) - International Community School (2025-26)](https://jobright.ai/jobs/info/688cd5313a30793eb9646805?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Aug 01 |
 | **[PNC](http://www.pnc.com)** | **[Asset Management Group Undergraduate Intern](https://jobright.ai/jobs/info/688cd4a23a30793eb96467ca?utm_campaign=1057&utm_source=git)** | GA - Atlanta | On Site | Aug 01 |
-| ↳ | **[Corporate & Institutional Banking Undergraduate Intern – Commercial & Corporate Banking (East/Midwest)](https://jobright.ai/jobs/info/688cd49927f9022553c070a8?utm_campaign=1057&utm_source=git)** | PA - Philadelphia | On Site | Aug 01 |
-| ↳ | **[Corporate & Institutional Banking Undergraduate Intern – Commercial & Corporate Banking (East/Midwest)](https://jobright.ai/jobs/info/688cd4993a30793eb96467c0?utm_campaign=1057&utm_source=git)** | OH - Cleveland | On Site | Aug 01 |
 | ↳ | **[Asset Management Group Undergraduate Intern](https://jobright.ai/jobs/info/688cd49927f9022553c070a7?utm_campaign=1057&utm_source=git)** | DC - Washington | On Site | Aug 01 |
+| ↳ | **[Corporate & Institutional Banking Undergraduate Intern – Commercial & Corporate Banking (East/Midwest)](https://jobright.ai/jobs/info/688cd4993a30793eb96467c0?utm_campaign=1057&utm_source=git)** | OH - Cleveland | On Site | Aug 01 |
+| ↳ | **[Corporate & Institutional Banking Undergraduate Intern – Commercial & Corporate Banking (East/Midwest)](https://jobright.ai/jobs/info/688cd49927f9022553c070a8?utm_campaign=1057&utm_source=git)** | PA - Philadelphia | On Site | Aug 01 |
 | ↳ | **[Asset Management Group Undergraduate Intern](https://jobright.ai/jobs/info/688cd4921808534a89cbef39?utm_campaign=1057&utm_source=git)** | CO - Denver (80005) | On Site | Aug 01 |
 | ↳ | **[Asset Management Group Undergraduate Intern](https://jobright.ai/jobs/info/688cd48627f9022553c0708e?utm_campaign=1057&utm_source=git)** | PA - Philadelphia | On Site | Aug 01 |
 | ↳ | **[Asset Management Group Undergraduate Intern](https://jobright.ai/jobs/info/688cd4633a30793eb964677c?utm_campaign=1057&utm_source=git)** | PA - Pittsburgh (15222) | On Site | Aug 01 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mississippi University for Women](http://muw.edu)** | **[Office Assistant (Kossen Center for Teaching & Learning)](https://jobright.ai/jobs/info/688ca7e33a30793eb9645af1?utm_campaign=1057&utm_source=git)** | Columbus, MS | On Site | Aug 01 |
 | **[Ferris State University College of Business ](http://ferris.edu/business)** | **[Disability & Access Clerical 2 (Student Position)](https://jobright.ai/jobs/info/688ca6ef27f9022553c06239?utm_campaign=1057&utm_source=git)** | Big Rapids, MI | On Site | Aug 01 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Towson) Fall 2025 Nursing Senior Practicum](https://jobright.ai/jobs/info/6853053b586d1b8ea70244cd?utm_campaign=1057&utm_source=git)** | Towson, MD | On Site | Aug 01 |
-| **[Applewood Centers Inc](https://www.applewoodcenters.org)** | **[Group Therapeutic Services Program Intern](https://jobright.ai/jobs/info/688c97961808534a89cbd126?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Aug 01 |
-| **[Opening Doors](https://www.openingdoorsinc.org)** | **[Therapist Intern](https://jobright.ai/jobs/info/688c973d27f9022553c04f8a?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Aug 01 |
-| **[Ferris State University College of Business ](http://ferris.edu/business)** | **[Auto Lab Student Assistant (Student Position)](https://jobright.ai/jobs/info/688cb3431808534a89cbe573?utm_campaign=1057&utm_source=git)** | Big Rapids, MI | On Site | Aug 01 |
-| ↳ | **[LGBTQ+ Resource Student Asst (Student Position)](https://jobright.ai/jobs/info/688cb4fe27f9022553c06795?utm_campaign=1057&utm_source=git)** | Big Rapids, MI | On Site | Aug 01 |
-| **[Health Connect America](https://healthconnectamerica.com)** | **[Masters Level Intern](https://jobright.ai/jobs/info/688cb5ee27f9022553c067e6?utm_campaign=1057&utm_source=git)** | Clarksville, TN | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
