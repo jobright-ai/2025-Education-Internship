@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Psychiatric Services](https://jobright.ai/jobs/info/688e49b8cdbd821a3664128e?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Aug 02 |
+| ↳ | **[RN New Graduate Internship Program - Resource Float Pool](https://jobright.ai/jobs/info/688e48f9e5cead4afd45c4c0?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Aug 02 |
+| ↳ | **[RN New Graduate Internship Program - Medical Unit](https://jobright.ai/jobs/info/688e48536a4aac5783cd8e0f?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Aug 02 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Trading Bootcamp Intern](https://jobright.ai/jobs/info/688e3dc46a4aac5783cd8cd4?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Aug 02 |
+| **[County of San Diego](http://www.sdcounty.ca.gov)** | **[Student Worker-19090504-Undergraduate, Graduate/Tech and High School](https://jobright.ai/jobs/info/688e3b92cdbd821a36641003?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Aug 02 |
 | **[Astro Arpanet LLC](https://www.linkedin.com/company/28663593)** | **[Research Assistant (Student Role) – Test AI Tutor for all disciplines](https://jobright.ai/jobs/info/688e32becdbd821a36640f50?utm_campaign=1057&utm_source=git)** | United States | Remote | Aug 02 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Trading Bootcamp Intern](https://jobright.ai/jobs/info/688e30956a4aac5783cd8b29?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Aug 02 |
 | **[Thrive Pet Healthcare](https://www.thrivepetcare.com)** | **[Rotating Veterinary Internship - Chicago, IL - 2026 Class](https://jobright.ai/jobs/info/688e302acdbd821a36640e35?utm_campaign=1057&utm_source=git)** | Hoffman Estates, IL | On Site | Aug 02 |
@@ -149,12 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Year Up United](http://yearup.org)** | **[Financial Operations Job Training Opportunity](https://jobright.ai/jobs/info/688d4fa91808534a89cc2822?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Oklahoma City Winter Extern Program - 2025/2026](https://jobright.ai/jobs/info/688d7ac36a4aac5783cd250e?utm_campaign=1057&utm_source=git)** | Oklahoma City, OK | On Site | Aug 01 |
 | **[Rutgers University](http://www.rutgers.edu)** | **[Instructor/Internship Coordinator for CCAS](https://jobright.ai/jobs/info/688d70223a30793eb964ae55?utm_campaign=1057&utm_source=git)** | Camden, NJ | On Site | Aug 01 |
-| ↳ | **[2025 Graders and TAs for Summer Session](https://jobright.ai/jobs/info/688d6f7b1808534a89cc3412?utm_campaign=1057&utm_source=git)** | New Brunswick, NJ | On Site | Aug 01 |
 | ↳ | **[Lecturers and Coadjutants Various Courses Winter 2025 Internal](https://jobright.ai/jobs/info/688d713f27f9022553c0b7b4?utm_campaign=1057&utm_source=git)** | New Brunswick, NJ | On Site | Aug 01 |
+| ↳ | **[2025 Graders and TAs for Summer Session](https://jobright.ai/jobs/info/688d6f7b1808534a89cc3412?utm_campaign=1057&utm_source=git)** | New Brunswick, NJ | On Site | Aug 01 |
 | ↳ | **[Post Doctoral Associate](https://jobright.ai/jobs/info/688d737e27f9022553c0b8f8?utm_campaign=1057&utm_source=git)** | New Brunswick, NJ | On Site | Aug 01 |
-| ↳ | **[Part Time Course Assistant - Summer 2025](https://jobright.ai/jobs/info/688d725c1808534a89cc358d?utm_campaign=1057&utm_source=git)** | Piscataway, NJ | Hybrid | Aug 01 |
-| **[MIT](www.mit.edu)** | **[Student Funding Coordinator](https://jobright.ai/jobs/info/688e0f236a4aac5783cd833b?utm_campaign=1057&utm_source=git)** | Cambridge, MA | On Site | Aug 01 |
-| **[Henry Ford Health](http://www.henryford.com/)** | **[Clinical Intern - Substance Abuse Recovery](https://jobright.ai/jobs/info/688d9451cdbd821a3663c3e7?utm_campaign=1057&utm_source=git)** | Southfield, MI | On Site | Aug 01 |
-| **[Rutgers University](http://www.rutgers.edu)** | **[Student Research Assistant, Per Diem (Multiple Vacancies)](https://jobright.ai/jobs/info/688d87d4e5cead4afd456866?utm_campaign=1057&utm_source=git)** | Piscataway, NJ | On Site | Aug 01 |
-| **[PNC](http://www.pnc.com)** | **[Retail Product Innovation Undergraduate Intern](https://jobright.ai/jobs/info/688cfc7a27f9022553c08467?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
