@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Year Up United](http://yearup.org)** | **[Software Development Job Training Program](https://jobright.ai/jobs/info/688f4965e5cead4afd46090d?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Aug 03 |
+| ↳ | **[Computer Architecture & Systems Fundamentals Job Training Program](https://jobright.ai/jobs/info/688f486e6a4aac5783cdd1d7?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Aug 03 |
+| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Middle East Program (Fall 2025)](https://jobright.ai/jobs/info/688f45d46a4aac5783cdd175?utm_campaign=1057&utm_source=git)** | Becket, MA | Hybrid | Aug 03 |
+| **[Morehouse College National Alumni Association](http://www.morehousecollegealumni.org/)** | **[Music Faculty Office Assistant](https://jobright.ai/jobs/info/688f3ddfcdbd821a366454fb?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Aug 03 |
+| **[Spirit Mountain Casino](https://www.spiritmountain.com/)** | **[Dealer School Student](https://jobright.ai/jobs/info/688f37d6e5cead4afd46079b?utm_campaign=1057&utm_source=git)** | Grand Ronde, OR | On Site | Aug 03 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Senior Coordinator - Student Success - PAC - req12885](https://jobright.ai/jobs/info/688f2660e5cead4afd460709?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Aug 03 |
 | **[Catholic Sports](http://www.CatholicSports.net)** | **[Internships in Adult Intramural Sports, Marketing or Accounting](https://jobright.ai/jobs/info/688ef8396a4aac5783cdbb9a?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Aug 02 |
 | **[CHRISTUS Trinity Mother Frances Health System](http://www.christushealth.org/)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/688ef239e5cead4afd45ef9f?utm_campaign=1057&utm_source=git)** | Alexandria, LA | On Site | Aug 02 |
@@ -148,13 +153,8 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/688ede87e5cead4afd45defc?utm_campaign=1057&utm_source=git)** | Paoli, PA | On Site | Aug 01 |
 | **[Annaly Capital Management](http://www.annaly.com/)** | **[Trading Bootcamp Micro-Internship - Summer 2026](https://jobright.ai/jobs/info/688d7f666a4aac5783cd27f8?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Aug 01 |
 | **[Holyoke Public Schools](https://www.hps.holyoke.ma.us/)** | **[WIOA Student Intern](https://jobright.ai/jobs/info/688ed8adcdbd821a366428a5?utm_campaign=1057&utm_source=git)** | Holyoke, MA | On Site | Aug 01 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/688e7b25e5cead4afd45cd1c?utm_campaign=1057&utm_source=git)** | Monterey, CA | On Site | Aug 01 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/688e7bb56a4aac5783cd96d1?utm_campaign=1057&utm_source=git)** | Wilkes-Barre, PA | On Site | Aug 01 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/688e7b6ae5cead4afd45cd3b?utm_campaign=1057&utm_source=git)** | Haddonfield, NJ | On Site | Aug 01 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/688e7bb56a4aac5783cd96d1?utm_campaign=1057&utm_source=git)** | Wilkes-Barre, PA | On Site | Aug 01 |
+| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/688e7b25e5cead4afd45cd1c?utm_campaign=1057&utm_source=git)** | Monterey, CA | On Site | Aug 01 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/688e7b88e5cead4afd45cd44?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | On Site | Aug 01 |
-| **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Office Assistant, Athletic Performance](https://jobright.ai/jobs/info/688d779d6a4aac5783cd22f6?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Aug 01 |
-| **[Greater Philadelphia YMCA](https://philaymca.org/)** | **[Teen Tech Center Program Facilitator/Intern](https://jobright.ai/jobs/info/688d73cc1808534a89cc3640?utm_campaign=1057&utm_source=git)** | Columbia North YMCA, Philadelphia, Pennsylvania, United States of America | Hybrid | Aug 01 |
-| ↳ | **[Workforce Development Assistant/Intern](https://jobright.ai/jobs/info/688d73cb27f9022553c0b921?utm_campaign=1057&utm_source=git)** | Association Office, Conshohocken, Pennsylvania, United States of America | Hybrid | Aug 01 |
-| ↳ | **[Youth Civic Engagement Mentor/Intern](https://jobright.ai/jobs/info/688d739e1808534a89cc3610?utm_campaign=1057&utm_source=git)** | Association Office, Conshohocken, Pennsylvania, United States of America | Hybrid | Aug 01 |
-| **[Rutgers University](http://www.rutgers.edu)** | **[Graduate Assistant](https://jobright.ai/jobs/info/688d72821808534a89cc359f?utm_campaign=1057&utm_source=git)** | Piscataway, NJ | Remote | Aug 01 |
+| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/688e7ba76a4aac5783cd96cc?utm_campaign=1057&utm_source=git)** | Haddonfield, NJ | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
