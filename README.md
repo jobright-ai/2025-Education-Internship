@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ascendro](https://www.linkedin.com/company/101421200)** | **[Trading Bootcamp Intern](https://jobright.ai/jobs/info/688f7f06e5cead4afd460e59?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Aug 03 |
+| **[Astro Arpanet LLC](https://www.linkedin.com/company/28663593)** | **[Research Assistant (Student Role) – Test AI Tutor for all disciplines](https://jobright.ai/jobs/info/688f77cecdbd821a36645a40?utm_campaign=1057&utm_source=git)** | United States | Remote | Aug 03 |
+| **[Con Edison](http://www.coned.com)** | **[Computer Aide Temp Coops - College Students (IT Majors)](https://jobright.ai/jobs/info/688f7620cdbd821a366459dd?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Aug 03 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[MnSCU Academic Professional 2 - International Enrollment Advisor](https://jobright.ai/jobs/info/688f757c6a4aac5783cdd50d?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | Hybrid | Aug 03 |
+| **[Con Edison](http://www.coned.com)** | **[Analyst Aide Temp Coops - College Students (Business Majors)](https://jobright.ai/jobs/info/688f7526e5cead4afd460cc1?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Aug 03 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Adjunct Faculty - International Psychology - DC Campus](https://jobright.ai/jobs/info/688f74cce5cead4afd460c6e?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Aug 03 |
+| ↳ | **[McDuffie Center International Student Position](https://jobright.ai/jobs/info/688f6e6ce5cead4afd460bfa?utm_campaign=1057&utm_source=git)** | Macon, GA | On Site | Aug 03 |
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Surgical Care Unit](https://jobright.ai/jobs/info/688f592f6a4aac5783cdd2e0?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Aug 03 |
 | ↳ | **[RN New Graduate Internship Program - Resource Float Pool](https://jobright.ai/jobs/info/688f59296a4aac5783cdd2dd?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Aug 03 |
 | ↳ | **[RN New Graduate Internship Program - Psychiatric Services](https://jobright.ai/jobs/info/688f58a4e5cead4afd460a35?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Aug 03 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kids on the Move](https://www.kotm.org)** | **[Behavior Intern - ABA](https://jobright.ai/jobs/info/688da32ecdbd821a3663d376?utm_campaign=1057&utm_source=git)** | Orem, UT | On Site | Aug 01 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Center for Intercultural Relations Program and Operations Coordinator (Student Services Professional III)](https://jobright.ai/jobs/info/688db7156a4aac5783cd63cf?utm_campaign=1057&utm_source=git)** | SD Metro Area | On Site | Aug 01 |
 | **[St. Mary's Medical Center - Huntington, WV](http://www.st-marys.org)** | **[HIMG-Primary Care - PsyD Student Intern (Part Time) - 7322](https://jobright.ai/jobs/info/688d98d4cdbd821a3663c88d?utm_campaign=1057&utm_source=git)** | Huntington, WV | On Site | Aug 01 |
-| **[Drexel University's Westphal College of Media Arts & Design](https://drexel.edu/westphal)** | **[Instructional Designer](https://jobright.ai/jobs/info/688d94e5e5cead4afd45794b?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 01 |
-| **[Easterseals PORT Health](http://eastersealsPORT.com)** | **[Intern](https://jobright.ai/jobs/info/688d9476cdbd821a3663c409?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Aug 01 |
-| **[World Relief](https://worldrelief.org/)** | **[Sacramento Family Services Education Internship- Winter/Spring 2025 - 2024957](https://jobright.ai/jobs/info/688db9c5cdbd821a3663e75d?utm_campaign=1057&utm_source=git)** | Sacramento, CA | Hybrid | Aug 01 |
-| **[Rutgers University](http://www.rutgers.edu)** | **[Post Doc Fellow](https://jobright.ai/jobs/info/688edc3acdbd821a36642a3d?utm_campaign=1057&utm_source=git)** | Piscataway, NJ | On Site | Aug 01 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/688ede87e5cead4afd45defc?utm_campaign=1057&utm_source=git)** | Paoli, PA | On Site | Aug 01 |
-| **[Annaly Capital Management](http://www.annaly.com/)** | **[Trading Bootcamp Micro-Internship - Summer 2026](https://jobright.ai/jobs/info/688d7f666a4aac5783cd27f8?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Aug 01 |
-| **[Holyoke Public Schools](https://www.hps.holyoke.ma.us/)** | **[WIOA Student Intern](https://jobright.ai/jobs/info/688ed8adcdbd821a366428a5?utm_campaign=1057&utm_source=git)** | Holyoke, MA | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
