@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[USC Marshall School of Business](https://www.marshall.usc.edu/)** | **[Graduate Assistant - 15 positions available](https://jobright.ai/jobs/info/688fe9ea6a4aac5783cdde78?utm_campaign=1057&utm_source=git)** | Huntington, WV | On Site | Aug 03 |
+| ↳ | **[Graduate Assistant - 9 Positions Available](https://jobright.ai/jobs/info/688fe818e5cead4afd46156b?utm_campaign=1057&utm_source=git)** | Huntington, WV | On Site | Aug 03 |
+| **[City of Berkeley](https://www.cityofberkeley.info/)** | **[Youth Enrollee Intern](https://jobright.ai/jobs/info/688fe3796a4aac5783cdde2f?utm_campaign=1057&utm_source=git)** | Berkeley, CA | On Site | Aug 03 |
 | **[Astro Arpanet LLC](https://www.linkedin.com/company/28663593)** | **[Research Assistant (Student Role) – Test AI Tutor for all disciplines](https://jobright.ai/jobs/info/688fd485e5cead4afd461483?utm_campaign=1057&utm_source=git)** | United States | Remote | Aug 03 |
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Psychiatric Services](https://jobright.ai/jobs/info/688f928a6a4aac5783cdd7d8?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Aug 03 |
 | **[Ascendro](https://www.linkedin.com/company/101421200)** | **[Trading Bootcamp Intern](https://jobright.ai/jobs/info/688f7f06e5cead4afd460e59?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Aug 03 |
@@ -93,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Psychiatric Services](https://jobright.ai/jobs/info/688e49b8cdbd821a3664128e?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Aug 02 |
 | ↳ | **[RN New Graduate Internship Program - Resource Float Pool](https://jobright.ai/jobs/info/688e48f9e5cead4afd45c4c0?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Aug 02 |
 | ↳ | **[RN New Graduate Internship Program - Medical Unit](https://jobright.ai/jobs/info/688e48536a4aac5783cd8e0f?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Aug 02 |
-| **[Monmouth University](http://www.monmouth.edu)** | **[Adjunct, Marketing and International Business](https://jobright.ai/jobs/info/688efce6cdbd821a36644073?utm_campaign=1057&utm_source=git)** | West Long Branch, NJ | On Site | Aug 02 |
 | **[County of San Diego](http://www.sdcounty.ca.gov)** | **[Student Worker-19090504-Undergraduate, Graduate/Tech and High School](https://jobright.ai/jobs/info/688e3b92cdbd821a36641003?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Aug 02 |
 | **[Thrive Pet Healthcare](https://www.thrivepetcare.com)** | **[Rotating Veterinary Internship - Chicago, IL - 2025 Class](https://jobright.ai/jobs/info/688e304fcdbd821a36640e63?utm_campaign=1057&utm_source=git)** | Hoffman Estates, IL | On Site | Aug 02 |
 | ↳ | **[Rotating Veterinary Internship - Chicago, IL - 2026 Class](https://jobright.ai/jobs/info/688e302acdbd821a36640e35?utm_campaign=1057&utm_source=git)** | Hoffman Estates, IL | On Site | Aug 02 |
@@ -116,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Protiviti](http://www.protiviti.com)** | **[New York City Digital Intern - 2026](https://jobright.ai/jobs/info/688df4866a4aac5783cd7dd7?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Aug 02 |
 | **[California Department of State Hospitals](https://www.dsh.ca.gov/)** | **[STUDENT ASSISTANT](https://jobright.ai/jobs/info/68738ec94001e95011b1747e?utm_campaign=1057&utm_source=git)** | Atascadero, CA | On Site | Aug 02 |
 | **[Independent Women's Forum](https://www.iwf.org/)** | **[Intern](https://jobright.ai/jobs/info/688de7186a4aac5783cd7c6d?utm_campaign=1057&utm_source=git)** | Washington, DC | Remote | Aug 02 |
-| **[KaiPod Learning](http://www.kaipodlearning.com)** | **[Classroom Facilitator (Volunteer)](https://jobright.ai/jobs/info/688e070d6a4aac5783cd80dd?utm_campaign=1057&utm_source=git)** | Plano, TX | On Site | Aug 02 |
 | **[Endeavor Health](https://www.endeavorhealth.org)** | **[Post Doctoral Fellow-Psych Testing](https://jobright.ai/jobs/info/6854a79dcb411def78a95c5d?utm_campaign=1057&utm_source=git)** | Naperville, IL | On Site | Aug 02 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Senior Coordinator - Student Success - PAC - req12885](https://jobright.ai/jobs/info/688dda30e5cead4afd45b1f2?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Aug 02 |
 | **[Fowler College of Business at San Diego State University](https://business.sdsu.edu/)** | **[Center for Intercultural Relations Program and Operations Coordinator (Student Services Professional III)](https://jobright.ai/jobs/info/688dd13f6a4aac5783cd7a37?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Aug 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DayToDay Health](https://www.daytoday.health)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/688dca2ee5cead4afd45acc5?utm_campaign=1057&utm_source=git)** | Lecompte, LA | On Site | Aug 01 |
 | **[Kids on the Move](https://www.kotm.org)** | **[Behavior Intern - ABA](https://jobright.ai/jobs/info/688da32ecdbd821a3663d376?utm_campaign=1057&utm_source=git)** | Orem, UT | On Site | Aug 01 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Center for Intercultural Relations Program and Operations Coordinator (Student Services Professional III)](https://jobright.ai/jobs/info/688db7156a4aac5783cd63cf?utm_campaign=1057&utm_source=git)** | SD Metro Area | On Site | Aug 01 |
-| **[St. Mary's Medical Center - Huntington, WV](http://www.st-marys.org)** | **[HIMG-Primary Care - PsyD Student Intern (Part Time) - 7322](https://jobright.ai/jobs/info/688d98d4cdbd821a3663c88d?utm_campaign=1057&utm_source=git)** | Huntington, WV | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
