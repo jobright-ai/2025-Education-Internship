@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thrive Pet Healthcare](https://www.thrivepetcare.com)** | **[ER Veterinary Internship - Fort Collins & Greeley](https://jobright.ai/jobs/info/689065b4f5ee707a15db6a0f?utm_campaign=1057&utm_source=git)** | Fort Collins, CO | On Site | Aug 04 |
+| ↳ | **[ER Veterinary Internship - Fort Collins & Greeley](https://jobright.ai/jobs/info/6890647bf5ee707a15db690d?utm_campaign=1057&utm_source=git)** | Greeley, CO | On Site | Aug 04 |
 | **[Year Up United](http://yearup.org)** | **[Application Development & Support Career Training Program](https://jobright.ai/jobs/info/68904a9df5ee707a15db5f03?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Aug 03 |
 | **[County of San Diego](http://www.sdcounty.ca.gov)** | **[Student Worker-19090504-Undergraduate, Graduate/Tech and High School](https://jobright.ai/jobs/info/6890360b4c7e851b90ac4877?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Aug 03 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Assistant/Associate/Full Professor Tenure-track (open rank) International Business (Newark)](https://jobright.ai/jobs/info/689044c1f5ee707a15db584a?utm_campaign=1057&utm_source=git)** | New Jersey, United States | On Site | Aug 03 |
@@ -69,16 +71,15 @@ For a complete list, click the following sortable link below:
 | **[USC Marshall School of Business](https://www.marshall.usc.edu/)** | **[Graduate Assistant - 15 positions available](https://jobright.ai/jobs/info/688fe9ea6a4aac5783cdde78?utm_campaign=1057&utm_source=git)** | Huntington, WV | On Site | Aug 03 |
 | ↳ | **[Graduate Assistant - 9 Positions Available](https://jobright.ai/jobs/info/688fe818e5cead4afd46156b?utm_campaign=1057&utm_source=git)** | Huntington, WV | On Site | Aug 03 |
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Medical Unit](https://jobright.ai/jobs/info/68904a60f47efe211394c8ed?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Aug 03 |
-| ↳ | **[RN New Graduate Internship Program - Resource Float Pool](https://jobright.ai/jobs/info/688f92a6cdbd821a36645c5b?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Aug 03 |
 | ↳ | **[RN New Graduate Internship Program - Psychiatric Services](https://jobright.ai/jobs/info/688f928a6a4aac5783cdd7d8?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Aug 03 |
-| **[Ascendro](https://www.linkedin.com/company/101421200)** | **[Trading Bootcamp Intern](https://jobright.ai/jobs/info/688f7f06e5cead4afd460e59?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Aug 03 |
 | **[Con Edison](http://www.coned.com)** | **[Computer Aide Temp Coops - College Students (IT Majors)](https://jobright.ai/jobs/info/688f7620cdbd821a366459dd?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Aug 03 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[MnSCU Academic Professional 2 - International Enrollment Advisor](https://jobright.ai/jobs/info/688f757c6a4aac5783cdd50d?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | Hybrid | Aug 03 |
 | **[Con Edison](http://www.coned.com)** | **[Analyst Aide Temp Coops - College Students (Business Majors)](https://jobright.ai/jobs/info/688f7526e5cead4afd460cc1?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Aug 03 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Adjunct Faculty - International Psychology - DC Campus](https://jobright.ai/jobs/info/688f74cce5cead4afd460c6e?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Aug 03 |
 | ↳ | **[McDuffie Center International Student Position](https://jobright.ai/jobs/info/688f6e6ce5cead4afd460bfa?utm_campaign=1057&utm_source=git)** | Macon, GA | On Site | Aug 03 |
 | ↳ | **[ASSISTANT DIRECTOR, STUDENT SERVICES, International Students and Scholars Office](https://jobright.ai/jobs/info/689049c74c7e851b90ac5d29?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Aug 03 |
-| **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Psychiatric Services](https://jobright.ai/jobs/info/688f58a4e5cead4afd460a35?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Aug 03 |
+| **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Resource Float Pool](https://jobright.ai/jobs/info/688f59296a4aac5783cdd2dd?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Aug 03 |
+| ↳ | **[RN New Graduate Internship Program - Psychiatric Services](https://jobright.ai/jobs/info/688f58a4e5cead4afd460a35?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Aug 03 |
 | ↳ | **[RN New Graduate Internship Program - Medical Unit](https://jobright.ai/jobs/info/688f58a1cdbd821a36645730?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Aug 03 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern](https://jobright.ai/jobs/info/681e6ae03f7f7ed0f5d187a4?utm_campaign=1057&utm_source=git)** | Savannah, GA | On Site | Aug 03 |
 | **[Year Up United](http://yearup.org)** | **[Computer Architecture & Systems Fundamentals Job Training Program](https://jobright.ai/jobs/info/688f486e6a4aac5783cdd1d7?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Aug 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Year Up United](http://yearup.org)** | **[Quality Assurance Job Training Program](https://jobright.ai/jobs/info/688d4abe3a30793eb9649f60?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Aug 01 |
 | **[PNC](http://www.pnc.com)** | **[Corporate & Institutional Banking Undergraduate Intern - Commercial & Corporate Banking (East/Midwest)](https://jobright.ai/jobs/info/688db2d0e5cead4afd459604?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Aug 01 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist](https://jobright.ai/jobs/info/688f08d96a4aac5783cdc7dd?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD | On Site | Aug 01 |
-| **[Green Dot Public Schools California](https://www.greendot.org)** | **[Spring 2027 School Counseling Interns (part-time/unpaid)](https://jobright.ai/jobs/info/688daf9c6a4aac5783cd5da1?utm_campaign=1057&utm_source=git)** | LA Metro Area | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
