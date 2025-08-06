@@ -57,8 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cummins Behavioral Health Systems, Inc](https://www.cumminsbhs.org)** | **[DePauw Bonner Scholar Program](https://jobright.ai/jobs/info/6892b3bff5ee707a15dc7b11?utm_campaign=1057&utm_source=git)** | Greencastle, IN | On Site | Aug 05 |
+| **[The University of Texas Health Science Center at Houston (UTHealth Houston)](http://www.uth.edu)** | **[Seasonal Hire - Internal Medicine, Gastroenterology](https://jobright.ai/jobs/info/6892ab4af47efe211395e24b?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Aug 05 |
+| **[WestPac](https://westpacins.com/)** | **[Internship Program](https://jobright.ai/jobs/info/6892a652f5ee707a15dc7490?utm_campaign=1057&utm_source=git)** | Littleton, CO | On Site | Aug 05 |
+| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Paid Education Student Intern - Bose Lab](https://jobright.ai/jobs/info/6892a5b84c7e851b90ad7528?utm_campaign=1057&utm_source=git)** | Scottsdale, AZ, United States | On Site | Aug 05 |
+| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Opthalmic Assistant Internship- Program Starts 10/6/2025](https://jobright.ai/jobs/info/6892a51f4c7e851b90ad7465?utm_campaign=1057&utm_source=git)** | Springfield, Missouri | On Site | Aug 05 |
+| **[Diakonie Hamburg](http://www.diakonie-hamburg.de)** | **[Studentische Hilfskraft (m/w/d)
+Teilzeit oder Geringfügige Beschäftigung (4 Std/Wo.)](https://jobright.ai/jobs/info/6892a41ef5ee707a15dc72ad?utm_campaign=1057&utm_source=git)** | Max, NE | On Site | Aug 05 |
+| **[University of Utah](http://utah.edu)** | **[STEM Education Intern](https://jobright.ai/jobs/info/6892a229f5ee707a15dc71e4?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | Aug 05 |
+| **[Volo Sports](https://www.volosports.com)** | **[Program and Coaching Internship - Fall](https://jobright.ai/jobs/info/6892a1faf5ee707a15dc71d2?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Aug 05 |
+| **[American University](http://american.edu)** | **[Office Assistant (Student)(FWS)](https://jobright.ai/jobs/info/68929fb2f47efe211395dcd7?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Aug 05 |
+| **[Ferris State University College of Business ](http://ferris.edu/business)** | **[Military Science Clerical 1 (Student Position)](https://jobright.ai/jobs/info/68929f9cf47efe211395dccc?utm_campaign=1057&utm_source=git)** | Big Rapids, MI | On Site | Aug 05 |
+| **[Jewish Family & Children's Service of Greater Boston](http://www.jfcsboston.org/)** | **[Internship: Disability Services Internship, MSW](https://jobright.ai/jobs/info/68929cc8f47efe211395db9d?utm_campaign=1057&utm_source=git)** | Waltham, MA | On Site | Aug 05 |
+| **[American University](http://american.edu)** | **[Complex Problems Senior Program Leader (Student)](https://jobright.ai/jobs/info/68929b2bf47efe211395dae7?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Aug 05 |
 | **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/689292684c7e851b90ad6cd2?utm_campaign=1057&utm_source=git)** | Troy, MI | On Site | Aug 05 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68929071f47efe211395d759?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Aug 05 |
+| **[Ferris State University College of Business ](http://ferris.edu/business)** | **[Academic Advising Student Office Assistant (Student Position)](https://jobright.ai/jobs/info/6892a78cf5ee707a15dc7648?utm_campaign=1057&utm_source=git)** | Big Rapids, MI | On Site | Aug 05 |
 | **[El Dorado County Office of Education](https://www.edcoe.org)** | **[Student Assistant I - Charter Extended Day](https://jobright.ai/jobs/info/6892838f4c7e851b90ad669c?utm_campaign=1057&utm_source=git)** | Placerville, CA | On Site | Aug 05 |
 | **[JFK Johnson Rehabilitation Institute ](http://JFKJohnson.org)** | **[POST DOC FELLOW - F/T DAYS](https://jobright.ai/jobs/info/68928194f47efe211395d095?utm_campaign=1057&utm_source=git)** | Edison, NJ | On Site | Aug 05 |
 | **[Future Climate Collective](www.futureclimatecollective.com)** | **[Future Climate Fellow](https://jobright.ai/jobs/info/68927ec8f5ee707a15dc62e4?utm_campaign=1057&utm_source=git)** | Tigard, OR | On Site | Aug 05 |
@@ -126,7 +140,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Project Management Job Training Program](https://jobright.ai/jobs/info/6891f1e44c7e851b90ad296d?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Aug 05 |
 | ↳ | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/6891f1cf4c7e851b90ad295c?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Aug 05 |
 | ↳ | **[Application Development Career Training Program](https://jobright.ai/jobs/info/6891f1c6f5ee707a15dc28f4?utm_campaign=1057&utm_source=git)** | Trenton, NJ | On Site | Aug 05 |
-| **[Life Time Inc.](https://www.lifetime.life/)** | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/6891ee15f47efe2113959353?utm_campaign=1057&utm_source=git)** | Colleyville, TX | On Site | Aug 05 |
 | **[University of Michigan](https://www.umich.edu)** | **[CIS Research Assistant F25 (Student Temporary)](https://jobright.ai/jobs/info/68919cb24c7e851b90ad0c01?utm_campaign=1057&utm_source=git)** | Dearborn, MI | On Site | Aug 05 |
 | **[Year Up United](http://yearup.org)** | **[Financial Operations Job Training Program](https://jobright.ai/jobs/info/68921eb9f5ee707a15dc3422?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Aug 05 |
 | ↳ | **[Software Job Training Program](https://jobright.ai/jobs/info/68921ef4f47efe2113959f11?utm_campaign=1057&utm_source=git)** | Trenton, NJ | On Site | Aug 05 |
@@ -145,16 +158,4 @@ For a complete list, click the following sortable link below:
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/6891d2e4f5ee707a15dc2369?utm_campaign=1057&utm_source=git)** | McKinney, TX | On Site | Aug 05 |
 | ↳ | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/6891d289f5ee707a15dc233d?utm_campaign=1057&utm_source=git)** | Friendswood, TX | On Site | Aug 05 |
 | ↳ | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/6891d149f5ee707a15dc22df?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Aug 05 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Senior Coordinator - Student Success - PAC - req12885](https://jobright.ai/jobs/info/6891d0a04c7e851b90ad2287?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Aug 05 |
-| **[Life Time Inc.](https://www.lifetime.life/)** | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/6891cea44c7e851b90ad21df?utm_campaign=1057&utm_source=git)** | Shenandoah, TX | On Site | Aug 05 |
-| **[State of Tennessee](https://www.tn.gov/)** | **[DHS VOCATIONAL TRAINING ASSISTANT - 08052025-70081](https://jobright.ai/jobs/info/6891cda64c7e851b90ad21a6?utm_campaign=1057&utm_source=git)** | Rutherford County, TN | On Site | Aug 05 |
-| **[Life Time Inc.](https://www.lifetime.life/)** | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/6891cd0e4c7e851b90ad217e?utm_campaign=1057&utm_source=git)** | Garland, TX | On Site | Aug 05 |
-| ↳ | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/6891cd0df5ee707a15dc21a3?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Aug 05 |
-| ↳ | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/6891cad9f47efe2113958c05?utm_campaign=1057&utm_source=git)** | Allen, TX | On Site | Aug 05 |
-| ↳ | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/6891c9c5f47efe2113958baf?utm_campaign=1057&utm_source=git)** | Katy, TX | On Site | Aug 05 |
-| **[Springfield Empowerment Zone Partnership](https://www.springfieldempowerment.org)** | **[SY25-26 Discovery High School Student Support Coordinator](https://jobright.ai/jobs/info/6891eacf4c7e851b90ad27ee?utm_campaign=1057&utm_source=git)** | Springfield, MA | On Site | Aug 05 |
-| ↳ | **[SY24-25 Commerce Early College High School 24-25 Student Intern](https://jobright.ai/jobs/info/6891e915f5ee707a15dc26e0?utm_campaign=1057&utm_source=git)** | Springfield, MA | On Site | Aug 05 |
-| **[NAMI Southern Nevada](https://namisouthernnevada.org/)** | **[Peer Recovery Support Specialist (PRSS) Internship (unpaid)](https://jobright.ai/jobs/info/6891b87ef5ee707a15dc1cb5?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Aug 05 |
-| **[VOX ATL](https://voxatl.org)** | **[VOX ATL Teen Outreach Intern](https://jobright.ai/jobs/info/6891b85f4c7e851b90ad1c5f?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Aug 05 |
-| **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Market and Wealth Services (New York, NY)](https://jobright.ai/jobs/info/6891b599f5ee707a15dc1aea?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
