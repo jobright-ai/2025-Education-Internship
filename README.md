@@ -57,11 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southern New Hampshire University](http://www.snhu.edu)** | **[Student- Honors Program Coordinator (Work Study)](https://jobright.ai/jobs/info/68937795f47efe211396455a?utm_campaign=1057&utm_source=git)** | On-Site (New Hampshire) | On Site | Aug 06 |
+| **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist](https://jobright.ai/jobs/info/68936d76f47efe211396415f?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Aug 06 |
+| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Opthalmic Assistant Internship- Program Starts 10/6/2025](https://jobright.ai/jobs/info/68936ceef47efe211396413a?utm_campaign=1057&utm_source=git)** | Springfield, MO | On Site | Aug 06 |
+| **[Nuvance Health](https://www.nuvancehealth.org)** | **[Adult Workforce Development Healthcare - Intern](https://jobright.ai/jobs/info/68936c2d4c7e851b90add807?utm_campaign=1057&utm_source=git)** | Poughkeepsie, NY | On Site | Aug 06 |
+| **[Moxell](https://www.linkedin.com/company/31184082)** | **[Trading Intern](https://jobright.ai/jobs/info/6893683ea9199876488dd319?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Aug 06 |
+| **[Saga Education](http://www.sagaeducation.org)** | **[Remote Math Tutor (Federal Work-Study at Brandeis University)](https://jobright.ai/jobs/info/6893665bf47efe2113963ea4?utm_campaign=1057&utm_source=git)** | Boston, MA | Remote | Aug 06 |
 | **[DMARC Analyzer (Acq. by Mimecast)](http://www.dmarcanalyzer.com)** | **[Intern - Behavioural Science](https://jobright.ai/jobs/info/689345554c7e851b90adccca?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Aug 06 |
 | **[Year Up United](http://yearup.org)** | **[Desktop Management Career Training Program](https://jobright.ai/jobs/info/68933fc64c7e851b90adcb71?utm_campaign=1057&utm_source=git)** | Trenton, NJ | On Site | Aug 06 |
 | ↳ | **[Desktop Support Job Training Program](https://jobright.ai/jobs/info/68933ee9f47efe2113963533?utm_campaign=1057&utm_source=git)** | Newark, NJ | On Site | Aug 06 |
 | **[CSU Spur](https://www.csuspur.org/)** | **[Postdoctoral Fellow, Statistics - Open Pool](https://jobright.ai/jobs/info/68933c5ea9199876488dc839?utm_campaign=1057&utm_source=git)** | Fort Collins, CO | On Site | Aug 06 |
-| **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/68933a354c7e851b90adc9d1?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | On Site | Aug 06 |
 | **[Third Street Family Health Services](https://thirdstreetfamily.org/)** | **[Student Intern – Medical (Clinical Rotation Hours)](https://jobright.ai/jobs/info/689338d84c7e851b90adc969?utm_campaign=1057&utm_source=git)** | Mansfield, OH | On Site | Aug 06 |
 | **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Asset Servicing (New York, NY)](https://jobright.ai/jobs/info/6893348ea9199876488dc650?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Aug 06 |
 | ↳ | **[2026 BNY Summer Internship Program - Asset Servicing (Pittsburgh, PA)](https://jobright.ai/jobs/info/68933402a9199876488dc638?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Aug 06 |
@@ -90,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[Penn State University](http://psu.edu)** | **[Part-Time 4-H Summer Assistant/Intern](https://jobright.ai/jobs/info/6892cab44c7e851b90ad87a7?utm_campaign=1057&utm_source=git)** | Bucks County, PA | On Site | Aug 05 |
 | **[The College of New Jersey](http://www.tcnj.edu/)** | **[Assistant Director of Career Development](https://jobright.ai/jobs/info/688bcce61808534a89cb6386?utm_campaign=1057&utm_source=git)** | Ewing, NJ | On Site | Aug 05 |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Science communication interns](https://jobright.ai/jobs/info/6892e752f47efe21139608a2?utm_campaign=1057&utm_source=git)** | Linn County, OR | On Site | Aug 05 |
+| **[ASPCA](http://www.aspca.org/)** | **[Internship in Applied Animal Welfare Research (Spring or Summer 2026)](https://jobright.ai/jobs/info/688d27c01808534a89cc14ae?utm_campaign=1057&utm_source=git)** | United States | Remote | Aug 05 |
 | **[Health Connect America](https://healthconnectamerica.com)** | **[Master's Level Intern](https://jobright.ai/jobs/info/6892e2aff5ee707a15dc9dba?utm_campaign=1057&utm_source=git)** | Chattanooga, TN | On Site | Aug 05 |
 | **[Humboldt Park Health](https://www.hph.care)** | **[Summer Intern - Hospital Operations (Registry/Per Diem)](https://jobright.ai/jobs/info/6892bd294c7e851b90ad7f74?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Aug 05 |
 | **[Huntington Health](https://www.huntingtonhealth.org)** | **[Student Nurse Intern Per Diem Nights - CTU](https://jobright.ai/jobs/info/6892bb45f47efe211395e8c0?utm_campaign=1057&utm_source=git)** | Pasadena, CA | On Site | Aug 05 |
@@ -100,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Opthalmic Assistant Internship- Program Starts 10/6/2025](https://jobright.ai/jobs/info/6892a51f4c7e851b90ad7465?utm_campaign=1057&utm_source=git)** | Springfield, Missouri | On Site | Aug 05 |
 | **[Diakonie Hamburg](http://www.diakonie-hamburg.de)** | **[Studentische Hilfskraft (m/w/d)
 Teilzeit oder Geringfügige Beschäftigung (4 Std/Wo.)](https://jobright.ai/jobs/info/6892a41ef5ee707a15dc72ad?utm_campaign=1057&utm_source=git)** | Max, NE | On Site | Aug 05 |
-| **[University of Utah](http://utah.edu)** | **[STEM Education Intern](https://jobright.ai/jobs/info/6892a229f5ee707a15dc71e4?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | Aug 05 |
 | **[Volo Sports](https://www.volosports.com)** | **[Program and Coaching Internship - Fall](https://jobright.ai/jobs/info/6892a1faf5ee707a15dc71d2?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Aug 05 |
 | **[American University](http://american.edu)** | **[Office Assistant (Student)(FWS)](https://jobright.ai/jobs/info/68929fb2f47efe211395dcd7?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Aug 05 |
 | **[Ferris State University College of Business ](http://ferris.edu/business)** | **[Military Science Clerical 1 (Student Position)](https://jobright.ai/jobs/info/68929f9cf47efe211395dccc?utm_campaign=1057&utm_source=git)** | Big Rapids, MI | On Site | Aug 05 |
@@ -139,8 +144,8 @@ Teilzeit oder Geringfügige Beschäftigung (4 Std/Wo.)](https://jobright.ai/jobs
 | ↳ | **[I/DD Clinical Intern](https://jobright.ai/jobs/info/6892dac1f5ee707a15dc9455?utm_campaign=1057&utm_source=git)** | New Windsor, NY | On Site | Aug 05 |
 | ↳ | **[Vocational Services Intern](https://jobright.ai/jobs/info/6892d61ef5ee707a15dc9142?utm_campaign=1057&utm_source=git)** | Vernon, NY | On Site | Aug 05 |
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Medical Unit](https://jobright.ai/jobs/info/689261a7f47efe211395bf1b?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Aug 05 |
-| **[Access: Supports for Living](http://businesssolutions.accesssupports.org)** | **[I/DD Clinical Intern](https://jobright.ai/jobs/info/6892810af47efe211395d038?utm_campaign=1057&utm_source=git)** | West Coxsackie, NY | On Site | Aug 05 |
-| ↳ | **[Behavioral Health Clinic Intern - Middletown, NY](https://jobright.ai/jobs/info/68928183f47efe211395d080?utm_campaign=1057&utm_source=git)** | Middletown, NY | On Site | Aug 05 |
+| **[Access: Supports for Living](http://businesssolutions.accesssupports.org)** | **[Behavioral Health Clinic Intern - Middletown, NY](https://jobright.ai/jobs/info/68928183f47efe211395d080?utm_campaign=1057&utm_source=git)** | Middletown, NY | On Site | Aug 05 |
+| ↳ | **[I/DD Clinical Intern](https://jobright.ai/jobs/info/6892810af47efe211395d038?utm_campaign=1057&utm_source=git)** | West Coxsackie, NY | On Site | Aug 05 |
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Psychiatric Services](https://jobright.ai/jobs/info/689260eaf47efe211395bed6?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Aug 05 |
 | **[National Youth Advocate Program (NYAP)](https://www.nyap.org)** | **[Foster Care Intern](https://jobright.ai/jobs/info/689260db4c7e851b90ad53c2?utm_campaign=1057&utm_source=git)** | Merrillville, IN | On Site | Aug 05 |
 | **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Asset Servicing (Boston, MA)](https://jobright.ai/jobs/info/68925fd34c7e851b90ad5295?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Aug 05 |
@@ -153,9 +158,4 @@ Teilzeit oder Geringfügige Beschäftigung (4 Std/Wo.)](https://jobright.ai/jobs
 | **[Management & Training Corporation](https://www.mtctrains.com)** | **[Student Intern, Recreation](https://jobright.ai/jobs/info/68925b5af47efe211395bb20?utm_campaign=1057&utm_source=git)** | Waimanalo, HI | On Site | Aug 05 |
 | **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - BNY Wealth (Pittsburgh, PA)](https://jobright.ai/jobs/info/68925af7f47efe211395baf2?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Aug 05 |
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Resource Float Pool](https://jobright.ai/jobs/info/6892542ff47efe211395b547?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Aug 05 |
-| **[Montclair State University](http://www.montclair.edu/)** | **[Career and Internship Advisor](https://jobright.ai/jobs/info/689253d5f5ee707a15dc496e?utm_campaign=1057&utm_source=git)** | Montclair, NJ | On Site | Aug 05 |
-| **[Year Up United](http://yearup.org)** | **[Application Development Career Training Program](https://jobright.ai/jobs/info/6892e26cf47efe21139605f4?utm_campaign=1057&utm_source=git)** | Newark, NJ | On Site | Aug 05 |
-| ↳ | **[Application Development Career Training Program](https://jobright.ai/jobs/info/68933eb74c7e851b90adcb36?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Aug 05 |
-| ↳ | **[Investment Operations Job Training Program](https://jobright.ai/jobs/info/68933ea14c7e851b90adcb1e?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Aug 05 |
-| ↳ | **[Application Development & Support Job Training Program](https://jobright.ai/jobs/info/68933ed04c7e851b90adcb43?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
