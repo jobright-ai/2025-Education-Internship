@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eastern New Mexico University](https://www.enmu.edu/)** | **[Graduate Assistant- Summer](https://jobright.ai/jobs/info/689470ec73b3a600fe87f80c?utm_campaign=1057&utm_source=git)** | Portales, NM | On Site | Aug 07 |
+| **[JFK Johnson Rehabilitation Institute ](http://JFKJohnson.org)** | **[DIRECTOR, CURRICULUM OUTCOMES RESEARCH (DCOR)](https://jobright.ai/jobs/info/68946f3f8c6d6b4426771c2a?utm_campaign=1057&utm_source=git)** | Nutley, NJ | On Site | Aug 07 |
+| **[Northern Kentucky University](http://www.nku.edu/)** | **[First-Year Experience Program Assistant](https://jobright.ai/jobs/info/68946f1873b3a600fe87f7be?utm_campaign=1057&utm_source=git)** | Newport, KY | On Site | Aug 07 |
+| **[Nemacolin](http://www.nemacolin.com)** | **[Kids Club Internship - Fall 2026](https://jobright.ai/jobs/info/68946d6e8c6d6b4426771ba3?utm_campaign=1057&utm_source=git)** | Farmington, PA | On Site | Aug 07 |
+| **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/689461c84ed2ea559ca4d643?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Aug 07 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Graduate Student Testing Assistant - Student Access Center](https://jobright.ai/jobs/info/6894590ef47efe211396c106?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 07 |
 | **[County of Los Angeles](https://lacounty.gov/)** | **[CLINICAL PSYCHOLOGY INTERN](https://jobright.ai/jobs/info/689455bf4c7e851b90ae54e0?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Aug 07 |
 | ↳ | **[CAREER DEVELOPMENT INTERN, HEAVY MAINTENANCE AND OPERATIONAL SUPPORT](https://jobright.ai/jobs/info/689454f24c7e851b90ae545b?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Aug 07 |
@@ -90,7 +95,7 @@ For a complete list, click the following sortable link below:
 | **[American University](http://american.edu)** | **[WLC / World Languages and Cultures Assistant (Student)(FWS)](https://jobright.ai/jobs/info/6893fceea9199876488e185e?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Aug 06 |
 | **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[Graduate Assistant](https://jobright.ai/jobs/info/6893fce64c7e851b90ae1c82?utm_campaign=1057&utm_source=git)** | Harrisonburg, VA | On Site | Aug 06 |
 | **[Children's Hope Alliance](https://www.childrenshopealliance.org/)** | **[Internship](https://jobright.ai/jobs/info/6893fbb8f47efe21139684ae?utm_campaign=1057&utm_source=git)** | Statesville, NC | On Site | Aug 06 |
-| **[Nebraska Medicine](https://www.nebraskamed.com)** | **[Student Assistant - UNL Student Health](https://jobright.ai/jobs/info/6893facaf47efe211396841d?utm_campaign=1057&utm_source=git)** | Lincoln, NE | On Site | Aug 06 |
+| **[Nebraska Medicine](https://www.nebraskamed.com)** | **[Student Assistant - UNL Student Health](https://jobright.ai/jobs/info/6893f7cff47efe21139682a4?utm_campaign=1057&utm_source=git)** | Lincoln, NE | On Site | Aug 06 |
 | **[The Centers](https://thecentersohio.org/)** | **[Counseling Intern](https://jobright.ai/jobs/info/6893f5d3a9199876488e14e9?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Aug 06 |
 | **[The New Jewish Home](http://www.jewishhome.org/?1)** | **[SkillSpring Intern, Private](https://jobright.ai/jobs/info/6893f4334c7e851b90ae1875?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Aug 06 |
 | **[Bellevue School District](https://bsd405.org/)** | **[MIDDLE SCHOOL MATH TEACHER 2025-26 (.6 FTE) INTERNATIONAL SCHOOL](https://jobright.ai/jobs/info/6893f410a9199876488e143c?utm_campaign=1057&utm_source=git)** | Bellevue, WA | On Site | Aug 06 |
@@ -125,7 +130,6 @@ For a complete list, click the following sortable link below:
 | **[Hively](https://behively.org)** | **[Clinical Trainee, Mental Health](https://jobright.ai/jobs/info/6893b168f47efe21139662bb?utm_campaign=1057&utm_source=git)** | Pleasanton, California | On Site | Aug 06 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Intern](https://jobright.ai/jobs/info/6893b12df47efe21139662a3?utm_campaign=1057&utm_source=git)** | Paul Smiths, NY | On Site | Aug 06 |
 | **[Salas O'Brien](http://www.salasobrien.com/about/)** | **[Wentworth Institute of Technology College Career Fair Internships](https://jobright.ai/jobs/info/6893b0c5f47efe2113966242?utm_campaign=1057&utm_source=git)** | Bloomfield, CT | On Site | Aug 06 |
-| **[Saga Education](http://www.sagaeducation.org)** | **[Remote Math Tutor (Federal Work-Study at Brandeis University)](https://jobright.ai/jobs/info/6893ae124c7e851b90adf7ce?utm_campaign=1057&utm_source=git)** | Boston, MA | Remote | Aug 06 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (OT/OTA Adolescent RTC) Fall 2026 OT Fieldwork](https://jobright.ai/jobs/info/6893abec4c7e851b90adf5f1?utm_campaign=1057&utm_source=git)** | Towson, MD | On Site | Aug 06 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Intern- CA Concord](https://jobright.ai/jobs/info/6893ab13f47efe2113965e37?utm_campaign=1057&utm_source=git)** | Concord, CA | On Site | Aug 06 |
 | **[Corewell Health](https://corewellhealth.org)** | **[RN OR Intern](https://jobright.ai/jobs/info/6893c7ee4c7e851b90ae05db?utm_campaign=1057&utm_source=git)** | Royal Oak, MI | Hybrid | Aug 06 |
@@ -136,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[BEAR RIVER HEALTH DEPARTMENT](brhd.org)** | **[Poison & Injury Prevention Internship](https://jobright.ai/jobs/info/6893a744f47efe2113965c14?utm_campaign=1057&utm_source=git)** | Logan, Utah, United States | On Site | Aug 06 |
 | **[OhioHealth](https://www.ohiohealth.com/)** | **[Unpaid Intern Working on College Credit](https://jobright.ai/jobs/info/6893a71da9199876488defb7?utm_campaign=1057&utm_source=git)** | BLOM ADMINISTRATIVE CAMPUS | On Site | Aug 06 |
 | **[Centerstone](https://centerstone.org/)** | **[Master Level Intern](https://jobright.ai/jobs/info/6893a7094c7e851b90adf2ae?utm_campaign=1057&utm_source=git)** | Cleveland, TN | On Site | Aug 06 |
-| **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/6893a686f47efe2113965b10?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Aug 06 |
 | **[ARU](https://agrisku.com/)** | **[ARU Insurance Internship (Summer 2026)](https://jobright.ai/jobs/info/6893a6184c7e851b90adf18c?utm_campaign=1057&utm_source=git)** | Chapel Hill, NC | On Site | Aug 06 |
 | **[University of Missouri-Kansas City](http://www.umkc.edu/)** | **[Oral and Maxillofacial Surgery (OMS) Intern, Oral Surgery and Hospital Dentistry, UMKC School of Dentistry](https://jobright.ai/jobs/info/6893a536a9199876488ded71?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | Aug 06 |
 | **[Jamestown Regional Medical Center](https://jrmcnd.com)** | **[INTERN - REHAB](https://jobright.ai/jobs/info/6893a4824c7e851b90adef3d?utm_campaign=1057&utm_source=git)** | Jamestown, North Dakota | On Site | Aug 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[California Department of State Hospitals](https://www.dsh.ca.gov/)** | **[CLINICAL PSYCHOLOGY INTERN](https://jobright.ai/jobs/info/689390684c7e851b90ade6c1?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Aug 06 |
 | **[Juniper Communities](https://junipercommunities.com/)** | **[Psychology Internship](https://jobright.ai/jobs/info/68938e334c7e851b90ade4da?utm_campaign=1057&utm_source=git)** | Monroeville, PA | On Site | Aug 06 |
 | **[Workato](http://www.workato.com)** | **[Intern, Instructional Design](https://jobright.ai/jobs/info/689389854c7e851b90ade396?utm_campaign=1057&utm_source=git)** | Palo Alto, California | On Site | Aug 06 |
-| **[Kelsey-Seybold Clinic](https://www.kelsey-seybold.com/)** | **[Physician Resident - Internal Medicine](https://jobright.ai/jobs/info/689388fdf47efe2113964ccc?utm_campaign=1057&utm_source=git)** | Houston, TX, United States | On Site | Aug 06 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Intern- CA Concord](https://jobright.ai/jobs/info/689385fcf47efe2113964b3c?utm_campaign=1057&utm_source=git)** | Concord, CA, United States | On Site | Aug 06 |
-| **[Center for Therapeutic Services & Psychodiagnostics (CFTSAP)](https://cftsap.com)** | **[Counseling Intern](https://jobright.ai/jobs/info/689447874c7e851b90ae4b51?utm_campaign=1057&utm_source=git)** | Crystal Lake, IL | On Site | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
