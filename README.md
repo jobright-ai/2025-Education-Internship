@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Morton College](http://www.morton.edu/)** | **[Student Aide - Student Activities Office](https://jobright.ai/jobs/info/6895d52b73b3a600fe88b121?utm_campaign=1057&utm_source=git)** | Cicero, IL | On Site | Aug 08 |
+| **[Brown University Health](https://www.brownhealth.org)** | **[Post Doctoral Rsrch Assoc](https://jobright.ai/jobs/info/6895d2c74ed2ea559ca59600?utm_campaign=1057&utm_source=git)** | Providence, RI | Hybrid | Aug 08 |
+| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/6895ccdb4ed2ea559ca59562?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Aug 08 |
 | **[St. David's Center for Child and Family Development](https://www.stdavidscenter.org/)** | **[2026 Family Place Internship](https://jobright.ai/jobs/info/6895b9b74ed2ea559ca59239?utm_campaign=1057&utm_source=git)** | Minnetonka, MN | On Site | Aug 08 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Intern/Graduate Student- Radiology, Fall 2025](https://jobright.ai/jobs/info/6895b92f4ed2ea559ca59213?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | Aug 08 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern - Conference Services
@@ -102,6 +105,7 @@ Job ID : 262277](https://jobright.ai/jobs/info/6895b7c273b3a600fe88ac11?utm_camp
 | **[San Diego State University](http://www.sdsu.edu)** | **[Internship Coordinator and Career Advisor (Student Services Professional III)](https://jobright.ai/jobs/info/689542488c6d6b442677862e?utm_campaign=1057&utm_source=git)** | SD Metro Area | Hybrid | Aug 07 |
 | **[American University](http://american.edu)** | **[CSB Student Administrative Assistant (Student)(FWS)](https://jobright.ai/jobs/info/6895420b4ed2ea559ca54705?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Aug 07 |
 | **[Easterseals NH](https://www.easterseals.com/nh)** | **[Intern-Senior Services Adult Day](https://jobright.ai/jobs/info/689573e673b3a600fe887a1f?utm_campaign=1057&utm_source=git)** | Manchester, NH | On Site | Aug 07 |
+| **[Merrimack College](http://www.merrimack.edu/)** | **[NTT, Electrical & Computer Engineering](https://jobright.ai/jobs/info/6837b4339b3f2362be5ba708?utm_campaign=1057&utm_source=git)** | North Andover, MA | On Site | Aug 07 |
 | **[Baylor Scott & White Health](https://www.bswhealth.com/)** | **[Phlebotomy Training Program Student CTX](https://jobright.ai/jobs/info/68956f7973b3a600fe887837?utm_campaign=1057&utm_source=git)** | Woodway, TX | On Site | Aug 07 |
 | ↳ | **[Phlebotomy Training Program Student CTX](https://jobright.ai/jobs/info/689571554ed2ea559ca55e7b?utm_campaign=1057&utm_source=git)** | College Station, TX | On Site | Aug 07 |
 | **[Young Life](https://sworlando.younglife.org)** | **[Mountain West Region Summer Internship](https://jobright.ai/jobs/info/689540564ed2ea559ca54617?utm_campaign=1057&utm_source=git)** | Spokane, WA | On Site | Aug 07 |
@@ -143,8 +147,8 @@ Job ID : 262277](https://jobright.ai/jobs/info/6895b7c273b3a600fe88ac11?utm_camp
 | ↳ | **[2026 BNY Summer Internship Program - BNY Wealth (Philadelphia, PA)](https://jobright.ai/jobs/info/6894f7444ed2ea559ca520ce?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Aug 07 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nursing Intern L&D](https://jobright.ai/jobs/info/6894f6884ed2ea559ca52073?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | Aug 07 |
 | **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - BNY Wealth (Los Angeles, CA)](https://jobright.ai/jobs/info/6894f4238c6d6b4426775df6?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Aug 07 |
-| **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist](https://jobright.ai/jobs/info/6895108873b3a600fe884cb8?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Aug 07 |
-| ↳ | **[Staff Psychologist (Primary Care Mental Health Integration)](https://jobright.ai/jobs/info/689510914ed2ea559ca53256?utm_campaign=1057&utm_source=git)** | Fresno, CA | On Site | Aug 07 |
+| **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist (Primary Care Mental Health Integration)](https://jobright.ai/jobs/info/689510914ed2ea559ca53256?utm_campaign=1057&utm_source=git)** | Fresno, CA | On Site | Aug 07 |
+| ↳ | **[Staff Psychologist](https://jobright.ai/jobs/info/6895108873b3a600fe884cb8?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Aug 07 |
 | **[Huck Institutes of the Life Sciences](https://www.huck.psu.edu)** | **[Research Administration Internship (Virtual, Paid Training Program)](https://jobright.ai/jobs/info/6895b91a4ed2ea559ca5920a?utm_campaign=1057&utm_source=git)** | State College, PA | On Site | Aug 07 |
 | **[Phillips 66](http://www.phillips66.com/)** | **[2026 University Intern - Commercial](https://jobright.ai/jobs/info/6894f2e54ed2ea559ca51f31?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Aug 07 |
 | **[City of Kenosha](http://www.kenosha.org)** | **[Police Department Student internship](https://jobright.ai/jobs/info/68957edb8c6d6b442677a4a3?utm_campaign=1057&utm_source=git)** | Kenosha, WI | On Site | Aug 07 |
@@ -154,8 +158,4 @@ Job ID : 262277](https://jobright.ai/jobs/info/6895b7c273b3a600fe88ac11?utm_camp
 | **[Year Up United](http://yearup.org)** | **[Data Management Job Training Opportunity](https://jobright.ai/jobs/info/6895aec14ed2ea559ca58c81?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Aug 07 |
 | **[Phillips 66](http://www.phillips66.com/)** | **[2026 University Intern - ERI Analytical Solutions](https://jobright.ai/jobs/info/6894eb7673b3a600fe883540?utm_campaign=1057&utm_source=git)** | Bartlesville, OK | On Site | Aug 07 |
 | **[Year Up United](http://yearup.org)** | **[Software Development Career Training Program](https://jobright.ai/jobs/info/6895098673b3a600fe8848d1?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Aug 07 |
-| ↳ | **[Computer Systems Administration Job Training Program](https://jobright.ai/jobs/info/689509b673b3a600fe8848ee?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Aug 07 |
-| ↳ | **[Data Management Job Training Program](https://jobright.ai/jobs/info/689581394ed2ea559ca56753?utm_campaign=1057&utm_source=git)** | Providence, RI | On Site | Aug 07 |
-| **[University of Michigan](https://www.umich.edu)** | **[Student Digital Storyteller (TEMP-Waung)](https://jobright.ai/jobs/info/6894e8f98c6d6b44267758f0?utm_campaign=1057&utm_source=git)** | Dearborn, MI | Hybrid | Aug 07 |
-| **[GenAIx](https://genaix.org)** | **[AI Content Educator Intern (Unpaid, Remote)](https://jobright.ai/jobs/info/6894e84573b3a600fe883380?utm_campaign=1057&utm_source=git)** | United States | Remote | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
