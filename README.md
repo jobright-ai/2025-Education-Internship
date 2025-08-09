@@ -106,5 +106,4 @@ For a complete list, click the following sortable link below:
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Research Volunteer Professional Placement (online and in-person) in Peru](https://jobright.ai/jobs/info/68125ac8a6e41049a106c5de?utm_campaign=1057&utm_source=git)** | Pasadena, CA | Hybrid | Jul 27 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Husky Ranch + Wilderness Adventure Volunteer in Scotland](https://jobright.ai/jobs/info/6812661b270f9f79c74803b8?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Jul 26 |
 | **[Texas State Technical College](http://www.tstc.edu)** | **[Counseling Intern](https://jobright.ai/jobs/info/6830d6dd5a74073a28ecdbc2?utm_campaign=1057&utm_source=git)** | Waco, TX | On Site | Jul 26 |
-| **[CareerVillage.org](https://careervillage.org/)** | **[Learning Opportunity for Students Interested in Healthcare](https://jobright.ai/jobs/info/67c0260ef283c02615bf4745?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
