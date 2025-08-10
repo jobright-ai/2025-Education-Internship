@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Future Mode](https://www.linkedin.com/company/80148032)** | **[Trading intern](https://jobright.ai/jobs/info/6898cc99faa4e875e8250a6c?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Aug 10 |
+| **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting (Tenure Track)](https://jobright.ai/jobs/info/6898e7d083d13d1f5b6911cb?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Aug 10 |
 | **[Year Up United](http://yearup.org)** | **[Cyber Security Job Training Program](https://jobright.ai/jobs/info/6898b80d83d13d1f5b690c01?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Aug 10 |
 | **[County of San Diego](http://www.sdcounty.ca.gov)** | **[Student Worker-19090504-Undergraduate, Graduate/Tech and High School](https://jobright.ai/jobs/info/6898b80583d13d1f5b690bf2?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Aug 10 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Trading Intern](https://jobright.ai/jobs/info/6898b2f2faa4e875e825074a?utm_campaign=1057&utm_source=git)** | Illinois, United States | On Site | Aug 10 |
@@ -68,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Simulation and Integrated Learning Center Assistant - Student Employment](https://jobright.ai/jobs/info/6897f1331b9e81727f1a3455?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Aug 09 |
 | **[Teacher of Arts (High school) Philosophy of the Arts (HKU)](https://www.hku.hk)** | **[Post-doctoral Fellow (several posts) at the Centre for Quantitative History (CQH)](https://jobright.ai/jobs/info/6897ea038c6d6b4426793fed?utm_campaign=1057&utm_source=git)** | Carteret, NJ | On Site | Aug 09 |
 | **[All In Energy](https://allinenergy.org/index.html)** | **[Engagement Programs Internship](https://jobright.ai/jobs/info/6897b2c41b9e81727f19fcdf?utm_campaign=1057&utm_source=git)** | Flexible, Massachusetts, United States | Hybrid | Aug 09 |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Senior Coordinator - Student Success - PAC - req12885](https://jobright.ai/jobs/info/6897dc341b9e81727f1a2082?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Aug 09 |
 | **[Young Life](https://sworlando.younglife.org)** | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6897eaea8c6d6b44267941c7?utm_campaign=1057&utm_source=git)** | Colorado Springs, CO | On Site | Aug 09 |
 | **[Child and Family Focus Inc.](https://www.childandfamilyfocus.org)** | **[Masters Level Mental Health Intern](https://jobright.ai/jobs/info/6898049f73b3a600fe8a1d94?utm_campaign=1057&utm_source=git)** | Hatboro, PA | On Site | Aug 09 |
 | ↳ | **[Masters Level Mental Health Intern](https://jobright.ai/jobs/info/6897e45f8c6d6b44267939c5?utm_campaign=1057&utm_source=git)** | Plymouth Meeting, PA | Hybrid | Aug 09 |
@@ -77,7 +78,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 BNY Summer Internship Program - Market and Wealth Services (New York, NY)](https://jobright.ai/jobs/info/6897d50f8c6d6b4426792977?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Aug 09 |
 | ↳ | **[2026 BNY Summer Internship Program - Risk & Compliance (New York, NY)](https://jobright.ai/jobs/info/6897d4dc8c6d6b4426792942?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Aug 09 |
 | ↳ | **[2026 BNY Summer Internship Program - Market and Wealth Services (Houston, TX)](https://jobright.ai/jobs/info/6897d8c28c6d6b4426792d45?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Aug 09 |
-| **[Froedtert Health](http://www.froedtert.com)** | **[CERT NURSING ASST APPRENTICE, FH - 5SE - INTERNAL MEDICINE](https://jobright.ai/jobs/info/6897dea88c6d6b44267933d1?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | Aug 09 |
+| **[Froedtert Health](http://www.froedtert.com)** | **[CERT NURSING ASST APPRENTICE, FH - 5SE - INTERNAL MEDICINE](https://jobright.ai/jobs/info/6897d8e11b9e81727f1a1cf1?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | Aug 09 |
 | **[AccessHealth](https://www.accesshealthwv.com)** | **[Nurse Intern UIW - Nursing Internship - PRN](https://jobright.ai/jobs/info/68984ba4faa4e875e824d4de?utm_campaign=1057&utm_source=git)** | Elmendorf, TX | On Site | Aug 09 |
 | **[Health Here](http://www.healthhere.com)** | **[Nurse Intern UIW - Nursing Internship - PRN](https://jobright.ai/jobs/info/6898568b83d13d1f5b68e8ed?utm_campaign=1057&utm_source=git)** | Leon Valley, TX | On Site | Aug 09 |
 | **[Health Evolution](https://www.healthevolution.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/68984d68faa4e875e824d9f0?utm_campaign=1057&utm_source=git)** | Shreveport, LA | On Site | Aug 09 |
@@ -105,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Student Adviser](https://jobright.ai/jobs/info/6898483bfaa4e875e824ced3?utm_campaign=1057&utm_source=git)** | Midland, TX | On Site | Aug 09 |
 | ↳ | **[Assistant Professor, Political Science and International Relations](https://jobright.ai/jobs/info/68983e4f83d13d1f5b68caad?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Aug 09 |
 | ↳ | **[International Student & Scholar Services Coordinator](https://jobright.ai/jobs/info/6898366783d13d1f5b68be65?utm_campaign=1057&utm_source=git)** | Radford, VA | On Site | Aug 09 |
+| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Intern, Skillbridge Internship Program (Military Transition Program)](https://jobright.ai/jobs/info/6823e4885477a27952f3b22c?utm_campaign=1057&utm_source=git)** | Suwanee, GA | On Site | Aug 09 |
 | **[BlackRock](http://www.blackrock.com)** | **[2026 Summer Internship Program - AMERS](https://jobright.ai/jobs/info/680823825db404e69199ca16?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Aug 09 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Intern, Skillbridge Internship Program (Military Transition Program)](https://jobright.ai/jobs/info/6823e4885477a27952f3b22d?utm_campaign=1057&utm_source=git)** | Suwanee, GA | On Site | Aug 09 |
 | **[ABB](https://global.abb/group/en)** | **[Internship PM Excellence](https://jobright.ai/jobs/info/688dca53e5cead4afd45ace2?utm_campaign=1057&utm_source=git)** | Location, WV | Hybrid | Aug 09 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II Nursery](https://jobright.ai/jobs/info/6824f8510dfac140178ea247?utm_campaign=1057&utm_source=git)** | Columbus, MS | On Site | Aug 09 |
 | **[Year Up United](http://yearup.org)** | **[Customer Service Job Training Program](https://jobright.ai/jobs/info/688dace3cdbd821a3663dc09?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Aug 09 |
@@ -156,6 +157,5 @@ Job ID : 262277](https://jobright.ai/jobs/info/689825c5faa4e875e824aa74?utm_camp
 | **[City of Noblesville](https://www.cityofnoblesville.org)** | **[Noblesville High School Intern](https://jobright.ai/jobs/info/6898354f5574fd6bc0c75866?utm_campaign=1057&utm_source=git)** | Noblesville, IN | On Site | Aug 08 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[STEM Center Learning Assistant](https://jobright.ai/jobs/info/689856bf83d13d1f5b68e939?utm_campaign=1057&utm_source=git)** | Richmond, KY | On Site | Aug 08 |
 | **[Township High School District 113](http://dist113.org)** | **[Internship / School Counselor - Highland Park High School](https://jobright.ai/jobs/info/689840dd83d13d1f5b68ce33?utm_campaign=1057&utm_source=git)** | Highland Park, IL | On Site | Aug 08 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Senior Coordinator - Student Success - PAC - req12885](https://jobright.ai/jobs/info/6898558dfaa4e875e824e635?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Aug 08 |
 | **[Grimmway Farms](http://www.grimmway.com)** | **[Fall 2025 Internship](https://jobright.ai/jobs/info/68976b9d1b9e81727f19a2f4?utm_campaign=1057&utm_source=git)** | US-CA-Bakersfield | On Site | Aug 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
