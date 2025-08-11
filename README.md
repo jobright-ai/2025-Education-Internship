@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Naples Botanical Garden](https://www.naplesgarden.org)** | **[Education & Visitor Experience Fall Intern](https://jobright.ai/jobs/info/68997903faa4e875e8252ad0?utm_campaign=1057&utm_source=git)** | Naples, FL | On Site | Aug 10 |
+| **[Materion Corporation](https://materion.com)** | **[2026 Internship & Co-Op Program](https://jobright.ai/jobs/info/689971d2faa4e875e825271b?utm_campaign=1057&utm_source=git)** | Tucson, AZ | On Site | Aug 10 |
+| ↳ | **[2026 Internship & Co-Op Program](https://jobright.ai/jobs/info/689971ce5574fd6bc0c7c642?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | Aug 10 |
+| ↳ | **[2026 Internship & Co-Op Program](https://jobright.ai/jobs/info/689971b7faa4e875e82526ea?utm_campaign=1057&utm_source=git)** | Lorain, OH | On Site | Aug 10 |
+| ↳ | **[2026 Internship & Co-Op Program](https://jobright.ai/jobs/info/689971ae5574fd6bc0c7c5e7?utm_campaign=1057&utm_source=git)** | Delta, UT | On Site | Aug 10 |
+| ↳ | **[2026 Internship & Co-Op Program](https://jobright.ai/jobs/info/689971a8faa4e875e82526c4?utm_campaign=1057&utm_source=git)** | Westford, MA | On Site | Aug 10 |
+| ↳ | **[2026 Internship & Co-Op Program](https://jobright.ai/jobs/info/6899719d83d13d1f5b692b62?utm_campaign=1057&utm_source=git)** | Reading, PA | On Site | Aug 10 |
+| ↳ | **[2026 Internship & Co-Op Program](https://jobright.ai/jobs/info/6899716883d13d1f5b692ae0?utm_campaign=1057&utm_source=git)** | Elmore, OH | On Site | Aug 10 |
+| ↳ | **[2026 Internship & Co-Op Program](https://jobright.ai/jobs/info/6899716383d13d1f5b692ad0?utm_campaign=1057&utm_source=git)** | Lincoln/Providence, RI | On Site | Aug 10 |
+| ↳ | **[2026 Internship & Co-Op Program](https://jobright.ai/jobs/info/689971615574fd6bc0c7c502?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | On Site | Aug 10 |
+| ↳ | **[2026 Internship & Co-Op Program](https://jobright.ai/jobs/info/689971515574fd6bc0c7c4d1?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Aug 10 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Senior Coordinator - Student Success - PAC - req12885](https://jobright.ai/jobs/info/689902975574fd6bc0c7af04?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Aug 10 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Mental Health Intern-Master Level-Norfolk Regional Center](https://jobright.ai/jobs/info/6898fd6bfaa4e875e8250f15?utm_campaign=1057&utm_source=git)** | Norfolk, NE | On Site | Aug 10 |
 | **[Albuquerque Public Schools](https://www.aps.edu/)** | **[Culinary Arts - Sandia](https://jobright.ai/jobs/info/6898fcca5574fd6bc0c7ae44?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | On Site | Aug 10 |
@@ -64,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Year Up United](http://yearup.org)** | **[Cyber Security Job Training Program](https://jobright.ai/jobs/info/6898b80d83d13d1f5b690c01?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Aug 10 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[High School Service Intern](https://jobright.ai/jobs/info/67d081841557e74ee97f1559?utm_campaign=1057&utm_source=git)** | Hewitt, TX | On Site | Aug 10 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Research Volunteer Professional Placement (online and in-person) in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dd0c?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Aug 10 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[English Learner Specialist - St. Francis International School](https://jobright.ai/jobs/info/6899718e5574fd6bc0c7c598?utm_campaign=1057&utm_source=git)** | Silver Spring, MD | On Site | Aug 10 |
 | **[Mecklenburg County](https://www.mecknc.gov)** | **[Undergraduate Intern - Community Support Services](https://jobright.ai/jobs/info/684b7b16062c6b8b7aced245?utm_campaign=1057&utm_source=git)** | Mecklenburg County, NC | On Site | Aug 10 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (OT/OTA Catonsville Day Program) Summer 2025 OT Fieldwork](https://jobright.ai/jobs/info/680926de9ec22c126575b54e?utm_campaign=1057&utm_source=git)** | Catonsville, MD | On Site | Aug 10 |
 | **[Corewell Health](https://corewellhealth.org)** | **[Pharmacy Intern 1](https://jobright.ai/jobs/info/6842fb717f2906af4687a8e2?utm_campaign=1057&utm_source=git)** | Troy, MI | Hybrid | Aug 10 |
@@ -106,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Student Adviser](https://jobright.ai/jobs/info/6898483bfaa4e875e824ced3?utm_campaign=1057&utm_source=git)** | Midland, TX | On Site | Aug 09 |
 | ↳ | **[Assistant Professor, Political Science and International Relations](https://jobright.ai/jobs/info/68983e4f83d13d1f5b68caad?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Aug 09 |
 | ↳ | **[International Student & Scholar Services Coordinator](https://jobright.ai/jobs/info/6898366783d13d1f5b68be65?utm_campaign=1057&utm_source=git)** | Radford, VA | On Site | Aug 09 |
+| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Intern, Skillbridge Internship Program (Military Transition Program)](https://jobright.ai/jobs/info/6823e4885477a27952f3b22c?utm_campaign=1057&utm_source=git)** | Suwanee, GA | On Site | Aug 09 |
 | **[BlackRock](http://www.blackrock.com)** | **[2026 Summer Internship Program - AMERS](https://jobright.ai/jobs/info/680823825db404e69199ca16?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Aug 09 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Intern, Skillbridge Internship Program (Military Transition Program)](https://jobright.ai/jobs/info/6823e4885477a27952f3b22d?utm_campaign=1057&utm_source=git)** | Suwanee, GA | On Site | Aug 09 |
 | **[ABB](https://global.abb/group/en)** | **[Internship PM Excellence](https://jobright.ai/jobs/info/688dca53e5cead4afd45ace2?utm_campaign=1057&utm_source=git)** | Location, WV | Hybrid | Aug 09 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II Nursery](https://jobright.ai/jobs/info/6824f8510dfac140178ea247?utm_campaign=1057&utm_source=git)** | Columbus, MS | On Site | Aug 09 |
 | **[Year Up United](http://yearup.org)** | **[Customer Service Job Training Program](https://jobright.ai/jobs/info/688dace3cdbd821a3663dc09?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Aug 09 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Corporate & Institutional Banking Undergraduate Intern - Midland Loan Services](https://jobright.ai/jobs/info/6898586d5574fd6bc0c788ac?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Aug 08 |
 | ↳ | **[Corporate & Institutional Banking Undergraduate Intern - Business Credit](https://jobright.ai/jobs/info/68984cea83d13d1f5b68d7f9?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Aug 08 |
 | **[Dallas Symphony Orchestra](https://www.dallassymphony.org)** | **[Education Intern](https://jobright.ai/jobs/info/689762c68c6d6b442678ab27?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Aug 08 |
-| **[Newman University](http://www.newmanu.edu/)** | **[Student - Biology Lab Assistant](https://jobright.ai/jobs/info/6898366b83d13d1f5b68be6b?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Aug 08 |
-| **[Drexel University's Westphal College of Media Arts & Design](https://drexel.edu/westphal)** | **[Assistant Coach, Women's Lacrosse (PT)](https://jobright.ai/jobs/info/6898219afaa4e875e824a8c2?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Aug 08 |
-| **[Terros Health](https://www.terroshealth.org/)** | **[Intern - Olive Ave Health Center - Master's Degree Level](https://jobright.ai/jobs/info/6898490883d13d1f5b68cfd1?utm_campaign=1057&utm_source=git)** | Glendale, AZ | On Site | Aug 08 |
-| ↳ | **[Mobile Crisis Intern - Master's Degree Level - Kingman, AZ](https://jobright.ai/jobs/info/68985e96faa4e875e824f6bd?utm_campaign=1057&utm_source=git)** | Kingman, AZ | On Site | Aug 08 |
-| ↳ | **[Mobile Crisis Intern - Master's Degree Level - Bullhead City, AZ](https://jobright.ai/jobs/info/6898592b83d13d1f5b68ed6b?utm_campaign=1057&utm_source=git)** | Bullhead City, AZ | On Site | Aug 08 |
-| **[Virginia Commonwealth University](http://www.vcu.edu/)** | **[InterAge Intern - Lifelong Learning Institute (Chesterfield)](https://jobright.ai/jobs/info/68985c43faa4e875e824f267?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Aug 08 |
-| **[City of Noblesville](https://www.cityofnoblesville.org)** | **[Noblesville High School Intern](https://jobright.ai/jobs/info/6898354f5574fd6bc0c75866?utm_campaign=1057&utm_source=git)** | Noblesville, IN | On Site | Aug 08 |
-| **[Eastern Kentucky University](http://www.eku.edu/)** | **[STEM Center Learning Assistant](https://jobright.ai/jobs/info/689856bf83d13d1f5b68e939?utm_campaign=1057&utm_source=git)** | Richmond, KY | On Site | Aug 08 |
-| **[Township High School District 113](http://dist113.org)** | **[Internship / School Counselor - Highland Park High School](https://jobright.ai/jobs/info/689840dd83d13d1f5b68ce33?utm_campaign=1057&utm_source=git)** | Highland Park, IL | On Site | Aug 08 |
-| **[Grimmway Farms](http://www.grimmway.com)** | **[Fall 2025 Internship](https://jobright.ai/jobs/info/68976b9d1b9e81727f19a2f4?utm_campaign=1057&utm_source=git)** | US-CA-Bakersfield | On Site | Aug 08 |
-| **[Santander Private Banking International](http://pb-santander.com)** | **[Intern - Digital Wealth](https://jobright.ai/jobs/info/68985f5c5574fd6bc0c79532?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Aug 08 |
-| **[College of Health and Human Sciences at Texas Tech University](http://www.depts.ttu.edu/hs/)** | **[Post-Graduate Athletic Intern, Strength &amp; Conditioning](https://jobright.ai/jobs/info/6896a5a173b3a600fe891bcc?utm_campaign=1057&utm_source=git)** | Lubbock | On Site | Aug 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
