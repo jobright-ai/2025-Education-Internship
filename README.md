@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gardner-Webb University](http://gardner-webb.edu)** | **[Athletic Graduate Intern-Swimming](https://jobright.ai/jobs/info/689b1b53faa4e875e825eba8?utm_campaign=1057&utm_source=git)** | Shelby, NC | On Site | Aug 12 |
+| **[Presbyterian Children's Homes and Services](https://www.pchas.org)** | **[Family Resource Center Intern (Part-time)](https://jobright.ai/jobs/info/689b1b2c79a9f9666252efac?utm_campaign=1057&utm_source=git)** | Mexia, TX | On Site | Aug 12 |
+| **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/689b1b1f79a9f9666252efa1?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | On Site | Aug 12 |
+| **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee- School of Ag Sciences-Research Student](https://jobright.ai/jobs/info/689b139cfaa4e875e825ea2a?utm_campaign=1057&utm_source=git)** | Huntsville, TX | On Site | Aug 12 |
+| **[HDR](http://www.hdrinc.com)** | **[Chico State - Technical Career Fair 2024](https://jobright.ai/jobs/info/67e3c1cf323b3f80fa3f9b6a?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Aug 12 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Senior Coordinator - Student Success - PAC - req12885](https://jobright.ai/jobs/info/689b01a5faa4e875e825e922?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Aug 12 |
 | **[Year Up United](http://yearup.org)** | **[Software Development Career Training Program](https://jobright.ai/jobs/info/689b019afaa4e875e825e916?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Aug 12 |
 | **[U of Arkansas System Division of Agriculture](https://uada.edu)** | **[Experiential Scholars Program (ESP) Intern](https://jobright.ai/jobs/info/689affe779a9f9666252ed23?utm_campaign=1057&utm_source=git)** | Little Rock | On Site | Aug 12 |
@@ -64,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/689ae611faa4e875e825db0a?utm_campaign=1057&utm_source=git)** | Overland Park, KS | On Site | Aug 11 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/689ae589faa4e875e825da7c?utm_campaign=1057&utm_source=git)** | Tulsa, OK | On Site | Aug 11 |
 | ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/689ae43483d13d1f5b69da4f?utm_campaign=1057&utm_source=git)** | Woodstock, GA | On Site | Aug 11 |
+| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/689addb55574fd6bc0c86fad?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Aug 11 |
 | ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/689adda95574fd6bc0c86fa0?utm_campaign=1057&utm_source=git)** | Columbia, MD | On Site | Aug 11 |
 | ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/689add5e5574fd6bc0c86f3e?utm_campaign=1057&utm_source=git)** | Lawrenceville, GA | On Site | Aug 11 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/689add525574fd6bc0c86f28?utm_campaign=1057&utm_source=git)** | San Clemente, CA | On Site | Aug 11 |
@@ -91,13 +97,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/689adb1283d13d1f5b69d2ef?utm_campaign=1057&utm_source=git)** | Alpharetta, GA | On Site | Aug 11 |
 | ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/689adb0083d13d1f5b69d2d8?utm_campaign=1057&utm_source=git)** | Centreville, VA | On Site | Aug 11 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/689adad95574fd6bc0c86ba5?utm_campaign=1057&utm_source=git)** | South Jordan, UT | On Site | Aug 11 |
-| ↳ | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/689adad35574fd6bc0c86b9b?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | Aug 11 |
 | ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/689adad35574fd6bc0c86b9a?utm_campaign=1057&utm_source=git)** | Johns Creek, GA | On Site | Aug 11 |
+| ↳ | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/689adad35574fd6bc0c86b9b?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | Aug 11 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/689adabd83d13d1f5b69d28c?utm_campaign=1057&utm_source=git)** | Westminster, CO | On Site | Aug 11 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/689adabb5574fd6bc0c86b7e?utm_campaign=1057&utm_source=git)** | Henderson, NV | On Site | Aug 11 |
 | ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/689ada75faa4e875e825cf19?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Aug 11 |
-| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/689ada4a83d13d1f5b69d1f6?utm_campaign=1057&utm_source=git)** | Oakbrook Terrace, IL | On Site | Aug 11 |
 | ↳ | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/689ada4afaa4e875e825ced2?utm_campaign=1057&utm_source=git)** | McKinney, TX | On Site | Aug 11 |
+| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/689ada4a83d13d1f5b69d1f6?utm_campaign=1057&utm_source=git)** | Oakbrook Terrace, IL | On Site | Aug 11 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/689ada475574fd6bc0c86ad5?utm_campaign=1057&utm_source=git)** | St Louis Park, MN | On Site | Aug 11 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/689ada32faa4e875e825ceb4?utm_campaign=1057&utm_source=git)** | Orland Park, IL | On Site | Aug 11 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/689ada305574fd6bc0c86ab7?utm_campaign=1057&utm_source=git)** | Laguna Niguel, CA | On Site | Aug 11 |
@@ -107,13 +113,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/689ad9fc83d13d1f5b69d189?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Aug 11 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/689ad9d2faa4e875e825ce36?utm_campaign=1057&utm_source=git)** | Franklin, TN | On Site | Aug 11 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/689ad9cc5574fd6bc0c86a23?utm_campaign=1057&utm_source=git)** | Fridley, MN | On Site | Aug 11 |
-| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/689ad9c15574fd6bc0c86a18?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Aug 11 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/689ad9bd83d13d1f5b69d12b?utm_campaign=1057&utm_source=git)** | Irvine, CA | On Site | Aug 11 |
 | ↳ | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/689ad9b983d13d1f5b69d128?utm_campaign=1057&utm_source=git)** | Mansfield, TX | On Site | Aug 11 |
 | ↳ | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/689ad9ac83d13d1f5b69d110?utm_campaign=1057&utm_source=git)** | Plano, TX | On Site | Aug 11 |
 | ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/689ad87b83d13d1f5b69cf66?utm_campaign=1057&utm_source=git)** | Gainesville, VA | On Site | Aug 11 |
-| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/689ad7c783d13d1f5b69cea1?utm_campaign=1057&utm_source=git)** | Palm Beach Gardens, FL | On Site | Aug 11 |
 | ↳ | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/689ad7c783d13d1f5b69ce9f?utm_campaign=1057&utm_source=git)** | Frisco, TX | On Site | Aug 11 |
+| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/689ad7c783d13d1f5b69cea1?utm_campaign=1057&utm_source=git)** | Palm Beach Gardens, FL | On Site | Aug 11 |
 | ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/689ad77e83d13d1f5b69ce33?utm_campaign=1057&utm_source=git)** | Sterling, VA | On Site | Aug 11 |
 | ↳ | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/689ad74183d13d1f5b69cde4?utm_campaign=1057&utm_source=git)** | Colleyville, TX | On Site | Aug 11 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/689ad73b83d13d1f5b69cdd7?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Aug 11 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[AUSTIN - Land/Site, Internship](https://jobright.ai/jobs/info/689a7cd5faa4e875e825906f?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Aug 11 |
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/689a7cb283d13d1f5b6993b3?utm_campaign=1057&utm_source=git)** | Bellevue, WA | On Site | Aug 11 |
 | **[Year Up United](http://yearup.org)** | **[Banking Job Training Program](https://jobright.ai/jobs/info/689a7ca7faa4e875e8259050?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Aug 11 |
-| **[Life Time Inc.](https://www.lifetime.life/)** | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/689a7c9483d13d1f5b699394?utm_campaign=1057&utm_source=git)** | Dublin, OH | On Site | Aug 11 |
-| **[Year Up United](http://yearup.org)** | **[Data Management Job Training Opportunity](https://jobright.ai/jobs/info/689a7c7d83d13d1f5b699377?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Aug 11 |
-| ↳ | **[IT Systems Administration Job Training Program](https://jobright.ai/jobs/info/689a7c6f83d13d1f5b699369?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Aug 11 |
-| ↳ | **[Software Development Job Training Opportunity](https://jobright.ai/jobs/info/689a7c6efaa4e875e825901a?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Aug 11 |
-| **[Life Time Inc.](https://www.lifetime.life/)** | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/689a7c64faa4e875e8259011?utm_campaign=1057&utm_source=git)** | Eden Prairie, MN | On Site | Aug 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
