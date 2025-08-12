@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Senior Coordinator - Student Success - PAC - req12885](https://jobright.ai/jobs/info/689b01a5faa4e875e825e922?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Aug 12 |
+| **[Year Up United](http://yearup.org)** | **[Software Development Career Training Program](https://jobright.ai/jobs/info/689b019afaa4e875e825e916?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Aug 12 |
+| **[U of Arkansas System Division of Agriculture](https://uada.edu)** | **[Experiential Scholars Program (ESP) Intern](https://jobright.ai/jobs/info/689affe779a9f9666252ed23?utm_campaign=1057&utm_source=git)** | Little Rock | On Site | Aug 12 |
 | **[Presbyterian Children's Homes and Services](https://www.pchas.org)** | **[Family Resource Center Intern (Part-time)](https://jobright.ai/jobs/info/689ae6ce5574fd6bc0c87734?utm_campaign=1057&utm_source=git)** | Mexia | On Site | Aug 12 |
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/689ae611faa4e875e825db0a?utm_campaign=1057&utm_source=git)** | Overland Park, KS | On Site | Aug 11 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/689ae589faa4e875e825da7c?utm_campaign=1057&utm_source=git)** | Tulsa, OK | On Site | Aug 11 |
@@ -88,8 +91,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/689adb1283d13d1f5b69d2ef?utm_campaign=1057&utm_source=git)** | Alpharetta, GA | On Site | Aug 11 |
 | ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/689adb0083d13d1f5b69d2d8?utm_campaign=1057&utm_source=git)** | Centreville, VA | On Site | Aug 11 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/689adad95574fd6bc0c86ba5?utm_campaign=1057&utm_source=git)** | South Jordan, UT | On Site | Aug 11 |
-| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/689adad35574fd6bc0c86b9a?utm_campaign=1057&utm_source=git)** | Johns Creek, GA | On Site | Aug 11 |
 | ↳ | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/689adad35574fd6bc0c86b9b?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | Aug 11 |
+| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/689adad35574fd6bc0c86b9a?utm_campaign=1057&utm_source=git)** | Johns Creek, GA | On Site | Aug 11 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/689adabd83d13d1f5b69d28c?utm_campaign=1057&utm_source=git)** | Westminster, CO | On Site | Aug 11 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/689adabb5574fd6bc0c86b7e?utm_campaign=1057&utm_source=git)** | Henderson, NV | On Site | Aug 11 |
 | ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/689ada75faa4e875e825cf19?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Aug 11 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Systems Administration Job Training Program](https://jobright.ai/jobs/info/689a7c6f83d13d1f5b699369?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Aug 11 |
 | ↳ | **[Software Development Job Training Opportunity](https://jobright.ai/jobs/info/689a7c6efaa4e875e825901a?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Aug 11 |
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/689a7c64faa4e875e8259011?utm_campaign=1057&utm_source=git)** | Eden Prairie, MN | On Site | Aug 11 |
-| **[Year Up United](http://yearup.org)** | **[Computer Systems Administration Career Training Program](https://jobright.ai/jobs/info/689a7c515574fd6bc0c82e94?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Aug 11 |
-| **[Life Time Inc.](https://www.lifetime.life/)** | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/689a7c4a5574fd6bc0c82e8d?utm_campaign=1057&utm_source=git)** | Coon Rapids, MN | On Site | Aug 11 |
-| **[Year Up United](http://yearup.org)** | **[Data Management Job Training Opportunity](https://jobright.ai/jobs/info/689a7c3883d13d1f5b699337?utm_campaign=1057&utm_source=git)** | Wilmington, DE | On Site | Aug 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
