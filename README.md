@@ -57,7 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Young Life](https://sworlando.younglife.org)** | **[Michiana Intern](https://jobright.ai/jobs/info/689bd3c179a9f9666253404c?utm_campaign=1057&utm_source=git)** | South Bend, IN | On Site | Aug 12 |
+| **[NYU Langone Health](https://nyulangone.org/)** | **[Psychology Intern](https://jobright.ai/jobs/info/689be7aefaa4e875e8264742?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Aug 12 |
+| **[UNC Health](https://www.unchealth.org)** | **[Pastoral Care Intern](https://jobright.ai/jobs/info/689be54483d13d1f5b6a45e6?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Aug 12 |
+| **[NYU Langone Health](https://nyulangone.org/)** | **[Psychology Intern](https://jobright.ai/jobs/info/689be50679a9f96662534a1d?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Aug 12 |
+| **[UHS](https://uhs.com)** | **[Clinical Intern](https://jobright.ai/jobs/info/689be4bb83d13d1f5b6a4558?utm_campaign=1057&utm_source=git)** | Woods Cross, UT | On Site | Aug 12 |
+| **[New College of Florida](http://www.ncf.edu/)** | **[Student Assistant Lab Assistant, Pritzker](https://jobright.ai/jobs/info/689be371faa4e875e82643f9?utm_campaign=1057&utm_source=git)** | Bay Shore Acres, FL | On Site | Aug 12 |
+| **[The City University of New York](http://www.cuny.edu)** | **[Doctoral Lecturer/Internship Coordinator in Clinical/Counseling Psychology](https://jobright.ai/jobs/info/689be25bfaa4e875e82641b0?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Aug 12 |
+| **[Lee Health](http://www.leehealth.org/)** | **[PRN Student Intern](https://jobright.ai/jobs/info/689be20e83d13d1f5b6a42ce?utm_campaign=1057&utm_source=git)** | Fort Myers, FL | On Site | Aug 12 |
+| **[American University](http://american.edu)** | **[Research Assistant (Student)](https://jobright.ai/jobs/info/689be1e483d13d1f5b6a429a?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Aug 12 |
+| **[Sodexo](http://www.sodexo.com)** | **[Campus Intern](https://jobright.ai/jobs/info/689be11783d13d1f5b6a41b8?utm_campaign=1057&utm_source=git)** | Findlay, OH | On Site | Aug 12 |
+| **[Weber State University Department of Automotive Technology](https://www.weber.edu/automotive)** | **[Planetarium Assistant](https://jobright.ai/jobs/info/689bde30faa4e875e8263ff0?utm_campaign=1057&utm_source=git)** | Ogden, UT | On Site | Aug 12 |
+| **[University of Pittsburgh](pitt.edu)** | **[Pitt-Bradford Baseball Intern](https://jobright.ai/jobs/info/689bdd2279a9f96662534490?utm_campaign=1057&utm_source=git)** | Bradford, PA | On Site | Aug 12 |
+| **[California Correctional Health Care Services](https://cchcs.ca.gov)** | **[PSYCHOLOGIST-CLINICAL, CF - Valley State Prison (VSP)](https://jobright.ai/jobs/info/689bd8e6faa4e875e8263e44?utm_campaign=1057&utm_source=git)** | Madera, CA | On Site | Aug 12 |
+| ↳ | **[PSYCHOLOGIST-CLINICAL, CF - Pleasant Valley State Prison (PVSP)](https://jobright.ai/jobs/info/689bd84783d13d1f5b6a3ea2?utm_campaign=1057&utm_source=git)** | Fresno, CA | On Site | Aug 12 |
+| ↳ | **[PSYCHOLOGIST-CLINICAL, CF - Avenal State Prison (ASP)](https://jobright.ai/jobs/info/689bd80a79a9f966625342ec?utm_campaign=1057&utm_source=git)** | Corcoran, CA | On Site | Aug 12 |
+| ↳ | **[PSYCHOLOGIST-CLINICAL, CF - Salinas Valley State Prison (SVSP)](https://jobright.ai/jobs/info/689bd79879a9f96662534239?utm_campaign=1057&utm_source=git)** | Monterey, CA | On Site | Aug 12 |
+| **[Young Life](https://sworlando.younglife.org)** | **[Michiana Intern](https://jobright.ai/jobs/info/689bd505faa4e875e8263caa?utm_campaign=1057&utm_source=git)** | South Bend, IN | On Site | Aug 12 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Community Wellness Intern, Chartwells Higher Ed / Michigan Technological University](https://jobright.ai/jobs/info/689bd130faa4e875e8263be7?utm_campaign=1057&utm_source=git)** | Houghton, MI | On Site | Aug 12 |
 | **[OCHIN, Inc.](https://ochin.org)** | **[HRSA- COMMUNITY HEALTH WORKER - INTERNSHIP TRAINING PROGRAM](https://jobright.ai/jobs/info/689bd033faa4e875e8263a34?utm_campaign=1057&utm_source=git)** | Hermiston, OR | On Site | Aug 12 |
 | **[Connecticut Institute for Refugees and Immigrants](https://cirict.org)** | **[INTERNSHIP- Youth Services - Refugee Services Intern (New Haven office)](https://jobright.ai/jobs/info/689bcc9e79a9f96662533d74?utm_campaign=1057&utm_source=git)** | New Haven, CT | On Site | Aug 12 |
@@ -67,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Riverside Community Care](http://www.riversidecc.org)** | **[Engagement Specialist Internship - Flexible Start Date](https://jobright.ai/jobs/info/689bb68583d13d1f5b6a2f15?utm_campaign=1057&utm_source=git)** | Norwood, MA | On Site | Aug 12 |
 | **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Market and Wealth Services (Houston, TX)](https://jobright.ai/jobs/info/689bb50bfaa4e875e8262d10?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Aug 12 |
 | ↳ | **[2026 BNY Summer Internship Program - Asset Servicing (Lake Mary, FL)](https://jobright.ai/jobs/info/689bb35a79a9f96662532e22?utm_campaign=1057&utm_source=git)** | Lake Mary, FL | On Site | Aug 12 |
-| ↳ | **[2026 BNY Summer Internship Program - Risk & Compliance (New York, NY)](https://jobright.ai/jobs/info/689bb34ffaa4e875e8262a60?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Aug 12 |
 | **[New York State Department of Health](https://health.ny.gov/)** | **[Student Assistant - 07037, 32386](https://jobright.ai/jobs/info/689bab5479a9f96662532880?utm_campaign=1057&utm_source=git)** | Rochester, NY | Hybrid | Aug 12 |
 | **[American University](http://american.edu)** | **[Research Assistant (Student)](https://jobright.ai/jobs/info/689ba82ffaa4e875e82622fd?utm_campaign=1057&utm_source=git)** | Main Campus (Washington, DC) | On Site | Aug 12 |
 | **[University of Pittsburgh](pitt.edu)** | **[Swim Coach Intern](https://jobright.ai/jobs/info/689ba4cefaa4e875e8262099?utm_campaign=1057&utm_source=git)** | Bradford, PA | On Site | Aug 12 |
@@ -86,17 +100,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 BNY Summer Internship Program - BNY Wealth (Pittsburgh, PA)](https://jobright.ai/jobs/info/68925af7f47efe211395baf2?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Aug 12 |
 | **[College of Southern Nevada](http://www.csn.edu/)** | **[College Work Study Student - CSN West Charleston Testing Center - Fall 2025](https://jobright.ai/jobs/info/689b997379a9f96662531b7c?utm_campaign=1057&utm_source=git)** | CSN - Charleston Campus | On Site | Aug 12 |
 | **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Pharmacy Tech Youth Apprentice](https://jobright.ai/jobs/info/689b996c79a9f96662531b72?utm_campaign=1057&utm_source=git)** | Advocate Trinity Hospital - 2320 E 93rd St | On Site | Aug 12 |
+| **[Good Shepherd Services](https://goodshepherds.org/)** | **[MSW Intern](https://jobright.ai/jobs/info/689b96ea83d13d1f5b6a1752?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Aug 12 |
 | **[Year Up United](http://yearup.org)** | **[Business Operations Job Training Program](https://jobright.ai/jobs/info/689b95d983d13d1f5b6a1646?utm_campaign=1057&utm_source=git)** | Providence, RI | On Site | Aug 12 |
 | ↳ | **[Data Management Job Training Opportunity](https://jobright.ai/jobs/info/689b94f2faa4e875e8261539?utm_campaign=1057&utm_source=git)** | Providence, RI | On Site | Aug 12 |
 | ↳ | **[Computer Architecture & Systems Fundamentals Job Training Program](https://jobright.ai/jobs/info/689b947d83d13d1f5b6a1511?utm_campaign=1057&utm_source=git)** | Providence, RI | On Site | Aug 12 |
 | **[Unicef CHAD](http://www.unicef.org/chad)** | **[Internship - Research Programmatic Impact and Scale, GPD Director's Office, New York HQ (Fully Remote)](https://jobright.ai/jobs/info/689b9473faa4e875e82614a0?utm_campaign=1057&utm_source=git)** | United States | Hybrid | Aug 12 |
 | **[Year Up United](http://yearup.org)** | **[Computer Systems Administration Career Training Program](https://jobright.ai/jobs/info/689b93bd83d13d1f5b6a1469?utm_campaign=1057&utm_source=git)** | Providence, RI | On Site | Aug 12 |
-| **[Nexus Family Healing](https://www.nexusfamilyhealing.org)** | **[Intern](https://jobright.ai/jobs/info/689bd090faa4e875e8263aa6?utm_campaign=1057&utm_source=git)** | Waite Park, MN | On Site | Aug 12 |
-| ↳ | **[Intern - Therapist](https://jobright.ai/jobs/info/689bcffc83d13d1f5b6a3a44?utm_campaign=1057&utm_source=git)** | Grand Forks, ND | On Site | Aug 12 |
+| **[Nexus Family Healing](https://www.nexusfamilyhealing.org)** | **[Intern - Therapist](https://jobright.ai/jobs/info/689bcffc83d13d1f5b6a3a44?utm_campaign=1057&utm_source=git)** | Grand Forks, ND | On Site | Aug 12 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/689bd090faa4e875e8263aa6?utm_campaign=1057&utm_source=git)** | Waite Park, MN | On Site | Aug 12 |
 | **[GuideStar Eldercare](https://guidestareldercare.com/)** | **[Post Doctoral Fellowship - Clinical Psychology (Geriatric and Dementia focused)](https://jobright.ai/jobs/info/689badcb83d13d1f5b6a26f0?utm_campaign=1057&utm_source=git)** | Marion, IN | On Site | Aug 12 |
+| **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Psychology Fellow](https://jobright.ai/jobs/info/689b9145faa4e875e82613d2?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Aug 12 |
 | **[Middlebury College](http://www.middlebury.edu/)** | **[Creativity & Innovation Intern (AY 25-26 901985)](https://jobright.ai/jobs/info/689b901783d13d1f5b6a126c?utm_campaign=1057&utm_source=git)** | Middlebury, VT | On Site | Aug 12 |
-| **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Psychology Fellow](https://jobright.ai/jobs/info/689b901679a9f966625315cf?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Aug 12 |
-| **[Good Shepherd Services](https://goodshepherds.org/)** | **[MSW Intern](https://jobright.ai/jobs/info/689b8fd979a9f96662531540?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Aug 12 |
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/689b8fd7faa4e875e8261162?utm_campaign=1057&utm_source=git)** | Missouri City, TX | On Site | Aug 12 |
 | **[Morbark, LLC](http://www.morbark.com/)** | **[Intern](https://jobright.ai/jobs/info/689b8fb0faa4e875e82610ff?utm_campaign=1057&utm_source=git)** | Winn, MI | On Site | Aug 12 |
 | **[University of Michigan](https://www.umich.edu)** | **[Student Preschool Classroom Assistant (Student Temp)](https://jobright.ai/jobs/info/689b8f10faa4e875e8260fbe?utm_campaign=1057&utm_source=git)** | Dearborn, MI | On Site | Aug 12 |
@@ -113,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Student Test Proctor](https://jobright.ai/jobs/info/689b7ec579a9f96662530cdf?utm_campaign=1057&utm_source=git)** | Stevens Point, WI | On Site | Aug 12 |
 | **[Saint Luke's Health System](https://www.saintlukeskc.org)** | **[ED Nursing Intern, PRN Evenings](https://jobright.ai/jobs/info/689b7e3bfaa4e875e82608e4?utm_campaign=1057&utm_source=git)** | Saint Luke's North Hospital   |   5830 NW Barry Rd   |   Kansas City   |   MO | On Site | Aug 12 |
 | **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Student Intern, Implementation Science, part-time](https://jobright.ai/jobs/info/689b7e3283d13d1f5b6a08cb?utm_campaign=1057&utm_source=git)** | Winston Salem, NC - 525 Vine St | Hybrid | Aug 12 |
-| **[Aceolution](https://www.aceolution.com/)** | **[Educational Evaluation Rater](https://jobright.ai/jobs/info/689b75be83d13d1f5b6a05d2?utm_campaign=1057&utm_source=git)** | United States | Remote | Aug 12 |
 | **[Penn State Department of Materials Science and Engineering](https://www.matse.psu.edu/)** | **[College of IST Graduate Research Assistant w/ Dr. Rajtmajer](https://jobright.ai/jobs/info/689b6d5879a9f966625306bc?utm_campaign=1057&utm_source=git)** | Penn State University Park | On Site | Aug 12 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist (Program Manager)](https://jobright.ai/jobs/info/689b669179a9f96662530459?utm_campaign=1057&utm_source=git)** | Dayton, OH | On Site | Aug 12 |
 | **[Association of American Law Schools](http://www.aals.org)** | **[Communications Student Assistant](https://jobright.ai/jobs/info/689b653b79a9f966625302de?utm_campaign=1057&utm_source=git)** | DC-Baltimore Area | On Site | Aug 12 |
@@ -139,22 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Senior Coordinator - Student Success - PAC - req12885](https://jobright.ai/jobs/info/689b01a5faa4e875e825e922?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Aug 12 |
 | **[Year Up United](http://yearup.org)** | **[Software Development Career Training Program](https://jobright.ai/jobs/info/689b019afaa4e875e825e916?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Aug 12 |
 | **[U of Arkansas System Division of Agriculture](https://uada.edu)** | **[Experiential Scholars Program (ESP) Intern](https://jobright.ai/jobs/info/689affe779a9f9666252ed23?utm_campaign=1057&utm_source=git)** | Little Rock | On Site | Aug 12 |
-| **[Presbyterian Children's Homes and Services](https://www.pchas.org)** | **[Family Resource Center Intern (Part-time)](https://jobright.ai/jobs/info/689ae6ce5574fd6bc0c87734?utm_campaign=1057&utm_source=git)** | Mexia | On Site | Aug 12 |
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/689ae611faa4e875e825db0a?utm_campaign=1057&utm_source=git)** | Overland Park, KS | On Site | Aug 11 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/689ae589faa4e875e825da7c?utm_campaign=1057&utm_source=git)** | Tulsa, OK | On Site | Aug 11 |
 | ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/689ae43483d13d1f5b69da4f?utm_campaign=1057&utm_source=git)** | Woodstock, GA | On Site | Aug 11 |
 | ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/689addb55574fd6bc0c86fad?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Aug 11 |
 | ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/689adda95574fd6bc0c86fa0?utm_campaign=1057&utm_source=git)** | Columbia, MD | On Site | Aug 11 |
-| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/689add5e5574fd6bc0c86f3e?utm_campaign=1057&utm_source=git)** | Lawrenceville, GA | On Site | Aug 11 |
-| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/689add525574fd6bc0c86f28?utm_campaign=1057&utm_source=git)** | San Clemente, CA | On Site | Aug 11 |
-| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/689add105574fd6bc0c86ec1?utm_campaign=1057&utm_source=git)** | Broomfield, CO | On Site | Aug 11 |
-| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/689add0e5574fd6bc0c86ebe?utm_campaign=1057&utm_source=git)** | Arlington, VA | On Site | Aug 11 |
-| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/689adcea5574fd6bc0c86e96?utm_campaign=1057&utm_source=git)** | Shelby Township, MI | On Site | Aug 11 |
-| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/689adce15574fd6bc0c86e83?utm_campaign=1057&utm_source=git)** | Cary, NC | On Site | Aug 11 |
-| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/689adcdffaa4e875e825d289?utm_campaign=1057&utm_source=git)** | Tempe, AZ | On Site | Aug 11 |
-| ↳ | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/689adcd65574fd6bc0c86e77?utm_campaign=1057&utm_source=git)** | Allen, TX | On Site | Aug 11 |
-| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/689adcaafaa4e875e825d234?utm_campaign=1057&utm_source=git)** | Norcross, GA | On Site | Aug 11 |
-| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/689adc98faa4e875e825d218?utm_campaign=1057&utm_source=git)** | Lenexa, KS | On Site | Aug 11 |
-| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/689adc345574fd6bc0c86d8b?utm_campaign=1057&utm_source=git)** | Plymouth, MN | On Site | Aug 11 |
-| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/689adc2b5574fd6bc0c86d7f?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Aug 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
