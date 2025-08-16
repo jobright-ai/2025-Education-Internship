@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sodexo](http://www.sodexo.com)** | **[Campus Intern](https://jobright.ai/jobs/info/68a0ca54cc9ee94dc912087b?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Aug 16 |
+| **[University of Illinois Chicago (UIC) School of Public Health](https://publichealth.uic.edu)** | **[Financial Aid Associate - Office of Student Financial Aid and Scholarships](https://jobright.ai/jobs/info/68a0c7a2faa4e875e82919f0?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Aug 16 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Trainee trading](https://jobright.ai/jobs/info/68a0b41b83d13d1f5b6d1455?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Aug 16 |
 | **[Northern Kentucky University](http://www.nku.edu/)** | **[Sport Programs Assistant (student employment)](https://jobright.ai/jobs/info/68a0a36383d13d1f5b6d1271?utm_campaign=1057&utm_source=git)** | Newport, KY | On Site | Aug 16 |
 | **[Year Up United](http://yearup.org)** | **[Data Analytics Job Training Program](https://jobright.ai/jobs/info/68a0a0e0faa4e875e8290f69?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Aug 16 |
@@ -114,6 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Baptist Health](http://baptisthealth.net/)** | **[Respiratory Therapist Intern, Respiratory Therapy, Per diem, 7P-7A](https://jobright.ai/jobs/info/689fd408faa4e875e828b63c?utm_campaign=1057&utm_source=git)** | Homestead, FL | On Site | Aug 15 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Graduate Student Assistant - DataSpace - Innovation and Research Commons](https://jobright.ai/jobs/info/689fd108faa4e875e828b53e?utm_campaign=1057&utm_source=git)** | Auburn, AL | On Site | Aug 15 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Intern](https://jobright.ai/jobs/info/68a0c49dcc9ee94dc91206c0?utm_campaign=1057&utm_source=git)** | Birmingham, AL | On Site | Aug 15 |
+| **[Solis Mammography](http://solismammo.com)** | **[Mammography Technologist Training Program](https://jobright.ai/jobs/info/68391e02b40678fa70b923dc?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Aug 15 |
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Student Workstudy-Registrar Office Assistant](https://jobright.ai/jobs/info/689fcce9faa4e875e828b317?utm_campaign=1057&utm_source=git)** | Kokomo, IN | On Site | Aug 15 |
 | **[Axis Community Health](https://www.axishealth.org)** | **[MENTAL HEALTH INTERN - CLINIC BASED](https://jobright.ai/jobs/info/689fccadcc9ee94dc9119ec8?utm_campaign=1057&utm_source=git)** | Pleasanton, CA | Hybrid | Aug 15 |
 | **[Univera Healthcare](https://www.univerahealthcare.com)** | **[College Intern I - Fall 2025 - Claims Processing](https://jobright.ai/jobs/info/689fca22faa4e875e828b21c?utm_campaign=1057&utm_source=git)** | Buffalo, NY | On Site | Aug 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Country Music Association (CMA)](https://www.cmaworld.com/)** | **[Spring 2026 Internship](https://jobright.ai/jobs/info/689f70fcfaa4e875e828793f?utm_campaign=1057&utm_source=git)** | Nashville, TN | Hybrid | Aug 15 |
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/689f7006faa4e875e8287426?utm_campaign=1057&utm_source=git)** | Cypress, TX | On Site | Aug 15 |
 | ↳ | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/689f6fa3faa4e875e828719c?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Aug 15 |
-| **[City of Riverside](https://riversideca.gov/)** | **[Student Intern (Library and Cultural Arts)- 2 positions](https://jobright.ai/jobs/info/68a0c43e83d13d1f5b6d1793?utm_campaign=1057&utm_source=git)** | California, United States | On Site | Aug 15 |
-| **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2026 Commercial Rating & Underwriting, Credit & Fraud Risk - Salt Lake City, UT](https://jobright.ai/jobs/info/689f6397faa4e875e828664c?utm_campaign=1057&utm_source=git)** | Sandy, Utah, United States | Hybrid | Aug 15 |
-| ↳ | **[Campus Undergraduate Summer Internship Program - 2026 Commercial Rating & Underwriting, Credit & Fraud Risk - Phoenix, AZ](https://jobright.ai/jobs/info/689f635c79a9f966625567af?utm_campaign=1057&utm_source=git)** | Phoenix, Arizona, United States | Hybrid | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
