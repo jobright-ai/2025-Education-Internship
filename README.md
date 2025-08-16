@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Burrell Behavioral Health](https://www.burrellcenter.com/)** | **[Student Trainee Graduate Level Only](https://jobright.ai/jobs/info/68a05302faa4e875e8290185?utm_campaign=1057&utm_source=git)** | Tulsa, OK | On Site | Aug 16 |
+| **[Telecare Corporation](http://www.telecarecorp.com)** | **[Internship Opportunities for All Telecare Locations! FY26](https://jobright.ai/jobs/info/68673bc3afc79b6161e5b82e?utm_campaign=1057&utm_source=git)** | Alameda, CA | On Site | Aug 16 |
+| **[Foothill-De Anza Community College District](http://www.fhda.edu)** | **[Psychological Services Intern Temporary Pool](https://jobright.ai/jobs/info/68a049a383d13d1f5b6d00b8?utm_campaign=1057&utm_source=git)** | Los Altos, CA | On Site | Aug 16 |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Senior Coordinator - Student Success - PAC - req12885](https://jobright.ai/jobs/info/68a042e6faa4e875e828ff06?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Aug 16 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/68a02f6183d13d1f5b6cef5b?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Aug 16 |
 | **[ABB](https://global.abb/group/en)** | **[Training Internship](https://jobright.ai/jobs/info/68a02cc3cc9ee94dc911db32?utm_campaign=1057&utm_source=git)** | Location, WV | On Site | Aug 16 |
 | **[Youth Villages](http://www.youthvillages.org)** | **[Spring 2026 - Masters Level Paid Internship](https://jobright.ai/jobs/info/68a02660cc9ee94dc911d61b?utm_campaign=1057&utm_source=git)** | Jonesboro, AR | On Site | Aug 15 |
-| ↳ | **[Spring 2026 - Masters Level Paid Internship](https://jobright.ai/jobs/info/68a019a1cc9ee94dc911c5d5?utm_campaign=1057&utm_source=git)** | Searcy, AR | On Site | Aug 15 |
+| **[ABB](https://global.abb/group/en)** | **[Internship PM Excellence](https://jobright.ai/jobs/info/688dca53e5cead4afd45ace2?utm_campaign=1057&utm_source=git)** | Location, WV | Hybrid | Aug 15 |
+| **[Youth Villages](http://www.youthvillages.org)** | **[Spring 2026 - Masters Level Paid Internship](https://jobright.ai/jobs/info/68a019a1cc9ee94dc911c5d5?utm_campaign=1057&utm_source=git)** | Searcy, AR | On Site | Aug 15 |
 | ↳ | **[Spring 2026 - Masters Level Paid Internship](https://jobright.ai/jobs/info/68a0199acc9ee94dc911c5b6?utm_campaign=1057&utm_source=git)** | Fayetteville, AR | On Site | Aug 15 |
 | **[Newman University](http://www.newmanu.edu/)** | **[Student - Sports Information Assistant](https://jobright.ai/jobs/info/68a00a5dfaa4e875e828cf02?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Aug 15 |
 | **[Botany and Plant Pathology Department at Purdue University](https://ag.purdue.edu/btny/Pages/default.aspx)** | **[Elements Data Assistant - Student Clerical](https://jobright.ai/jobs/info/68a0091ccc9ee94dc911b9fd?utm_campaign=1057&utm_source=git)** | West Lafayette, IN | Hybrid | Aug 15 |
@@ -139,6 +144,7 @@ For a complete list, click the following sortable link below:
 | **[Overtime Athletics DMV](https://otathletics.leagueapps.com/)** | **[Sports Management Intern Assistant](https://jobright.ai/jobs/info/689f46d8faa4e875e8285882?utm_campaign=1057&utm_source=git)** | Fairfax, VA | On Site | Aug 15 |
 | **[Year Up United](http://yearup.org)** | **[Data Analytics Job Training Program](https://jobright.ai/jobs/info/6890b989f47efe211394fc61?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Aug 15 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[GN9894 Graduate Assistant](https://jobright.ai/jobs/info/68a0009dfaa4e875e828cb5a?utm_campaign=1057&utm_source=git)** | Broken Arrow, OK | On Site | Aug 15 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Research Volunteer Professional Placement (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803af?utm_campaign=1057&utm_source=git)** | Berkeley, CA | Hybrid | Aug 15 |
 | **[Year Up United](http://yearup.org)** | **[Desktop Support Job Training Program](https://jobright.ai/jobs/info/689f4277faa4e875e828558d?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Aug 15 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Programs Advisor](https://jobright.ai/jobs/info/689f40b783d13d1f5b6c51d3?utm_campaign=1057&utm_source=git)** | Portland, OR | On Site | Aug 15 |
 | ↳ | **[Adjunct Instructor -Online courses in Global Education, Sustainable Development, International Relat](https://jobright.ai/jobs/info/68a01ea1faa4e875e828e000?utm_campaign=1057&utm_source=git)** | Brattleboro, VT | On Site | Aug 15 |
@@ -150,11 +156,5 @@ For a complete list, click the following sortable link below:
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist](https://jobright.ai/jobs/info/68a0169cfaa4e875e828d3c3?utm_campaign=1057&utm_source=git)** | Coatesville, PA | On Site | Aug 15 |
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[INTERNS](https://jobright.ai/jobs/info/688294146fcd973d15adaa0b?utm_campaign=1057&utm_source=git)** | Baltimore, MD | Remote | Aug 15 |
 | **[UPMC](https://www.upmc.com/)** | **[Student Nurse Internship (SNI) Program: Central PA Hospitals](https://jobright.ai/jobs/info/689f19e683d13d1f5b6c43b3?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Aug 15 |
-| ↳ | **[Student Nurse Internship (SNI) Program: Northwestern PA & Western NY Hospitals](https://jobright.ai/jobs/info/689f19dc83d13d1f5b6c437f?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Aug 15 |
 | ↳ | **[Student Nurse Internship (SNI) Program: Southwestern PA Hospitals](https://jobright.ai/jobs/info/689f19dc83d13d1f5b6c437d?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Aug 15 |
-| ↳ | **[Student Nurse Internship (SNI) Program: UPMC Cole](https://jobright.ai/jobs/info/689f198379a9f9666255475a?utm_campaign=1057&utm_source=git)** | Coudersport, PA | On Site | Aug 15 |
-| ↳ | **[Student Nurse Internship (SNI) Program: West Central PA Hospitals](https://jobright.ai/jobs/info/689f197afaa4e875e8284511?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Aug 15 |
-| ↳ | **[Student Nurse Internship (SNI) Program: North Central PA Hospitals](https://jobright.ai/jobs/info/689f196479a9f96662554720?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Aug 15 |
-| ↳ | **[Student Nurse Internship (SNI) Program:  Western MD Hospital](https://jobright.ai/jobs/info/689f196479a9f9666255471f?utm_campaign=1057&utm_source=git)** | Cumberland, MD | On Site | Aug 15 |
-| **[American Addiction Centers](https://americanaddictioncenters.org/)** | **[Registered Intern Masters Level Substance Use Counselor](https://jobright.ai/jobs/info/689f13b579a9f966625546c0?utm_campaign=1057&utm_source=git)** | Riverview, FL | On Site | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
