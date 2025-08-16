@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Student Assistant (JC-488382) at State Water Resources Control Board](https://jobright.ai/jobs/info/68a074b183d13d1f5b6d060e?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 16 |
+| **[United Way Miami](http://www.unitedwaymiami.org)** | **[Early Headstart Site Assistant Intern (College Credit)](https://jobright.ai/jobs/info/68a074a1cc9ee94dc911f390?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Aug 16 |
+| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Community Based- Crisis Based in Montgomery County) 2025-2026 Social Work/Counseling Fieldwork](https://jobright.ai/jobs/info/67cb867d849161df4c4fdab8?utm_campaign=1057&utm_source=git)** | Gaithersburg, MD | On Site | Aug 16 |
+| ↳ | **[Internship (OT/OTA Towson RTC) Spring 2025 OT Fieldwork](https://jobright.ai/jobs/info/67cb747b57e09f619c57d285?utm_campaign=1057&utm_source=git)** | Towson, MD | On Site | Aug 16 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Community Health Worker (CHW) Fall Internship Remote, Stipend Available / Maternal & Reproductive Health CHW Intern at My Baby My Way Foundation](https://jobright.ai/jobs/info/68a06c09cc9ee94dc911f30a?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | Remote | Aug 16 |
 | **[Northern Kentucky University](http://www.nku.edu/)** | **[Graduate Assistant Fall 2025/Spring 2026(student employment)](https://jobright.ai/jobs/info/68a06549cc9ee94dc911f1de?utm_campaign=1057&utm_source=git)** | Newport, KY | On Site | Aug 16 |
 | ↳ | **[First-Year Experience Program Assistant](https://jobright.ai/jobs/info/68a0643483d13d1f5b6d0384?utm_campaign=1057&utm_source=git)** | Newport, KY | On Site | Aug 16 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Programs Advisor](https://jobright.ai/jobs/info/689f40b783d13d1f5b6c51d3?utm_campaign=1057&utm_source=git)** | Portland, OR | On Site | Aug 15 |
 | ↳ | **[Adjunct Instructor -Online courses in Global Education, Sustainable Development, International Relat](https://jobright.ai/jobs/info/68a01ea1faa4e875e828e000?utm_campaign=1057&utm_source=git)** | Brattleboro, VT | On Site | Aug 15 |
 | **[Year Up United](http://yearup.org)** | **[Software Job Training Program](https://jobright.ai/jobs/info/688d90d8e5cead4afd457475?utm_campaign=1057&utm_source=git)** | Wilmington, DE | On Site | Aug 15 |
-| **[NYS Department of Transportation](http://www.dot.ny.gov)** | **[Student Assistant (Region 4)](https://jobright.ai/jobs/info/689f3145faa4e875e8284b54?utm_campaign=1057&utm_source=git)** | Pittsford, NY | On Site | Aug 15 |
-| **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Registered Mental Health Therapist Interns](https://jobright.ai/jobs/info/6894788a73b3a600fe87fb08?utm_campaign=1057&utm_source=git)** | Palm Beach Gardens, FL | On Site | Aug 15 |
-| **[Arlington County Government](https://www.arlingtonva.us)** | **[Police Cadet (Intern)](https://jobright.ai/jobs/info/68429501e9520a51adaa35fb?utm_campaign=1057&utm_source=git)** | Arlington, VA | On Site | Aug 15 |
-| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (School Based Services-Prince Georges County) 2025-2026 Social Work/Counseling Fieldwork](https://jobright.ai/jobs/info/689f2e38faa4e875e8284b15?utm_campaign=1057&utm_source=git)** | Suitland, MD | On Site | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
