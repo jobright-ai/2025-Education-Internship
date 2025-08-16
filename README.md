@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northern Kentucky University](http://www.nku.edu/)** | **[Sport Programs Assistant (student employment)](https://jobright.ai/jobs/info/68a0a36383d13d1f5b6d1271?utm_campaign=1057&utm_source=git)** | Newport, KY | On Site | Aug 16 |
+| **[Year Up United](http://yearup.org)** | **[Data Analytics Job Training Program](https://jobright.ai/jobs/info/68a0a0e0faa4e875e8290f69?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Aug 16 |
+| ↳ | **[Software Job Training Program](https://jobright.ai/jobs/info/68a0a05283d13d1f5b6d0f77?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Aug 16 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Program Specialist - Student Services - Merritt INTERNAL POSTING Working Out of Class](https://jobright.ai/jobs/info/68a09e59cc9ee94dc911fc78?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Aug 16 |
+| ↳ | **[Assistant Professor - International Studies](https://jobright.ai/jobs/info/68a09d6183d13d1f5b6d0e7e?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Aug 16 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Student Assistant (JC-488382) at State Water Resources Control Board](https://jobright.ai/jobs/info/68a074b183d13d1f5b6d060e?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 16 |
 | **[United Way Miami](http://www.unitedwaymiami.org)** | **[Early Headstart Site Assistant Intern (College Credit)](https://jobright.ai/jobs/info/68a074a1cc9ee94dc911f390?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Aug 16 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Community Based- Crisis Based in Montgomery County) 2025-2026 Social Work/Counseling Fieldwork](https://jobright.ai/jobs/info/67cb867d849161df4c4fdab8?utm_campaign=1057&utm_source=git)** | Gaithersburg, MD | On Site | Aug 16 |
@@ -107,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Finance MBA - Intern (Hybrid)](https://jobright.ai/jobs/info/689fd41683d13d1f5b6cb499?utm_campaign=1057&utm_source=git)** | Rahway, NJ | Hybrid | Aug 15 |
 | **[Baptist Health](http://baptisthealth.net/)** | **[Respiratory Therapist Intern, Respiratory Therapy, Per diem, 7P-7A](https://jobright.ai/jobs/info/689fd408faa4e875e828b63c?utm_campaign=1057&utm_source=git)** | Homestead, FL | On Site | Aug 15 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Graduate Student Assistant - DataSpace - Innovation and Research Commons](https://jobright.ai/jobs/info/689fd108faa4e875e828b53e?utm_campaign=1057&utm_source=git)** | Auburn, AL | On Site | Aug 15 |
-| **[University of Pittsburgh](pitt.edu)** | **[Pitt-Bradford - Men's Basketball Intern](https://jobright.ai/jobs/info/689fd106faa4e875e828b532?utm_campaign=1057&utm_source=git)** | Bradford, PA | On Site | Aug 15 |
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Student Workstudy-Registrar Office Assistant](https://jobright.ai/jobs/info/689fcce9faa4e875e828b317?utm_campaign=1057&utm_source=git)** | Kokomo, IN | On Site | Aug 15 |
 | **[Axis Community Health](https://www.axishealth.org)** | **[MENTAL HEALTH INTERN - CLINIC BASED](https://jobright.ai/jobs/info/689fccadcc9ee94dc9119ec8?utm_campaign=1057&utm_source=git)** | Pleasanton, CA | Hybrid | Aug 15 |
 | **[Univera Healthcare](https://www.univerahealthcare.com)** | **[College Intern I - Fall 2025 - Claims Processing](https://jobright.ai/jobs/info/689fca22faa4e875e828b21c?utm_campaign=1057&utm_source=git)** | Buffalo, NY | On Site | Aug 15 |
@@ -117,6 +121,7 @@ For a complete list, click the following sortable link below:
 | **[Trustmark](https://www.trustmarkbenefits.com/)** | **[Fall/Winter Fitness Intern (Los Angeles, CA)](https://jobright.ai/jobs/info/689fc3b3faa4e875e828af90?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Aug 15 |
 | **[Juniper Communities](https://junipercommunities.com/)** | **[Psychology Internship](https://jobright.ai/jobs/info/689fbf6acc9ee94dc9119865?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Aug 15 |
 | **[The Lawrenceville School](https://www.lawrenceville.org)** | **[Science Fellow](https://jobright.ai/jobs/info/689ff974cc9ee94dc911b295?utm_campaign=1057&utm_source=git)** | Lawrenceville, NJ | On Site | Aug 15 |
+| **[The Sidebar Social](https://www.sidebarconsulting.org)** | **[Law Students - Legal Content Internship](https://jobright.ai/jobs/info/68a07f1afaa4e875e8290905?utm_campaign=1057&utm_source=git)** | United States | Remote | Aug 15 |
 | **[IMPOWERFL](https://www.impowerfl.org)** | **[Prevention Intern](https://jobright.ai/jobs/info/689fb953faa4e875e828abd9?utm_campaign=1057&utm_source=git)** | Seminole County, FL | On Site | Aug 15 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Finance MBA - Intern (Hybrid)](https://jobright.ai/jobs/info/689fb71efaa4e875e828aaa5?utm_campaign=1057&utm_source=git)** | USA - Pennsylvania - North Wales (Upper Gwynedd) | Hybrid | Aug 15 |
 | ↳ | **[2026 Future Talent Program - Finance MBA - Intern (Hybrid)](https://jobright.ai/jobs/info/689fb6edcc9ee94dc911944d?utm_campaign=1057&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Aug 15 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Overtime Athletics DMV](https://otathletics.leagueapps.com/)** | **[Sports Management Intern Assistant](https://jobright.ai/jobs/info/689f46d8faa4e875e8285882?utm_campaign=1057&utm_source=git)** | Fairfax, VA | On Site | Aug 15 |
 | **[Year Up United](http://yearup.org)** | **[Data Analytics Job Training Program](https://jobright.ai/jobs/info/6890b989f47efe211394fc61?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Aug 15 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[GN9894 Graduate Assistant](https://jobright.ai/jobs/info/68a0009dfaa4e875e828cb5a?utm_campaign=1057&utm_source=git)** | Broken Arrow, OK | On Site | Aug 15 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Research Volunteer Professional Placement (online and in-person) in Peru](https://jobright.ai/jobs/info/6812661b270f9f79c74803af?utm_campaign=1057&utm_source=git)** | Berkeley, CA | Hybrid | Aug 15 |
-| **[Year Up United](http://yearup.org)** | **[Desktop Support Job Training Program](https://jobright.ai/jobs/info/689f4277faa4e875e828558d?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Aug 15 |
-| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Programs Advisor](https://jobright.ai/jobs/info/689f40b783d13d1f5b6c51d3?utm_campaign=1057&utm_source=git)** | Portland, OR | On Site | Aug 15 |
-| ↳ | **[Adjunct Instructor -Online courses in Global Education, Sustainable Development, International Relat](https://jobright.ai/jobs/info/68a01ea1faa4e875e828e000?utm_campaign=1057&utm_source=git)** | Brattleboro, VT | On Site | Aug 15 |
-| **[Year Up United](http://yearup.org)** | **[Software Job Training Program](https://jobright.ai/jobs/info/688d90d8e5cead4afd457475?utm_campaign=1057&utm_source=git)** | Wilmington, DE | On Site | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
