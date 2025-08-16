@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Youth Villages](http://www.youthvillages.org)** | **[Spring 2026 - Masters Level Paid Internship](https://jobright.ai/jobs/info/68a019a1cc9ee94dc911c5d5?utm_campaign=1057&utm_source=git)** | Searcy, AR | On Site | Aug 15 |
+| **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/68a02f6183d13d1f5b6cef5b?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Aug 16 |
+| **[ABB](https://global.abb/group/en)** | **[Training Internship](https://jobright.ai/jobs/info/68a02cc3cc9ee94dc911db32?utm_campaign=1057&utm_source=git)** | Location, WV | On Site | Aug 16 |
+| **[Youth Villages](http://www.youthvillages.org)** | **[Spring 2026 - Masters Level Paid Internship](https://jobright.ai/jobs/info/68a02660cc9ee94dc911d61b?utm_campaign=1057&utm_source=git)** | Jonesboro, AR | On Site | Aug 15 |
+| ↳ | **[Spring 2026 - Masters Level Paid Internship](https://jobright.ai/jobs/info/68a019a1cc9ee94dc911c5d5?utm_campaign=1057&utm_source=git)** | Searcy, AR | On Site | Aug 15 |
 | ↳ | **[Spring 2026 - Masters Level Paid Internship](https://jobright.ai/jobs/info/68a0199acc9ee94dc911c5b6?utm_campaign=1057&utm_source=git)** | Fayetteville, AR | On Site | Aug 15 |
 | **[Newman University](http://www.newmanu.edu/)** | **[Student - Sports Information Assistant](https://jobright.ai/jobs/info/68a00a5dfaa4e875e828cf02?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Aug 15 |
 | **[Botany and Plant Pathology Department at Purdue University](https://ag.purdue.edu/btny/Pages/default.aspx)** | **[Elements Data Assistant - Student Clerical](https://jobright.ai/jobs/info/68a0091ccc9ee94dc911b9fd?utm_campaign=1057&utm_source=git)** | West Lafayette, IN | Hybrid | Aug 15 |
@@ -138,6 +141,7 @@ For a complete list, click the following sortable link below:
 | **[Northeastern State University](http://www.nsuok.edu)** | **[GN9894 Graduate Assistant](https://jobright.ai/jobs/info/68a0009dfaa4e875e828cb5a?utm_campaign=1057&utm_source=git)** | Broken Arrow, OK | On Site | Aug 15 |
 | **[Year Up United](http://yearup.org)** | **[Desktop Support Job Training Program](https://jobright.ai/jobs/info/689f4277faa4e875e828558d?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Aug 15 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Programs Advisor](https://jobright.ai/jobs/info/689f40b783d13d1f5b6c51d3?utm_campaign=1057&utm_source=git)** | Portland, OR | On Site | Aug 15 |
+| ↳ | **[Adjunct Instructor -Online courses in Global Education, Sustainable Development, International Relat](https://jobright.ai/jobs/info/68a01ea1faa4e875e828e000?utm_campaign=1057&utm_source=git)** | Brattleboro, VT | On Site | Aug 15 |
 | **[Year Up United](http://yearup.org)** | **[Software Job Training Program](https://jobright.ai/jobs/info/688d90d8e5cead4afd457475?utm_campaign=1057&utm_source=git)** | Wilmington, DE | On Site | Aug 15 |
 | **[NYS Department of Transportation](http://www.dot.ny.gov)** | **[Student Assistant (Region 4)](https://jobright.ai/jobs/info/689f3145faa4e875e8284b54?utm_campaign=1057&utm_source=git)** | Pittsford, NY | On Site | Aug 15 |
 | **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Registered Mental Health Therapist Interns](https://jobright.ai/jobs/info/6894788a73b3a600fe87fb08?utm_campaign=1057&utm_source=git)** | Palm Beach Gardens, FL | On Site | Aug 15 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Nurse Internship (SNI) Program: North Central PA Hospitals](https://jobright.ai/jobs/info/689f196479a9f96662554720?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Aug 15 |
 | ↳ | **[Student Nurse Internship (SNI) Program:  Western MD Hospital](https://jobright.ai/jobs/info/689f196479a9f9666255471f?utm_campaign=1057&utm_source=git)** | Cumberland, MD | On Site | Aug 15 |
 | **[American Addiction Centers](https://americanaddictioncenters.org/)** | **[Registered Intern Masters Level Substance Use Counselor](https://jobright.ai/jobs/info/689f13b579a9f966625546c0?utm_campaign=1057&utm_source=git)** | Riverview, FL | On Site | Aug 15 |
-| **[Lake Erie College of Osteopathic Medicine](https://lecomhealth.com/community-hospital/)** | **[Student Employment](https://jobright.ai/jobs/info/68a016e883d13d1f5b6cd1e0?utm_campaign=1057&utm_source=git)** | Bradenton, FL | On Site | Aug 15 |
-| **[Morehouse College National Alumni Association](http://www.morehousecollegealumni.org/)** | **[SPRUST Office Student Assistant](https://jobright.ai/jobs/info/689f00e783d13d1f5b6c40f9?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Aug 15 |
-| **[Lakeshore College](http://www.gotoltc.com/)** | **[Student Success (Student Help/Federal Work Study)](https://jobright.ai/jobs/info/689f002379a9f9666255447e?utm_campaign=1057&utm_source=git)** | Cleveland, WI | On Site | Aug 15 |
-| **[Arbour Counseling Services](https://arbourhealth.com/)** | **[January 2026 Paid Masters Level Internship](https://jobright.ai/jobs/info/689efb9779a9f966625541d4?utm_campaign=1057&utm_source=git)** | Lowell, MA | On Site | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
