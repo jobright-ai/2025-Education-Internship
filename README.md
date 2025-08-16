@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Community Health Worker (CHW) Fall Internship Remote, Stipend Available / Maternal & Reproductive Health CHW Intern at My Baby My Way Foundation](https://jobright.ai/jobs/info/68a06c09cc9ee94dc911f30a?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | Remote | Aug 16 |
+| **[Northern Kentucky University](http://www.nku.edu/)** | **[Graduate Assistant Fall 2025/Spring 2026(student employment)](https://jobright.ai/jobs/info/68a06549cc9ee94dc911f1de?utm_campaign=1057&utm_source=git)** | Newport, KY | On Site | Aug 16 |
+| ↳ | **[First-Year Experience Program Assistant](https://jobright.ai/jobs/info/68a0643483d13d1f5b6d0384?utm_campaign=1057&utm_source=git)** | Newport, KY | On Site | Aug 16 |
+| **[University of Montevallo](http://www.montevallo.edu)** | **[Student Office Assistant, Teaching Leadership and Technology](https://jobright.ai/jobs/info/68a05fe683d13d1f5b6d0346?utm_campaign=1057&utm_source=git)** | Montevallo, AL | On Site | Aug 16 |
 | **[Burrell Behavioral Health](https://www.burrellcenter.com/)** | **[Student Trainee Graduate Level Only](https://jobright.ai/jobs/info/68a05302faa4e875e8290185?utm_campaign=1057&utm_source=git)** | Tulsa, OK | On Site | Aug 16 |
 | **[Telecare Corporation](http://www.telecarecorp.com)** | **[Internship Opportunities for All Telecare Locations! FY26](https://jobright.ai/jobs/info/68673bc3afc79b6161e5b82e?utm_campaign=1057&utm_source=git)** | Alameda, CA | On Site | Aug 16 |
 | **[Foothill-De Anza Community College District](http://www.fhda.edu)** | **[Psychological Services Intern Temporary Pool](https://jobright.ai/jobs/info/68a049a383d13d1f5b6d00b8?utm_campaign=1057&utm_source=git)** | Los Altos, CA | On Site | Aug 16 |
@@ -151,10 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Year Up United](http://yearup.org)** | **[Software Job Training Program](https://jobright.ai/jobs/info/688d90d8e5cead4afd457475?utm_campaign=1057&utm_source=git)** | Wilmington, DE | On Site | Aug 15 |
 | **[NYS Department of Transportation](http://www.dot.ny.gov)** | **[Student Assistant (Region 4)](https://jobright.ai/jobs/info/689f3145faa4e875e8284b54?utm_campaign=1057&utm_source=git)** | Pittsford, NY | On Site | Aug 15 |
 | **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Registered Mental Health Therapist Interns](https://jobright.ai/jobs/info/6894788a73b3a600fe87fb08?utm_campaign=1057&utm_source=git)** | Palm Beach Gardens, FL | On Site | Aug 15 |
+| **[Arlington County Government](https://www.arlingtonva.us)** | **[Police Cadet (Intern)](https://jobright.ai/jobs/info/68429501e9520a51adaa35fb?utm_campaign=1057&utm_source=git)** | Arlington, VA | On Site | Aug 15 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (School Based Services-Prince Georges County) 2025-2026 Social Work/Counseling Fieldwork](https://jobright.ai/jobs/info/689f2e38faa4e875e8284b15?utm_campaign=1057&utm_source=git)** | Suitland, MD | On Site | Aug 15 |
-| **[Drama Kids of North Columbus](https://dramakids.com/north-columbus-oh/)** | **[Drama Teacher - Part Time Position/Intern](https://jobright.ai/jobs/info/68a017a583d13d1f5b6cd4f3?utm_campaign=1057&utm_source=git)** | Worthington, OH | On Site | Aug 15 |
-| **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist](https://jobright.ai/jobs/info/68a0169cfaa4e875e828d3c3?utm_campaign=1057&utm_source=git)** | Coatesville, PA | On Site | Aug 15 |
-| **[City of Baltimore](https://www.baltimorecity.gov/)** | **[INTERNS](https://jobright.ai/jobs/info/688294146fcd973d15adaa0b?utm_campaign=1057&utm_source=git)** | Baltimore, MD | Remote | Aug 15 |
-| **[UPMC](https://www.upmc.com/)** | **[Student Nurse Internship (SNI) Program: Central PA Hospitals](https://jobright.ai/jobs/info/689f19e683d13d1f5b6c43b3?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Aug 15 |
-| ↳ | **[Student Nurse Internship (SNI) Program: Southwestern PA Hospitals](https://jobright.ai/jobs/info/689f19dc83d13d1f5b6c437d?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
