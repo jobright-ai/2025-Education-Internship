@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Houston Methodist](http://www.houstonmethodist.org/)** | **[Pharmacy Intern - PRN](https://jobright.ai/jobs/info/683109e3dd28a5559962954a?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Aug 17 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Site Director at International Leadership of Texas](https://jobright.ai/jobs/info/68a1de3183d13d1f5b6d51f4?utm_campaign=1057&utm_source=git)** | Pearland, TX | On Site | Aug 17 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Trading Intern - Part Time](https://jobright.ai/jobs/info/68a1dd7efaa4e875e8295261?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Aug 17 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Medical Shadowing Clinic Internship (Great Pay) at CareYaya Health Technologies Inc.](https://jobright.ai/jobs/info/68a1c39583d13d1f5b6d4fdc?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Aug 17 |
@@ -71,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Joliet Public Schools District 86](www.joliet86.org)** | **[School Psychologist Intern Temporary](https://jobright.ai/jobs/info/68a19ec0faa4e875e8294e59?utm_campaign=1057&utm_source=git)** | Joliet, IL | On Site | Aug 17 |
 | **[Shalom Park](https://shalompark.org/)** | **[Internship (Unpaid)](https://jobright.ai/jobs/info/68a19eb783d13d1f5b6d4d89?utm_campaign=1057&utm_source=git)** | Aurora, CO | On Site | Aug 17 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Senior Coordinator - Student Success - PAC - req12885](https://jobright.ai/jobs/info/68a1975f83d13d1f5b6d4d34?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Aug 17 |
+| **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Allied Health Intern (COACH for Kids) - Per Diem](https://jobright.ai/jobs/info/68a1e97b83d13d1f5b6d52c9?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Aug 17 |
 | **[Institute for Defense Analyses](https://www.ida.org)** | **[Summer Research Opportunity - Center for Computing Sciences (CCS) SCAMP](https://jobright.ai/jobs/info/68a16125cc9ee94dc912249b?utm_campaign=1057&utm_source=git)** | Bowie, MD | On Site | Aug 16 |
 | **[AdventHealth](https://www.adventhealth.com/)** | **[RN Registered Nurse Intern Labor & Delivery Nights](https://jobright.ai/jobs/info/68a13252faa4e875e829263a?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Aug 16 |
 | ↳ | **[RN Registered Nurse Intern Labor & Delivery](https://jobright.ai/jobs/info/68a1265c83d13d1f5b6d2279?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Aug 16 |
@@ -93,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[BlackRock](http://www.blackrock.com)** | **[2026 Quantitative Masters Internship Program - AMERS](https://jobright.ai/jobs/info/6867326dd8e0721f42af5295?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Aug 16 |
 | **[Year Up United](http://yearup.org)** | **[Application Development Job Training Program](https://jobright.ai/jobs/info/6890d292f5ee707a15db9ede?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Aug 16 |
 | **[BlackRock](http://www.blackrock.com)** | **[2026 Summer Internship Program - AMERS](https://jobright.ai/jobs/info/68687cbe35584b65420136a2?utm_campaign=1057&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Aug 16 |
+| **[The Fortis Academy](http://www.thefortisacademy.com)** | **[Sports Performance Internship](https://jobright.ai/jobs/info/68a1cfa2faa4e875e8295170?utm_campaign=1057&utm_source=git)** | Eden Prairie, MN | On Site | Aug 16 |
 | **[United Way Miami](http://www.unitedwaymiami.org)** | **[Early Headstart Site Assistant Intern (College Credit)](https://jobright.ai/jobs/info/68a074a1cc9ee94dc911f390?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Aug 16 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Community Based- Crisis Based in Montgomery County) 2025-2026 Social Work/Counseling Fieldwork](https://jobright.ai/jobs/info/67cb867d849161df4c4fdab8?utm_campaign=1057&utm_source=git)** | Gaithersburg, MD | On Site | Aug 16 |
 | ↳ | **[Internship (OT/OTA Towson RTC) Spring 2025 OT Fieldwork](https://jobright.ai/jobs/info/67cb747b57e09f619c57d285?utm_campaign=1057&utm_source=git)** | Towson, MD | On Site | Aug 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Intern](https://jobright.ai/jobs/info/68a0c49dcc9ee94dc91206c0?utm_campaign=1057&utm_source=git)** | Birmingham, AL | On Site | Aug 15 |
 | **[Solis Mammography](http://solismammo.com)** | **[Mammography Technologist Training Program](https://jobright.ai/jobs/info/68391e02b40678fa70b923dc?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Aug 15 |
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Student Workstudy-Registrar Office Assistant](https://jobright.ai/jobs/info/689fcce9faa4e875e828b317?utm_campaign=1057&utm_source=git)** | Kokomo, IN | On Site | Aug 15 |
-| **[Axis Community Health](https://www.axishealth.org)** | **[MENTAL HEALTH INTERN - CLINIC BASED](https://jobright.ai/jobs/info/689fccadcc9ee94dc9119ec8?utm_campaign=1057&utm_source=git)** | Pleasanton, CA | Hybrid | Aug 15 |
-| **[Univera Healthcare](https://www.univerahealthcare.com)** | **[College Intern I - Fall 2025 - Claims Processing](https://jobright.ai/jobs/info/689fca22faa4e875e828b21c?utm_campaign=1057&utm_source=git)** | Buffalo, NY | On Site | Aug 15 |
-| **[Loma Linda University Health](https://lluh.org/)** | **[Graduate Assistant](https://jobright.ai/jobs/info/689fca0dfaa4e875e828b1bf?utm_campaign=1057&utm_source=git)** | Loma Linda, CA | On Site | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
