@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Institute for Defense Analyses](https://www.ida.org)** | **[Summer Research Opportunity - Center for Computing Sciences (CCS) SCAMP](https://jobright.ai/jobs/info/68a16125cc9ee94dc912249b?utm_campaign=1057&utm_source=git)** | Bowie, MD | On Site | Aug 16 |
 | **[AdventHealth](https://www.adventhealth.com/)** | **[RN Registered Nurse Intern Labor & Delivery Nights](https://jobright.ai/jobs/info/68a13252faa4e875e829263a?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Aug 16 |
 | ↳ | **[RN Registered Nurse Intern Labor & Delivery](https://jobright.ai/jobs/info/68a1265c83d13d1f5b6d2279?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Aug 16 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Animal Intern](https://jobright.ai/jobs/info/68a11ca3faa4e875e82920a4?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Aug 16 |
@@ -76,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Year Up United](http://yearup.org)** | **[Data Analytics Job Training Program](https://jobright.ai/jobs/info/68a0a0e0faa4e875e8290f69?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Aug 16 |
 | ↳ | **[Software Job Training Program](https://jobright.ai/jobs/info/68a0a05283d13d1f5b6d0f77?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Aug 16 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Program Specialist - Student Services - Merritt INTERNAL POSTING Working Out of Class](https://jobright.ai/jobs/info/68a09e59cc9ee94dc911fc78?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Aug 16 |
-| ↳ | **[Associate Director of International Student Services](https://jobright.ai/jobs/info/68a09de3faa4e875e8290e27?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD | On Site | Aug 16 |
 | ↳ | **[Assistant Professor - International Studies](https://jobright.ai/jobs/info/68a09d6183d13d1f5b6d0e7e?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Aug 16 |
 | **[BlackRock](http://www.blackrock.com)** | **[2026 Quantitative Masters Internship Program - AMERS](https://jobright.ai/jobs/info/6867326dd8e0721f42af5295?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Aug 16 |
 | **[Year Up United](http://yearup.org)** | **[Application Development Job Training Program](https://jobright.ai/jobs/info/6890d292f5ee707a15db9ede?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Aug 16 |
@@ -101,7 +101,9 @@ For a complete list, click the following sortable link below:
 | **[Botany and Plant Pathology Department at Purdue University](https://ag.purdue.edu/btny/Pages/default.aspx)** | **[Elements Data Assistant - Student Clerical](https://jobright.ai/jobs/info/68a0091ccc9ee94dc911b9fd?utm_campaign=1057&utm_source=git)** | West Lafayette, IN | Hybrid | Aug 15 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Student Associate - Equal Opportunity & Title IX](https://jobright.ai/jobs/info/689ffcf4faa4e875e828c7b9?utm_campaign=1057&utm_source=git)** | Richmond, KY | On Site | Aug 15 |
 | **[Essen Health Care](http://essenhealthcare.com)** | **[International Medical Graduate/ Volunteer/ Intern in New York](https://jobright.ai/jobs/info/689ffca183d13d1f5b6cc5ba?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Aug 15 |
+| **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6866e651b6c3efdd0181ed74?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Aug 15 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[RPA Graduate Assistant](https://jobright.ai/jobs/info/689ff3ed83d13d1f5b6cc1da?utm_campaign=1057&utm_source=git)** | Richmond, KY | On Site | Aug 15 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern - Digital News St. Louis Unpaid Internship - Fall](https://jobright.ai/jobs/info/6882f7c46fcd973d15adda2e?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Aug 15 |
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Fall 2025 - Claims Processing](https://jobright.ai/jobs/info/689feda283d13d1f5b6cbd8e?utm_campaign=1057&utm_source=git)** | Elmira, NY | On Site | Aug 15 |
 | **[Elk Grove Unified School District](https://www.egusd.net/)** | **[ELEMENTARY INTERN TEACHER Eligibility Pool](https://jobright.ai/jobs/info/68a13fb383d13d1f5b6d297b?utm_campaign=1057&utm_source=git)** | Elk Grove, CA | On Site | Aug 15 |
 | **[L'Oréal](https://www.loreal.com)** | **[2026 L’Oréal USA Summer Internship Program – Operations (FLORENCE, KENTUCKY: Manufacturing / Supply Chain) – Undergraduate](https://jobright.ai/jobs/info/689fe6f283d13d1f5b6cbc78?utm_campaign=1057&utm_source=git)** | Florence, KY | Hybrid | Aug 15 |
@@ -109,6 +111,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 L’Oréal USA Summer Internship Program – Research & Innovation – Undergraduate](https://jobright.ai/jobs/info/689fe6ed83d13d1f5b6cbc74?utm_campaign=1057&utm_source=git)** | Clark, NJ | Hybrid | Aug 15 |
 | **[Tufts Medicine](https://www.tuftsmedicine.org)** | **[Student Intern/Co-Op](https://jobright.ai/jobs/info/689fe6bfcc9ee94dc911a908?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Aug 15 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Site Director at International Leadership of Texas](https://jobright.ai/jobs/info/689fe40afaa4e875e828bd89?utm_campaign=1057&utm_source=git)** | Pearland, TX | On Site | Aug 15 |
+| ↳ | **[Associate Director of International Student Services](https://jobright.ai/jobs/info/689fe3e6cc9ee94dc911a80d?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD | On Site | Aug 15 |
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Fall 2025 - Claims Processing](https://jobright.ai/jobs/info/689fe3bffaa4e875e828bd36?utm_campaign=1057&utm_source=git)** | Binghamton, NY | On Site | Aug 15 |
 | **[Kent State School of Fashion](https://www.kent.edu/fashion)** | **[Academic Vice Dean, Regional Campus -= INTERNAL ONLY POSTING FOR CURRENT KSU EMPLOYEES](https://jobright.ai/jobs/info/689fe3b783d13d1f5b6cbaf7?utm_campaign=1057&utm_source=git)** | New Philadelphia, OH | On Site | Aug 15 |
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Fall 2025 - Claims Processing](https://jobright.ai/jobs/info/689fe384faa4e875e828bcee?utm_campaign=1057&utm_source=git)** | Utica, NY | On Site | Aug 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CSU Careers](https://www.linkedin.com/company/81884531)** | **[Office of Black Student Success - Student Assistant](https://jobright.ai/jobs/info/689f9e37b3e889632cf090db?utm_campaign=1057&utm_source=git)** | San Bernardino, CA | On Site | Aug 15 |
 | **[Dallas College](https://www.dcccd.edu)** | **[Administrative Support- Student Assistant (Support Programs) -1](https://jobright.ai/jobs/info/689f9b1cb3e889632cf08f9c?utm_campaign=1057&utm_source=git)** | Richland Campus | On Site | Aug 15 |
 | **[JFK Johnson Rehabilitation Institute ](http://JFKJohnson.org)** | **[CAREER DEVELOPMENT AIDE](https://jobright.ai/jobs/info/68a0c4a7cc9ee94dc91206e5?utm_campaign=1057&utm_source=git)** | Edison, NJ | On Site | Aug 15 |
-| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Outpatient Mental Health Clinics- Timonium) 2025-2026 Counseling/Social Work Fieldwork](https://jobright.ai/jobs/info/67caef55afb7a4fca339eb99?utm_campaign=1057&utm_source=git)** | Timonium, MD | On Site | Aug 15 |
-| **[University of Virginia](https://lvg.virginia.edu)** | **[Research Associate in Psychology](https://jobright.ai/jobs/info/689bb6c183d13d1f5b6a2f82?utm_campaign=1057&utm_source=git)** | Charlottesville, VA | On Site | Aug 15 |
-| **[Aurora Health Care](http://aurorahealthcare.org)** | **[Clinical Pharmacy Internship - Opportunities Available](https://jobright.ai/jobs/info/68a0c4b6cc9ee94dc9120714?utm_campaign=1057&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
