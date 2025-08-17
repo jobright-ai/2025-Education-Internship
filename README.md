@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Orthopedics Internship (Great Pay) at CareYaya Health Technologies Inc.](https://jobright.ai/jobs/info/68a11517cc9ee94dc9120ea7?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Aug 16 |
+| **[Huron-Clinton Metroparks](https://www.metroparks.com/)** | **[(Intern) Interpretive Services Intern](https://jobright.ai/jobs/info/68a10b09faa4e875e8291fc0?utm_campaign=1057&utm_source=git)** | Ray, MI | On Site | Aug 16 |
 | **[CSU Careers](https://www.linkedin.com/company/81884531)** | **[Information Technology Services, MultiMedia and Immersive Technologies - Student Assistant](https://jobright.ai/jobs/info/68a0f68883d13d1f5b6d1f1d?utm_campaign=1057&utm_source=git)** | San Bernardino, CA | On Site | Aug 16 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Program Director of Orientation and Transition Programs (Student Services Professional IV)](https://jobright.ai/jobs/info/68a0f16dcc9ee94dc9120cf4?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Aug 16 |
 | **[CSU Careers](https://www.linkedin.com/company/81884531)** | **[Student Assistant](https://jobright.ai/jobs/info/68a0eed7faa4e875e8291e7f?utm_campaign=1057&utm_source=git)** | Turlock, CA | On Site | Aug 16 |
@@ -71,7 +73,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Job Training Program](https://jobright.ai/jobs/info/68a0a05283d13d1f5b6d0f77?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Aug 16 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Program Specialist - Student Services - Merritt INTERNAL POSTING Working Out of Class](https://jobright.ai/jobs/info/68a09e59cc9ee94dc911fc78?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Aug 16 |
 | ↳ | **[Assistant Professor - International Studies](https://jobright.ai/jobs/info/68a09d6183d13d1f5b6d0e7e?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Aug 16 |
-| **[BlackRock](http://www.blackrock.com)** | **[2026 Summer Internship Program - AMERS](https://jobright.ai/jobs/info/68687cbe35584b65420136a2?utm_campaign=1057&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Aug 16 |
+| **[BlackRock](http://www.blackrock.com)** | **[2026 Quantitative Masters Internship Program - AMERS](https://jobright.ai/jobs/info/6867326dd8e0721f42af5295?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Aug 16 |
+| ↳ | **[2026 Summer Internship Program - AMERS](https://jobright.ai/jobs/info/68687cbe35584b65420136a2?utm_campaign=1057&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Aug 16 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Student Assistant (JC-488382) at State Water Resources Control Board](https://jobright.ai/jobs/info/68a074b183d13d1f5b6d060e?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 16 |
 | **[United Way Miami](http://www.unitedwaymiami.org)** | **[Early Headstart Site Assistant Intern (College Credit)](https://jobright.ai/jobs/info/68a074a1cc9ee94dc911f390?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Aug 16 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Community Based- Crisis Based in Montgomery County) 2025-2026 Social Work/Counseling Fieldwork](https://jobright.ai/jobs/info/67cb867d849161df4c4fdab8?utm_campaign=1057&utm_source=git)** | Gaithersburg, MD | On Site | Aug 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of Cincinnati Foundation](https://foundation.uc.edu/)** | **[UC Foundation Intern](https://jobright.ai/jobs/info/689f81a683d13d1f5b6c8ace?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Aug 15 |
 | **[Tennessee Tech University - College of Business](http://www.tntech.edu/business)** | **[Director for the Center of Career Development](https://jobright.ai/jobs/info/689f817383d13d1f5b6c8a5b?utm_campaign=1057&utm_source=git)** | Cookeville, TN | On Site | Aug 15 |
 | **[AIAA](http://www.aiaa.org/)** | **[Member Engagement Intern](https://jobright.ai/jobs/info/689f7e1383d13d1f5b6c8955?utm_campaign=1057&utm_source=git)** | Reston, VA | Hybrid | Aug 15 |
-| **[University of Pittsburgh](pitt.edu)** | **[Pitt-Bradford Women’s Lacrosse Intern](https://jobright.ai/jobs/info/689f7ab4faa4e875e82889d4?utm_campaign=1057&utm_source=git)** | Bradford, PA | On Site | Aug 15 |
-| **[FNBO](https://www.fnbo.com)** | **[Intern-2](https://jobright.ai/jobs/info/689f7a23b3e889632cf0789c?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Aug 15 |
-| **[The Ohio State University](http://www.osu.edu/)** | **[Student Assistant-Non OSU](https://jobright.ai/jobs/info/689f790a83d13d1f5b6c8675?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
