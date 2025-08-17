@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Year Up United](http://yearup.org)** | **[Data Management Job Training Opportunity](https://jobright.ai/jobs/info/68a2106efaa4e875e82957a0?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Aug 17 |
+| ↳ | **[Computer Architecture & Systems Fundamentals Career Training Program](https://jobright.ai/jobs/info/68a2106dfaa4e875e829579a?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Aug 17 |
+| ↳ | **[Data Analytics Job Training Program](https://jobright.ai/jobs/info/68a20e7e83d13d1f5b6d5721?utm_campaign=1057&utm_source=git)** | Pleasant Hill, CA | On Site | Aug 17 |
+| ↳ | **[Project Management Career Training Program](https://jobright.ai/jobs/info/68a20b9ecc9ee94dc91244f6?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Aug 17 |
+| **[Naples Botanical Garden](https://www.naplesgarden.org)** | **[Education & Visitor Experience Fall Intern](https://jobright.ai/jobs/info/68a2094c83d13d1f5b6d56bb?utm_campaign=1057&utm_source=git)** | Naples, FL | On Site | Aug 17 |
 | **[Houston Methodist](http://www.houstonmethodist.org/)** | **[Pharmacy Intern - PRN](https://jobright.ai/jobs/info/683109e3dd28a5559962954a?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Aug 17 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Site Director at International Leadership of Texas](https://jobright.ai/jobs/info/68a1de3183d13d1f5b6d51f4?utm_campaign=1057&utm_source=git)** | Pearland, TX | On Site | Aug 17 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Trading Intern - Part Time](https://jobright.ai/jobs/info/68a1dd7efaa4e875e8295261?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Aug 17 |
+| **[Texas State Technical College](http://www.tstc.edu)** | **[Counseling Intern](https://jobright.ai/jobs/info/6830d6dd5a74073a28ecdbc2?utm_campaign=1057&utm_source=git)** | Waco, TX | On Site | Aug 17 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Medical Shadowing Clinic Internship (Great Pay) at CareYaya Health Technologies Inc.](https://jobright.ai/jobs/info/68a1c39583d13d1f5b6d4fdc?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Aug 17 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (School Based Services- Montgomery County) 2025-2026 Social Work/Counseling Fieldwork](https://jobright.ai/jobs/info/6792cd12297fc84f8cc4655b?utm_campaign=1057&utm_source=git)** | Gaithersburg, MD | On Site | Aug 17 |
 | ↳ | **[Internship (Sheppard Pratt School - Rockville) 2025- 2026 Mental Health Counseling/Social Work Fieldwork](https://jobright.ai/jobs/info/67cba08bfaa575407404023d?utm_campaign=1057&utm_source=git)** | Rockville, MD | On Site | Aug 17 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[RN Registered Nurse Intern Labor & Delivery Nights](https://jobright.ai/jobs/info/689fd54883d13d1f5b6cb52a?utm_campaign=1057&utm_source=git)** | US-FL-Tampa | On Site | Aug 15 |
 | **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[School Centered Clinical Intern (Winter 2025/Spring 2026)](https://jobright.ai/jobs/info/689fd538cc9ee94dc911a1ad?utm_campaign=1057&utm_source=git)** | Shaker Heights, OH | On Site | Aug 15 |
 | **[Topgolf](https://topgolf.com/us/)** | **[Topgolf Coach Internship (Golf Instructor, Summer 2025)](https://jobright.ai/jobs/info/6866605f5f0dc930c0630d31?utm_campaign=1057&utm_source=git)** | Bridgeville, PA | On Site | Aug 15 |
-| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Finance MBA - Intern (Hybrid)](https://jobright.ai/jobs/info/689fd41683d13d1f5b6cb499?utm_campaign=1057&utm_source=git)** | Rahway, NJ | Hybrid | Aug 15 |
-| **[Baptist Health](http://baptisthealth.net/)** | **[Respiratory Therapist Intern, Respiratory Therapy, Per diem, 7P-7A](https://jobright.ai/jobs/info/689fd408faa4e875e828b63c?utm_campaign=1057&utm_source=git)** | Homestead, FL | On Site | Aug 15 |
-| **[Auburn University](https://www.auburn.edu/)** | **[Graduate Student Assistant - DataSpace - Innovation and Research Commons](https://jobright.ai/jobs/info/689fd108faa4e875e828b53e?utm_campaign=1057&utm_source=git)** | Auburn, AL | On Site | Aug 15 |
-| **[Sodexo](http://www.sodexo.com)** | **[Campus Intern](https://jobright.ai/jobs/info/68a0c49dcc9ee94dc91206c0?utm_campaign=1057&utm_source=git)** | Birmingham, AL | On Site | Aug 15 |
-| **[Solis Mammography](http://solismammo.com)** | **[Mammography Technologist Training Program](https://jobright.ai/jobs/info/68391e02b40678fa70b923dc?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Aug 15 |
-| **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Student Workstudy-Registrar Office Assistant](https://jobright.ai/jobs/info/689fcce9faa4e875e828b317?utm_campaign=1057&utm_source=git)** | Kokomo, IN | On Site | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
