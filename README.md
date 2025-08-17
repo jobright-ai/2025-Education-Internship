@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[USC Marshall School of Business](https://www.marshall.usc.edu/)** | **[Graduate Assistant - 6 Positions Available](https://jobright.ai/jobs/info/68a24d4a83d13d1f5b6d5b65?utm_campaign=1057&utm_source=git)** | Huntington, WV | On Site | Aug 17 |
+| **[City of Berkeley](https://www.cityofberkeley.info/)** | **[Youth Enrollee Intern](https://jobright.ai/jobs/info/68a247aacc9ee94dc9124905?utm_campaign=1057&utm_source=git)** | Berkeley, CA | On Site | Aug 17 |
+| **[CSU Careers](https://www.linkedin.com/company/81884531)** | **[Guardian Scholars Coordinator (Student Services Professional III)](https://jobright.ai/jobs/info/68a2407b83d13d1f5b6d5a78?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Aug 17 |
+| **[Bismarck Public Schools](https://www.bismarckschools.org)** | **[Student Intern I - Bismarck High School](https://jobright.ai/jobs/info/68a23ab2faa4e875e8295aa0?utm_campaign=1057&utm_source=git)** | Bismarck, ND | On Site | Aug 17 |
 | **[EducationHQ](https://educationhq.com)** | **[Head of Department - Student Engagement - Shailer Park State School](https://jobright.ai/jobs/info/68a22fc9faa4e875e8295a08?utm_campaign=1057&utm_source=git)** | Logan, AL | On Site | Aug 17 |
 | **[Year Up United](http://yearup.org)** | **[Data Management Job Training Opportunity](https://jobright.ai/jobs/info/68a2106efaa4e875e82957a0?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Aug 17 |
 | ↳ | **[Computer Architecture & Systems Fundamentals Career Training Program](https://jobright.ai/jobs/info/68a2106dfaa4e875e829579a?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Aug 17 |
 | ↳ | **[Data Analytics Job Training Program](https://jobright.ai/jobs/info/68a20e7e83d13d1f5b6d5721?utm_campaign=1057&utm_source=git)** | Pleasant Hill, CA | On Site | Aug 17 |
 | ↳ | **[Project Management Career Training Program](https://jobright.ai/jobs/info/68a20b9ecc9ee94dc91244f6?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Aug 17 |
 | **[Naples Botanical Garden](https://www.naplesgarden.org)** | **[Education & Visitor Experience Fall Intern](https://jobright.ai/jobs/info/68a2094c83d13d1f5b6d56bb?utm_campaign=1057&utm_source=git)** | Naples, FL | On Site | Aug 17 |
+| **[Nebraska Department of Health and Human Services](http://dhhs.ne.gov/)** | **[Mental Health Intern-Master Level-Norfolk Regional Center](https://jobright.ai/jobs/info/670458ef56198636d6adf795?utm_campaign=1057&utm_source=git)** | Norfolk, NE | On Site | Aug 17 |
 | **[Houston Methodist](http://www.houstonmethodist.org/)** | **[Pharmacy Intern - PRN](https://jobright.ai/jobs/info/683109e3dd28a5559962954a?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Aug 17 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Site Director at International Leadership of Texas](https://jobright.ai/jobs/info/68a1de3183d13d1f5b6d51f4?utm_campaign=1057&utm_source=git)** | Pearland, TX | On Site | Aug 17 |
 | **[Texas State Technical College](http://www.tstc.edu)** | **[Counseling Intern](https://jobright.ai/jobs/info/6830d6dd5a74073a28ecdbc2?utm_campaign=1057&utm_source=git)** | Waco, TX | On Site | Aug 17 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Department Intern - IT Security - DSU Students](https://jobright.ai/jobs/info/689fdc4b83d13d1f5b6cb90d?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD | On Site | Aug 15 |
 | ↳ | **[Sanford Sports Performance Winter/Spring Intern - Fargo, ND](https://jobright.ai/jobs/info/689fdc42cc9ee94dc911a5fa?utm_campaign=1057&utm_source=git)** | Fargo, ND | On Site | Aug 15 |
 | **[County of Los Angeles](https://lacounty.gov/)** | **[CAREER DEVELOPMENT INTERN, HEAVY MAINTENANCE AND OPERATIONAL SUPPORT](https://jobright.ai/jobs/info/689fdc2583d13d1f5b6cb887?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Aug 15 |
-| **[Syracuse University](https://ischool.syr.edu/research/research-centers/nexis/)** | **[Postdoctoral Researcher - PARCC Activism & Advocacy](https://jobright.ai/jobs/info/689fd6c5faa4e875e828b8ff?utm_campaign=1057&utm_source=git)** | Syracuse, NY | On Site | Aug 15 |
-| **[AdventHealth](https://www.adventhealth.com/)** | **[RN Registered Nurse Intern Labor & Delivery Nights](https://jobright.ai/jobs/info/689fd56acc9ee94dc911a278?utm_campaign=1057&utm_source=git)** | ADVENTHEALTH TAMPA3100 E FLETCHER AVE | On Site | Aug 15 |
-| ↳ | **[RN Registered Nurse Intern Labor & Delivery Nights](https://jobright.ai/jobs/info/689fd54883d13d1f5b6cb52a?utm_campaign=1057&utm_source=git)** | US-FL-Tampa | On Site | Aug 15 |
-| **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[School Centered Clinical Intern (Winter 2025/Spring 2026)](https://jobright.ai/jobs/info/689fd538cc9ee94dc911a1ad?utm_campaign=1057&utm_source=git)** | Shaker Heights, OH | On Site | Aug 15 |
-| **[Topgolf](https://topgolf.com/us/)** | **[Topgolf Coach Internship (Golf Instructor, Summer 2025)](https://jobright.ai/jobs/info/6866605f5f0dc930c0630d31?utm_campaign=1057&utm_source=git)** | Bridgeville, PA | On Site | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
