@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Joliet Public Schools District 86](www.joliet86.org)** | **[School Psychologist Intern Temporary](https://jobright.ai/jobs/info/68a19ec0faa4e875e8294e59?utm_campaign=1057&utm_source=git)** | Joliet, IL | On Site | Aug 17 |
+| **[Shalom Park](https://shalompark.org/)** | **[Internship (Unpaid)](https://jobright.ai/jobs/info/68a19eb783d13d1f5b6d4d89?utm_campaign=1057&utm_source=git)** | Aurora, CO | On Site | Aug 17 |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Senior Coordinator - Student Success - PAC - req12885](https://jobright.ai/jobs/info/68a1975f83d13d1f5b6d4d34?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Aug 17 |
 | **[Institute for Defense Analyses](https://www.ida.org)** | **[Summer Research Opportunity - Center for Computing Sciences (CCS) SCAMP](https://jobright.ai/jobs/info/68a16125cc9ee94dc912249b?utm_campaign=1057&utm_source=git)** | Bowie, MD | On Site | Aug 16 |
 | **[AdventHealth](https://www.adventhealth.com/)** | **[RN Registered Nurse Intern Labor & Delivery Nights](https://jobright.ai/jobs/info/68a13252faa4e875e829263a?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Aug 16 |
 | ↳ | **[RN Registered Nurse Intern Labor & Delivery](https://jobright.ai/jobs/info/68a1265c83d13d1f5b6d2279?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Aug 16 |
@@ -72,11 +75,9 @@ For a complete list, click the following sortable link below:
 | **[CSU Careers](https://www.linkedin.com/company/81884531)** | **[Institute for Child Development and Family Relations - Federal Work Study Student Assistant](https://jobright.ai/jobs/info/68a0e963faa4e875e8291de6?utm_campaign=1057&utm_source=git)** | San Bernardino, CA | On Site | Aug 16 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Intern](https://jobright.ai/jobs/info/68a0ca54cc9ee94dc912087b?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Aug 16 |
 | **[University of Illinois Chicago (UIC) School of Public Health](https://publichealth.uic.edu)** | **[Financial Aid Associate - Office of Student Financial Aid and Scholarships](https://jobright.ai/jobs/info/68a0c7a2faa4e875e82919f0?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Aug 16 |
-| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Trainee trading](https://jobright.ai/jobs/info/68a0b41b83d13d1f5b6d1455?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Aug 16 |
 | **[Year Up United](http://yearup.org)** | **[Data Analytics Job Training Program](https://jobright.ai/jobs/info/68a0a0e0faa4e875e8290f69?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Aug 16 |
 | ↳ | **[Software Job Training Program](https://jobright.ai/jobs/info/68a0a05283d13d1f5b6d0f77?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Aug 16 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Program Specialist - Student Services - Merritt INTERNAL POSTING Working Out of Class](https://jobright.ai/jobs/info/68a09e59cc9ee94dc911fc78?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Aug 16 |
-| ↳ | **[Associate Director of International Student Services](https://jobright.ai/jobs/info/68a09de3faa4e875e8290e27?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD | On Site | Aug 16 |
 | ↳ | **[Assistant Professor - International Studies](https://jobright.ai/jobs/info/68a09d6183d13d1f5b6d0e7e?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Aug 16 |
 | **[BlackRock](http://www.blackrock.com)** | **[2026 Quantitative Masters Internship Program - AMERS](https://jobright.ai/jobs/info/6867326dd8e0721f42af5295?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Aug 16 |
 | **[Year Up United](http://yearup.org)** | **[Application Development Job Training Program](https://jobright.ai/jobs/info/6890d292f5ee707a15db9ede?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Aug 16 |
@@ -117,6 +118,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 L’Oréal USA Summer Internship Program – Research & Innovation – Undergraduate](https://jobright.ai/jobs/info/689fe6ed83d13d1f5b6cbc74?utm_campaign=1057&utm_source=git)** | Clark, NJ | Hybrid | Aug 15 |
 | **[Tufts Medicine](https://www.tuftsmedicine.org)** | **[Student Intern/Co-Op](https://jobright.ai/jobs/info/689fe6bfcc9ee94dc911a908?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Aug 15 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Site Director at International Leadership of Texas](https://jobright.ai/jobs/info/689fe40afaa4e875e828bd89?utm_campaign=1057&utm_source=git)** | Pearland, TX | On Site | Aug 15 |
+| ↳ | **[Associate Director of International Student Services](https://jobright.ai/jobs/info/689fe3e6cc9ee94dc911a80d?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD | On Site | Aug 15 |
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Fall 2025 - Claims Processing](https://jobright.ai/jobs/info/689fe3bffaa4e875e828bd36?utm_campaign=1057&utm_source=git)** | Binghamton, NY | On Site | Aug 15 |
 | **[Kent State School of Fashion](https://www.kent.edu/fashion)** | **[Academic Vice Dean, Regional Campus -= INTERNAL ONLY POSTING FOR CURRENT KSU EMPLOYEES](https://jobright.ai/jobs/info/689fe3b783d13d1f5b6cbaf7?utm_campaign=1057&utm_source=git)** | New Philadelphia, OH | On Site | Aug 15 |
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Fall 2025 - Claims Processing](https://jobright.ai/jobs/info/689fe384faa4e875e828bcee?utm_campaign=1057&utm_source=git)** | Utica, NY | On Site | Aug 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Future Talent Program - Finance MBA - Intern (Hybrid)](https://jobright.ai/jobs/info/689fb6edcc9ee94dc911944d?utm_campaign=1057&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Aug 15 |
 | **[St. Cloud State University](https://stcloudstate.edu)** | **[OSP Internship Coordinator](https://jobright.ai/jobs/info/689fa81083d13d1f5b6ca4cf?utm_campaign=1057&utm_source=git)** | RIDG - Willmar Campus | On Site | Aug 15 |
 | **[MelroseWakefield Hospital](https://www.melrosewakefield.org/)** | **[Student Intern/Co-Op](https://jobright.ai/jobs/info/689fa7c4b3e889632cf09523?utm_campaign=1057&utm_source=git)** | Tufts Medical Center | On Site | Aug 15 |
-| **[Texas A&M University](http://www.tamu.edu)** | **[State of Texas College Work Study-Student (Intl Banking & Finance)](https://jobright.ai/jobs/info/689fa7c3b3e889632cf0951d?utm_campaign=1057&utm_source=git)** | Laredo, TX | On Site | Aug 15 |
-| **[UF Lastinger Center for Learning](lastinger.center.ufl.edu)** | **[Learning and Organizational Student Assistant](https://jobright.ai/jobs/info/689fa6a583d13d1f5b6ca3fa?utm_campaign=1057&utm_source=git)** | Gainesville, FL | On Site | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
