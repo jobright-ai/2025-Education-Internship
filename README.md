@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Year Up United](http://yearup.org)** | **[Data Management Job Training Program](https://jobright.ai/jobs/info/68a4b7c7e9f1c744da123879?utm_campaign=1057&utm_source=git)** | Providence, RI | On Site | Aug 19 |
+| **[California State University-Sacramento](https://www.csus.edu/)** | **[Assistant Program Coordinator, Black Honors College (Multiple Trainee-Level Positions)](https://jobright.ai/jobs/info/68a4b5fd2d2a252445cd8782?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Aug 19 |
+| **[Life Time Inc.](https://www.lifetime.life/)** | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/68a4b395e9f1c744da1235bf?utm_campaign=1057&utm_source=git)** | Garland, TX | On Site | Aug 19 |
+| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/68a4b20b541cc3479840d13a?utm_campaign=1057&utm_source=git)** | Bridgewater, NJ | On Site | Aug 19 |
+| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/68a4b1e1541cc3479840d130?utm_campaign=1057&utm_source=git)** | Middletown, NJ | On Site | Aug 19 |
+| **[Point72](https://www.point72.com)** | **[2025 Point72 Academy National Case Competition - US](https://jobright.ai/jobs/info/68a4aa5d541cc3479840cf6e?utm_campaign=1057&utm_source=git)** | United States | Remote | Aug 19 |
+| **[Marriott International](http://travel-brilliantly.marriott.com)** | **[Hourly Intern](https://jobright.ai/jobs/info/68a4a8f7e9f1c744da12326b?utm_campaign=1057&utm_source=git)** | L.G. Smith Boulevard # 101, Palm Beach, AW | On Site | Aug 19 |
 | **[Southern New Hampshire University](http://www.snhu.edu)** | **[Student- Safe Sports Administrative/Volunteer Program Assistant (Work Study only)](https://jobright.ai/jobs/info/68a49eac2d2a252445cd7efd?utm_campaign=1057&utm_source=git)** | On-Site (New Hampshire) | On Site | Aug 19 |
 | **[Year Up United](http://yearup.org)** | **[Computer Systems Administration Job Training Program](https://jobright.ai/jobs/info/68a49d2ee9f1c744da122dd9?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Aug 19 |
 | **[Drexel University's Westphal College of Media Arts & Design](https://drexel.edu/westphal)** | **[Per Diem Lab Assistant](https://jobright.ai/jobs/info/68a49af3541cc3479840c983?utm_campaign=1057&utm_source=git)** | Elkins Park, PA | On Site | Aug 19 |
@@ -98,6 +105,8 @@ For a complete list, click the following sortable link below:
 | **[Cherokee Nation Businesses](https://cherokeenationbusinesses.com)** | **[Summer Paid Internship - 2026](https://jobright.ai/jobs/info/68a3c4ed403ad4363b1c39eb?utm_campaign=1057&utm_source=git)** | Tulsa, OK | On Site | Aug 18 |
 | **[American University](http://american.edu)** | **[Research & Teaching Assistant (Student)](https://jobright.ai/jobs/info/68a3c374403ad4363b1c380e?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Aug 18 |
 | **[University of Central Oklahoma](http://www.uco.edu/)** | **[FWSP Student Technical - Athletics](https://jobright.ai/jobs/info/68a3c33a37d3cc6b0d5794d9?utm_campaign=1057&utm_source=git)** | Edmond, OK | On Site | Aug 18 |
+| **[Akron Public Schools](http://www.akronschools.com/)** | **[Engineering Technology Instructor](https://jobright.ai/jobs/info/68a4a5ad541cc3479840ccc5?utm_campaign=1057&utm_source=git)** | Akron, OH | On Site | Aug 18 |
+| **[FNBO](https://www.fnbo.com)** | **[Intern-2](https://jobright.ai/jobs/info/689f7a23b3e889632cf0789c?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Aug 18 |
 | **[Kokosing](https://www.kokosing.biz)** | **[Highschool Intern](https://jobright.ai/jobs/info/68a3bf561ab5f8579e8a802b?utm_campaign=1057&utm_source=git)** | Westerville, OH | On Site | Aug 18 |
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/68a40eb52d2a252445cd55d9?utm_campaign=1057&utm_source=git)** | Missouri City, TX | On Site | Aug 18 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Special Education RSP Teacher & Interns](https://jobright.ai/jobs/info/68a3bbf6403ad4363b1c35bf?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Aug 18 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Workday Intern Cohort 2025](https://jobright.ai/jobs/info/68a3773e403ad4363b1c139a?utm_campaign=1057&utm_source=git)** | USA, CA, Pleasanton | Hybrid | Aug 18 |
 | **[Ilisagvik College](http://www.ilisagvik.cc/)** | **[Student Intern](https://jobright.ai/jobs/info/68a377251ab5f8579e8a5cb0?utm_campaign=1057&utm_source=git)** | Utqiaġvik, Alaska, United States | On Site | Aug 18 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Intern](https://jobright.ai/jobs/info/68a3f9af2d2a252445cd4867?utm_campaign=1057&utm_source=git)** | Fayetteville, NC | On Site | Aug 18 |
-| **[Texas A&M University System](http://www.tamus.edu/)** | **[Postdoctoral Research Associate](https://jobright.ai/jobs/info/68a3f6d3e9f1c744da11f789?utm_campaign=1057&utm_source=git)** | College Station, TX | On Site | Aug 18 |
-| **[University of Vermont](http://www.uvm.edu/medicine)** | **[Assistant Professor of Psychological Science: Clinical Psychologist](https://jobright.ai/jobs/info/68a3708e37d3cc6b0d576d59?utm_campaign=1057&utm_source=git)** | Burlington, VT | On Site | Aug 18 |
-| **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Summer Leadership Program (Minneapolis - May 2026)](https://jobright.ai/jobs/info/68a36f7a403ad4363b1c0f46?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Aug 18 |
-| ↳ | **[Summer Leadership Program (Mankato - May 2026)](https://jobright.ai/jobs/info/68a36f02403ad4363b1c0ec7?utm_campaign=1057&utm_source=git)** | Mankato, MN | On Site | Aug 18 |
-| **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting (Tenure Track)](https://jobright.ai/jobs/info/68a36e761ab5f8579e8a57e5?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Aug 18 |
-| **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Summer Leadership Program (Des Moines - May 2026)](https://jobright.ai/jobs/info/68a36e0f1ab5f8579e8a575e?utm_campaign=1057&utm_source=git)** | Des Moines, IA | On Site | Aug 18 |
-| **[Georgia Department of Public Health](https://dph.georgia.gov/)** | **[Pharmacy/MPH Intern](https://jobright.ai/jobs/info/68a3695e1ab5f8579e8a55d3?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Aug 18 |
-| **[Regeneron](http://www.regeneron.com)** | **[Summer 2026 Intern- PharmD, Pharmacy, Pharmacoepi, Epidemiology, HEOR & Public Health, or Related Majors](https://jobright.ai/jobs/info/68a36649403ad4363b1c0c11?utm_campaign=1057&utm_source=git)** | Tarrytown, NY | On Site | Aug 18 |
-| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Undergraduate Intern - Clinical Exercise Physiologist - Cardiac](https://jobright.ai/jobs/info/68a365e31ab5f8579e8a54b2?utm_campaign=1057&utm_source=git)** | Rochester, MN | On Site | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
