@@ -57,8 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Riverside Community Care](http://www.riversidecc.org)** | **[Engagement Specialist Internship - Flexible Start Date](https://jobright.ai/jobs/info/68a3d51437d3cc6b0d579fba?utm_campaign=1057&utm_source=git)** | Norwood, MA | On Site | Aug 18 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Adult ESL Instruction Intern-UNPAID](https://jobright.ai/jobs/info/68a3d2ec1ab5f8579e8a8b88?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Aug 18 |
+| **[California Department of Health Care Services](https://www.dhcs.ca.gov)** | **[STUDENT ASSISTANT (Hybrid Option)](https://jobright.ai/jobs/info/68a3ced11ab5f8579e8a884e?utm_campaign=1057&utm_source=git)** | Yolo, CA | Hybrid | Aug 18 |
+| **[Chestnut Health Systems](http://chestnut.org/)** | **[Student Internship / Prevention](https://jobright.ai/jobs/info/68a3ceba37d3cc6b0d579d08?utm_campaign=1057&utm_source=git)** | Normal, IL | On Site | Aug 18 |
+| **[City of O'Fallon](http://www.ofallon.mo.us)** | **[Student Intern - Recreation Department](https://jobright.ai/jobs/info/68a3cc721ab5f8579e8a870b?utm_campaign=1057&utm_source=git)** | O'Fallon,MO,US | Hybrid | Aug 18 |
+| **[Cherokee Nation Businesses](https://cherokeenationbusinesses.com)** | **[Summer Paid Internship - 2026](https://jobright.ai/jobs/info/68a3c4ed403ad4363b1c39eb?utm_campaign=1057&utm_source=git)** | Tulsa, OK | On Site | Aug 18 |
+| **[American University](http://american.edu)** | **[Research & Teaching Assistant (Student)](https://jobright.ai/jobs/info/68a3c374403ad4363b1c380e?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Aug 18 |
+| **[University of Central Oklahoma](http://www.uco.edu/)** | **[FWSP Student Technical - Athletics](https://jobright.ai/jobs/info/68a3c33a37d3cc6b0d5794d9?utm_campaign=1057&utm_source=git)** | Edmond, OK | On Site | Aug 18 |
+| **[Kokosing](https://www.kokosing.biz)** | **[Highschool Intern](https://jobright.ai/jobs/info/68a3bf561ab5f8579e8a802b?utm_campaign=1057&utm_source=git)** | Westerville, OH | On Site | Aug 18 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Special Education RSP Teacher & Interns](https://jobright.ai/jobs/info/68a3bbf6403ad4363b1c35bf?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Aug 18 |
-| **[Eliada Homes](http://www.eliada.org)** | **[RISE Paid Internship - Free Housing](https://jobright.ai/jobs/info/68a3bbcb37d3cc6b0d57927c?utm_campaign=1057&utm_source=git)** | Asheville, NC | On Site | Aug 18 |
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/68a3b7f6403ad4363b1c332e?utm_campaign=1057&utm_source=git)** | Friendswood, TX | On Site | Aug 18 |
 | **[University of Michigan](https://www.umich.edu)** | **[Career Services Undergraduate Intern](https://jobright.ai/jobs/info/68a3b7ea403ad4363b1c3326?utm_campaign=1057&utm_source=git)** | Dearborn, MI | On Site | Aug 18 |
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/68a3b75f403ad4363b1c3263?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Aug 18 |
@@ -145,16 +153,8 @@ For a complete list, click the following sortable link below:
 | **[University of South Carolina](https://sc.edu)** | **[Bilingual Spanish-English Research Position (Contractor or Student Opportunity)](https://jobright.ai/jobs/info/68a31cae403ad4363b1bea40?utm_campaign=1057&utm_source=git)** | Columbia, South Carolina Metropolitan Area | On Site | Aug 18 |
 | **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/68a3092b403ad4363b1be695?utm_campaign=1057&utm_source=git)** | Elk Grove Village, IL | On Site | Aug 18 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68a3089a37d3cc6b0d5743d5?utm_campaign=1057&utm_source=git)** | Woodridge, IL | On Site | Aug 18 |
-| **[Frederick County Government, Maryland](https://www.frederickcountymd.gov)** | **[Intern-Aging and Independence](https://jobright.ai/jobs/info/68a2fd2237d3cc6b0d574202?utm_campaign=1057&utm_source=git)** | Frederick, MD | On Site | Aug 18 |
 | **[City of Berkeley](https://www.cityofberkeley.info/)** | **[Youth Enrollee Intern](https://jobright.ai/jobs/info/68a2e32cff570d7ffd65e565?utm_campaign=1057&utm_source=git)** | Berkeley, CA | On Site | Aug 18 |
 | **[Hilton](https://www.hilton.com/en/)** | **[2026 Corporate Summer Internship - Global Distribution](https://jobright.ai/jobs/info/68a2da04da4b7a7e730743d9?utm_campaign=1057&utm_source=git)** | Addison, TX | On Site | Aug 18 |
 | ↳ | **[2026 Corporate Summer Internship - Hilton Reservations & Customer Care (HRCC)](https://jobright.ai/jobs/info/68a2da01da4b7a7e730743d7?utm_campaign=1057&utm_source=git)** | Addison, TX | On Site | Aug 18 |
 | ↳ | **[2026 Corporate Summer Internship - Development](https://jobright.ai/jobs/info/68a2d9e4da4b7a7e730743c2?utm_campaign=1057&utm_source=git)** | McLean, VA | On Site | Aug 18 |
-| ↳ | **[2026 Corporate Summer Internship - Revenue Management (RMCC)](https://jobright.ai/jobs/info/68a2d9dcff570d7ffd65e504?utm_campaign=1057&utm_source=git)** | Addison, TX | On Site | Aug 18 |
-| ↳ | **[2026 Corporate Summer Internship - Supply Chain (HSM)](https://jobright.ai/jobs/info/68a2d9db468ac21d6fabb475?utm_campaign=1057&utm_source=git)** | McLean, VA | On Site | Aug 18 |
-| ↳ | **[2026 Corporate Summer Internship - Technology (Cyber, Engineering, Product Management)](https://jobright.ai/jobs/info/68a2d9db468ac21d6fabb473?utm_campaign=1057&utm_source=git)** | McLean, VA | On Site | Aug 18 |
-| ↳ | **[2026 Corporate Summer Internship - Strategy, Insights, and Analytics](https://jobright.ai/jobs/info/68a2d9d8ff570d7ffd65e500?utm_campaign=1057&utm_source=git)** | McLean, VA | On Site | Aug 18 |
-| **[PwC](http://pwc.com)** | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/68a2b956468ac21d6faba1e4?utm_campaign=1057&utm_source=git)** | CA-Los Angeles | On Site | Aug 17 |
-| ↳ | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/68a2b955468ac21d6faba1de?utm_campaign=1057&utm_source=git)** | CO-Denver | On Site | Aug 17 |
-| ↳ | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/68a2b94d468ac21d6faba1c7?utm_campaign=1057&utm_source=git)** | CA-Silicon Valley | On Site | Aug 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
