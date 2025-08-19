@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KinderCare Learning Companies](http://www.kcecareers.com/)** | **[Site Teacher International Leadership of Texas](https://jobright.ai/jobs/info/68a41e91541cc3479840aad9?utm_campaign=1057&utm_source=git)** | Midlothian, TX | On Site | Aug 18 |
+| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Power+ Graduate (January Cohort)](https://jobright.ai/jobs/info/68a41c202d2a252445cd5d9a?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Aug 18 |
+| **[KinderCare Learning Companies](http://www.kcecareers.com/)** | **[Teacher at Job Requisition: JR23318 Site Teacher International Leadership of Texas](https://jobright.ai/jobs/info/68a418b5541cc3479840a61c?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Aug 18 |
 | **[University of South Florida](http://www.usf.edu)** | **[Publications Student Assistant (Graduate)](https://jobright.ai/jobs/info/68a40ce12d2a252445cd52db?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Aug 18 |
 | ↳ | **[GNSI Student Assistant](https://jobright.ai/jobs/info/68a40c3b541cc34798409d93?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Aug 18 |
 | **[Dimensional Fund Advisors](https://us.dimensional.com)** | **[Internship in Global Client Group - Santa Monica (Undergraduate & Master's)](https://jobright.ai/jobs/info/68a3df6ce9f1c744da11ead1?utm_campaign=1057&utm_source=git)** | Santa Monica, CA | Hybrid | Aug 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Intern- Business, Finance, Accounting, Economics, or Related Majors](https://jobright.ai/jobs/info/68a354e5403ad4363b1c0287?utm_campaign=1057&utm_source=git)** | Armonk | On Site | Aug 18 |
 | ↳ | **[Summer 2026 Intern- Business, Finance, Accounting, Economics, or Related Majors](https://jobright.ai/jobs/info/68a354c0403ad4363b1c0231?utm_campaign=1057&utm_source=git)** | SLEEPY HOLLOW | On Site | Aug 18 |
 | **[CW PSYCHOLOGICAL SERVICES](https://cwpsychologicalservices.com/)** | **[PA Doctoral Level Psychology](https://jobright.ai/jobs/info/68a34c7e403ad4363b1bfecd?utm_campaign=1057&utm_source=git)** | King of Prussia, PA | On Site | Aug 18 |
-| **[Wabtec Corporation](http://www.wabteccorp.com)** | **[Summer 2026 Digital Internship](https://jobright.ai/jobs/info/68a3487037d3cc6b0d5758ac?utm_campaign=1057&utm_source=git)** | Erie, PA | On Site | Aug 18 |
-| **[Citi](https://www.citi.com)** | **[Citi Liberal Arts Mentorship Program (Virtual)](https://jobright.ai/jobs/info/68a347a91ab5f8579e8a44d0?utm_campaign=1057&utm_source=git)** | New York New York United States | Remote | Aug 18 |
-| **[Wabtec Corporation](http://www.wabteccorp.com)** | **[Summer 2026 Digital Internship](https://jobright.ai/jobs/info/68a347341ab5f8579e8a43ff?utm_campaign=1057&utm_source=git)** | Grove City, PA | On Site | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
