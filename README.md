@@ -57,14 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Seattle Colleges](https://www.seattlecolleges.edu)** | **[Seattle Promise New Student Orientation- Intern (South)](https://jobright.ai/jobs/info/68a44def2d2a252445cd67f6?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Aug 19 |
+| **[The Arc Allegany-Steuben](https://thearcas.org)** | **[Summer Youth Intern/ CBWE participant](https://jobright.ai/jobs/info/68a44dd82d2a252445cd67e6?utm_campaign=1057&utm_source=git)** | Wellsville, NY | On Site | Aug 19 |
+| ↳ | **[Summer Youth Intern/ CBWE participant](https://jobright.ai/jobs/info/68a44da7541cc3479840b35c?utm_campaign=1057&utm_source=git)** | Bath, NY | On Site | Aug 19 |
+| ↳ | **[Summer Youth Intern/ CBWE participant](https://jobright.ai/jobs/info/68a44d84541cc3479840b346?utm_campaign=1057&utm_source=git)** | Hornell, NY | On Site | Aug 19 |
 | **[Frederick Health](https://www.frederickhealth.org/)** | **[Clinical Pastoral Education Intern](https://jobright.ai/jobs/info/68a43921e9f1c744da121631?utm_campaign=1057&utm_source=git)** | Frederick, MD | On Site | Aug 19 |
+| **[Los Alamos Public Schools](http://laschools.net/)** | **[Student Interns (Summer) Facilities Posting 391](https://jobright.ai/jobs/info/68a44ee2e9f1c744da121866?utm_campaign=1057&utm_source=git)** | Los Alamos, NM | On Site | Aug 19 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Outreach & Communications Assistant - Student Hourly](https://jobright.ai/jobs/info/68a42cf8e9f1c744da12152e?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 19 |
 | **[KinderCare Learning Companies](http://www.kcecareers.com/)** | **[Site Teacher International Leadership of Texas](https://jobright.ai/jobs/info/68a41e91541cc3479840aad9?utm_campaign=1057&utm_source=git)** | Midlothian, TX | On Site | Aug 18 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Power+ Graduate (January Cohort)](https://jobright.ai/jobs/info/68a41c202d2a252445cd5d9a?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Aug 18 |
 | **[KinderCare Learning Companies](http://www.kcecareers.com/)** | **[Teacher at Job Requisition: JR23318 Site Teacher International Leadership of Texas](https://jobright.ai/jobs/info/68a418b5541cc3479840a61c?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Aug 18 |
 | **[County of Los Angeles](https://lacounty.gov/)** | **[CAREER DEVELOPMENT INTERN - OFFICE AND CLERICAL SUPPORT](https://jobright.ai/jobs/info/68a439a0541cc3479840b203?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Aug 18 |
-| ↳ | **[CAREER DEVELOPMENT INTERN, HEAVY MAINTENANCE AND OPERATIONAL SUPPORT](https://jobright.ai/jobs/info/68a437b42d2a252445cd6676?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Aug 18 |
 | ↳ | **[CLINICAL PSYCHOLOGY INTERN](https://jobright.ai/jobs/info/68a438f1e9f1c744da12161f?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Aug 18 |
+| ↳ | **[CAREER DEVELOPMENT INTERN, HEAVY MAINTENANCE AND OPERATIONAL SUPPORT](https://jobright.ai/jobs/info/68a437b42d2a252445cd6676?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Aug 18 |
 | **[University of South Florida](http://www.usf.edu)** | **[Publications Student Assistant (Graduate)](https://jobright.ai/jobs/info/68a40ce12d2a252445cd52db?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Aug 18 |
 | ↳ | **[GNSI Student Assistant](https://jobright.ai/jobs/info/68a40c3b541cc34798409d93?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Aug 18 |
 | **[Dimensional Fund Advisors](https://us.dimensional.com)** | **[Internship in Global Client Group - Santa Monica (Undergraduate & Master's)](https://jobright.ai/jobs/info/68a3df6ce9f1c744da11ead1?utm_campaign=1057&utm_source=git)** | Santa Monica, CA | Hybrid | Aug 18 |
@@ -88,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Kokosing](https://www.kokosing.biz)** | **[Highschool Intern](https://jobright.ai/jobs/info/68a3bf561ab5f8579e8a802b?utm_campaign=1057&utm_source=git)** | Westerville, OH | On Site | Aug 18 |
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/68a40eb52d2a252445cd55d9?utm_campaign=1057&utm_source=git)** | Missouri City, TX | On Site | Aug 18 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Special Education RSP Teacher & Interns](https://jobright.ai/jobs/info/68a3bbf6403ad4363b1c35bf?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Aug 18 |
-| **[Eliada Homes](http://www.eliada.org)** | **[RISE Paid Internship - Free Housing](https://jobright.ai/jobs/info/68a3bbcb37d3cc6b0d57927c?utm_campaign=1057&utm_source=git)** | Asheville, NC | On Site | Aug 18 |
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/68a3b7f6403ad4363b1c332e?utm_campaign=1057&utm_source=git)** | Friendswood, TX | On Site | Aug 18 |
 | **[University of Michigan](https://www.umich.edu)** | **[Career Services Undergraduate Intern](https://jobright.ai/jobs/info/68a3b7ea403ad4363b1c3326?utm_campaign=1057&utm_source=git)** | Dearborn, MI | On Site | Aug 18 |
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/68a3b75f403ad4363b1c3263?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Aug 18 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Regeneron](http://www.regeneron.com)** | **[Summer 2026 Intern- Business, Finance, Accounting, Economics, or Related Majors](https://jobright.ai/jobs/info/68a3564537d3cc6b0d57604e?utm_campaign=1057&utm_source=git)** | Warren | On Site | Aug 18 |
 | ↳ | **[Summer 2026 Intern- PharmD, Pharmacy, Pharmacoepi, Epidemiology, HEOR & Public Health, or Related Majors](https://jobright.ai/jobs/info/68a355cc37d3cc6b0d575f28?utm_campaign=1057&utm_source=git)** | SLEEPY HOLLOW | On Site | Aug 18 |
 | ↳ | **[Summer 2026 Intern- PharmD, Pharmacy, Pharmacoepi, Epidemiology, HEOR & Public Health, or Related Majors](https://jobright.ai/jobs/info/68a3558b37d3cc6b0d575ecc?utm_campaign=1057&utm_source=git)** | Armonk | On Site | Aug 18 |
-| **[Dallas College](https://www.dcccd.edu)** | **[Administrative Support- Student Assistant- Continuing Education-RLC-1](https://jobright.ai/jobs/info/68a355411ab5f8579e8a4bf6?utm_campaign=1057&utm_source=git)** | Richland Campus | On Site | Aug 18 |
-| **[Regeneron](http://www.regeneron.com)** | **[Summer 2026 Intern- PharmD, Pharmacy, Pharmacoepi, Epidemiology, HEOR & Public Health, or Related Majors](https://jobright.ai/jobs/info/68a35521403ad4363b1c0320?utm_campaign=1057&utm_source=git)** | RENSSELAER | On Site | Aug 18 |
-| ↳ | **[Summer 2026 Intern- Business, Finance, Accounting, Economics, or Related Majors](https://jobright.ai/jobs/info/68a3550b1ab5f8579e8a4b71?utm_campaign=1057&utm_source=git)** | TARRYTOWN | On Site | Aug 18 |
-| ↳ | **[Summer 2026 Intern- PharmD, Pharmacy, Pharmacoepi, Epidemiology, HEOR & Public Health, or Related Majors](https://jobright.ai/jobs/info/68a354f61ab5f8579e8a4b50?utm_campaign=1057&utm_source=git)** | Warren | On Site | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
