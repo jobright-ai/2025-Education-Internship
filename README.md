@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Special Education RSP Teacher & Interns](https://jobright.ai/jobs/info/68a3bbf6403ad4363b1c35bf?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Aug 18 |
+| **[Eliada Homes](http://www.eliada.org)** | **[RISE Paid Internship - Free Housing](https://jobright.ai/jobs/info/68a3bbcb37d3cc6b0d57927c?utm_campaign=1057&utm_source=git)** | Asheville, NC | On Site | Aug 18 |
+| **[Life Time Inc.](https://www.lifetime.life/)** | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/68a3b7f6403ad4363b1c332e?utm_campaign=1057&utm_source=git)** | Friendswood, TX | On Site | Aug 18 |
+| **[University of Michigan](https://www.umich.edu)** | **[Career Services Undergraduate Intern](https://jobright.ai/jobs/info/68a3b7ea403ad4363b1c3326?utm_campaign=1057&utm_source=git)** | Dearborn, MI | On Site | Aug 18 |
+| **[Life Time Inc.](https://www.lifetime.life/)** | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/68a3b75f403ad4363b1c3263?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Aug 18 |
+| **[Keyano College](https://www.keyano.ca/)** | **[Student Assistant - Office of the Registrar - Records Management](https://jobright.ai/jobs/info/68a3b691403ad4363b1c3168?utm_campaign=1057&utm_source=git)** | Shady Hills, FL | On Site | Aug 18 |
+| **[Ferris State University College of Business ](http://ferris.edu/business)** | **[Financial Aid Office Assistant (Student Position)](https://jobright.ai/jobs/info/68a3b3ee37d3cc6b0d578e73?utm_campaign=1057&utm_source=git)** | Big Rapids, MI | On Site | Aug 18 |
+| **[Life Time Inc.](https://www.lifetime.life/)** | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/68a3b3601ab5f8579e8a7a22?utm_campaign=1057&utm_source=git)** | Katy, TX | On Site | Aug 18 |
+| **[Kokosing](https://www.kokosing.biz)** | **[Highschool Intern](https://jobright.ai/jobs/info/68a3b350403ad4363b1c3051?utm_campaign=1057&utm_source=git)** | Fredericktown, OH | On Site | Aug 18 |
+| **[University of Michigan](https://www.umich.edu)** | **[Digital Accessibility Student Assistant (TEMP)](https://jobright.ai/jobs/info/68a3b2e8403ad4363b1c2fd3?utm_campaign=1057&utm_source=git)** | Dearborn, MI | Hybrid | Aug 18 |
+| **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/68a3afc11ab5f8579e8a7862?utm_campaign=1057&utm_source=git)** | Rockford, IL | On Site | Aug 18 |
 | **[Dimensional Fund Advisors](https://us.dimensional.com)** | **[Internship in Global Client Group - Austin (Undergraduate & Master's)](https://jobright.ai/jobs/info/68a39e8637d3cc6b0d57876e?utm_campaign=1057&utm_source=git)** | Austin | Hybrid | Aug 18 |
 | ↳ | **[Internship in Global Client Group - Santa Monica (Undergraduate & Master's)](https://jobright.ai/jobs/info/68a39c611ab5f8579e8a7234?utm_campaign=1057&utm_source=git)** | Santa Monica | Hybrid | Aug 18 |
 | ↳ | **[Internship in Global Client Group - Charlotte (Undergraduate & Master's)](https://jobright.ai/jobs/info/68a39c411ab5f8579e8a71c5?utm_campaign=1057&utm_source=git)** | Charlotte | Hybrid | Aug 18 |
@@ -140,21 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Corporate Summer Internship - Hilton Reservations & Customer Care (HRCC)](https://jobright.ai/jobs/info/68a2da01da4b7a7e730743d7?utm_campaign=1057&utm_source=git)** | Addison, TX | On Site | Aug 18 |
 | ↳ | **[2026 Corporate Summer Internship - Development](https://jobright.ai/jobs/info/68a2d9e4da4b7a7e730743c2?utm_campaign=1057&utm_source=git)** | McLean, VA | On Site | Aug 18 |
 | ↳ | **[2026 Corporate Summer Internship - Revenue Management (RMCC)](https://jobright.ai/jobs/info/68a2d9dcff570d7ffd65e504?utm_campaign=1057&utm_source=git)** | Addison, TX | On Site | Aug 18 |
-| ↳ | **[2026 Corporate Summer Internship - Technology (Cyber, Engineering, Product Management)](https://jobright.ai/jobs/info/68a2d9db468ac21d6fabb473?utm_campaign=1057&utm_source=git)** | McLean, VA | On Site | Aug 18 |
 | ↳ | **[2026 Corporate Summer Internship - Supply Chain (HSM)](https://jobright.ai/jobs/info/68a2d9db468ac21d6fabb475?utm_campaign=1057&utm_source=git)** | McLean, VA | On Site | Aug 18 |
+| ↳ | **[2026 Corporate Summer Internship - Technology (Cyber, Engineering, Product Management)](https://jobright.ai/jobs/info/68a2d9db468ac21d6fabb473?utm_campaign=1057&utm_source=git)** | McLean, VA | On Site | Aug 18 |
 | ↳ | **[2026 Corporate Summer Internship - Strategy, Insights, and Analytics](https://jobright.ai/jobs/info/68a2d9d8ff570d7ffd65e500?utm_campaign=1057&utm_source=git)** | McLean, VA | On Site | Aug 18 |
 | **[PwC](http://pwc.com)** | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/68a2b956468ac21d6faba1e4?utm_campaign=1057&utm_source=git)** | CA-Los Angeles | On Site | Aug 17 |
 | ↳ | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/68a2b955468ac21d6faba1de?utm_campaign=1057&utm_source=git)** | CO-Denver | On Site | Aug 17 |
 | ↳ | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/68a2b94d468ac21d6faba1c7?utm_campaign=1057&utm_source=git)** | CA-Silicon Valley | On Site | Aug 17 |
-| ↳ | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/68a2b94d468ac21d6faba1d6?utm_campaign=1057&utm_source=git)** | IL-Rosemont | On Site | Aug 17 |
-| ↳ | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/68a2b94d468ac21d6faba1cb?utm_campaign=1057&utm_source=git)** | IL-Chicago | On Site | Aug 17 |
-| ↳ | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/68a2b93bff570d7ffd65d23d?utm_campaign=1057&utm_source=git)** | NC-Charlotte | On Site | Aug 17 |
-| ↳ | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/68a2b93aff570d7ffd65d235?utm_campaign=1057&utm_source=git)** | PA-Philadelphia | On Site | Aug 17 |
-| ↳ | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/68a2b93aff570d7ffd65d234?utm_campaign=1057&utm_source=git)** | MI-Detroit | On Site | Aug 17 |
-| ↳ | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/68a2b930da4b7a7e730730cd?utm_campaign=1057&utm_source=git)** | MN-Minneapolis | On Site | Aug 17 |
-| ↳ | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/68a2b930ff570d7ffd65d218?utm_campaign=1057&utm_source=git)** | NJ-Florham Park | On Site | Aug 17 |
-| ↳ | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/68a2b930da4b7a7e730730d0?utm_campaign=1057&utm_source=git)** | GA-Atlanta | On Site | Aug 17 |
-| ↳ | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/68a2b930da4b7a7e730730ce?utm_campaign=1057&utm_source=git)** | CA-San Francisco | On Site | Aug 17 |
-| ↳ | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/68a2b930da4b7a7e730730d2?utm_campaign=1057&utm_source=git)** | TX-Houston | On Site | Aug 17 |
-| ↳ | **[Digital Assurance & Transparency (DAT) Intern - Summer 2027 - Destination CPA](https://jobright.ai/jobs/info/68a2b930ff570d7ffd65d212?utm_campaign=1057&utm_source=git)** | DC-Washington | On Site | Aug 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
