@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delta Air Lines](https://www.delta.com/)** | **[Co-op - Flight Operations - Learning - Pilot Learner Experience and Strategy (Fall 2025)](https://jobright.ai/jobs/info/68a705fbd627244576e294c4?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Aug 21 |
+| **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-Military Science-Assistant](https://jobright.ai/jobs/info/68a705f533dd7158bbca41b9?utm_campaign=1057&utm_source=git)** | Huntsville, TX | On Site | Aug 21 |
+| **[Year Up United](http://yearup.org)** | **[Banking Job Training Program](https://jobright.ai/jobs/info/68a6f26933dd7158bbca3baf?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Aug 21 |
+| **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Skillbridge Program Internship for Service Members](https://jobright.ai/jobs/info/688a7742aab47a17f6709099?utm_campaign=1057&utm_source=git)** | Alexandria, VA | On Site | Aug 21 |
 | **[Year Up United](http://yearup.org)** | **[Data Management Job Training Opportunity](https://jobright.ai/jobs/info/68a6e556758f2e4ac3fe870c?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Aug 21 |
 | **[Florida Memorial University](http://www.fmuniv.edu)** | **[EDUCATION COORDINATOR INTERN](https://jobright.ai/jobs/info/68a6dc32758f2e4ac3fe8685?utm_campaign=1057&utm_source=git)** | Opa-Locka, FL | Hybrid | Aug 21 |
 | ↳ | **[HIGHER EDUCATION LEADERSHIP INTERN](https://jobright.ai/jobs/info/68a6dc1a758f2e4ac3fe8681?utm_campaign=1057&utm_source=git)** | Opa-Locka, FL | On Site | Aug 21 |
@@ -100,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[Virginia's Community College System](https://www.vccs.edu/)** | **[Adjunct Faculty - Student Development](https://jobright.ai/jobs/info/68a6c0c5b6a3617d7fa79fd9?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Aug 20 |
 | **[ADC Wastewater Engineering](adcwastewater.com)** | **[College Intern](https://jobright.ai/jobs/info/68a6c13a33dd7158bbca2832?utm_campaign=1057&utm_source=git)** | Mesa, AZ | On Site | Aug 20 |
 | **[UPMC](https://www.upmc.com/)** | **[Summer Associate - Information Technology Internship](https://jobright.ai/jobs/info/68a6579333dd7158bbc9f7e4?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Aug 20 |
-| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Clinical Sciences and Study Management Intern](https://jobright.ai/jobs/info/68a64def33dd7158bbc9f478?utm_campaign=1057&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Aug 20 |
-| ↳ | **[2026 Future Talent Program - Clinical Sciences and Study Management Intern](https://jobright.ai/jobs/info/68a64def758f2e4ac3fe4202?utm_campaign=1057&utm_source=git)** | USA - Pennsylvania - North Wales (Upper Gwynedd) | Hybrid | Aug 20 |
+| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Clinical Sciences and Study Management Intern](https://jobright.ai/jobs/info/68a64def758f2e4ac3fe4202?utm_campaign=1057&utm_source=git)** | USA - Pennsylvania - North Wales (Upper Gwynedd) | Hybrid | Aug 20 |
+| ↳ | **[2026 Future Talent Program - Clinical Sciences and Study Management Intern](https://jobright.ai/jobs/info/68a64def33dd7158bbc9f478?utm_campaign=1057&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Aug 20 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Student Assistant (Peer Mentor Tamim)](https://jobright.ai/jobs/info/68a68eb2b6a3617d7fa78201?utm_campaign=1057&utm_source=git)** | Athens, GA | On Site | Aug 20 |
 | **[Central Bedfordshire College](http://www.centralbeds.ac.uk)** | **[Support Internship Job Coach](https://jobright.ai/jobs/info/68a64ac6758f2e4ac3fe40fd?utm_campaign=1057&utm_source=git)** | Bedford, IN | On Site | Aug 20 |
 | **[GenAIx](https://genaix.org)** | **[AI Course Creator Intern (Unpaid, Equity opportunity )](https://jobright.ai/jobs/info/68a649f3758f2e4ac3fe4041?utm_campaign=1057&utm_source=git)** | United States | Remote | Aug 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[CEAE Undergraduate Teaching Lab Assistant](https://jobright.ai/jobs/info/68a57a9933dd7158bbc9aca4?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 20 |
 | **[Tennessee Board of Regents (TBR)](https://www.tbr.edu/)** | **[Information Technology Instructor](https://jobright.ai/jobs/info/68a6afe5758f2e4ac3fe6dcc?utm_campaign=1057&utm_source=git)** | Smyrna, TN | On Site | Aug 19 |
 | **[West Chester Area School District](https://www.wcasd.net)** | **[** Internal Only** Homebound, 504 or Instruction in the Home Tutoring - 2025/2026](https://jobright.ai/jobs/info/68a6c32533dd7158bbca2a60?utm_campaign=1057&utm_source=git)** | Exton, PA | On Site | Aug 19 |
-| **[The Ohio State University](http://www.osu.edu/)** | **[Student Research Assistant](https://jobright.ai/jobs/info/68a0180b83d13d1f5b6cd68a?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Aug 19 |
-| **[Northwest Mississippi Community College](http://www.northwestms.edu/)** | **[Student Athlete Tutor](https://jobright.ai/jobs/info/68a6b882b6a3617d7fa79d0a?utm_campaign=1057&utm_source=git)** | Senatobia, MS | On Site | Aug 19 |
-| **[Center for California Studies](http://www.csus.edu/calst/)** | **[Assistant Program Coordinator, Black Honors College (Multiple Trainee-Level Positions)](https://jobright.ai/jobs/info/68a6b2a333dd7158bbca206e?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Aug 19 |
-| **[Sweet Briar College](http://www.sbc.edu/)** | **[AR&D Student Assistant](https://jobright.ai/jobs/info/68a6ac1033dd7158bbca1c2b?utm_campaign=1057&utm_source=git)** | Sweet Briar, VA | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
