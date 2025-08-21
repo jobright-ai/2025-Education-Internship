@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Year Up United](http://yearup.org)** | **[Data Management Job Training Opportunity](https://jobright.ai/jobs/info/68a6e556758f2e4ac3fe870c?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Aug 21 |
+| **[Florida Memorial University](http://www.fmuniv.edu)** | **[EDUCATION COORDINATOR INTERN](https://jobright.ai/jobs/info/68a6dc32758f2e4ac3fe8685?utm_campaign=1057&utm_source=git)** | Opa-Locka, FL | Hybrid | Aug 21 |
+| ↳ | **[HIGHER EDUCATION LEADERSHIP INTERN](https://jobright.ai/jobs/info/68a6dc1a758f2e4ac3fe8681?utm_campaign=1057&utm_source=git)** | Opa-Locka, FL | On Site | Aug 21 |
+| **[Hays County](http://hayscountytx.com)** | **[Undergraduate Health Department Intern](https://jobright.ai/jobs/info/68a6cf6b758f2e4ac3fe83f9?utm_campaign=1057&utm_source=git)** | San Marcos, TX | On Site | Aug 21 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Succeed in School Intern](https://jobright.ai/jobs/info/68a6ca8eb6a3617d7fa7ab61?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | Aug 21 |
 | **[Worthington Enterprises](https://www.worthingtonenterprises.com/)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/68a6c32e33dd7158bbca2a6b?utm_campaign=1057&utm_source=git)** | Westerville, OH | On Site | Aug 20 |
+| **[Auburn University](https://www.auburn.edu/)** | **[Graduate Student Assistant - DataSpace - Innovation and Research Commons](https://jobright.ai/jobs/info/689fd108faa4e875e828b53e?utm_campaign=1057&utm_source=git)** | Auburn, AL | On Site | Aug 20 |
 | **[Fifth Third Bank](http://53.com)** | **[Risk Internship Program - Summer 2026](https://jobright.ai/jobs/info/68a6bc3b33dd7158bbca25dc?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Aug 20 |
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/68a6b45b758f2e4ac3fe7000?utm_campaign=1057&utm_source=git)** | Friendswood, TX | On Site | Aug 20 |
 | **[Portland State University, College of Urban and Public Affairs](https://www.pdx.edu/urban-public-affairs/)** | **[Student Information Systems Analyst](https://jobright.ai/jobs/info/68a6a837758f2e4ac3fe671a?utm_campaign=1057&utm_source=git)** | Portland, OR | On Site | Aug 20 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Northwest Mississippi Community College](http://www.northwestms.edu/)** | **[Student Athlete Tutor](https://jobright.ai/jobs/info/68a6b882b6a3617d7fa79d0a?utm_campaign=1057&utm_source=git)** | Senatobia, MS | On Site | Aug 19 |
 | **[Center for California Studies](http://www.csus.edu/calst/)** | **[Assistant Program Coordinator, Black Honors College (Multiple Trainee-Level Positions)](https://jobright.ai/jobs/info/68a6b2a333dd7158bbca206e?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Aug 19 |
 | **[Sweet Briar College](http://www.sbc.edu/)** | **[AR&D Student Assistant](https://jobright.ai/jobs/info/68a6ac1033dd7158bbca1c2b?utm_campaign=1057&utm_source=git)** | Sweet Briar, VA | On Site | Aug 19 |
-| **[HealthFitness](http://www.healthfitness.com)** | **[Fall/Winter Fitness Intern (Los Angeles, CA)](https://jobright.ai/jobs/info/689fe08afaa4e875e828bbd5?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Aug 19 |
-| **[Centinela Valley Union High School District](https://centinela.k12.ca.us)** | **[INTERNAL ONLY: AVID Leadership (LW)](https://jobright.ai/jobs/info/68a68bdb33dd7158bbca07fd?utm_campaign=1057&utm_source=git)** | Lawndale, CA | On Site | Aug 19 |
-| ↳ | **[INTERNAL ONLY: AVID Leadership (LZ)](https://jobright.ai/jobs/info/68a68e8633dd7158bbca0ab0?utm_campaign=1057&utm_source=git)** | Lawndale, CA | On Site | Aug 19 |
-| ↳ | **[INTERNAL ONLY: AVID Leadership (HW)](https://jobright.ai/jobs/info/68a68d3db6a3617d7fa7806b?utm_campaign=1057&utm_source=git)** | Hawthorne, CA | On Site | Aug 19 |
-| **[Dallas College](https://www.dcccd.edu)** | **[Administrative Support-Student Assistant-El Centro Fitness Center-4](https://jobright.ai/jobs/info/68a5268d758f2e4ac3fdc531?utm_campaign=1057&utm_source=git)** | El Centro Campus | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
