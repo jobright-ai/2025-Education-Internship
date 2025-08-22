@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ASM Global](https://asmglobal.com/)** | **[Intern](https://jobright.ai/jobs/info/68a82319d627244576e31a4a?utm_campaign=1057&utm_source=git)** | Honolulu, HI | On Site | Aug 22 |
+| **[Year Up United](http://yearup.org)** | **[Banking Job Training Program](https://jobright.ai/jobs/info/68a82292758f2e4ac3ff162d?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Aug 22 |
 | **[Merchants Capital](https://www.merchantscapital.com/)** | **[Originations Intern - Summer 2026](https://jobright.ai/jobs/info/68a7fb33758f2e4ac3fefa8d?utm_campaign=1057&utm_source=git)** | Bloomington, MN | On Site | Aug 21 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Content Management Intern](https://jobright.ai/jobs/info/68a7ef1b33dd7158bbcaa66d?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 21 |
 | **[Republic Airways](http://www.rjet.com)** | **[LIFT Student Advising Intern - Spring 2026](https://jobright.ai/jobs/info/68a7ebd7758f2e4ac3fef3d1?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Aug 21 |
@@ -139,7 +141,7 @@ For a complete list, click the following sortable link below:
 | **[Oregon Health & Science University](http://www.ohsu.edu/)** | **[Work Study Student Worker: Financial Aid/Registrar Office](https://jobright.ai/jobs/info/68a7537ad627244576e2b6ff?utm_campaign=1057&utm_source=git)** | Portland, OR | On Site | Aug 21 |
 | **[University of Michigan](https://www.umich.edu)** | **[Intercultural Programming Intern (Work Study Only)](https://jobright.ai/jobs/info/68a75241d627244576e2b59d?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Aug 21 |
 | **[State of Ohio](http://ohio.gov/)** | **[Farm to School College Intern](https://jobright.ai/jobs/info/68a750ea33dd7158bbca6178?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Aug 21 |
-| ↳ | **[Farm to School College Intern](https://jobright.ai/jobs/info/68a74f61758f2e4ac3feae8f?utm_campaign=1057&utm_source=git)** | 25 South Front Street25 S. Front St. | On Site | Aug 21 |
+| ↳ | **[Farm to School College Intern](https://jobright.ai/jobs/info/68a74bd7d627244576e2b160?utm_campaign=1057&utm_source=git)** | 25 South Front Street25 S. Front St. | On Site | Aug 21 |
 | ↳ | **[Farm to School College Intern](https://jobright.ai/jobs/info/68a74b9b758f2e4ac3fead27?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Aug 21 |
 | **[Seattle University](https://www.seattleu.edu/)** | **[Adjunct, Political Science Comparative/International](https://jobright.ai/jobs/info/68a741d9d627244576e2abcd?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Aug 21 |
 | **[Future Tech Enterprise, Inc.](http://www.ftei.com/)** | **[Training Coordinator – Internship / Temp Job](https://jobright.ai/jobs/info/68a73e5dd627244576e2aae7?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Aug 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Year Up United](http://yearup.org)** | **[Banking Job Training Program](https://jobright.ai/jobs/info/68a6f26933dd7158bbca3baf?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Aug 21 |
 | **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Skillbridge Program Internship for Service Members](https://jobright.ai/jobs/info/688a7742aab47a17f6709099?utm_campaign=1057&utm_source=git)** | Alexandria, VA | On Site | Aug 21 |
 | **[Children's National Hospital](http://childrensnational.org)** | **[Postdoctoral Fellow Psych](https://jobright.ai/jobs/info/67fe10bbc6a7f1fb4f4cbb03?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Aug 21 |
-| **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-Smith-Hutson Scholars (Work-Study)](https://jobright.ai/jobs/info/68a80541d627244576e30291?utm_campaign=1057&utm_source=git)** | Huntsville, TX | On Site | Aug 21 |
-| **[Florida Memorial University](http://www.fmuniv.edu)** | **[EDUCATION COORDINATOR INTERN](https://jobright.ai/jobs/info/68a6dc32758f2e4ac3fe8685?utm_campaign=1057&utm_source=git)** | Opa-Locka, FL | Hybrid | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
