@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Registered Intern Therapists RMHCI & RCSWI Wanted](https://jobright.ai/jobs/info/68a9c42bd627244576e3b8e5?utm_campaign=1057&utm_source=git)** | Lake Worth, FL | On Site | Aug 23 |
+| **[Opportunities for a Better Tomorrow](https://obtjobs.org/)** | **[GED  Paid Internship Program](https://jobright.ai/jobs/info/68a9e34a6acf96396f729373?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Aug 23 |
+| **[Cornerstone Advocacy Service](http://www.cornerstonemn.org)** | **[Clinical Intern (Masters-Level)](https://jobright.ai/jobs/info/68a9df99758f2e4ac3ffba64?utm_campaign=1057&utm_source=git)** | Bloomington, MN | On Site | Aug 23 |
 | **[Stephens College](http://www.stephens.edu/)** | **[Admissions Office Coordinator - Federal Work Study ONLY](https://jobright.ai/jobs/info/68a9b458d627244576e3b421?utm_campaign=1057&utm_source=git)** | Columbia, MO | On Site | Aug 23 |
-| ↳ | **[Financial Aid Assistant - Federal Work Study ONLY](https://jobright.ai/jobs/info/68a9abfbd627244576e3b33b?utm_campaign=1057&utm_source=git)** | Columbia, MO | On Site | Aug 23 |
+| **[Compass Health Center](https://compasshealthcenter.net)** | **[Group Therapist Intern](https://jobright.ai/jobs/info/68524aadc350e152d1e0bc12?utm_campaign=1057&utm_source=git)** | Silver Spring, MD | On Site | Aug 23 |
+| **[Stephens College](http://www.stephens.edu/)** | **[Financial Aid Assistant - Federal Work Study ONLY](https://jobright.ai/jobs/info/68a9abfbd627244576e3b33b?utm_campaign=1057&utm_source=git)** | Columbia, MO | On Site | Aug 23 |
 | ↳ | **[Laboratory Assistant - Federal Work Study ONLY](https://jobright.ai/jobs/info/68a9a53b6acf96396f72885f?utm_campaign=1057&utm_source=git)** | Columbia, MO | On Site | Aug 23 |
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Access Control Student Worker-4](https://jobright.ai/jobs/info/68a9974c758f2e4ac3ffaec1?utm_campaign=1057&utm_source=git)** | Lynchburg, VA | On Site | Aug 23 |
 | **[Rutgers University](http://www.rutgers.edu)** | **[Student Assistant (CANSAH-BC project)](https://jobright.ai/jobs/info/68a99715d627244576e3b1e5?utm_campaign=1057&utm_source=git)** | Piscataway, NJ | On Site | Aug 23 |
@@ -109,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[University of Michigan](https://www.umich.edu)** | **[Asst. in Research (UROP) - FALL 2025 (STUDENT/WORKSTUDY)](https://jobright.ai/jobs/info/68a60794b6a3617d7fa74ae8?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Aug 22 |
 | **[Cumberland University](http://www.cumberland.edu/)** | **[Graduate Assistant, Stem Programs](https://jobright.ai/jobs/info/68a8dd2a6acf96396f723665?utm_campaign=1057&utm_source=git)** | Lebanon, TN | On Site | Aug 22 |
 | **[CSU Careers](https://www.linkedin.com/company/81884531)** | **[Assistant Program Coordinator, Black Honors College (Multiple Trainee-Level Positions)](https://jobright.ai/jobs/info/68a8da18d627244576e360a0?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Aug 22 |
-| **[Casa Central](https://www.casacentral.org)** | **[Intern (General)](https://jobright.ai/jobs/info/68a8d9d4d627244576e36054?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Aug 22 |
 | **[Schaumburg Township District Library](https://www.schaumburglibrary.org/)** | **[Teen Tech Mentor](https://jobright.ai/jobs/info/68a8d8a9758f2e4ac3ff5d66?utm_campaign=1057&utm_source=git)** | Schaumburg, IL | On Site | Aug 22 |
 | **[American University](http://american.edu)** | **[Research and Teaching Assistant (Student)](https://jobright.ai/jobs/info/68a8d574758f2e4ac3ff5afa?utm_campaign=1057&utm_source=git)** | Main Campus (Washington, DC) | On Site | Aug 22 |
 | ↳ | **[Research and Teaching Assistant (Student)](https://jobright.ai/jobs/info/68a8d54a758f2e4ac3ff5ad7?utm_campaign=1057&utm_source=git)** | Main Campus (Washington, DC) | On Site | Aug 22 |
@@ -127,6 +128,7 @@ For a complete list, click the following sortable link below:
 | **[State of Michigan](http://www.michigan.gov)** | **[Student Assistant (Green Oaks Student)](https://jobright.ai/jobs/info/68a8c444758f2e4ac3ff516e?utm_campaign=1057&utm_source=git)** | Whitmore Lake, MI | On Site | Aug 22 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - Chicago (48514)](https://jobright.ai/jobs/info/68a8c0bbd627244576e35466?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Aug 22 |
 | ↳ | **[Future Leaders Program Summer 2026 - Florham Park (48516)](https://jobright.ai/jobs/info/68a8c080d627244576e35439?utm_campaign=1057&utm_source=git)** | Florham Park, NJ | On Site | Aug 22 |
+| **[Sierra Club](http://sierraclub.org)** | **[Florida Green Schools Intern](https://jobright.ai/jobs/info/68a8bf6ad627244576e3534b?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Aug 22 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Records and Registration Clerical - Student Employment](https://jobright.ai/jobs/info/68a8bf0e758f2e4ac3ff4e58?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Aug 22 |
 | **[Association of Schools and Programs of Public Health (ASPPH)](http://www.aspph.org/)** | **[IDEA Institue Undergraduate Intern](https://jobright.ai/jobs/info/68a8be40758f2e4ac3ff4c3b?utm_campaign=1057&utm_source=git)** | Washington,  DC | Hybrid | Aug 22 |
 | **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting (Tenure Track)](https://jobright.ai/jobs/info/68a8b905d627244576e34c7f?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Aug 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Student Analyst Opportunity: 1700+ Hours Completed Required – Join Our Team!](https://jobright.ai/jobs/info/678cc4eccd1a68208b130201?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Aug 22 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Military DoD SkillBridge Internship - Multiple Positions Q3 - 2025](https://jobright.ai/jobs/info/67a9389b71b7c751bb08ded0?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | Remote | Aug 22 |
 | **[City Colleges of Chicago](http://www.ccc.edu/Pages/default.aspx)** | **[Harold Washington College Federal Work Study Student- Office Assistant](https://jobright.ai/jobs/info/68a8a22b758f2e4ac3ff3e5f?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Aug 22 |
-| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Towson) Fall 2025 Nursing Senior Practicum](https://jobright.ai/jobs/info/6853053b586d1b8ea70244cd?utm_campaign=1057&utm_source=git)** | Towson, MD | On Site | Aug 22 |
-| **[Jobs via Tuilink](www.tuilink.io)** | **[Quantitative Masters Internship](https://jobright.ai/jobs/info/68a96eb46acf96396f7273bf?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
