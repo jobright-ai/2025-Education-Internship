@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Massachusetts College of Liberal Arts](http://www.mcla.edu/)** | **[Office Assistant - Registrar (Work Study) - Massachusetts College of Liberal Arts](https://jobright.ai/jobs/info/68aae909758f2e4ac3ffeb74?utm_campaign=1057&utm_source=git)** | North Adams, MA | On Site | Aug 24 |
 | **[State of South Carolina](https://sc.gov/)** | **[Project Advisor/Transfer Coordinator (Student Services Program Coordinator II) # 2580](https://jobright.ai/jobs/info/68aac505d627244576e3ed12?utm_campaign=1057&utm_source=git)** | Charleston County, SC | On Site | Aug 24 |
 | **[Prince William County Public Schools](https://marstellerms.pwcs.edu)** | **[ELEMENTARY SCHOOL ADMINISTRATIVE INTERN - 200 DAY](https://jobright.ai/jobs/info/68aabea3daf1431824c8e136?utm_campaign=1057&utm_source=git)** | Manassas, VA | On Site | Aug 24 |
 | **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting (Tenure Track)](https://jobright.ai/jobs/info/68aaae7cdaf1431824c8d716?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Aug 23 |
@@ -81,11 +82,13 @@ For a complete list, click the following sortable link below:
 | **[Middlesex Community College](http://www.middlesex.mass.edu)** | **[Student Scribe - Middlesex Community College](https://jobright.ai/jobs/info/68a993326acf96396f7286d8?utm_campaign=1057&utm_source=git)** | Lowell, MA | On Site | Aug 23 |
 | **[Alcorn State University](http://www.alcorn.edu/)** | **[Student Intern](https://jobright.ai/jobs/info/68a989eed627244576e3afea?utm_campaign=1057&utm_source=git)** | Lorman, MS | On Site | Aug 23 |
 | **[Georgia Gwinnett College](http://www.ggc.edu)** | **[Student Assistant - Student Success](https://jobright.ai/jobs/info/68a989ba758f2e4ac3ffac8b?utm_campaign=1057&utm_source=git)** | Lawrenceville, GA | On Site | Aug 23 |
+| **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/688bf9db1808534a89cb78c7?utm_campaign=1057&utm_source=git)** | Madison Heights, MI | On Site | Aug 23 |
 | **[City of Lakeland](http://www.lakelandgov.net/)** | **[College Intern - Airport](https://jobright.ai/jobs/info/68a984b96acf96396f728447?utm_campaign=1057&utm_source=git)** | Lakeland, FL | On Site | Aug 23 |
 | **[Clackamas Community College](http://www.clackamas.edu/)** | **[Smart Reader - [Federal Work Study]](https://jobright.ai/jobs/info/68a984056acf96396f7283cd?utm_campaign=1057&utm_source=git)** | Oregon City, OR | On Site | Aug 23 |
 | **[Worcester State University](http://www.worcester.edu)** | **[Clerical Assistant (Work Study) 2 Positions - Worcester State University](https://jobright.ai/jobs/info/68a983f5758f2e4ac3ffab57?utm_campaign=1057&utm_source=git)** | Worcester, MA | On Site | Aug 23 |
 | **[Georgia Gwinnett College](http://www.ggc.edu)** | **[Federal Work Study - International Student Services](https://jobright.ai/jobs/info/68a97f306acf96396f728259?utm_campaign=1057&utm_source=git)** | Lawrenceville, GA | On Site | Aug 23 |
 | **[Pacific University](http://www.pacificu.edu/)** | **[FWS - Inventory & Collections Specialist - Forest Grove City Library (CSWS)](https://jobright.ai/jobs/info/68a97ad96acf96396f728070?utm_campaign=1057&utm_source=git)** | Forest Grove, OR | On Site | Aug 23 |
+| **[Auburn University](https://www.auburn.edu/)** | **[RFID Lab Student Worker:Communications & Marketing](https://jobright.ai/jobs/info/68a66b1533dd7158bbc9fe11?utm_campaign=1057&utm_source=git)** | Auburn, AL | On Site | Aug 23 |
 | **[CW PSYCHOLOGICAL SERVICES](https://cwpsychologicalservices.com/)** | **[PA Doctoral Level Psychology](https://jobright.ai/jobs/info/68a34c7e403ad4363b1bfecd?utm_campaign=1057&utm_source=git)** | King of Prussia, PA | On Site | Aug 23 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Library Collection Development Student Curator](https://jobright.ai/jobs/info/68a96ff36acf96396f72788e?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 23 |
 | **[ABB](https://global.abb/group/en)** | **[Internship PM Excellence](https://jobright.ai/jobs/info/688dca53e5cead4afd45ace2?utm_campaign=1057&utm_source=git)** | Location, WV | Hybrid | Aug 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/68a8a4f5d627244576e34439?utm_campaign=1057&utm_source=git)** | Milford, OH | On Site | Aug 22 |
 | **[American Bureau of Shipping (ABS)](http://ww2.eagle.org)** | **[Digital Intern (Summer 2026)](https://jobright.ai/jobs/info/68a8a0b76acf96396f721567?utm_campaign=1057&utm_source=git)** | 1701 City Plaza Drive, Spring, TX, 77389, US | On Site | Aug 22 |
 | **[Drexel University's Westphal College of Media Arts & Design](https://drexel.edu/westphal)** | **[Research Associate I](https://jobright.ai/jobs/info/68a89776758f2e4ac3ff3852?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Aug 22 |
-| **[Morningstar Sustainalytics](http://www.sustainalytics.com)** | **[Morningstar Business Summer Internship Program (Campus)](https://jobright.ai/jobs/info/68a88e8d6acf96396f720ba8?utm_campaign=1057&utm_source=git)** | Chicago | Hybrid | Aug 22 |
-| **[Mercer Engineering Research Center](https://www.merc-mercer.org/)** | **[Graduate Research Assistant for Program Coordination and Program Evaluation](https://jobright.ai/jobs/info/68a88e85758f2e4ac3ff34ce?utm_campaign=1057&utm_source=git)** | Atlanta Campus | On Site | Aug 22 |
-| **[Cadence Education](http://www.cadence-education.com/)** | **[Infant Intern](https://jobright.ai/jobs/info/68a88b516acf96396f720ae6?utm_campaign=1057&utm_source=git)** | Smyrna, DE | On Site | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
