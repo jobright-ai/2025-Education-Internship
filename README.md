@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[OTC Middle College Student Internship](https://jobright.ai/jobs/info/68aa70c26acf96396f72a1ce?utm_campaign=1057&utm_source=git)** | Springfield, MO | On Site | Aug 23 |
 | **[Carolina Waterfowl Rescue](http://cwrescue.org)** | **[Volunteer: Wildlife Rehab Volunteer Intern](https://jobright.ai/jobs/info/68aa6bbbd627244576e3cc20?utm_campaign=1057&utm_source=git)** | Indian Trail, NC | On Site | Aug 23 |
 | **[TIH](https://www.truistinsurance.com/)** | **[2026 Credit Summer Internship](https://jobright.ai/jobs/info/68aa3729d627244576e3c6f3?utm_campaign=1057&utm_source=git)** | Charlotte, NC | Hybrid | Aug 23 |
 | **[Opportunities for a Better Tomorrow](https://obtjobs.org/)** | **[GED  Paid Internship Program](https://jobright.ai/jobs/info/68a9e34a6acf96396f729373?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Aug 23 |
@@ -70,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Compass Health Center](https://compasshealthcenter.net)** | **[Group Therapist Intern](https://jobright.ai/jobs/info/68524aadc350e152d1e0bc12?utm_campaign=1057&utm_source=git)** | Silver Spring, MD | On Site | Aug 23 |
 | **[Stephens College](http://www.stephens.edu/)** | **[Financial Aid Assistant - Federal Work Study ONLY](https://jobright.ai/jobs/info/68a9abfbd627244576e3b33b?utm_campaign=1057&utm_source=git)** | Columbia, MO | On Site | Aug 23 |
 | ↳ | **[Laboratory Assistant - Federal Work Study ONLY](https://jobright.ai/jobs/info/68a9a53b6acf96396f72885f?utm_campaign=1057&utm_source=git)** | Columbia, MO | On Site | Aug 23 |
+| **[Danaher Life Sciences](https://lifesciences.danaher.com)** | **[Instructional Design Intern - Miami, FL](https://jobright.ai/jobs/info/68aa840c758f2e4ac3ffce1e?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Aug 23 |
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Access Control Student Worker-4](https://jobright.ai/jobs/info/68a9974c758f2e4ac3ffaec1?utm_campaign=1057&utm_source=git)** | Lynchburg, VA | On Site | Aug 23 |
 | **[Rutgers University](http://www.rutgers.edu)** | **[Student Assistant (CANSAH-BC project)](https://jobright.ai/jobs/info/68a99715d627244576e3b1e5?utm_campaign=1057&utm_source=git)** | Piscataway, NJ | On Site | Aug 23 |
 | **[City of Oceanside](https://www.ci.oceanside.ca.us/)** | **[Volunteers and Unpaid Interns](https://jobright.ai/jobs/info/68a99698d627244576e3b191?utm_campaign=1057&utm_source=git)** | Oceanside, CA | On Site | Aug 23 |
@@ -134,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[State of Michigan](http://www.michigan.gov)** | **[Student Assistant (Green Oaks Student)](https://jobright.ai/jobs/info/68a8c444758f2e4ac3ff516e?utm_campaign=1057&utm_source=git)** | Whitmore Lake, MI | On Site | Aug 22 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - Chicago (48514)](https://jobright.ai/jobs/info/68a8c0bbd627244576e35466?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Aug 22 |
 | ↳ | **[Future Leaders Program Summer 2026 - Florham Park (48516)](https://jobright.ai/jobs/info/68a8c080d627244576e35439?utm_campaign=1057&utm_source=git)** | Florham Park, NJ | On Site | Aug 22 |
-| **[Sierra Club](http://sierraclub.org)** | **[Florida Green Schools Intern](https://jobright.ai/jobs/info/68a8bf6ad627244576e3534b?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Aug 22 |
 | **[Association of Schools and Programs of Public Health (ASPPH)](http://www.aspph.org/)** | **[IDEA Institue Undergraduate Intern](https://jobright.ai/jobs/info/68a8be40758f2e4ac3ff4c3b?utm_campaign=1057&utm_source=git)** | Washington,  DC | Hybrid | Aug 22 |
 | **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting (Tenure Track)](https://jobright.ai/jobs/info/68a8b905d627244576e34c7f?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Aug 22 |
 | **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2025 Fall Education Programs Intern (onsite)](https://jobright.ai/jobs/info/68a8b514d627244576e34bd1?utm_campaign=1057&utm_source=git)** | Little Rock, Arkansas | On Site | Aug 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Indiana](https://www.in.gov)** | **[Outreach Intern](https://jobright.ai/jobs/info/68a943666acf96396f725dcf?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Aug 22 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[High School Service Intern](https://jobright.ai/jobs/info/6851d448be3736a6ba53a669?utm_campaign=1057&utm_source=git)** | Pflugerville, TX | On Site | Aug 22 |
 | **[Mind.Body.1.](www.themb1.com)** | **[Performance and Development Coach (Graduate-Level)](https://jobright.ai/jobs/info/68a88b5d6acf96396f720af2?utm_campaign=1057&utm_source=git)** | Tallahassee, FL | On Site | Aug 22 |
-| **[Calcasieu Parish Police Jury](http://www.calcasieu.gov)** | **[PROFESSIONAL INTERN](https://jobright.ai/jobs/info/68a8666ad627244576e32737?utm_campaign=1057&utm_source=git)** | Lake Charles, LA | On Site | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
