@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of La Verne](http://laverne.edu)** | **[Ontario City Library - Makerspace or Computer Assistant (25/26) - FWS Only](https://jobright.ai/jobs/info/68ab6c9c758f2e4ac3fff6e6?utm_campaign=1057&utm_source=git)** | La Verne, CA | On Site | Aug 24 |
+| **[CSU Careers](https://www.linkedin.com/company/81884531)** | **[Orientation - Student Assistant](https://jobright.ai/jobs/info/68ab6c7a758f2e4ac3fff6da?utm_campaign=1057&utm_source=git)** | San Bernardino, CA | Hybrid | Aug 24 |
+| **[The Heritage Community](https://www.heritagertc.org)** | **[THERAPY INTERNSHIP / Spark Academy](https://jobright.ai/jobs/info/68ab6c53d627244576e3f9c2?utm_campaign=1057&utm_source=git)** | Provo, UT | On Site | Aug 24 |
 | **[Year Up United](http://yearup.org)** | **[Project Management Job Training Program](https://jobright.ai/jobs/info/68ab45a9d627244576e3f712?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Aug 24 |
 | **[SmartMove Solutions](https://www.linkedin.com/company/103764286)** | **[Trading Bootcamp Intern](https://jobright.ai/jobs/info/68ab4250d627244576e3f6a7?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Aug 24 |
-| **[State of North Carolina](http://www.nc.gov)** | **[High School Intern Program](https://jobright.ai/jobs/info/68ab390d758f2e4ac3fff2e9?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Aug 24 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Director of International Student Services](https://jobright.ai/jobs/info/68ab1f8bdaf1431824c8e8c1?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Aug 24 |
 | ↳ | **[Student Services Intern](https://jobright.ai/jobs/info/68ab1f61daf1431824c8e8b5?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Aug 24 |
 | ↳ | **[International Baccalaureate Primary Youth Program Facilitator](https://jobright.ai/jobs/info/68ab1f50d627244576e3f435?utm_campaign=1057&utm_source=git)** | Lawrence, KS | On Site | Aug 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Michigan](http://www.michigan.gov)** | **[Student Assistant (Green Oaks Student)](https://jobright.ai/jobs/info/68a8c444758f2e4ac3ff516e?utm_campaign=1057&utm_source=git)** | Whitmore Lake, MI | On Site | Aug 22 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - Chicago (48514)](https://jobright.ai/jobs/info/68a8c0bbd627244576e35466?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Aug 22 |
 | ↳ | **[Future Leaders Program Summer 2026 - Florham Park (48516)](https://jobright.ai/jobs/info/68a8c080d627244576e35439?utm_campaign=1057&utm_source=git)** | Florham Park, NJ | On Site | Aug 22 |
-| **[Association of Schools and Programs of Public Health (ASPPH)](http://www.aspph.org/)** | **[IDEA Institue Undergraduate Intern](https://jobright.ai/jobs/info/68a8be40758f2e4ac3ff4c3b?utm_campaign=1057&utm_source=git)** | Washington,  DC | Hybrid | Aug 22 |
-| **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting (Tenure Track)](https://jobright.ai/jobs/info/68a8b905d627244576e34c7f?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
