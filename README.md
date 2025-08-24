@@ -133,6 +133,7 @@ For a complete list, click the following sortable link below:
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - Woodland Hills (48519)](https://jobright.ai/jobs/info/68a8c6d3758f2e4ac3ff539d?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Aug 22 |
 | ↳ | **[Future Leaders Program Summer 2026 - Philadelphia (48518)](https://jobright.ai/jobs/info/68a8c65f6acf96396f722aa7?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Aug 22 |
 | ↳ | **[Future Leaders Program Summer 2026 - New York City (48517)](https://jobright.ai/jobs/info/68a8c62f758f2e4ac3ff5315?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Aug 22 |
+| **[North Carolina State University](http://www.ncsu.edu/)** | **[UTS - Undergraduate Admissions International Reader/Processor at NC State](https://jobright.ai/jobs/info/68a8c49f758f2e4ac3ff51c0?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Aug 22 |
 | **[State of Michigan](http://www.michigan.gov)** | **[Student Assistant (Green Oaks Student)](https://jobright.ai/jobs/info/68a8c444758f2e4ac3ff516e?utm_campaign=1057&utm_source=git)** | Whitmore Lake, MI | On Site | Aug 22 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - Chicago (48514)](https://jobright.ai/jobs/info/68a8c0bbd627244576e35466?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Aug 22 |
 | ↳ | **[Future Leaders Program Summer 2026 - Florham Park (48516)](https://jobright.ai/jobs/info/68a8c080d627244576e35439?utm_campaign=1057&utm_source=git)** | Florham Park, NJ | On Site | Aug 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[International Student Assistant](https://jobright.ai/jobs/info/68a87fbcd627244576e331d8?utm_campaign=1057&utm_source=git)** | UT MAIN CAMPUS | On Site | Aug 22 |
 | **[State of Indiana](https://www.in.gov)** | **[Outreach Intern](https://jobright.ai/jobs/info/68a943666acf96396f725dcf?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Aug 22 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[High School Service Intern](https://jobright.ai/jobs/info/6851d448be3736a6ba53a669?utm_campaign=1057&utm_source=git)** | Pflugerville, TX | On Site | Aug 22 |
-| **[Mind.Body.1.](www.themb1.com)** | **[Performance and Development Coach (Graduate-Level)](https://jobright.ai/jobs/info/68a88b5d6acf96396f720af2?utm_campaign=1057&utm_source=git)** | Tallahassee, FL | On Site | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
