@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Williams](https://www.williams.com)** | **[Summer 2026 Internship - Oklahoma State University](https://jobright.ai/jobs/info/68ac4abf758f2e4ac3004d0d?utm_campaign=1057&utm_source=git)** | Tulsa, OK | Hybrid | Aug 25 |
+| **[Zalando](https://jobs.zalando.com/)** | **[Working Student AOS](https://jobright.ai/jobs/info/68ac6a6ddaf1431824c94feb?utm_campaign=1057&utm_source=git)** | Remote Work | Remote | Aug 25 |
+| **[Williams](https://www.williams.com)** | **[Summer 2026 Internship - University of Houston](https://jobright.ai/jobs/info/68ac5b20d627244576e455df?utm_campaign=1057&utm_source=git)** | Tulsa, OK | Hybrid | Aug 25 |
+| ↳ | **[Summer 2026 Internship - University of Pittsburg](https://jobright.ai/jobs/info/68ac5899d627244576e453dc?utm_campaign=1057&utm_source=git)** | Tulsa, OK | Hybrid | Aug 25 |
+| ↳ | **[Summer 2026 Internship - University of Tulsa](https://jobright.ai/jobs/info/68ac54c7758f2e4ac3004fb4?utm_campaign=1057&utm_source=git)** | Tulsa, OK | Hybrid | Aug 25 |
+| ↳ | **[Summer 2026 Internship - Oklahoma State University](https://jobright.ai/jobs/info/68ac4abf758f2e4ac3004d0d?utm_campaign=1057&utm_source=git)** | Tulsa, OK | Hybrid | Aug 25 |
 | ↳ | **[Summer 2026 Internship - University of Oklahoma](https://jobright.ai/jobs/info/68ac45c3758f2e4ac3004bc1?utm_campaign=1057&utm_source=git)** | Tulsa, OK | Hybrid | Aug 25 |
 | ↳ | **[Summer 2026 Internship - Pennsylvania State University](https://jobright.ai/jobs/info/68ac4540758f2e4ac3004b29?utm_campaign=1057&utm_source=git)** | Tulsa, OK | Hybrid | Aug 25 |
 | **[Bridgewater State University](http://www.bridgew.edu/)** | **[AY25-26 Cyber Range Outreach Assistant (Non-work Study)](https://jobright.ai/jobs/info/68ac2d77758f2e4ac3004724?utm_campaign=1057&utm_source=git)** | Bridgewater, MA | On Site | Aug 25 |
@@ -81,10 +85,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Internship - University of Oklahoma](https://jobright.ai/jobs/info/68abf5fbd627244576e43569?utm_campaign=1057&utm_source=git)** | TX Houston - Sequent | Hybrid | Aug 24 |
 | ↳ | **[Summer 2026 Internship - Oklahoma State University](https://jobright.ai/jobs/info/68abf5fa758f2e4ac300320c?utm_campaign=1057&utm_source=git)** | PA Pittsburgh | Hybrid | Aug 24 |
 | ↳ | **[Summer 2026 Internship - Oklahoma State University](https://jobright.ai/jobs/info/68abf5eb758f2e4ac30031fa?utm_campaign=1057&utm_source=git)** | TX Houston - Tower | Hybrid | Aug 24 |
-| ↳ | **[Summer 2026 Internship - Oklahoma State University](https://jobright.ai/jobs/info/68abf5ead627244576e4355c?utm_campaign=1057&utm_source=git)** | UT Salt Lake City - Office | Hybrid | Aug 24 |
 | ↳ | **[Summer 2026 Internship - University of Pittsburg](https://jobright.ai/jobs/info/68abf5ead627244576e4355f?utm_campaign=1057&utm_source=git)** | TX Houston - Tower | Hybrid | Aug 24 |
-| ↳ | **[Summer 2026 Internship - Oklahoma State University](https://jobright.ai/jobs/info/68abf5e9d627244576e43558?utm_campaign=1057&utm_source=git)** | OK Tulsa - Headquarters | Hybrid | Aug 24 |
+| ↳ | **[Summer 2026 Internship - Oklahoma State University](https://jobright.ai/jobs/info/68abf5ead627244576e4355c?utm_campaign=1057&utm_source=git)** | UT Salt Lake City - Office | Hybrid | Aug 24 |
 | ↳ | **[Summer 2026 Internship - University of Oklahoma](https://jobright.ai/jobs/info/68abf5e9758f2e4ac30031f3?utm_campaign=1057&utm_source=git)** | OK Tulsa - Headquarters | Hybrid | Aug 24 |
+| ↳ | **[Summer 2026 Internship - Oklahoma State University](https://jobright.ai/jobs/info/68abf5e9d627244576e43558?utm_campaign=1057&utm_source=git)** | OK Tulsa - Headquarters | Hybrid | Aug 24 |
 | ↳ | **[Summer 2026 Internship - Pennsylvania State University](https://jobright.ai/jobs/info/68abf5df758f2e4ac30031df?utm_campaign=1057&utm_source=git)** | OK Tulsa - Headquarters | Hybrid | Aug 24 |
 | ↳ | **[Summer 2026 Internship - University of Pittsburg](https://jobright.ai/jobs/info/68abf5d9758f2e4ac30031db?utm_campaign=1057&utm_source=git)** | TX Houston - Sequent | Hybrid | Aug 24 |
 | ↳ | **[Summer 2026 Internship - University of Oklahoma](https://jobright.ai/jobs/info/68abf5cf758f2e4ac30031d5?utm_campaign=1057&utm_source=git)** | UT Salt Lake City - Office | Hybrid | Aug 24 |
@@ -98,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Student Advisor](https://jobright.ai/jobs/info/68abc3f1d627244576e400dd?utm_campaign=1057&utm_source=git)** | Auburn, AL | On Site | Aug 24 |
 | **[Omaha Public Schools](https://district.ops.org/)** | **[School Psychologist (Applicant Pool)](https://jobright.ai/jobs/info/68ac29e2d627244576e44a6d?utm_campaign=1057&utm_source=git)** | Omaha, NE | On Site | Aug 24 |
 | **[AVI Foodsystems](http://www.AVIFoodsystems.com)** | **[Student Purchasing Intern, Part-time (Oberlin College) $15/hr.](https://jobright.ai/jobs/info/68abacb3d627244576e3fd15?utm_campaign=1057&utm_source=git)** | Oberlin, OH | On Site | Aug 24 |
-| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/68ab98b4758f2e4ac3fff934?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Aug 24 |
 | **[CSU Careers](https://www.linkedin.com/company/81884531)** | **[Infant/Toddler Lab School - Student Assistant](https://jobright.ai/jobs/info/68ab778dd627244576e3fb13?utm_campaign=1057&utm_source=git)** | San Bernardino, CA | On Site | Aug 24 |
 | ↳ | **[Office of the Registrar - Federal Work Study Student Assistant](https://jobright.ai/jobs/info/68ab76f1daf1431824c8ef7d?utm_campaign=1057&utm_source=git)** | San Bernardino, CA | On Site | Aug 24 |
 | **[New England Homes for the Deaf](http://nehd.org/)** | **[Activities Assistant Volunteer](https://jobright.ai/jobs/info/68ab762adaf1431824c8ef24?utm_campaign=1057&utm_source=git)** | Danvers, MA | On Site | Aug 24 |
@@ -115,6 +118,7 @@ For a complete list, click the following sortable link below:
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Military DoD SkillBridge Internship - Multiple Positions Q4 - 2025](https://jobright.ai/jobs/info/67a93a6b2d450e6342cddf83?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | Remote | Aug 24 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern](https://jobright.ai/jobs/info/681e6ae03f7f7ed0f5d187a4?utm_campaign=1057&utm_source=git)** | Savannah, GA | On Site | Aug 24 |
 | **[Unum](http://www.unum.com)** | **[Unum Scholar Intern - Columbia, SC](https://jobright.ai/jobs/info/681e2c021599e3bf6cc73ecf?utm_campaign=1057&utm_source=git)** | Columbia, SC | Hybrid | Aug 24 |
+| **[Security Benefit](https://securitybenefit.com)** | **[Intern - Teacher](https://jobright.ai/jobs/info/6855f09e3a8383185c04a498?utm_campaign=1057&utm_source=git)** | Topeka, KS | On Site | Aug 24 |
 | **[Massachusetts College of Liberal Arts](http://www.mcla.edu/)** | **[Office Assistant - Registrar (Work Study) - Massachusetts College of Liberal Arts](https://jobright.ai/jobs/info/68aae909758f2e4ac3ffeb74?utm_campaign=1057&utm_source=git)** | North Adams, MA | On Site | Aug 24 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Intern-UT-Layton](https://jobright.ai/jobs/info/68391379a5ea390cbb45e249?utm_campaign=1057&utm_source=git)** | Layton, UT | On Site | Aug 24 |
 | **[State of South Carolina](https://sc.gov/)** | **[Project Advisor/Transfer Coordinator (Student Services Program Coordinator II) # 2580](https://jobright.ai/jobs/info/68aac505d627244576e3ed12?utm_campaign=1057&utm_source=git)** | Charleston County, SC | On Site | Aug 24 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Georgia Gwinnett College](http://www.ggc.edu)** | **[Federal Work Study - International Student Services](https://jobright.ai/jobs/info/68a97f306acf96396f728259?utm_campaign=1057&utm_source=git)** | Lawrenceville, GA | On Site | Aug 23 |
 | **[NVA Equine](https://nva.avature.net/careers/VetEquine)** | **[Equine Intern Veterinarian 2026/2027](https://jobright.ai/jobs/info/685308b1d50947d600f6c360?utm_campaign=1057&utm_source=git)** | Oconomowoc, WI | On Site | Aug 23 |
 | **[Pacific University](http://www.pacificu.edu/)** | **[FWS - Inventory & Collections Specialist - Forest Grove City Library (CSWS)](https://jobright.ai/jobs/info/68a97ad96acf96396f728070?utm_campaign=1057&utm_source=git)** | Forest Grove, OR | On Site | Aug 23 |
-| **[Auburn University](https://www.auburn.edu/)** | **[RFID Lab Student Worker:Communications & Marketing](https://jobright.ai/jobs/info/68a66b1533dd7158bbc9fe11?utm_campaign=1057&utm_source=git)** | Auburn, AL | On Site | Aug 23 |
-| **[CW PSYCHOLOGICAL SERVICES](https://cwpsychologicalservices.com/)** | **[PA Doctoral Level Psychology](https://jobright.ai/jobs/info/68a34c7e403ad4363b1bfecd?utm_campaign=1057&utm_source=git)** | King of Prussia, PA | On Site | Aug 23 |
-| **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Library Collection Development Student Curator](https://jobright.ai/jobs/info/68a96ff36acf96396f72788e?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 23 |
-| **[ABB](https://global.abb/group/en)** | **[Internship PM Excellence](https://jobright.ai/jobs/info/688dca53e5cead4afd45ace2?utm_campaign=1057&utm_source=git)** | Location, WV | Hybrid | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
