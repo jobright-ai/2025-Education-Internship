@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/68ab98b4758f2e4ac3fff934?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Aug 24 |
 | **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/68ab79d5daf1431824c8efb2?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | On Site | Aug 24 |
 | **[CSU Careers](https://www.linkedin.com/company/81884531)** | **[Infant/Toddler Lab School - Student Assistant](https://jobright.ai/jobs/info/68ab778dd627244576e3fb13?utm_campaign=1057&utm_source=git)** | San Bernardino, CA | On Site | Aug 24 |
 | ↳ | **[Office of the Registrar - Federal Work Study Student Assistant](https://jobright.ai/jobs/info/68ab76f1daf1431824c8ef7d?utm_campaign=1057&utm_source=git)** | San Bernardino, CA | On Site | Aug 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Campus Undergraduate Summer Internship Program - 2026 Product Innovation, Credit & Fraud Risk - Phoenix, AZ](https://jobright.ai/jobs/info/68a8ca13758f2e4ac3ff5563?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | Hybrid | Aug 22 |
 | **[Corewell Health](https://corewellhealth.org)** | **[Respiratory Therapy Intern Helen DeVos Children's](https://jobright.ai/jobs/info/68532b335e267793b99484f0?utm_campaign=1057&utm_source=git)** | Grand Rapids, MI | Hybrid | Aug 22 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - Woodland Hills (48519)](https://jobright.ai/jobs/info/68a8c6d3758f2e4ac3ff539d?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Aug 22 |
-| ↳ | **[Future Leaders Program Summer 2026 - Philadelphia (48518)](https://jobright.ai/jobs/info/68a8c65f6acf96396f722aa7?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
