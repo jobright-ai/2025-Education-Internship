@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UTMB Faculty Group Practice](https://utmb.us/e99)** | **[Federal Work Study Student, Student Financial Aid](https://jobright.ai/jobs/info/68ac06a7758f2e4ac3003775?utm_campaign=1057&utm_source=git)** | Galveston, Texas, United States | On Site | Aug 24 |
 | **[Williams](https://www.williams.com)** | **[Summer 2026 Internship - University of Tulsa](https://jobright.ai/jobs/info/68abf7cddaf1431824c929c2?utm_campaign=1057&utm_source=git)** | TX Houston - Sequent | Hybrid | Aug 24 |
 | ↳ | **[Summer 2026 Internship - University of Pittsburg](https://jobright.ai/jobs/info/68abf7c6daf1431824c929b6?utm_campaign=1057&utm_source=git)** | UT Salt Lake City - Office | Hybrid | Aug 24 |
 | ↳ | **[Summer 2026 Internship - Pennsylvania State University](https://jobright.ai/jobs/info/68abf7c4daf1431824c929b1?utm_campaign=1057&utm_source=git)** | TX Houston - Tower | Hybrid | Aug 24 |
@@ -68,10 +69,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Internship - University of Oklahoma](https://jobright.ai/jobs/info/68abf5fbd627244576e43569?utm_campaign=1057&utm_source=git)** | TX Houston - Sequent | Hybrid | Aug 24 |
 | ↳ | **[Summer 2026 Internship - Oklahoma State University](https://jobright.ai/jobs/info/68abf5fa758f2e4ac300320c?utm_campaign=1057&utm_source=git)** | PA Pittsburgh | Hybrid | Aug 24 |
 | ↳ | **[Summer 2026 Internship - Oklahoma State University](https://jobright.ai/jobs/info/68abf5eb758f2e4ac30031fa?utm_campaign=1057&utm_source=git)** | TX Houston - Tower | Hybrid | Aug 24 |
-| ↳ | **[Summer 2026 Internship - Oklahoma State University](https://jobright.ai/jobs/info/68abf5ead627244576e4355c?utm_campaign=1057&utm_source=git)** | UT Salt Lake City - Office | Hybrid | Aug 24 |
 | ↳ | **[Summer 2026 Internship - University of Pittsburg](https://jobright.ai/jobs/info/68abf5ead627244576e4355f?utm_campaign=1057&utm_source=git)** | TX Houston - Tower | Hybrid | Aug 24 |
-| ↳ | **[Summer 2026 Internship - Oklahoma State University](https://jobright.ai/jobs/info/68abf5e9d627244576e43558?utm_campaign=1057&utm_source=git)** | OK Tulsa - Headquarters | Hybrid | Aug 24 |
+| ↳ | **[Summer 2026 Internship - Oklahoma State University](https://jobright.ai/jobs/info/68abf5ead627244576e4355c?utm_campaign=1057&utm_source=git)** | UT Salt Lake City - Office | Hybrid | Aug 24 |
 | ↳ | **[Summer 2026 Internship - University of Oklahoma](https://jobright.ai/jobs/info/68abf5e9758f2e4ac30031f3?utm_campaign=1057&utm_source=git)** | OK Tulsa - Headquarters | Hybrid | Aug 24 |
+| ↳ | **[Summer 2026 Internship - Oklahoma State University](https://jobright.ai/jobs/info/68abf5e9d627244576e43558?utm_campaign=1057&utm_source=git)** | OK Tulsa - Headquarters | Hybrid | Aug 24 |
 | ↳ | **[Summer 2026 Internship - Pennsylvania State University](https://jobright.ai/jobs/info/68abf5df758f2e4ac30031df?utm_campaign=1057&utm_source=git)** | OK Tulsa - Headquarters | Hybrid | Aug 24 |
 | ↳ | **[Summer 2026 Internship - University of Pittsburg](https://jobright.ai/jobs/info/68abf5d9758f2e4ac30031db?utm_campaign=1057&utm_source=git)** | TX Houston - Sequent | Hybrid | Aug 24 |
 | ↳ | **[Summer 2026 Internship - University of Oklahoma](https://jobright.ai/jobs/info/68abf5cf758f2e4ac30031d5?utm_campaign=1057&utm_source=git)** | UT Salt Lake City - Office | Hybrid | Aug 24 |
@@ -85,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Student Advisor](https://jobright.ai/jobs/info/68abc3f1d627244576e400dd?utm_campaign=1057&utm_source=git)** | Auburn, AL | On Site | Aug 24 |
 | **[AVI Foodsystems](http://www.AVIFoodsystems.com)** | **[Student Purchasing Intern, Part-time (Oberlin College) $15/hr.](https://jobright.ai/jobs/info/68abacb3d627244576e3fd15?utm_campaign=1057&utm_source=git)** | Oberlin, OH | On Site | Aug 24 |
 | **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/68ab98b4758f2e4ac3fff934?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Aug 24 |
-| **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/68ab79d5daf1431824c8efb2?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | On Site | Aug 24 |
 | **[CSU Careers](https://www.linkedin.com/company/81884531)** | **[Infant/Toddler Lab School - Student Assistant](https://jobright.ai/jobs/info/68ab778dd627244576e3fb13?utm_campaign=1057&utm_source=git)** | San Bernardino, CA | On Site | Aug 24 |
 | ↳ | **[Office of the Registrar - Federal Work Study Student Assistant](https://jobright.ai/jobs/info/68ab76f1daf1431824c8ef7d?utm_campaign=1057&utm_source=git)** | San Bernardino, CA | On Site | Aug 24 |
 | **[New England Homes for the Deaf](http://nehd.org/)** | **[Activities Assistant Volunteer](https://jobright.ai/jobs/info/68ab762adaf1431824c8ef24?utm_campaign=1057&utm_source=git)** | Danvers, MA | On Site | Aug 24 |
@@ -108,6 +108,7 @@ For a complete list, click the following sortable link below:
 | **[State of South Carolina](https://sc.gov/)** | **[Project Advisor/Transfer Coordinator (Student Services Program Coordinator II) # 2580](https://jobright.ai/jobs/info/68aac505d627244576e3ed12?utm_campaign=1057&utm_source=git)** | Charleston County, SC | On Site | Aug 24 |
 | **[Prince William County Public Schools](https://marstellerms.pwcs.edu)** | **[ELEMENTARY SCHOOL ADMINISTRATIVE INTERN - 200 DAY](https://jobright.ai/jobs/info/68aabea3daf1431824c8e136?utm_campaign=1057&utm_source=git)** | Manassas, VA | On Site | Aug 24 |
 | **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting (Tenure Track)](https://jobright.ai/jobs/info/68aaae7cdaf1431824c8d716?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Aug 23 |
+| **[Huntington Health](https://www.huntingtonhealth.org)** | **[Student Nurse Intern Per Diem - Days - Oncology](https://jobright.ai/jobs/info/688d24891808534a89cc13d3?utm_campaign=1057&utm_source=git)** | Pasadena, CA | On Site | Aug 23 |
 | **[University of Michigan](https://www.umich.edu)** | **[Intercultural Programming Intern (Student)](https://jobright.ai/jobs/info/68a7573133dd7158bbca6622?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Aug 23 |
 | **[Baptist Health](http://baptisthealth.net/)** | **[Nurse Intern, 2Hope-Multispecialty Stepdown, PT, 7A-7P](https://jobright.ai/jobs/info/688d207d3a30793eb9648c0a?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Aug 23 |
 | **[Year Up United](http://yearup.org)** | **[Application Development Job Training Program](https://jobright.ai/jobs/info/68abd0f0daf1431824c9036c?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Aug 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Opportunities for a Better Tomorrow](https://obtjobs.org/)** | **[GED + Paid Internship Program](https://jobright.ai/jobs/info/68a90d0a758f2e4ac3ff6d2e?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Aug 22 |
 | **[Stellantis](https://www.stellantis.com)** | **[2026 Supply Chain Summer Internship](https://jobright.ai/jobs/info/68a905fcd627244576e36e9f?utm_campaign=1057&utm_source=git)** | Auburn Hills, MI | Hybrid | Aug 22 |
 | **[American University](http://american.edu)** | **[Research and Teaching Assistant (Student)](https://jobright.ai/jobs/info/68a904d96acf96396f7242b9?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Aug 22 |
-| **[Clark County School District](https://www.ccsd.net/)** | **[2025-2026 RESERVE OFFICERS TRAINING CORPS (ROTC) ASSISTANT TEACHER - Basic Academy of International Studies](https://jobright.ai/jobs/info/68a904cc758f2e4ac3ff6b46?utm_campaign=1057&utm_source=git)** | Henderson, NV | On Site | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
