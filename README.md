@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AVI Foodsystems](http://www.AVIFoodsystems.com)** | **[Student Purchasing Intern, Part-time (Oberlin College) $15/hr.](https://jobright.ai/jobs/info/68abacb3d627244576e3fd15?utm_campaign=1057&utm_source=git)** | Oberlin, OH | On Site | Aug 24 |
 | **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/68ab98b4758f2e4ac3fff934?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Aug 24 |
 | **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/68ab79d5daf1431824c8efb2?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | On Site | Aug 24 |
 | **[CSU Careers](https://www.linkedin.com/company/81884531)** | **[Infant/Toddler Lab School - Student Assistant](https://jobright.ai/jobs/info/68ab778dd627244576e3fb13?utm_campaign=1057&utm_source=git)** | San Bernardino, CA | On Site | Aug 24 |
@@ -117,13 +118,13 @@ For a complete list, click the following sortable link below:
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Paid Intern, Adapted Needs- Seminaries and Institutes](https://jobright.ai/jobs/info/68a934ca6acf96396f72587f?utm_campaign=1057&utm_source=git)** | Boise, ID | On Site | Aug 22 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Student and Scholar Advisor](https://jobright.ai/jobs/info/68a9296e6acf96396f72536c?utm_campaign=1057&utm_source=git)** | Pullman, WA | On Site | Aug 22 |
 | ↳ | **[Associate Director of International Student Services](https://jobright.ai/jobs/info/68a92820758f2e4ac3ff7b3e?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD | On Site | Aug 22 |
-| **[Clark County School District](https://www.ccsd.net/)** | **[2025-2026 RESERVE OFFICERS TRAINING CORPS (ROTC) ASSISTANT TEACHER - Basic Academy of International Studies](https://jobright.ai/jobs/info/68a91d756acf96396f724ef5?utm_campaign=1057&utm_source=git)** | Henderson, NV | On Site | Aug 22 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern, Adapted Needs- Seminaries and Institutes](https://jobright.ai/jobs/info/68a9156a758f2e4ac3ff731c?utm_campaign=1057&utm_source=git)** | Boise, ID | On Site | Aug 22 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[OTC Middle College Student Internship](https://jobright.ai/jobs/info/68a90f076acf96396f72466e?utm_campaign=1057&utm_source=git)** | Springfield, Missouri | On Site | Aug 22 |
 | **[Opportunities for a Better Tomorrow](https://obtjobs.org/)** | **[GED + Paid Internship Program](https://jobright.ai/jobs/info/68a90d0a758f2e4ac3ff6d2e?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Aug 22 |
 | **[Stellantis](https://www.stellantis.com)** | **[2026 Supply Chain Summer Internship](https://jobright.ai/jobs/info/68a905fcd627244576e36e9f?utm_campaign=1057&utm_source=git)** | Auburn Hills, MI | Hybrid | Aug 22 |
 | **[American University](http://american.edu)** | **[Research and Teaching Assistant (Student)](https://jobright.ai/jobs/info/68a904d96acf96396f7242b9?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Aug 22 |
-| ↳ | **[TRAC – Training Program Assistant (Student)](https://jobright.ai/jobs/info/68a9049b6acf96396f72429f?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Aug 22 |
+| **[Clark County School District](https://www.ccsd.net/)** | **[2025-2026 RESERVE OFFICERS TRAINING CORPS (ROTC) ASSISTANT TEACHER - Basic Academy of International Studies](https://jobright.ai/jobs/info/68a904cc758f2e4ac3ff6b46?utm_campaign=1057&utm_source=git)** | Henderson, NV | On Site | Aug 22 |
+| **[American University](http://american.edu)** | **[TRAC – Training Program Assistant (Student)](https://jobright.ai/jobs/info/68a9049b6acf96396f72429f?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Aug 22 |
 | ↳ | **[Research and Teaching Assistant (Student)](https://jobright.ai/jobs/info/68a90400758f2e4ac3ff6ad7?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Aug 22 |
 | ↳ | **[Program Assistant-MIS (Student) (FWS)](https://jobright.ai/jobs/info/68a903d5758f2e4ac3ff6ac2?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Aug 22 |
 | **[Year Up United](http://yearup.org)** | **[Banking Job Training Program](https://jobright.ai/jobs/info/68a90198d627244576e36d73?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Aug 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Campus Undergraduate Summer Internship Program - 2026 Strategy & Analytics, Credit & Fraud Risk - New York, NY](https://jobright.ai/jobs/info/68a8cbf3758f2e4ac3ff5700?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Aug 22 |
 | ↳ | **[Campus Undergraduate Summer Internship Program - 2026 Product Innovation, Credit & Fraud Risk - Phoenix, AZ](https://jobright.ai/jobs/info/68a8ca13758f2e4ac3ff5563?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | Hybrid | Aug 22 |
 | **[Corewell Health](https://corewellhealth.org)** | **[Respiratory Therapy Intern Helen DeVos Children's](https://jobright.ai/jobs/info/68532b335e267793b99484f0?utm_campaign=1057&utm_source=git)** | Grand Rapids, MI | Hybrid | Aug 22 |
-| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - Woodland Hills (48519)](https://jobright.ai/jobs/info/68a8c6d3758f2e4ac3ff539d?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
