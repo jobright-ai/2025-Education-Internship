@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walled Lake Consolidated Schools](https://wlcsd.org/)** | **[Afternoon Custodian - Norup International Schools](https://jobright.ai/jobs/info/68ad251b758f2e4ac300b454?utm_campaign=1057&utm_source=git)** | Walled Lake, MI | On Site | Aug 25 |
+| **[355Code](http://www.355code.com/)** | **[Software Engineer Instructor REMOTE ($11.50/Hour)](https://jobright.ai/jobs/info/68ad1bb1d627244576e4b341?utm_campaign=1057&utm_source=git)** | DFW Metroplex | Remote | Aug 25 |
+| **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Asset Management Group Undergraduate Intern](https://jobright.ai/jobs/info/68ad14c4daf1431824c9a496?utm_campaign=1057&utm_source=git)** | Orlando, FL | Remote | Aug 25 |
 | **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Student Research Assistant](https://jobright.ai/jobs/info/68ad126dd627244576e4b079?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Aug 25 |
 | **[Mayo Clinic Healthcare](https://mayoclinichealthcare.co.uk)** | **[INTERN - PAID EDUC STUDENT (ElevateEd)](https://jobright.ai/jobs/info/68ad0cd0daf1431824c9a2c0?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Aug 25 |
 | **[American University](http://american.edu)** | **[Philosophy/Religion Administrative Support (Student) (FWS)](https://jobright.ai/jobs/info/68ad0bd0daf1431824c9a16b?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Aug 25 |
@@ -67,10 +70,10 @@ For a complete list, click the following sortable link below:
 | **[Vanguard](http://investor.vanguard.com/corporate-portal)** | **[College to Corporate Internship - Advice](https://jobright.ai/jobs/info/68ad0482758f2e4ac300a3c0?utm_campaign=1057&utm_source=git)** | Scottsdale, AZ | Hybrid | Aug 25 |
 | ↳ | **[College to Corporate Internship - Advice](https://jobright.ai/jobs/info/68acffafdaf1431824c999fa?utm_campaign=1057&utm_source=git)** | Charlotte, NC | Hybrid | Aug 25 |
 | **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[Facilitation Fellow - FWS](https://jobright.ai/jobs/info/68acfbf2d627244576e4a598?utm_campaign=1057&utm_source=git)** | Harrisonburg, VA | On Site | Aug 25 |
-| **[Kent State School of Fashion](https://www.kent.edu/fashion)** | **[Chairperson, Academic Department - INTERNAL POSTING FOR CURRENT KENT STATE UNIVERSITY EMPLOYEES ONLY](https://jobright.ai/jobs/info/68acfa2bdaf1431824c99820?utm_campaign=1057&utm_source=git)** | Kent, WA | On Site | Aug 25 |
+| **[Kent State School of Fashion](https://www.kent.edu/fashion)** | **[Chairperson, Academic Department - INTERNAL POSTING FOR CURRENT KENT STATE UNIVERSITY EMPLOYEES ONLY](https://jobright.ai/jobs/info/68acfafad627244576e4a50c?utm_campaign=1057&utm_source=git)** | Kent, WA | On Site | Aug 25 |
 | **[Vanguard](http://investor.vanguard.com/corporate-portal)** | **[College to Corporate Internship - Advice](https://jobright.ai/jobs/info/68acf9e9d627244576e4a441?utm_campaign=1057&utm_source=git)** | Dallas, TX | Hybrid | Aug 25 |
-| **[Kent State School of Fashion](https://www.kent.edu/fashion)** | **[Director, School - INTERNAL POSTING FOR CURRENT KENT STATE UNIVERSITY EMPLOYEES ONLY](https://jobright.ai/jobs/info/68acf9db758f2e4ac300a010?utm_campaign=1057&utm_source=git)** | Kent, WA | On Site | Aug 25 |
-| ↳ | **[Director, School - INTERNAL POSTING FOR CURRENT KENT STATE UNIVERSITY EMPLOYEES ONLY](https://jobright.ai/jobs/info/68acf8be758f2e4ac3009f4a?utm_campaign=1057&utm_source=git)** | Kent, WA | On Site | Aug 25 |
+| **[Kent State School of Fashion](https://www.kent.edu/fashion)** | **[Director, School - INTERNAL POSTING FOR CURRENT KENT STATE UNIVERSITY EMPLOYEES ONLY](https://jobright.ai/jobs/info/68acf9b4daf1431824c997c9?utm_campaign=1057&utm_source=git)** | Kent, WA | On Site | Aug 25 |
+| ↳ | **[Director, School - INTERNAL POSTING FOR CURRENT KENT STATE UNIVERSITY EMPLOYEES ONLY](https://jobright.ai/jobs/info/68acf8a9758f2e4ac3009f39?utm_campaign=1057&utm_source=git)** | Kent, WA | On Site | Aug 25 |
 | ↳ | **[Chairperson, Academic Department - INTERNAL POSTING FOR CURRENT KENT STATE UNIVERSITY EMPLOYEES ONLY](https://jobright.ai/jobs/info/68acf844daf1431824c996b6?utm_campaign=1057&utm_source=git)** | Kent, WA | On Site | Aug 25 |
 | **[Royal Electric Company](https://www.royalelect.com/)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/68acf676d627244576e4a37c?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Aug 25 |
 | **[American University](http://american.edu)** | **[Research/Teaching Assistant (Student)](https://jobright.ai/jobs/info/68acf5e6d627244576e4a300?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Aug 25 |
@@ -126,7 +129,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Assurance & Transparency (DAT) Tech Intern - Summer 2026](https://jobright.ai/jobs/info/68ac840dd627244576e465f7?utm_campaign=1057&utm_source=git)** | IL-Chicago | On Site | Aug 25 |
 | **[Year Up United](http://yearup.org)** | **[Project Management Job Training Program](https://jobright.ai/jobs/info/68ac9f03d627244576e47562?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Aug 25 |
 | **[Zalando](https://jobs.zalando.com/)** | **[Working Student AOS](https://jobright.ai/jobs/info/68ac6a6ddaf1431824c94feb?utm_campaign=1057&utm_source=git)** | Remote Work | Remote | Aug 25 |
-| **[InterRoom](www.interroom.me)** | **[Student Intern](https://jobright.ai/jobs/info/68ac89d4758f2e4ac30065fc?utm_campaign=1057&utm_source=git)** | New York, United States | Remote | Aug 25 |
 | **[Williams](https://www.williams.com)** | **[Summer 2026 Internship - University of Houston](https://jobright.ai/jobs/info/68ac5b20d627244576e455df?utm_campaign=1057&utm_source=git)** | Tulsa, OK | Hybrid | Aug 25 |
 | ↳ | **[Summer 2026 Internship - University of Pittsburg](https://jobright.ai/jobs/info/68ac5899d627244576e453dc?utm_campaign=1057&utm_source=git)** | Tulsa, OK | Hybrid | Aug 25 |
 | ↳ | **[Summer 2026 Internship - University of Tulsa](https://jobright.ai/jobs/info/68ac54c7758f2e4ac3004fb4?utm_campaign=1057&utm_source=git)** | Tulsa, OK | Hybrid | Aug 25 |
@@ -134,12 +136,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Internship - University of Oklahoma](https://jobright.ai/jobs/info/68ac45c3758f2e4ac3004bc1?utm_campaign=1057&utm_source=git)** | Tulsa, OK | Hybrid | Aug 25 |
 | ↳ | **[Summer 2026 Internship - Pennsylvania State University](https://jobright.ai/jobs/info/68ac4540758f2e4ac3004b29?utm_campaign=1057&utm_source=git)** | Tulsa, OK | Hybrid | Aug 25 |
 | **[Bridgewater State University](http://www.bridgew.edu/)** | **[AY25-26 Cyber Range Outreach Assistant (Non-work Study)](https://jobright.ai/jobs/info/68ac2d77758f2e4ac3004724?utm_campaign=1057&utm_source=git)** | Bridgewater, MA | On Site | Aug 25 |
-| **[Oriana House, Inc.](https://www.orianahouse.org/)** | **[Counselor Intern [Akron, OH] (Unpaid, Spring 2026)](https://jobright.ai/jobs/info/68ac2a1cdaf1431824c93eb1?utm_campaign=1057&utm_source=git)** | Akron, OH | On Site | Aug 25 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[INTERN - PAID EDUC STUDENT (ElevateEd)](https://jobright.ai/jobs/info/68ac2744d627244576e44a3a?utm_campaign=1057&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 25 |
 | **[SCO Family of Services](https://sco.org/)** | **[Internship Coordinator](https://jobright.ai/jobs/info/68ac2570daf1431824c93e1b?utm_campaign=1057&utm_source=git)** | Queens, NY | On Site | Aug 25 |
 | **[Dodge City Community College](http://www.dc3.edu/)** | **[STUDENT WORK STUDY - TRIO Talent Search](https://jobright.ai/jobs/info/68ac2552daf1431824c93e12?utm_campaign=1057&utm_source=git)** | Dodge City, KS | On Site | Aug 25 |
 | **[Lamar State College-Port Arthur](http://www.lamarpa.edu/)** | **[Student Assistant for Financial Aid](https://jobright.ai/jobs/info/68ac254cd627244576e44a01?utm_campaign=1057&utm_source=git)** | Port Arthur, TX | On Site | Aug 25 |
 | **[Clackamas Community College](http://www.clackamas.edu/)** | **[SMART Reader [Federal Work Study]](https://jobright.ai/jobs/info/68ac2500d627244576e449ed?utm_campaign=1057&utm_source=git)** | Oregon City, OR | Hybrid | Aug 25 |
+| **[Oriana House, Inc.](https://www.orianahouse.org/)** | **[Counselor Intern [Akron, OH] (Unpaid, Spring 2026)](https://jobright.ai/jobs/info/68ac1d23758f2e4ac3004546?utm_campaign=1057&utm_source=git)** | Akron, OH | On Site | Aug 25 |
 | **[East Bay Community Action Program](https://www.ebcap.org)** | **[Early Childhood Apprenticeship Program](https://jobright.ai/jobs/info/68ac1cb6758f2e4ac3004516?utm_campaign=1057&utm_source=git)** | Newport, RI | On Site | Aug 25 |
 | **[UTMB Faculty Group Practice](https://utmb.us/e99)** | **[Federal Work Study Student, Student Financial Aid](https://jobright.ai/jobs/info/68ac06a7758f2e4ac3003775?utm_campaign=1057&utm_source=git)** | Galveston, Texas, United States | On Site | Aug 24 |
 | **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting (Tenure Track)](https://jobright.ai/jobs/info/68ac1d44758f2e4ac3004553?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Aug 24 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Internship - University of Oklahoma](https://jobright.ai/jobs/info/68abf5fbd627244576e43569?utm_campaign=1057&utm_source=git)** | TX Houston - Sequent | Hybrid | Aug 24 |
 | ↳ | **[Summer 2026 Internship - Oklahoma State University](https://jobright.ai/jobs/info/68abf5fa758f2e4ac300320c?utm_campaign=1057&utm_source=git)** | PA Pittsburgh | Hybrid | Aug 24 |
 | ↳ | **[Summer 2026 Internship - Oklahoma State University](https://jobright.ai/jobs/info/68abf5eb758f2e4ac30031fa?utm_campaign=1057&utm_source=git)** | TX Houston - Tower | Hybrid | Aug 24 |
-| ↳ | **[Summer 2026 Internship - Oklahoma State University](https://jobright.ai/jobs/info/68abf5ead627244576e4355c?utm_campaign=1057&utm_source=git)** | UT Salt Lake City - Office | Hybrid | Aug 24 |
 | ↳ | **[Summer 2026 Internship - University of Pittsburg](https://jobright.ai/jobs/info/68abf5ead627244576e4355f?utm_campaign=1057&utm_source=git)** | TX Houston - Tower | Hybrid | Aug 24 |
-| ↳ | **[Summer 2026 Internship - University of Oklahoma](https://jobright.ai/jobs/info/68abf5e9758f2e4ac30031f3?utm_campaign=1057&utm_source=git)** | OK Tulsa - Headquarters | Hybrid | Aug 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
