@@ -57,8 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Conservation Education Presenter Internship - Spring 2026](https://jobright.ai/jobs/info/68add17c758f2e4ac300ed3f?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Aug 26 |
+| **[Areteem Institute](https://areteem.org/)** | **[Math Curriculum Intern - Math Contests (Remote)](https://jobright.ai/jobs/info/68add11f758f2e4ac300ed00?utm_campaign=1057&utm_source=git)** | California, United States | Remote | Aug 26 |
+| **[Starr Insurance](https://starrcompanies.com/)** | **[UGA ONLY – Starr Summer 2026 Internship](https://jobright.ai/jobs/info/68adca47daf1431824c9e174?utm_campaign=1057&utm_source=git)** | 399 Park Avenue-New York, NY | On Site | Aug 26 |
+| ↳ | **[UGA ONLY – Starr Summer 2026 Internship](https://jobright.ai/jobs/info/68adca11daf1431824c9e130?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Aug 26 |
+| ↳ | **[UGA ONLY – Starr Summer 2026 Internship](https://jobright.ai/jobs/info/68adc9b0758f2e4ac300ea58?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Aug 26 |
+| ↳ | **[UGA ONLY – Starr Summer 2026 Internship](https://jobright.ai/jobs/info/68adc988758f2e4ac300ea1b?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Aug 26 |
+| ↳ | **[UGA ONLY – Starr Summer 2026 Internship](https://jobright.ai/jobs/info/68adc964758f2e4ac300e9fc?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Aug 26 |
+| ↳ | **[UGA ONLY – Starr Summer 2026 Internship](https://jobright.ai/jobs/info/68adc83ed627244576e4ee20?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Aug 26 |
+| ↳ | **[UGA ONLY – Starr Summer 2026 Internship](https://jobright.ai/jobs/info/68adc78fd627244576e4edd6?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Aug 26 |
+| **[Gelber Group LLC](http://www.gelbergroup.com/)** | **[Algorithmic Trading Internship - Summer 2026](https://jobright.ai/jobs/info/68adbde9d627244576e4e9f9?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Aug 26 |
+| **[R+V Versicherung](https://www.ruv.de)** | **[Duales Studium Bachelor of Arts BWL - Versicherung Bankenvertrieb (m/w/d)](https://jobright.ai/jobs/info/68adbdced627244576e4e9e6?utm_campaign=1057&utm_source=git)** | Weimar, TX | On Site | Aug 26 |
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Career Development Intern](https://jobright.ai/jobs/info/683a59be9f02644afac3c163?utm_campaign=1057&utm_source=git)** | St Louis, MO | Hybrid | Aug 26 |
 | **[Macquarie Group](https://www.macquarie.com)** | **[2026 Commodities and Global Markets Summer Internship Program](https://jobright.ai/jobs/info/68911eabf47efe2113952eee?utm_campaign=1057&utm_source=git)** | Greater Houston | Hybrid | Aug 26 |
+| ↳ | **[2026 Risk Management Summer Internship Program](https://jobright.ai/jobs/info/689121454c7e851b90acc544?utm_campaign=1057&utm_source=git)** | New York, United States | Hybrid | Aug 26 |
 | ↳ | **[2026 Commodities and Global Markets Summer Internship Program](https://jobright.ai/jobs/info/68911e30f47efe2113952e77?utm_campaign=1057&utm_source=git)** | NYC Metro Area | Hybrid | Aug 26 |
 | **[William Penn University](http://www.wmpenn.edu/)** | **[MEN’S BOWLING – GRADUATE ASSISTANT](https://jobright.ai/jobs/info/68ad91f8758f2e4ac300dc01?utm_campaign=1057&utm_source=git)** | Oskaloosa, IA | On Site | Aug 26 |
 | **[Samaritan's Purse](https://www.samaritanspurse.org/)** | **[International Apprentice - Spring 2026](https://jobright.ai/jobs/info/67e6e06c1d0b00976e61a2a4?utm_campaign=1057&utm_source=git)** | North Wilkesboro, NC | On Site | Aug 26 |
@@ -91,9 +103,9 @@ For a complete list, click the following sortable link below:
 | **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[Facilitation Fellow - FWS](https://jobright.ai/jobs/info/68acfbf2d627244576e4a598?utm_campaign=1057&utm_source=git)** | Harrisonburg, VA | On Site | Aug 25 |
 | **[Kent State School of Fashion](https://www.kent.edu/fashion)** | **[Chairperson, Academic Department - INTERNAL POSTING FOR CURRENT KENT STATE UNIVERSITY EMPLOYEES ONLY](https://jobright.ai/jobs/info/68acfa2bdaf1431824c99820?utm_campaign=1057&utm_source=git)** | Kent, WA | On Site | Aug 25 |
 | **[Vanguard](http://investor.vanguard.com/corporate-portal)** | **[College to Corporate Internship - Advice](https://jobright.ai/jobs/info/68acf9e9d627244576e4a441?utm_campaign=1057&utm_source=git)** | Dallas, TX | Hybrid | Aug 25 |
-| **[Kent State School of Fashion](https://www.kent.edu/fashion)** | **[Director, School - INTERNAL POSTING FOR CURRENT KENT STATE UNIVERSITY EMPLOYEES ONLY](https://jobright.ai/jobs/info/68acf9db758f2e4ac300a010?utm_campaign=1057&utm_source=git)** | Kent, WA | On Site | Aug 25 |
-| ↳ | **[Director, School - INTERNAL POSTING FOR CURRENT KENT STATE UNIVERSITY EMPLOYEES ONLY](https://jobright.ai/jobs/info/68acf8be758f2e4ac3009f4a?utm_campaign=1057&utm_source=git)** | Kent, WA | On Site | Aug 25 |
-| ↳ | **[Chairperson, Academic Department - INTERNAL POSTING FOR CURRENT KENT STATE UNIVERSITY EMPLOYEES ONLY](https://jobright.ai/jobs/info/68acf86bdaf1431824c996dc?utm_campaign=1057&utm_source=git)** | Kent, WA | On Site | Aug 25 |
+| **[Kent State School of Fashion](https://www.kent.edu/fashion)** | **[Director, School - INTERNAL POSTING FOR CURRENT KENT STATE UNIVERSITY EMPLOYEES ONLY](https://jobright.ai/jobs/info/68acf9b4daf1431824c997c9?utm_campaign=1057&utm_source=git)** | Kent, WA | On Site | Aug 25 |
+| ↳ | **[Director, School - INTERNAL POSTING FOR CURRENT KENT STATE UNIVERSITY EMPLOYEES ONLY](https://jobright.ai/jobs/info/68acf8a9758f2e4ac3009f39?utm_campaign=1057&utm_source=git)** | Kent, WA | On Site | Aug 25 |
+| ↳ | **[Chairperson, Academic Department - INTERNAL POSTING FOR CURRENT KENT STATE UNIVERSITY EMPLOYEES ONLY](https://jobright.ai/jobs/info/68acf844daf1431824c996b6?utm_campaign=1057&utm_source=git)** | Kent, WA | On Site | Aug 25 |
 | **[Royal Electric Company](https://www.royalelect.com/)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/68acf676d627244576e4a37c?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Aug 25 |
 | **[American University](http://american.edu)** | **[Research/Teaching Assistant (Student)](https://jobright.ai/jobs/info/68acf5e6d627244576e4a300?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Aug 25 |
 | ↳ | **[Supplemental Instruction Program Leader (Student)](https://jobright.ai/jobs/info/68acf4b4d627244576e4a182?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Aug 25 |
@@ -134,6 +146,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Graduate Assistant](https://jobright.ai/jobs/info/68aca357daf1431824c96d3f?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Aug 25 |
 | **[Missouri State University](https://www.missouristate.edu/usa/)** | **[Intern Athletic Trainer](https://jobright.ai/jobs/info/68ac9ef0d627244576e47546?utm_campaign=1057&utm_source=git)** | Springfield, MO | On Site | Aug 25 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Learning & Development Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9ce4daf1431824c967b2?utm_campaign=1057&utm_source=git)** | Westerville, OH | On Site | Aug 25 |
+| **[Women and Girls Foundation](http://www.wgfpa.org)** | **[GirlGov Middle School Program Intern](https://jobright.ai/jobs/info/68adb0c6d627244576e4e5e8?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | Hybrid | Aug 25 |
 | **[Raymond James](http://www.raymondjames.com)** | **[2026 Summer Internship Program - Information Technology (St. Petersburg or Jersey City)](https://jobright.ai/jobs/info/68ac8db0d627244576e46ae0?utm_campaign=1057&utm_source=git)** | St. Petersburg, FL | Hybrid | Aug 25 |
 | **[Year Up United](http://yearup.org)** | **[Desktop Management Job Training Program](https://jobright.ai/jobs/info/68ac89f4d627244576e469fd?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Aug 25 |
 | **[Legends](http://legends.net)** | **[Student Engagement Specialist - University of Wisconsin - Madison](https://jobright.ai/jobs/info/68ac8864758f2e4ac30064bf?utm_campaign=1057&utm_source=git)** | Madison, WI | Hybrid | Aug 25 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Assurance & Transparency (DAT) Tech Intern - Summer 2026](https://jobright.ai/jobs/info/68ac85b2d627244576e4677c?utm_campaign=1057&utm_source=git)** | TX-Dallas | On Site | Aug 25 |
 | ↳ | **[Digital Assurance & Transparency (DAT) Tech Intern - Summer 2026](https://jobright.ai/jobs/info/68ac853adaf1431824c95b38?utm_campaign=1057&utm_source=git)** | NY-New York | On Site | Aug 25 |
 | ↳ | **[Digital Assurance & Transparency (DAT) Tech Intern - Summer 2026](https://jobright.ai/jobs/info/68ac851fdaf1431824c95afa?utm_campaign=1057&utm_source=git)** | IL-Rosemont | On Site | Aug 25 |
-| ↳ | **[Digital Assurance & Transparency (DAT) Tech Intern - Summer 2026](https://jobright.ai/jobs/info/68ac84a8daf1431824c95a2d?utm_campaign=1057&utm_source=git)** | TX-Houston | On Site | Aug 25 |
-| ↳ | **[Digital Assurance & Transparency (DAT) Tech Intern - Summer 2026](https://jobright.ai/jobs/info/68ac840dd627244576e465f7?utm_campaign=1057&utm_source=git)** | IL-Chicago | On Site | Aug 25 |
-| **[Year Up United](http://yearup.org)** | **[Software Development Job Training Program](https://jobright.ai/jobs/info/68adafb4daf1431824c9d741?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Aug 25 |
-| ↳ | **[Project Management Job Training Program](https://jobright.ai/jobs/info/68adab33d627244576e4e3eb?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Aug 25 |
-| ↳ | **[Application Development & Support Career Training Program](https://jobright.ai/jobs/info/68adaf5adaf1431824c9d6f7?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Aug 25 |
-| **[Zalando](https://jobs.zalando.com/)** | **[Working Student AOS](https://jobright.ai/jobs/info/68ac6a6ddaf1431824c94feb?utm_campaign=1057&utm_source=git)** | Remote Work | Remote | Aug 25 |
-| **[Con Edison](http://www.coned.com)** | **[Analyst Aide Temp Coops - College Students (Business Majors)](https://jobright.ai/jobs/info/688f7526e5cead4afd460cc1?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Aug 25 |
-| ↳ | **[Computer Aide Temp Coops - College Students (IT Majors)](https://jobright.ai/jobs/info/688f7620cdbd821a366459dd?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Aug 25 |
-| **[Williams](https://www.williams.com)** | **[Summer 2026 Internship - University of Houston](https://jobright.ai/jobs/info/68ac5b20d627244576e455df?utm_campaign=1057&utm_source=git)** | Tulsa, OK | Hybrid | Aug 25 |
-| ↳ | **[Summer 2026 Internship - University of Pittsburg](https://jobright.ai/jobs/info/68ac5899d627244576e453dc?utm_campaign=1057&utm_source=git)** | Tulsa, OK | Hybrid | Aug 25 |
-| ↳ | **[Summer 2026 Internship - University of Tulsa](https://jobright.ai/jobs/info/68ac54c7758f2e4ac3004fb4?utm_campaign=1057&utm_source=git)** | Tulsa, OK | Hybrid | Aug 25 |
-| ↳ | **[Summer 2026 Internship - Oklahoma State University](https://jobright.ai/jobs/info/68ac4abf758f2e4ac3004d0d?utm_campaign=1057&utm_source=git)** | Tulsa, OK | Hybrid | Aug 25 |
-| ↳ | **[Summer 2026 Internship - University of Oklahoma](https://jobright.ai/jobs/info/68ac45c3758f2e4ac3004bc1?utm_campaign=1057&utm_source=git)** | Tulsa, OK | Hybrid | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
