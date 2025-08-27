@@ -57,14 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Central Michigan College](http://www.ncmich.edu/)** | **[Student Employee Reading Tutor - North Central Michigan College](https://jobright.ai/jobs/info/68aedaf47bcb7608b3d29df6?utm_campaign=1057&utm_source=git)** | Petoskey, MI | On Site | Aug 27 |
+| **[Beaufort County](https://www.beaufortcountysc.gov/)** | **[Assistant Naturalist Intern](https://jobright.ai/jobs/info/68aed9e67bcb7608b3d29d80?utm_campaign=1057&utm_source=git)** | Beaufort, SC | On Site | Aug 27 |
 | **[Year Up United](http://yearup.org)** | **[Data Management Career Training Opportunity](https://jobright.ai/jobs/info/68aed5357bcb7608b3d29cee?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Aug 27 |
 | **[RIVERSIDE UNIFIED SCHOOL DISTRICT](http://riversideunified.org)** | **[Internal Only - Substitute Teacher Recruitment 2025 - 2026 (Internal Student Teachers Only)](https://jobright.ai/jobs/info/68aecbfc7bcb7608b3d2995d?utm_campaign=1057&utm_source=git)** | Riverside County, CA | On Site | Aug 27 |
 | **[Specialized Education Services, Inc.](http://www.sesischools.com)** | **[Intern Credentialed Special Education Teacher](https://jobright.ai/jobs/info/68aebdd12daaba3984419d72?utm_campaign=1057&utm_source=git)** | Sherman, TX | On Site | Aug 27 |
+| **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Clerk Typist - Night School (Temporary)(Office/On-site)](https://jobright.ai/jobs/info/68aedcf22daaba398441a957?utm_campaign=1057&utm_source=git)** | Danbury, CT | On Site | Aug 27 |
+| **[Lamar State College-Port Arthur](http://www.lamarpa.edu/)** | **[Student Assistant for Financial Aid](https://jobright.ai/jobs/info/68aee4e82daaba398441aaee?utm_campaign=1057&utm_source=git)** | Port Arthur, TX | On Site | Aug 27 |
 | **[Capital Area Food Bank](https://www.capitalareafoodbank.org)** | **[Healthcare Pilots Intern](https://jobright.ai/jobs/info/68aeb4ec7bcb7608b3d28e47?utm_campaign=1057&utm_source=git)** | Washington, DC, USA | On Site | Aug 27 |
 | ↳ | **[Healthcare Pilots Intern](https://jobright.ai/jobs/info/68aecd732daaba398441a50b?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Aug 27 |
 | **[City of Hamilton, Ohio](https://www.hamilton-oh.gov)** | **[College Intern - Neighborhoods](https://jobright.ai/jobs/info/68aec68a2daaba398441a23e?utm_campaign=1057&utm_source=git)** | Hamilton, OH | Hybrid | Aug 26 |
 | **[Epilepsy Foundation](http://www.efgreatersil.org)** | **[Internship Program Fall 2025](https://jobright.ai/jobs/info/68aea9a97bcb7608b3d28bfd?utm_campaign=1057&utm_source=git)** | United States | Remote | Aug 26 |
 | **[Boys & Girls Clubs of Middle Tennessee](http://www.bgcmt.org/)** | **[Computer Science Intern (CSI): Spring 2026](https://jobright.ai/jobs/info/68aea98d2daaba39844196d7?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Aug 26 |
+| **[KinderCare Learning Companies](http://www.kcecareers.com/)** | **[Site Director at International Leadership of Texas - Richmond](https://jobright.ai/jobs/info/68aed9531f0a2a568a05e054?utm_campaign=1057&utm_source=git)** | Richmond, TX | On Site | Aug 26 |
 | **[Health and Safety Council®](http://www.hasc.com)** | **[eLearning Instructional Designer Intern](https://jobright.ai/jobs/info/68ae9acc03c5f15c2fd8a5b1?utm_campaign=1057&utm_source=git)** | Sulphur, LA | On Site | Aug 26 |
 | **[Young Life](https://sworlando.younglife.org)** | **[HWR Intern Experience - NW Treasure Valley](https://jobright.ai/jobs/info/68ae8fc2d627244576e54e3d?utm_campaign=1057&utm_source=git)** | Middleton, ID | On Site | Aug 26 |
 | **[Newark Unified School District](http://www.newarkunified.org)** | **[100% School Psychologist (Special Education)](https://jobright.ai/jobs/info/68ae8f09758f2e4ac3014968?utm_campaign=1057&utm_source=git)** | Newark, CA | On Site | Aug 26 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of South Florida Sarasota-Manatee](https://www.sarasotamanatee.usf.edu/)** | **[Innovative Education Digital Learning, Student Support Tech](https://jobright.ai/jobs/info/68addbfa758f2e4ac300f1eb?utm_campaign=1057&utm_source=git)** | Sarasota, FL | On Site | Aug 26 |
 | **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Conservation Education Presenter Internship - Spring 2026](https://jobright.ai/jobs/info/68add17c758f2e4ac300ed3f?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Aug 26 |
 | **[Areteem Institute](https://areteem.org/)** | **[Math Curriculum Intern - Math Contests (Remote)](https://jobright.ai/jobs/info/68add11f758f2e4ac300ed00?utm_campaign=1057&utm_source=git)** | California, United States | Remote | Aug 26 |
-| **[Starr Insurance](https://starrcompanies.com/)** | **[UGA ONLY – Starr Summer 2026 Internship](https://jobright.ai/jobs/info/68adca47daf1431824c9e174?utm_campaign=1057&utm_source=git)** | 399 Park Avenue-New York, NY | On Site | Aug 26 |
-| ↳ | **[UGA ONLY – Starr Summer 2026 Internship](https://jobright.ai/jobs/info/68adca11daf1431824c9e130?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Aug 26 |
-| ↳ | **[UGA ONLY – Starr Summer 2026 Internship](https://jobright.ai/jobs/info/68adc9b0758f2e4ac300ea58?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Aug 26 |
-| ↳ | **[UGA ONLY – Starr Summer 2026 Internship](https://jobright.ai/jobs/info/68adc988758f2e4ac300ea1b?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Aug 26 |
-| ↳ | **[UGA ONLY – Starr Summer 2026 Internship](https://jobright.ai/jobs/info/68adc964758f2e4ac300e9fc?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
