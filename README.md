@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rice University](http://www.rice.edu)** | **[Postdoctoral Associate - Kinder Institute for Urban Research](https://jobright.ai/jobs/info/68b05c902d46f6396cae4870?utm_campaign=1057&utm_source=git)** | Houston, TX | Hybrid | Aug 28 |
+| **[DriveTime](https://www.drivetime.com)** | **[Organizational Development Intern (Summer 2024)](https://jobright.ai/jobs/info/68b056fbb47fb001d6891449?utm_campaign=1057&utm_source=git)** | Tempe, AZ | On Site | Aug 28 |
+| **[Saga Education](http://www.sagaeducation.org)** | **[Remote Math Tutor (Federal Work-Study at Brandeis University) Milford](https://jobright.ai/jobs/info/6893ae124c7e851b90adf7ce?utm_campaign=1057&utm_source=git)** | Milford, MA | Remote | Aug 28 |
+| **[Jobgether](https://jobgether.com/)** | **[Remote Math Tutor (Federal Work-Study at Brandeis University) Marlborough](https://jobright.ai/jobs/info/68b04ce7b47fb001d6890cf8?utm_campaign=1057&utm_source=git)** | United States | Remote | Aug 28 |
 | **[University of Michigan](https://www.umich.edu)** | **[Planet Blue Ambassador Program Intern (Student/Work Study)](https://jobright.ai/jobs/info/68b0438d13563e782a9f4594?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Aug 28 |
 | **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/68b02348e723db6c9b7b6079?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | On Site | Aug 28 |
+| **[TC Energy](https://www.tcenergy.com/)** | **[2026 Intern Opportunities for Prior Students - US](https://jobright.ai/jobs/info/6893beaff47efe2113966a3e?utm_campaign=1057&utm_source=git)** | Houston, TX | Hybrid | Aug 28 |
 | **[International Institute of New England](https://iine.org/)** | **[Volunteer Coordination Intern (IINE Lowell)](https://jobright.ai/jobs/info/68b01ba2e723db6c9b7b5e6f?utm_campaign=1057&utm_source=git)** | Lowell, MA | Hybrid | Aug 28 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/68b00efd13563e782a9f34fe?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Aug 28 |
 | **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Student Intern Research Assistant I](https://jobright.ai/jobs/info/68b00ee1b47fb001d688f6c2?utm_campaign=1057&utm_source=git)** | Brookline, MA | On Site | Aug 28 |
@@ -120,6 +125,7 @@ For a complete list, click the following sortable link below:
 | **[National Reconnaissance Office (NRO)](https://www.nro.gov)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/68af55cb962903596357bb12?utm_campaign=1057&utm_source=git)** | Chantilly, VA | On Site | Aug 27 |
 | **[MIT Office of Resource Development](http://development.mit.edu/)** | **[Graduate Student Professional Development Programs Intern](https://jobright.ai/jobs/info/68af558b1f0a2a568a060a59?utm_campaign=1057&utm_source=git)** | Cambridge, MA, 02139, USA | Hybrid | Aug 27 |
 | **[Baird](http://www.rwbaird.com)** | **[Women In Banking Undergraduate Event 2025 (Tysons Corner, VA)](https://jobright.ai/jobs/info/68af55121f0a2a568a0609f5?utm_campaign=1057&utm_source=git)** | VA-Tysons Corner | On Site | Aug 27 |
+| **[Vanguard](http://investor.vanguard.com/corporate-portal)** | **[College to Corporate Internship - Advice](https://jobright.ai/jobs/info/68b05bed13563e782a9f55ad?utm_campaign=1057&utm_source=git)** | Newtown Square, PA | Hybrid | Aug 27 |
 | **[City Colleges of Chicago](http://www.ccc.edu/Pages/default.aspx)** | **[College Work Study- The Digital Den (Digital Media & Technology Center) (00010880)](https://jobright.ai/jobs/info/68af49e62daaba398441cda0?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Aug 27 |
 | **[American University](http://american.edu)** | **[PHYS - 110 Teaching/Research Assistant (Student)](https://jobright.ai/jobs/info/68af449d1f0a2a568a0602ca?utm_campaign=1057&utm_source=git)** | East Campus (Washington, DC) | On Site | Aug 27 |
 | **[University of Michigan](https://www.umich.edu)** | **[UMSI Presidential Postdoctoral Fellowship](https://jobright.ai/jobs/info/68af43937bcb7608b3d2c07d?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | Hybrid | Aug 27 |
@@ -146,15 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Part-Time 4-H Summer Assistant/Intern](https://jobright.ai/jobs/info/68af17f62daaba398441b88d?utm_campaign=1057&utm_source=git)** | York County, PA | On Site | Aug 27 |
 | **[Year Up United](http://yearup.org)** | **[Business Operations Career Training Program](https://jobright.ai/jobs/info/689725bf8c6d6b4426785baa?utm_campaign=1057&utm_source=git)** | Newark, NJ | On Site | Aug 27 |
 | ↳ | **[Financial Operations Job Training Program](https://jobright.ai/jobs/info/68933f47a9199876488dc8b8?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Aug 27 |
-| ↳ | **[Application Development Career Training Program](https://jobright.ai/jobs/info/6891f1c6f5ee707a15dc28f4?utm_campaign=1057&utm_source=git)** | Trenton, NJ | On Site | Aug 27 |
 | ↳ | **[Desktop Support Job Training Program](https://jobright.ai/jobs/info/68af382e1f0a2a568a05fb76?utm_campaign=1057&utm_source=git)** | Newark, NJ | On Site | Aug 27 |
+| ↳ | **[Application Development Career Training Program](https://jobright.ai/jobs/info/6891f1c6f5ee707a15dc28f4?utm_campaign=1057&utm_source=git)** | Trenton, NJ | On Site | Aug 27 |
 | ↳ | **[Data Management Career Training Opportunity](https://jobright.ai/jobs/info/6892178a4c7e851b90ad3268?utm_campaign=1057&utm_source=git)** | Trenton, NJ | On Site | Aug 27 |
 | **[RDO Truck Centers](https://www.rdotruckcenter.com)** | **[AYF Service Intern](https://jobright.ai/jobs/info/673baf20dd90bb7c1f9cab2a?utm_campaign=1057&utm_source=git)** | Bismarck, ND | On Site | Aug 27 |
 | **[Drama Kids of North Columbus](https://dramakids.com/north-columbus-oh/)** | **[Drama Teacher - Part Time Position/Intern](https://jobright.ai/jobs/info/68af0e151f0a2a568a05ed60?utm_campaign=1057&utm_source=git)** | Worthington, OH | On Site | Aug 27 |
-| **[Year Up United](http://yearup.org)** | **[Application Development Career Training Program](https://jobright.ai/jobs/info/6892e26cf47efe21139605f4?utm_campaign=1057&utm_source=git)** | Newark, NJ | On Site | Aug 27 |
-| **[Young Life](https://sworlando.younglife.org)** | **[HWR Intern Experience - NW Treasure Valley](https://jobright.ai/jobs/info/68af0d411f0a2a568a05ecb5?utm_campaign=1057&utm_source=git)** | Middleton, ID | On Site | Aug 27 |
-| **[Humana](http://www.humana.com)** | **[Summer 2026 MBA Internship- NBMBAA](https://jobright.ai/jobs/info/68af0ce82daaba398441b5ea?utm_campaign=1057&utm_source=git)** | Remote Nationwide | Remote | Aug 27 |
-| **[Year Up United](http://yearup.org)** | **[Desktop Management Career Training Program](https://jobright.ai/jobs/info/68a801d7758f2e4ac3fefe9f?utm_campaign=1057&utm_source=git)** | Trenton, NJ | On Site | Aug 27 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Corporate Risk Summer Internship, Workout - Early Careers](https://jobright.ai/jobs/info/68af05507bcb7608b3d2a860?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Aug 27 |
-| **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Student Analyst Opportunity: 1700+ Hours Completed Required – Join Our Team!](https://jobright.ai/jobs/info/684520295cba79b80d3ad312?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
