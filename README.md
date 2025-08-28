@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan](https://www.umich.edu)** | **[Planet Blue Ambassador Program Intern (Student/Work Study)](https://jobright.ai/jobs/info/68b0438d13563e782a9f4594?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Aug 28 |
 | **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/68b02348e723db6c9b7b6079?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | On Site | Aug 28 |
 | **[International Institute of New England](https://iine.org/)** | **[Volunteer Coordination Intern (IINE Lowell)](https://jobright.ai/jobs/info/68b01ba2e723db6c9b7b5e6f?utm_campaign=1057&utm_source=git)** | Lowell, MA | Hybrid | Aug 28 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/68b00efd13563e782a9f34fe?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Aug 28 |
@@ -145,8 +146,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Part-Time 4-H Summer Assistant/Intern](https://jobright.ai/jobs/info/68af17f62daaba398441b88d?utm_campaign=1057&utm_source=git)** | York County, PA | On Site | Aug 27 |
 | **[Year Up United](http://yearup.org)** | **[Business Operations Career Training Program](https://jobright.ai/jobs/info/689725bf8c6d6b4426785baa?utm_campaign=1057&utm_source=git)** | Newark, NJ | On Site | Aug 27 |
 | ↳ | **[Financial Operations Job Training Program](https://jobright.ai/jobs/info/68933f47a9199876488dc8b8?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Aug 27 |
-| ↳ | **[Desktop Support Job Training Program](https://jobright.ai/jobs/info/68af382e1f0a2a568a05fb76?utm_campaign=1057&utm_source=git)** | Newark, NJ | On Site | Aug 27 |
 | ↳ | **[Application Development Career Training Program](https://jobright.ai/jobs/info/6891f1c6f5ee707a15dc28f4?utm_campaign=1057&utm_source=git)** | Trenton, NJ | On Site | Aug 27 |
+| ↳ | **[Desktop Support Job Training Program](https://jobright.ai/jobs/info/68af382e1f0a2a568a05fb76?utm_campaign=1057&utm_source=git)** | Newark, NJ | On Site | Aug 27 |
 | ↳ | **[Data Management Career Training Opportunity](https://jobright.ai/jobs/info/6892178a4c7e851b90ad3268?utm_campaign=1057&utm_source=git)** | Trenton, NJ | On Site | Aug 27 |
 | **[RDO Truck Centers](https://www.rdotruckcenter.com)** | **[AYF Service Intern](https://jobright.ai/jobs/info/673baf20dd90bb7c1f9cab2a?utm_campaign=1057&utm_source=git)** | Bismarck, ND | On Site | Aug 27 |
 | **[Drama Kids of North Columbus](https://dramakids.com/north-columbus-oh/)** | **[Drama Teacher - Part Time Position/Intern](https://jobright.ai/jobs/info/68af0e151f0a2a568a05ed60?utm_campaign=1057&utm_source=git)** | Worthington, OH | On Site | Aug 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Year Up United](http://yearup.org)** | **[Desktop Management Career Training Program](https://jobright.ai/jobs/info/68a801d7758f2e4ac3fefe9f?utm_campaign=1057&utm_source=git)** | Trenton, NJ | On Site | Aug 27 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Corporate Risk Summer Internship, Workout - Early Careers](https://jobright.ai/jobs/info/68af05507bcb7608b3d2a860?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Aug 27 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Student Analyst Opportunity: 1700+ Hours Completed Required – Join Our Team!](https://jobright.ai/jobs/info/684520295cba79b80d3ad312?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Aug 27 |
-| **[North Central Michigan College](http://www.ncmich.edu/)** | **[Student Employee Reading Tutor - North Central Michigan College](https://jobright.ai/jobs/info/68aedaf47bcb7608b3d29df6?utm_campaign=1057&utm_source=git)** | Petoskey, MI | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
