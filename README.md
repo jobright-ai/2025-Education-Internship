@@ -57,12 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Rice University](http://www.rice.edu)** | **[Postdoctoral Associate - Kinder Institute for Urban Research](https://jobright.ai/jobs/info/68b05c902d46f6396cae4870?utm_campaign=1057&utm_source=git)** | Houston, TX | Hybrid | Aug 28 |
+| **[Centene Corporation](http://www.centene.com)** | **[Intern (Undergraduate - Part Time)](https://jobright.ai/jobs/info/68b0795a13563e782a9f681b?utm_campaign=1057&utm_source=git)** | Remote-MO | Remote | Aug 28 |
+| **[Land O'Lakes Venture37](http://www.landolakesventure37.org)** | **[Student Worker (Intern)](https://jobright.ai/jobs/info/68b078f2b47fb001d6892930?utm_campaign=1057&utm_source=git)** | Virtual (USA) | Remote | Aug 28 |
+| **[Year Up United](http://yearup.org)** | **[Banking Job Training Program](https://jobright.ai/jobs/info/68b07667b47fb001d6892816?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Aug 28 |
+| ↳ | **[IT Job Training Program](https://jobright.ai/jobs/info/68b06ece2d46f6396cae5695?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Aug 28 |
+| **[Community Consolidated School District 21](http://www.ccsd21.org)** | **[Psychologist Internship](https://jobright.ai/jobs/info/68b06e122d46f6396cae55e3?utm_campaign=1057&utm_source=git)** | Wheeling, IL | On Site | Aug 28 |
+| **[Ethos Early Learning Center](http://www.ethoslearn.com/)** | **[Internship in Early Childhood Education](https://jobright.ai/jobs/info/68b06b1313563e782a9f5fd1?utm_campaign=1057&utm_source=git)** | South Boston, VA | On Site | Aug 28 |
+| **[Ankura](https://ankura.com)** | **[University Intern, Risk Advisory, eDiscovery (Analytics Institute)](https://jobright.ai/jobs/info/68b069e013563e782a9f5e2e?utm_campaign=1057&utm_source=git)** | Washington D.C. | On Site | Aug 28 |
 | **[DriveTime](https://www.drivetime.com)** | **[Organizational Development Intern (Summer 2024)](https://jobright.ai/jobs/info/68b056fbb47fb001d6891449?utm_campaign=1057&utm_source=git)** | Tempe, AZ | On Site | Aug 28 |
 | **[Saga Education](http://www.sagaeducation.org)** | **[Remote Math Tutor (Federal Work-Study at Brandeis University) Milford](https://jobright.ai/jobs/info/6893ae124c7e851b90adf7ce?utm_campaign=1057&utm_source=git)** | Milford, MA | Remote | Aug 28 |
+| **[Phillips 66](http://www.phillips66.com/)** | **[2026 University Intern-Information Technology](https://jobright.ai/jobs/info/6893e84fa9199876488e0f9c?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Aug 28 |
 | **[Jobgether](https://jobgether.com/)** | **[Remote Math Tutor (Federal Work-Study at Brandeis University) Marlborough](https://jobright.ai/jobs/info/68b04ce7b47fb001d6890cf8?utm_campaign=1057&utm_source=git)** | United States | Remote | Aug 28 |
 | **[University of Michigan](https://www.umich.edu)** | **[Planet Blue Ambassador Program Intern (Student/Work Study)](https://jobright.ai/jobs/info/68b0438d13563e782a9f4594?utm_campaign=1057&utm_source=git)** | Flint, MI | Hybrid | Aug 28 |
+| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (OT/OTA Adolescent RTC) Spring 2026 OT Fieldwork](https://jobright.ai/jobs/info/6893af054c7e851b90adf862?utm_campaign=1057&utm_source=git)** | Towson, MD | On Site | Aug 28 |
 | **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/68b02348e723db6c9b7b6079?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | On Site | Aug 28 |
+| **[Spring Hill College](http://www.shc.edu/)** | **[Office of Admissions / Telerecruiter](https://jobright.ai/jobs/info/68b076a52d46f6396cae5a6b?utm_campaign=1057&utm_source=git)** | Mobile, AL | On Site | Aug 28 |
 | **[TC Energy](https://www.tcenergy.com/)** | **[2026 Intern Opportunities for Prior Students - US](https://jobright.ai/jobs/info/6893beaff47efe2113966a3e?utm_campaign=1057&utm_source=git)** | Houston, TX | Hybrid | Aug 28 |
 | **[International Institute of New England](https://iine.org/)** | **[Volunteer Coordination Intern (IINE Lowell)](https://jobright.ai/jobs/info/68b01ba2e723db6c9b7b5e6f?utm_campaign=1057&utm_source=git)** | Lowell, MA | Hybrid | Aug 28 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/68b00efd13563e782a9f34fe?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Aug 28 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American University](http://american.edu)** | **[Research/Teaching Assistant-1 (Student)](https://jobright.ai/jobs/info/68af1a717bcb7608b3d2ad58?utm_campaign=1057&utm_source=git)** | Main Campus (Washington, DC) | On Site | Aug 27 |
 | **[Penn State University](http://psu.edu)** | **[Part-Time 4-H Summer Assistant/Intern](https://jobright.ai/jobs/info/68af19481f0a2a568a05f017?utm_campaign=1057&utm_source=git)** | Centre County, PA | On Site | Aug 27 |
 | ↳ | **[Part-Time 4-H Summer Assistant/Intern](https://jobright.ai/jobs/info/68af18c01f0a2a568a05efc6?utm_campaign=1057&utm_source=git)** | Perry County, PA | On Site | Aug 27 |
-| ↳ | **[Part-Time 4-H Summer Assistant/Intern](https://jobright.ai/jobs/info/68af18322daaba398441b8ba?utm_campaign=1057&utm_source=git)** | Lycoming County, PA | On Site | Aug 27 |
-| ↳ | **[Part-Time 4-H Summer Assistant/Intern](https://jobright.ai/jobs/info/68af17f62daaba398441b88d?utm_campaign=1057&utm_source=git)** | York County, PA | On Site | Aug 27 |
-| **[Year Up United](http://yearup.org)** | **[Business Operations Career Training Program](https://jobright.ai/jobs/info/689725bf8c6d6b4426785baa?utm_campaign=1057&utm_source=git)** | Newark, NJ | On Site | Aug 27 |
-| ↳ | **[Financial Operations Job Training Program](https://jobright.ai/jobs/info/68933f47a9199876488dc8b8?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Aug 27 |
-| ↳ | **[Desktop Support Job Training Program](https://jobright.ai/jobs/info/68af382e1f0a2a568a05fb76?utm_campaign=1057&utm_source=git)** | Newark, NJ | On Site | Aug 27 |
-| ↳ | **[Application Development Career Training Program](https://jobright.ai/jobs/info/6891f1c6f5ee707a15dc28f4?utm_campaign=1057&utm_source=git)** | Trenton, NJ | On Site | Aug 27 |
-| ↳ | **[Data Management Career Training Opportunity](https://jobright.ai/jobs/info/6892178a4c7e851b90ad3268?utm_campaign=1057&utm_source=git)** | Trenton, NJ | On Site | Aug 27 |
-| **[RDO Truck Centers](https://www.rdotruckcenter.com)** | **[AYF Service Intern](https://jobright.ai/jobs/info/673baf20dd90bb7c1f9cab2a?utm_campaign=1057&utm_source=git)** | Bismarck, ND | On Site | Aug 27 |
-| **[Drama Kids of North Columbus](https://dramakids.com/north-columbus-oh/)** | **[Drama Teacher - Part Time Position/Intern](https://jobright.ai/jobs/info/68af0e151f0a2a568a05ed60?utm_campaign=1057&utm_source=git)** | Worthington, OH | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
