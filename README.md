@@ -57,18 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Texas Department of State Health Services](https://www.dshs.texas.gov/)** | **[Preventive Medicine Physician Residency and Internship Coordinator](https://jobright.ai/jobs/info/68afcfc8b47fb001d688d8f0?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Aug 27 |
+| **[State of North Carolina](http://www.nc.gov)** | **[High School Intern Program](https://jobright.ai/jobs/info/68afcf3fb47fb001d688d7e2?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Aug 27 |
+| **[Johnson & Johnson MedTech](https://www.jnjmedicaldevices.com/)** | **[Summer 2026 Associate Clinical Account Specialist Intern](https://jobright.ai/jobs/info/68afcecbe723db6c9b7b3c27?utm_campaign=1057&utm_source=git)** | New York, NY | Remote | Aug 27 |
 | **[American University](http://american.edu)** | **[Office Assistant, Graduate Enrollment (Student) (FWS)](https://jobright.ai/jobs/info/68afafadf20641371441f919?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Aug 27 |
 | ↳ | **[PHYS - 110 Teaching/Research Assistant (Student)](https://jobright.ai/jobs/info/68afaf98a15ec449cbb1c44d?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Aug 27 |
 | ↳ | **[Communications Assistant, PHRCR (Student)](https://jobright.ai/jobs/info/68afaecb4e6a6a711484eb0b?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Aug 27 |
 | **[Southwestern Michigan College](http://www.swmich.edu/)** | **[Early Learning Center Assistant](https://jobright.ai/jobs/info/68afae82a15ec449cbb1c38b?utm_campaign=1057&utm_source=git)** | Dowagiac, MI | On Site | Aug 27 |
 | **[American University](http://american.edu)** | **[Office Assistant, PHRCR (Student) (FWS)](https://jobright.ai/jobs/info/68afad604e6a6a711484e9c8?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Aug 27 |
 | ↳ | **[Research Program Assistant (Student) (FWS)](https://jobright.ai/jobs/info/68afad444e6a6a711484e9b1?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Aug 27 |
+| **[Seattle Public Schools](http://www.seattleschools.org)** | **[25/26 Student Intern Substitute Teacher - Hourly](https://jobright.ai/jobs/info/68afcd2713563e782a9f1271?utm_campaign=1057&utm_source=git)** | St John, WA | On Site | Aug 27 |
 | **[Southland Christian Church](https://southland.church)** | **[Southland Intern (Summer 2026)](https://jobright.ai/jobs/info/68afa9a12daaba398441fbd6?utm_campaign=1057&utm_source=git)** | Nicholasville,  KY | On Site | Aug 27 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Intern](https://jobright.ai/jobs/info/68afa94c2daaba398441fb6c?utm_campaign=1057&utm_source=git)** | Daytona Beach, FL | On Site | Aug 27 |
 | **[Sheridan College](https://www.sheridan.edu)** | **[(Student Position) Financial Aid Office Assistant](https://jobright.ai/jobs/info/68afa8f9962903596357e2f6?utm_campaign=1057&utm_source=git)** | Sheridan County, KS | On Site | Aug 27 |
-| **[Ankura](https://ankura.com)** | **[University Intern, Data Privacy](https://jobright.ai/jobs/info/68afa8e92daaba398441fadc?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Aug 27 |
-| ↳ | **[University Intern, Data Privacy](https://jobright.ai/jobs/info/68afa829962903596357e215?utm_campaign=1057&utm_source=git)** | Washington D.C. | On Site | Aug 27 |
-| ↳ | **[University Intern, Data Privacy](https://jobright.ai/jobs/info/68afa7711f0a2a568a0630fd?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Aug 27 |
 | **[Southland Christian Church](https://southland.church)** | **[Southland Intern (Summer 2026)](https://jobright.ai/jobs/info/68afa6831f0a2a568a063053?utm_campaign=1057&utm_source=git)** | Nicholasville, KY | On Site | Aug 27 |
 | **[American University](http://american.edu)** | **[Graduate Program Development Assistant, PHRCR (Student)](https://jobright.ai/jobs/info/68afa63a1f0a2a568a063006?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Aug 27 |
 | ↳ | **[Research/Teaching Assistant-1 (Student)](https://jobright.ai/jobs/info/68afa52c962903596357e05d?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Aug 27 |
@@ -78,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Summer 2026 - Sustainability College Intern](https://jobright.ai/jobs/info/68af9d8e1f0a2a568a062d83?utm_campaign=1057&utm_source=git)** | Savannah, GA | On Site | Aug 27 |
 | **[Johnson & Johnson (JNJ)](https://www.linkedin.com/company/105928786)** | **[Summer 2026 Associate Clinical Account Specialist Intern](https://jobright.ai/jobs/info/68af96e42daaba398441f51e?utm_campaign=1057&utm_source=git)** | Irvine, California, United States of America | Remote | Aug 27 |
 | ↳ | **[Summer 2026 Associate Clinical Account Specialist Intern](https://jobright.ai/jobs/info/68af968a962903596357dcaa?utm_campaign=1057&utm_source=git)** | New York, New York, United States | Remote | Aug 27 |
+| **[American University](http://american.edu)** | **[Research/Teaching Assistant (Student)](https://jobright.ai/jobs/info/68afc77a13563e782a9f0ed3?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Aug 27 |
 | **[Newman University](http://www.newmanu.edu/)** | **[Graduate Assistant - Sports Information](https://jobright.ai/jobs/info/68af938e2daaba398441f3a6?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Aug 27 |
 | **[American University](http://american.edu)** | **[Graduate Research/Teaching Assistant (Student)](https://jobright.ai/jobs/info/68afaf20a15ec449cbb1c3f9?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Aug 27 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Development - Summer Non-Student](https://jobright.ai/jobs/info/68af8d14962903596357d89b?utm_campaign=1057&utm_source=git)** | Athens, GA | On Site | Aug 27 |
@@ -117,21 +119,17 @@ For a complete list, click the following sortable link below:
 | **[County of San Diego](http://www.sdcounty.ca.gov)** | **[Student Worker-19090504-Undergraduate, Graduate/Tech and High School](https://jobright.ai/jobs/info/68af33e37bcb7608b3d2b6f4?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Aug 27 |
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af2afe7bcb7608b3d2b33e?utm_campaign=1057&utm_source=git)** | Camden, NJ | On Site | Aug 27 |
 | **[American University](http://american.edu)** | **[Graduate Research/Teaching Assistant (Student)](https://jobright.ai/jobs/info/68af27411f0a2a568a05f51d?utm_campaign=1057&utm_source=git)** | Main Campus (Washington, DC) | On Site | Aug 27 |
-| **[Penn State University](http://psu.edu)** | **[Part-Time 4-H Summer Assistant/Intern](https://jobright.ai/jobs/info/68af26d77bcb7608b3d2b289?utm_campaign=1057&utm_source=git)** | Bucks County, PA | On Site | Aug 27 |
 | **[Texas A&M University](http://www.tamu.edu)** | **[Graduate Assistant - Non Teaching (Testing Services)](https://jobright.ai/jobs/info/68af260d2daaba398441bd85?utm_campaign=1057&utm_source=git)** | Prairie View, TX | On Site | Aug 27 |
 | **[American University](http://american.edu)** | **[Graduate Program Development Assistant, PHRCR (Student)](https://jobright.ai/jobs/info/68af24e82daaba398441bcc3?utm_campaign=1057&utm_source=git)** | Main Campus (Washington, DC) | Hybrid | Aug 27 |
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af24d02daaba398441bca3?utm_campaign=1057&utm_source=git)** | Orange, CA | On Site | Aug 27 |
 | **[Penn State University](http://psu.edu)** | **[Part-Time 4-H Summer Assistant/Intern](https://jobright.ai/jobs/info/68af23367bcb7608b3d2b0e8?utm_campaign=1057&utm_source=git)** | Clarion County, PA | On Site | Aug 27 |
+| **[Soccer Shots Southeast PA & Chester County](https://www.soccershots.org/southeastpa/)** | **[Soccer Shots Coaching Internship](https://jobright.ai/jobs/info/68af222b7bcb7608b3d2b063?utm_campaign=1057&utm_source=git)** | King of Prussia, PA | On Site | Aug 27 |
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af21bc7bcb7608b3d2b025?utm_campaign=1057&utm_source=git)** | Ormond Beach, FL | On Site | Aug 27 |
 | ↳ | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af1ef81f0a2a568a05f214?utm_campaign=1057&utm_source=git)** | Louisville, KY | On Site | Aug 27 |
 | ↳ | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af1d147bcb7608b3d2af6b?utm_campaign=1057&utm_source=git)** | Camden, New Jersey, United States | On Site | Aug 27 |
-| **[Soccer Shots Southeast PA & Chester County](https://www.soccershots.org/southeastpa/)** | **[Soccer Shots Coaching Internship](https://jobright.ai/jobs/info/68af1cab7bcb7608b3d2af30?utm_campaign=1057&utm_source=git)** | King of Prussia, PA | On Site | Aug 27 |
 | **[Penn State University](http://psu.edu)** | **[Part-Time 4-H Summer Assistant/Intern](https://jobright.ai/jobs/info/68af1b877bcb7608b3d2ae37?utm_campaign=1057&utm_source=git)** | Snyder County, PA | On Site | Aug 27 |
-| ↳ | **[Part-Time 4-H Summer Assistant/Intern](https://jobright.ai/jobs/info/68af1b361f0a2a568a05f15b?utm_campaign=1057&utm_source=git)** | Westmoreland County, PA | On Site | Aug 27 |
 | **[American University](http://american.edu)** | **[Research/Teaching Assistant-1 (Student)](https://jobright.ai/jobs/info/68af1a717bcb7608b3d2ad58?utm_campaign=1057&utm_source=git)** | Main Campus (Washington, DC) | On Site | Aug 27 |
-| **[Penn State University](http://psu.edu)** | **[Part-Time 4-H Summer Assistant/Intern](https://jobright.ai/jobs/info/68af197c1f0a2a568a05f03d?utm_campaign=1057&utm_source=git)** | Lehigh County, PA | On Site | Aug 27 |
-| ↳ | **[Part-Time 4-H Summer Assistant/Intern](https://jobright.ai/jobs/info/68af196b2daaba398441b988?utm_campaign=1057&utm_source=git)** | Lebanon County, PA | On Site | Aug 27 |
-| ↳ | **[Part-Time 4-H Summer Assistant/Intern](https://jobright.ai/jobs/info/68af19481f0a2a568a05f017?utm_campaign=1057&utm_source=git)** | Centre County, PA | On Site | Aug 27 |
+| **[Penn State University](http://psu.edu)** | **[Part-Time 4-H Summer Assistant/Intern](https://jobright.ai/jobs/info/68af19481f0a2a568a05f017?utm_campaign=1057&utm_source=git)** | Centre County, PA | On Site | Aug 27 |
 | ↳ | **[Part-Time 4-H Summer Assistant/Intern](https://jobright.ai/jobs/info/68af18c01f0a2a568a05efc6?utm_campaign=1057&utm_source=git)** | Perry County, PA | On Site | Aug 27 |
 | ↳ | **[Part-Time 4-H Summer Assistant/Intern](https://jobright.ai/jobs/info/68af18322daaba398441b8ba?utm_campaign=1057&utm_source=git)** | Lycoming County, PA | On Site | Aug 27 |
 | ↳ | **[Part-Time 4-H Summer Assistant/Intern](https://jobright.ai/jobs/info/68af17f62daaba398441b88d?utm_campaign=1057&utm_source=git)** | York County, PA | On Site | Aug 27 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Capital Area Food Bank](https://www.capitalareafoodbank.org)** | **[Healthcare Pilots Intern](https://jobright.ai/jobs/info/68aeb4ec7bcb7608b3d28e47?utm_campaign=1057&utm_source=git)** | Washington, DC, USA | On Site | Aug 27 |
 | ↳ | **[Healthcare Pilots Intern](https://jobright.ai/jobs/info/68aecd732daaba398441a50b?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Aug 27 |
 | **[City of Hamilton, Ohio](https://www.hamilton-oh.gov)** | **[College Intern - Neighborhoods](https://jobright.ai/jobs/info/68aec68a2daaba398441a23e?utm_campaign=1057&utm_source=git)** | Hamilton, OH | Hybrid | Aug 26 |
+| **[Epilepsy Foundation](http://www.efgreatersil.org)** | **[Internship Program Fall 2025](https://jobright.ai/jobs/info/68aea9a97bcb7608b3d28bfd?utm_campaign=1057&utm_source=git)** | United States | Remote | Aug 26 |
+| **[Boys & Girls Clubs of Middle Tennessee](http://www.bgcmt.org/)** | **[Computer Science Intern (CSI): Spring 2026](https://jobright.ai/jobs/info/68aea98d2daaba39844196d7?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
