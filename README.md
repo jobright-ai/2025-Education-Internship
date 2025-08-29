@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hickman Mills C-1 School District](https://www.hickmanmills.org/)** | **[Summer School Student Intern](https://jobright.ai/jobs/info/68b1466704557a6c207bbf66?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | Aug 28 |
+| **[YMCA of Greater Boston](https://ymcaboston.org/)** | **[Volunteerism Intern](https://jobright.ai/jobs/info/68b1457a6fab621da7b0be2a?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | Aug 28 |
+| **[Drama Kids of North Columbus](https://dramakids.com/north-columbus-oh/)** | **[Drama Teacher - Part Time Position/Intern](https://jobright.ai/jobs/info/68b13f6404557a6c207bba3b?utm_campaign=1057&utm_source=git)** | Worthington, OH | On Site | Aug 28 |
 | **[NiSource](https://www.nisource.com/)** | **[Intern Operations- Technical Training](https://jobright.ai/jobs/info/68b12f3604557a6c207baa2d?utm_campaign=1057&utm_source=git)** | Columbus OH - Arena District | Hybrid | Aug 28 |
 | ↳ | **[Intern Operations- Technical Training](https://jobright.ai/jobs/info/68b12e946fab621da7b0a8ce?utm_campaign=1057&utm_source=git)** | Merrillville IN-SLC | Hybrid | Aug 28 |
 | **[Young Life](https://sworlando.younglife.org)** | **[HWR Intern Experience - BSU](https://jobright.ai/jobs/info/68b129f604557a6c207ba790?utm_campaign=1057&utm_source=git)** | Park City, UT | On Site | Aug 28 |
@@ -76,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - MBA](https://jobright.ai/jobs/info/68b0f752e815524ae11fa266?utm_campaign=1057&utm_source=git)** | Pomona, CA | Hybrid | Aug 28 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Psychology Program Manager-Homeless Engagement and Recovery Opportunity Program (HERO)](https://jobright.ai/jobs/info/68b0f6f36fab621da7b08ea2?utm_campaign=1057&utm_source=git)** | Tacoma, WA | On Site | Aug 28 |
 | **[Anheuser-Busch](https://sternbeverage.com)** | **[University Intern - Technology](https://jobright.ai/jobs/info/68b0f65604557a6c207b8d6f?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Aug 28 |
+| **[Gannon University](http://www.gannon.edu/)** | **[CEB Student Worker- Administrative](https://jobright.ai/jobs/info/68b15a5c04557a6c207bcec4?utm_campaign=1057&utm_source=git)** | Erie, PA | On Site | Aug 28 |
 | **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/68b0e9b72d46f6396cae97af?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Aug 28 |
 | **[American University](http://american.edu)** | **[Research Assistant - Behavioral Health & Wellbeing (Cotter) (Student)](https://jobright.ai/jobs/info/68b105be04557a6c207b96fe?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Aug 28 |
 | **[Compeer Financial](https://compeer.com/)** | **[Intern Education and Events](https://jobright.ai/jobs/info/68b0e1fc2d46f6396cae9211?utm_campaign=1057&utm_source=git)** | Lakeville, MN | Hybrid | Aug 28 |
@@ -149,12 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Supportive Living, Inc.](https://www.supportivelivinginc.org/)** | **[Spring 2026 Neuro-Fit Assisted Exercise Internship](https://jobright.ai/jobs/info/68b08b83b47fb001d68933a8?utm_campaign=1057&utm_source=git)** | Greater Boston | On Site | Aug 28 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist](https://jobright.ai/jobs/info/68b08e1bb47fb001d68935ac?utm_campaign=1057&utm_source=git)** | Murfreesboro, TN | On Site | Aug 28 |
 | **[Summit BHC](http://summitbhc.com/)** | **[Therapist -Intern](https://jobright.ai/jobs/info/68b086d4b47fb001d6893181?utm_campaign=1057&utm_source=git)** | Peak Behavioral Health | On Site | Aug 28 |
+| **[Salas O'Brien](http://www.salasobrien.com/about/)** | **[Wentworth Institute of Technology College Career Fair](https://jobright.ai/jobs/info/689ec1b379a9f9666255106c?utm_campaign=1057&utm_source=git)** | Bloomfield, CT | On Site | Aug 28 |
 | **[CoxHealth](https://www.coxhealth.com/)** | **[Physical Therapist (PT) - Internal Agency](https://jobright.ai/jobs/info/6855896057dcdd626471d4f4?utm_campaign=1057&utm_source=git)** | Springfield, MO | On Site | Aug 28 |
 | **[Saga Education](http://www.sagaeducation.org)** | **[Remote Math Tutor (Federal Work-Study at Brandeis University) Milford](https://jobright.ai/jobs/info/6893ae124c7e851b90adf7ce?utm_campaign=1057&utm_source=git)** | Milford, MA | Remote | Aug 28 |
 | **[TurnUp Activism](https://www.turnup.us/)** | **[Intern](https://jobright.ai/jobs/info/67e379d82cac52f139eb8d08?utm_campaign=1057&utm_source=git)** | United States | Remote | Aug 28 |
-| **[CoxHealth](https://www.coxhealth.com/)** | **[Hybrid Early Intervention Team (EIT) Nurse - Cardiovascular ICU - Internal Only](https://jobright.ai/jobs/info/68b0888f13563e782a9f7190?utm_campaign=1057&utm_source=git)** | Springfield, MO | Hybrid | Aug 28 |
-| ↳ | **[Hybrid Early Intervention Team (EIT) Nurse - 5E CCU-MICU - Internal Only](https://jobright.ai/jobs/info/68b08d272d46f6396cae6761?utm_campaign=1057&utm_source=git)** | Springfield, MO | Hybrid | Aug 28 |
-| **[Phillips 66](http://www.phillips66.com/)** | **[2026 University Intern-Information Technology](https://jobright.ai/jobs/info/6893e84fa9199876488e0f9c?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Aug 28 |
-| **[Jobgether](https://jobgether.com/)** | **[Remote Math Tutor (Federal Work-Study at Brandeis University) Marlborough](https://jobright.ai/jobs/info/68b04ce7b47fb001d6890cf8?utm_campaign=1057&utm_source=git)** | United States | Remote | Aug 28 |
-| **[CoxHealth](https://www.coxhealth.com/)** | **[Hybrid Early Intervention Team (EIT) Nurse - Neuro Trauma ICU - Internal Only](https://jobright.ai/jobs/info/68b084472d46f6396cae6342?utm_campaign=1057&utm_source=git)** | Springfield, MO | Hybrid | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
