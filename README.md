@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[fairlife, LLC](http://www.fairlife.com)** | **[Graduate Nutritionist Intern](https://jobright.ai/jobs/info/68b2978bbc187f64e1bddbaa?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Aug 29 |
 | **[KSBY](http://ksby.com)** | **[Intern, KSBY-2](https://jobright.ai/jobs/info/68b254fc1ade4306aa635b3a?utm_campaign=1057&utm_source=git)** | SLO Area | On Site | Aug 29 |
 | **[American University](http://american.edu)** | **[Peer Success Coach (Student) (FWS)](https://jobright.ai/jobs/info/68b2505a1ade4306aa63595c?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Aug 29 |
 | **[ASPCA](http://www.aspca.org/)** | **[Veterinary Technology Student Ambassador at LaGuardia Community College](https://jobright.ai/jobs/info/68b26d89f4e41a61efd84366?utm_campaign=1057&utm_source=git)** | NYC Metro Area | On Site | Aug 29 |
@@ -84,7 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Clemson University MBA Programs](https://www.clemson.edu/business/departments/mba/)** | **[Post Doctoral Fellow - School of Computing](https://jobright.ai/jobs/info/68b214ccf4e41a61efd8226e?utm_campaign=1057&utm_source=git)** | Hall County, GA | On Site | Aug 29 |
 | **[Frederick Health](https://www.frederickhealth.org/)** | **[Clinical Pastoral Education Intern](https://jobright.ai/jobs/info/68b2145abc187f64e1bd9333?utm_campaign=1057&utm_source=git)** | Frederick, MD | On Site | Aug 29 |
 | **[Global Cities, Inc. ](http://globalcities.org/)** | **[Graduate Student Internship](https://jobright.ai/jobs/info/68b2129bf4e41a61efd820bc?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Aug 29 |
-| **[Marriott International](https://www.marriott.com/hotels/travel/mkeak-hotel-metro-autograph-collection/)** | **[Hourly Intern](https://jobright.ai/jobs/info/68b2127dbc187f64e1bd9225?utm_campaign=1057&utm_source=git)** | L.G. Smith Boulevard # 101, Palm Beach, AW | On Site | Aug 29 |
+| **[Marriott International](https://www.marriott.com/hotels/travel/mkeak-hotel-metro-autograph-collection/)** | **[Hourly Intern](https://jobright.ai/jobs/info/68b21187bc187f64e1bd91b4?utm_campaign=1057&utm_source=git)** | L.G. Smith Boulevard # 101, Palm Beach, AW | On Site | Aug 29 |
 | **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Financial Coach Manager Intern](https://jobright.ai/jobs/info/68b20b9f1ade4306aa634122?utm_campaign=1057&utm_source=git)** | Stevens Point, WI | Hybrid | Aug 29 |
 | **[Better Food Foundation](https://www.betterfoodfoundation.org/)** | **[Internship Program: DefaultVeg](https://jobright.ai/jobs/info/68b20b74bc187f64e1bd8eaf?utm_campaign=1057&utm_source=git)** | United States | Remote | Aug 29 |
 | **[University of La Verne](http://laverne.edu)** | **[Honors Program Student Assistant (25/26) - FWS](https://jobright.ai/jobs/info/68b20a95f4e41a61efd81d20?utm_campaign=1057&utm_source=git)** | La Verne, CA | On Site | Aug 29 |
@@ -116,6 +117,7 @@ For a complete list, click the following sortable link below:
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Pharmacy Tech Apprentice - 40 hrs/wk - Lobby Pharmacy](https://jobright.ai/jobs/info/68b2318abc187f64e1bd9ba2?utm_campaign=1057&utm_source=git)** | Detroit, Michigan | On Site | Aug 29 |
 | **[University of Michigan](https://www.umich.edu)** | **[UMSI Presidential Postdoctoral Fellowship](https://jobright.ai/jobs/info/68af43937bcb7608b3d2c07d?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Aug 29 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Summer 2026 Internship – Identity and Access Intern](https://jobright.ai/jobs/info/68b1e734bc187f64e1bd7a70?utm_campaign=1057&utm_source=git)** | New York City | Hybrid | Aug 29 |
+| **[Henry Ford Health](http://www.henryford.com/)** | **[Pharmacy Tech Apprentice - 40 hrs/wk - Lobby Pharmacy](https://jobright.ai/jobs/info/68b29eba1ade4306aa639161?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Aug 29 |
 | **[Global Health Leaders](https://www.globalhealthleaders.net)** | **[Medical Research Intern - Short Term Study Abroad Summer 2025](https://jobright.ai/jobs/info/68b1e0efbc187f64e1bd7796?utm_campaign=1057&utm_source=git)** | United States | Remote | Aug 29 |
 | **[IronMountain Solutions](https://www.ironmountainsolutions.com/)** | **[Army Capability Manager SkillBridge Intern](https://jobright.ai/jobs/info/68b1def6bc187f64e1bd764e?utm_campaign=1057&utm_source=git)** | Huntsville, AL | On Site | Aug 29 |
 | **[Ivy Tech Community College Indianapolis](www.ivytech.edu/indianapolis)** | **[Federal Work Study Psychology Research Assistant](https://jobright.ai/jobs/info/68b21669bc187f64e1bd94da?utm_campaign=1057&utm_source=git)** | Muncie, IN | On Site | Aug 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Oriana House, Inc.](https://www.orianahouse.org/)** | **[Transition Specialist Intern (Unpaid, Cleveland, OH)](https://jobright.ai/jobs/info/68b28b44bc187f64e1bdcfd7?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Aug 29 |
 | **[Terros Health](https://www.terroshealth.org/)** | **[Intern - Master's Degree Level - Stapley (5129)](https://jobright.ai/jobs/info/68b190a51ade4306aa630824?utm_campaign=1057&utm_source=git)** | Mesa, AZ, USA | On Site | Aug 28 |
 | **[YMCA of Greater Boston](https://ymcaboston.org/)** | **[Volunteerism Intern](https://jobright.ai/jobs/info/68b1457a6fab621da7b0be2a?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | Aug 28 |
-| **[Drama Kids of North Columbus](https://dramakids.com/north-columbus-oh/)** | **[Drama Teacher - Part Time Position/Intern](https://jobright.ai/jobs/info/68b13f6404557a6c207bba3b?utm_campaign=1057&utm_source=git)** | Worthington, OH | On Site | Aug 28 |
-| **[NiSource](https://www.nisource.com/)** | **[Intern Operations- Technical Training](https://jobright.ai/jobs/info/68b12f3604557a6c207baa2d?utm_campaign=1057&utm_source=git)** | Columbus OH - Arena District | Hybrid | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
