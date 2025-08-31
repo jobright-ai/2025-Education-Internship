@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MIT](www.mit.edu)** | **[Graduate Student Professional Development Programs Intern](https://jobright.ai/jobs/info/68b4a3c0f4e41a61efd8c8d0?utm_campaign=1057&utm_source=git)** | Cambridge, MA | Hybrid | Aug 31 |
+| **[Diapers 2 Deposits](https://www.diapers2deposits.com)** | **[Personal Finance After School Instructor](https://jobright.ai/jobs/info/68b498c11ade4306aa63e97f?utm_campaign=1057&utm_source=git)** | Silver Spring, MD | On Site | Aug 31 |
+| **[Children's Hospital of Michigan](http://childrensdmc.org)** | **[Pharmacy Intern P2 Contingent Rotate](https://jobright.ai/jobs/info/68b49715f4e41a61efd8c83c?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Aug 31 |
 | **[University of Nebraska at Omaha](http://www.unomaha.edu/)** | **[Graduate Assistant – Competencies, Skills & Workforce Development](https://jobright.ai/jobs/info/68b47f581ade4306aa63e79f?utm_campaign=1057&utm_source=git)** | Omaha, NE | On Site | Aug 31 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Adjunct Faculty - International Psychology - DC Campus](https://jobright.ai/jobs/info/68b45b6cbc187f64e1be33df?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Aug 31 |
 | ↳ | **[Assistant Director, International Student Affairs](https://jobright.ai/jobs/info/68b45826bc187f64e1be33b4?utm_campaign=1057&utm_source=git)** | Hattiesburg, MS | On Site | Aug 31 |
@@ -135,12 +138,14 @@ For a complete list, click the following sortable link below:
 | **[Elgin Community College](http://www.elgin.edu/)** | **[Federal Work Study - Admissions & Recruitment](https://jobright.ai/jobs/info/68b205931ade4306aa633ec7?utm_campaign=1057&utm_source=git)** | Elgin, IL | On Site | Aug 29 |
 | **[Ball State University](http://www.bsu.edu)** | **[Temporary Performance Nutrition Fellowship](https://jobright.ai/jobs/info/68b2052d1ade4306aa633e47?utm_campaign=1057&utm_source=git)** | Muncie, IN | On Site | Aug 29 |
 | **[ASPCA](http://www.aspca.org/)** | **[Veterinary Technology Student Ambassador at LaGuardia Community College](https://jobright.ai/jobs/info/68b202edbc187f64e1bd8b28?utm_campaign=1057&utm_source=git)** | New York, NY - 8th Avenue | On Site | Aug 29 |
+| **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/68b2005bf4e41a61efd81911?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Aug 29 |
 | **[The College of New Jersey](http://www.tcnj.edu/)** | **[Program Assistant](https://jobright.ai/jobs/info/68b1fe54bc187f64e1bd888a?utm_campaign=1057&utm_source=git)** | Ewing, NJ | On Site | Aug 29 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist - Neuropsychologist](https://jobright.ai/jobs/info/68b3fa4bbc187f64e1be2440?utm_campaign=1057&utm_source=git)** | Chillicothe, OH | On Site | Aug 29 |
 | ↳ | **[Staff Psychologist (BHIP)](https://jobright.ai/jobs/info/68b36605f4e41a61efd8924c?utm_campaign=1057&utm_source=git)** | Fredericksburg, VA | On Site | Aug 29 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Global Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/68b1fcbebc187f64e1bd878c?utm_campaign=1057&utm_source=git)** | Morrisville, NC | On Site | Aug 29 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Supply Chain Corporate Internship - Summer 2026](https://jobright.ai/jobs/info/68b1fbe2f4e41a61efd81607?utm_campaign=1057&utm_source=git)** | Woonsocket, RI | Hybrid | Aug 29 |
 | ↳ | **[Supply Chain Corporate Internship - Summer 2026](https://jobright.ai/jobs/info/68b1faffbc187f64e1bd85b6?utm_campaign=1057&utm_source=git)** | RI - Woonsocket | Hybrid | Aug 29 |
+| **[Sanford Health](http://www.sanfordhealth.org)** | **[Sanford Student Nurse Internship Program](https://jobright.ai/jobs/info/68b2a22e1ade4306aa63926f?utm_campaign=1057&utm_source=git)** | Canton, SD | On Site | Aug 29 |
 | **[Olsson](https://www.olsson.com)** | **[Student Internship - Innovations](https://jobright.ai/jobs/info/68b1f9b61ade4306aa6335b5?utm_campaign=1057&utm_source=git)** | Lincoln, NE | Hybrid | Aug 29 |
 | **[Lozier Corporation](http://www.lozier.com)** | **[Learning and Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68b1feafbc187f64e1bd88b5?utm_campaign=1057&utm_source=git)** | Omaha, NE | On Site | Aug 29 |
 | **[University of Kentucky](https://education.uky.edu/)** | **[Cooperative Extension Intern](https://jobright.ai/jobs/info/68b1f8e51ade4306aa63342d?utm_campaign=1057&utm_source=git)** | Kentucky, United States | On Site | Aug 29 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DeKalb County School District](http://www.dekalbschoolsga.org/)** | **[Central Office _Interpreter, ESOL 12-Month (International Student Center) 2025-2026](https://jobright.ai/jobs/info/68b1f37bf4e41a61efd80e4d?utm_campaign=1057&utm_source=git)** | Decatur, GA | On Site | Aug 29 |
 | **[Acima](https://www.acima.com/)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/68b1f2111ade4306aa63311a?utm_campaign=1057&utm_source=git)** | Plano, TX | On Site | Aug 29 |
 | **[Bowman Consulting](https://bowman.com)** | **[High School Intern - Richmond, VA](https://jobright.ai/jobs/info/68b1f17d1ade4306aa6330c2?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Aug 29 |
-| **[Conversations to Remember](http://www.ConversationsToRemember.org)** | **[Nonprofit Public Health Fall Internship opportunity - Administrator / project coordinator](https://jobright.ai/jobs/info/68b278d2bc187f64e1bdbee1?utm_campaign=1057&utm_source=git)** | United States | Remote | Aug 29 |
-| **[The New York Foundling](https://www.nyfoundling.org/)** | **[Doctor of Nursing Practice (DNP) Student Intern - HIBH](https://jobright.ai/jobs/info/68b22f43f4e41a61efd82981?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | Hybrid | Aug 29 |
-| **[St. Charles Community College](https://www.stchas.edu/)** | **[Student Assistant - Visual Arts](https://jobright.ai/jobs/info/68b211fb1ade4306aa6342c1?utm_campaign=1057&utm_source=git)** | Lake St Louis, MO | On Site | Aug 29 |
-| **[Burrell Behavioral Health](https://www.burrellcenter.com/)** | **[Behavioral Health Internship/Practicum](https://jobright.ai/jobs/info/68b22ab9f4e41a61efd82846?utm_campaign=1057&utm_source=git)** | St Louis - Soulard Campus | On Site | Aug 29 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[MBA Leadership Development Program, Finance Strategy](https://jobright.ai/jobs/info/68b1eaf5f4e41a61efd80aea?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
