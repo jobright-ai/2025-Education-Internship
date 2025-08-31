@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Adjunct Faculty - International Psychology - DC Campus](https://jobright.ai/jobs/info/68b45b6cbc187f64e1be33df?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Aug 31 |
+| ↳ | **[Assistant Director, International Student Affairs](https://jobright.ai/jobs/info/68b45826bc187f64e1be33b4?utm_campaign=1057&utm_source=git)** | Hattiesburg, MS | On Site | Aug 31 |
 | **[Year Up United](http://yearup.org)** | **[Software Development Job Training Program](https://jobright.ai/jobs/info/68b44cc1f4e41a61efd8c20e?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Aug 31 |
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Student Assistant for Testing Services](https://jobright.ai/jobs/info/68b420a9f4e41a61efd8be7d?utm_campaign=1057&utm_source=git)** | Lynchburg, VA | On Site | Aug 31 |
 | ↳ | **[Testing Services Student Assistant](https://jobright.ai/jobs/info/68b41fa1bc187f64e1be2f5a?utm_campaign=1057&utm_source=git)** | Lynchburg, VA | On Site | Aug 31 |
@@ -77,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[FY25 International Student On-Campus Employment Trainee](https://jobright.ai/jobs/info/68b3c325bc187f64e1be113b?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Aug 30 |
 | ↳ | **[Residential Adjunct Faculty International Business - School of Business](https://jobright.ai/jobs/info/68b3c1c8bc187f64e1be0f75?utm_campaign=1057&utm_source=git)** | Lynchburg, VA | On Site | Aug 30 |
 | **[Jacobs](http://www.jacobs.com)** | **[DoD Skillbridge Internship](https://jobright.ai/jobs/info/680864a1b0b2cfff372a1024?utm_campaign=1057&utm_source=git)** | Tempe, AZ | On Site | Aug 30 |
+| **[Year Up United](http://yearup.org)** | **[Banking Job Training Program](https://jobright.ai/jobs/info/6864dadc685e50e8d29ba781?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Aug 30 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Programming Intern](https://jobright.ai/jobs/info/685c4b028146ebc0b1c38130?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Aug 30 |
 | **[Elder Research](http://elderresearch.com/)** | **[Skillbridge Internship Program (Separating Military Only)](https://jobright.ai/jobs/info/6789566cb33a8dfc97820c93?utm_campaign=1057&utm_source=git)** | Arlington, VA | On Site | Aug 30 |
 | **[Tarleton State University](http://www.tarleton.edu/)** | **[Student Intern Supervisor](https://jobright.ai/jobs/info/68985dba5574fd6bc0c79253?utm_campaign=1057&utm_source=git)** | Stephenville, TX | On Site | Aug 30 |
@@ -121,7 +124,6 @@ For a complete list, click the following sortable link below:
 | **[Texas A&M University](http://www.tamu.edu)** | **[Graduate Assistant Non-Teaching / Center for Information Technology Excellence](https://jobright.ai/jobs/info/68b22a87bc187f64e1bd9a29?utm_campaign=1057&utm_source=git)** | Prairie View, TX | On Site | Aug 29 |
 | ↳ | **[Academic Professional Track (Non-Tenure): Open Rank-Clinical-Internal Medicine](https://jobright.ai/jobs/info/6823ada2c98cde393ba8fae1?utm_campaign=1057&utm_source=git)** | San Angelo, TX | On Site | Aug 29 |
 | **[Ferris State University College of Business ](http://ferris.edu/business)** | **[Athletic Band Assistant (Student Position)](https://jobright.ai/jobs/info/68b254531ade4306aa635a97?utm_campaign=1057&utm_source=git)** | Big Rapids, MI | On Site | Aug 29 |
-| **[Clemson University MBA Programs](https://www.clemson.edu/business/departments/mba/)** | **[Post Doctoral Fellow - School of Computing](https://jobright.ai/jobs/info/68b214ccf4e41a61efd8226e?utm_campaign=1057&utm_source=git)** | Hall County, GA | On Site | Aug 29 |
 | **[Global Cities, Inc. ](http://globalcities.org/)** | **[Graduate Student Internship](https://jobright.ai/jobs/info/68b2129bf4e41a61efd820bc?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Aug 29 |
 | **[Marriott International](http://travel-brilliantly.marriott.com)** | **[Hourly Intern](https://jobright.ai/jobs/info/68b2127dbc187f64e1bd9225?utm_campaign=1057&utm_source=git)** | L.G. Smith Boulevard # 101, Palm Beach, AW | On Site | Aug 29 |
 | **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Financial Coach Manager Intern](https://jobright.ai/jobs/info/68b20b9f1ade4306aa634122?utm_campaign=1057&utm_source=git)** | Stevens Point, WI | Hybrid | Aug 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Burrell Behavioral Health](https://www.burrellcenter.com/)** | **[Behavioral Health Internship/Practicum](https://jobright.ai/jobs/info/68b22ab9f4e41a61efd82846?utm_campaign=1057&utm_source=git)** | St Louis - Soulard Campus | On Site | Aug 29 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[MBA Leadership Development Program, Finance Strategy](https://jobright.ai/jobs/info/68b1eaf5f4e41a61efd80aea?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Aug 29 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Pharmacy Tech Apprentice - 40 hrs/wk - Lobby Pharmacy](https://jobright.ai/jobs/info/68b2318abc187f64e1bd9ba2?utm_campaign=1057&utm_source=git)** | Detroit, Michigan | On Site | Aug 29 |
-| **[University of Michigan](https://www.umich.edu)** | **[UMSI Presidential Postdoctoral Fellowship](https://jobright.ai/jobs/info/68af43937bcb7608b3d2c07d?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Aug 29 |
-| **[The Wall Street Journal](https://www.wjs.com/)** | **[Summer 2026 Internship – Identity and Access Intern](https://jobright.ai/jobs/info/68b1e734bc187f64e1bd7a70?utm_campaign=1057&utm_source=git)** | New York City | Hybrid | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
