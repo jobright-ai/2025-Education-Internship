@@ -57,7 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Rogers Behavioral Health](https://rogersbh.org/)** | **[Summer 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/68b6a281f4e41a61efd9402b?utm_campaign=1057&utm_source=git)** | Hinsdale, IL | On Site | Sep 02 |
+| **[University of Houston](https://www.uh.edu)** | **[Non-College Work-Study-MDCOB Student Tutor](https://jobright.ai/jobs/info/68b6bf681ade4306aa646291?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Sep 02 |
+| **[Grimmway Farms](http://www.grimmway.com)** | **[Fall 2025 Internship](https://jobright.ai/jobs/info/68b6b3512124650c1401de02?utm_campaign=1057&utm_source=git)** | Bakersfield, CA | On Site | Sep 02 |
+| **[Lehigh Carbon Community College](http://www.lccc.edu/)** | **[Adjunct - Paralegal Students](https://jobright.ai/jobs/info/68b6b0a5f4e41a61efd94122?utm_campaign=1057&utm_source=git)** | Schnecksville, PA | On Site | Sep 02 |
+| **[San Bernardino Community College District](https://www.sbccd.cc.ca.us)** | **[Federal Work Study - Campus Technology Services, SBVC](https://jobright.ai/jobs/info/68b6aceff4e41a61efd940c4?utm_campaign=1057&utm_source=git)** | San Bernardino, CA | On Site | Sep 02 |
+| **[Rogers Behavioral Health](https://rogersbh.org/)** | **[Summer 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/68b6aca6bc187f64e1beb103?utm_campaign=1057&utm_source=git)** | Sheboygan, WI | On Site | Sep 02 |
+| **[Educate Kansas](http://educatekansas.org)** | **[2025-2026 Sumner County School Psychologist / School Psychologist Intern](https://jobright.ai/jobs/info/68b6a826f4e41a61efd9408a?utm_campaign=1057&utm_source=git)** | Wellington, KS | On Site | Sep 02 |
+| **[Rogers Behavioral Health](https://rogersbh.org/)** | **[Summer 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/68b6a7caf4e41a61efd94080?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Sep 02 |
+| ↳ | **[Summer 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/68b6a7a8f4e41a61efd9407a?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Sep 02 |
+| ↳ | **[Summer 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/68b6a7a5bc187f64e1beb088?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Sep 02 |
+| ↳ | **[Summer 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/68b6a281f4e41a61efd9402b?utm_campaign=1057&utm_source=git)** | Hinsdale, IL | On Site | Sep 02 |
 | ↳ | **[Summer 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/68b6a250f4e41a61efd9401d?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Sep 02 |
 | ↳ | **[Summer 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/68b6a232bc187f64e1beb03c?utm_campaign=1057&utm_source=git)** | Kenosha, WI | On Site | Sep 02 |
 | ↳ | **[Summer 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/68b6a231f4e41a61efd94012?utm_campaign=1057&utm_source=git)** | West Allis, WI | On Site | Sep 02 |
@@ -70,8 +79,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/68b6a1401ade4306aa646015?utm_campaign=1057&utm_source=git)** | St Paul, MN | On Site | Sep 02 |
 | **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026 Return Internship  - Graduate Student](https://jobright.ai/jobs/info/68b6a135bc187f64e1beaf00?utm_campaign=1057&utm_source=git)** | Huntsville, AL | On Site | Sep 02 |
 | **[Rogers Behavioral Health](https://rogersbh.org/)** | **[Summer 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/68b6a12abc187f64e1beaee2?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Sep 02 |
-| **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026  - Return Intern - Undergraduate](https://jobright.ai/jobs/info/68b6a0fdf4e41a61efd93f6e?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Sep 02 |
-| ↳ | **[Summer 2026  - Return Intern - Undergraduate](https://jobright.ai/jobs/info/68b6a0fdbc187f64e1beaead?utm_campaign=1057&utm_source=git)** | Longmont, CO | On Site | Sep 02 |
+| **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026  - Return Intern - Undergraduate](https://jobright.ai/jobs/info/68b6a0fdbc187f64e1beaead?utm_campaign=1057&utm_source=git)** | Longmont, CO | On Site | Sep 02 |
+| ↳ | **[Summer 2026  - Return Intern - Undergraduate](https://jobright.ai/jobs/info/68b6a0fdf4e41a61efd93f6e?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Sep 02 |
 | ↳ | **[Summer 2026  - Return Intern - Undergraduate](https://jobright.ai/jobs/info/68b6a0f5bc187f64e1beaea1?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Sep 02 |
 | ↳ | **[Summer 2026  - Return Intern - Undergraduate](https://jobright.ai/jobs/info/68b6a0b9bc187f64e1beae5d?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Sep 02 |
 | ↳ | **[Summer 2026 Guidance, Navigation & Controls Intern - Graduate Student](https://jobright.ai/jobs/info/68b6a09c1ade4306aa645f98?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Sep 02 |
@@ -86,6 +95,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026  - Return Intern - Undergraduate](https://jobright.ai/jobs/info/68b69fa8f4e41a61efd93dc1?utm_campaign=1057&utm_source=git)** | Huntsville, AL | On Site | Sep 02 |
 | ↳ | **[Summer 2026 Guidance, Navigation & Controls Intern - Graduate Student](https://jobright.ai/jobs/info/68b69f62bc187f64e1beacc2?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Sep 02 |
 | ↳ | **[Summer 2026 Guidance, Navigation & Controls Intern - Graduate Student](https://jobright.ai/jobs/info/68b69ed8f4e41a61efd93d02?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Sep 02 |
+| **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Student Intern Research Assistant I](https://jobright.ai/jobs/info/68b00ee1b47fb001d688f6c2?utm_campaign=1057&utm_source=git)** | Brookline, MA | On Site | Sep 02 |
 | **[The Sports Facilities Companies](https://sportsfacilities.com)** | **[Paid Spring Internship - Paradise Coast Sports Complex](https://jobright.ai/jobs/info/68b6958ef4e41a61efd93b28?utm_campaign=1057&utm_source=git)** | Naples,FL,US | On Site | Sep 01 |
 | **[Year Up United](http://yearup.org)** | **[Desktop Management Career Training Program](https://jobright.ai/jobs/info/68a801d7758f2e4ac3fefe9f?utm_campaign=1057&utm_source=git)** | Trenton, NJ | On Site | Sep 01 |
 | ↳ | **[Business Operations Career Training Program](https://jobright.ai/jobs/info/689725bf8c6d6b4426785baa?utm_campaign=1057&utm_source=git)** | Newark, NJ | On Site | Sep 01 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Grimmway Farms](http://www.grimmway.com)** | **[Spring 2026 Internship](https://jobright.ai/jobs/info/68b58fbaf4e41a61efd902bb?utm_campaign=1057&utm_source=git)** | Bakersfield, CA | On Site | Sep 01 |
 | **[Walmart](http://www.walmart.com)** | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68b5b6c3f4e41a61efd90f58?utm_campaign=1057&utm_source=git)** | Huntley, IL | On Site | Sep 01 |
 | **[Materion Corporation](https://materion.com)** | **[2026 Internship & Co-Op Program](https://jobright.ai/jobs/info/68999328faa4e875e8253562?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | On Site | Sep 01 |
-| **[Year Up United](http://yearup.org)** | **[Data Management Job Training Opportunity](https://jobright.ai/jobs/info/68b58c63bc187f64e1be7256?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Sep 01 |
-| **[Materion Corporation](https://materion.com)** | **[2026 Internship & Co-Op Program](https://jobright.ai/jobs/info/68999d1f5574fd6bc0c7da0b?utm_campaign=1057&utm_source=git)** | Reading, PA | On Site | Sep 01 |
-| **[Hickman Mills C-1 School District](https://www.hickmanmills.org/)** | **[Summer School Student Intern](https://jobright.ai/jobs/info/68b563eaf4e41a61efd8f91d?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | Sep 01 |
-| **[CNH](http://www.cnhindustrial.com)** | **[Construction Technical Training Developer Intern](https://jobright.ai/jobs/info/68b56290bc187f64e1be68c4?utm_campaign=1057&utm_source=git)** | Racine, WI | On Site | Sep 01 |
-| ↳ | **[Technical Training Intern](https://jobright.ai/jobs/info/68b55eacf4e41a61efd8f817?utm_campaign=1057&utm_source=git)** | Ames, IA | On Site | Sep 01 |
-| ↳ | **[Commercial Training Intern](https://jobright.ai/jobs/info/68b55dfe1ade4306aa6418e9?utm_campaign=1057&utm_source=git)** | New Holland, PA | On Site | Sep 01 |
-| **[MFA Incorporated](http://mfa-inc.com)** | **[Agri Services Internship - Feed](https://jobright.ai/jobs/info/68b558bdf4e41a61efd8f749?utm_campaign=1057&utm_source=git)** | Columbia, MO | On Site | Sep 01 |
-| ↳ | **[Ag Experience Internship - MO Farmers Care](https://jobright.ai/jobs/info/68b5553ebc187f64e1be673f?utm_campaign=1057&utm_source=git)** | Columbia, MO | On Site | Sep 01 |
-| **[American Express](http://www.americanexpress.com)** | **[Campus Graduate Summer Internship Program - 2026 Enterprise Program Management Office, American Express National Bank - New York, NY](https://jobright.ai/jobs/info/68b55523bc187f64e1be6739?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Sep 01 |
-| **[MFA Incorporated](http://mfa-inc.com)** | **[Agri Services Internship - Retail Credit](https://jobright.ai/jobs/info/68b54ffbf4e41a61efd8f5c3?utm_campaign=1057&utm_source=git)** | Columbia, MO | On Site | Sep 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
