@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stepful](https://www.stepful.com/)** | **[Student Success Coach](https://jobright.ai/jobs/info/687f06ef764c3d7411c48457?utm_campaign=1057&utm_source=git)** | New York, NY | Remote | Sep 02 |
+| **[University of Wyoming](https://www.uwyo.edu/)** | **[Work Study - Office Aide - Office of Sponsored Programs](https://jobright.ai/jobs/info/68b6c344f4e41a61efd942a7?utm_campaign=1057&utm_source=git)** | Laramie, WY | On Site | Sep 02 |
 | **[University of Houston](https://www.uh.edu)** | **[Non-College Work-Study-MDCOB Student Tutor](https://jobright.ai/jobs/info/68b6bf681ade4306aa646291?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Sep 02 |
 | **[Grimmway Farms](http://www.grimmway.com)** | **[Fall 2025 Internship](https://jobright.ai/jobs/info/68b6b3512124650c1401de02?utm_campaign=1057&utm_source=git)** | Bakersfield, CA | On Site | Sep 02 |
 | **[Lehigh Carbon Community College](http://www.lccc.edu/)** | **[Adjunct - Paralegal Students](https://jobright.ai/jobs/info/68b6b0a5f4e41a61efd94122?utm_campaign=1057&utm_source=git)** | Schnecksville, PA | On Site | Sep 02 |
@@ -79,8 +81,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/68b6a1401ade4306aa646015?utm_campaign=1057&utm_source=git)** | St Paul, MN | On Site | Sep 02 |
 | **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026 Return Internship  - Graduate Student](https://jobright.ai/jobs/info/68b6a135bc187f64e1beaf00?utm_campaign=1057&utm_source=git)** | Huntsville, AL | On Site | Sep 02 |
 | **[Rogers Behavioral Health](https://rogersbh.org/)** | **[Summer 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/68b6a12abc187f64e1beaee2?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Sep 02 |
-| **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026  - Return Intern - Undergraduate](https://jobright.ai/jobs/info/68b6a0fdbc187f64e1beaead?utm_campaign=1057&utm_source=git)** | Longmont, CO | On Site | Sep 02 |
-| ↳ | **[Summer 2026  - Return Intern - Undergraduate](https://jobright.ai/jobs/info/68b6a0fdf4e41a61efd93f6e?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Sep 02 |
+| **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026  - Return Intern - Undergraduate](https://jobright.ai/jobs/info/68b6a0fdf4e41a61efd93f6e?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Sep 02 |
+| ↳ | **[Summer 2026  - Return Intern - Undergraduate](https://jobright.ai/jobs/info/68b6a0fdbc187f64e1beaead?utm_campaign=1057&utm_source=git)** | Longmont, CO | On Site | Sep 02 |
 | ↳ | **[Summer 2026  - Return Intern - Undergraduate](https://jobright.ai/jobs/info/68b6a0f5bc187f64e1beaea1?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Sep 02 |
 | ↳ | **[Summer 2026  - Return Intern - Undergraduate](https://jobright.ai/jobs/info/68b6a0b9bc187f64e1beae5d?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Sep 02 |
 | ↳ | **[Summer 2026 Guidance, Navigation & Controls Intern - Graduate Student](https://jobright.ai/jobs/info/68b6a09c1ade4306aa645f98?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Sep 02 |
@@ -109,10 +111,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/68b680be1ade4306aa645698?utm_campaign=1057&utm_source=git)** | Minneapolis Clinic, Eden Prairie, MN | On Site | Sep 01 |
 | ↳ | **[Summer 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/68b68049bc187f64e1bea7c5?utm_campaign=1057&utm_source=git)** | Hinsdale Clinic, Hinsdale, IL | On Site | Sep 01 |
 | ↳ | **[Summer 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/68b68048bc187f64e1bea7c4?utm_campaign=1057&utm_source=git)** | Appleton Clinic, Appleton, WI | On Site | Sep 01 |
-| ↳ | **[Summer 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/68b6803abc187f64e1bea7c0?utm_campaign=1057&utm_source=git)** | Atlanta Clinic, Atlanta, GA | On Site | Sep 01 |
+| **[bp](https://www.bp.com)** | **[Summer Intern – Supply, Trading, & Shipping Finance & Risk – Chicago, IL](https://jobright.ai/jobs/info/68b68043bc187f64e1bea7c2?utm_campaign=1057&utm_source=git)** | United States of America - Illinois - Chicago | Hybrid | Sep 01 |
+| **[Rogers Behavioral Health](https://rogersbh.org/)** | **[Summer 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/68b6803abc187f64e1bea7c0?utm_campaign=1057&utm_source=git)** | Atlanta Clinic, Atlanta, GA | On Site | Sep 01 |
 | ↳ | **[Summer 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/68b68017bc187f64e1bea7bc?utm_campaign=1057&utm_source=git)** | Philadelphia Clinic, Philadelphia, PA | On Site | Sep 01 |
-| **[bp](https://www.bp.com)** | **[Summer Intern – Supply, Trading, & Shipping Finance & Risk – Chicago, IL](https://jobright.ai/jobs/info/68b68015bc187f64e1bea7bb?utm_campaign=1057&utm_source=git)** | United States of America - Illinois - Chicago | Hybrid | Sep 01 |
-| **[Rogers Behavioral Health](https://rogersbh.org/)** | **[Summer 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/68b67ff0bc187f64e1bea7b6?utm_campaign=1057&utm_source=git)** | Seattle Clinic, Bellevue, WA | On Site | Sep 01 |
+| ↳ | **[Summer 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/68b67ff0bc187f64e1bea7b6?utm_campaign=1057&utm_source=git)** | Seattle Clinic, Bellevue, WA | On Site | Sep 01 |
 | ↳ | **[Summer 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/68b67fe4bc187f64e1bea7b2?utm_campaign=1057&utm_source=git)** | West Allis Main Campus, West Allis, WI | On Site | Sep 01 |
 | ↳ | **[Summer 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/68b67e6df4e41a61efd935e9?utm_campaign=1057&utm_source=git)** | Brown Deer Main Campus, Brown Deer, WI | On Site | Sep 01 |
 | ↳ | **[Summer 2026 Start Dietitian Internship](https://jobright.ai/jobs/info/68b67e3cf4e41a61efd935e3?utm_campaign=1057&utm_source=git)** | Kenosha Clinic, Kenosha, WI | On Site | Sep 01 |
@@ -127,8 +129,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Students at FPU Only- Nutrition Research Assistant](https://jobright.ai/jobs/info/68b65fc91ade4306aa644781?utm_campaign=1057&utm_source=git)** | Rindge, NH | On Site | Sep 01 |
 | **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Summer Leadership Program (Colorado)](https://jobright.ai/jobs/info/68b63833bc187f64e1be9014?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Sep 01 |
 | **[Lawndale Elementary School District](https://www.lawndalesd.net/)** | **[Instructional Assistant - Health Care (Internal Applicants Only)](https://jobright.ai/jobs/info/68b6183fbc187f64e1be8d0a?utm_campaign=1057&utm_source=git)** | Lawndale, CA | On Site | Sep 01 |
-| **[Cumberland University](http://www.cumberland.edu/)** | **[Graduate Assistant, Stem Programs](https://jobright.ai/jobs/info/68b65b26f4e41a61efd92453?utm_campaign=1057&utm_source=git)** | Lebanon, TN | On Site | Sep 01 |
-| **[Lawndale Elementary School District](https://www.lawndalesd.net/)** | **[Instructional Assistant - Special Education (Internal Applicants Only)](https://jobright.ai/jobs/info/68b65ba1f4e41a61efd924b5?utm_campaign=1057&utm_source=git)** | Lawndale, CA | On Site | Sep 01 |
+| ↳ | **[Instructional Assistant - Special Education (Internal Applicants Only)](https://jobright.ai/jobs/info/68b65ba1f4e41a61efd924b5?utm_campaign=1057&utm_source=git)** | Lawndale, CA | On Site | Sep 01 |
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[Graduate Administrative Assistant - Art & Design (Fall 2025 - Spring 2026)](https://jobright.ai/jobs/info/68b60dbcbc187f64e1be8c58?utm_campaign=1057&utm_source=git)** | Jacksonville, AL | On Site | Sep 01 |
 | **[Ottawa University](http://www.ottawa.edu)** | **[Graduate Assistant Powerlifting (25713)](https://jobright.ai/jobs/info/68b60d8df4e41a61efd91c36?utm_campaign=1057&utm_source=git)** | Ottawa, KS | On Site | Sep 01 |
 | **[Nemacolin](http://www.nemacolin.com)** | **[Recreation Coordinator Internship - Summer 2026](https://jobright.ai/jobs/info/68b60795bc187f64e1be8bec?utm_campaign=1057&utm_source=git)** | Farmington, PA | On Site | Sep 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Materion Corporation](https://materion.com)** | **[2026 Internship & Co-Op Program](https://jobright.ai/jobs/info/68999e3483d13d1f5b694043?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Sep 01 |
 | **[Grimmway Farms](http://www.grimmway.com)** | **[Spring 2026 Internship](https://jobright.ai/jobs/info/68b58fbaf4e41a61efd902bb?utm_campaign=1057&utm_source=git)** | Bakersfield, CA | On Site | Sep 01 |
 | **[Walmart](http://www.walmart.com)** | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68b5b6c3f4e41a61efd90f58?utm_campaign=1057&utm_source=git)** | Huntley, IL | On Site | Sep 01 |
-| **[Materion Corporation](https://materion.com)** | **[2026 Internship & Co-Op Program](https://jobright.ai/jobs/info/68999328faa4e875e8253562?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | On Site | Sep 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
