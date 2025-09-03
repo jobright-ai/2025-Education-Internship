@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Penn State Department of Materials Science and Engineering](https://www.matse.psu.edu/)** | **[Presidential Leadership Academy Intern-Content and Creation Management](https://jobright.ai/jobs/info/68b86071ea901c0d269f5b94?utm_campaign=1057&utm_source=git)** | Penn State University Park | On Site | Sep 03 |
+| **[Year Up United](http://yearup.org)** | **[Data Analytics Job Training Program](https://jobright.ai/jobs/info/68b8606e5b42bc456282401a?utm_campaign=1057&utm_source=git)** | Wilmington, DE | On Site | Sep 03 |
+| ↳ | **[Computer Architecture & Systems Fundamentals Job Training Program](https://jobright.ai/jobs/info/68b85fbd5b42bc4562823fa1?utm_campaign=1057&utm_source=git)** | Providence, RI | On Site | Sep 03 |
+| **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Disney Programs Learning Team Intern, Spring 2026](https://jobright.ai/jobs/info/68b85d2cea901c0d269f58d1?utm_campaign=1057&utm_source=git)** | Winter Garden, FL | On Site | Sep 03 |
+| **[NOVEL PREP](https://www.novelprep.org)** | **[Academic Advisor Intern (Bilingual Mandarin)](https://jobright.ai/jobs/info/68b85ad65b42bc4562823e95?utm_campaign=1057&utm_source=git)** | Irvine, CA | On Site | Sep 03 |
+| **[Mary Free Bed Rehabilitation Hospital](https://www.maryfreebed.com/)** | **[Wheelchair and Adaptive Sports Intern](https://jobright.ai/jobs/info/68b85453ea901c0d269f55ef?utm_campaign=1057&utm_source=git)** | Grand Rapids, MI | On Site | Sep 03 |
+| **[Adventist University of the Philippines](https://www.aup.edu.ph/)** | **[Clinical Internship Coordinator](https://jobright.ai/jobs/info/68b8534007090163b6ba0e66?utm_campaign=1057&utm_source=git)** | Canteen, IL | On Site | Sep 03 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Admissions Counselor- Internal Candidates Only](https://jobright.ai/jobs/info/68b84c7207090163b6ba0bc4?utm_campaign=1057&utm_source=git)** | Dubuque, IA | On Site | Sep 03 |
+| ↳ | **[English Learner Specialist - St. Francis International School](https://jobright.ai/jobs/info/68b84c2b07090163b6ba0b9e?utm_campaign=1057&utm_source=git)** | Silver Spring, MD | On Site | Sep 03 |
+| **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Disney Programs Experience Intern, Spring 2026](https://jobright.ai/jobs/info/68b849ffea901c0d269f52bb?utm_campaign=1057&utm_source=git)** | Winter Garden, FL | On Site | Sep 03 |
+| **[i9 Sports](http://www.i9sports.com)** | **[VOLUNTEER KIDS COACH NON PAID Internship](https://jobright.ai/jobs/info/68b849cfea901c0d269f5298?utm_campaign=1057&utm_source=git)** | Fullerton, CA | On Site | Sep 03 |
+| **[i-Kare Treatment Center](https://ikaretreatmentcenter.com)** | **[Primary Therapist/Mental Health Therapist/Intern](https://jobright.ai/jobs/info/68b849caea901c0d269f5294?utm_campaign=1057&utm_source=git)** | West Palm Beach, FL | On Site | Sep 03 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[2025-2026 Design Leadership Development Program – Full Time and Summer Internship](https://jobright.ai/jobs/info/68b84422ea901c0d269f5066?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Sep 03 |
 | **[BayCare Health System](https://baycare.org/bmg)** | **[Nurse Intern I Pool – FSC Fellows](https://jobright.ai/jobs/info/68b83d9207090163b6ba0614?utm_campaign=1057&utm_source=git)** | Clearwater, FL | On Site | Sep 03 |
 | **[San Bernardino Community College District](https://www.sbccd.cc.ca.us)** | **[Federal Work Study - Economic Development and Corporate Training](https://jobright.ai/jobs/info/68b81783b026960506be788f?utm_campaign=1057&utm_source=git)** | San Bernardino, CA | On Site | Sep 03 |
@@ -135,26 +147,14 @@ For a complete list, click the following sortable link below:
 | **[Hudson River Trading](https://www.hudsonrivertrading.com)** | **[Sophomore Internship – Summer 2026](https://jobright.ai/jobs/info/68b773fc1ade4306aa64b15d?utm_campaign=1057&utm_source=git)** | New York, NY, United States | On Site | Sep 02 |
 | **[Lawndale Elementary School District](https://www.lawndalesd.net/)** | **[Instructional Assistant - Special Education (Internal Applicants Only)](https://jobright.ai/jobs/info/68b772f41ade4306aa64b077?utm_campaign=1057&utm_source=git)** | Lawndale, CA | On Site | Sep 02 |
 | **[University of Michigan](https://www.umich.edu)** | **[Biology Laboratory Assistant (STUDENT/WORKSTUDY)](https://jobright.ai/jobs/info/68b3fe181ade4306aa63d6b3?utm_campaign=1057&utm_source=git)** | Flint, MI | On Site | Sep 02 |
-| **[Ryan Specialty](https://ryanspecialty.com)** | **[Risk Management and Insurance (RMI) Intern](https://jobright.ai/jobs/info/68b765682124650c140228ae?utm_campaign=1057&utm_source=git)** | Greenwood Village - Colorado - Greenwood Plz | Hybrid | Sep 02 |
+| **[Ryan Specialty](https://ryanspecialty.com)** | **[Risk Management and Insurance (RMI) Intern](https://jobright.ai/jobs/info/68b765712124650c140228b4?utm_campaign=1057&utm_source=git)** | Portage - Michigan | Hybrid | Sep 02 |
+| ↳ | **[Risk Management and Insurance (RMI) Intern](https://jobright.ai/jobs/info/68b765712124650c140228b5?utm_campaign=1057&utm_source=git)** | Philadelphia - Pennsylvania | Hybrid | Sep 02 |
 | ↳ | **[Risk Management and Insurance (RMI) Intern](https://jobright.ai/jobs/info/68b765682124650c140228af?utm_campaign=1057&utm_source=git)** | Portland - Maine | Hybrid | Sep 02 |
 | ↳ | **[Risk Management and Insurance (RMI) Intern](https://jobright.ai/jobs/info/68b7654a2124650c14022895?utm_campaign=1057&utm_source=git)** | Edmond - Oklahoma | Hybrid | Sep 02 |
 | ↳ | **[Risk Management and Insurance (RMI) Intern](https://jobright.ai/jobs/info/68b765422124650c14022892?utm_campaign=1057&utm_source=git)** | Rocky Hill - Connecticut | Hybrid | Sep 02 |
-| ↳ | **[Risk Management and Insurance (RMI) Intern](https://jobright.ai/jobs/info/68b7651b2124650c14022874?utm_campaign=1057&utm_source=git)** | Denver - Colorado | Hybrid | Sep 02 |
 | ↳ | **[Risk Management and Insurance (RMI) Intern](https://jobright.ai/jobs/info/68b7651a2124650c14022870?utm_campaign=1057&utm_source=git)** | Dallas - Texas - 12700 Park Central Drive | Hybrid | Sep 02 |
-| ↳ | **[Risk Management and Insurance (RMI) Intern](https://jobright.ai/jobs/info/68b765022124650c1402285d?utm_campaign=1057&utm_source=git)** | Philadelphia - Pennsylvania | Hybrid | Sep 02 |
-| ↳ | **[Risk Management and Insurance (RMI) Intern](https://jobright.ai/jobs/info/68b765022124650c1402285a?utm_campaign=1057&utm_source=git)** | Exton - Pennsylvania | Hybrid | Sep 02 |
-| ↳ | **[Risk Management and Insurance (RMI) Intern](https://jobright.ai/jobs/info/68b765022124650c14022858?utm_campaign=1057&utm_source=git)** | Charleston - South Carolina | Hybrid | Sep 02 |
-| ↳ | **[Risk Management and Insurance (RMI) Intern](https://jobright.ai/jobs/info/68b764e01ade4306aa64ac55?utm_campaign=1057&utm_source=git)** | Minnetonka - Minnesota | Hybrid | Sep 02 |
+| ↳ | **[Risk Management and Insurance (RMI) Intern](https://jobright.ai/jobs/info/68b765022124650c1402285c?utm_campaign=1057&utm_source=git)** | Birmingham - Alabama | Hybrid | Sep 02 |
+| ↳ | **[Risk Management and Insurance (RMI) Intern](https://jobright.ai/jobs/info/68b764e11ade4306aa64ac58?utm_campaign=1057&utm_source=git)** | Boston - Massachusetts | Hybrid | Sep 02 |
+| ↳ | **[Risk Management and Insurance (RMI) Intern](https://jobright.ai/jobs/info/68b764e01ade4306aa64ac52?utm_campaign=1057&utm_source=git)** | Baton Rouge - Louisiana | Hybrid | Sep 02 |
 | ↳ | **[Risk Management and Insurance (RMI) Intern](https://jobright.ai/jobs/info/68b764e01ade4306aa64ac53?utm_campaign=1057&utm_source=git)** | Springfield - Missouri | Hybrid | Sep 02 |
-| ↳ | **[Risk Management and Insurance (RMI) Intern](https://jobright.ai/jobs/info/68b764d91ade4306aa64ac3f?utm_campaign=1057&utm_source=git)** | Naperville - Illinois | Hybrid | Sep 02 |
-| ↳ | **[Risk Management and Insurance (RMI) Intern](https://jobright.ai/jobs/info/68b764c3f4e41a61efd98bea?utm_campaign=1057&utm_source=git)** | La Jolla - California | Hybrid | Sep 02 |
-| ↳ | **[Risk Management and Insurance (RMI) Intern](https://jobright.ai/jobs/info/68b764ba1ade4306aa64ac09?utm_campaign=1057&utm_source=git)** | Lake Mary - Florida | Hybrid | Sep 02 |
-| ↳ | **[Risk Management and Insurance (RMI) Intern](https://jobright.ai/jobs/info/68b764af2124650c14022818?utm_campaign=1057&utm_source=git)** | Montgomeryville - Pennsylvania | Hybrid | Sep 02 |
-| ↳ | **[Risk Management and Insurance (RMI) Intern](https://jobright.ai/jobs/info/68b764abf4e41a61efd98bc3?utm_campaign=1057&utm_source=git)** | Burbank - California | Hybrid | Sep 02 |
-| ↳ | **[Risk Management and Insurance (RMI) Intern](https://jobright.ai/jobs/info/68b7649af4e41a61efd98bab?utm_campaign=1057&utm_source=git)** | Marblehead - Massachusetts | Hybrid | Sep 02 |
-| ↳ | **[Risk Management and Insurance (RMI) Intern](https://jobright.ai/jobs/info/68b7648f2124650c140227fe?utm_campaign=1057&utm_source=git)** | Hunt Valley - Maryland | Hybrid | Sep 02 |
-| ↳ | **[Risk Management and Insurance (RMI) Intern](https://jobright.ai/jobs/info/68b7648e1ade4306aa64abc6?utm_campaign=1057&utm_source=git)** | Chicago - Illinois - Wacker | Hybrid | Sep 02 |
-| ↳ | **[Risk Management and Insurance (RMI) Intern](https://jobright.ai/jobs/info/68b76486f4e41a61efd98b8e?utm_campaign=1057&utm_source=git)** | Franklin - Massachusetts | Hybrid | Sep 02 |
-| ↳ | **[Risk Management and Insurance (RMI) Intern](https://jobright.ai/jobs/info/68b76486f4e41a61efd98b8f?utm_campaign=1057&utm_source=git)** | Edmonds - Washington | Hybrid | Sep 02 |
-| ↳ | **[Risk Management and Insurance (RMI) Intern](https://jobright.ai/jobs/info/68b764861ade4306aa64abbe?utm_campaign=1057&utm_source=git)** | New York - New York - 1166 Ave of Americas | Hybrid | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
