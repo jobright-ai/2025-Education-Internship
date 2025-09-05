@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Group Naturalist (Summer)](https://jobright.ai/jobs/info/68ba8b4b5f3832749186807f?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD | On Site | Sep 05 |
+| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Vocational Rehabilitation Counselor (Summer)](https://jobright.ai/jobs/info/68ba80a76105227d1189e884?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD | On Site | Sep 04 |
 | **[Town of North Attleborough](https://nattleboro.com/)** | **[Appendix B Positions - Academic - NAHS - REPOST INTERNAL](https://jobright.ai/jobs/info/68ba65c96105227d1189d938?utm_campaign=1057&utm_source=git)** | North Attleboro, MA | On Site | Sep 04 |
 | **[Youth Villages](http://www.youthvillages.org)** | **[Paid Recreation Therapy Internship - Spring 2026](https://jobright.ai/jobs/info/68ba65aa5f38327491866bdf?utm_campaign=1057&utm_source=git)** | Douglasville, GA | On Site | Sep 04 |
 | **[Susquehanna University](http://www.susqu.edu)** | **[Assistant Professor of Economics, Finance, & Analytics](https://jobright.ai/jobs/info/68ba657e6105227d1189d8ea?utm_campaign=1057&utm_source=git)** | Selinsgrove, PA | On Site | Sep 04 |
@@ -74,15 +76,15 @@ For a complete list, click the following sortable link below:
 | **[AV](https://www.avinc.com/)** | **[Student Research Assistant Interns](https://jobright.ai/jobs/info/68ba3b6d5f3832749186555f?utm_campaign=1057&utm_source=git)** | Dayton, OH | On Site | Sep 04 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68ba3b066105227d1189c2b5?utm_campaign=1057&utm_source=git)** | Council Bluffs, IA | On Site | Sep 04 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/68ba3a655f3832749186544e?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Sep 04 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68ba3a135f38327491865401?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Sep 04 |
 | **[Black Hawk College](http://www.bhc.edu/)** | **[Student Mascot](https://jobright.ai/jobs/info/68ba3a078043103d4f21ecbc?utm_campaign=1057&utm_source=git)** | Moline, IL | On Site | Sep 04 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68ba39f16105227d1189c11a?utm_campaign=1057&utm_source=git)** | Fort Collins, CO | On Site | Sep 04 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Vivarium - Intern](https://jobright.ai/jobs/info/68ba39be5f383274918653b6?utm_campaign=1057&utm_source=git)** | Lansdale, PA | Hybrid | Sep 04 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68ba39a98043103d4f21ec3b?utm_campaign=1057&utm_source=git)** | Richardson, TX | On Site | Sep 04 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Workplace Violence - Intern](https://jobright.ai/jobs/info/68ba39236105227d1189c05b?utm_campaign=1057&utm_source=git)** | Rahway, NJ | Hybrid | Sep 04 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68ba391f5f383274918652e2?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | Sep 04 |
 | **[Weber State University Department of Automotive Technology](https://www.weber.edu/automotive)** | **[Hourly Student Worker: International Student and Scholar Center (ISSC) Office](https://jobright.ai/jobs/info/68ba39005f383274918652c1?utm_campaign=1057&utm_source=git)** | Ogden, UT | On Site | Sep 04 |
-| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68ba38bc5f38327491865272?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | Sep 04 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern](https://jobright.ai/jobs/info/68ba38768043103d4f21eb03?utm_campaign=1057&utm_source=git)** | Greater Birmingham, Alabama Area | On Site | Sep 04 |
-| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68ba379b8043103d4f21ea29?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Sep 04 |
 | **[Ignite Adaptive Sports](https://igniteadaptivesports.org)** | **[Program Assistant (Winter Sports)](https://jobright.ai/jobs/info/68ba36bc8043103d4f21e936?utm_campaign=1057&utm_source=git)** | Nederland, CO | Hybrid | Sep 04 |
 | **[American University](http://american.edu)** | **[Research/Teaching Assistant (Student)](https://jobright.ai/jobs/info/68ba33ec6105227d1189ba9e?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Sep 04 |
 | ↳ | **[DC Community Impact Scholars Teaching Assistant (Student)](https://jobright.ai/jobs/info/68ba33715f38327491864dc6?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Sep 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68b9e7325f383274918621ee?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Sep 04 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68b9e6966105227d11899109?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Sep 04 |
 | **[Lorain County Metro Parks](https://www.loraincountymetroparks.com)** | **[Animal Care Intern - Carlisle Visitor Center](https://jobright.ai/jobs/info/68b9e3be5f38327491861d0e?utm_campaign=1057&utm_source=git)** | Carlisle Visitor Center | On Site | Sep 04 |
-| **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Student Digital Accessibility Assistant (REMOTE)](https://jobright.ai/jobs/info/68b9e20f8043103d4f21b4f3?utm_campaign=1057&utm_source=git)** | Columbus, OH | Remote | Sep 04 |
-| **[Sanofi](https://www.sanofi.com)** | **[Early Development Clinical Operations Study/Data Management Summer 2026 Intern](https://jobright.ai/jobs/info/68b9e14c6105227d118987be?utm_campaign=1057&utm_source=git)** | Morristown, NJ | On Site | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
