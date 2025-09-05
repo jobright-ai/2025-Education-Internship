@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2026 Operational Resilience, Enterprise Shared Services- New York, NY](https://jobright.ai/jobs/info/68ba96646105227d1189f914?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Sep 05 |
+| **[Odessa College](http://www.odessa.edu)** | **[Student Life Student Assistant- Work Study](https://jobright.ai/jobs/info/68bab0b98043103d4f2227b3?utm_campaign=1057&utm_source=git)** | Odessa, TX | On Site | Sep 05 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Group Naturalist (Summer)](https://jobright.ai/jobs/info/68ba8b4b5f3832749186807f?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD | On Site | Sep 05 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Vocational Rehabilitation Counselor (Summer)](https://jobright.ai/jobs/info/68ba80a76105227d1189e884?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD | On Site | Sep 04 |
+| ↳ | **[Intern - Division of Behavioral Health - Training & Specialty Services Team (Summer)](https://jobright.ai/jobs/info/68ba9c0a5f38327491868b77?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD | On Site | Sep 04 |
 | **[Town of North Attleborough](https://nattleboro.com/)** | **[Appendix B Positions - Academic - NAHS - REPOST INTERNAL](https://jobright.ai/jobs/info/68ba65c96105227d1189d938?utm_campaign=1057&utm_source=git)** | North Attleboro, MA | On Site | Sep 04 |
 | **[Youth Villages](http://www.youthvillages.org)** | **[Paid Recreation Therapy Internship - Spring 2026](https://jobright.ai/jobs/info/68ba65aa5f38327491866bdf?utm_campaign=1057&utm_source=git)** | Douglasville, GA | On Site | Sep 04 |
 | **[Susquehanna University](http://www.susqu.edu)** | **[Assistant Professor of Economics, Finance, & Analytics](https://jobright.ai/jobs/info/68ba657e6105227d1189d8ea?utm_campaign=1057&utm_source=git)** | Selinsgrove, PA | On Site | Sep 04 |
-| **[State of North Carolina](http://www.nc.gov)** | **[High School Intern Program](https://jobright.ai/jobs/info/68ba5adb5f3832749186650a?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Sep 04 |
 | **[Dillard's Inc.](http://www.dillards.com)** | **[Technology Training Program](https://jobright.ai/jobs/info/68ba52928043103d4f21f7da?utm_campaign=1057&utm_source=git)** | Little Rock, AR | On Site | Sep 04 |
 | **[Catholic Charities, Diocese of Paterson](https://catholicharities.org/)** | **[Counselor Intern (Residential Programs)](https://jobright.ai/jobs/info/68ba70cb8043103d4f220a2e?utm_campaign=1057&utm_source=git)** | Straight, OK | On Site | Sep 04 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Intern PRN](https://jobright.ai/jobs/info/68ba47725f38327491865a82?utm_campaign=1057&utm_source=git)** | Asheville, NC | On Site | Sep 04 |
@@ -82,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Vivarium - Intern](https://jobright.ai/jobs/info/68ba39be5f383274918653b6?utm_campaign=1057&utm_source=git)** | Lansdale, PA | Hybrid | Sep 04 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68ba39a98043103d4f21ec3b?utm_campaign=1057&utm_source=git)** | Richardson, TX | On Site | Sep 04 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Workplace Violence - Intern](https://jobright.ai/jobs/info/68ba39236105227d1189c05b?utm_campaign=1057&utm_source=git)** | Rahway, NJ | Hybrid | Sep 04 |
-| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68ba391f5f383274918652e2?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | Sep 04 |
 | **[Weber State University Department of Automotive Technology](https://www.weber.edu/automotive)** | **[Hourly Student Worker: International Student and Scholar Center (ISSC) Office](https://jobright.ai/jobs/info/68ba39005f383274918652c1?utm_campaign=1057&utm_source=git)** | Ogden, UT | On Site | Sep 04 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68ba38bc5f38327491865272?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | Sep 04 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern](https://jobright.ai/jobs/info/68ba38768043103d4f21eb03?utm_campaign=1057&utm_source=git)** | Greater Birmingham, Alabama Area | On Site | Sep 04 |
 | **[Ignite Adaptive Sports](https://igniteadaptivesports.org)** | **[Program Assistant (Winter Sports)](https://jobright.ai/jobs/info/68ba36bc8043103d4f21e936?utm_campaign=1057&utm_source=git)** | Nederland, CO | Hybrid | Sep 04 |
 | **[American University](http://american.edu)** | **[Research/Teaching Assistant (Student)](https://jobright.ai/jobs/info/68ba33ec6105227d1189ba9e?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Sep 04 |
@@ -98,6 +100,7 @@ For a complete list, click the following sortable link below:
 | **[Salas O'Brien](http://www.salasobrien.com/about/)** | **[Louisiana State University College Career Fair - 2026](https://jobright.ai/jobs/info/68ba30b48043103d4f21e216?utm_campaign=1057&utm_source=git)** | Baton Rouge, LA | On Site | Sep 04 |
 | **[GO Tutor Corps](https://www.greatoakscharter.org)** | **[The GO Teacher Residency - Bridgeport, CT](https://jobright.ai/jobs/info/688ca5211808534a89cbe125?utm_campaign=1057&utm_source=git)** | Bridgeport, CT | On Site | Sep 04 |
 | **[Hopscotch Primary Care](https://www.hellohopscotch.com/)** | **[Clinical Innovation Fellow](https://jobright.ai/jobs/info/68a8feb4758f2e4ac3ff68ae?utm_campaign=1057&utm_source=git)** | United States | Remote | Sep 04 |
+| **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for Undergraduate Admission](https://jobright.ai/jobs/info/689b9bde79a9f96662531e60?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | Sep 04 |
 | **[American University](http://american.edu)** | **[Jewish Studies Program Intern (Student) (FWS)](https://jobright.ai/jobs/info/68ba301a8043103d4f21e17d?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Sep 04 |
 | ↳ | **[Sustainability Assistant (Student)](https://jobright.ai/jobs/info/68ba2ffe8043103d4f21e16d?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Sep 04 |
 | **[WellSpan Health](https://www.wellspan.org/)** | **[Master's Level Behavioral Health Intern - Philhaven - Days / Evenings](https://jobright.ai/jobs/info/68ba2ab86105227d1189b5ec?utm_campaign=1057&utm_source=git)** | Mount Gretna, PA | On Site | Sep 04 |
@@ -134,11 +137,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/68ba06ab5f383274918636c2?utm_campaign=1057&utm_source=git)** | The Woodlands, TX | On Site | Sep 04 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/68ba05855f38327491863555?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Sep 04 |
 | **[Boys & Girls Club of Elgin](http://www.bgcelgin.org)** | **[Americorps Program Assistant](https://jobright.ai/jobs/info/68b9fff15f3832749186332d?utm_campaign=1057&utm_source=git)** | Aurora, IL | On Site | Sep 04 |
-| **[State of Ohio](http://ohio.gov/)** | **[Adult Options Intern](https://jobright.ai/jobs/info/68b9fe918043103d4f21cb42?utm_campaign=1057&utm_source=git)** | Ohio Department of Education25 South Front Street | On Site | Sep 04 |
-| ↳ | **[Adult Options Intern](https://jobright.ai/jobs/info/68b9fe866105227d1189a0b8?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Sep 04 |
+| **[State of Ohio](http://ohio.gov/)** | **[Adult Options Intern](https://jobright.ai/jobs/info/68b9fe866105227d1189a0b8?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Sep 04 |
 | **[WellSpan Health](https://www.wellspan.org/)** | **[Master's Level Behavioral Health Intern - Philhaven - Days / Evenings](https://jobright.ai/jobs/info/68b9fdc86105227d1189a02d?utm_campaign=1057&utm_source=git)** | 283 Butler Rd, Lebanon, PA, 17042, US | On Site | Sep 04 |
 | **[State of Ohio](http://ohio.gov/)** | **[Adult Options Intern](https://jobright.ai/jobs/info/68b9fa5d6105227d11899e79?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Sep 04 |
 | **[The Huntington](http://huntingtontheatre.org)** | **[Technology Internship - Summer 2026](https://jobright.ai/jobs/info/68b9fa3f8043103d4f21c6fd?utm_campaign=1057&utm_source=git)** | Minnetonka, MN | Hybrid | Sep 04 |
+| **[State of Ohio](http://ohio.gov/)** | **[Adult Options Intern](https://jobright.ai/jobs/info/68b9fa348043103d4f21c6e5?utm_campaign=1057&utm_source=git)** | Ohio Department of Education25 South Front Street | On Site | Sep 04 |
 | **[EDF Trading](http://www.edftrading.com/)** | **[2026 Commercial Summer Internship](https://jobright.ai/jobs/info/68b9f8b65f38327491862ed0?utm_campaign=1057&utm_source=git)** | Houston, Texas | On Site | Sep 04 |
 | **[The Huntington](http://huntingtontheatre.org)** | **[Technology Internship - Summer 2026](https://jobright.ai/jobs/info/68b9f8715f38327491862e72?utm_campaign=1057&utm_source=git)** | Columbus, OH | Hybrid | Sep 04 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Child Care Assistant (Developmental (4) – 6401](https://jobright.ai/jobs/info/68b9f6c75f38327491862ce8?utm_campaign=1057&utm_source=git)** | Kodiak, AK | On Site | Sep 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 PhD/Graduate Research Internships](https://jobright.ai/jobs/info/68b9e8318043103d4f21b97a?utm_campaign=1057&utm_source=git)** | PCT | Hybrid | Sep 04 |
 | ↳ | **[2026 PhD/Graduate Research Internships](https://jobright.ai/jobs/info/68b9e81a8043103d4f21b96c?utm_campaign=1057&utm_source=git)** | ATL G | Hybrid | Sep 04 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68b9e7da5f383274918622a7?utm_campaign=1057&utm_source=git)** | Leander, TX | On Site | Sep 04 |
-| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68b9e7325f383274918621ee?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Sep 04 |
-| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68b9e6966105227d11899109?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Sep 04 |
-| **[Lorain County Metro Parks](https://www.loraincountymetroparks.com)** | **[Animal Care Intern - Carlisle Visitor Center](https://jobright.ai/jobs/info/68b9e3be5f38327491861d0e?utm_campaign=1057&utm_source=git)** | Carlisle Visitor Center | On Site | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
