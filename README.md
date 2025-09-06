@@ -57,7 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TalentAlly](http://www.prodivnet.com/)** | **[2026 Summer Info. Technology, Business Analyst, Cyber, MIS Intern](https://jobright.ai/jobs/info/68bbe03f8043103d4f22d3c4?utm_campaign=1057&utm_source=git)** | Augusta, ME | On Site | Sep 06 |
+| **[AARP](http://www.aarp.org)** | **[Program Analysis Intern](https://jobright.ai/jobs/info/68bbdf536105227d118aa824?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Sep 06 |
+| **[Republic Airways](http://www.rjet.com)** | **[Learning and Development Intern - Summer 2026](https://jobright.ai/jobs/info/68bbda078043103d4f22d054?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Sep 05 |
+| **[PNC](http://www.pnc.com)** | **[Asset Management Group Undergraduate Intern](https://jobright.ai/jobs/info/68bbd9638043103d4f22cfbb?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Sep 05 |
+| **[TalentAlly](http://www.prodivnet.com/)** | **[2026 Summer Info. Technology, Business Analyst, Cyber, MIS Intern](https://jobright.ai/jobs/info/68bbd7f26105227d118aa4b7?utm_campaign=1057&utm_source=git)** | Portland, OR | On Site | Sep 05 |
+| ↳ | **[2026 Summer Info. Technology, Business Analyst, Cyber, MIS Intern](https://jobright.ai/jobs/info/68bbd55b8043103d4f22ceb9?utm_campaign=1057&utm_source=git)** | Rochester, NY | On Site | Sep 05 |
+| **[Andover Public Schools](http://www.usd385.org)** | **[After-School Assistant Group Leader](https://jobright.ai/jobs/info/68bbd4348043103d4f22cda6?utm_campaign=1057&utm_source=git)** | Andover, MA | On Site | Sep 05 |
 | **[Youth Villages](http://www.youthvillages.org)** | **[Fall 2025 - Bachelors Level Internship](https://jobright.ai/jobs/info/68bbbe1e5f383274918726ac?utm_campaign=1057&utm_source=git)** | Bloomington, IN | On Site | Sep 05 |
+| **[Pine Street Inn](https://www.pinestreetinn.org)** | **[Clinical Intern - Unpaid](https://jobright.ai/jobs/info/68bbe53b6105227d118aaf0d?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Sep 05 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Global Medical Proficiency & External Affairs - Intern](https://jobright.ai/jobs/info/68bb93606105227d118a7346?utm_campaign=1057&utm_source=git)** | North Wales, PA | Hybrid | Sep 05 |
 | **[AHRC NYC](https://www.linkedin.com/company/8945860)** | **[DSP Paid Internship Program - NYC Youth (18-24yrs. old)](https://jobright.ai/jobs/info/68bbac886105227d118a82fe?utm_campaign=1057&utm_source=git)** | New York County, NY | On Site | Sep 05 |
 | **[Posillico Civil, Inc.](http://posillicoinc.com)** | **[2026 Summer Internship Program (Office / Non-Engineering - NY)](https://jobright.ai/jobs/info/68bba4dd6105227d118a7d5e?utm_campaign=1057&utm_source=git)** | Farmingdale, NY | On Site | Sep 05 |
@@ -77,7 +85,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68bb92166105227d118a7235?utm_campaign=1057&utm_source=git)** | Soquel, CA | On Site | Sep 05 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68bb92045f38327491870503?utm_campaign=1057&utm_source=git)** | Lake Forest Park, WA | On Site | Sep 05 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68bb91395f3832749187046e?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Sep 05 |
-| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68bb8f9e8043103d4f229bd5?utm_campaign=1057&utm_source=git)** | Redmond, WA | On Site | Sep 05 |
+| **[Materion Corporation](https://materion.com)** | **[2026 Internship & Co-Op Program](https://jobright.ai/jobs/info/689994715574fd6bc0c7d42f?utm_campaign=1057&utm_source=git)** | Lorain, OH | On Site | Sep 05 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68bb8f9e8043103d4f229bd5?utm_campaign=1057&utm_source=git)** | Redmond, WA | On Site | Sep 05 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68bb8f608043103d4f229b91?utm_campaign=1057&utm_source=git)** | Kent, WA | On Site | Sep 05 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68bb8ed78043103d4f229b16?utm_campaign=1057&utm_source=git)** | Redwood City, CA | On Site | Sep 05 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68bb8ded6105227d118a711f?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Sep 05 |
@@ -112,7 +121,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Associate Internship (Instructional Designer)](https://jobright.ai/jobs/info/68bb79795f3832749186f73c?utm_campaign=1057&utm_source=git)** | Vienna, VA | Hybrid | Sep 05 |
 | ↳ | **[Summer Associate Internship (Support - Navy Federal Investment Services)](https://jobright.ai/jobs/info/68bb782b6105227d118a6317?utm_campaign=1057&utm_source=git)** | San Diego, CA | Hybrid | Sep 05 |
 | ↳ | **[Summer Associate Internship (Instructional Designer)](https://jobright.ai/jobs/info/68bb77276105227d118a61b6?utm_campaign=1057&utm_source=git)** | Winchester, VA | Hybrid | Sep 05 |
-| **[The University of Texas Medical Branch](http://www.utmb.edu/)** | **[Federal Work Study Student, Student Financial Aid](https://jobright.ai/jobs/info/68bb75188043103d4f228c01?utm_campaign=1057&utm_source=git)** | Galveston, TX | On Site | Sep 05 |
 | **[Virginia's Community College System](https://www.vccs.edu/)** | **[Adjunct Faculty - Student Development](https://jobright.ai/jobs/info/68bb726d6105227d118a60ae?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Sep 05 |
 | **[City Colleges of Chicago](http://www.ccc.edu/Pages/default.aspx)** | **[College Work Study Student- Information Technology Services](https://jobright.ai/jobs/info/68bb71575f3832749186f2cc?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Sep 05 |
 | **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/68bb6fcf8043103d4f22898f?utm_campaign=1057&utm_source=git)** | Puyallup, WA | On Site | Sep 05 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nike](http://www.nike.com)** | **[N7 Undergraduate Internship](https://jobright.ai/jobs/info/68bb22b78043103d4f225d35?utm_campaign=1057&utm_source=git)** | Beaverton, Oregon | On Site | Sep 05 |
 | **[MasTec Clean Energy & Infrastructure](http://www.mastec.com)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/68bb22326105227d118a3469?utm_campaign=1057&utm_source=git)** | Greater Indianapolis | On Site | Sep 05 |
 | **[Wilson & Company, Inc., Engineers and Architects](http://www.wilsonco.com)** | **[High School Intern](https://jobright.ai/jobs/info/68bb206a8043103d4f225a99?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | On Site | Sep 05 |
-| **[Shawmut Design and Construction](http://www.shawmut.com/)** | **[Intern/Coop - Construction Management Skills Training (CMST) Program](https://jobright.ai/jobs/info/68bb1d548043103d4f225a71?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Sep 05 |
-| ↳ | **[Intern/Coop - Construction Management Skills Training (CMST) Program](https://jobright.ai/jobs/info/68bb1bcd5f3832749186c26a?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Sep 05 |
-| **[York Catholic District School Board](http://www.ycdsb.ca)** | **[CONTINUING EDUCATION - Saturday International Language Instructors](https://jobright.ai/jobs/info/68bb1b625f3832749186c206?utm_campaign=1057&utm_source=git)** | Aurora, IL | Remote | Sep 05 |
-| **[Shanzo Kitchens LLC](https://www.linkedin.com/company/105008111)** | **[Student Intern](https://jobright.ai/jobs/info/68bb1b578043103d4f2258de?utm_campaign=1057&utm_source=git)** | Lombard, IL | On Site | Sep 05 |
-| **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Learning Technology & Operations Intern](https://jobright.ai/jobs/info/68bb1a176105227d118a2e72?utm_campaign=1057&utm_source=git)** | Plymouth, MN | On Site | Sep 05 |
-| **[University of South Florida](http://www.usf.edu)** | **[Student Asst - FWS](https://jobright.ai/jobs/info/68bb2a375f3832749186caa4?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Sep 05 |
-| **[Texas Oral History Association](https://toha.web.baylor.edu/about)** | **[Student Worker - Mayborn Research and Evaluation Intern - BC](https://jobright.ai/jobs/info/68bb16926105227d118a2cf8?utm_campaign=1057&utm_source=git)** | Waco, TX, United States | On Site | Sep 05 |
-| **[First Baptist Church Marietta](https://mariettafbc.org)** | **[Worship Leader Intern](https://jobright.ai/jobs/info/68bbaee68043103d4f22b00b?utm_campaign=1057&utm_source=git)** | Marietta, GA | On Site | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
