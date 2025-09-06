@@ -140,7 +140,9 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Support - Navy Federal Investment Services)](https://jobright.ai/jobs/info/68bb86885f3832749186fd04?utm_campaign=1057&utm_source=git)** | Pensacola, FL | Hybrid | Sep 05 |
 | **[City of Cleveland Heights, OH](https://www.clevelandheights.com)** | **[Student Assistant](https://jobright.ai/jobs/info/68bb83428043103d4f229370?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Sep 05 |
 | **[New Directions Mental Health](https://newdirectionspgh.com/)** | **[Mental Health Therapist Intern - PA](https://jobright.ai/jobs/info/68bc44e9ae79610dacddb3b0?utm_campaign=1057&utm_source=git)** | Midway, PA | On Site | Sep 05 |
+| ↳ | **[Mental Health Therapist Intern - PA](https://jobright.ai/jobs/info/68bc6f57ae79610dacddb9f6?utm_campaign=1057&utm_source=git)** | Vandergrift, PA | On Site | Sep 05 |
 | ↳ | **[Mental Health Therapist Intern - Pennsylvania - Fox Chapel](https://jobright.ai/jobs/info/68bc458468300c452ca15327?utm_campaign=1057&utm_source=git)** | Fombell, PA | On Site | Sep 05 |
+| ↳ | **[Mental Health Therapist Intern - Pennsylvania - Washington](https://jobright.ai/jobs/info/68bc6f2f68300c452ca1593c?utm_campaign=1057&utm_source=git)** | Wellsburg, WV | On Site | Sep 05 |
 | ↳ | **[Mental Health Therapist Intern - Pennsylvania - Fox Chapel](https://jobright.ai/jobs/info/68bc460eae79610dacddb45e?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Sep 05 |
 | **[Advanced Behavioral Health](https://www.abhmaryland.com)** | **[Therapist - Paid Clinical Internship SP 26](https://jobright.ai/jobs/info/68bb817b8043103d4f2291b6?utm_campaign=1057&utm_source=git)** | Greenbelt, MD | On Site | Sep 05 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Intern](https://jobright.ai/jobs/info/68bb81596105227d118a67f2?utm_campaign=1057&utm_source=git)** | Seguin, TX | On Site | Sep 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Associate Internship (Instructional Designer)](https://jobright.ai/jobs/info/68bb79795f3832749186f73c?utm_campaign=1057&utm_source=git)** | Vienna, VA | Hybrid | Sep 05 |
 | ↳ | **[Summer Associate Internship (Support - Navy Federal Investment Services)](https://jobright.ai/jobs/info/68bb782b6105227d118a6317?utm_campaign=1057&utm_source=git)** | San Diego, CA | Hybrid | Sep 05 |
 | ↳ | **[Summer Associate Internship (Instructional Designer)](https://jobright.ai/jobs/info/68bb77276105227d118a61b6?utm_campaign=1057&utm_source=git)** | Winchester, VA | Hybrid | Sep 05 |
-| **[The University of Texas Medical Branch](http://www.utmb.edu/)** | **[Federal Work Study Student, Student Financial Aid](https://jobright.ai/jobs/info/68bb75188043103d4f228c01?utm_campaign=1057&utm_source=git)** | Galveston, TX | On Site | Sep 05 |
-| **[Virginia's Community College System](https://www.vccs.edu/)** | **[Adjunct Faculty - Student Development](https://jobright.ai/jobs/info/68bb726d6105227d118a60ae?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
