@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Berkshire Hathaway Energy](https://www.brkenergy.com/)** | **[Intern (Technical Training)](https://jobright.ai/jobs/info/68bc00376105227d118ab686?utm_campaign=1057&utm_source=git)** | Delmont, PA | On Site | Sep 06 |
+| **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-Services for Students with Disabilities-Notetaker](https://jobright.ai/jobs/info/68bbfba15f3832749187480d?utm_campaign=1057&utm_source=git)** | Huntsville, TX | On Site | Sep 06 |
+| **[Leadership In Flight Training Academy](www.flywithlift.com)** | **[LIFT Student Advising Intern - Summer 2026](https://jobright.ai/jobs/info/68bbeaa26105227d118ab2ba?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Sep 06 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[2026 Summer Info. Technology, Business Analyst, Cyber, MIS Intern](https://jobright.ai/jobs/info/68bbe03f8043103d4f22d3c4?utm_campaign=1057&utm_source=git)** | Augusta, ME | On Site | Sep 06 |
 | **[AARP](http://www.aarp.org)** | **[Program Analysis Intern](https://jobright.ai/jobs/info/68bbdf536105227d118aa824?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Sep 06 |
 | **[Republic Airways](http://www.rjet.com)** | **[Learning and Development Intern - Summer 2026](https://jobright.ai/jobs/info/68bbda078043103d4f22d054?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Sep 05 |
@@ -96,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Bobcat Company](https://www.bobcat.com)** | **[2026 Digital Product Student Experience](https://jobright.ai/jobs/info/68bb8c9c5f38327491870260?utm_campaign=1057&utm_source=git)** | West Fargo, ND | On Site | Sep 05 |
 | ↳ | **[2026 Digital Innovation Student Experience](https://jobright.ai/jobs/info/68bb8b146105227d118a6dfe?utm_campaign=1057&utm_source=git)** | West Fargo, ND | On Site | Sep 05 |
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - MBA](https://jobright.ai/jobs/info/68b5e011f4e41a61efd91692?utm_campaign=1057&utm_source=git)** | Rosemead, CA | Hybrid | Sep 05 |
+| **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Psychologist-Program Coordinator PCMHI/PAWS](https://jobright.ai/jobs/info/68bbf1908043103d4f22dbb8?utm_campaign=1057&utm_source=git)** | Anchorage, AK | On Site | Sep 05 |
 | **[Apara Autism Centers](https://aparaautism.com/)** | **[RBT Intern – Trainer](https://jobright.ai/jobs/info/68bb88778043103d4f2296d7?utm_campaign=1057&utm_source=git)** | Memorial Center | On Site | Sep 05 |
 | **[The College of St. Scholastica](https://www.css.edu)** | **[Access Assistant](https://jobright.ai/jobs/info/68bb87ea8043103d4f2295f4?utm_campaign=1057&utm_source=git)** | Duluth, MN | On Site | Sep 05 |
 | **[Concordia University-St. Paul](https://www.csp.edu)** | **[Student Assistant International Program](https://jobright.ai/jobs/info/68bb87958043103d4f229568?utm_campaign=1057&utm_source=git)** | St. Paul,  MN | On Site | Sep 05 |
@@ -121,6 +125,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Associate Internship (Instructional Designer)](https://jobright.ai/jobs/info/68bb79795f3832749186f73c?utm_campaign=1057&utm_source=git)** | Vienna, VA | Hybrid | Sep 05 |
 | ↳ | **[Summer Associate Internship (Support - Navy Federal Investment Services)](https://jobright.ai/jobs/info/68bb782b6105227d118a6317?utm_campaign=1057&utm_source=git)** | San Diego, CA | Hybrid | Sep 05 |
 | ↳ | **[Summer Associate Internship (Instructional Designer)](https://jobright.ai/jobs/info/68bb77276105227d118a61b6?utm_campaign=1057&utm_source=git)** | Winchester, VA | Hybrid | Sep 05 |
+| **[The University of Texas Medical Branch](http://www.utmb.edu/)** | **[Federal Work Study Student, Student Financial Aid](https://jobright.ai/jobs/info/68bb75188043103d4f228c01?utm_campaign=1057&utm_source=git)** | Galveston, TX | On Site | Sep 05 |
 | **[Virginia's Community College System](https://www.vccs.edu/)** | **[Adjunct Faculty - Student Development](https://jobright.ai/jobs/info/68bb726d6105227d118a60ae?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Sep 05 |
 | **[City Colleges of Chicago](http://www.ccc.edu/Pages/default.aspx)** | **[College Work Study Student- Information Technology Services](https://jobright.ai/jobs/info/68bb71575f3832749186f2cc?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Sep 05 |
 | **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/68bb6fcf8043103d4f22898f?utm_campaign=1057&utm_source=git)** | Puyallup, WA | On Site | Sep 05 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Starr Insurance](https://starrcompanies.com/)** | **[Starr Summer Intern - Aviation](https://jobright.ai/jobs/info/68bb2a125f3832749186ca8f?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Sep 05 |
 | **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting (Tenure Track)](https://jobright.ai/jobs/info/68bb286f8043103d4f225f9e?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Sep 05 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - University Alliances North America](https://jobright.ai/jobs/info/68bb27da8043103d4f225f36?utm_campaign=1057&utm_source=git)** | Newport Beach, CA | Hybrid | Sep 05 |
-| **[Central Ohio Youth for Christ](http://www.coyfc.org)** | **[Deaf Teen Ministry Intern](https://jobright.ai/jobs/info/68bb440f5f3832749186dcfd?utm_campaign=1057&utm_source=git)** | Columbus,  OH | On Site | Sep 05 |
-| **[Mission University](https://missionuniv.org)** | **[Remote Global Public Health Research Internship – Online with Mentorship (Educational – Fee-Based)](https://jobright.ai/jobs/info/68bb22c66105227d118a34e1?utm_campaign=1057&utm_source=git)** | Omaha, NE | Remote | Sep 05 |
-| **[Nike](http://www.nike.com)** | **[N7 Undergraduate Internship](https://jobright.ai/jobs/info/68bb22b78043103d4f225d35?utm_campaign=1057&utm_source=git)** | Beaverton, Oregon | On Site | Sep 05 |
-| **[MasTec Clean Energy & Infrastructure](http://www.mastec.com)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/68bb22326105227d118a3469?utm_campaign=1057&utm_source=git)** | Greater Indianapolis | On Site | Sep 05 |
-| **[Wilson & Company, Inc., Engineers and Architects](http://www.wilsonco.com)** | **[High School Intern](https://jobright.ai/jobs/info/68bb206a8043103d4f225a99?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | On Site | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
