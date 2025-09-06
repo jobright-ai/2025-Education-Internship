@@ -57,13 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - UC Davis](https://jobright.ai/jobs/info/68bc8fdbae79610dacddbdaf?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Sep 06 |
+| **[BD](https://www.bd.com)** | **[2026 BD Summer Internship Program - Edge Program - Technology & Global Services (TGS)](https://jobright.ai/jobs/info/68bc8c66ae79610dacddbd66?utm_campaign=1057&utm_source=git)** | Franklin Lakes, NJ | On Site | Sep 06 |
+| **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Penn State](https://jobright.ai/jobs/info/68bc8c4768300c452ca15cbc?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Sep 06 |
+| ↳ | **[Summer 2026 Internship - UCONN](https://jobright.ai/jobs/info/68bc84ea68300c452ca15c63?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Sep 06 |
+| ↳ | **[Summer 2026 Internship - Quinnipiac University](https://jobright.ai/jobs/info/68bc7fa868300c452ca15b03?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Sep 06 |
 | **[County of San Diego](http://www.sdcounty.ca.gov)** | **[Student Worker-19090504-Undergraduate, Graduate/Tech and High School](https://jobright.ai/jobs/info/68bc544b3bf9eb44f8323cbc?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Sep 06 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Associate Dean for Student Affairs (College of Engineering)](https://jobright.ai/jobs/info/68bc4bbaae79610dacddb58d?utm_campaign=1057&utm_source=git)** | Corvallis, OR | Hybrid | Sep 06 |
 | ↳ | **[English Learner Specialist - St. Francis International School](https://jobright.ai/jobs/info/68bc4b5068300c452ca1548d?utm_campaign=1057&utm_source=git)** | Silver Spring, MD | On Site | Sep 06 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[VP for Student Success - SPC - req13058](https://jobright.ai/jobs/info/68bc4aeb3bf9eb44f8323ad5?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Sep 06 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N96512 Coordinator Advising Retention](https://jobright.ai/jobs/info/68bc4adb3bf9eb44f8323ac5?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Sep 06 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Assistant Professor of International Development / Humanitarian Issues](https://jobright.ai/jobs/info/68bc4aa3ae79610dacddb4d6?utm_campaign=1057&utm_source=git)** | Seaside, CA | On Site | Sep 06 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Trading Intern - Part Time](https://jobright.ai/jobs/info/68bc4aa268300c452ca1540b?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Sep 06 |
 | **[Penn State University](http://psu.edu)** | **[Part-Time 4-H Summer Assistant/Intern](https://jobright.ai/jobs/info/68bc4613ae79610dacddb463?utm_campaign=1057&utm_source=git)** | Bucks County, PA | On Site | Sep 06 |
 | ↳ | **[Part-Time 4-H Summer Assistant/Intern](https://jobright.ai/jobs/info/68bc45fbae79610dacddb44d?utm_campaign=1057&utm_source=git)** | Bradford County, PA | On Site | Sep 06 |
 | ↳ | **[Part-Time 4-H Summer Assistant/Intern](https://jobright.ai/jobs/info/68bc45cc68300c452ca1534f?utm_campaign=1057&utm_source=git)** | Centre County, PA | On Site | Sep 06 |
@@ -138,11 +142,13 @@ For a complete list, click the following sortable link below:
 | **[Bobcat Company](https://www.bobcat.com)** | **[2026 Channel Development Student Experience](https://jobright.ai/jobs/info/68bb86dd8043103d4f229407?utm_campaign=1057&utm_source=git)** | West Fargo, ND | On Site | Sep 05 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Intern/Co-Op Student / Workforce Development](https://jobright.ai/jobs/info/68bb86c46105227d118a6a90?utm_campaign=1057&utm_source=git)** | Detroit, Michigan | On Site | Sep 05 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Support - Navy Federal Investment Services)](https://jobright.ai/jobs/info/68bb86885f3832749186fd04?utm_campaign=1057&utm_source=git)** | Pensacola, FL | Hybrid | Sep 05 |
+| **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - VA Tech](https://jobright.ai/jobs/info/68bc770a3bf9eb44f83240fa?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Sep 05 |
+| ↳ | **[Summer 2026 Internship - NC State University](https://jobright.ai/jobs/info/68bc778a3bf9eb44f8324122?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Sep 05 |
 | **[City of Cleveland Heights, OH](https://www.clevelandheights.com)** | **[Student Assistant](https://jobright.ai/jobs/info/68bb83428043103d4f229370?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Sep 05 |
-| **[New Directions Mental Health](https://newdirectionspgh.com/)** | **[Mental Health Therapist Intern - PA](https://jobright.ai/jobs/info/68bc44e9ae79610dacddb3b0?utm_campaign=1057&utm_source=git)** | Midway, PA | On Site | Sep 05 |
-| ↳ | **[Mental Health Therapist Intern - PA](https://jobright.ai/jobs/info/68bc6f57ae79610dacddb9f6?utm_campaign=1057&utm_source=git)** | Vandergrift, PA | On Site | Sep 05 |
-| ↳ | **[Mental Health Therapist Intern - Pennsylvania - Fox Chapel](https://jobright.ai/jobs/info/68bc458468300c452ca15327?utm_campaign=1057&utm_source=git)** | Fombell, PA | On Site | Sep 05 |
+| **[New Directions Mental Health](https://newdirectionspgh.com/)** | **[Mental Health Therapist Intern - PA](https://jobright.ai/jobs/info/68bc6f57ae79610dacddb9f6?utm_campaign=1057&utm_source=git)** | Vandergrift, PA | On Site | Sep 05 |
+| ↳ | **[Mental Health Therapist Intern - PA](https://jobright.ai/jobs/info/68bc44e9ae79610dacddb3b0?utm_campaign=1057&utm_source=git)** | Midway, PA | On Site | Sep 05 |
 | ↳ | **[Mental Health Therapist Intern - Pennsylvania - Washington](https://jobright.ai/jobs/info/68bc6f2f68300c452ca1593c?utm_campaign=1057&utm_source=git)** | Wellsburg, WV | On Site | Sep 05 |
+| ↳ | **[Mental Health Therapist Intern - Pennsylvania - Fox Chapel](https://jobright.ai/jobs/info/68bc458468300c452ca15327?utm_campaign=1057&utm_source=git)** | Fombell, PA | On Site | Sep 05 |
 | ↳ | **[Mental Health Therapist Intern - Pennsylvania - Fox Chapel](https://jobright.ai/jobs/info/68bc460eae79610dacddb45e?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Sep 05 |
 | **[Advanced Behavioral Health](https://www.abhmaryland.com)** | **[Therapist - Paid Clinical Internship SP 26](https://jobright.ai/jobs/info/68bb817b8043103d4f2291b6?utm_campaign=1057&utm_source=git)** | Greenbelt, MD | On Site | Sep 05 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Intern](https://jobright.ai/jobs/info/68bb81596105227d118a67f2?utm_campaign=1057&utm_source=git)** | Seguin, TX | On Site | Sep 05 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sargento](http://www.sargento.com)** | **[Manufacturing Learning Intern](https://jobright.ai/jobs/info/68bb80256105227d118a66f2?utm_campaign=1057&utm_source=git)** | Plymouth, WI | Hybrid | Sep 05 |
 | **[Exos](http://www.teamexos.com/)** | **[Sports Science Intern - Fall 2025](https://jobright.ai/jobs/info/68bb80186105227d118a66eb?utm_campaign=1057&utm_source=git)** | Gulf Breeze, FL | Hybrid | Sep 05 |
 | ↳ | **[Sports Science Intern - Fall 2025](https://jobright.ai/jobs/info/68bb7f2a5f3832749186f944?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | Hybrid | Sep 05 |
-| **[American Councils for International Education](https://www.americancouncils.org)** | **[Unpaid EducationUSA Cohort Advising Intern](https://jobright.ai/jobs/info/68bb9e686105227d118a78ce?utm_campaign=1057&utm_source=git)** | Remotely, RT,  | Remote | Sep 05 |
-| **[Exos](http://www.teamexos.com/)** | **[Sports Science Intern - Fall 2025](https://jobright.ai/jobs/info/68bb7d955f3832749186f7dc?utm_campaign=1057&utm_source=git)** | Plano, TX | Hybrid | Sep 05 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Instructional Designer)](https://jobright.ai/jobs/info/68bb79ce5f3832749186f78c?utm_campaign=1057&utm_source=git)** | Pensacola, FL | Hybrid | Sep 05 |
-| ↳ | **[Summer Associate Internship (Instructional Designer)](https://jobright.ai/jobs/info/68bb79795f3832749186f73c?utm_campaign=1057&utm_source=git)** | Vienna, VA | Hybrid | Sep 05 |
-| ↳ | **[Summer Associate Internship (Support - Navy Federal Investment Services)](https://jobright.ai/jobs/info/68bb782b6105227d118a6317?utm_campaign=1057&utm_source=git)** | San Diego, CA | Hybrid | Sep 05 |
-| ↳ | **[Summer Associate Internship (Instructional Designer)](https://jobright.ai/jobs/info/68bb77276105227d118a61b6?utm_campaign=1057&utm_source=git)** | Winchester, VA | Hybrid | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
