@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Finance MBA - Intern (Hybrid)](https://jobright.ai/jobs/info/689fd41683d13d1f5b6cb499?utm_campaign=1057&utm_source=git)** | Rahway, NJ | Hybrid | Sep 06 |
+| **[Ottawa University](http://www.ottawa.edu)** | **[Graduate Assistant Powerlifting (25713)](https://jobright.ai/jobs/info/68bc0ad36105227d118abb01?utm_campaign=1057&utm_source=git)** | Ottawa, KS | On Site | Sep 06 |
 | **[Berkshire Hathaway Energy](https://www.brkenergy.com/)** | **[Intern (Technical Training)](https://jobright.ai/jobs/info/68bc00376105227d118ab686?utm_campaign=1057&utm_source=git)** | Delmont, PA | On Site | Sep 06 |
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-Services for Students with Disabilities-Notetaker](https://jobright.ai/jobs/info/68bbfba15f3832749187480d?utm_campaign=1057&utm_source=git)** | Huntsville, TX | On Site | Sep 06 |
+| **[Lake Erie College of Osteopathic Medicine](https://lecomhealth.com/community-hospital/)** | **[Student Employment](https://jobright.ai/jobs/info/68bc10bd6105227d118abc6d?utm_campaign=1057&utm_source=git)** | Elmira, NY | On Site | Sep 06 |
 | **[Leadership In Flight Training Academy](www.flywithlift.com)** | **[LIFT Student Advising Intern - Summer 2026](https://jobright.ai/jobs/info/68bbeaa26105227d118ab2ba?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Sep 06 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[2026 Summer Info. Technology, Business Analyst, Cyber, MIS Intern](https://jobright.ai/jobs/info/68bbe03f8043103d4f22d3c4?utm_campaign=1057&utm_source=git)** | Augusta, ME | On Site | Sep 06 |
 | **[AARP](http://www.aarp.org)** | **[Program Analysis Intern](https://jobright.ai/jobs/info/68bbdf536105227d118aa824?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Sep 06 |
@@ -125,7 +128,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Associate Internship (Instructional Designer)](https://jobright.ai/jobs/info/68bb79795f3832749186f73c?utm_campaign=1057&utm_source=git)** | Vienna, VA | Hybrid | Sep 05 |
 | ↳ | **[Summer Associate Internship (Support - Navy Federal Investment Services)](https://jobright.ai/jobs/info/68bb782b6105227d118a6317?utm_campaign=1057&utm_source=git)** | San Diego, CA | Hybrid | Sep 05 |
 | ↳ | **[Summer Associate Internship (Instructional Designer)](https://jobright.ai/jobs/info/68bb77276105227d118a61b6?utm_campaign=1057&utm_source=git)** | Winchester, VA | Hybrid | Sep 05 |
-| **[The University of Texas Medical Branch](http://www.utmb.edu/)** | **[Federal Work Study Student, Student Financial Aid](https://jobright.ai/jobs/info/68bb75188043103d4f228c01?utm_campaign=1057&utm_source=git)** | Galveston, TX | On Site | Sep 05 |
 | **[Virginia's Community College System](https://www.vccs.edu/)** | **[Adjunct Faculty - Student Development](https://jobright.ai/jobs/info/68bb726d6105227d118a60ae?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Sep 05 |
 | **[City Colleges of Chicago](http://www.ccc.edu/Pages/default.aspx)** | **[College Work Study Student- Information Technology Services](https://jobright.ai/jobs/info/68bb71575f3832749186f2cc?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Sep 05 |
 | **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/68bb6fcf8043103d4f22898f?utm_campaign=1057&utm_source=git)** | Puyallup, WA | On Site | Sep 05 |
@@ -146,8 +148,6 @@ For a complete list, click the following sortable link below:
 | **[Travelers](https://www.travelers.com)** | **[Data Science Leadership Development Program (DSLDP) Intern](https://jobright.ai/jobs/info/68bb39c68043103d4f226d41?utm_campaign=1057&utm_source=git)** | Hartford, CT | Hybrid | Sep 05 |
 | **[CAC Agency](http://cobbsallen.com)** | **[CAC Specialty Summer Internship 2026 (Houston)](https://jobright.ai/jobs/info/68bb39928043103d4f226d08?utm_campaign=1057&utm_source=git)** | Houston, TX, USA | On Site | Sep 05 |
 | **[Cuyahoga Community College](http://www.tri-c.edu)** | **[Work Study, Academic Support, Technology or Laboratory (Biology)](https://jobright.ai/jobs/info/68bb391c8043103d4f226c73?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Sep 05 |
-| **[IEA Constructors LLC, a MasTec Company](https://ieaconstructors.com/)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/68bb38235f3832749186d578?utm_campaign=1057&utm_source=git)** | US-IN-Indianapolis | Hybrid | Sep 05 |
-| ↳ | **[Instructional Design Intern](https://jobright.ai/jobs/info/68bb37f36105227d118a42cb?utm_campaign=1057&utm_source=git)** | Greater Indianapolis | On Site | Sep 05 |
 | **[Monte Nido Walden](https://www.waldeneatingdisorders.com)** | **[Walden - Clinical Internship](https://jobright.ai/jobs/info/68bb5d248043103d4f2282fe?utm_campaign=1057&utm_source=git)** | Middletown, CT | On Site | Sep 05 |
 | **[Southwire Company](http://southwire.com)** | **[Training Intern](https://jobright.ai/jobs/info/68bb36f75f3832749186d3d0?utm_campaign=1057&utm_source=git)** | Carrollton, GA | Hybrid | Sep 05 |
 | **[Northeastern University](https://www.northeastern.edu/cri/)** | **[Graduate Intern Office of Global Services](https://jobright.ai/jobs/info/68bb2b6a8043103d4f22622e?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | Sep 05 |
