@@ -57,16 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SCO Family of Services](https://sco.org/)** | **[COLLEGE INTERN](https://jobright.ai/jobs/info/68bde910e57feb02eb0ac759?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | Hybrid | Sep 07 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2026 Product Training Student Experience](https://jobright.ai/jobs/info/68bdd836c4c5904ff60043ac?utm_campaign=1057&utm_source=git)** | West Fargo, ND | On Site | Sep 07 |
 | ↳ | **[2026 Program Management Student Experience](https://jobright.ai/jobs/info/68bdd76fdf5eec448f63d6b0?utm_campaign=1057&utm_source=git)** | West Fargo, ND | On Site | Sep 07 |
 | **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting (Tenure Track)](https://jobright.ai/jobs/info/68bdd32bdf5eec448f63d608?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Sep 07 |
 | **[ParentSphere](https://www.parentspheres.com)** | **[Community Growth Specialist - Internship](https://jobright.ai/jobs/info/68bdd135c4c5904ff6004305?utm_campaign=1057&utm_source=git)** | United States | Remote | Sep 07 |
+| **[The Ranch at Dove Tree](https://ranchatdovetree.com)** | **[Intern](https://jobright.ai/jobs/info/68bdf116e57feb02eb0ac804?utm_campaign=1057&utm_source=git)** | Lubbock, TX | On Site | Sep 07 |
 | **[Purdue University Daniels School of Business](https://www.business.purdue.edu)** | **[Research And Teaching Assistant](https://jobright.ai/jobs/info/68bdc393e57feb02eb0ac4a8?utm_campaign=1057&utm_source=git)** | West Lafayette, IN | On Site | Sep 07 |
 | **[Summit BHC](http://summitbhc.com/)** | **[Intern](https://jobright.ai/jobs/info/68bde178c4c5904ff6004499?utm_campaign=1057&utm_source=git)** | The Ranch at Dove Tree | On Site | Sep 07 |
 | **[Drexel University](http://drexel.edu)** | **[Adjunct-College of Engineering - AY25-26 MEM 431, MEM 679 or MEM T380](https://jobright.ai/jobs/info/68bdbb26c4c5904ff6004173?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Sep 07 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Trading Intern - Part Time](https://jobright.ai/jobs/info/68bdb86ce57feb02eb0ac394?utm_campaign=1057&utm_source=git)** | Illinois, United States | On Site | Sep 07 |
 | **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/68bdb3d8c4c5904ff60040b3?utm_campaign=1057&utm_source=git)** | Racine, WI | Remote | Sep 07 |
-| **[Growvix](https://www.linkedin.com/company/104166605)** | **[Trading Intern - Part Time](https://jobright.ai/jobs/info/68bda733df5eec448f63d2c8?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Sep 07 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Programs Coordinator](https://jobright.ai/jobs/info/68bd9cd5e57feb02eb0ac1e3?utm_campaign=1057&utm_source=git)** | University Park, FL | Hybrid | Sep 07 |
 | **[Drama Kids of North Columbus](https://dramakids.com/north-columbus-oh/)** | **[Drama Teacher - Part Time Position/Intern](https://jobright.ai/jobs/info/68bd8f17c4c5904ff6003d03?utm_campaign=1057&utm_source=git)** | Dublin, OH | On Site | Sep 07 |
 | **[Boston University](https://www.bumc.bu.edu/busm)** | **[ASSISTANT DIRECTOR, STUDENT SERVICES, International Students and Scholars Office](https://jobright.ai/jobs/info/68bd84b2df5eec448f63ce13?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Sep 07 |
@@ -91,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - UC Davis](https://jobright.ai/jobs/info/68bc8fdbae79610dacddbdaf?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Sep 06 |
 | **[BD](https://www.bd.com)** | **[2026 BD Summer Internship Program - Edge Program - Technology & Global Services (TGS)](https://jobright.ai/jobs/info/68bc8c66ae79610dacddbd66?utm_campaign=1057&utm_source=git)** | Franklin Lakes, NJ | On Site | Sep 06 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - NC State University](https://jobright.ai/jobs/info/68bc805aae79610dacddbc02?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Sep 06 |
+| ↳ | **[Summer 2026 Internship - Quinnipiac University](https://jobright.ai/jobs/info/68bc7fa868300c452ca15b03?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Sep 06 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Husky Ranch + Wilderness Adventure Volunteer in Scotland](https://jobright.ai/jobs/info/68125ac8a6e41049a106c5d6?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Sep 06 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Associate Dean for Student Affairs (College of Engineering)](https://jobright.ai/jobs/info/68bc4bbaae79610dacddb58d?utm_campaign=1057&utm_source=git)** | Corvallis, OR | Hybrid | Sep 06 |
 | ↳ | **[English Learner Specialist - St. Francis International School](https://jobright.ai/jobs/info/68bc4b5068300c452ca1548d?utm_campaign=1057&utm_source=git)** | Silver Spring, MD | On Site | Sep 06 |
@@ -121,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Finance MBA - Intern (Hybrid)](https://jobright.ai/jobs/info/689fd41683d13d1f5b6cb499?utm_campaign=1057&utm_source=git)** | Rahway, NJ | Hybrid | Sep 06 |
 | **[UPMC](https://www.upmc.com/)** | **[Student Nurse Internship (SNI) Program:  Western MD Hospital](https://jobright.ai/jobs/info/689f196479a9f9666255471f?utm_campaign=1057&utm_source=git)** | Cumberland, MD | On Site | Sep 06 |
 | **[Ottawa University](http://www.ottawa.edu)** | **[Graduate Assistant Powerlifting (25713)](https://jobright.ai/jobs/info/68bc0ad36105227d118abb01?utm_campaign=1057&utm_source=git)** | Ottawa, KS | On Site | Sep 06 |
-| **[University of South Florida](http://www.usf.edu)** | **[Student Assistant - FWS](https://jobright.ai/jobs/info/68bb2a375f3832749186caa4?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Sep 06 |
 | **[Berkshire Hathaway Energy](https://www.brkenergy.com/)** | **[Intern (Technical Training)](https://jobright.ai/jobs/info/68bc00376105227d118ab686?utm_campaign=1057&utm_source=git)** | Delmont, PA | On Site | Sep 06 |
 | **[Telecare Corporation](http://www.telecarecorp.com)** | **[Internship Opportunities for All Telecare Locations! FY26](https://jobright.ai/jobs/info/68673bc3afc79b6161e5b82e?utm_campaign=1057&utm_source=git)** | Alameda, CA | On Site | Sep 06 |
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-Services for Students with Disabilities-Notetaker](https://jobright.ai/jobs/info/68bbfba15f3832749187480d?utm_campaign=1057&utm_source=git)** | Huntsville, TX | On Site | Sep 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Program Analysis Intern](https://jobright.ai/jobs/info/68bb93728043103d4f229cc3?utm_campaign=1057&utm_source=git)** | Washington, DC, United States | Hybrid | Sep 05 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68bb93655f38327491870620?utm_campaign=1057&utm_source=git)** | San Ramon, CA | On Site | Sep 05 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68bb935b6105227d118a7340?utm_campaign=1057&utm_source=git)** | Santa Cruz, CA | On Site | Sep 05 |
-| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68bb925e6105227d118a7272?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
