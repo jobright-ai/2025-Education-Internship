@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bobcat Company](https://www.bobcat.com)** | **[2026 Product Training Student Experience](https://jobright.ai/jobs/info/68bdd836c4c5904ff60043ac?utm_campaign=1057&utm_source=git)** | West Fargo, ND | On Site | Sep 07 |
+| ↳ | **[2026 Program Management Student Experience](https://jobright.ai/jobs/info/68bdd76fdf5eec448f63d6b0?utm_campaign=1057&utm_source=git)** | West Fargo, ND | On Site | Sep 07 |
+| **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting (Tenure Track)](https://jobright.ai/jobs/info/68bdd32bdf5eec448f63d608?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Sep 07 |
+| **[ParentSphere](https://www.parentspheres.com)** | **[Community Growth Specialist - Internship](https://jobright.ai/jobs/info/68bdd135c4c5904ff6004305?utm_campaign=1057&utm_source=git)** | United States | Remote | Sep 07 |
 | **[Purdue University Daniels School of Business](https://www.business.purdue.edu)** | **[Research And Teaching Assistant](https://jobright.ai/jobs/info/68bdc393e57feb02eb0ac4a8?utm_campaign=1057&utm_source=git)** | West Lafayette, IN | On Site | Sep 07 |
+| **[Summit BHC](http://summitbhc.com/)** | **[Intern](https://jobright.ai/jobs/info/68bde178c4c5904ff6004499?utm_campaign=1057&utm_source=git)** | The Ranch at Dove Tree | On Site | Sep 07 |
 | **[Drexel University](http://drexel.edu)** | **[Adjunct-College of Engineering - AY25-26 MEM 431, MEM 679 or MEM T380](https://jobright.ai/jobs/info/68bdbb26c4c5904ff6004173?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Sep 07 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Trading Intern - Part Time](https://jobright.ai/jobs/info/68bdb86ce57feb02eb0ac394?utm_campaign=1057&utm_source=git)** | Illinois, United States | On Site | Sep 07 |
 | **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/68bdb3d8c4c5904ff60040b3?utm_campaign=1057&utm_source=git)** | Racine, WI | Remote | Sep 07 |
@@ -83,10 +88,9 @@ For a complete list, click the following sortable link below:
 | **[ABLE Incorporated](https://www.ableinc.net)** | **[PSYCHOLOGY INTERNSHIP](https://jobright.ai/jobs/info/68bcc2c568300c452ca160c5?utm_campaign=1057&utm_source=git)** | Dickinson, ND | On Site | Sep 06 |
 | **[USC Marshall School of Business](https://www.marshall.usc.edu/)** | **[Graduate Assistant- 1 position available](https://jobright.ai/jobs/info/68bcab11ae79610dacddc042?utm_campaign=1057&utm_source=git)** | Huntington, WV | On Site | Sep 06 |
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Career Development Intern](https://jobright.ai/jobs/info/68bc944c3bf9eb44f8324456?utm_campaign=1057&utm_source=git)** | St Louis, MO | Hybrid | Sep 06 |
+| **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - UC Davis](https://jobright.ai/jobs/info/68bc8fdbae79610dacddbdaf?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Sep 06 |
 | **[BD](https://www.bd.com)** | **[2026 BD Summer Internship Program - Edge Program - Technology & Global Services (TGS)](https://jobright.ai/jobs/info/68bc8c66ae79610dacddbd66?utm_campaign=1057&utm_source=git)** | Franklin Lakes, NJ | On Site | Sep 06 |
-| **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Penn State](https://jobright.ai/jobs/info/68bc8c4768300c452ca15cbc?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Sep 06 |
-| ↳ | **[Summer 2026 Internship - NC State University](https://jobright.ai/jobs/info/68bc805aae79610dacddbc02?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Sep 06 |
-| ↳ | **[Summer 2026 Internship - Quinnipiac University](https://jobright.ai/jobs/info/68bc7fa868300c452ca15b03?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Sep 06 |
+| **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - NC State University](https://jobright.ai/jobs/info/68bc805aae79610dacddbc02?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Sep 06 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Husky Ranch + Wilderness Adventure Volunteer in Scotland](https://jobright.ai/jobs/info/68125ac8a6e41049a106c5d6?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Sep 06 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Associate Dean for Student Affairs (College of Engineering)](https://jobright.ai/jobs/info/68bc4bbaae79610dacddb58d?utm_campaign=1057&utm_source=git)** | Corvallis, OR | Hybrid | Sep 06 |
 | ↳ | **[English Learner Specialist - St. Francis International School](https://jobright.ai/jobs/info/68bc4b5068300c452ca1548d?utm_campaign=1057&utm_source=git)** | Silver Spring, MD | On Site | Sep 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68bb93655f38327491870620?utm_campaign=1057&utm_source=git)** | San Ramon, CA | On Site | Sep 05 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68bb935b6105227d118a7340?utm_campaign=1057&utm_source=git)** | Santa Cruz, CA | On Site | Sep 05 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68bb925e6105227d118a7272?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Sep 05 |
-| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68bb923b5f3832749187052a?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Sep 05 |
-| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68bb92166105227d118a7235?utm_campaign=1057&utm_source=git)** | Soquel, CA | On Site | Sep 05 |
-| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68bb92045f38327491870503?utm_campaign=1057&utm_source=git)** | Lake Forest Park, WA | On Site | Sep 05 |
-| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68bb91395f3832749187046e?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
