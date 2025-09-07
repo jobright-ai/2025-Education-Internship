@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Riverside Community Care](http://www.riversidecc.org)** | **[Life Skills Master Level Internship - Flexible Start Date](https://jobright.ai/jobs/info/68bd304968300c452ca18b64?utm_campaign=1057&utm_source=git)** | Needham, MA | On Site | Sep 07 |
+| **[Peralta Community College District](https://web.peralta.edu/)** | **[Staff Assistant/Student Services (Counseling Department) - **INTERNAL POSTING**](https://jobright.ai/jobs/info/68bd4dcfae79610dacddf544?utm_campaign=1057&utm_source=git)** | Peralta, NM | On Site | Sep 07 |
+| **[Riverside Community Care](http://www.riversidecc.org)** | **[Master Level Life Skills Internship - Flexible Start Date](https://jobright.ai/jobs/info/68bd3b3f68300c452ca19143?utm_campaign=1057&utm_source=git)** | Milford, MA | On Site | Sep 07 |
+| ↳ | **[Life Skills Master Level Internship - Flexible Start Date](https://jobright.ai/jobs/info/68bd304968300c452ca18b64?utm_campaign=1057&utm_source=git)** | Needham, MA | On Site | Sep 07 |
 | **[Art Works For Change](http://www.artworksforchange.org)** | **[Climate Leadership Training Program -- virtual advocacy course](https://jobright.ai/jobs/info/68bcfd153bf9eb44f832591e?utm_campaign=1057&utm_source=git)** | Oakland, CA | Remote | Sep 06 |
 | **[Take Back The Night Foundation](https://takebackthenight.org/)** | **[Campus Networking with Sexual Assault Awareness Advocates Worldwide](https://jobright.ai/jobs/info/68bcf0433bf9eb44f8324edf?utm_campaign=1057&utm_source=git)** | Wayne County, PA | Remote | Sep 06 |
 | **[Child Crisis Arizona](https://childcrisisaz.org/)** | **[Early Education Intern](https://jobright.ai/jobs/info/68bcec0a3bf9eb44f8324dc8?utm_campaign=1057&utm_source=git)** | Mesa, AZ | On Site | Sep 06 |
@@ -73,7 +75,9 @@ For a complete list, click the following sortable link below:
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Asset Management Group Undergraduate Intern](https://jobright.ai/jobs/info/68bca761ae79610dacddbffd?utm_campaign=1057&utm_source=git)** | Seattle, WA | Remote | Sep 06 |
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Career Development Intern](https://jobright.ai/jobs/info/68bc944c3bf9eb44f8324456?utm_campaign=1057&utm_source=git)** | St Louis, MO | Hybrid | Sep 06 |
 | **[BD](https://www.bd.com)** | **[2026 BD Summer Internship Program - Edge Program - Technology & Global Services (TGS)](https://jobright.ai/jobs/info/68bc8c66ae79610dacddbd66?utm_campaign=1057&utm_source=git)** | Franklin Lakes, NJ | On Site | Sep 06 |
-| **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - NC State University](https://jobright.ai/jobs/info/68bc805aae79610dacddbc02?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Sep 06 |
+| **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Penn State](https://jobright.ai/jobs/info/68bc8c4768300c452ca15cbc?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Sep 06 |
+| ↳ | **[Summer 2026 Internship - UCONN](https://jobright.ai/jobs/info/68bc84ea68300c452ca15c63?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Sep 06 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Husky Ranch + Wilderness Adventure Volunteer in Scotland](https://jobright.ai/jobs/info/68125ac8a6e41049a106c5d6?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Sep 06 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Associate Dean for Student Affairs (College of Engineering)](https://jobright.ai/jobs/info/68bc4bbaae79610dacddb58d?utm_campaign=1057&utm_source=git)** | Corvallis, OR | Hybrid | Sep 06 |
 | ↳ | **[English Learner Specialist - St. Francis International School](https://jobright.ai/jobs/info/68bc4b5068300c452ca1548d?utm_campaign=1057&utm_source=git)** | Silver Spring, MD | On Site | Sep 06 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[VP for Student Success - SPC - req13058](https://jobright.ai/jobs/info/68bc4aeb3bf9eb44f8323ad5?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Sep 06 |
@@ -119,6 +123,7 @@ For a complete list, click the following sortable link below:
 | **[Pine Street Inn](https://www.pinestreetinn.org)** | **[Clinical Intern - Unpaid](https://jobright.ai/jobs/info/68bbe53b6105227d118aaf0d?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Sep 05 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Global Medical Proficiency & External Affairs - Intern](https://jobright.ai/jobs/info/68bb93606105227d118a7346?utm_campaign=1057&utm_source=git)** | North Wales, PA | Hybrid | Sep 05 |
 | **[AHRC NYC](https://www.linkedin.com/company/8945860)** | **[DSP Paid Internship Program - NYC Youth (18-24yrs. old)](https://jobright.ai/jobs/info/68bbac886105227d118a82fe?utm_campaign=1057&utm_source=git)** | New York County, NY | On Site | Sep 05 |
+| **[New Directions Mental Health](https://newdirectionspgh.com/)** | **[Graduate Therapist Intern](https://jobright.ai/jobs/info/68bd563eae79610dacddf603?utm_campaign=1057&utm_source=git)** | McKeesport, PA | On Site | Sep 05 |
 | **[Amerant Bank](https://www.amerantbank.com/)** | **[Immersive Internship - Digital Enablement](https://jobright.ai/jobs/info/68bd025f3bf9eb44f8325d4a?utm_campaign=1057&utm_source=git)** | Miramar, FL | On Site | Sep 05 |
 | **[Posillico Civil, Inc.](http://posillicoinc.com)** | **[2026 Summer Internship Program (Office / Non-Engineering - NY)](https://jobright.ai/jobs/info/68bba4dd6105227d118a7d5e?utm_campaign=1057&utm_source=git)** | Farmingdale, NY | On Site | Sep 05 |
 | **[New Directions Mental Health](https://newdirectionspgh.com/)** | **[Mental Health Therapist Intern - Pennsylvania - Fox Chapel](https://jobright.ai/jobs/info/68bcfa4c68300c452ca16b4b?utm_campaign=1057&utm_source=git)** | Washington, PA | On Site | Sep 05 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Digital Innovation Student Experience](https://jobright.ai/jobs/info/68bb8b146105227d118a6dfe?utm_campaign=1057&utm_source=git)** | West Fargo, ND | On Site | Sep 05 |
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - MBA](https://jobright.ai/jobs/info/68b5e011f4e41a61efd91692?utm_campaign=1057&utm_source=git)** | Rosemead, CA | Hybrid | Sep 05 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Psychologist-Program Coordinator PCMHI/PAWS](https://jobright.ai/jobs/info/68bbf1908043103d4f22dbb8?utm_campaign=1057&utm_source=git)** | Anchorage, AK | On Site | Sep 05 |
-| **[Apara Autism Centers](https://aparaautism.com/)** | **[RBT Intern – Trainer](https://jobright.ai/jobs/info/68bb88778043103d4f2296d7?utm_campaign=1057&utm_source=git)** | Memorial Center | On Site | Sep 05 |
-| **[The College of St. Scholastica](https://www.css.edu)** | **[Access Assistant](https://jobright.ai/jobs/info/68bb87ea8043103d4f2295f4?utm_campaign=1057&utm_source=git)** | Duluth, MN | On Site | Sep 05 |
-| **[Concordia University-St. Paul](https://www.csp.edu)** | **[Student Assistant International Program](https://jobright.ai/jobs/info/68bb87958043103d4f229568?utm_campaign=1057&utm_source=git)** | St. Paul,  MN | On Site | Sep 05 |
-| ↳ | **[Student Assistant International Program](https://jobright.ai/jobs/info/68bb878f5f3832749186fed1?utm_campaign=1057&utm_source=git)** | St. Paul, MN | On Site | Sep 05 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Co-Op/Intern - High School Students](https://jobright.ai/jobs/info/68bb87878043103d4f229547?utm_campaign=1057&utm_source=git)** | Location varies, KY, US | On Site | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
