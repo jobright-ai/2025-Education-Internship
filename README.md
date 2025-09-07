@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WebServes](https://webserves.org/)** | **[VOLUNTEER: Program Associate](https://jobright.ai/jobs/info/68bce67b68300c452ca1646f?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Sep 06 |
+| **[QUEEN ANN NZINGA CENTER INC](http://www.qanc.org)** | **[Internships & Volunteer Positions Available](https://jobright.ai/jobs/info/68bce64668300c452ca16450?utm_campaign=1057&utm_source=git)** | New Britain, CT | On Site | Sep 06 |
+| **[Jazz for Peace™](http://jazzforpeace.org/)** | **[Offer a valuable internship to students!](https://jobright.ai/jobs/info/68bce5a468300c452ca163f7?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Sep 06 |
+| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Consumer & Community Banking Risk Modeling Associate Program – Summer Internship](https://jobright.ai/jobs/info/68bcd7dcae79610dacddc39f?utm_campaign=1057&utm_source=git)** | Wilmington, DE, United States | On Site | Sep 06 |
+| **[Chase](https://www.chase.com/)** | **[2026 Consumer & Community Banking Risk Modeling Associate Program – Summer Internship](https://jobright.ai/jobs/info/68bcd3fcae79610dacddc2bd?utm_campaign=1057&utm_source=git)** | Wilmington, DE, United States | On Site | Sep 06 |
 | **[Grow Public Schools](https://www.growpublicschools.org)** | **[Alumni Coordinator Intern](https://jobright.ai/jobs/info/68bcc65268300c452ca160e9?utm_campaign=1057&utm_source=git)** | Bakersfield, CA | On Site | Sep 06 |
 | **[ABLE Incorporated](https://www.ableinc.net)** | **[PSYCHOLOGY INTERNSHIP](https://jobright.ai/jobs/info/68bcc2c568300c452ca160c5?utm_campaign=1057&utm_source=git)** | Dickinson, ND | On Site | Sep 06 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Records and Registration Clerical - Student Employment](https://jobright.ai/jobs/info/68bcabb93bf9eb44f832467d?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Sep 06 |
@@ -64,11 +69,12 @@ For a complete list, click the following sortable link below:
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Asset Management Group Undergraduate Intern](https://jobright.ai/jobs/info/68bca761ae79610dacddbffd?utm_campaign=1057&utm_source=git)** | Seattle, WA | Remote | Sep 06 |
 | **[Frederick County Government, Maryland](https://www.frederickcountymd.gov)** | **[Intern-Aging and Independence](https://jobright.ai/jobs/info/68bca3f63bf9eb44f83245d1?utm_campaign=1057&utm_source=git)** | Frederick, MD | On Site | Sep 06 |
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Career Development Intern](https://jobright.ai/jobs/info/68bc944c3bf9eb44f8324456?utm_campaign=1057&utm_source=git)** | St Louis, MO | Hybrid | Sep 06 |
+| **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - UC Davis](https://jobright.ai/jobs/info/68bc8fdbae79610dacddbdaf?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Sep 06 |
 | **[BD](https://www.bd.com)** | **[2026 BD Summer Internship Program - Edge Program - Technology & Global Services (TGS)](https://jobright.ai/jobs/info/68bc8c66ae79610dacddbd66?utm_campaign=1057&utm_source=git)** | Franklin Lakes, NJ | On Site | Sep 06 |
-| **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - UCONN](https://jobright.ai/jobs/info/68bc84ea68300c452ca15c63?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Sep 06 |
+| **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Penn State](https://jobright.ai/jobs/info/68bc8c4768300c452ca15cbc?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Sep 06 |
+| ↳ | **[Summer 2026 Internship - UCONN](https://jobright.ai/jobs/info/68bc84ea68300c452ca15c63?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Sep 06 |
 | ↳ | **[Summer 2026 Internship - NC State University](https://jobright.ai/jobs/info/68bc805aae79610dacddbc02?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Sep 06 |
 | ↳ | **[Summer 2026 Internship - Quinnipiac University](https://jobright.ai/jobs/info/68bc7fa868300c452ca15b03?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Sep 06 |
-| **[County of San Diego](http://www.sdcounty.ca.gov)** | **[Student Worker-19090504-Undergraduate, Graduate/Tech and High School](https://jobright.ai/jobs/info/68bc544b3bf9eb44f8323cbc?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Sep 06 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Associate Dean for Student Affairs (College of Engineering)](https://jobright.ai/jobs/info/68bc4bbaae79610dacddb58d?utm_campaign=1057&utm_source=git)** | Corvallis, OR | Hybrid | Sep 06 |
 | ↳ | **[English Learner Specialist - St. Francis International School](https://jobright.ai/jobs/info/68bc4b5068300c452ca1548d?utm_campaign=1057&utm_source=git)** | Silver Spring, MD | On Site | Sep 06 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[VP for Student Success - SPC - req13058](https://jobright.ai/jobs/info/68bc4aeb3bf9eb44f8323ad5?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Sep 06 |
@@ -79,7 +85,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Part-Time 4-H Summer Assistant/Intern](https://jobright.ai/jobs/info/68bc45fbae79610dacddb44d?utm_campaign=1057&utm_source=git)** | Bradford County, PA | On Site | Sep 06 |
 | ↳ | **[Part-Time 4-H Summer Assistant/Intern](https://jobright.ai/jobs/info/68bc45cc68300c452ca1534f?utm_campaign=1057&utm_source=git)** | Centre County, PA | On Site | Sep 06 |
 | ↳ | **[Part-Time 4-H Summer Assistant/Intern](https://jobright.ai/jobs/info/68bc45ac68300c452ca1533c?utm_campaign=1057&utm_source=git)** | Perry County, PA | On Site | Sep 06 |
-| ↳ | **[Part-Time 4-H Summer Assistant/Intern](https://jobright.ai/jobs/info/68bc45ab3bf9eb44f8323a03?utm_campaign=1057&utm_source=git)** | Huntingdon County, PA | On Site | Sep 06 |
 | ↳ | **[Part-Time 4-H Summer Assistant/Intern](https://jobright.ai/jobs/info/68bc4595ae79610dacddb411?utm_campaign=1057&utm_source=git)** | Westmoreland County, PA | On Site | Sep 06 |
 | ↳ | **[Part-Time 4-H Summer Assistant/Intern](https://jobright.ai/jobs/info/68bc456b68300c452ca15311?utm_campaign=1057&utm_source=git)** | Clarion County, PA | On Site | Sep 06 |
 | ↳ | **[Part-Time 4-H Summer Assistant/Intern](https://jobright.ai/jobs/info/68bc455068300c452ca152fc?utm_campaign=1057&utm_source=git)** | Lycoming County, PA | On Site | Sep 06 |
@@ -151,10 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Bobcat Company](https://www.bobcat.com)** | **[2026 Channel Development Student Experience](https://jobright.ai/jobs/info/68bb86dd8043103d4f229407?utm_campaign=1057&utm_source=git)** | West Fargo, ND | On Site | Sep 05 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Intern/Co-Op Student / Workforce Development](https://jobright.ai/jobs/info/68bb86c46105227d118a6a90?utm_campaign=1057&utm_source=git)** | Detroit, Michigan | On Site | Sep 05 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Support - Navy Federal Investment Services)](https://jobright.ai/jobs/info/68bb86885f3832749186fd04?utm_campaign=1057&utm_source=git)** | Pensacola, FL | Hybrid | Sep 05 |
-| **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - UC Davis](https://jobright.ai/jobs/info/68bc78153bf9eb44f8324155?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Sep 05 |
-| ↳ | **[Summer 2026 Internship - Penn State](https://jobright.ai/jobs/info/68bc7c2368300c452ca15ace?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Sep 05 |
 | **[City of Cleveland Heights, OH](https://www.clevelandheights.com)** | **[Student Assistant](https://jobright.ai/jobs/info/68bb83428043103d4f229370?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Sep 05 |
-| **[New Directions Mental Health](https://newdirectionspgh.com/)** | **[Mental Health Therapist Intern - PA](https://jobright.ai/jobs/info/68bc44e9ae79610dacddb3b0?utm_campaign=1057&utm_source=git)** | Midway, PA | On Site | Sep 05 |
-| ↳ | **[Mental Health Therapist Intern - PA](https://jobright.ai/jobs/info/68bc6f57ae79610dacddb9f6?utm_campaign=1057&utm_source=git)** | Vandergrift, PA | On Site | Sep 05 |
-| ↳ | **[Mental Health Therapist Intern - Pennsylvania - Fox Chapel](https://jobright.ai/jobs/info/68bc458468300c452ca15327?utm_campaign=1057&utm_source=git)** | Fombell, PA | On Site | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
