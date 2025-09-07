@@ -57,11 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Purdue University Daniels School of Business](https://www.business.purdue.edu)** | **[Research And Teaching Assistant](https://jobright.ai/jobs/info/68bdc393e57feb02eb0ac4a8?utm_campaign=1057&utm_source=git)** | West Lafayette, IN | On Site | Sep 07 |
+| **[Drexel University](http://drexel.edu)** | **[Adjunct-College of Engineering - AY25-26 MEM 431, MEM 679 or MEM T380](https://jobright.ai/jobs/info/68bdbb26c4c5904ff6004173?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Sep 07 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Trading Intern - Part Time](https://jobright.ai/jobs/info/68bdb86ce57feb02eb0ac394?utm_campaign=1057&utm_source=git)** | Illinois, United States | On Site | Sep 07 |
+| **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/68bdb3d8c4c5904ff60040b3?utm_campaign=1057&utm_source=git)** | Racine, WI | Remote | Sep 07 |
 | **[Growvix](https://www.linkedin.com/company/104166605)** | **[Trading Intern - Part Time](https://jobright.ai/jobs/info/68bda733df5eec448f63d2c8?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Sep 07 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Programs Coordinator](https://jobright.ai/jobs/info/68bd9cd5e57feb02eb0ac1e3?utm_campaign=1057&utm_source=git)** | University Park, FL | Hybrid | Sep 07 |
 | **[Drama Kids of North Columbus](https://dramakids.com/north-columbus-oh/)** | **[Drama Teacher - Part Time Position/Intern](https://jobright.ai/jobs/info/68bd8f17c4c5904ff6003d03?utm_campaign=1057&utm_source=git)** | Dublin, OH | On Site | Sep 07 |
 | **[Boston University](https://www.bumc.bu.edu/busm)** | **[ASSISTANT DIRECTOR, STUDENT SERVICES, International Students and Scholars Office](https://jobright.ai/jobs/info/68bd84b2df5eec448f63ce13?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Sep 07 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Animal Intern - Fall 2025](https://jobright.ai/jobs/info/68a11ca3faa4e875e82920a4?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Sep 07 |
+| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Community Based- Crisis Based in Montgomery County) 2025-2026 Social Work/Counseling Fieldwork](https://jobright.ai/jobs/info/67cb867d849161df4c4fdab8?utm_campaign=1057&utm_source=git)** | Gaithersburg, MD | On Site | Sep 07 |
 | **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/68bd60f7e57feb02eb0ab9bf?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Sep 07 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (OT/OTA Chesapeake Connections Program) Winter 2025 OT Fieldwork](https://jobright.ai/jobs/info/67cc96f45a5cf0d13536a76f?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Sep 07 |
 | **[Peralta Community College District](https://web.peralta.edu/)** | **[Staff Assistant/Student Services (Counseling Department) - **INTERNAL POSTING**](https://jobright.ai/jobs/info/68bd4dcfae79610dacddf544?utm_campaign=1057&utm_source=git)** | Peralta, NM | On Site | Sep 07 |
@@ -79,7 +84,8 @@ For a complete list, click the following sortable link below:
 | **[USC Marshall School of Business](https://www.marshall.usc.edu/)** | **[Graduate Assistant- 1 position available](https://jobright.ai/jobs/info/68bcab11ae79610dacddc042?utm_campaign=1057&utm_source=git)** | Huntington, WV | On Site | Sep 06 |
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Career Development Intern](https://jobright.ai/jobs/info/68bc944c3bf9eb44f8324456?utm_campaign=1057&utm_source=git)** | St Louis, MO | Hybrid | Sep 06 |
 | **[BD](https://www.bd.com)** | **[2026 BD Summer Internship Program - Edge Program - Technology & Global Services (TGS)](https://jobright.ai/jobs/info/68bc8c66ae79610dacddbd66?utm_campaign=1057&utm_source=git)** | Franklin Lakes, NJ | On Site | Sep 06 |
-| **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - NC State University](https://jobright.ai/jobs/info/68bc805aae79610dacddbc02?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Sep 06 |
+| **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Penn State](https://jobright.ai/jobs/info/68bc8c4768300c452ca15cbc?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Sep 06 |
+| ↳ | **[Summer 2026 Internship - NC State University](https://jobright.ai/jobs/info/68bc805aae79610dacddbc02?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Sep 06 |
 | ↳ | **[Summer 2026 Internship - Quinnipiac University](https://jobright.ai/jobs/info/68bc7fa868300c452ca15b03?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Sep 06 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Husky Ranch + Wilderness Adventure Volunteer in Scotland](https://jobright.ai/jobs/info/68125ac8a6e41049a106c5d6?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Sep 06 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Associate Dean for Student Affairs (College of Engineering)](https://jobright.ai/jobs/info/68bc4bbaae79610dacddb58d?utm_campaign=1057&utm_source=git)** | Corvallis, OR | Hybrid | Sep 06 |
@@ -139,6 +145,7 @@ For a complete list, click the following sortable link below:
 | **[University of New England](http://www.une.edu)** | **[Internship Coordinator](https://jobright.ai/jobs/info/68bcf3b2ae79610dacddc8e2?utm_campaign=1057&utm_source=git)** | Biddeford, ME | Hybrid | Sep 05 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Director of International Student and Scholar Services](https://jobright.ai/jobs/info/68bb9e165f38327491870ad9?utm_campaign=1057&utm_source=git)** | Montclair, NJ | On Site | Sep 05 |
 | **[Year Up United](http://yearup.org)** | **[Project Management Career Training Program](https://jobright.ai/jobs/info/68899d09aab47a17f67035c1?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Sep 05 |
+| **[Bond Vet](https://bondvet.com)** | **[Veterinary Student Externship](https://jobright.ai/jobs/info/67dc9df254f1ae6bc6558d07?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Sep 05 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68bb941e5f383274918706f9?utm_campaign=1057&utm_source=git)** | Santa Rosa, CA | On Site | Sep 05 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Co-Op/Intern - High School Students](https://jobright.ai/jobs/info/68bb93ca8043103d4f229d29?utm_campaign=1057&utm_source=git)** | Kentucky, United States | On Site | Sep 05 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Research Intern](https://jobright.ai/jobs/info/68bb937e5f38327491870648?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Sep 05 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68bb92166105227d118a7235?utm_campaign=1057&utm_source=git)** | Soquel, CA | On Site | Sep 05 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68bb92045f38327491870503?utm_campaign=1057&utm_source=git)** | Lake Forest Park, WA | On Site | Sep 05 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68bb91395f3832749187046e?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Sep 05 |
-| **[Materion Corporation](https://materion.com)** | **[2026 Internship & Co-Op Program](https://jobright.ai/jobs/info/689994715574fd6bc0c7d42f?utm_campaign=1057&utm_source=git)** | Lorain, OH | On Site | Sep 05 |
-| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68bb8f9e8043103d4f229bd5?utm_campaign=1057&utm_source=git)** | Redmond, WA | On Site | Sep 05 |
-| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68bb8f608043103d4f229b91?utm_campaign=1057&utm_source=git)** | Kent, WA | On Site | Sep 05 |
-| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68bb8ed78043103d4f229b16?utm_campaign=1057&utm_source=git)** | Redwood City, CA | On Site | Sep 05 |
-| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68bb8ded6105227d118a711f?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Sep 05 |
-| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program -  Global Scientific Training - Intern](https://jobright.ai/jobs/info/68bb8d976105227d118a70c8?utm_campaign=1057&utm_source=git)** | North Wales, PA | Hybrid | Sep 05 |
-| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68bb8d8e8043103d4f2299df?utm_campaign=1057&utm_source=git)** | Daly City, CA | On Site | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
