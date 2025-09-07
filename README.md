@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Riverside Community Care](http://www.riversidecc.org)** | **[Life Skills Master Level Internship - Flexible Start Date](https://jobright.ai/jobs/info/68bd304968300c452ca18b64?utm_campaign=1057&utm_source=git)** | Needham, MA | On Site | Sep 07 |
 | **[Art Works For Change](http://www.artworksforchange.org)** | **[Climate Leadership Training Program -- virtual advocacy course](https://jobright.ai/jobs/info/68bcfd153bf9eb44f832591e?utm_campaign=1057&utm_source=git)** | Oakland, CA | Remote | Sep 06 |
-| **[State of North Carolina](http://www.nc.gov)** | **[High School Intern Program](https://jobright.ai/jobs/info/68bcfaad68300c452ca16c41?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Sep 06 |
 | **[Take Back The Night Foundation](https://takebackthenight.org/)** | **[Campus Networking with Sexual Assault Awareness Advocates Worldwide](https://jobright.ai/jobs/info/68bcf0433bf9eb44f8324edf?utm_campaign=1057&utm_source=git)** | Wayne County, PA | Remote | Sep 06 |
 | **[Child Crisis Arizona](https://childcrisisaz.org/)** | **[Early Education Intern](https://jobright.ai/jobs/info/68bcec0a3bf9eb44f8324dc8?utm_campaign=1057&utm_source=git)** | Mesa, AZ | On Site | Sep 06 |
 | **[WebServes](https://webserves.org/)** | **[VOLUNTEER: Program Associate](https://jobright.ai/jobs/info/68bce67b68300c452ca1646f?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Sep 06 |
@@ -73,7 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Asset Management Group Undergraduate Intern](https://jobright.ai/jobs/info/68bca761ae79610dacddbffd?utm_campaign=1057&utm_source=git)** | Seattle, WA | Remote | Sep 06 |
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Career Development Intern](https://jobright.ai/jobs/info/68bc944c3bf9eb44f8324456?utm_campaign=1057&utm_source=git)** | St Louis, MO | Hybrid | Sep 06 |
 | **[BD](https://www.bd.com)** | **[2026 BD Summer Internship Program - Edge Program - Technology & Global Services (TGS)](https://jobright.ai/jobs/info/68bc8c66ae79610dacddbd66?utm_campaign=1057&utm_source=git)** | Franklin Lakes, NJ | On Site | Sep 06 |
-| **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Penn State](https://jobright.ai/jobs/info/68bc8c4768300c452ca15cbc?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Sep 06 |
+| **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - NC State University](https://jobright.ai/jobs/info/68bc805aae79610dacddbc02?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Sep 06 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Associate Dean for Student Affairs (College of Engineering)](https://jobright.ai/jobs/info/68bc4bbaae79610dacddb58d?utm_campaign=1057&utm_source=git)** | Corvallis, OR | Hybrid | Sep 06 |
 | ↳ | **[English Learner Specialist - St. Francis International School](https://jobright.ai/jobs/info/68bc4b5068300c452ca1548d?utm_campaign=1057&utm_source=git)** | Silver Spring, MD | On Site | Sep 06 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[VP for Student Success - SPC - req13058](https://jobright.ai/jobs/info/68bc4aeb3bf9eb44f8323ad5?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Sep 06 |
@@ -115,7 +115,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Info. Technology, Business Analyst, Cyber, MIS Intern](https://jobright.ai/jobs/info/68bbd55b8043103d4f22ceb9?utm_campaign=1057&utm_source=git)** | Rochester, NY | On Site | Sep 05 |
 | **[Andover Public Schools](http://www.usd385.org)** | **[After-School Assistant Group Leader](https://jobright.ai/jobs/info/68bbd4348043103d4f22cda6?utm_campaign=1057&utm_source=git)** | Andover, MA | On Site | Sep 05 |
 | **[CASA DE LA FAMILIA](https://www.casadelafamilia.org)** | **[Associate Psychologist](https://jobright.ai/jobs/info/68bc23df6105227d118abf69?utm_campaign=1057&utm_source=git)** | Santa Ana, CA | On Site | Sep 05 |
-| **[IEA Constructors LLC, a MasTec Company](https://ieaconstructors.com/)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/68bd1dd5ae79610dacdde588?utm_campaign=1057&utm_source=git)** | Greater Indianapolis | On Site | Sep 05 |
 | **[Youth Villages](http://www.youthvillages.org)** | **[Fall 2025 - Bachelors Level Internship](https://jobright.ai/jobs/info/68bbbe1e5f383274918726ac?utm_campaign=1057&utm_source=git)** | Bloomington, IN | On Site | Sep 05 |
 | **[Pine Street Inn](https://www.pinestreetinn.org)** | **[Clinical Intern - Unpaid](https://jobright.ai/jobs/info/68bbe53b6105227d118aaf0d?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Sep 05 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Global Medical Proficiency & External Affairs - Intern](https://jobright.ai/jobs/info/68bb93606105227d118a7346?utm_campaign=1057&utm_source=git)** | North Wales, PA | Hybrid | Sep 05 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[The College of St. Scholastica](https://www.css.edu)** | **[Access Assistant](https://jobright.ai/jobs/info/68bb87ea8043103d4f2295f4?utm_campaign=1057&utm_source=git)** | Duluth, MN | On Site | Sep 05 |
 | **[Concordia University-St. Paul](https://www.csp.edu)** | **[Student Assistant International Program](https://jobright.ai/jobs/info/68bb87958043103d4f229568?utm_campaign=1057&utm_source=git)** | St. Paul,  MN | On Site | Sep 05 |
 | ↳ | **[Student Assistant International Program](https://jobright.ai/jobs/info/68bb878f5f3832749186fed1?utm_campaign=1057&utm_source=git)** | St. Paul, MN | On Site | Sep 05 |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Co-Op/Intern - High School Students](https://jobright.ai/jobs/info/68bb87878043103d4f229547?utm_campaign=1057&utm_source=git)** | Location varies, KY, US | On Site | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
