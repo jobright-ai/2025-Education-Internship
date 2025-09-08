@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Page closed](http://www.doosanbobcat.com/)** | **[2026 Program Management Student Experience](https://jobright.ai/jobs/info/68be0e7dc4c5904ff6004757?utm_campaign=1057&utm_source=git)** | West Fargo, ND | On Site | Sep 07 |
 | **[SCO Family of Services](https://sco.org/)** | **[COLLEGE INTERN](https://jobright.ai/jobs/info/68bde910e57feb02eb0ac759?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | Hybrid | Sep 07 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2026 Product Training Student Experience](https://jobright.ai/jobs/info/68bdd836c4c5904ff60043ac?utm_campaign=1057&utm_source=git)** | West Fargo, ND | On Site | Sep 07 |
 | ↳ | **[2026 Program Management Student Experience](https://jobright.ai/jobs/info/68bdd76fdf5eec448f63d6b0?utm_campaign=1057&utm_source=git)** | West Fargo, ND | On Site | Sep 07 |
@@ -89,10 +90,8 @@ For a complete list, click the following sortable link below:
 | **[ABLE Incorporated](https://www.ableinc.net)** | **[PSYCHOLOGY INTERNSHIP](https://jobright.ai/jobs/info/68bcc2c568300c452ca160c5?utm_campaign=1057&utm_source=git)** | Dickinson, ND | On Site | Sep 06 |
 | **[USC Marshall School of Business](https://www.marshall.usc.edu/)** | **[Graduate Assistant- 1 position available](https://jobright.ai/jobs/info/68bcab11ae79610dacddc042?utm_campaign=1057&utm_source=git)** | Huntington, WV | On Site | Sep 06 |
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Career Development Intern](https://jobright.ai/jobs/info/68bc944c3bf9eb44f8324456?utm_campaign=1057&utm_source=git)** | St Louis, MO | Hybrid | Sep 06 |
-| **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - UC Davis](https://jobright.ai/jobs/info/68bc8fdbae79610dacddbdaf?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Sep 06 |
 | **[BD](https://www.bd.com)** | **[2026 BD Summer Internship Program - Edge Program - Technology & Global Services (TGS)](https://jobright.ai/jobs/info/68bc8c66ae79610dacddbd66?utm_campaign=1057&utm_source=git)** | Franklin Lakes, NJ | On Site | Sep 06 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - NC State University](https://jobright.ai/jobs/info/68bc805aae79610dacddbc02?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Sep 06 |
-| ↳ | **[Summer 2026 Internship - Quinnipiac University](https://jobright.ai/jobs/info/68bc7fa868300c452ca15b03?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Sep 06 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Husky Ranch + Wilderness Adventure Volunteer in Scotland](https://jobright.ai/jobs/info/68125ac8a6e41049a106c5d6?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Sep 06 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Associate Dean for Student Affairs (College of Engineering)](https://jobright.ai/jobs/info/68bc4bbaae79610dacddb58d?utm_campaign=1057&utm_source=git)** | Corvallis, OR | Hybrid | Sep 06 |
 | ↳ | **[English Learner Specialist - St. Francis International School](https://jobright.ai/jobs/info/68bc4b5068300c452ca1548d?utm_campaign=1057&utm_source=git)** | Silver Spring, MD | On Site | Sep 06 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Program Analysis Intern](https://jobright.ai/jobs/info/68bb93728043103d4f229cc3?utm_campaign=1057&utm_source=git)** | Washington, DC, United States | Hybrid | Sep 05 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68bb93655f38327491870620?utm_campaign=1057&utm_source=git)** | San Ramon, CA | On Site | Sep 05 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68bb935b6105227d118a7340?utm_campaign=1057&utm_source=git)** | Santa Cruz, CA | On Site | Sep 05 |
+| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68bb925e6105227d118a7272?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
