@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Year Up United](http://yearup.org)** | **[Software Development Job Training Program](https://jobright.ai/jobs/info/68be726cc4c5904ff6006818?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Sep 07 |
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Options Institute Intern](https://jobright.ai/jobs/info/68be64b6e57feb02eb0ae3a2?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Sep 07 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N96512 Coordinator Advising Retention](https://jobright.ai/jobs/info/68be4928e57feb02eb0ad6c3?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Sep 07 |
 | **[CBRE](https://www.cbre.com)** | **[Options Institute Intern](https://jobright.ai/jobs/info/68be433d3d31ec76b7e88c64?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Sep 07 |
@@ -65,7 +66,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Opportunities - Loss Control Internships - Summer 2026 (Field)](https://jobright.ai/jobs/info/68be23d8e57feb02eb0acaea?utm_campaign=1057&utm_source=git)** | Fairfield, OH | On Site | Sep 07 |
 | ↳ | **[Student Opportunities - IT / Computer Science Internship - Spring 2026 (Remote or Hybrid Eligible)](https://jobright.ai/jobs/info/68be2357e57feb02eb0acac2?utm_campaign=1057&utm_source=git)** | Fairfield, OH | Hybrid | Sep 07 |
 | **[Page closed](http://www.doosanbobcat.com/)** | **[2026 Program Management Student Experience](https://jobright.ai/jobs/info/68be0e7dc4c5904ff6004757?utm_campaign=1057&utm_source=git)** | West Fargo, ND | On Site | Sep 07 |
-| **[SCO Family of Services](https://sco.org/)** | **[COLLEGE INTERN](https://jobright.ai/jobs/info/68bde910e57feb02eb0ac759?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | Hybrid | Sep 07 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2026 Product Training Student Experience](https://jobright.ai/jobs/info/68bdd836c4c5904ff60043ac?utm_campaign=1057&utm_source=git)** | West Fargo, ND | On Site | Sep 07 |
 | ↳ | **[2026 Program Management Student Experience](https://jobright.ai/jobs/info/68bdd76fdf5eec448f63d6b0?utm_campaign=1057&utm_source=git)** | West Fargo, ND | On Site | Sep 07 |
 | **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting (Tenure Track)](https://jobright.ai/jobs/info/68bdd32bdf5eec448f63d608?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Sep 07 |
@@ -148,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[Posillico Civil, Inc.](http://posillicoinc.com)** | **[2026 Summer Internship Program (Office / Non-Engineering - NY)](https://jobright.ai/jobs/info/68bba4dd6105227d118a7d5e?utm_campaign=1057&utm_source=git)** | Farmingdale, NY | On Site | Sep 05 |
 | **[New Directions Mental Health](https://newdirectionspgh.com/)** | **[Mental Health Therapist Intern - Pennsylvania - Fox Chapel](https://jobright.ai/jobs/info/68bcfce4ae79610dacddd051?utm_campaign=1057&utm_source=git)** | Vandergrift, PA | On Site | Sep 05 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Clinical Research Intern](https://jobright.ai/jobs/info/68bba11e6105227d118a7c17?utm_campaign=1057&utm_source=git)** | Wilmington, North Carolina, USA | Remote | Sep 05 |
-| **[Drury University](http://www.drury.edu/)** | **[WORK STUDY GRANT STUDENTS ONLY Financial Aid Student Assistant](https://jobright.ai/jobs/info/68bbc3db8043103d4f22c643?utm_campaign=1057&utm_source=git)** | Springfield, MO | On Site | Sep 05 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Risk Management and Insurance Internship - Summer 2026 (Dallas, TX)](https://jobright.ai/jobs/info/68bb9ef58043103d4f22a147?utm_campaign=1057&utm_source=git)** | Richardson, TX | On Site | Sep 05 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Director of International Student and Scholar Services](https://jobright.ai/jobs/info/68bb9e165f38327491870ad9?utm_campaign=1057&utm_source=git)** | Montclair, NJ | On Site | Sep 05 |
 | **[Year Up United](http://yearup.org)** | **[Project Management Career Training Program](https://jobright.ai/jobs/info/68899d09aab47a17f67035c1?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Sep 05 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Co-Op/Intern - High School Students](https://jobright.ai/jobs/info/68bb93ca8043103d4f229d29?utm_campaign=1057&utm_source=git)** | Kentucky, United States | On Site | Sep 05 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Research Intern](https://jobright.ai/jobs/info/68bb937e5f38327491870648?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Sep 05 |
 | **[AARP](http://www.aarp.org)** | **[Program Analysis Intern](https://jobright.ai/jobs/info/68bb93728043103d4f229cc3?utm_campaign=1057&utm_source=git)** | Washington, DC, United States | Hybrid | Sep 05 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68bb93655f38327491870620?utm_campaign=1057&utm_source=git)** | San Ramon, CA | On Site | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
