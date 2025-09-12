@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Towson) Fall 2025 Nursing Senior Practicum](https://jobright.ai/jobs/info/6853053b586d1b8ea70244cd?utm_campaign=1057&utm_source=git)** | Towson, MD | On Site | Sep 12 |
+| **[RAW APP](https://www.raw.app)** | **[5-day UGC Internship](https://jobright.ai/jobs/info/68c3f1abe396b25cb5c64ab0?utm_campaign=1057&utm_source=git)** | United States | Remote | Sep 12 |
 | **[LEARN Behavioral](https://learnbehavioral.com/)** | **[Intern School Psychologist](https://jobright.ai/jobs/info/68c3ebd914bb275ce019003e?utm_campaign=1057&utm_source=git)** | Chandler, AZ | On Site | Sep 12 |
 | ↳ | **[Intern School Psychologist](https://jobright.ai/jobs/info/68c3ebc914bb275ce0190034?utm_campaign=1057&utm_source=git)** | Surprise, AZ | On Site | Sep 12 |
 | ↳ | **[Intern School Psychologist](https://jobright.ai/jobs/info/68c3ea65e396b25cb5c64854?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Sep 12 |
@@ -77,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Velera](https://www.velera.com)** | **[Velera 2026 Summer Internship](https://jobright.ai/jobs/info/68c3b6866031587f8458de7b?utm_campaign=1057&utm_source=git)** | United States | Remote | Sep 11 |
 | **[Children's Museum Houston](https://www.cmhouston.org/)** | **[MAKER EDUCATION INTERN](https://jobright.ai/jobs/info/68c3a728b8c22d3828474128?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Sep 11 |
 | **[PNC](http://www.pnc.com)** | **[Asset Management Group Undergraduate Intern](https://jobright.ai/jobs/info/68c3c70f80e77b1fa6fccfb2?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Sep 11 |
-| **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Tradings Internships](https://jobright.ai/jobs/info/68c39f4f6031587f8458cc98?utm_campaign=1057&utm_source=git)** | United States | Remote | Sep 11 |
 | **[George E. Booth Co.](https://www.gebooth.com)** | **[Summer Intern for Romeoville, Illinois](https://jobright.ai/jobs/info/68c398646031587f8458c61d?utm_campaign=1057&utm_source=git)** | Romeoville, IL | On Site | Sep 11 |
 | **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[Asst Professor, Instructional Design and Technology, School of Education, CECH-IT](https://jobright.ai/jobs/info/68c392656031587f8458be6f?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Sep 11 |
 | **[EveryMind.](https://www.every-mind.org)** | **[Internship: Family Case Management (Bilingual Required)](https://jobright.ai/jobs/info/68c38f5480e77b1fa6fca4aa?utm_campaign=1057&utm_source=git)** | Silver Spring, MD | On Site | Sep 11 |
@@ -120,10 +121,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68c35b496031587f8458a2b0?utm_campaign=1057&utm_source=git)** | Brooksville, FL | On Site | Sep 11 |
 | **[ImpactLife](https://www.bloodcenter.org/)** | **[Eastern University on Campus Intern](https://jobright.ai/jobs/info/68c35792b8c22d3828471123?utm_campaign=1057&utm_source=git)** | Urbana, IL | On Site | Sep 11 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Pharmacy Tech Apprentice - Fulltime - Ford Rd](https://jobright.ai/jobs/info/68c3a074b8c22d3828473bbc?utm_campaign=1057&utm_source=git)** | Dearborn, MI | On Site | Sep 11 |
-| **[Life Time Inc.](https://www.lifetime.life/)** | **[Intern - Personal Training](https://jobright.ai/jobs/info/68c37d13b8c22d382847226f?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Sep 11 |
-| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/68c37c8e6031587f8458b38c?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Sep 11 |
+| **[Life Time Inc.](https://www.lifetime.life/)** | **[Intern - Personal Training](https://jobright.ai/jobs/info/68c37e9680e77b1fa6fc9abd?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Sep 11 |
+| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/68c37d13b8c22d382847226f?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Sep 11 |
 | ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/68c37cae6031587f8458b3ad?utm_campaign=1057&utm_source=git)** | Florham Park, NJ | On Site | Sep 11 |
-| **[MedMark Treatment Centers](https://medmark.com)** | **[Counselor/Counselor Intern](https://jobright.ai/jobs/info/68c39753b8c22d38284736ea?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Sep 11 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Training Database Administrator & Curricula Developer - Summer 2026](https://jobright.ai/jobs/info/68c34ffd80e77b1fa6fc83b6?utm_campaign=1057&utm_source=git)** | Colorado Springs, CO | On Site | Sep 11 |
 | ↳ | **[Training Database Administrator & Curricula Developer - Summer 2026](https://jobright.ai/jobs/info/68c34ffcb8c22d3828470d58?utm_campaign=1057&utm_source=git)** | Centennial, CO | On Site | Sep 11 |
 | **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Pathways Intern](https://jobright.ai/jobs/info/68c34feb80e77b1fa6fc837c?utm_campaign=1057&utm_source=git)** | Stevens Point, WI | On Site | Sep 11 |
@@ -138,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[Consejo Counseling & Referral Service](https://consejocounseling.org)** | **[Intern Clinical Supervisor - Renton, WA](https://jobright.ai/jobs/info/68c3415463829b0a8a5017e2?utm_campaign=1057&utm_source=git)** | Renton, WA | On Site | Sep 11 |
 | **[Dallas College](https://www.dcccd.edu)** | **[Administrative Support-Student Assistant (Basic Needs Pleasant Grove Workforce Center)-1](https://jobright.ai/jobs/info/68c3411a5adaee6c9bda8ddc?utm_campaign=1057&utm_source=git)** | Eastfield Campus | On Site | Sep 11 |
 | ↳ | **[Administrative Support-Student Assistant (Basic Needs West Center)](https://jobright.ai/jobs/info/68c340e55001f8077bf62beb?utm_campaign=1057&utm_source=git)** | El Centro Campus | On Site | Sep 11 |
+| ↳ | **[Administrative Support-Student Assistant (Basic Needs Irving Center)](https://jobright.ai/jobs/info/68c3408363829b0a8a501564?utm_campaign=1057&utm_source=git)** | North Lake Campus | On Site | Sep 11 |
 | ↳ | **[Administrative Support-Student Assistant (Basic Needs Pleasant Grove Workforce Center)-2](https://jobright.ai/jobs/info/68c340775adaee6c9bda8c12?utm_campaign=1057&utm_source=git)** | Eastfield Campus | On Site | Sep 11 |
-| ↳ | **[Administrative Support-Student Assistant (Basic Needs Irving Center)](https://jobright.ai/jobs/info/68c340685001f8077bf62a8f?utm_campaign=1057&utm_source=git)** | North Lake Campus | On Site | Sep 11 |
 | **[Embry-Riddle Aeronautical University](https://www.erau.edu)** | **[Athletic Facilities and Event Management Intern](https://jobright.ai/jobs/info/68c340455001f8077bf62a22?utm_campaign=1057&utm_source=git)** | Daytona Beach, FL | Hybrid | Sep 11 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist Outpatient Psychological Services (OPS)](https://jobright.ai/jobs/info/68c3400d5001f8077bf62996?utm_campaign=1057&utm_source=git)** | Salem, VA | On Site | Sep 11 |
 | **[Nuvance Health](https://www.nuvancehealth.org)** | **[Adult Workforce Development Healthcare - Intern](https://jobright.ai/jobs/info/68c33ff05001f8077bf6297e?utm_campaign=1057&utm_source=git)** | Danbury, CT | On Site | Sep 11 |
