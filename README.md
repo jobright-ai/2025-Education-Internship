@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Children's Museum Houston](https://www.cmhouston.org/)** | **[MAKER EDUCATION INTERN](https://jobright.ai/jobs/info/68c3a728b8c22d3828474128?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Sep 11 |
+| **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Tradings Internships](https://jobright.ai/jobs/info/68c39f4f6031587f8458cc98?utm_campaign=1057&utm_source=git)** | United States | Remote | Sep 11 |
+| **[George E. Booth Co.](https://www.gebooth.com)** | **[Summer Intern for Romeoville, Illinois](https://jobright.ai/jobs/info/68c398646031587f8458c61d?utm_campaign=1057&utm_source=git)** | Romeoville, IL | On Site | Sep 11 |
 | **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[Asst Professor, Instructional Design and Technology, School of Education, CECH-IT](https://jobright.ai/jobs/info/68c392656031587f8458be6f?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Sep 11 |
 | **[EveryMind.](https://www.every-mind.org)** | **[Internship: Family Case Management (Bilingual Required)](https://jobright.ai/jobs/info/68c38f5480e77b1fa6fca4aa?utm_campaign=1057&utm_source=git)** | Silver Spring, MD | On Site | Sep 11 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N96512 Coordinator Advising Retention](https://jobright.ai/jobs/info/68c38e196031587f8458bc8a?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Sep 11 |
@@ -94,8 +97,9 @@ For a complete list, click the following sortable link below:
 | **[Cemex México](https://www.cemexmexico.com)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68c35b4a80e77b1fa6fc88a7?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Sep 11 |
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68c35b496031587f8458a2b0?utm_campaign=1057&utm_source=git)** | Brooksville, FL | On Site | Sep 11 |
 | **[ImpactLife](https://www.bloodcenter.org/)** | **[Eastern University on Campus Intern](https://jobright.ai/jobs/info/68c35792b8c22d3828471123?utm_campaign=1057&utm_source=git)** | Urbana, IL | On Site | Sep 11 |
-| **[Life Time Inc.](https://www.lifetime.life/)** | **[Intern - Personal Training](https://jobright.ai/jobs/info/68c37d13b8c22d382847226f?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Sep 11 |
-| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/68c37c8e6031587f8458b38c?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Sep 11 |
+| **[Henry Ford Health](http://www.henryford.com/)** | **[Pharmacy Tech Apprentice - Fulltime - Ford Rd](https://jobright.ai/jobs/info/68c3a074b8c22d3828473bbc?utm_campaign=1057&utm_source=git)** | Dearborn, MI | On Site | Sep 11 |
+| **[Life Time Inc.](https://www.lifetime.life/)** | **[Intern - Personal Training](https://jobright.ai/jobs/info/68c37e9680e77b1fa6fc9abd?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Sep 11 |
+| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/68c37d13b8c22d382847226f?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Sep 11 |
 | ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/68c37cae6031587f8458b3ad?utm_campaign=1057&utm_source=git)** | Florham Park, NJ | On Site | Sep 11 |
 | **[MedMark Treatment Centers](https://medmark.com)** | **[Counselor/Counselor Intern](https://jobright.ai/jobs/info/68c39753b8c22d38284736ea?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Sep 11 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Training Database Administrator & Curricula Developer - Summer 2026](https://jobright.ai/jobs/info/68c34ffd80e77b1fa6fc83b6?utm_campaign=1057&utm_source=git)** | Colorado Springs, CO | On Site | Sep 11 |
@@ -145,6 +149,7 @@ For a complete list, click the following sortable link below:
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Wellness Intern, Chartwells Higher Ed / University of Texas - Arlington](https://jobright.ai/jobs/info/68c3204d63829b0a8a5001d8?utm_campaign=1057&utm_source=git)** | Arlington, TX | On Site | Sep 11 |
 | **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting (Tenure Track)](https://jobright.ai/jobs/info/68c31fca5001f8077bf616b7?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Sep 11 |
 | **[North Canyon Network of Care](https://www.northcanyon.org)** | **[Intern Student RN/ PRN](https://jobright.ai/jobs/info/68c31f3c5adaee6c9bda761e?utm_campaign=1057&utm_source=git)** | North Canyon Medical Center | On Site | Sep 11 |
+| **[Towson University](http://www.towson.edu/)** | **[Staff Psychologist](https://jobright.ai/jobs/info/689a371883d13d1f5b696e66?utm_campaign=1057&utm_source=git)** | Towson, MD | Hybrid | Sep 11 |
 | **[Ambrose](https://www.ambrosepg.com)** | **[Summer Intern](https://jobright.ai/jobs/info/68c31e835adaee6c9bda741d?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Sep 11 |
 | **[S.R. Snodgrass, P.C.](http://srsnodgrass.com)** | **[2026 IMPACT Summer Leadership Program - Wheeling, WV](https://jobright.ai/jobs/info/68c31e295001f8077bf6123c?utm_campaign=1057&utm_source=git)** | Wheeling, WV, USA | On Site | Sep 11 |
 | **[University of Illinois Chicago (UIC) School of Public Health](https://publichealth.uic.edu)** | **[Clinical Faculty (Open Rank)/ Clinical Pharmacist, Internal Medicine Team](https://jobright.ai/jobs/info/68c3188963829b0a8a4ff91e?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Sep 11 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ally](http://www.ally.com/)** | **[Summer 2026 Internship – Auto Finance - Business Line Risk](https://jobright.ai/jobs/info/68b8d51907090163b6ba5420?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Sep 11 |
 | ↳ | **[Summer 2026 Internship – Insurance Business and Strategy](https://jobright.ai/jobs/info/68c3111d5adaee6c9bda6bf8?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Sep 11 |
 | **[Lee County Port Authority](http://flylcpa.com)** | **[2026 Internship](https://jobright.ai/jobs/info/68c3610680e77b1fa6fc8bd7?utm_campaign=1057&utm_source=git)** | Fort Myers, FL | On Site | Sep 11 |
-| **[Ally](http://www.ally.com/)** | **[Summer 2026 Internship – Insurance Data & Analytics](https://jobright.ai/jobs/info/68c30fdb63829b0a8a4ff450?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Sep 11 |
-| **[College of Southern Nevada](http://www.csn.edu/)** | **[College Work Study Student - Henderson Financial Aid Office - Fall 2025](https://jobright.ai/jobs/info/68c30d4a5adaee6c9bda6916?utm_campaign=1057&utm_source=git)** | CSN - Henderson Campus | On Site | Sep 11 |
-| **[Toyota Canada Inc.](https://toyota.ca)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/68c30a445adaee6c9bda6683?utm_campaign=1057&utm_source=git)** | Salisbury, North Carolina | On Site | Sep 11 |
-| **[COUNTRY Financial®](https://www.countryfinancial.com)** | **[Agriculture in the Classroom Internship](https://jobright.ai/jobs/info/68c30a3d5001f8077bf60685?utm_campaign=1057&utm_source=git)** | Bloomington, IL | Hybrid | Sep 11 |
-| **[Summit BHC](http://summitbhc.com/)** | **[Counselor Intern Recovery](https://jobright.ai/jobs/info/68c309e863829b0a8a4fef40?utm_campaign=1057&utm_source=git)** | The Aviary Recovery Center | On Site | Sep 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
