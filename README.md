@@ -63,7 +63,6 @@ For a complete list, click the following sortable link below:
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Records and Registration Clerical - Student Employment](https://jobright.ai/jobs/info/68c5efbcc96a22563ecea300?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Sep 13 |
 | **[Children's Research Triangle](https://www.childrensresearchtriangle.org)** | **[Research Internship(Summer 2026)](https://jobright.ai/jobs/info/68c5eb097d0db411427354d0?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Sep 13 |
 | **[Arizona State University](http://www.asu.edu)** | **[Management Intern- Career Readiness](https://jobright.ai/jobs/info/68c5eac3db52c07d28844139?utm_campaign=1057&utm_source=git)** | Tempe, AZ | On Site | Sep 13 |
-| **[iCook Cloud](http://www.icook.cloud)** | **[We’re Hiring! Creative Education & Marketing Intern](https://jobright.ai/jobs/info/68c62a6f7d0db41142735f2a?utm_campaign=1057&utm_source=git)** | United States | Remote | Sep 13 |
 | **[University of La Verne](http://laverne.edu)** | **[Honors Program Student Assistant (23/24) - FWS](https://jobright.ai/jobs/info/68c5e798db52c07d28844116?utm_campaign=1057&utm_source=git)** | La Verne, CA | On Site | Sep 13 |
 | **[AdventHealth Central Florida](http://www.adventhealth.com)** | **[Student Assistant, AHU Denver CO](https://jobright.ai/jobs/info/68c5e36ec96a22563ecea128?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | Sep 13 |
 | **[County of San Diego](http://www.sdcounty.ca.gov)** | **[Student Worker-19090504-Undergraduate, Graduate/Tech and High School](https://jobright.ai/jobs/info/68c596dbc96a22563ece96f9?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Sep 13 |
@@ -77,11 +76,11 @@ For a complete list, click the following sortable link below:
 | **[NYC Campaign Finance Board](http://www.nyccfb.info)** | **[Community Engagement and Education Intern](https://jobright.ai/jobs/info/68b16fb81ade4306aa62fe6d?utm_campaign=1057&utm_source=git)** | Manhattan, NY | On Site | Sep 13 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2026 Summer Business Intern- Raleigh](https://jobright.ai/jobs/info/68c569eedb52c07d288428b4?utm_campaign=1057&utm_source=git)** | Raleigh, NC | Hybrid | Sep 13 |
 | **[CW PSYCHOLOGICAL SERVICES](https://cwpsychologicalservices.com/)** | **[PA Doctoral Level Psychology](https://jobright.ai/jobs/info/68a34c7e403ad4363b1bfecd?utm_campaign=1057&utm_source=git)** | King of Prussia, PA | On Site | Sep 13 |
+| **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Student Analyst Opportunity: 1700+ Hours Completed Required – Join Our Team!](https://jobright.ai/jobs/info/678cc4eccd1a68208b130201?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Sep 13 |
 | **[FLACRA](https://www.flacra.org/)** | **[Internship Program](https://jobright.ai/jobs/info/68c565797d0db41142733ca7?utm_campaign=1057&utm_source=git)** | Ontario, NY | On Site | Sep 13 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2026 Strategy & Analytics, Credit & Fraud Risk - New York, NY](https://jobright.ai/jobs/info/68a8cbf3758f2e4ac3ff5700?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Sep 13 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - Philadelphia (48518)](https://jobright.ai/jobs/info/68a8c65f6acf96396f722aa7?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Sep 13 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[RBT - 1700+ Hours Completed - Relocation Assistance!](https://jobright.ai/jobs/info/678cc29d24f4f85c6040bdfd?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Sep 13 |
-| **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/68c555687d0db411427339ed?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | On Site | Sep 13 |
 | **[Rush University Medical Center](https://www.rush.edu/)** | **[Physician - General Internal Medicine - Chicago Suburbs (Oak Park)-18884](https://jobright.ai/jobs/info/6870980a01cc0956e7e8355c?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Sep 13 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (BWC) Fall 2025 Nursing Senior Practicum](https://jobright.ai/jobs/info/6853053b586d1b8ea70244fd?utm_campaign=1057&utm_source=git)** | Elkridge, MD | On Site | Sep 13 |
 | **[Mutual Trust Life Solutions](https://www.mutualtrust.com)** | **[Summer Internship Opportunity](https://jobright.ai/jobs/info/68c54a97db52c07d28842275?utm_campaign=1057&utm_source=git)** | New Orleans, LA | On Site | Sep 13 |
@@ -90,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Rosendin](https://www.rosendin.com)** | **[Intern - Summer 2026](https://jobright.ai/jobs/info/68c540a4c96a22563ece817c?utm_campaign=1057&utm_source=git)** | McKinney, TX | On Site | Sep 13 |
 | **[Holyoke Public Schools](https://www.hps.holyoke.ma.us/)** | **[WIOA Student Intern - SY25-26](https://jobright.ai/jobs/info/68c53fe27d0db4114273331d?utm_campaign=1057&utm_source=git)** | Holyoke, MA | On Site | Sep 13 |
 | **[St. Mary's County Public Schools](https://schools.smcps.org)** | **[School Psychologist Intern](https://jobright.ai/jobs/info/68c53a81c96a22563ece7ee6?utm_campaign=1057&utm_source=git)** | Leonardtown, MD | On Site | Sep 13 |
-| **[Bradford Health Services](http://www.bradfordhealth.com/)** | **[Intern](https://jobright.ai/jobs/info/68c57a01db52c07d28842f95?utm_campaign=1057&utm_source=git)** | Lucedale, MS | On Site | Sep 13 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[VP for Student Success - SPC - req13058](https://jobright.ai/jobs/info/68c5307fdb52c07d28841a96?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Sep 13 |
 | **[BayMark Health Services](http://baymark.com/)** | **[Counselor/Counselor Intern](https://jobright.ai/jobs/info/68c6210fc96a22563ecea83b?utm_campaign=1057&utm_source=git)** | Hammond, LA | On Site | Sep 12 |
 | ↳ | **[Counselor/Counselor Intern](https://jobright.ai/jobs/info/68c535197d0db411427330c3?utm_campaign=1057&utm_source=git)** | Hammond, Louisiana | On Site | Sep 12 |
@@ -132,24 +130,24 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/68c4abd531e5763f188e275d?utm_campaign=1057&utm_source=git)** | Syosset, NY | On Site | Sep 12 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - School Psychologist & Interns](https://jobright.ai/jobs/info/68c594857d0db41142734907?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Sep 12 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[High School Service Intern](https://jobright.ai/jobs/info/6851d448be3736a6ba53a669?utm_campaign=1057&utm_source=git)** | Pflugerville, TX | On Site | Sep 12 |
-| **[Life Time Inc.](https://www.lifetime.life/)** | **[Intern - Personal Training](https://jobright.ai/jobs/info/68c4e0f9db52c07d2883d1c7?utm_campaign=1057&utm_source=git)** | Norcross, GA | On Site | Sep 12 |
-| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/68c4e0f57d0db4114272e5fe?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Sep 12 |
-| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68c4e159c96a22563ece3476?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Sep 12 |
+| **[Life Time Inc.](https://www.lifetime.life/)** | **[Intern - Personal Training](https://jobright.ai/jobs/info/68c4e19dc96a22563ece3531?utm_campaign=1057&utm_source=git)** | Fort Washington, PA | On Site | Sep 12 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68c4e14bc96a22563ece3464?utm_campaign=1057&utm_source=git)** | St Paul, MN | On Site | Sep 12 |
-| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/68c4e19dc96a22563ece3531?utm_campaign=1057&utm_source=git)** | Fort Washington, PA | On Site | Sep 12 |
-| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/68c4e2b9db52c07d2883d678?utm_campaign=1057&utm_source=git)** | Johns Creek, GA | On Site | Sep 12 |
+| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68c4e159c96a22563ece3476?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Sep 12 |
+| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/68c4e0f57d0db4114272e5fe?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Sep 12 |
 | ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/68c4e183c96a22563ece34f4?utm_campaign=1057&utm_source=git)** | Gainesville, VA | On Site | Sep 12 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68c4e255db52c07d2883d581?utm_campaign=1057&utm_source=git)** | Palm Beach Gardens, FL | On Site | Sep 12 |
-| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68c4e24bc96a22563ece36ec?utm_campaign=1057&utm_source=git)** | Rochester Hills, MI | On Site | Sep 12 |
-| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68c4e11adb52c07d2883d227?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Sep 12 |
-| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68c4e2f7c96a22563ece38e3?utm_campaign=1057&utm_source=git)** | Eden Prairie, MN | On Site | Sep 12 |
-| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68c4e30fc96a22563ece391a?utm_campaign=1057&utm_source=git)** | Henderson, NV | On Site | Sep 12 |
-| ↳ | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/68c4e093db52c07d2883d0a7?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | Sep 12 |
-| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68c4e28edb52c07d2883d617?utm_campaign=1057&utm_source=git)** | Maple Grove, MN | On Site | Sep 12 |
+| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/68c4e2b9db52c07d2883d678?utm_campaign=1057&utm_source=git)** | Johns Creek, GA | On Site | Sep 12 |
+| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/68c4e0f9db52c07d2883d1c7?utm_campaign=1057&utm_source=git)** | Norcross, GA | On Site | Sep 12 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68c4e147db52c07d2883d29f?utm_campaign=1057&utm_source=git)** | Laguna Niguel, CA | On Site | Sep 12 |
+| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68c4e28edb52c07d2883d617?utm_campaign=1057&utm_source=git)** | Maple Grove, MN | On Site | Sep 12 |
+| ↳ | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/68c4e093db52c07d2883d0a7?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | Sep 12 |
+| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68c4e30fc96a22563ece391a?utm_campaign=1057&utm_source=git)** | Henderson, NV | On Site | Sep 12 |
+| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68c4e24bc96a22563ece36ec?utm_campaign=1057&utm_source=git)** | Rochester Hills, MI | On Site | Sep 12 |
+| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68c4e2f7c96a22563ece38e3?utm_campaign=1057&utm_source=git)** | Eden Prairie, MN | On Site | Sep 12 |
 | ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/68c4e24edb52c07d2883d56e?utm_campaign=1057&utm_source=git)** | Sterling, VA | On Site | Sep 12 |
-| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68c4e0487d0db4114272e43b?utm_campaign=1057&utm_source=git)** | Lenexa, KS | On Site | Sep 12 |
+| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68c4e11adb52c07d2883d227?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Sep 12 |
 | ↳ | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/68c4e1a47d0db4114272e7de?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Sep 12 |
+| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68c4e0487d0db4114272e43b?utm_campaign=1057&utm_source=git)** | Lenexa, KS | On Site | Sep 12 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68c4e075c96a22563ece3260?utm_campaign=1057&utm_source=git)** | San Clemente, CA | On Site | Sep 12 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68c4e261db52c07d2883d5a5?utm_campaign=1057&utm_source=git)** | Fridley, MN | On Site | Sep 12 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68c4e278c96a22563ece3758?utm_campaign=1057&utm_source=git)** | Troy, MI | On Site | Sep 12 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68c4e25bc96a22563ece3710?utm_campaign=1057&utm_source=git)** | Tulsa, OK | On Site | Sep 12 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68c4e1f27d0db4114272e8bb?utm_campaign=1057&utm_source=git)** | Warrenville, IL | On Site | Sep 12 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68c4e067c96a22563ece3229?utm_campaign=1057&utm_source=git)** | Shelby Township, MI | On Site | Sep 12 |
+| ↳ | **[Intern-Personal Training](https://jobright.ai/jobs/info/68c4e2c67d0db4114272eadb?utm_campaign=1057&utm_source=git)** | White Bear Lake, MN | On Site | Sep 12 |
+| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68c4e235db52c07d2883d51c?utm_campaign=1057&utm_source=git)** | St Louis Park, MN | On Site | Sep 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
