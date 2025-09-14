@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Saint Xavier University](http://www.sxu.edu/)** | **[Records and Registration Clerical - Student Employment](https://jobright.ai/jobs/info/68c737fedb52c07d2884a64e?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Sep 14 |
 | **[Fargo Public Schools](https://www.fargo.k12.nd.us/)** | **[2025-2026 - School Year Social Work Internship](https://jobright.ai/jobs/info/68c71ddec96a22563ecf06f7?utm_campaign=1057&utm_source=git)** | Fargo, ND | On Site | Sep 14 |
 | ↳ | **[2025-2026 - School Year Guidance Counseling Practicum/Internship](https://jobright.ai/jobs/info/68c71dc4c96a22563ecf06f4?utm_campaign=1057&utm_source=git)** | Fargo, ND | On Site | Sep 14 |
 | **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/68c71587db52c07d2884a36c?utm_campaign=1057&utm_source=git)** | Racine, WI | Remote | Sep 14 |
@@ -72,13 +73,14 @@ For a complete list, click the following sortable link below:
 | **[UltraSoC](https://www.tessentembeddedanalytics.com)** | **[Strategic Student Program: Sustainability Center of Competence Intern (SUS, Spring 2026)](https://jobright.ai/jobs/info/68c69176db52c07d28849642?utm_campaign=1057&utm_source=git)** | Maryland Heights, MO | Remote | Sep 14 |
 | **[Tacoma Community College](http://www.tacomacc.edu/)** | **[Student Programming, Government and Ambassadors](https://jobright.ai/jobs/info/68c6913b7d0db4114273acef?utm_campaign=1057&utm_source=git)** | Tacoma, WA | On Site | Sep 14 |
 | **[Loudoun County Government](https://www.loudoun.gov/)** | **[Clinical Intern (Unpaid)](https://jobright.ai/jobs/info/68c6892bdb52c07d28849551?utm_campaign=1057&utm_source=git)** | Leesburg, VA | On Site | Sep 14 |
-| **[State of North Carolina](http://www.nc.gov)** | **[High School Intern Program](https://jobright.ai/jobs/info/68c63dbedb52c07d28845cf4?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Sep 13 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[Commercial Intern - Houston, TX](https://jobright.ai/jobs/info/68c61065db52c07d28844536?utm_campaign=1057&utm_source=git)** | Houston, Texas | On Site | Sep 13 |
 | **[Akron Public Schools](http://www.akronschools.com/)** | **[Student Worker-Custodial Services](https://jobright.ai/jobs/info/68c5f39ddb52c07d2884425f?utm_campaign=1057&utm_source=git)** | Akron, OH | On Site | Sep 13 |
 | **[Children's Research Triangle](https://www.childrensresearchtriangle.org)** | **[Research Internship(Summer 2026)](https://jobright.ai/jobs/info/68c5eb097d0db411427354d0?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Sep 13 |
 | **[Arizona State University](http://www.asu.edu)** | **[Management Intern- Career Readiness](https://jobright.ai/jobs/info/68c5eac3db52c07d28844139?utm_campaign=1057&utm_source=git)** | Tempe, AZ | On Site | Sep 13 |
 | **[University of La Verne](http://laverne.edu)** | **[Honors Program Student Assistant (23/24) - FWS](https://jobright.ai/jobs/info/68c5e798db52c07d28844116?utm_campaign=1057&utm_source=git)** | La Verne, CA | On Site | Sep 13 |
 | **[AdventHealth Central Florida](http://www.adventhealth.com)** | **[Student Assistant, AHU Denver CO](https://jobright.ai/jobs/info/68c5e36ec96a22563ecea128?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | Sep 13 |
+| **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2026 Product Innovation, Credit & Fraud Risk - Phoenix, AZ](https://jobright.ai/jobs/info/68a8ca13758f2e4ac3ff5563?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | Hybrid | Sep 13 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern (SNI)- Resource](https://jobright.ai/jobs/info/68972bdf8c6d6b4426786327?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Sep 13 |
 | **[County of San Diego](http://www.sdcounty.ca.gov)** | **[Student Worker-19090504-Undergraduate, Graduate/Tech and High School](https://jobright.ai/jobs/info/68c596dbc96a22563ece96f9?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Sep 13 |
 | **[Year Up United](http://yearup.org)** | **[Project Management Job Training Program](https://jobright.ai/jobs/info/68c594be7d0db41142734928?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Sep 13 |
 | ↳ | **[IT Job Training Program](https://jobright.ai/jobs/info/68c6c0af7d0db4114273b1b5?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Sep 13 |
@@ -148,13 +150,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/68c4abd531e5763f188e275d?utm_campaign=1057&utm_source=git)** | Syosset, NY | On Site | Sep 12 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - School Psychologist & Interns](https://jobright.ai/jobs/info/68c594857d0db41142734907?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Sep 12 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[High School Service Intern](https://jobright.ai/jobs/info/6851d448be3736a6ba53a669?utm_campaign=1057&utm_source=git)** | Pflugerville, TX | On Site | Sep 12 |
-| **[Life Time Inc.](https://www.lifetime.life/)** | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68c4e255db52c07d2883d581?utm_campaign=1057&utm_source=git)** | Palm Beach Gardens, FL | On Site | Sep 12 |
-| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68c4e14bc96a22563ece3464?utm_campaign=1057&utm_source=git)** | St Paul, MN | On Site | Sep 12 |
-| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/68c4e2b9db52c07d2883d678?utm_campaign=1057&utm_source=git)** | Johns Creek, GA | On Site | Sep 12 |
+| **[Life Time Inc.](https://www.lifetime.life/)** | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/68c4e0afdb52c07d2883d0f1?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Sep 12 |
 | ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/68c4e0f9db52c07d2883d1c7?utm_campaign=1057&utm_source=git)** | Norcross, GA | On Site | Sep 12 |
-| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/68c4e183c96a22563ece34f4?utm_campaign=1057&utm_source=git)** | Gainesville, VA | On Site | Sep 12 |
-| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68c4e159c96a22563ece3476?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Sep 12 |
 | ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/68c4e0f57d0db4114272e5fe?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Sep 12 |
+| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68c4e255db52c07d2883d581?utm_campaign=1057&utm_source=git)** | Palm Beach Gardens, FL | On Site | Sep 12 |
+| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/68c4e2b9db52c07d2883d678?utm_campaign=1057&utm_source=git)** | Johns Creek, GA | On Site | Sep 12 |
 | ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/68c4e19dc96a22563ece3531?utm_campaign=1057&utm_source=git)** | Fort Washington, PA | On Site | Sep 12 |
-| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/68c4e24edb52c07d2883d56e?utm_campaign=1057&utm_source=git)** | Sterling, VA | On Site | Sep 12 |
+| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68c4e14bc96a22563ece3464?utm_campaign=1057&utm_source=git)** | St Paul, MN | On Site | Sep 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
