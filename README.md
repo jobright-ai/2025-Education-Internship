@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Slope Borough](http://www.north-slope.org)** | **[Student Intern - WAINWRIGHT](https://jobright.ai/jobs/info/68c7651fc96a22563ecf0c22?utm_campaign=1057&utm_source=git)** | Utqiagvik, AK | On Site | Sep 14 |
+| ↳ | **[Student Intern - NUIQSUT](https://jobright.ai/jobs/info/68c765177d0db4114273bfa4?utm_campaign=1057&utm_source=git)** | Utqiagvik, AK | On Site | Sep 14 |
 | **[Arthrex](https://www.arthrex.com/)** | **[Medical Education Representative Training Operations Intern](https://jobright.ai/jobs/info/68c74a177d0db4114273bdc7?utm_campaign=1057&utm_source=git)** | Naples, FL | On Site | Sep 14 |
 | **[AdventHealth Central Florida](http://www.adventhealth.com)** | **[Pharmacy Intern Pediatrics](https://jobright.ai/jobs/info/68c73bf1db52c07d2884a692?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Sep 14 |
 | **[ALIVIANE](https://www.aliviane.org)** | **[Counselor Intern/LCDC](https://jobright.ai/jobs/info/68c738e37d0db4114273bcbf?utm_campaign=1057&utm_source=git)** | El Paso, TX | On Site | Sep 14 |
 | **[Albuquerque Public Schools](https://www.aps.edu/)** | **[Digital Learning Assistant (DLA)](https://jobright.ai/jobs/info/68c73881db52c07d2884a67f?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | On Site | Sep 14 |
-| **[Saint Xavier University](http://www.sxu.edu/)** | **[Records and Registration Clerical - Student Employment](https://jobright.ai/jobs/info/68c737fedb52c07d2884a64e?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Sep 14 |
+| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/68c75a9bc96a22563ecf0b60?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Sep 14 |
 | **[Fargo Public Schools](https://www.fargo.k12.nd.us/)** | **[2025-2026 - School Year Social Work Internship](https://jobright.ai/jobs/info/68c71ddec96a22563ecf06f7?utm_campaign=1057&utm_source=git)** | Fargo, ND | On Site | Sep 14 |
-| ↳ | **[2025-2026 - School Year Guidance Counseling Practicum/Internship](https://jobright.ai/jobs/info/68c71dc4c96a22563ecf06f4?utm_campaign=1057&utm_source=git)** | Fargo, ND | On Site | Sep 14 |
 | **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/68c71587db52c07d2884a36c?utm_campaign=1057&utm_source=git)** | Racine, WI | Remote | Sep 14 |
 | **[North Slope Borough](http://www.north-slope.org)** | **[Student Intern - ANAKTUVUK PASS](https://jobright.ai/jobs/info/68c71074c96a22563ecf05d7?utm_campaign=1057&utm_source=git)** | Utqiagvik, AK | On Site | Sep 14 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Dean - Lloyd International Honors College](https://jobright.ai/jobs/info/68c7000cdb52c07d2884a054?utm_campaign=1057&utm_source=git)** | Greensboro, NC | On Site | Sep 14 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - School Psychologist & Interns](https://jobright.ai/jobs/info/68c594857d0db41142734907?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Sep 12 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[High School Service Intern](https://jobright.ai/jobs/info/6851d448be3736a6ba53a669?utm_campaign=1057&utm_source=git)** | Pflugerville, TX | On Site | Sep 12 |
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Dynamic Personal Training Internship](https://jobright.ai/jobs/info/68c4e0afdb52c07d2883d0f1?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Sep 12 |
-| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/68c4e0f9db52c07d2883d1c7?utm_campaign=1057&utm_source=git)** | Norcross, GA | On Site | Sep 12 |
-| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/68c4e2b9db52c07d2883d678?utm_campaign=1057&utm_source=git)** | Johns Creek, GA | On Site | Sep 12 |
+| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/68c4e183c96a22563ece34f4?utm_campaign=1057&utm_source=git)** | Gainesville, VA | On Site | Sep 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
