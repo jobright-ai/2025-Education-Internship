@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cherry Creek School District](https://www.cherrycreekschools.org/)** | **[Counselor Intern - Spring 2026](https://jobright.ai/jobs/info/68c7e0d795f5211cd2cdf96b?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | Sep 15 |
+| **[City of Ankeny](https://www.ankenyiowa.gov/)** | **[Winter-Spring Parks & Recreation Internship](https://jobright.ai/jobs/info/68c7dff6983e6768bc547bca?utm_campaign=1057&utm_source=git)** | Ankeny, IA | On Site | Sep 15 |
+| **[Inter-American Development Bank](http://www.iadb.org/en)** | **[2026 Winter Undergraduate Internship Opportunities](https://jobright.ai/jobs/info/68c7d842f42a830e1c7e8568?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Sep 15 |
+| **[Basin Electric Power Cooperative](https://www.basinelectric.com/)** | **[STUDENT INTERN - IT OCM](https://jobright.ai/jobs/info/68c7d763369c3763c743c5b3?utm_campaign=1057&utm_source=git)** | Bismarck, ND | On Site | Sep 15 |
 | **[Cherry Creek School District](https://www.cherrycreekschools.org/)** | **[Counselor Intern - Spring 2026](https://jobright.ai/jobs/info/68c7bd66f42a830e1c7e7299?utm_campaign=1057&utm_source=git)** | 4700 S.YOSEMITE ST, Greenwood Village, CO, 80111, US | On Site | Sep 15 |
 | **[Cambridge Mobile Telematics](http://cmtelematics.com)** | **[Internships at CMT](https://jobright.ai/jobs/info/68c7bbc4f42a830e1c7e7062?utm_campaign=1057&utm_source=git)** | Cambridge, MA | On Site | Sep 15 |
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Intern - Personal Training](https://jobright.ai/jobs/info/68c7ac3edb52c07d2884e0ae?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Sep 14 |
@@ -125,6 +129,7 @@ For a complete list, click the following sortable link below:
 | **[St. Mary's County Public Schools](https://schools.smcps.org)** | **[School Psychologist Intern](https://jobright.ai/jobs/info/68c53a81c96a22563ece7ee6?utm_campaign=1057&utm_source=git)** | Leonardtown, MD | On Site | Sep 13 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[VP for Student Success - SPC - req13058](https://jobright.ai/jobs/info/68c5307fdb52c07d28841a96?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Sep 13 |
 | **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Clinical Dietitian / Intern Program](https://jobright.ai/jobs/info/687085da01cc0956e7e828ff?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Sep 13 |
+| **[Allegion](https://www.allegion.com)** | **[Specification Writing Apprenticeship Program – Architectural Services](https://jobright.ai/jobs/info/68c2039433864f172f9bc4d8?utm_campaign=1057&utm_source=git)** | Golden Valley, MN | On Site | Sep 13 |
 | **[BayMark Health Services](http://baymark.com/)** | **[Counselor/Counselor Intern](https://jobright.ai/jobs/info/68c6210fc96a22563ecea83b?utm_campaign=1057&utm_source=git)** | Hammond, LA | On Site | Sep 12 |
 | **[Jefferson Health](https://www.jeffersonhealth.org/index.html)** | **[Graduate Assistant (International).](https://jobright.ai/jobs/info/68c7bf7f5c38e536d41a6211?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Sep 12 |
 | **[BayMark Health Services](http://baymark.com/)** | **[Counselor/Counselor Intern](https://jobright.ai/jobs/info/68c535197d0db411427330c3?utm_campaign=1057&utm_source=git)** | Hammond, Louisiana | On Site | Sep 12 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Assistant Director of International Orientation and Student Engagement](https://jobright.ai/jobs/info/68c4d1857279451d6a037e7d?utm_campaign=1057&utm_source=git)** | Stockton, CA | On Site | Sep 12 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Technical Undergraduate Summer - NCAT Fall 2025 Career Week, Onsite](https://jobright.ai/jobs/info/68c54b577d0db411427337e4?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | Hybrid | Sep 12 |
 | **[Hartford HealthCare](https://hartfordhealthcare.org)** | **[Internship - Respiratory Care - Respiratory Students](https://jobright.ai/jobs/info/68c4cd9bfce86561b9289801?utm_campaign=1057&utm_source=git)** | Hartford, CT | On Site | Sep 12 |
-| **[The City University of New York](http://www.cuny.edu)** | **[Academic Student Support Program/ Project Director (HEO) - Impact Justice Program, Division of the Provost](https://jobright.ai/jobs/info/68c4cd39fce86561b928979d?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Sep 12 |
-| **[Winkelmann Drug](http://www.winkelmanndrug.com/)** | **[Fellowship](https://jobright.ai/jobs/info/68c58c897d0db41142734744?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Sep 12 |
-| **[AdventHealth](https://www.adventhealth.com/)** | **[Pharmacy Intern Pediatrics](https://jobright.ai/jobs/info/68c4cc6e7279451d6a037c3a?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Sep 12 |
-| **[Corebridge Financial](https://www.corebridgefinancial.com)** | **[2026 Corebridge Summer Internship Program - Capital Markets](https://jobright.ai/jobs/info/68c4c3b931e5763f188e368f?utm_campaign=1057&utm_source=git)** | Jersey City, NJ | On Site | Sep 12 |
-| **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Early Education Intern](https://jobright.ai/jobs/info/68c4c3367279451d6a0377fe?utm_campaign=1057&utm_source=git)** | Prior Lake, MN | On Site | Sep 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
