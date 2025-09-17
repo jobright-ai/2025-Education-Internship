@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/68ca74da06a34016008c8cc7?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Sep 17 |
+| **[Tennessee Board of Regents (TBR)](https://www.tbr.edu/)** | **[College Work Study Program (Technologies Department Assistant)](https://jobright.ai/jobs/info/68ca73ed06a34016008c8c4d?utm_campaign=1057&utm_source=git)** | Memphis, TN | On Site | Sep 17 |
+| **[AECOM](http://www.aecom.com/)** | **[Civil Muncipal Intern](https://jobright.ai/jobs/info/68ca6b2146caff4db51ff357?utm_campaign=1057&utm_source=git)** | Grand Rapids, MI | On Site | Sep 17 |
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Intern- Personal Trainer](https://jobright.ai/jobs/info/68ca5bd55f9f0336447dc819?utm_campaign=1057&utm_source=git)** | Sandy Springs, GA | On Site | Sep 16 |
+| **[American Addiction Centers](https://americanaddictioncenters.org/)** | **[Registered Intern Substance Use Counselor - Per Diem](https://jobright.ai/jobs/info/68ca7c585f9f0336447de0eb?utm_campaign=1057&utm_source=git)** | Riverview, FL | On Site | Sep 16 |
 | **[Youth Villages](http://www.youthvillages.org)** | **[Spring 2026 - Bachelors Level Paid Internship](https://jobright.ai/jobs/info/68ca4cdf46caff4db51fcf93?utm_campaign=1057&utm_source=git)** | Louisville, KY | On Site | Sep 16 |
 | ↳ | **[Spring 2026 - Bachelors Level Paid Internship](https://jobright.ai/jobs/info/68ca4c4a5f9f0336447db613?utm_campaign=1057&utm_source=git)** | Bloomington, IN | On Site | Sep 16 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Nuclear Training Technical Intern - Monticello, MN](https://jobright.ai/jobs/info/68ca3f01f16e3266d2825996?utm_campaign=1057&utm_source=git)** | Monticello, MN | On Site | Sep 16 |
@@ -85,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[The Sports Facilities Companies](https://sportsfacilities.com)** | **[Sports Management Internship - Publix Sports Park (Event Operations)](https://jobright.ai/jobs/info/68ca595e46caff4db51fdd26?utm_campaign=1057&utm_source=git)** | P C BEACH,FL,US | On Site | Sep 16 |
 | **[State Street](http://www.statestreet.com)** | **[Questrom Undergraduate and Specialty Master's Career Fair (UG & Specialty Masters) - Fall 2025](https://jobright.ai/jobs/info/68c9f9baf61c922772a719c8?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Sep 16 |
 | ↳ | **[Framingham State Fall 2025 Campus Wide Job and Internship Fair](https://jobright.ai/jobs/info/68c9f992f16e3266d28217fb?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Sep 16 |
-| **[OhioHealth](https://www.ohiohealth.com/)** | **[Unpaid Intern Working on College Credit](https://jobright.ai/jobs/info/68c9f986f16e3266d28217e5?utm_campaign=1057&utm_source=git)** | Mansfield, OH | On Site | Sep 16 |
 | **[Deposco](https://deposco.com)** | **[Summer Internship Program 2026](https://jobright.ai/jobs/info/68c9f933f61c922772a718aa?utm_campaign=1057&utm_source=git)** | Alpharetta, GA | On Site | Sep 16 |
 | **[Fernbrook Family Center](https://fernbrook.org/)** | **[Bachelors Level Internship](https://jobright.ai/jobs/info/68c9f886f16e3266d282164a?utm_campaign=1057&utm_source=git)** | Waseca, MN | On Site | Sep 16 |
 | **[University of Michigan](https://www.umich.edu)** | **[Dearborn Support Program Assistant](https://jobright.ai/jobs/info/68c9f865f61c922772a7170a?utm_campaign=1057&utm_source=git)** | Dearborn, MI | On Site | Sep 16 |
@@ -93,6 +96,7 @@ For a complete list, click the following sortable link below:
 | **[UltraSoC](https://www.tessentembeddedanalytics.com)** | **[Strategic Student Program: Digital Events and Engagement Intern (ST&MK, Spring 2026)](https://jobright.ai/jobs/info/68c9ef0c07f8525eae041752?utm_campaign=1057&utm_source=git)** | Maryland Heights, MO | On Site | Sep 16 |
 | **[Cintas](https://www.cintas.com)** | **[Intern - Part-Time](https://jobright.ai/jobs/info/68c9eef9d10eb800af1482a1?utm_campaign=1057&utm_source=git)** | Santa Fe Springs, CA | On Site | Sep 16 |
 | **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/68c9eeb616b6964bf344b79f?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | On Site | Sep 16 |
+| **[Fernbrook Family Center](https://fernbrook.org/)** | **[Bachelors Level Internship](https://jobright.ai/jobs/info/68ca75515f9f0336447ddec2?utm_campaign=1057&utm_source=git)** | Mankato, MN | On Site | Sep 16 |
 | **[Brevard Public Schools](http://www.brevardschools.org)** | **[INTERN COORDINATOR-BAS](https://jobright.ai/jobs/info/68c9e7ba95f5211cd2cf5b76?utm_campaign=1057&utm_source=git)** | Palm Bay, FL | On Site | Sep 16 |
 | **[Rockford Park District](https://rockfordparkdistrict.org)** | **[College Internships 2026](https://jobright.ai/jobs/info/68c9e6a084fc1901fd41a75a?utm_campaign=1057&utm_source=git)** | Grand Rapids, MI | On Site | Sep 16 |
 | **[University of Puget Sound](http://pugetsound.edu)** | **[Assistant Professor - Accounting and Information Systems](https://jobright.ai/jobs/info/68c9e693f9c6ff7aedf1f09b?utm_campaign=1057&utm_source=git)** | Tacoma, WA | On Site | Sep 16 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Volkert, Inc.](https://volkert.com/)** | **[College Intern](https://jobright.ai/jobs/info/68c9a1c4a0c52d598ea3945d?utm_campaign=1057&utm_source=git)** | Camp Hill, PA | On Site | Sep 16 |
 | **[ECHO](http://www.echonet.org)** | **[ECHO INC. Intern – April 2026 (Nationwide)](https://jobright.ai/jobs/info/68c9a143f9c6ff7aedf1bb73?utm_campaign=1057&utm_source=git)** | North Fort Myers, FL | On Site | Sep 16 |
 | **[COUNTRY Financial®](https://www.countryfinancial.com)** | **[Food Systems Development Internship](https://jobright.ai/jobs/info/68c9a0fbf9c6ff7aedf1ba53?utm_campaign=1057&utm_source=git)** | Bloomington, IL | Hybrid | Sep 16 |
-| **[Nutritious Lifestyles, LLC.](http://nutritiouslifestyles.com/)** | **[Dietetic Technician, Registered - RD Pathway Program with Free Internship & Exam Support](https://jobright.ai/jobs/info/68c9a006a0c52d598ea39143?utm_campaign=1057&utm_source=git)** | Port St Lucie, FL | On Site | Sep 16 |
-| **[University of Michigan](https://www.umich.edu)** | **[Student Admin Assistant Inter](https://jobright.ai/jobs/info/68c99e9195f5211cd2cf2108?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | Hybrid | Sep 16 |
-| **[Lorain County Community College](http://www.lorainccc.edu/)** | **[Intern Tutoring Center TLS PT 10334](https://jobright.ai/jobs/info/68c998d595f5211cd2cf1eaf?utm_campaign=1057&utm_source=git)** | Elyria, OH | On Site | Sep 16 |
-| **[CHEManager International](https://www.chemanager-online.com/en)** | **[Assistant Professor of Psychological Science: Clinical Psychologist](https://jobright.ai/jobs/info/68c9d906f9c6ff7aedf1e873?utm_campaign=1057&utm_source=git)** | Burlington, VT | On Site | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
