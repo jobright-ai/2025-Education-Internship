@@ -84,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Restaurant Brands International](http://rbi.com/en)** | **[Undergraduate Summer Internship Program  - Jacksonville](https://jobright.ai/jobs/info/68cb5bd0ba798c1a501ceca6?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Sep 17 |
 | ↳ | **[Undergraduate Summer Internship Program - Miami](https://jobright.ai/jobs/info/68cb5aa9ba798c1a501ceaae?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Sep 17 |
 | **[Office of Technology and Solutions Integration](https://www.osi.ca.gov)** | **[Student Assistant](https://jobright.ai/jobs/info/68cb5a94efdec76df36bba50?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Sep 17 |
-| **[Imperative Care](http://www.imperativecare.com)** | **[SJSU Career Fair for 2026 Internship Opportunities](https://jobright.ai/jobs/info/68cb58e1efdec76df36bb6dc?utm_campaign=1057&utm_source=git)** | Campbell, CA | On Site | Sep 17 |
 | **[St. Mark's Episcopal School](http://www.stmes.org)** | **[Student Teaching Intern](https://jobright.ai/jobs/info/68cb57f4ba798c1a501ce7a3?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Sep 17 |
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68cb5716ba798c1a501ce6bf?utm_campaign=1057&utm_source=git)** | Newton, MA | On Site | Sep 17 |
 | **[Utah State University](http://www.usu.edu)** | **[Professional Practice Assistant Professor - School Counseling](https://jobright.ai/jobs/info/68cb4ea5efdec76df36bb1aa?utm_campaign=1057&utm_source=git)** | Logan, UT | On Site | Sep 17 |
@@ -103,27 +102,26 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Administrative Support - Student Assistant (Instructional Support - Accessibility Service)-3](https://jobright.ai/jobs/info/68cb26f0efdec76df36b980f?utm_campaign=1057&utm_source=git)** | Richland Campus | On Site | Sep 17 |
 | ↳ | **[Administrative Support - Student Assistant (Instructional Support - Accessibility Service)-2](https://jobright.ai/jobs/info/68cb26d5ba798c1a501cc4b5?utm_campaign=1057&utm_source=git)** | Richland Campus | On Site | Sep 17 |
 | ↳ | **[Administrative Support - Student Assistant (Instructional Support - Accessibility Service)-1](https://jobright.ai/jobs/info/68cb26c6efdec76df36b97bc?utm_campaign=1057&utm_source=git)** | Richland Campus | On Site | Sep 17 |
-| **[Adolfson & Peterson Construction](http://www.a-p.com)** | **[Internship](https://jobright.ai/jobs/info/68cbc4029e3a822f5d24b943?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Sep 17 |
 | **[Young Life](https://sworlando.younglife.org)** | **[2026 Summer Camp Intern](https://jobright.ai/jobs/info/68cb1e89ba798c1a501cbfe4?utm_campaign=1057&utm_source=git)** | US Colorado Springs Colorado: 540 N Cascade Ave | On Site | Sep 17 |
 | ↳ | **[2026 Summer Camp Intern](https://jobright.ai/jobs/info/68cb1e7eefdec76df36b91ff?utm_campaign=1057&utm_source=git)** | Buena Vista, CO | On Site | Sep 17 |
 | ↳ | **[2026 Summer Camp Intern](https://jobright.ai/jobs/info/68cb1e75efdec76df36b91f0?utm_campaign=1057&utm_source=git)** | Jasper, GA | On Site | Sep 17 |
+| ↳ | **[2026 Summer Camp Intern](https://jobright.ai/jobs/info/68cb1e72ba798c1a501cbfac?utm_campaign=1057&utm_source=git)** | Weaverville, NC | On Site | Sep 17 |
 | ↳ | **[2026 Summer Camp Intern](https://jobright.ai/jobs/info/68cb1e64efdec76df36b91ce?utm_campaign=1057&utm_source=git)** | Glen Spey, NY | On Site | Sep 17 |
-| ↳ | **[2026 Summer Camp Intern](https://jobright.ai/jobs/info/68cb1e64efdec76df36b91d0?utm_campaign=1057&utm_source=git)** | Asheville, NC | On Site | Sep 17 |
-| ↳ | **[2026 Summer Camp Intern](https://jobright.ai/jobs/info/68cb1e64efdec76df36b91d1?utm_campaign=1057&utm_source=git)** | Creede, CO | On Site | Sep 17 |
-| ↳ | **[2026 Summer Camp Intern](https://jobright.ai/jobs/info/68cb1e50ba798c1a501cbf5f?utm_campaign=1057&utm_source=git)** | Lampe, MO | On Site | Sep 17 |
 | ↳ | **[2026 Summer Camp Intern](https://jobright.ai/jobs/info/68cb1e46efdec76df36b91b3?utm_campaign=1057&utm_source=git)** | Challenge, CA | On Site | Sep 17 |
 | ↳ | **[2026 Summer Camp Intern](https://jobright.ai/jobs/info/68cb1e43ba798c1a501cbf34?utm_campaign=1057&utm_source=git)** | Fraser, CO | On Site | Sep 17 |
-| ↳ | **[2026 Summer Camp Intern](https://jobright.ai/jobs/info/68cb1e43ba798c1a501cbf36?utm_campaign=1057&utm_source=git)** | Goshen, VA | On Site | Sep 17 |
 | ↳ | **[2026 Summer Camp Intern](https://jobright.ai/jobs/info/68cb1e27ba798c1a501cbee2?utm_campaign=1057&utm_source=git)** | Ocklawaha, FL | On Site | Sep 17 |
+| ↳ | **[2026 Summer Camp Intern](https://jobright.ai/jobs/info/68cb1e239e3a822f5d242a45?utm_campaign=1057&utm_source=git)** | Asheville, NC | On Site | Sep 17 |
+| ↳ | **[2026 Summer Camp Intern](https://jobright.ai/jobs/info/68cb1e199e3a822f5d242a30?utm_campaign=1057&utm_source=git)** | Goshen, VA | On Site | Sep 17 |
+| ↳ | **[2026 Summer Camp Intern](https://jobright.ai/jobs/info/68cb1e199e3a822f5d242a31?utm_campaign=1057&utm_source=git)** | Lampe, MO | On Site | Sep 17 |
 | ↳ | **[2026 Summer Camp Intern](https://jobright.ai/jobs/info/68cb1dcaba798c1a501cbdf7?utm_campaign=1057&utm_source=git)** | Vanderpool, TX | On Site | Sep 17 |
-| ↳ | **[2026 Summer Camp Intern](https://jobright.ai/jobs/info/68cb1dbfba798c1a501cbdd3?utm_campaign=1057&utm_source=git)** | Lake City, MI | On Site | Sep 17 |
+| ↳ | **[2026 Summer Camp Intern](https://jobright.ai/jobs/info/68cb1db2ba798c1a501cbdab?utm_campaign=1057&utm_source=git)** | Creede, CO | On Site | Sep 17 |
 | ↳ | **[2026 Summer Camp Intern](https://jobright.ai/jobs/info/68cb1d979e3a822f5d24299e?utm_campaign=1057&utm_source=git)** | Brevard, NC | On Site | Sep 17 |
 | ↳ | **[2026 Summer Camp Intern](https://jobright.ai/jobs/info/68cb1d97ba798c1a501cbd5c?utm_campaign=1057&utm_source=git)** | Detroit Lakes, MN | On Site | Sep 17 |
 | ↳ | **[2026 Summer Camp Intern](https://jobright.ai/jobs/info/68cb1d94efdec76df36b90f7?utm_campaign=1057&utm_source=git)** | Mount Nebo, WV | On Site | Sep 17 |
-| ↳ | **[2026 Summer Camp Intern](https://jobright.ai/jobs/info/68cb1d88efdec76df36b90e8?utm_campaign=1057&utm_source=git)** | Weaverville, NC | On Site | Sep 17 |
 | ↳ | **[2026 Summer Camp Intern](https://jobright.ai/jobs/info/68cb1d88efdec76df36b90e9?utm_campaign=1057&utm_source=git)** | Antelope, OR | On Site | Sep 17 |
 | ↳ | **[2026 Summer Camp Intern](https://jobright.ai/jobs/info/68cb1d7e9e3a822f5d24297c?utm_campaign=1057&utm_source=git)** | Saranac Lake, NY | On Site | Sep 17 |
 | ↳ | **[2026 Summer Camp Intern](https://jobright.ai/jobs/info/68cb1d75ba798c1a501cbd19?utm_campaign=1057&utm_source=git)** | Williams, AZ | On Site | Sep 17 |
+| ↳ | **[2026 Summer Camp Intern](https://jobright.ai/jobs/info/68cb1d63efdec76df36b90b9?utm_campaign=1057&utm_source=git)** | Lake City, MI | On Site | Sep 17 |
 | ↳ | **[2026 Summer Camp Intern](https://jobright.ai/jobs/info/68cb1d619e3a822f5d242961?utm_campaign=1057&utm_source=git)** | Lynden, WA | On Site | Sep 17 |
 | ↳ | **[2026 Summer Camp Intern](https://jobright.ai/jobs/info/68cb1d2a9e3a822f5d24292c?utm_campaign=1057&utm_source=git)** | Scotts Valley, CA | On Site | Sep 17 |
 | **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/68cb1ba2efdec76df36b8efa?utm_campaign=1057&utm_source=git)** | Racine, WI | Remote | Sep 17 |
@@ -135,7 +133,6 @@ For a complete list, click the following sortable link below:
 | **[American Dining Creations](http://www.adc-us.com)** | **[Sustainability Intern](https://jobright.ai/jobs/info/68cb10799e3a822f5d241fe7?utm_campaign=1057&utm_source=git)** | Webster Groves, MO | On Site | Sep 17 |
 | **[Central New Mexico Community College](http://www.cnm.edu/)** | **[Work Study/EMSS/Financial Aid/Main Campus](https://jobright.ai/jobs/info/68cb0f94d905e25191d9f0a5?utm_campaign=1057&utm_source=git)** | ABQ-SF Metro Area | On Site | Sep 17 |
 | **[SCO Family of Services](https://sco.org/)** | **[INTERN](https://jobright.ai/jobs/info/68cb31159e3a822f5d243913?utm_campaign=1057&utm_source=git)** | Huntington Station, NY | On Site | Sep 17 |
-| **[Embry-Riddle Aeronautical University](https://www.erau.edu)** | **[Instructional Design and Development Intern](https://jobright.ai/jobs/info/68cb0dbe9e3a822f5d241b25?utm_campaign=1057&utm_source=git)** | United States | Remote | Sep 17 |
 | **[Edge Autonomy](https://edgeautonomy.io)** | **[Program Management SkillBridge Intern](https://jobright.ai/jobs/info/68cb0995d905e25191d9ebf7?utm_campaign=1057&utm_source=git)** | Huntsville, AL | On Site | Sep 17 |
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[South Bend-Elkhart FWS Surgical Technology Program Assistant](https://jobright.ai/jobs/info/68cb07bcefdec76df36b7c7d?utm_campaign=1057&utm_source=git)** | South Carolina, United States | On Site | Sep 17 |
 | ↳ | **[WorkStudy, Federal,**CURRENT IVY TECH STUDENTS ONLY ** (Off-Campus Community Service)- Youth Empowerment Center/ Classroom Assistant](https://jobright.ai/jobs/info/68cb07929e3a822f5d2417e7?utm_campaign=1057&utm_source=git)** | East Chicago, IN | On Site | Sep 17 |
@@ -145,6 +142,7 @@ For a complete list, click the following sortable link below:
 | **[NYC School Construction Authority (SCA)](http://nycsca.org/)** | **[Opportunity Academy Intern](https://jobright.ai/jobs/info/68cb82a9ba798c1a501d0ef0?utm_campaign=1057&utm_source=git)** | Queens, NY | On Site | Sep 17 |
 | **[The National Bank of Indianapolis](https://www.nbofi.com/)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/68cb05c49e3a822f5d2414b6?utm_campaign=1057&utm_source=git)** | Indianapolis, IN, US | On Site | Sep 17 |
 | **[Brown & Brown](https://www.bbrown.com/us/)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/68cb05649e3a822f5d2413a1?utm_campaign=1057&utm_source=git)** | Minneapolis, MN, USA | Hybrid | Sep 17 |
+| **[The National Bank of Indianapolis](https://www.nbofi.com/)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/68cbf1007342c7623ae5c833?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Sep 17 |
 | **[Canon Virginia, Inc](https://www.cvi.canon.com/internet/portal/cvi/home)** | **[2026 Summer Internship Program - Business (HR, Accounting, Finance)](https://jobright.ai/jobs/info/68cb0034d905e25191d9e3cf?utm_campaign=1057&utm_source=git)** | Newport News, VA | On Site | Sep 17 |
 | **[Friona Industries LP](https://www.frionaindustries.com/)** | **[2026 Summer Internship-KSU Students](https://jobright.ai/jobs/info/68cbc0369e3a822f5d24b76f?utm_campaign=1057&utm_source=git)** | Amarillo, TX | On Site | Sep 17 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Dean - Lloyd International Honors College](https://jobright.ai/jobs/info/68caf648efdec76df36b7121?utm_campaign=1057&utm_source=git)** | Greensboro, NC | On Site | Sep 17 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/68caed7cefdec76df36b69e7?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Sep 17 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Assistant Professor of International Studies](https://jobright.ai/jobs/info/68cb87d1ba798c1a501d1304?utm_campaign=1057&utm_source=git)** | Gambier, OH | On Site | Sep 17 |
 | **[San Juan College](http://www.sanjuancollege.edu/)** | **[Work Study/EMSS/Financial Aid/Main Campus](https://jobright.ai/jobs/info/68cae60fd905e25191d9d418?utm_campaign=1057&utm_source=git)** | Central New Mexico, Albuquerque, NM | On Site | Sep 17 |
+| **[Echo Communications](https://www.linkedin.com/company/42279)** | **[ECHO INC. Intern – April 2026 (Nationwide)](https://jobright.ai/jobs/info/68cb87a7ba798c1a501d12ca?utm_campaign=1057&utm_source=git)** | North Fort Myers, FL | On Site | Sep 17 |
+| **[Medical Organization for Latino Advancement](https://www.chicagomola.com)** | **[INTERNSHIP OPPORTUNITY IN MEDICAL SOCIAL SCIENCES](https://jobright.ai/jobs/info/68cadf78efdec76df36b6315?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
