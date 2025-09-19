@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Intern, Skillbridge Internship Program (Military Transition Program)](https://jobright.ai/jobs/info/68cd7b54b2a74e1837ed7a7d?utm_campaign=1057&utm_source=git)** | Suwanee, GA | On Site | Sep 19 |
+| **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Operations (Houston, TX)](https://jobright.ai/jobs/info/68cd729d1ad6b16f02899b0e?utm_campaign=1057&utm_source=git)** | 601 Travis Street, Houston, TX, 77002, US | On Site | Sep 19 |
+| **[XL Parts](https://www.xlparts.com)** | **[Summer Internship](https://jobright.ai/jobs/info/68cd630e1ad6b16f02898f23?utm_campaign=1057&utm_source=git)** | Greater Houston | On Site | Sep 19 |
 | **[Chestnut Health Systems](http://chestnut.org/)** | **[Intern – Project Access (Outpatient)](https://jobright.ai/jobs/info/68cd5e9ae23def7af55b9028?utm_campaign=1057&utm_source=git)** | US-MO-Hillsboro | On Site | Sep 19 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Underwriting Corporate Internship](https://jobright.ai/jobs/info/68cd5e24e23def7af55b8f0a?utm_campaign=1057&utm_source=git)** | CT - Hartford | Hybrid | Sep 19 |
 | **[Vitality Unlimited](https://www.vitalityunlimited.org)** | **[Licensed Alcohol and Drug Counselor](https://jobright.ai/jobs/info/68cd5c18e23def7af55b8afe?utm_campaign=1057&utm_source=git)** | Carson City, NV | On Site | Sep 19 |
@@ -108,9 +111,9 @@ For a complete list, click the following sortable link below:
 | **[University of La Verne](http://laverne.edu)** | **[LFCE Student Assistant Digital Media Specialist AY 2025-2026 - FWS only](https://jobright.ai/jobs/info/68cc831f128dc347fd925fce?utm_campaign=1057&utm_source=git)** | La Verne, CA | On Site | Sep 18 |
 | **[Dallas College](https://www.dcccd.edu)** | **[Administrative Support- Student Assistant (Accessibility Services)-1](https://jobright.ai/jobs/info/68cc7d637342c7623ae6598f?utm_campaign=1057&utm_source=git)** | Cedar Valley Campus | On Site | Sep 18 |
 | ↳ | **[Administrative Support- Student Assistant (Accessibility Services)-2](https://jobright.ai/jobs/info/68cc7d077342c7623ae65911?utm_campaign=1057&utm_source=git)** | Cedar Valley Campus | On Site | Sep 18 |
-| **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/68cc7b1b16d00d2beeb2052a?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Sep 18 |
 | **[University of La Verne](http://laverne.edu)** | **[Honors Program Student Assistant (25/26) - Non FWS](https://jobright.ai/jobs/info/68cc78737342c7623ae6562a?utm_campaign=1057&utm_source=git)** | La Verne, CA | On Site | Sep 18 |
 | **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Student Intern (HS)](https://jobright.ai/jobs/info/68ccc8bca77e5d7d744f556d?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Sep 18 |
+| ↳ | **[Student Assistant](https://jobright.ai/jobs/info/68cccde3fa466330fef91759?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Sep 18 |
 | **[Mortgage Research Center](https://www.mortgageresearch.com/)** | **[Intern - Immersion Internship - Summer 2026](https://jobright.ai/jobs/info/68cc748a16d00d2beeb20082?utm_campaign=1057&utm_source=git)** | Columbia, MO | On Site | Sep 18 |
 | **[Atlantic Health](http://www.atlantichealth.org)** | **[IT Credentialed Trainer Intern](https://jobright.ai/jobs/info/68c9daa584fc1901fd419ef4?utm_campaign=1057&utm_source=git)** | Morristown, NJ | On Site | Sep 18 |
 | **[Dauphin County](www.dauphincounty.gov)** | **[PART TIME SOCIAL CASEWORK INTERN](https://jobright.ai/jobs/info/68cc706116d00d2beeb1fb2c?utm_campaign=1057&utm_source=git)** | 1001 N 6th St, Harrisburg, PA, 17102, US | On Site | Sep 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Southwest Research Institute](http://www.swri.org)** | **[STUDENT ASSISTANT-A&G - Logistics Student - Shipping & Receiving](https://jobright.ai/jobs/info/68cce9db5954791a1d701208?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Sep 18 |
 | **[City of Sioux City](https://www.sioux-city.org/)** | **[Student Internship (Neighborhood Services Division)](https://jobright.ai/jobs/info/68cc269d128dc347fd920110?utm_campaign=1057&utm_source=git)** | Sioux City, IA | On Site | Sep 18 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Training and Education Intern - Atlas Network](https://jobright.ai/jobs/info/68cc3ff7128dc347fd9219a6?utm_campaign=1057&utm_source=git)** | Arlington, VA | Hybrid | Sep 18 |
-| **[Texas A&M University](http://www.tamu.edu)** | **[Graduate Assistant Non-Teaching / Center for Instructional Innovation and Technology Services](https://jobright.ai/jobs/info/68cc204116d00d2beeb1a468?utm_campaign=1057&utm_source=git)** | Prairie View, TX | On Site | Sep 18 |
-| **[Year Up United](http://yearup.org)** | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/68ccdfdc5954791a1d700344?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Sep 18 |
-| **[Catholic Charities, Diocese of Cleveland](https://www.ccdocle.org)** | **[Clinical Intern](https://jobright.ai/jobs/info/689cdc5679a9f9666253b622?utm_campaign=1057&utm_source=git)** | Lorain, OH | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
