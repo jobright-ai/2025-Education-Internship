@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[VEG ER for Pets](https://veterinaryemergencygroup.com)** | **[Veterinary Technician Student Externship - Chelsea, NY](https://jobright.ai/jobs/info/68cd39eb1ad6b16f02896aa5?utm_campaign=1057&utm_source=git)** | Chelsea, New York, United States | On Site | Sep 19 |
+| **[Samaritan's Purse](https://www.samaritanspurse.org/)** | **[Spring 2026 International Intern](https://jobright.ai/jobs/info/6893b807a9199876488df95e?utm_campaign=1057&utm_source=git)** | Boone, NC | On Site | Sep 19 |
 | **[Frederick County Government, Maryland](https://www.frederickcountymd.gov)** | **[Intern-Aging and Independence](https://jobright.ai/jobs/info/68cd20f1e23def7af55b5c52?utm_campaign=1057&utm_source=git)** | Frederick, MD | On Site | Sep 19 |
 | **[University of Utah Health](https://www.cs.utah.edu)** | **[Social Services Internship - Crisis Care Center](https://jobright.ai/jobs/info/68cd0f64e23def7af55b47d3?utm_campaign=1057&utm_source=git)** | Kem And Carolyn Gardner Mental Health Crisis Care Center | On Site | Sep 19 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship - Technical Training Digital Content, Technical Services (Summer 2026)](https://jobright.ai/jobs/info/68cd20941ad6b16f02895517?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Sep 18 |
@@ -86,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Gentex Corporation](http://www.gentex.com)** | **[2026 Summer Intern - Career Fair](https://jobright.ai/jobs/info/68cca0d47342c7623ae677f7?utm_campaign=1057&utm_source=git)** | Zeeland, MI | On Site | Sep 18 |
 | **[USL Spokane](https://www.uslspokane.com/)** | **[USL Spokane Internship Spring and Summer 2026](https://jobright.ai/jobs/info/68cca0ab7342c7623ae677ca?utm_campaign=1057&utm_source=git)** | Spokane, WA | On Site | Sep 18 |
 | **[Behavioral Health Network, Inc (BHN)](https://www.bhninc.org/)** | **[Addiction Recovery Counseling Intern](https://jobright.ai/jobs/info/68cd1b40e23def7af55b578e?utm_campaign=1057&utm_source=git)** | Springfield, MA | On Site | Sep 18 |
+| **[American University](http://american.edu)** | **[Graduate Development Assistant (Student)](https://jobright.ai/jobs/info/68cd2975b2a74e1837ed3635?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Sep 18 |
 | **[Fernbrook Family Center](https://fernbrook.org/)** | **[Masters Level Clinical Internship](https://jobright.ai/jobs/info/68cd1b04e23def7af55b5707?utm_campaign=1057&utm_source=git)** | Owatonna, MN | On Site | Sep 18 |
 | **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Museum Scholar](https://jobright.ai/jobs/info/68cc97fa16d00d2beeb21e71?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Sep 18 |
 | **[Fernbrook Family Center](https://fernbrook.org/)** | **[Bachelor's Level Internship](https://jobright.ai/jobs/info/68cc94837342c7623ae66b74?utm_campaign=1057&utm_source=git)** | Red Wing, MN | On Site | Sep 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Community Development Intern](https://jobright.ai/jobs/info/68cc0e167342c7623ae5e3f9?utm_campaign=1057&utm_source=git)** | US-FL-Tampa | Hybrid | Sep 18 |
 | **[Lake Erie College](http://www.lec.edu/)** | **[Graduate Assistant, Registrars Office](https://jobright.ai/jobs/info/68cc0c7e128dc347fd91e239?utm_campaign=1057&utm_source=git)** | Painesville, OH | On Site | Sep 18 |
 | **[Education Service Center Region 13 ](https://esc13.net)** | **[Non-Paid University - Nurse Interns - 2025-2026](https://jobright.ai/jobs/info/68cc0a587342c7623ae5dd02?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Sep 18 |
-| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Summer 2026 - Sustainability College Intern](https://jobright.ai/jobs/info/68af9d8e1f0a2a568a062d83?utm_campaign=1057&utm_source=git)** | Savannah, GA | On Site | Sep 18 |
-| **[Saga Education](http://www.sagaeducation.org)** | **[Remote Math Tutor (Federal Work-Study at Brandeis University) Milford](https://jobright.ai/jobs/info/6893ae124c7e851b90adf7ce?utm_campaign=1057&utm_source=git)** | Milford, MA | Remote | Sep 18 |
-| **[Brain Balance of Greater San Diego](http://www.BrainBalanceSanDiego.com)** | **[Sensory Motor & Cognitive Coach Internship](https://jobright.ai/jobs/info/68ccc38bd99309000e5a2e2d?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
