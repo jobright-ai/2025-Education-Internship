@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MedRhythms, Inc.](https://www.medrhythms.com)** | **[Neurologic Music Therapist - Clinical Internship - Spaulding](https://jobright.ai/jobs/info/6790f29cafb403c002a72382?utm_campaign=1057&utm_source=git)** | Boston, MA and Hybrid | Hybrid | Sep 20 |
+| **[University of Tampa](http://www.ut.edu)** | **[Peer Mentor Internship](https://jobright.ai/jobs/info/68cef2adfb49c96ca6ea47d1?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Sep 20 |
 | **[County of San Diego](http://www.sdcounty.ca.gov)** | **[Student Worker-19090504-Undergraduate, Graduate/Tech and High School](https://jobright.ai/jobs/info/68cecba9846f0b04af67d06a?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Sep 20 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Community Empowerment Volunteer in the Azores](https://jobright.ai/jobs/info/68cec657846f0b04af67cd60?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Sep 20 |
 | ↳ | **[Volunteer: Water + Sanitation Professional Placement (online and in-person) in Peru](https://jobright.ai/jobs/info/68cec5a7dbd9fb154ede2996?utm_campaign=1057&utm_source=git)** | Princeton, NJ | Hybrid | Sep 20 |
@@ -66,8 +68,8 @@ For a complete list, click the following sortable link below:
 | **[Phillips 66](http://www.phillips66.com/)** | **[2026 University Intern - ERI Analytical Solutions](https://jobright.ai/jobs/info/6894eb7673b3a600fe883540?utm_campaign=1057&utm_source=git)** | Bartlesville, OK | On Site | Sep 20 |
 | **[UBS](https://www.ubs.com)** | **[2026 MBA Associate Internship - Global Banking](https://jobright.ai/jobs/info/68ce94e6fb49c96ca6ea1d09?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Sep 20 |
 | **[Lockton](https://global.lockton.com)** | **[Summer 2026 Internship - Minneapolis](https://jobright.ai/jobs/info/68ce770a846f0b04af67a27a?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Sep 20 |
+| **[KSBY](http://ksby.com)** | **[Intern, KSBY-2](https://jobright.ai/jobs/info/68b254fc1ade4306aa635b3a?utm_campaign=1057&utm_source=git)** | SLO Area | On Site | Sep 20 |
 | **[North Central Michigan College](http://www.ncmich.edu/)** | **[Student Employee Tutoring & Testing Lab Assistant - North Central Michigan College](https://jobright.ai/jobs/info/68ce7146dbd9fb154eddfaf8?utm_campaign=1057&utm_source=git)** | Petoskey, MI | On Site | Sep 20 |
-| **[Saint Xavier University](http://www.sxu.edu/)** | **[Records and Registration Clerical - Student Employment](https://jobright.ai/jobs/info/68ce708edbd9fb154eddf9d7?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Sep 20 |
 | **[CW PSYCHOLOGICAL SERVICES](https://cwpsychologicalservices.com/)** | **[PA Doctoral Level Psychology](https://jobright.ai/jobs/info/68c8b760f9c6ff7aedf11da7?utm_campaign=1057&utm_source=git)** | King of Prussia, PA | On Site | Sep 20 |
 | **[Worthington Enterprises](https://www.worthingtonenterprises.com/)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/68ce550d846f0b04af678b44?utm_campaign=1057&utm_source=git)** | Westerville, OH | On Site | Sep 20 |
 | **[Minnesota Wind Chill](http://www.windchillultimate.com)** | **[Sports Analytics & Film Internship - Summer '26](https://jobright.ai/jobs/info/68ce37511ad6b16f028a30f8?utm_campaign=1057&utm_source=git)** | Minneapolis–Saint Paul, WI | Hybrid | Sep 19 |
@@ -117,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[Sebago Technics](http://www.sebagotechnics.com)** | **[Internship & Co-Op Program](https://jobright.ai/jobs/info/68cdaa8db2a74e1837edad39?utm_campaign=1057&utm_source=git)** | SEBAGO TECHNICS, INC. | On Site | Sep 19 |
 | **[Friona Industries LP](https://www.frionaindustries.com/)** | **[2026 Summer Internship-OSU Students](https://jobright.ai/jobs/info/68cdaa7ab2a74e1837edacfc?utm_campaign=1057&utm_source=git)** | Amarillo, TX | On Site | Sep 19 |
 | **[Kanza Mental Health & Guidance Center](https://www.kanzamhgc.org)** | **[Internship Program Participant](https://jobright.ai/jobs/info/68cdaa0a1ad6b16f0289d77a?utm_campaign=1057&utm_source=git)** | Hiawatha Main Office | On Site | Sep 19 |
-| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Student Intern Research Assistant I](https://jobright.ai/jobs/info/68cda9e8b2a74e1837edabc0?utm_campaign=1057&utm_source=git)** | Brookline-MA | Hybrid | Sep 19 |
 | **[Sevita](https://sevitahealth.com)** | **[Therapeutic Therapist Intern](https://jobright.ai/jobs/info/68cdfbfcb2a74e1837ede0b6?utm_campaign=1057&utm_source=git)** | Massachusetts, United States | On Site | Sep 19 |
+| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Student Intern Research Assistant I](https://jobright.ai/jobs/info/68cda9271ad6b16f0289d49f?utm_campaign=1057&utm_source=git)** | Brookline-MA | Hybrid | Sep 19 |
 | **[County of Erie, PA](http://www.eriecountypa.gov)** | **[Caseworker](https://jobright.ai/jobs/info/68cda5b7e23def7af55bd3bb?utm_campaign=1057&utm_source=git)** | Erie, PA | On Site | Sep 19 |
 | **[AECOM](http://www.aecom.com/)** | **[Internship Opportunities - Visit us at the Prairie View A&M University Fall 2025 Career Fair](https://jobright.ai/jobs/info/68cdcb6c1ad6b16f0289f130?utm_campaign=1057&utm_source=git)** | Prairie View, TX, USA | On Site | Sep 19 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[High School Service Intern](https://jobright.ai/jobs/info/68cd9ec1b2a74e1837ed9d98?utm_campaign=1057&utm_source=git)** | Kalispell, MT | On Site | Sep 19 |
@@ -130,6 +132,7 @@ For a complete list, click the following sortable link below:
 | **[California State University, Long Beach](http://www.csulb.edu/)** | **[Faculty & Student Support Coordinator](https://jobright.ai/jobs/info/68cd9751b2a74e1837ed94dd?utm_campaign=1057&utm_source=git)** | Long Beach, CA | On Site | Sep 19 |
 | **[Suncoast Credit Union](http://suncoastcreditunion.com/)** | **[AI Content Development Internship](https://jobright.ai/jobs/info/68cd95921ad6b16f0289bde5?utm_campaign=1057&utm_source=git)** | Tampa, FL | Hybrid | Sep 19 |
 | **[Upstate Medical University](https://www.upstate.edu)** | **[Addiction CASAC Fellow](https://jobright.ai/jobs/info/68cd9544b2a74e1837ed9121?utm_campaign=1057&utm_source=git)** | Syracuse-Auburn Area | On Site | Sep 19 |
+| **[Phillips 66](http://www.phillips66.com/)** | **[2026 University Intern-Information Technology](https://jobright.ai/jobs/info/6893e84fa9199876488e0f9c?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Sep 19 |
 | **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/68cd92f1e23def7af55bbdd4?utm_campaign=1057&utm_source=git)** | Grand Rapids, MI | On Site | Sep 19 |
 | **[PAWS Chicago](https://www.pawschicago.org)** | **[Animal Enrichment Internship](https://jobright.ai/jobs/info/68cd8d4ab2a74e1837ed8ac3?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Sep 19 |
 | **[Appalachian State University](http://www.appstate.edu/)** | **[SDAP Temporary Office Assistant](https://jobright.ai/jobs/info/68cd8bfeb2a74e1837ed88ca?utm_campaign=1057&utm_source=git)** | Boone, NC | On Site | Sep 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (OT/OTA Adolescent RTC) Spring 2026 OT Fieldwork](https://jobright.ai/jobs/info/6893af054c7e851b90adf862?utm_campaign=1057&utm_source=git)** | Towson, MD | On Site | Sep 19 |
 | **[Solis Mammography](http://solismammo.com)** | **[Mammography Technologist Training Program](https://jobright.ai/jobs/info/68948f838c6d6b44267726c5?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Sep 19 |
 | **[UW School of Medicine and Public Health](https://www.med.wisc.edu)** | **[Internal Medicine Physician](https://jobright.ai/jobs/info/6893eda34c7e851b90ae163b?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Sep 19 |
-| **[VEG ER for Pets](https://veterinaryemergencygroup.com)** | **[Veterinary Technician Student Externship - Chelsea, NY](https://jobright.ai/jobs/info/68cd39eb1ad6b16f02896aa5?utm_campaign=1057&utm_source=git)** | Chelsea, New York, United States | On Site | Sep 19 |
-| **[Behavioral Health Group - BHG](https://www.bhgrecovery.com)** | **[Counselor Internship - Unpaid](https://jobright.ai/jobs/info/68cd5150b2a74e1837ed5164?utm_campaign=1057&utm_source=git)** | Louisville, KY | On Site | Sep 19 |
-| **[Anheuser-Busch](https://sternbeverage.com)** | **[University Intern - Technology](https://jobright.ai/jobs/info/68b0f65604557a6c207b8d6f?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
