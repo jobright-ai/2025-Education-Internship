@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mayo Clinic](https://www.mayoclinic.org)** | **[INTERN-PAID EDUC STUDENT - Lancaster - Sahota](https://jobright.ai/jobs/info/68cde9841ad6b16f0289fe3f?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Sep 19 |
+| **[Young STEAMers](https://www.youngsteamers.org/)** | **[STEAM Instructor Intern in the SF Bay Area, CA](https://jobright.ai/jobs/info/68cde714b2a74e1837edd3db?utm_campaign=1057&utm_source=git)** | San Francisco Bay Area | On Site | Sep 19 |
+| **[Apogee Architectural Metals](http://www.wausauwindow.com/)** | **[Summer Internships - Wausau](https://jobright.ai/jobs/info/68cde4011ad6b16f0289fb06?utm_campaign=1057&utm_source=git)** | Wausau, WI | On Site | Sep 19 |
+| **[Mind.Body.1.](www.themb1.com)** | **[Performance and Development Coach (Graduate-Level)](https://jobright.ai/jobs/info/68cde01de23def7af55bfe4c?utm_campaign=1057&utm_source=git)** | Tallahassee, FL | On Site | Sep 19 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Records and Registration Clerical - Student Employment](https://jobright.ai/jobs/info/68cdc8e1b2a74e1837edc4e0?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Sep 19 |
 | **[MHMR of Tarrant County](https://www.mhmrtarrant.org/)** | **[2026 Spring Intern- Community Health Services](https://jobright.ai/jobs/info/68cdc7f61ad6b16f0289ee32?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Sep 19 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[INTERN-PAID EDUC STUDENT - Lancaster - Sahota](https://jobright.ai/jobs/info/68cdc5e91ad6b16f0289edca?utm_campaign=1057&utm_source=git)** | Phoenix, AZ, United States | On Site | Sep 19 |
@@ -73,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Amwins](http://www.amwins.com)** | **[Amwins Atlanta Internship](https://jobright.ai/jobs/info/68cdbb281ad6b16f0289e5fc?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Sep 19 |
 | **[Indiana Farm Bureau Insurance](http://www.infarmbureau.com)** | **[Claims Training Program - Summer 2026](https://jobright.ai/jobs/info/68cdb9521ad6b16f0289e44a?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Sep 19 |
 | **[State of Michigan](http://www.michigan.gov)** | **[Student Assistant](https://jobright.ai/jobs/info/68cdb92eb2a74e1837edb9d7?utm_campaign=1057&utm_source=git)** | Lansing, MI | On Site | Sep 19 |
+| **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Student Intern Research Assistant I](https://jobright.ai/jobs/info/68cdb8c0e23def7af55be9e4?utm_campaign=1057&utm_source=git)** | Brookline, MA | On Site | Sep 19 |
 | **[Carle Health](https://carle.org/)** | **[Healthcare Tech in Training - Program Starts 11/3/25](https://jobright.ai/jobs/info/68cdb8331ad6b16f0289e334?utm_campaign=1057&utm_source=git)** | Urbana, IL | On Site | Sep 19 |
-| **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Student Intern Research Assistant I](https://jobright.ai/jobs/info/68cdb6c7e23def7af55be79c?utm_campaign=1057&utm_source=git)** | Brookline, MA | On Site | Sep 19 |
 | **[Dallas College](https://www.dcccd.edu)** | **[Administrative Support- Student Assistant (Accessibility Services MVC)-2](https://jobright.ai/jobs/info/68cdb2e0b2a74e1837edb4d6?utm_campaign=1057&utm_source=git)** | Mountain View Campus | On Site | Sep 19 |
 | ↳ | **[Administrative Support- Student Assistant (Accessibility Services MVC)-1](https://jobright.ai/jobs/info/68cdb297b2a74e1837edb3f1?utm_campaign=1057&utm_source=git)** | Mountain View Campus | On Site | Sep 19 |
 | ↳ | **[Administrative Support-Student Assistant](https://jobright.ai/jobs/info/68cdb1e6e23def7af55be570?utm_campaign=1057&utm_source=git)** | Mountain View Campus | On Site | Sep 19 |
@@ -111,6 +115,7 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Underwriting Corporate Internship](https://jobright.ai/jobs/info/68cd5e24e23def7af55b8f0a?utm_campaign=1057&utm_source=git)** | CT - Hartford | Hybrid | Sep 19 |
 | **[Vitality Unlimited](https://www.vitalityunlimited.org)** | **[Licensed Alcohol and Drug Counselor](https://jobright.ai/jobs/info/68cd5c18e23def7af55b8afe?utm_campaign=1057&utm_source=git)** | Carson City, NV | On Site | Sep 19 |
 | ↳ | **[Certified Alcohol and Drug Counselor](https://jobright.ai/jobs/info/68cd5b92e23def7af55b89b7?utm_campaign=1057&utm_source=git)** | Carson City, NV | On Site | Sep 19 |
+| **[Texas A&M University](http://www.tamu.edu)** | **[Academic Professional Track (Non-Tenure): Open Rank-Clinical-Internal Medicine](https://jobright.ai/jobs/info/68c7b553c008cf3402c8f0a0?utm_campaign=1057&utm_source=git)** | San Angelo, TX | On Site | Sep 19 |
 | **[Phillips 66](http://www.phillips66.com/)** | **[2026 University Intern-Lubricants](https://jobright.ai/jobs/info/68cd4b13b2a74e1837ed5040?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Sep 19 |
 | **[Bloomsbury USA](http://www.bloomsbury.com/us)** | **[Fairchild Books-Fall/Winter Internship](https://jobright.ai/jobs/info/68cd4a211ad6b16f028978a4?utm_campaign=1057&utm_source=git)** | New York, NY | Remote | Sep 19 |
 | **[Phillips 66](http://www.phillips66.com/)** | **[2026 University Intern - Commercial](https://jobright.ai/jobs/info/68c7c5c5369c3763c743bf1e?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Sep 19 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fernbrook Family Center](https://fernbrook.org/)** | **[Masters Level Clinical Internship](https://jobright.ai/jobs/info/68cd1b04e23def7af55b5707?utm_campaign=1057&utm_source=git)** | Owatonna, MN | On Site | Sep 18 |
 | **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Museum Scholar](https://jobright.ai/jobs/info/68cc97fa16d00d2beeb21e71?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Sep 18 |
 | **[Fernbrook Family Center](https://fernbrook.org/)** | **[Bachelor's Level Internship](https://jobright.ai/jobs/info/68cc94837342c7623ae66b74?utm_campaign=1057&utm_source=git)** | Red Wing, MN | On Site | Sep 18 |
-| **[San Juan Unified School District](https://www.sanjuan.edu/rioamericano)** | **[COUNSELOR INTERN I, II @White House Counseling #6849](https://jobright.ai/jobs/info/68cc944c7342c7623ae66b1b?utm_campaign=1057&utm_source=git)** | Carmichael, CA | On Site | Sep 18 |
-| **[DCS Corp](http://www.dcscorp.com)** | **[Intern--Industrial/Organizational Psychology](https://jobright.ai/jobs/info/68cc9238128dc347fd926afe?utm_campaign=1057&utm_source=git)** | Dayton, OH | Remote | Sep 18 |
-| **[Fernbrook Family Center](https://fernbrook.org/)** | **[Masters Level Clinical Internship](https://jobright.ai/jobs/info/68ccc3f9d99309000e5a2f5f?utm_campaign=1057&utm_source=git)** | Faribault, MN | On Site | Sep 18 |
-| **[The Oncology Institute](https://theoncologyinstitute.com)** | **[North-West College Student Applications](https://jobright.ai/jobs/info/68cc8d2816d00d2beeb214b1?utm_campaign=1057&utm_source=git)** | Cerritos, California, United States | On Site | Sep 18 |
-| **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Student Assistant (HS)](https://jobright.ai/jobs/info/68cc83747342c7623ae65f62?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
