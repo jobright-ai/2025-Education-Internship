@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[County of San Diego](http://www.sdcounty.ca.gov)** | **[Student Worker-19090504-Undergraduate, Graduate/Tech and High School](https://jobright.ai/jobs/info/68cf67cafb49c96ca6ea85ca?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Sep 20 |
 | **[Wayne-Sanderson Farms](https://waynesandersonfarms.com)** | **[Hatchery Intern - Summer 2026](https://jobright.ai/jobs/info/68cf57fbfb49c96ca6ea7c6c?utm_campaign=1057&utm_source=git)** | Albertville, AL | Hybrid | Sep 20 |
 | **[Health Connect America](https://healthconnectamerica.com)** | **[Georgia Intern Therapist - Master's Level](https://jobright.ai/jobs/info/68cf52e8846f0b04af680cea?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Sep 20 |
 | ↳ | **[Georgia Intern Therapist - Master's Level](https://jobright.ai/jobs/info/68cf4f5cdbd9fb154ede6324?utm_campaign=1057&utm_source=git)** | Woodstock, GA | On Site | Sep 20 |
@@ -76,7 +77,9 @@ For a complete list, click the following sortable link below:
 | **[Rural King](https://www.ruralking.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/68a1459c83d13d1f5b6d29fa?utm_campaign=1057&utm_source=git)** | Mattoon, IL | On Site | Sep 20 |
 | **[Phillips 66](http://www.phillips66.com/)** | **[2026 University Intern - ERI Analytical Solutions](https://jobright.ai/jobs/info/6894eb7673b3a600fe883540?utm_campaign=1057&utm_source=git)** | Bartlesville, OK | On Site | Sep 20 |
 | **[UBS](https://www.ubs.com)** | **[2026 MBA Associate Internship - Global Banking](https://jobright.ai/jobs/info/68ce94e6fb49c96ca6ea1d09?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Sep 20 |
-| **[Lockton](https://global.lockton.com)** | **[Summer 2026 Internship - Minneapolis](https://jobright.ai/jobs/info/68ce770a846f0b04af67a27a?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Sep 20 |
+| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship – Identity and Access Intern](https://jobright.ai/jobs/info/68b247f9bc187f64e1bda416?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Sep 20 |
+| **[Lockton](https://global.lockton.com)** | **[Summer 2026 Internship - Omaha](https://jobright.ai/jobs/info/68b23b1af4e41a61efd82e3a?utm_campaign=1057&utm_source=git)** | Omaha, NE | On Site | Sep 20 |
+| ↳ | **[Summer 2026 Internship - Minneapolis](https://jobright.ai/jobs/info/68ce770a846f0b04af67a27a?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Sep 20 |
 | **[KSBY](http://ksby.com)** | **[Intern, KSBY-2](https://jobright.ai/jobs/info/68b254fc1ade4306aa635b3a?utm_campaign=1057&utm_source=git)** | SLO Area | On Site | Sep 20 |
 | **[North Central Michigan College](http://www.ncmich.edu/)** | **[Student Employee Tutoring & Testing Lab Assistant - North Central Michigan College](https://jobright.ai/jobs/info/68ce7146dbd9fb154eddfaf8?utm_campaign=1057&utm_source=git)** | Petoskey, MI | On Site | Sep 20 |
 | **[CW PSYCHOLOGICAL SERVICES](https://cwpsychologicalservices.com/)** | **[PA Doctoral Level Psychology](https://jobright.ai/jobs/info/68c8b760f9c6ff7aedf11da7?utm_campaign=1057&utm_source=git)** | King of Prussia, PA | On Site | Sep 20 |
@@ -113,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[Marriott International](https://www.marriott.com/hotels/travel/mkeak-hotel-metro-autograph-collection/)** | **[Culinary Intern](https://jobright.ai/jobs/info/68cdc2621ad6b16f0289eadb?utm_campaign=1057&utm_source=git)** | 2800 Opryland Drive, Nashville, TN, 37214, US | On Site | Sep 19 |
 | **[Centerstone](https://centerstone.org/)** | **[Bachelor Level Intern](https://jobright.ai/jobs/info/68cdc1a91ad6b16f0289e91b?utm_campaign=1057&utm_source=git)** | Fort Myers, FL | Hybrid | Sep 19 |
 | **[Grand Canyon Education, Inc. ](https://www.gce.com)** | **[Office of Academic Records - Student Intake Specialist (NFWS)](https://jobright.ai/jobs/info/68cdc1a51ad6b16f0289e911?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Sep 19 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Intern, Skillbridge Internship Program (Military Transition Program)](https://jobright.ai/jobs/info/6824030d341b6a709e87d8dc?utm_campaign=1057&utm_source=git)** | Suwanee, GA | On Site | Sep 19 |
 | **[Fortegra](https://www.fortegra.com)** | **[Summer Internship](https://jobright.ai/jobs/info/68cdbbd2e23def7af55beb4a?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Sep 19 |
 | **[Amwins](http://www.amwins.com)** | **[Amwins Atlanta Internship](https://jobright.ai/jobs/info/68cdbb281ad6b16f0289e5fc?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Sep 19 |
 | **[State of Michigan](http://www.michigan.gov)** | **[Student Assistant](https://jobright.ai/jobs/info/68cdb92eb2a74e1837edb9d7?utm_campaign=1057&utm_source=git)** | Lansing, MI | On Site | Sep 19 |
@@ -151,10 +153,8 @@ For a complete list, click the following sortable link below:
 | **[PAWS Chicago](https://www.pawschicago.org)** | **[Animal Care Program Internship - Medical Center](https://jobright.ai/jobs/info/68cd8a82e23def7af55bb6af?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Sep 19 |
 | **[Drury Hotels](http://www.druryhotels.com)** | **[Hospitality Summer Intern - University of Central Florida Hospitality Students](https://jobright.ai/jobs/info/68cd8961b2a74e1837ed85cc?utm_campaign=1057&utm_source=git)** | 2000 Hotel Plaza Boulevard, Lake Buena Vista, FL 32830 | On Site | Sep 19 |
 | **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Operations (Houston, TX)](https://jobright.ai/jobs/info/68cd729d1ad6b16f02899b0e?utm_campaign=1057&utm_source=git)** | 601 Travis Street, Houston, TX, 77002, US | On Site | Sep 19 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Intern, Skillbridge Internship Program (Military Transition Program)](https://jobright.ai/jobs/info/68c4e2cedb52c07d2883d6b2?utm_campaign=1057&utm_source=git)** | Suwanee, GA | On Site | Sep 19 |
+| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Intern, Skillbridge Internship Program (Military Transition Program)](https://jobright.ai/jobs/info/68c4e0b0db52c07d2883d0fa?utm_campaign=1057&utm_source=git)** | Suwanee, GA | On Site | Sep 19 |
 | **[Phillips 66](http://www.phillips66.com/)** | **[2026 University Intern - Procurement](https://jobright.ai/jobs/info/68cb93e3ba798c1a501d1fa1?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Sep 19 |
+| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Intern, Skillbridge Internship Program (Military Transition Program)](https://jobright.ai/jobs/info/6823e4885477a27952f3b234?utm_campaign=1057&utm_source=git)** | Suwanee, GA | On Site | Sep 19 |
 | **[XL Parts](https://www.xlparts.com)** | **[Summer Internship](https://jobright.ai/jobs/info/68cd630e1ad6b16f02898f23?utm_campaign=1057&utm_source=git)** | Greater Houston | On Site | Sep 19 |
-| **[Baptist Health Sciences University](https://baptistu.edu)** | **[Student Assistant PRN](https://jobright.ai/jobs/info/680113c7690009270b30f969?utm_campaign=1057&utm_source=git)** | Memphis, TN | On Site | Sep 19 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Underwriting Corporate Internship](https://jobright.ai/jobs/info/68cd5e24e23def7af55b8f0a?utm_campaign=1057&utm_source=git)** | CT - Hartford | Hybrid | Sep 19 |
-| **[Vitality Unlimited](https://www.vitalityunlimited.org)** | **[Licensed Alcohol and Drug Counselor](https://jobright.ai/jobs/info/68cd5c18e23def7af55b8afe?utm_campaign=1057&utm_source=git)** | Carson City, NV | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
