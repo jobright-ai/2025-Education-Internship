@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hanover College](http://www.hanover.edu/)** | **[Intern / Assistant Track & Field Coach](https://jobright.ai/jobs/info/68d0bb24fb49c96ca6eafaeb?utm_campaign=1057&utm_source=git)** | Hanover, IN | On Site | Sep 21 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/68d0a7fb846f0b04af688f7a?utm_campaign=1057&utm_source=git)** | Palm Beach Gardens, FL | Hybrid | Sep 21 |
 | **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Product and Innovation (New York, NY)](https://jobright.ai/jobs/info/68d095fd846f0b04af688cea?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Sep 21 |
 | **[The California State University](http://www.calstate.edu)** | **[Assistant or Associate Professor in Engineering Technology (Software Quality, Mobile Technologies, Edge Computing)](https://jobright.ai/jobs/info/68d084a2dbd9fb154edeea29?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Sep 21 |
@@ -73,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Recovery Centers of America](http://www.recoverycentersofamerica.com/)** | **[Intern-Clinical](https://jobright.ai/jobs/info/68cff1e4846f0b04af6864af?utm_campaign=1057&utm_source=git)** | Monroeville, PA | On Site | Sep 21 |
 | **[AtlantiCare](http://www.atlanticare.org)** | **[Fall Internship](https://jobright.ai/jobs/info/68cff0a2dbd9fb154edec18f?utm_campaign=1057&utm_source=git)** | Egg Harbor, NJ | On Site | Sep 21 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Learning Management](https://jobright.ai/jobs/info/68cfe759fb49c96ca6eac6bd?utm_campaign=1057&utm_source=git)** | Bridgewater, NJ | Hybrid | Sep 21 |
+| **[Tarleton State University](http://www.tarleton.edu/)** | **[Student Intern Supervisor](https://jobright.ai/jobs/info/68985dba5574fd6bc0c79253?utm_campaign=1057&utm_source=git)** | Stephenville, TX | On Site | Sep 21 |
 | **[City of Sioux City](https://www.sioux-city.org/)** | **[Student Internship (Neighborhood Services Division)](https://jobright.ai/jobs/info/68cfc73c846f0b04af684ec0?utm_campaign=1057&utm_source=git)** | Sioux City, IA | On Site | Sep 21 |
 | **[Southern Utah University](http://www.suu.edu/)** | **[CTI Student Assistant](https://jobright.ai/jobs/info/68cfc3cffb49c96ca6eab504?utm_campaign=1057&utm_source=git)** | Cedar City, UT | On Site | Sep 21 |
 | **[Highline Public Schools](https://www.highlineschools.org/)** | **[25-26 SY Student Internship (Student Teaching/ESA Internship)](https://jobright.ai/jobs/info/68cfc37afb49c96ca6eab4c9?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Sep 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Underwriting Corporate Internship](https://jobright.ai/jobs/info/68cdb0621ad6b16f0289dbca?utm_campaign=1057&utm_source=git)** | Hartford, CT | Hybrid | Sep 19 |
 | **[Indiana University](https://www.iu.edu)** | **[Part-Time Student Advisory Board, Eskenazi Museum of Art](https://jobright.ai/jobs/info/68cdafe21ad6b16f0289db0f?utm_campaign=1057&utm_source=git)** | Bloomington, IN | Hybrid | Sep 19 |
 | **[KinderCare Learning Companies](http://www.kcecareers.com/)** | **[Teacher at International Leadership of Texas - Heritage](https://jobright.ai/jobs/info/68cecc3bfb49c96ca6ea39ac?utm_campaign=1057&utm_source=git)** | Midlothian, TX | On Site | Sep 19 |
-| **[Paradigm Power Delivery, Inc.](https://www.paradigmenterprises.net)** | **[Summer 2026 Interns](https://jobright.ai/jobs/info/68cdaa9db2a74e1837edad7e?utm_campaign=1057&utm_source=git)** | Overland Park, KS | On Site | Sep 19 |
-| **[Sebago Technics](http://www.sebagotechnics.com)** | **[Internship & Co-Op Program](https://jobright.ai/jobs/info/68cdaa8db2a74e1837edad39?utm_campaign=1057&utm_source=git)** | SEBAGO TECHNICS, INC. | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
