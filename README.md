@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amwins Global Risks](https://www.amwins.com/solutions/global-risks)** | **[Amwins Atlanta Internship](https://jobright.ai/jobs/info/68d0f9267727df7d5a84f331?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Sep 22 |
+| **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting (Tenure Track)](https://jobright.ai/jobs/info/68d0ec217727df7d5a84ec45?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Sep 21 |
+| **[Marsh McLennan](https://www.marshmclennan.com)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/68d0e456f1976376178f05f6?utm_campaign=1057&utm_source=git)** | Palm Beach Gardens - 4400 PGA | Hybrid | Sep 21 |
 | **[Hanover College](http://www.hanover.edu/)** | **[Intern / Assistant Track & Field Coach](https://jobright.ai/jobs/info/68d0bb24fb49c96ca6eafaeb?utm_campaign=1057&utm_source=git)** | Hanover, IN | On Site | Sep 21 |
+| **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Student Intern Research Assistant I](https://jobright.ai/jobs/info/68cdb6c7e23def7af55be79c?utm_campaign=1057&utm_source=git)** | Brookline, MA | On Site | Sep 21 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/68d0a7fb846f0b04af688f7a?utm_campaign=1057&utm_source=git)** | Palm Beach Gardens, FL | Hybrid | Sep 21 |
 | **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Product and Innovation (New York, NY)](https://jobright.ai/jobs/info/68d095fd846f0b04af688cea?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Sep 21 |
 | **[The California State University](http://www.calstate.edu)** | **[Assistant or Associate Professor in Engineering Technology (Software Quality, Mobile Technologies, Edge Computing)](https://jobright.ai/jobs/info/68d084a2dbd9fb154edeea29?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Sep 21 |
@@ -145,16 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Marriott International](http://travel-brilliantly.marriott.com)** | **[Culinary Intern](https://jobright.ai/jobs/info/68cdc2621ad6b16f0289eadb?utm_campaign=1057&utm_source=git)** | 2800 Opryland Drive, Nashville, TN, 37214, US | On Site | Sep 19 |
 | **[Centerstone](https://centerstone.org/)** | **[Bachelor Level Intern](https://jobright.ai/jobs/info/68cdc1a91ad6b16f0289e91b?utm_campaign=1057&utm_source=git)** | Fort Myers, FL | Hybrid | Sep 19 |
 | **[Grand Canyon Education, Inc. ](https://www.gce.com)** | **[Office of Academic Records - Student Intake Specialist (NFWS)](https://jobright.ai/jobs/info/68cdc1a51ad6b16f0289e911?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Sep 19 |
+| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Intern, Skillbridge Internship Program (Military Transition Program)](https://jobright.ai/jobs/info/6824030d341b6a709e87d8dc?utm_campaign=1057&utm_source=git)** | Suwanee, GA | On Site | Sep 19 |
 | **[Fortegra](https://www.fortegra.com)** | **[Summer Internship](https://jobright.ai/jobs/info/68cdbbd2e23def7af55beb4a?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Sep 19 |
 | **[Amwins](http://www.amwins.com)** | **[Amwins Atlanta Internship](https://jobright.ai/jobs/info/68cdbb281ad6b16f0289e5fc?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Sep 19 |
 | **[State of Michigan](http://www.michigan.gov)** | **[Student Assistant](https://jobright.ai/jobs/info/68cdb92eb2a74e1837edb9d7?utm_campaign=1057&utm_source=git)** | Lansing, MI | On Site | Sep 19 |
-| **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Student Intern Research Assistant I](https://jobright.ai/jobs/info/68cdb8c0e23def7af55be9e4?utm_campaign=1057&utm_source=git)** | Brookline, MA | On Site | Sep 19 |
 | **[Center for Social Dynamics](https://csdautismservices.com)** | **[Clinical Leader Intern - Rohnert Park](https://jobright.ai/jobs/info/685ddef01f273616bc49fd3b?utm_campaign=1057&utm_source=git)** | Rohnert Park, CA | On Site | Sep 19 |
 | **[Carle Health](https://carle.org/)** | **[Healthcare Tech in Training - Program Starts 11/3/25](https://jobright.ai/jobs/info/68ce665cdbd9fb154eddf344?utm_campaign=1057&utm_source=git)** | Urbana, IL | On Site | Sep 19 |
 | **[Dallas College](https://www.dcccd.edu)** | **[Administrative Support- Student Assistant (Accessibility Services MVC)-2](https://jobright.ai/jobs/info/68cdb2e0b2a74e1837edb4d6?utm_campaign=1057&utm_source=git)** | Mountain View Campus | On Site | Sep 19 |
 | ↳ | **[Administrative Support- Student Assistant (Accessibility Services MVC)-1](https://jobright.ai/jobs/info/68cdb297b2a74e1837edb3f1?utm_campaign=1057&utm_source=git)** | Mountain View Campus | On Site | Sep 19 |
-| ↳ | **[Administrative Support-Student Assistant](https://jobright.ai/jobs/info/68cdb1e6e23def7af55be570?utm_campaign=1057&utm_source=git)** | Mountain View Campus | On Site | Sep 19 |
-| **[Indiana Farm Bureau Insurance](http://www.infarmbureau.com)** | **[Claims Training Program - Summer 2026](https://jobright.ai/jobs/info/68cea98edbd9fb154ede1e5b?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Sep 19 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Underwriting Corporate Internship](https://jobright.ai/jobs/info/68cdb0621ad6b16f0289dbca?utm_campaign=1057&utm_source=git)** | Hartford, CT | Hybrid | Sep 19 |
-| **[Indiana University](https://www.iu.edu)** | **[Part-Time Student Advisory Board, Eskenazi Museum of Art](https://jobright.ai/jobs/info/68cdafe21ad6b16f0289db0f?utm_campaign=1057&utm_source=git)** | Bloomington, IN | Hybrid | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
