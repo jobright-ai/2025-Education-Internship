@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Nano Society](https://nanosociety.us)** | **[Self-Funded Visiting Scholars](https://jobright.ai/jobs/info/68d27abcf0d9af73038d8e44?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Sep 23 |
+| **[Sanofi](https://www.sanofi.com)** | **[Summer or Fall 2026 Co-Op_Intern - Market Access Training & Operations ](https://jobright.ai/jobs/info/68d27a8e17554c2d9eee7a9a?utm_campaign=1057&utm_source=git)** | Cambridge, MA | On Site | Sep 23 |
+| **[Jewish Board of Family and Children's Services](https://jewishboard.org/)** | **[Intern Clinical Supervisor LCSW](https://jobright.ai/jobs/info/689a945e5574fd6bc0c83af8?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Sep 23 |
+| **[Duke Department of Population Health Sciences](https://populationhealth.duke.edu/)** | **[Associate Dean, Student Development](https://jobright.ai/jobs/info/68d270208c62e63bc7fd7949?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Sep 23 |
+| ↳ | **[Nowicki Fellow for Student Engagement](https://jobright.ai/jobs/info/68d26eefa54edb3bf3e1e176?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Sep 23 |
+| **[Lee County Port Authority](http://flylcpa.com)** | **[2026 Internship](https://jobright.ai/jobs/info/68d26e7ba54edb3bf3e1e15c?utm_campaign=1057&utm_source=git)** | Fort Myers, FL | On Site | Sep 23 |
+| **[City of Sioux City](https://www.sioux-city.org/)** | **[Student Internship (Neighborhood Services Division)](https://jobright.ai/jobs/info/68d26d57a54edb3bf3e1e0ec?utm_campaign=1057&utm_source=git)** | Sioux City, IA | On Site | Sep 23 |
 | **[Benedictine University](http://www.ben.edu/)** | **[Undergrad Student Employee - Office of Admissions](https://jobright.ai/jobs/info/68d26835a54edb3bf3e1dfae?utm_campaign=1057&utm_source=git)** | Lisle, IL | On Site | Sep 23 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[DHS VOCATIONAL TRAINING ASSISTANT - 09232025-71431](https://jobright.ai/jobs/info/68d25a95a54edb3bf3e1db69?utm_campaign=1057&utm_source=git)** | Rutherford County, TN | On Site | Sep 23 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[**Internal Only**Associate Dean - College of Liberal Arts & Sciences](https://jobright.ai/jobs/info/68d254d217554c2d9eee7174?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Sep 23 |
@@ -129,6 +136,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Targeted Interns](https://jobright.ai/jobs/info/68d1a1e017554c2d9eeddbda?utm_campaign=1057&utm_source=git)** | Durham, NC | Hybrid | Sep 22 |
 | ↳ | **[2026 Targeted Interns](https://jobright.ai/jobs/info/68d1a0398c62e63bc7fcd9e9?utm_campaign=1057&utm_source=git)** | Covington, KY | Hybrid | Sep 22 |
 | ↳ | **[2026 Targeted Interns](https://jobright.ai/jobs/info/68d19f82cece431f8b585f3c?utm_campaign=1057&utm_source=git)** | Greenwood Village, CO | Hybrid | Sep 22 |
+| ↳ | **[Summer 2026 Undergraduate Internship - Corporate Services Support](https://jobright.ai/jobs/info/68d19f708c62e63bc7fcd849?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | Sep 22 |
 | ↳ | **[2026 Targeted Interns](https://jobright.ai/jobs/info/68d19eef8c62e63bc7fcd72a?utm_campaign=1057&utm_source=git)** | Merrimack, NH | Hybrid | Sep 22 |
 | **[Federal Reserve Bank of St. Louis](http://www.stlouisfed.org)** | **[Instructional Design 2026 Internships](https://jobright.ai/jobs/info/68d19ee7cece431f8b585de4?utm_campaign=1057&utm_source=git)** | St Louis, MO | Hybrid | Sep 22 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[2026 Targeted Interns](https://jobright.ai/jobs/info/68d19ebecece431f8b585d87?utm_campaign=1057&utm_source=git)** | Jersey City, NJ | Hybrid | Sep 22 |
@@ -148,13 +156,5 @@ For a complete list, click the following sortable link below:
 | **[EMBREY](https://www.embreydc.com/)** | **[Internship Program Class of 2026](https://jobright.ai/jobs/info/68d23f2c17554c2d9eee5f98?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Sep 22 |
 | **[Coca-Cola Bottling Company UNITED, Inc.](https://cocacolaunited.com/)** | **[Intern - Student Internship Program](https://jobright.ai/jobs/info/68d1975b8c62e63bc7fcd16d?utm_campaign=1057&utm_source=git)** | Birmingham, AL | On Site | Sep 22 |
 | **[Clark National Accounts](https://www.clarknationalaccounts.com/)** | **[Training & Development Intern - (Spring 2026)](https://jobright.ai/jobs/info/68d196dccece431f8b585803?utm_campaign=1057&utm_source=git)** | Lititz, PA | Hybrid | Sep 22 |
-| **[University of South Florida](http://www.usf.edu)** | **[Student Asst - FWS](https://jobright.ai/jobs/info/68d19634cece431f8b585764?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Sep 22 |
-| **[Fidelity Investments](https://www.fidelity.com)** | **[Summer 2026 Undergraduate Internship - Actuary](https://jobright.ai/jobs/info/68d1956a17554c2d9eedce96?utm_campaign=1057&utm_source=git)** | Roanoke, TX | Hybrid | Sep 22 |
-| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) SS&M LE - Learning & Knowledge Management Summer Intern - TN](https://jobright.ai/jobs/info/68d1956817554c2d9eedce93?utm_campaign=1057&utm_source=git)** | Chattanooga, TN | On Site | Sep 22 |
-| **[CPL](https://cplteam.com/locations)** | **[Internship Interest Application - University Buffalo](https://jobright.ai/jobs/info/68d1d65da54edb3bf3e1695f?utm_campaign=1057&utm_source=git)** | Buffalo, NY | On Site | Sep 22 |
-| **[HAI Group](https://www.housingcenter.com/)** | **[Online Training Solution Specialist Intern](https://jobright.ai/jobs/info/68d1da57a54edb3bf3e16a83?utm_campaign=1057&utm_source=git)** | Cheshire, CT | On Site | Sep 22 |
-| **[O&G Industries, Inc.](http://ogind.com)** | **[Roger Williams University - Architecture, Construction, Engineering and Real Estate Career Fair](https://jobright.ai/jobs/info/68d18b9a8c62e63bc7fcc882?utm_campaign=1057&utm_source=git)** | Torrington, CT | On Site | Sep 22 |
-| **[Orika Academy](https://www.linkedin.com/company/108419132)** | **[Paid Interview Opportunity for Students Preparing for Standardized Tests](https://jobright.ai/jobs/info/68d18b6dfa731f61692e045e?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Sep 22 |
-| **[Lake Region State College](http://www.lrsc.edu)** | **[PT Administrative Assistant  TRiO/Student Success](https://jobright.ai/jobs/info/68d18a10fa731f61692e02cc?utm_campaign=1057&utm_source=git)** | Devils Lake, ND | On Site | Sep 22 |
-| **[University of Michigan](https://www.umich.edu)** | **[Dearborn Support Program Assistant](https://jobright.ai/jobs/info/68c9f865f61c922772a7170a?utm_campaign=1057&utm_source=git)** | Dearborn, MI | On Site | Sep 22 |
+| **[AAM - American Axle & Manufacturing](http://aam.com)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/68d196ac8c62e63bc7fcd0a3?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
