@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Benedictine University](http://www.ben.edu/)** | **[Undergrad Student Employee - Office of Admissions](https://jobright.ai/jobs/info/68d26835a54edb3bf3e1dfae?utm_campaign=1057&utm_source=git)** | Lisle, IL | On Site | Sep 23 |
+| **[State of Tennessee](https://www.tn.gov/)** | **[DHS VOCATIONAL TRAINING ASSISTANT - 09232025-71431](https://jobright.ai/jobs/info/68d25a95a54edb3bf3e1db69?utm_campaign=1057&utm_source=git)** | Rutherford County, TN | On Site | Sep 23 |
+| **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[**Internal Only**Associate Dean - College of Liberal Arts & Sciences](https://jobright.ai/jobs/info/68d254d217554c2d9eee7174?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Sep 23 |
+| ↳ | **[Business Professional Development Program Student Peer Mentor](https://jobright.ai/jobs/info/68d2520317554c2d9eee6f0e?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Sep 23 |
 | **[Youth Villages](http://www.youthvillages.org)** | **[Spring 2026 - Masters Level Paid Internship](https://jobright.ai/jobs/info/68d24b1aa54edb3bf3e1d0c5?utm_campaign=1057&utm_source=git)** | Tulsa, OK | On Site | Sep 23 |
 | **[Tennessee Department of Human Services](https://www.tn.gov/humanservices.html)** | **[DHS VOCATIONAL TRAINING ASSISTANT - 09232025-71431](https://jobright.ai/jobs/info/68d24aa2a54edb3bf3e1d045?utm_campaign=1057&utm_source=git)** | Rutherford County, TN | On Site | Sep 23 |
+| **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Undergraduate Student Research Assistant](https://jobright.ai/jobs/info/68d260e7a54edb3bf3e1dd7c?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Sep 22 |
 | **[Pathful Inc.](https://www.pathful.com/)** | **[Volunteer Virtual Classroom Speaker _ U.S. Only (Student Presentations)](https://jobright.ai/jobs/info/68d2336b17554c2d9eee548f?utm_campaign=1057&utm_source=git)** | United States | Remote | Sep 22 |
 | **[Casa Central](https://www.casacentral.org)** | **[Adult Wellness Center Intern (Unpaid)](https://jobright.ai/jobs/info/68d22f92a54edb3bf3e1be4c?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Sep 22 |
 | ↳ | **[La Posada Intern (Unpaid)](https://jobright.ai/jobs/info/68d226b317554c2d9eee4bf8?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Sep 22 |
@@ -124,7 +129,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Targeted Interns](https://jobright.ai/jobs/info/68d1a1e017554c2d9eeddbda?utm_campaign=1057&utm_source=git)** | Durham, NC | Hybrid | Sep 22 |
 | ↳ | **[2026 Targeted Interns](https://jobright.ai/jobs/info/68d1a0398c62e63bc7fcd9e9?utm_campaign=1057&utm_source=git)** | Covington, KY | Hybrid | Sep 22 |
 | ↳ | **[2026 Targeted Interns](https://jobright.ai/jobs/info/68d19f82cece431f8b585f3c?utm_campaign=1057&utm_source=git)** | Greenwood Village, CO | Hybrid | Sep 22 |
-| ↳ | **[Summer 2026 Undergraduate Internship - Corporate Services Support](https://jobright.ai/jobs/info/68d19f708c62e63bc7fcd849?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | Sep 22 |
 | ↳ | **[2026 Targeted Interns](https://jobright.ai/jobs/info/68d19eef8c62e63bc7fcd72a?utm_campaign=1057&utm_source=git)** | Merrimack, NH | Hybrid | Sep 22 |
 | **[Federal Reserve Bank of St. Louis](http://www.stlouisfed.org)** | **[Instructional Design 2026 Internships](https://jobright.ai/jobs/info/68d19ee7cece431f8b585de4?utm_campaign=1057&utm_source=git)** | St Louis, MO | Hybrid | Sep 22 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[2026 Targeted Interns](https://jobright.ai/jobs/info/68d19ebecece431f8b585d87?utm_campaign=1057&utm_source=git)** | Jersey City, NJ | Hybrid | Sep 22 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Orika Academy](https://www.linkedin.com/company/108419132)** | **[Paid Interview Opportunity for Students Preparing for Standardized Tests](https://jobright.ai/jobs/info/68d18b6dfa731f61692e045e?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Sep 22 |
 | **[Lake Region State College](http://www.lrsc.edu)** | **[PT Administrative Assistant  TRiO/Student Success](https://jobright.ai/jobs/info/68d18a10fa731f61692e02cc?utm_campaign=1057&utm_source=git)** | Devils Lake, ND | On Site | Sep 22 |
 | **[University of Michigan](https://www.umich.edu)** | **[Dearborn Support Program Assistant](https://jobright.ai/jobs/info/68c9f865f61c922772a7170a?utm_campaign=1057&utm_source=git)** | Dearborn, MI | On Site | Sep 22 |
-| **[The Henry Ford](http://www.thehenryford.org/)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/68d18928fa731f61692e01af?utm_campaign=1057&utm_source=git)** | Dearborn, MI | On Site | Sep 22 |
-| **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/68d181a38c62e63bc7fcc0ce?utm_campaign=1057&utm_source=git)** | Dayton, OH | On Site | Sep 22 |
-| **[Center for Social Dynamics](https://csdautismservices.com)** | **[Clinical Leader Intern - Vallejo](https://jobright.ai/jobs/info/68d1bb1f8c62e63bc7fcf294?utm_campaign=1057&utm_source=git)** | Vallejo, CA | On Site | Sep 22 |
-| **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/68d17ff88c62e63bc7fcbf0e?utm_campaign=1057&utm_source=git)** | Maple Grove, MN | On Site | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
