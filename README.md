@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pathful Inc.](https://www.pathful.com/)** | **[Volunteer Virtual Classroom Speaker _ U.S. Only (Student Presentations)](https://jobright.ai/jobs/info/68d2336b17554c2d9eee548f?utm_campaign=1057&utm_source=git)** | United States | Remote | Sep 22 |
+| **[Casa Central](https://www.casacentral.org)** | **[Adult Wellness Center Intern (Unpaid)](https://jobright.ai/jobs/info/68d22f92a54edb3bf3e1be4c?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Sep 22 |
+| ↳ | **[La Posada Intern (Unpaid)](https://jobright.ai/jobs/info/68d226b317554c2d9eee4bf8?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Sep 22 |
+| **[Girl Scouts of Hawaiʻi](http://www.gshawaii.org)** | **[Girl Scouts Intern (Honolulu)](https://jobright.ai/jobs/info/68d222e717554c2d9eee483f?utm_campaign=1057&utm_source=git)** | Honolulu, HI | Hybrid | Sep 22 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[F99456 Assistant Professor, Marketing, Tahlequah](https://jobright.ai/jobs/info/68d20f8aa54edb3bf3e19234?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Sep 22 |
 | **[Oracle](https://www.oracle.com/)** | **[PhD Research Assistant - Oracle Health & Analytics](https://jobright.ai/jobs/info/68d20360a54edb3bf3e18bcf?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Sep 22 |
 | **[Road to Hire](https://www.roadtohire.org)** | **[Program Manager, Student Success Hub / Road to Hire](https://jobright.ai/jobs/info/68d202c2a54edb3bf3e18b2d?utm_campaign=1057&utm_source=git)** | Charlotte, NC | Hybrid | Sep 22 |
@@ -73,6 +77,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Technology Summer Internship](https://jobright.ai/jobs/info/68d1fc5517554c2d9eee1ec9?utm_campaign=1057&utm_source=git)** | Jersey City | On Site | Sep 22 |
 | ↳ | **[2026 Technology Summer Internship](https://jobright.ai/jobs/info/68d1fc33a54edb3bf3e1867b?utm_campaign=1057&utm_source=git)** | Boston | On Site | Sep 22 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Naturalist (Summer)](https://jobright.ai/jobs/info/68d1fc0da54edb3bf3e18636?utm_campaign=1057&utm_source=git)** | Yankton, SD | On Site | Sep 22 |
+| **[Metropolitan State University of Denver](http://www.msudenver.edu)** | **[Internship Coordinator](https://jobright.ai/jobs/info/68cf1080dbd9fb154ede4cf8?utm_campaign=1057&utm_source=git)** | Denver, CO | Hybrid | Sep 22 |
 | **[American University](http://american.edu)** | **[Program Assistant - Academic LLCs (Student)](https://jobright.ai/jobs/info/68d1f325a54edb3bf3e17d93?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Sep 22 |
 | **[Civil & Environmental Consultants, Inc.](https://www.cecinc.com)** | **[Intern (Summer 2026)](https://jobright.ai/jobs/info/68d1f2818c62e63bc7fd17e1?utm_campaign=1057&utm_source=git)** | Bridgeport, WV | On Site | Sep 22 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Naturalist/ Program Coordinator (Summer)](https://jobright.ai/jobs/info/68d1eeef17554c2d9eee13a7?utm_campaign=1057&utm_source=git)** | Madison, SD | On Site | Sep 22 |
@@ -80,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP Student Training and Rotation (STAR) Program -Corporate Marketing [Bellevue]](https://jobright.ai/jobs/info/68d1e0588c62e63bc7fd08ac?utm_campaign=1057&utm_source=git)** | Bellevue, WA | Hybrid | Sep 22 |
 | **[BOK Financial](https://www.bokfinancial.com)** | **[Corporate Real Estate Intern - Summer 2026 (Tulsa, OK)](https://jobright.ai/jobs/info/68d1deb88c62e63bc7fd0625?utm_campaign=1057&utm_source=git)** | Tulsa, OK | On Site | Sep 22 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern Undergraduate - Anes Research - Temporary](https://jobright.ai/jobs/info/68d1dea38c62e63bc7fd05f9?utm_campaign=1057&utm_source=git)** | Rochester, MN | On Site | Sep 22 |
+| **[Morningstar](http://www.morningstar.com/)** | **[Morningstar Summer Tech Internship Program (Campus)](https://jobright.ai/jobs/info/68cf5b62846f0b04af6817d0?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Sep 22 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Undergraduate Research Assistant - Fuller](https://jobright.ai/jobs/info/68d1dc10a54edb3bf3e16c6d?utm_campaign=1057&utm_source=git)** | Athens, GA | On Site | Sep 22 |
 | **[NCYBER](http://ncyber.com)** | **[Summer Internship](https://jobright.ai/jobs/info/68d1db0917554c2d9eee0307?utm_campaign=1057&utm_source=git)** | Columbia, MD | On Site | Sep 22 |
 | **[Stoneridge](http://www.stoneridge.com)** | **[Case Western Reserve University - Fall Career Fair 2025](https://jobright.ai/jobs/info/68d1da538c62e63bc7fd0302?utm_campaign=1057&utm_source=git)** | Detroit Metro | Hybrid | Sep 22 |
@@ -117,6 +123,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Targeted Interns](https://jobright.ai/jobs/info/68d1a1e017554c2d9eeddbda?utm_campaign=1057&utm_source=git)** | Durham, NC | Hybrid | Sep 22 |
 | ↳ | **[2026 Targeted Interns](https://jobright.ai/jobs/info/68d1a0398c62e63bc7fcd9e9?utm_campaign=1057&utm_source=git)** | Covington, KY | Hybrid | Sep 22 |
 | ↳ | **[2026 Targeted Interns](https://jobright.ai/jobs/info/68d19f82cece431f8b585f3c?utm_campaign=1057&utm_source=git)** | Greenwood Village, CO | Hybrid | Sep 22 |
+| ↳ | **[Summer 2026 Undergraduate Internship - Corporate Services Support](https://jobright.ai/jobs/info/68d19f708c62e63bc7fcd849?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | Sep 22 |
 | ↳ | **[2026 Targeted Interns](https://jobright.ai/jobs/info/68d19eef8c62e63bc7fcd72a?utm_campaign=1057&utm_source=git)** | Merrimack, NH | Hybrid | Sep 22 |
 | **[Federal Reserve Bank of St. Louis](http://www.stlouisfed.org)** | **[Instructional Design 2026 Internships](https://jobright.ai/jobs/info/68d19ee7cece431f8b585de4?utm_campaign=1057&utm_source=git)** | St Louis, MO | Hybrid | Sep 22 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[2026 Targeted Interns](https://jobright.ai/jobs/info/68d19ebecece431f8b585d87?utm_campaign=1057&utm_source=git)** | Jersey City, NJ | Hybrid | Sep 22 |
@@ -144,17 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Lake Region State College](http://www.lrsc.edu)** | **[PT Administrative Assistant  TRiO/Student Success](https://jobright.ai/jobs/info/68d18a10fa731f61692e02cc?utm_campaign=1057&utm_source=git)** | Devils Lake, ND | On Site | Sep 22 |
 | **[University of Michigan](https://www.umich.edu)** | **[Dearborn Support Program Assistant](https://jobright.ai/jobs/info/68c9f865f61c922772a7170a?utm_campaign=1057&utm_source=git)** | Dearborn, MI | On Site | Sep 22 |
 | **[The Henry Ford](http://www.thehenryford.org/)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/68d18928fa731f61692e01af?utm_campaign=1057&utm_source=git)** | Dearborn, MI | On Site | Sep 22 |
+| **[Ahold Delhaize USA](https://www.adusa.com)** | **[In Stock Intern](https://jobright.ai/jobs/info/68d1bbba8c62e63bc7fcf357?utm_campaign=1057&utm_source=git)** | Carlisle, PA | Hybrid | Sep 22 |
 | **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/68d181a38c62e63bc7fcc0ce?utm_campaign=1057&utm_source=git)** | Dayton, OH | On Site | Sep 22 |
 | **[Center for Social Dynamics](https://csdautismservices.com)** | **[Clinical Leader Intern - Vallejo](https://jobright.ai/jobs/info/68d1bb1f8c62e63bc7fcf294?utm_campaign=1057&utm_source=git)** | Vallejo, CA | On Site | Sep 22 |
 | **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/68d17ff88c62e63bc7fcbf0e?utm_campaign=1057&utm_source=git)** | Maple Grove, MN | On Site | Sep 22 |
 | **[Dallas College](https://www.dcccd.edu)** | **[Administrative Support - Student Assistant - Fitness Center - Brookhaven 3](https://jobright.ai/jobs/info/68d17d218c62e63bc7fcbd1a?utm_campaign=1057&utm_source=git)** | Brookhaven Campus | On Site | Sep 22 |
 | **[The American Academy of Diplomacy](https://www.academyofdiplomacy.org/)** | **[Student Intern](https://jobright.ai/jobs/info/68d17317cece431f8b583e78?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Sep 22 |
-| **[Botany and Plant Pathology Department at Purdue University](https://ag.purdue.edu/btny/Pages/default.aspx)** | **[Fall University Residences - Student Office Staff (SOS) - Student Clerical](https://jobright.ai/jobs/info/68d170bd8c62e63bc7fcb4b4?utm_campaign=1057&utm_source=git)** | West Lafayette, IN | On Site | Sep 22 |
-| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/68d16fd9fa731f61692deec0?utm_campaign=1057&utm_source=git)** | Racine, WI | Remote | Sep 22 |
-| **[County of San Diego](http://www.sdcounty.ca.gov)** | **[Student Worker-19090504-Undergraduate, Graduate/Tech and High School](https://jobright.ai/jobs/info/68d16e37fa731f61692dec5f?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Sep 22 |
-| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[College of the Arts, Graduation Specialist (Student Services Professional III)](https://jobright.ai/jobs/info/68d169bdcece431f8b583892?utm_campaign=1057&utm_source=git)** | Fullerton, CA | On Site | Sep 22 |
-| ↳ | **[Assistant Professor of International Business](https://jobright.ai/jobs/info/68d163d6cece431f8b583750?utm_campaign=1057&utm_source=git)** | Poughkeepsie, NY | On Site | Sep 22 |
-| **[American Express](http://www.americanexpress.com)** | **[Campus Graduate Summer Internship Program - 2026 Enterprise Program Management Office, American Express National Bank - New York, NY](https://jobright.ai/jobs/info/68cd08811ad6b16f0289355c?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Sep 22 |
-| **[APCO](http://www.apcoworldwide.com)** | **[Learning & Development Internship - Winter/Spring '26](https://jobright.ai/jobs/info/68d160068c62e63bc7fcac02?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Sep 22 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Instructional Design 2026 Internships](https://jobright.ai/jobs/info/68d15fbfcece431f8b5832ad?utm_campaign=1057&utm_source=git)** | St. Louis, MO | Hybrid | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
