@@ -57,11 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tacoma Community College](http://www.tacomacc.edu/)** | **[Student Programming, Government and Ambassadors](https://jobright.ai/jobs/info/68d3b72e952b4a32e23d8c0b?utm_campaign=1057&utm_source=git)** | Tacoma, WA | On Site | Sep 24 |
+| **[CALVERT COUNTY PUBLIC SCHOOLS](https://www.calvertnet.k12.md.us)** | **[SMS: Career Advisor (Job ID# 3337)](https://jobright.ai/jobs/info/68d3b70c17554c2d9eef458a?utm_campaign=1057&utm_source=git)** | Lusby, MD | On Site | Sep 24 |
+| **[PEAK6](https://www.peak6.com)** | **[Trading Bootcamp Micro-Internship - Summer 2026](https://jobright.ai/jobs/info/68d3ae37952b4a32e23d8849?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Sep 24 |
+| **[Prince William County Public Schools](https://marstellerms.pwcs.edu)** | **[ELEMENTARY SCHOOL ADMINISTRATIVE INTERN - 200 DAY](https://jobright.ai/jobs/info/68d39c208c62e63bc7fe372a?utm_campaign=1057&utm_source=git)** | Manassas, VA | On Site | Sep 24 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Assistant Program Director, Student Publications](https://jobright.ai/jobs/info/68d396af952b4a32e23d77b4?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Sep 23 |
+| ↳ | **[Student Assistant](https://jobright.ai/jobs/info/68d395e48c62e63bc7fe31aa?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Sep 23 |
+| ↳ | **[Neuro Cardio - APP - Internal Medicine](https://jobright.ai/jobs/info/68d391c117554c2d9eef2e03?utm_campaign=1057&utm_source=git)** | Florida, United States | On Site | Sep 23 |
+| **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/68d3901e17554c2d9eef2ae7?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Sep 23 |
+| **[Kyowa Kirin, Inc.- U.S.](https://kkna.kyowakirin.com/)** | **[Join the Kyowa Kirin Talent Community!](https://jobright.ai/jobs/info/68d38bf317554c2d9eef2957?utm_campaign=1057&utm_source=git)** | Princeton, NJ | On Site | Sep 23 |
+| **[Lockton Affinity](https://locktonaffinity.com/)** | **[Summer 2026 - Rotational Intern](https://jobright.ai/jobs/info/68d38a4b952b4a32e23d6d26?utm_campaign=1057&utm_source=git)** | Overland Park, KS | On Site | Sep 23 |
 | **[PNC](http://www.pnc.com)** | **[Asset Management Group Undergraduate Intern](https://jobright.ai/jobs/info/68d385ed952b4a32e23d6b29?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Sep 23 |
 | ↳ | **[Supply Chain Management Undergraduate Intern](https://jobright.ai/jobs/info/68d38129952b4a32e23d67a4?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Sep 23 |
+| **[Pathful Inc.](https://www.pathful.com/)** | **[Volunteer Virtual Classroom Speaker - U.S. Only (Student Presentations)](https://jobright.ai/jobs/info/68d3a6fe17554c2d9eef3f83?utm_campaign=1057&utm_source=git)** | United States | Remote | Sep 23 |
 | **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Asset Management Group Undergraduate Intern](https://jobright.ai/jobs/info/68d36af9f0d9af73038e21f7?utm_campaign=1057&utm_source=git)** | Orlando, FL | Remote | Sep 23 |
-| **[Breede Valley Municipality](https://www.breedevallei.gov.za)** | **[INTERNSHIP AND WORK INTEGRATED LEARNING OPPORTUNITY](https://jobright.ai/jobs/info/68d367838c62e63bc7fe097c?utm_campaign=1057&utm_source=git)** | Worcester, MA | On Site | Sep 23 |
-| ↳ | **[INTERNSHIP AND WORK INTEGRATED LEARNING OPPORTUNITY](https://jobright.ai/jobs/info/68d365c617554c2d9eef0cde?utm_campaign=1057&utm_source=git)** | Worcester, MA | On Site | Sep 23 |
+| **[Breede Valley Municipality](https://www.breedevallei.gov.za)** | **[INTERNSHIP AND WORK INTEGRATED LEARNING OPPORTUNITY](https://jobright.ai/jobs/info/68d367158c62e63bc7fe082e?utm_campaign=1057&utm_source=git)** | Worcester, MA | On Site | Sep 23 |
+| ↳ | **[INTERNSHIP AND WORK INTEGRATED LEARNING OPPORTUNITY](https://jobright.ai/jobs/info/68d366db8c62e63bc7fe079b?utm_campaign=1057&utm_source=git)** | Worcester, MA | On Site | Sep 23 |
 | ↳ | **[INTERNSHIP AND WORK INTEGRATED LEARNING OPPORTUNITY](https://jobright.ai/jobs/info/68d3650ef0d9af73038e1e0a?utm_campaign=1057&utm_source=git)** | Worcester, MA | On Site | Sep 23 |
 | **[Duke University](http://www.duke.edu)** | **[Non Duke Student Intern](https://jobright.ai/jobs/info/68d364c18c62e63bc7fe068b?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Sep 23 |
 | **[County of San Diego](http://www.sdcounty.ca.gov)** | **[Student Worker-19090504-Undergraduate, Graduate/Tech and High School](https://jobright.ai/jobs/info/68d360a4f0d9af73038e1ad8?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Sep 23 |
@@ -70,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Student Intern Research Assistant I](https://jobright.ai/jobs/info/68d352e4f0d9af73038e108f?utm_campaign=1057&utm_source=git)** | Brookline, MA | On Site | Sep 23 |
 | **[Lennox](http://www.lennox.com)** | **[2026 IT Educational Analyst Intern](https://jobright.ai/jobs/info/68d34d42f0d9af73038e0dde?utm_campaign=1057&utm_source=git)** | Richardson, TX | On Site | Sep 23 |
 | **[YMCA of Metropolitan Fort Worth](http://www.ymcafw.org)** | **[Keller ISD Intern - Kinesiology](https://jobright.ai/jobs/info/68d349358c62e63bc7fdf5cc?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Sep 23 |
-| **[Goodwyn Mills Cawood (GMC)](http://www.gmcnetwork.com/)** | **[Architecture Intern (Tuskegee University - Students)](https://jobright.ai/jobs/info/68d36d8e8c62e63bc7fe1117?utm_campaign=1057&utm_source=git)** | Auburn, AL | On Site | Sep 23 |
 | **[University of Kentucky](https://ukhealthcare.uky.edu/markey-cancer-center)** | **[Psychology Post-Doctoral Scholar](https://jobright.ai/jobs/info/68d344e617554c2d9eeef586?utm_campaign=1057&utm_source=git)** | Greater Lexington Area | On Site | Sep 23 |
 | **[Friona Industries LP](https://www.frionaindustries.com/)** | **[2026 Summer Internship- WT Students](https://jobright.ai/jobs/info/68d3440117554c2d9eeef391?utm_campaign=1057&utm_source=git)** | Amarillo, TX | On Site | Sep 23 |
 | **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[2026 IT Educational Analyst Intern](https://jobright.ai/jobs/info/68d343f0f0d9af73038e0802?utm_campaign=1057&utm_source=git)** | US-TX-Richardson | On Site | Sep 23 |
@@ -80,6 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2026 Summer Internship-Mt Pleasant, PA](https://jobright.ai/jobs/info/68d3385df0d9af73038dff3a?utm_campaign=1057&utm_source=git)** | Mount Pleasant, PA | On Site | Sep 23 |
 | **[Promega Corporation ](http://www.promega.com/es)** | **[GI Instructional Design Intern](https://jobright.ai/jobs/info/68d3375017554c2d9eeeec09?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Sep 23 |
 | **[Ascendigo Autism Services](https://www.ascendigo.org/)** | **[Therapeutic Recreation Internship Program](https://jobright.ai/jobs/info/68d3372117554c2d9eeeebdf?utm_campaign=1057&utm_source=git)** | Carbondale, CO | Hybrid | Sep 23 |
+| **[North Star Behavioral Health](https://northstarbehavioral.com)** | **[Clinical Services Therapist Internship](https://jobright.ai/jobs/info/68d3988a8c62e63bc7fe35f7?utm_campaign=1057&utm_source=git)** | LOUISVILLE, Kentucky | On Site | Sep 23 |
+| **[UHS](https://uhs.com)** | **[Clinical Services Therapist Internship](https://jobright.ai/jobs/info/68d39b5b8c62e63bc7fe363e?utm_campaign=1057&utm_source=git)** | LOUISVILLE, Kentucky | On Site | Sep 23 |
 | **[Centene Corporation](http://www.centene.com)** | **[MPS Curriculum Design Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68d3333b8c62e63bc7fde92f?utm_campaign=1057&utm_source=git)** | Michigan, United States | Remote | Sep 23 |
 | ↳ | **[MPS Curriculum Design Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68d3333017554c2d9eeeeac4?utm_campaign=1057&utm_source=git)** | South Dakota, United States | Remote | Sep 23 |
 | ↳ | **[MPS Curriculum Design Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68d35ad0f0d9af73038e1552?utm_campaign=1057&utm_source=git)** | Cass County, ND | On Site | Sep 23 |
@@ -94,22 +106,21 @@ For a complete list, click the following sortable link below:
 | ↳ | **[MPS Curriculum Design Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68d36b9ff0d9af73038e22c1?utm_campaign=1057&utm_source=git)** | Nashville Metro | On Site | Sep 23 |
 | ↳ | **[MPS Curriculum Design Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68d36c95f0d9af73038e23c2?utm_campaign=1057&utm_source=git)** | West Virginia, United States | On Site | Sep 23 |
 | **[Security Benefit](https://securitybenefit.com)** | **[Intern - Teacher](https://jobright.ai/jobs/info/68d32cd0f0d9af73038df8fa?utm_campaign=1057&utm_source=git)** | Topeka, KS | On Site | Sep 23 |
-| **[Goodwill Industries of Greater New York and Northern New Jersey](https://www.goodwillnynj.org/)** | **[Intern, Seamark PROS](https://jobright.ai/jobs/info/68d36c0df0d9af73038e233a?utm_campaign=1057&utm_source=git)** | NYC Metro Area | On Site | Sep 23 |
 | **[Health Connect America](https://healthconnectamerica.com)** | **[Georgia Intern Therapist - Master's Level](https://jobright.ai/jobs/info/68d32ae617554c2d9eeee509?utm_campaign=1057&utm_source=git)** | Statesboro, GA | On Site | Sep 23 |
-| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/68d329898c62e63bc7fde4a4?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Sep 23 |
+| **[Hawaii Pacific Health](https://www.hawaiipacifichealth.org/straub/)** | **[Student Intern - Population Outreach](https://jobright.ai/jobs/info/68d3a6c0952b4a32e23d856a?utm_campaign=1057&utm_source=git)** | Honolulu, HI | On Site | Sep 23 |
 | **[Centene Corporation](http://www.centene.com)** | **[MPS Curriculum Design Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68d322f5f0d9af73038df56b?utm_campaign=1057&utm_source=git)** | Remote-NE | Remote | Sep 23 |
-| ↳ | **[MPS Curriculum Design Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68d322dd17554c2d9eeee2a8?utm_campaign=1057&utm_source=git)** | Remote-MA | Remote | Sep 23 |
 | ↳ | **[MPS Curriculum Design Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68d322ddf0d9af73038df530?utm_campaign=1057&utm_source=git)** | Remote-LA | Remote | Sep 23 |
+| ↳ | **[MPS Curriculum Design Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68d322dd17554c2d9eeee2a8?utm_campaign=1057&utm_source=git)** | Remote-MA | Remote | Sep 23 |
 | ↳ | **[MPS Curriculum Design Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68d322d18c62e63bc7fde107?utm_campaign=1057&utm_source=git)** | Remote-AL | Remote | Sep 23 |
 | ↳ | **[MPS Curriculum Design Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68d322c5f0d9af73038df509?utm_campaign=1057&utm_source=git)** | Remote-PR | Remote | Sep 23 |
 | ↳ | **[MPS Curriculum Design Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68d322c217554c2d9eeee28f?utm_campaign=1057&utm_source=git)** | Remote-AZ | Remote | Sep 23 |
 | ↳ | **[MPS Curriculum Design Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68d322c217554c2d9eeee28e?utm_campaign=1057&utm_source=git)** | Remote-TX | Remote | Sep 23 |
 | ↳ | **[MPS Curriculum Design Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68d322bf17554c2d9eeee288?utm_campaign=1057&utm_source=git)** | Remote-IN | Remote | Sep 23 |
 | ↳ | **[MPS Curriculum Design Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68d322b08c62e63bc7fde0bc?utm_campaign=1057&utm_source=git)** | Remote-MS | Remote | Sep 23 |
-| ↳ | **[MPS Curriculum Design Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68d322a68c62e63bc7fde0a9?utm_campaign=1057&utm_source=git)** | Remote-MI | Remote | Sep 23 |
-| ↳ | **[MPS Curriculum Design Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68d322a68c62e63bc7fde0a8?utm_campaign=1057&utm_source=git)** | Remote-GA | Remote | Sep 23 |
 | ↳ | **[MPS Curriculum Design Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68d322a68c62e63bc7fde0a6?utm_campaign=1057&utm_source=git)** | Remote-KS | Remote | Sep 23 |
+| ↳ | **[MPS Curriculum Design Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68d322a68c62e63bc7fde0a8?utm_campaign=1057&utm_source=git)** | Remote-GA | Remote | Sep 23 |
 | ↳ | **[MPS Curriculum Design Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68d322a68c62e63bc7fde0a7?utm_campaign=1057&utm_source=git)** | Remote-WY | Remote | Sep 23 |
+| ↳ | **[MPS Curriculum Design Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68d322a68c62e63bc7fde0a9?utm_campaign=1057&utm_source=git)** | Remote-MI | Remote | Sep 23 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2026 Summer Internship-Mt Pleasant, PA](https://jobright.ai/jobs/info/68d3228917554c2d9eeee24f?utm_campaign=1057&utm_source=git)** | Mount Pleasant, Pennsylvania, United States of America | On Site | Sep 23 |
 | **[Centene Corporation](http://www.centene.com)** | **[MPS Curriculum Design Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68d32289f0d9af73038df49e?utm_campaign=1057&utm_source=git)** | Remote-SD | Remote | Sep 23 |
 | ↳ | **[MPS Curriculum Design Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68d32285f0d9af73038df493?utm_campaign=1057&utm_source=git)** | Remote-AR | Remote | Sep 23 |
@@ -136,8 +147,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[MPS Curriculum Design Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68d321f78c62e63bc7fddf53?utm_campaign=1057&utm_source=git)** | Remote-CO | Remote | Sep 23 |
 | ↳ | **[MPS Curriculum Design Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68d321ee17554c2d9eeee196?utm_campaign=1057&utm_source=git)** | Remote-OK | Remote | Sep 23 |
 | ↳ | **[MPS Curriculum Design Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68d321d417554c2d9eeee16f?utm_campaign=1057&utm_source=git)** | Remote-AK | Remote | Sep 23 |
-| ↳ | **[MPS Curriculum Design Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68d321cf17554c2d9eeee165?utm_campaign=1057&utm_source=git)** | Remote-NC | Remote | Sep 23 |
 | ↳ | **[MPS Curriculum Design Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68d321cf17554c2d9eeee166?utm_campaign=1057&utm_source=git)** | Remote-WI | Remote | Sep 23 |
+| ↳ | **[MPS Curriculum Design Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68d321cf17554c2d9eeee165?utm_campaign=1057&utm_source=git)** | Remote-NC | Remote | Sep 23 |
 | ↳ | **[MPS Curriculum Design Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68d321c78c62e63bc7fddf01?utm_campaign=1057&utm_source=git)** | Remote-WV | Remote | Sep 23 |
 | ↳ | **[MPS Curriculum Design Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68d321c317554c2d9eeee14e?utm_campaign=1057&utm_source=git)** | Remote-RI | Remote | Sep 23 |
 | ↳ | **[MPS Curriculum Design Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68d321c317554c2d9eeee14f?utm_campaign=1057&utm_source=git)** | Remote-DC | Remote | Sep 23 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[MPS Curriculum Design Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68d321b6f0d9af73038df338?utm_campaign=1057&utm_source=git)** | Remote-OH | Remote | Sep 23 |
 | ↳ | **[MPS Curriculum Design Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68d321a9f0d9af73038df325?utm_campaign=1057&utm_source=git)** | Remote-HI | Remote | Sep 23 |
 | ↳ | **[MPS Curriculum Design Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68d321a617554c2d9eeee11e?utm_campaign=1057&utm_source=git)** | Remote-IA | Remote | Sep 23 |
-| ↳ | **[MPS Curriculum Design Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68d3219b17554c2d9eeee115?utm_campaign=1057&utm_source=git)** | Remote-VT | Remote | Sep 23 |
-| ↳ | **[MPS Curriculum Design Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68d321988c62e63bc7fddebd?utm_campaign=1057&utm_source=git)** | Remote-ID | Remote | Sep 23 |
-| **[Gannon University](http://www.gannon.edu/)** | **[Assistant Teaching Professor and Program Director, Mortuary Science](https://jobright.ai/jobs/info/68d315ddf0d9af73038def28?utm_campaign=1057&utm_source=git)** | Erie, PA | On Site | Sep 23 |
-| **[Wise Pirates](https://wisepirates.com)** | **[Internship Program 2025/26](https://jobright.ai/jobs/info/68d3142b17554c2d9eeedbda?utm_campaign=1057&utm_source=git)** | Allen, TX | On Site | Sep 23 |
-| **[International Council for Refugees and Immigrants](http://icrius.org)** | **[ICRI ELL Internship Program - Group Instructor](https://jobright.ai/jobs/info/68d3113cf0d9af73038decaa?utm_campaign=1057&utm_source=git)** | Omaha, NE | Hybrid | Sep 23 |
-| **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Wellness Intern - Spring 2026](https://jobright.ai/jobs/info/68d310baf0d9af73038dec21?utm_campaign=1057&utm_source=git)** | West Des Moines, IA | On Site | Sep 23 |
-| **[Saint Xavier University](http://www.sxu.edu/)** | **[Records and Registration Clerical - Student Employment](https://jobright.ai/jobs/info/68d30ef18c62e63bc7fdd589?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Sep 23 |
-| **[Frederick Health](https://www.frederickhealth.org/)** | **[Clinical Pastoral Education Intern](https://jobright.ai/jobs/info/68d30ed3f0d9af73038dea37?utm_campaign=1057&utm_source=git)** | Frederick, MD | On Site | Sep 23 |
-| **[Albion College](http://www.albion.edu/)** | **[Director of Student Engagement and Activities](https://jobright.ai/jobs/info/68d30ead17554c2d9eeed909?utm_campaign=1057&utm_source=git)** | Albion, MI | On Site | Sep 23 |
-| **[State of Missouri](http://mo.gov)** | **[Paid Intern](https://jobright.ai/jobs/info/68d30d7b8c62e63bc7fdd44c?utm_campaign=1057&utm_source=git)** | Kirksville, MO | On Site | Sep 23 |
-| **[Verizon](https://www.verizon.com)** | **[Alpharetta: V-Teamer for a Day 2025 Global Solutions Intern Program](https://jobright.ai/jobs/info/68d30cd517554c2d9eeed6b7?utm_campaign=1057&utm_source=git)** | Ashburn, VA | On Site | Sep 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
