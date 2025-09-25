@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State Street](http://www.statestreet.com)** | **[Tufts Fall 2025 In-Person Career Fair](https://jobright.ai/jobs/info/68d5742539247e3c807eb2e6?utm_campaign=1057&utm_source=git)** | Boston, Massachusetts | On Site | Sep 25 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Community Empowerment Volunteer in the Azores](https://jobright.ai/jobs/info/68d574061f7fb2169ab10297?utm_campaign=1057&utm_source=git)** | New Haven, CT | On Site | Sep 25 |
+| **[Travelers](https://www.travelers.com)** | **[Underwriting Internship (Summer 2026): Bond and Specialty Insurance](https://jobright.ai/jobs/info/68d573e539247e3c807eb242?utm_campaign=1057&utm_source=git)** | MN - St. Paul | Hybrid | Sep 25 |
+| **[California Department of State Hospitals](https://www.dsh.ca.gov/)** | **[STUDENT ASSISTANT](https://jobright.ai/jobs/info/68d56f5863d77d6f6f3ee8dc?utm_campaign=1057&utm_source=git)** | San Luis Obispo County, CA | On Site | Sep 25 |
 | **[Dallas College](https://www.dcccd.edu)** | **[SAS Programmer Intern-2](https://jobright.ai/jobs/info/68d561971f7fb2169ab0f781?utm_campaign=1057&utm_source=git)** | El Centro Campus | On Site | Sep 25 |
 | **[Embark Behavioral Health](https://www.embarkbh.com/)** | **[Clinical Intern](https://jobright.ai/jobs/info/68b8a60c5b42bc4562826a35?utm_campaign=1057&utm_source=git)** | Greeley, CO | On Site | Sep 25 |
 | **[Jordan's Furniture](http://www.jordans.com/)** | **[Learning and Development Summer Intern](https://jobright.ai/jobs/info/68d54cc91f7fb2169ab0ea42?utm_campaign=1057&utm_source=git)** | US-MA-East Taunton | On Site | Sep 25 |
@@ -64,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Year Up United](http://yearup.org)** | **[Software Development Career Training Opportunity](https://jobright.ai/jobs/info/68b65fd21ade4306aa6447b1?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Sep 25 |
 | **[Do it Best](http://www.doitbestcorp.com)** | **[Member Education Internship](https://jobright.ai/jobs/info/68b895ed07090163b6ba3174?utm_campaign=1057&utm_source=git)** | Fort Wayne, IN | On Site | Sep 25 |
 | **[BlockVerse Institute](https://www.blockverseinstitute.com/)** | **[Academy Operations Intern](https://jobright.ai/jobs/info/68d537aa39247e3c807e914b?utm_campaign=1057&utm_source=git)** | United States | Remote | Sep 25 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern/News](https://jobright.ai/jobs/info/682cdbd6a9f2e10b3d672138?utm_campaign=1057&utm_source=git)** | Panama City, FL | On Site | Sep 25 |
 | **[Ally](http://www.ally.com/)** | **[Summer 2026 Internship – Consumer Banking (Data and Analytics)](https://jobright.ai/jobs/info/68cb74b4ba798c1a501cfe70?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Sep 25 |
 | **[DESRI](https://desri.com/)** | **[Generalist Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd829a1ad6b16f0289aa71?utm_campaign=1057&utm_source=git)** | Greenwood Village, CO | On Site | Sep 25 |
 | **[Children's Hospital of Philadelphia](http://chop.edu)** | **[Neuromuscular Research Student Clinical Assistant](https://jobright.ai/jobs/info/68d51dd72ed36439e51e4db1?utm_campaign=1057&utm_source=git)** | Philadelphia Campus- Hub for Clinical Collaboration | On Site | Sep 25 |
@@ -133,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[Duke Department of Population Health Sciences](https://populationhealth.duke.edu/)** | **[Recreation and Physical Education HBCU Internship](https://jobright.ai/jobs/info/68d47892ffc1276de3fdb246?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Sep 24 |
 | **[Lee County Port Authority](http://flylcpa.com)** | **[2026 Internship](https://jobright.ai/jobs/info/68d46ca38c62e63bc7fe937c?utm_campaign=1057&utm_source=git)** | Fort Myers, FL | On Site | Sep 24 |
 | **[City of Newport News](https://nnva.gov)** | **[YOUTH PROGRAMS INTERN - SCHOOL AGE PROGRAMS](https://jobright.ai/jobs/info/68d46bb5ffc1276de3fdabbd?utm_campaign=1057&utm_source=git)** | Newport News, VA | On Site | Sep 24 |
-| **[City of Sioux City](https://www.sioux-city.org/)** | **[Student Internship (Neighborhood Services Division)](https://jobright.ai/jobs/info/68d46a7e77769e778f508d15?utm_campaign=1057&utm_source=git)** | Sioux City, IA | On Site | Sep 24 |
 | **[Harris County Attorney's Office](https://cao.harriscountytx.gov/)** | **[1L / 2L/ 3L -2026 Summer Academic Internship](https://jobright.ai/jobs/info/68d46a1977769e778f508cbd?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Sep 24 |
 | **[Johnson & Johnson MedTech](https://www.jnjmedicaldevices.com/)** | **[2026 Ortho Summer Intern - Education](https://jobright.ai/jobs/info/68d465798c62e63bc7fe8fd0?utm_campaign=1057&utm_source=git)** | West Chester, PA | Hybrid | Sep 24 |
 | **[Health First](https://hf.org/)** | **[Vocational Training Intern - Project Search](https://jobright.ai/jobs/info/68d4644977769e778f508841?utm_campaign=1057&utm_source=git)** | Melbourne, FL | On Site | Sep 24 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dartmouth College](http://dartmouth.edu)** | **[Men’s Rugby Strength & Conditioning Intern.](https://jobright.ai/jobs/info/68d44cd38c62e63bc7fe7e14?utm_campaign=1057&utm_source=git)** | Hanover, NH | On Site | Sep 24 |
 | **[SC Johnson](http://www.scjohnson.com)** | **[2026 TOPS Summer Internship Opportunity](https://jobright.ai/jobs/info/68d44c94ffc1276de3fd9810?utm_campaign=1057&utm_source=git)** | USA - WI - Racine | On Site | Sep 24 |
 | **[Johnson & Johnson MedTech](https://www.jnjmedicaldevices.com/)** | **[2026 Ortho Summer Intern - Education](https://jobright.ai/jobs/info/68d44b4a17554c2d9eef8148?utm_campaign=1057&utm_source=git)** | Raynham, MA | Hybrid | Sep 24 |
-| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d44b27ffc1276de3fd9786?utm_campaign=1057&utm_source=git)** | North Charleston, SC | On Site | Sep 24 |
-| **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[Adult Public Programs Intern: Spring 2026](https://jobright.ai/jobs/info/68d471d28c62e63bc7fe9578?utm_campaign=1057&utm_source=git)** | Bentonville, AR | On Site | Sep 24 |
-| ↳ | **[Inclusion and Belonging Intern: Spring 2026](https://jobright.ai/jobs/info/68d473138c62e63bc7fe96bf?utm_campaign=1057&utm_source=git)** | Bentonville, AR | On Site | Sep 24 |
-| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d44ae2ffc1276de3fd9743?utm_campaign=1057&utm_source=git)** | Maumee, OH | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
