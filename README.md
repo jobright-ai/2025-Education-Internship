@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xavier University](http://www.xavier.edu/)** | **[Teaching Professor of 3D Animation & Immersive Game Design 997855](https://jobright.ai/jobs/info/68d67074d3fe025a30159e7c?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Sep 26 |
+| **[The City University of New York](http://www.cuny.edu)** | **[Associate Director (Enrollment Manager) - International Student Services](https://jobright.ai/jobs/info/68d66f0f894705799a2eb9ac?utm_campaign=1057&utm_source=git)** | Queens, NY | On Site | Sep 26 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - eLearning Producer](https://jobright.ai/jobs/info/68c915a4a0c52d598ea35526?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Sep 26 |
 | ↳ | **[Intern - eLearning Producer](https://jobright.ai/jobs/info/68cc5c68128dc347fd9237e0?utm_campaign=1057&utm_source=git)** | Burlington, NC | On Site | Sep 26 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[INTERN-PAID EDUC STUDENT - Lancaster - Sahota](https://jobright.ai/jobs/info/68d65e2debcef82ef5cfa175?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Sep 26 |
@@ -84,7 +86,8 @@ For a complete list, click the following sortable link below:
 | **[Zel Technologies LLC](https://www.zeltech.com/)** | **[Florida Tech All Majors Career Fair](https://jobright.ai/jobs/info/68d624efebcef82ef5cf6a6e?utm_campaign=1057&utm_source=git)** | Melbourne, FL | On Site | Sep 25 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d61ebd57a2ca5cf160b8d9?utm_campaign=1057&utm_source=git)** | Lewisville, TX | On Site | Sep 25 |
 | **[Indianapolis Public Schools](https://myips.org/)** | **[School Psychologist Intern (2026-2027)](https://jobright.ai/jobs/info/68d61e979526920fc208d4a2?utm_campaign=1057&utm_source=git)** | Wabash, IN | On Site | Sep 25 |
-| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d61b111f7fb2169ab17432?utm_campaign=1057&utm_source=git)** | Bryan, TX | On Site | Sep 25 |
+| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d61e949526920fc208d499?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Sep 25 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d61b111f7fb2169ab17432?utm_campaign=1057&utm_source=git)** | Bryan, TX | On Site | Sep 25 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d61af01f7fb2169ab173e9?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Sep 25 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d61a901f7fb2169ab1730b?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Sep 25 |
 | **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern - Commercial Underwriting (Summer 2026)](https://jobright.ai/jobs/info/68d6181d1f7fb2169ab16c75?utm_campaign=1057&utm_source=git)** | West Bend, WI | On Site | Sep 25 |
@@ -98,9 +101,8 @@ For a complete list, click the following sortable link below:
 | **[Bay State Community Services, Inc.](https://www.baystatecs.org)** | **[Bachelor's Level Social Services Internships](https://jobright.ai/jobs/info/68d6134b2116ff37ee0926f9?utm_campaign=1057&utm_source=git)** | Quincy, MA | On Site | Sep 25 |
 | **[Wanzek Construction, Inc., a MasTec Company](http://www.wanzek.com/)** | **[Internship, Safety Project - Summer 2026](https://jobright.ai/jobs/info/68d6131663d77d6f6f3f4430?utm_campaign=1057&utm_source=git)** | Louisville, CO | On Site | Sep 25 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d6349f894705799a2e89d7?utm_campaign=1057&utm_source=git)** | Pflugerville, TX | On Site | Sep 25 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d63267ebcef82ef5cf7868?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Sep 25 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d634f8894705799a2e8a6d?utm_campaign=1057&utm_source=git)** | Humble, TX | On Site | Sep 25 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d646fb894705799a2ea3dc?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Sep 25 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d63267ebcef82ef5cf7868?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Sep 25 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d63fedebcef82ef5cf85b0?utm_campaign=1057&utm_source=git)** | Fresno, TX | On Site | Sep 25 |
 | **[Wells Enterprises](http://www.wellsenterprisesinc.com)** | **[Internship - IT - Summer 2026](https://jobright.ai/jobs/info/68d611281f7fb2169ab15baa?utm_campaign=1057&utm_source=git)** | Le Mars, IA | On Site | Sep 25 |
 | **[Linn-Benton Community College](http://www.linnbenton.edu/)** | **[[WorkStudy] Basic Needs Assistant](https://jobright.ai/jobs/info/68d639314736ff202fdd0d24?utm_campaign=1057&utm_source=git)** | Albany, OR | On Site | Sep 25 |
@@ -157,7 +159,5 @@ Job ID : 263912](https://jobright.ai/jobs/info/68d618be1f7fb2169ab16f43?utm_camp
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Oakland University - 2026 AF Interns](https://jobright.ai/jobs/info/68d5aa261f7fb2169ab12cd7?utm_campaign=1057&utm_source=git)** | United States | Remote | Sep 25 |
 | **[Spindletop Center](http://spindletopcenter.org)** | **[Licensed Chemical Dependency Counselor Intern Salary: $36,976 - $40,405](https://jobright.ai/jobs/info/68d62d4febcef82ef5cf74fa?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Sep 25 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Programs & Education Intern - Acton Institute](https://jobright.ai/jobs/info/68d5ea902116ff37ee0912e1?utm_campaign=1057&utm_source=git)** | Michigan, United States | On Site | Sep 25 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[VP for Student Success - SPC - req13058](https://jobright.ai/jobs/info/68d5a35014935e31e231a7d8?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Sep 25 |
 | **[Fieve Clinical Research, Inc.](http://fieveclinical.com)** | **[Dr. Ronald Fieve Clinical Research Fellowship, 10 Hours/Week, Unpaid, Midtown (Pre-Med)](https://jobright.ai/jobs/info/68d5a29f14935e31e231a71d?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Sep 25 |
-| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Director, International Student Services](https://jobright.ai/jobs/info/68d5a2451f7fb2169ab12924?utm_campaign=1057&utm_source=git)** | Miami Gardens, FL | On Site | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
