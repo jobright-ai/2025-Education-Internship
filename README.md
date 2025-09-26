@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BAUHAUS Deutschland](https://www.bauhaus.info/)** | **[Ausbildung Kaufmann im Einzelhandel oder Verkäufer (m/w/d) Mannheim-Columbus](https://jobright.ai/jobs/info/68d698cb45853d0e39cc87fb?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Sep 26 |
+| **[Santander Private Banking International](http://pb-santander.com)** | **[Intern - CSU](https://jobright.ai/jobs/info/68d695e3894705799a2ec4bb?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Sep 26 |
+| **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Student Intern - Summer Term-PT Atrium Health MSKI](https://jobright.ai/jobs/info/68d68d9f45853d0e39cc846d?utm_campaign=1057&utm_source=git)** | Atrium Health Mercy - 2001 Vail Ave, Charlotte, NC | On Site | Sep 26 |
 | **[Xavier University](http://www.xavier.edu/)** | **[Teaching Professor of 3D Animation & Immersive Game Design 997855](https://jobright.ai/jobs/info/68d67074d3fe025a30159e7c?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Sep 26 |
 | **[The City University of New York](http://www.cuny.edu)** | **[Associate Director (Enrollment Manager) - International Student Services](https://jobright.ai/jobs/info/68d66f0f894705799a2eb9ac?utm_campaign=1057&utm_source=git)** | Queens, NY | On Site | Sep 26 |
+| **[Zscaler](https://www.zscaler.com)** | **[Technical Enablement- SkillBridge Intern](https://jobright.ai/jobs/info/689db45479a9f96662543f1b?utm_campaign=1057&utm_source=git)** | United States | Hybrid | Sep 26 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - eLearning Producer](https://jobright.ai/jobs/info/68c915a4a0c52d598ea35526?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Sep 26 |
 | ↳ | **[Intern - eLearning Producer](https://jobright.ai/jobs/info/68cc5c68128dc347fd9237e0?utm_campaign=1057&utm_source=git)** | Burlington, NC | On Site | Sep 26 |
+| **[Avangrid](https://www.avangrid.com/aboutus/avangridfoundation)** | **[2026 Summer Info. Technology, Business Analyst, Cyber, MIS Intern](https://jobright.ai/jobs/info/68b9cf1e5f38327491861145?utm_campaign=1057&utm_source=git)** | Portland, OR | On Site | Sep 26 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[INTERN-PAID EDUC STUDENT - Lancaster - Sahota](https://jobright.ai/jobs/info/68d65e2debcef82ef5cfa175?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Sep 26 |
 | **[TA Realty](https://www.tarealty.com/)** | **[Summer Intern 2026](https://jobright.ai/jobs/info/68d6594bebcef82ef5cf9fce?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Sep 26 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Neuro Cardio - APP - Internal Medicine](https://jobright.ai/jobs/info/68d65789ebcef82ef5cf9d83?utm_campaign=1057&utm_source=git)** | Florida, United States | On Site | Sep 26 |
@@ -79,17 +84,16 @@ For a complete list, click the following sortable link below:
 | **[InBloom Autism Services](https://www.inbloomautism.com/)** | **[Student Analyst](https://jobright.ai/jobs/info/68d63b8e894705799a2e9208?utm_campaign=1057&utm_source=git)** | US-CT-East Hartford | On Site | Sep 26 |
 | ↳ | **[Student Analyst](https://jobright.ai/jobs/info/68d63b1cebcef82ef5cf808d?utm_campaign=1057&utm_source=git)** | US-CO-Colorado Springs | On Site | Sep 26 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[F99456 Assistant Professor, Marketing, Tahlequah](https://jobright.ai/jobs/info/68d65160ebcef82ef5cf9a5c?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Sep 25 |
+| **[Ally](http://www.ally.com/)** | **[Summer 2026 Internship – Auto Finance (Costa Mesa, CA)](https://jobright.ai/jobs/info/68c7ae16db52c07d2884e335?utm_campaign=1057&utm_source=git)** | Costa Mesa, CA | On Site | Sep 25 |
 | **[Santa Rosa Junior College](https://www.santarosa.edu/)** | **[Administrative Assistant II, Academic Senate (Internal)](https://jobright.ai/jobs/info/68d626ac4736ff202fdcff15?utm_campaign=1057&utm_source=git)** | Santa Rosa, CA | On Site | Sep 25 |
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[Career Advisor](https://jobright.ai/jobs/info/68d6267e4736ff202fdcfec6?utm_campaign=1057&utm_source=git)** | Jacksonville, AL | On Site | Sep 25 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d62629894705799a2e7f13?utm_campaign=1057&utm_source=git)** | Savannah, GA | On Site | Sep 25 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d625c6ebcef82ef5cf6c4d?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Sep 25 |
 | **[Zel Technologies LLC](https://www.zeltech.com/)** | **[Florida Tech All Majors Career Fair](https://jobright.ai/jobs/info/68d624efebcef82ef5cf6a6e?utm_campaign=1057&utm_source=git)** | Melbourne, FL | On Site | Sep 25 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d61ebd57a2ca5cf160b8d9?utm_campaign=1057&utm_source=git)** | Lewisville, TX | On Site | Sep 25 |
 | **[Indianapolis Public Schools](https://myips.org/)** | **[School Psychologist Intern (2026-2027)](https://jobright.ai/jobs/info/68d61e979526920fc208d4a2?utm_campaign=1057&utm_source=git)** | Wabash, IN | On Site | Sep 25 |
-| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d61e949526920fc208d499?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Sep 25 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d61b111f7fb2169ab17432?utm_campaign=1057&utm_source=git)** | Bryan, TX | On Site | Sep 25 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d61af01f7fb2169ab173e9?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Sep 25 |
+| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d61b111f7fb2169ab17432?utm_campaign=1057&utm_source=git)** | Bryan, TX | On Site | Sep 25 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d61a901f7fb2169ab1730b?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Sep 25 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d618ac1f7fb2169ab16f27?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Sep 25 |
 | **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern - Commercial Underwriting (Summer 2026)](https://jobright.ai/jobs/info/68d6181d1f7fb2169ab16c75?utm_campaign=1057&utm_source=git)** | West Bend, WI | On Site | Sep 25 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Spring 2026 FOX Sports Internship Program - Charlotte](https://jobright.ai/jobs/info/68d617f163d77d6f6f3f55e5?utm_campaign=1057&utm_source=git)** | Charlotte, North Carolina, USA | On Site | Sep 25 |
 | **[The University of Texas Rio Grande Valley](https://www.utrgv.edu/)** | **[Graduate Assistant (CCRRIA)](https://jobright.ai/jobs/info/68d617971f7fb2169ab169d1?utm_campaign=1057&utm_source=git)** | Edinburg, TX | On Site | Sep 25 |
@@ -100,7 +104,9 @@ For a complete list, click the following sortable link below:
 | **[Michigan Giving](https://giving.umich.edu/um/)** | **[Assistant Director of Alumni Engagement](https://jobright.ai/jobs/info/68d6139e63d77d6f6f3f459e?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | Hybrid | Sep 25 |
 | **[Bay State Community Services, Inc.](https://www.baystatecs.org)** | **[Bachelor's Level Social Services Internships](https://jobright.ai/jobs/info/68d6134b2116ff37ee0926f9?utm_campaign=1057&utm_source=git)** | Quincy, MA | On Site | Sep 25 |
 | **[Wanzek Construction, Inc., a MasTec Company](http://www.wanzek.com/)** | **[Internship, Safety Project - Summer 2026](https://jobright.ai/jobs/info/68d6131663d77d6f6f3f4430?utm_campaign=1057&utm_source=git)** | Louisville, CO | On Site | Sep 25 |
-| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d6349f894705799a2e89d7?utm_campaign=1057&utm_source=git)** | Pflugerville, TX | On Site | Sep 25 |
+| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d631edebcef82ef5cf7792?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Sep 25 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d6349f894705799a2e89d7?utm_campaign=1057&utm_source=git)** | Pflugerville, TX | On Site | Sep 25 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d63907ebcef82ef5cf7cc1?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Sep 25 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d634f8894705799a2e8a6d?utm_campaign=1057&utm_source=git)** | Humble, TX | On Site | Sep 25 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d63267ebcef82ef5cf7868?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Sep 25 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d63fedebcef82ef5cf85b0?utm_campaign=1057&utm_source=git)** | Fresno, TX | On Site | Sep 25 |
@@ -154,10 +160,4 @@ Job ID : 263912](https://jobright.ai/jobs/info/68d618be1f7fb2169ab16f43?utm_camp
 | **[Sompo](https://www.sompo-intl.com/)** | **[Claims Trainee](https://jobright.ai/jobs/info/68d5b23e63d77d6f6f3f1965?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Sep 25 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[2026 Spring Internship Program-Supply Chain-Nashville, TN](https://jobright.ai/jobs/info/68d5b01614935e31e231aec7?utm_campaign=1057&utm_source=git)** | 2620 Elm Hill Pike, Nashville, TN, 37214, US | On Site | Sep 25 |
 | **[Wells Enterprises](http://www.wellsenterprisesinc.com)** | **[Internship - IT - Summer 2026](https://jobright.ai/jobs/info/68d5b01014935e31e231aec6?utm_campaign=1057&utm_source=git)** | 1 Blue Bunny Drive, Le Mars, IA, 51031, US | On Site | Sep 25 |
-| **[Centerstone](https://centerstone.org/)** | **[Bachelor Level Intern](https://jobright.ai/jobs/info/68d5af971f7fb2169ab12f59?utm_campaign=1057&utm_source=git)** | Sarasota, FL | On Site | Sep 25 |
-| **[Texas Oral History Association](https://toha.web.baylor.edu/about)** | **[Student Worker - Black Student Coalition Intern](https://jobright.ai/jobs/info/68d5aaea14935e31e231ac07?utm_campaign=1057&utm_source=git)** | Waco, TX, United States | On Site | Sep 25 |
-| **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Oakland University - 2026 AF Interns](https://jobright.ai/jobs/info/68d5aa261f7fb2169ab12cd7?utm_campaign=1057&utm_source=git)** | United States | Remote | Sep 25 |
-| **[Spindletop Center](http://spindletopcenter.org)** | **[Licensed Chemical Dependency Counselor Intern Salary: $36,976 - $40,405](https://jobright.ai/jobs/info/68d62d4febcef82ef5cf74fa?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Sep 25 |
-| **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Programs & Education Intern - Acton Institute](https://jobright.ai/jobs/info/68d5ea902116ff37ee0912e1?utm_campaign=1057&utm_source=git)** | Michigan, United States | On Site | Sep 25 |
-| **[Fieve Clinical Research, Inc.](http://fieveclinical.com)** | **[Dr. Ronald Fieve Clinical Research Fellowship, 10 Hours/Week, Unpaid, Midtown (Pre-Med)](https://jobright.ai/jobs/info/68d5a29f14935e31e231a71d?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
