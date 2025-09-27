@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PeoplesBank](http://bankatpeoples.com)** | **[Internship Program - Summer 2026](https://jobright.ai/jobs/info/68d76e267a37c712687cd126?utm_campaign=1057&utm_source=git)** | Holyoke, MA | On Site | Sep 26 |
+| **[Zipline](http://flyzipline.com)** | **[Community Engagement Intern (Spring 2026)](https://jobright.ai/jobs/info/68d76c7b7a37c712687cc6b5?utm_campaign=1057&utm_source=git)** | Dallas, Texas, USA | On Site | Sep 26 |
 | **[Drexel University's Westphal College of Media Arts & Design](https://drexel.edu/westphal)** | **[Assistant Vice President, Financial Aid](https://jobright.ai/jobs/info/68d75ffa61a175619f8cac60?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | Hybrid | Sep 26 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[F99456 Assistant Professor, Marketing, Tahlequah](https://jobright.ai/jobs/info/68d758b461a175619f8c973f?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Sep 26 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Children's Hospital- Graduate Nurse Internship)](https://jobright.ai/jobs/info/68d755b97a37c712687c8af5?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Sep 26 |
@@ -121,8 +123,7 @@ For a complete list, click the following sortable link below:
 | **[Apogee Enterprises, Inc.](http://www.apog.com/)** | **[Summer Internships - Monett, MO](https://jobright.ai/jobs/info/68d6ea88d3fe025a3015d0f5?utm_campaign=1057&utm_source=git)** | Monett, MO | On Site | Sep 26 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Intern](https://jobright.ai/jobs/info/68d6e77e894705799a2eeaa8?utm_campaign=1057&utm_source=git)** | Birmingham, AL | On Site | Sep 26 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Associate Clinical Account Specialist (ACAS) Intern (Summer 2026)](https://jobright.ai/jobs/info/68d6e475894705799a2ee958?utm_campaign=1057&utm_source=git)** | Arlington, Virginia, United States | On Site | Sep 26 |
-| **[Kaweah Health](https://www.kaweahhealth.org)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/68d754f5295f8e37655d41f4?utm_campaign=1057&utm_source=git)** | Visalia, California | On Site | Sep 26 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[Associate Clinical Account Specialist (ACAS) Intern (Summer 2026)](https://jobright.ai/jobs/info/68d6e419894705799a2ee85b?utm_campaign=1057&utm_source=git)** | Cincinnati, Ohio, United States of America | On Site | Sep 26 |
+| ↳ | **[Associate Clinical Account Specialist (ACAS) Intern (Summer 2026)](https://jobright.ai/jobs/info/68d6e419894705799a2ee85b?utm_campaign=1057&utm_source=git)** | Cincinnati, Ohio, United States of America | On Site | Sep 26 |
 | ↳ | **[Associate Clinical Account Specialist (ACAS) Intern (Summer 2026)](https://jobright.ai/jobs/info/68d6e3d7894705799a2ee794?utm_campaign=1057&utm_source=git)** | Irvine, California, United States of America | On Site | Sep 26 |
 | ↳ | **[Associate Clinical Account Specialist (ACAS) Intern (Summer 2026)](https://jobright.ai/jobs/info/68d6e3d045853d0e39ccac68?utm_campaign=1057&utm_source=git)** | Chicago, Illinois, United States | On Site | Sep 26 |
 | ↳ | **[Associate Clinical Account Specialist (ACAS) Intern (Summer 2026)](https://jobright.ai/jobs/info/68d6e3a4894705799a2ee71c?utm_campaign=1057&utm_source=git)** | San Francisco, California, United States of America | On Site | Sep 26 |
@@ -148,13 +149,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Clinical Account Specialist (ACAS) Intern (Summer 2026)](https://jobright.ai/jobs/info/68d6e22fd3fe025a3015c96f?utm_campaign=1057&utm_source=git)** | Orlando, Florida, United States of America | On Site | Sep 26 |
 | ↳ | **[Associate Clinical Account Specialist (ACAS) Intern (Summer 2026)](https://jobright.ai/jobs/info/68d6e22945853d0e39cca89e?utm_campaign=1057&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Sep 26 |
 | **[TRUMPF North America](https://www.us.trumpf.com)** | **[Digital Training Intern](https://jobright.ai/jobs/info/68d6df0a894705799a2ee43e?utm_campaign=1057&utm_source=git)** | Farmington, CT | On Site | Sep 26 |
+| **[John Soules Foods](http://johnsoulesfoods.com)** | **[Summer Internship 2026](https://jobright.ai/jobs/info/68cd9df0e23def7af55bcd2b?utm_campaign=1057&utm_source=git)** | Gainesville, GA | On Site | Sep 26 |
 | **[Graham Capital Management, L.P.](https://www.grahamcapital.com)** | **[2026 GCM Summer Internship](https://jobright.ai/jobs/info/68d6de32894705799a2ee36a?utm_campaign=1057&utm_source=git)** | Norwalk, CT | On Site | Sep 26 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Assistant Program Director, Student Publications](https://jobright.ai/jobs/info/68d6dd7b45853d0e39cca6bb?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Sep 26 |
 | **[HII](https://hii.com)** | **[2026 COLLEGE SUMMER INTERN - INFRASTRUCTURE & SUSTAINABILITY](https://jobright.ai/jobs/info/68d6dc74d3fe025a3015c74f?utm_campaign=1057&utm_source=git)** | Pascagoula, MS | On Site | Sep 26 |
 | **[Kaweah Health](https://www.kaweahhealth.org)** | **[Student Nurse Intern- Acute Psych](https://jobright.ai/jobs/info/68d754fd61a175619f8c88e9?utm_campaign=1057&utm_source=git)** | Visalia, California | On Site | Sep 26 |
-| ↳ | **[Student Nurse Intern-M/S Ortho Neuro-4S](https://jobright.ai/jobs/info/68d755467a37c712687c85b9?utm_campaign=1057&utm_source=git)** | Visalia, California | On Site | Sep 26 |
 | ↳ | **[Student Nurse Intern-M/S Ortho Neuro-4S](https://jobright.ai/jobs/info/68d754b5295f8e37655d3fd0?utm_campaign=1057&utm_source=git)** | Visalia, California | On Site | Sep 26 |
+| ↳ | **[Student Nurse Intern-M/S Ortho Neuro-4S](https://jobright.ai/jobs/info/68d755467a37c712687c85b9?utm_campaign=1057&utm_source=git)** | Visalia, California | On Site | Sep 26 |
 | **[HII](https://hii.com)** | **[2026 COLLEGE SUMMER INTERN- BUSINESS](https://jobright.ai/jobs/info/68d6d12e45853d0e39cca368?utm_campaign=1057&utm_source=git)** | Pascagoula, MS | On Site | Sep 26 |
-| **[Access Services](https://www.accessservices.org)** | **[Internship: Behavior Supports & Assessments (Fall/Winter)](https://jobright.ai/jobs/info/68d6cd03894705799a2edda0?utm_campaign=1057&utm_source=git)** | Allentown, PA | Remote | Sep 26 |
-| **[LandCare LLC](http://www.landcare.com)** | **[Texas Tech- Fall 2025 Davis College Career Fair](https://jobright.ai/jobs/info/68d6caa745853d0e39cc9ffd?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
