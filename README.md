@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ethos Early Learning Center](http://www.ethoslearn.com/)** | **[Internship in Early Childhood Education](https://jobright.ai/jobs/info/68d7b2d0295f8e37655e0d58?utm_campaign=1057&utm_source=git)** | South Boston, VA | On Site | Sep 27 |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[VP for Student Success - SPC - req13058](https://jobright.ai/jobs/info/68d7a69a7a37c712687d366b?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Sep 27 |
+| **[University of Michigan](https://www.umich.edu)** | **[STU SVCS ASST I (TEMP)](https://jobright.ai/jobs/info/68d7a2887a37c712687d30a8?utm_campaign=1057&utm_source=git)** | Dearborn, MI | On Site | Sep 27 |
+| **[University of Wisconsin–Oshkosh](http://uwosh.edu)** | **[International Education Coordinator](https://jobright.ai/jobs/info/68d798bc7a37c712687d2093?utm_campaign=1057&utm_source=git)** | Green Bay, WI | Hybrid | Sep 27 |
 | **[Zipline](http://flyzipline.com)** | **[Community Engagement Intern (Spring 2026)](https://jobright.ai/jobs/info/68d795237a37c712687d1efc?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Sep 27 |
 | **[Greystar](https://www.stoneridgemp.com)** | **[Construction Intern](https://jobright.ai/jobs/info/68d77f2c295f8e37655dbd32?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Sep 26 |
 | **[Zipline](http://flyzipline.com)** | **[Community Engagement Intern (Spring 2026)](https://jobright.ai/jobs/info/68d76c7b7a37c712687cc6b5?utm_campaign=1057&utm_source=git)** | Dallas, Texas, USA | On Site | Sep 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TRUMPF North America](https://www.us.trumpf.com)** | **[Digital Training Intern](https://jobright.ai/jobs/info/68d6df0a894705799a2ee43e?utm_campaign=1057&utm_source=git)** | Farmington, CT | On Site | Sep 26 |
 | **[John Soules Foods](http://johnsoulesfoods.com)** | **[Summer Internship 2026](https://jobright.ai/jobs/info/68cd9df0e23def7af55bcd2b?utm_campaign=1057&utm_source=git)** | Gainesville, GA | On Site | Sep 26 |
 | **[Graham Capital Management, L.P.](https://www.grahamcapital.com)** | **[2026 GCM Summer Internship](https://jobright.ai/jobs/info/68d6de32894705799a2ee36a?utm_campaign=1057&utm_source=git)** | Norwalk, CT | On Site | Sep 26 |
-| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Assistant Program Director, Student Publications](https://jobright.ai/jobs/info/68d6dd7b45853d0e39cca6bb?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Sep 26 |
-| **[HII](https://hii.com)** | **[2026 COLLEGE SUMMER INTERN - INFRASTRUCTURE & SUSTAINABILITY](https://jobright.ai/jobs/info/68d6dc74d3fe025a3015c74f?utm_campaign=1057&utm_source=git)** | Pascagoula, MS | On Site | Sep 26 |
-| **[C&S Companies](http://www.cscos.com)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/68d787f3295f8e37655dcb4c?utm_campaign=1057&utm_source=git)** | Rochester, NY | On Site | Sep 26 |
-| **[Pine Rest Christian Mental Health Services](https://www.pinerest.org/)** | **[CPE Intern](https://jobright.ai/jobs/info/68d754d161a175619f8c87c0?utm_campaign=1057&utm_source=git)** | Grand Rapids, MI | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
