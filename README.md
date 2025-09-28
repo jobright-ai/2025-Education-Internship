@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Water + Sanitation Professional Placement (online and in-person) in Peru](https://jobright.ai/jobs/info/68d94759022fc803b4876fbf?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Sep 28 |
+| ↳ | **[Volunteer: Research Volunteer Professional Placement (online and in-person) in Peru](https://jobright.ai/jobs/info/68d9474e022fc803b4876fb9?utm_campaign=1057&utm_source=git)** | Princeton, NJ | Hybrid | Sep 28 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[English Learner Specialist - St. Francis International School](https://jobright.ai/jobs/info/68d945419a8e451a446a47cf?utm_campaign=1057&utm_source=git)** | Silver Spring, MD | On Site | Sep 28 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Digital Technology Internship - Summer 2026](https://jobright.ai/jobs/info/689f8745b3e889632cf084fd?utm_campaign=1057&utm_source=git)** | Schenectady, NY | On Site | Sep 28 |
 | **[Vermont Mutual Insurance Group](http://vermontmutual.com)** | **[Information Technology Internship - Summer 2026](https://jobright.ai/jobs/info/68d902e4061b716fa2959d5f?utm_campaign=1057&utm_source=git)** | Montpelier, VT | On Site | Sep 28 |
 | **[Prairie View A&M University](http://pvam.edu)** | **[Student Hourly Assistant (CON)-3 positions](https://jobright.ai/jobs/info/68d902df061b716fa2959d59?utm_campaign=1057&utm_source=git)** | Hempstead, TX | On Site | Sep 28 |
@@ -89,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Year Up United](http://yearup.org)** | **[Computer Systems Administration Job Training Program](https://jobright.ai/jobs/info/6892fce6f5ee707a15dcb33f?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Sep 27 |
 | **[UPMC](https://www.upmc.com/)** | **[Student Nurse Internship (SNI) Program: West Central PA Hospitals](https://jobright.ai/jobs/info/689f197afaa4e875e8284511?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Sep 27 |
 | **[Year Up United](http://yearup.org)** | **[Data Analytics Job Training Program](https://jobright.ai/jobs/info/68cd3ba81ad6b16f02896d32?utm_campaign=1057&utm_source=git)** | Pleasant Hill, CA | On Site | Sep 27 |
+| ↳ | **[Data Management Job Training Opportunity](https://jobright.ai/jobs/info/68bc248e5f383274918751c0?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Sep 27 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Clinical Intern](https://jobright.ai/jobs/info/68d7e2b17796a83635f0cc5c?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Sep 27 |
 | **[Year Up United](http://yearup.org)** | **[Computer Architecture & Systems Fundamentals Career Training Program](https://jobright.ai/jobs/info/68a2106dfaa4e875e829579a?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Sep 27 |
 | **[CoxHealth](https://www.coxhealth.com/)** | **[Hybrid Early Intervention Team (EIT) Nurse - Neuro Trauma ICU - Internal Only](https://jobright.ai/jobs/info/68c292aa8753a565272fbe5a?utm_campaign=1057&utm_source=git)** | Springfield, MO | Hybrid | Sep 27 |
@@ -149,12 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://healthcare.ascension.org)** | **[LPN Nurse Intern - Medical Surgical](https://jobright.ai/jobs/info/68d7556f7a37c712687c87bd?utm_campaign=1057&utm_source=git)** | US-KS-Wichita | On Site | Sep 26 |
 | **[UHS](https://uhs.com)** | **[Therapy Internship - Behavioral Health](https://jobright.ai/jobs/info/68d7549661a175619f8c85d0?utm_campaign=1057&utm_source=git)** | CONWAY, South Carolina | On Site | Sep 26 |
 | ↳ | **[Intern - Bachelors in Social Work and Professional Counseling](https://jobright.ai/jobs/info/68d7553f295f8e37655d44af?utm_campaign=1057&utm_source=git)** | PHOENIX, Arizona | On Site | Sep 26 |
-| **[North Star Behavioral Health](https://northstarbehavioral.com)** | **[Therapy Internship - Behavioral Health](https://jobright.ai/jobs/info/68d754a7295f8e37655d3f64?utm_campaign=1057&utm_source=git)** | CONWAY, South Carolina | On Site | Sep 26 |
-| ↳ | **[Intern - Bachelors in Social Work and Professional Counseling](https://jobright.ai/jobs/info/68d754c661a175619f8c874c?utm_campaign=1057&utm_source=git)** | PHOENIX, Arizona | On Site | Sep 26 |
+| **[North Star Behavioral Health](https://northstarbehavioral.com)** | **[Intern - Bachelors in Social Work and Professional Counseling](https://jobright.ai/jobs/info/68d754c661a175619f8c874c?utm_campaign=1057&utm_source=git)** | PHOENIX, Arizona | On Site | Sep 26 |
+| ↳ | **[Therapy Internship - Behavioral Health](https://jobright.ai/jobs/info/68d754a7295f8e37655d3f64?utm_campaign=1057&utm_source=git)** | CONWAY, South Carolina | On Site | Sep 26 |
 | **[The Aspen Institute](https://www.aspeninstitute.org/programs/digital-equity-accelerator)** | **[Aspen Leadership Seminars Growth Team Intern](https://jobright.ai/jobs/info/68d71cdf894705799a2f0c15?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Sep 26 |
 | **[Skylark](https://campskylark.com)** | **[Church Internship](https://jobright.ai/jobs/info/68d71a94d3fe025a3015ef10?utm_campaign=1057&utm_source=git)** | Richardson, TX | On Site | Sep 26 |
-| **[Answerr](https://www.linkedin.com/company/104508627)** | **[AI Campus Strategist (For-Credit, Students Only)](https://jobright.ai/jobs/info/68d71a4045853d0e39ccce5f?utm_campaign=1057&utm_source=git)** | United States | Remote | Sep 26 |
-| **[Southwire Company](http://southwire.com)** | **[Training Content Development Intern](https://jobright.ai/jobs/info/68d71539894705799a2f099b?utm_campaign=1057&utm_source=git)** | Florence, AL | Hybrid | Sep 26 |
-| **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Safety (Spring 2026)](https://jobright.ai/jobs/info/68d7144e45853d0e39cccbf3?utm_campaign=1057&utm_source=git)** | Middletown, PA | On Site | Sep 26 |
-| **[El Dorado County Office of Education](https://www.edcoe.org)** | **[Student Assistant I - Charter Extended Day](https://jobright.ai/jobs/info/68d71434894705799a2f083b?utm_campaign=1057&utm_source=git)** | Placerville, CA | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
