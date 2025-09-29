@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Valmont Industries, Inc.](http://www.valmont.com)** | **[Learning Specialist Intern, Dealer Success](https://jobright.ai/jobs/info/68da45853c03cd3270944e9b?utm_campaign=1057&utm_source=git)** | Omaha, NE | On Site | Sep 29 |
 | **[University of Wisconsin–Oshkosh](http://uwosh.edu)** | **[Center for International Education: Administrative Specialist](https://jobright.ai/jobs/info/68da3b4f6df7b8311bb0df76?utm_campaign=1057&utm_source=git)** | Eau Claire, WI | On Site | Sep 29 |
 | **[Monolithic Power Systems, Inc.](http://www.monolithicpower.com)** | **[University of Florida Fall 2025 ECE Career Fair](https://jobright.ai/jobs/info/68da39763c03cd327094486e?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Sep 29 |
 | ↳ | **[University of Florida Fall 2025 ECE Career Fair](https://jobright.ai/jobs/info/68da396b6df7b8311bb0de53?utm_campaign=1057&utm_source=git)** | Remote - Texas | Remote | Sep 29 |
@@ -96,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Colorado College](http://www.coloradocollege.edu/)** | **[Fiber Arts Fellow](https://jobright.ai/jobs/info/68d984689a8e451a446a4c39?utm_campaign=1057&utm_source=git)** | Colorado Springs, CO | On Site | Sep 28 |
 | **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Career Development Program](https://jobright.ai/jobs/info/68d95d069a8e451a446a496b?utm_campaign=1057&utm_source=git)** | Wisconsin, United States | Remote | Sep 28 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2026 Product Development, Global Merchant & Network Services - New York, NY](https://jobright.ai/jobs/info/68ce6cd3846f0b04af679c1d?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Sep 28 |
+| **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - UCONN](https://jobright.ai/jobs/info/68cd40c31ad6b16f02896feb?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Sep 28 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Water + Sanitation Professional Placement (online and in-person) in Peru](https://jobright.ai/jobs/info/68d94759022fc803b4876fbf?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Sep 28 |
 | ↳ | **[Volunteer: Research Volunteer Professional Placement (online and in-person) in Peru](https://jobright.ai/jobs/info/68d9474e022fc803b4876fb9?utm_campaign=1057&utm_source=git)** | Princeton, NJ | Hybrid | Sep 28 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[English Learner Specialist - St. Francis International School](https://jobright.ai/jobs/info/68d945419a8e451a446a47cf?utm_campaign=1057&utm_source=git)** | Silver Spring, MD | On Site | Sep 28 |
@@ -104,13 +106,9 @@ For a complete list, click the following sortable link below:
 | **[Vermont Mutual Insurance Group](http://vermontmutual.com)** | **[Information Technology Internship - Summer 2026](https://jobright.ai/jobs/info/68d902e4061b716fa2959d5f?utm_campaign=1057&utm_source=git)** | Montpelier, VT | On Site | Sep 28 |
 | **[Prairie View A&M University](http://pvam.edu)** | **[Student Hourly Assistant (CON)-3 positions](https://jobright.ai/jobs/info/68d902df061b716fa2959d59?utm_campaign=1057&utm_source=git)** | Hempstead, TX | On Site | Sep 28 |
 | **[Albion College](http://www.albion.edu/)** | **[Director of Student Engagement and Activities](https://jobright.ai/jobs/info/68d8f31b9a8e451a446a41c9?utm_campaign=1057&utm_source=git)** | Albion, MI | On Site | Sep 28 |
-| **[New Directions Mental Health](https://newdirectionspgh.com/)** | **[Mental Health Therapist Intern - PA](https://jobright.ai/jobs/info/68da3b813c03cd3270944afb?utm_campaign=1057&utm_source=git)** | Sarver, PA | On Site | Sep 28 |
-| ↳ | **[Mental Health Therapist Intern - Pennsylvania - Fox Chapel](https://jobright.ai/jobs/info/68da3bde3c03cd3270944c71?utm_campaign=1057&utm_source=git)** | Sarver, PA | On Site | Sep 28 |
-| ↳ | **[Mental Health Therapist Intern - Pennsylvania - Fox Chapel](https://jobright.ai/jobs/info/68da3b813c03cd3270944afa?utm_campaign=1057&utm_source=git)** | Greensburg, PA | On Site | Sep 28 |
-| **[New Directions Mental Health](https://newdirectionspgh.com/)** | **[Mental Health Therapist Intern - Pennsylvania - Fox Chapel](https://jobright.ai/jobs/info/68da34ed6df7b8311bb0dc38?utm_campaign=1057&utm_source=git)** | Connoquenessing, PA | On Site | Sep 27 |
-| ↳ | **[Mental Health Therapist Intern - PA](https://jobright.ai/jobs/info/68da34840b832179ca4ac78c?utm_campaign=1057&utm_source=git)** | Beaver, PA | On Site | Sep 27 |
-| ↳ | **[Mental Health Therapist Intern - Pennsylvania - Fox Chapel](https://jobright.ai/jobs/info/68da351f6df7b8311bb0dccb?utm_campaign=1057&utm_source=git)** | New Alexandria, PA | On Site | Sep 27 |
-| ↳ | **[Mental Health Therapist Intern - PA](https://jobright.ai/jobs/info/68da34df3c03cd32709446aa?utm_campaign=1057&utm_source=git)** | Gibsonia, PA | On Site | Sep 27 |
+| **[New Directions Mental Health](https://newdirectionspgh.com/)** | **[Mental Health Therapist Intern - Pennsylvania - Fox Chapel](https://jobright.ai/jobs/info/68da48ac0b832179ca4ad16b?utm_campaign=1057&utm_source=git)** | Coraopolis, PA | On Site | Sep 28 |
+| **[Ally](http://www.ally.com/)** | **[Summer 2026 Internship – Auto Finance (Plano, TX)](https://jobright.ai/jobs/info/68cd1fbab2a74e1837ed2ba5?utm_campaign=1057&utm_source=git)** | Plano, TX | On Site | Sep 28 |
+| **[New Directions Mental Health](https://newdirectionspgh.com/)** | **[Mental Health Therapist Intern - PA](https://jobright.ai/jobs/info/68da34840b832179ca4ac78c?utm_campaign=1057&utm_source=git)** | Beaver, PA | On Site | Sep 27 |
 | **[Elk Grove Unified School District](https://www.egusd.net/)** | **[ELEMENTARY INTERN TEACHER Eligibility Pool](https://jobright.ai/jobs/info/68d8cb9deed6e340d9e1dc11?utm_campaign=1057&utm_source=git)** | Elk Grove, CA | On Site | Sep 27 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2026 Digital Innovation Student Experience](https://jobright.ai/jobs/info/68bb8b146105227d118a6dfe?utm_campaign=1057&utm_source=git)** | West Fargo, ND | On Site | Sep 27 |
 | **[IEA Constructors LLC, a MasTec Company](https://ieaconstructors.com/)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/68ce2245e23def7af55c295a?utm_campaign=1057&utm_source=git)** | Greater Indianapolis | On Site | Sep 27 |
@@ -118,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[Bobcat Company](https://www.bobcat.com)** | **[2026 Digital Product Student Experience](https://jobright.ai/jobs/info/68cff693846f0b04af686799?utm_campaign=1057&utm_source=git)** | West Fargo, ND | On Site | Sep 27 |
 | **[Delaware Technical Community College](http://dtcc.edu)** | **[Early Childhood Intern](https://jobright.ai/jobs/info/68d8b51eed09d95201eb63d2?utm_campaign=1057&utm_source=git)** | Georgetown, DE | On Site | Sep 27 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[VP for Student Success - NVC - req13112](https://jobright.ai/jobs/info/68d8a153ed09d95201eb5129?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Sep 27 |
-| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[PATH International Certified Horseback Riding Instructor](https://jobright.ai/jobs/info/68d896b8fd604e222ce88f30?utm_campaign=1057&utm_source=git)** | Norco, CA | On Site | Sep 27 |
-| ↳ | **[Manager, Student Services (Internal Candidates Only)](https://jobright.ai/jobs/info/68d896b822308b3db35ea346?utm_campaign=1057&utm_source=git)** | Troy, NY | On Site | Sep 27 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Manager, Student Services (Internal Candidates Only)](https://jobright.ai/jobs/info/68d896b822308b3db35ea346?utm_campaign=1057&utm_source=git)** | Troy, NY | On Site | Sep 27 |
+| ↳ | **[PATH International Certified Horseback Riding Instructor](https://jobright.ai/jobs/info/68d896b8fd604e222ce88f30?utm_campaign=1057&utm_source=git)** | Norco, CA | On Site | Sep 27 |
 | ↳ | **[Assistant Professor of International Relations](https://jobright.ai/jobs/info/68d893cd22308b3db35ea272?utm_campaign=1057&utm_source=git)** | Gainesville, FL | On Site | Sep 27 |
 | **[Southwire Company](http://southwire.com)** | **[Training Intern](https://jobright.ai/jobs/info/68bb36f75f3832749186d3d0?utm_campaign=1057&utm_source=git)** | Carrollton, GA | Hybrid | Sep 27 |
 | **[POWDR](http://www.powdr.com/)** | **[J1 International Student Program](https://jobright.ai/jobs/info/68d8a059eed6e340d9e1ba4a?utm_campaign=1057&utm_source=git)** | Woodward Tahoe Boreal | On Site | Sep 27 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/68bb6fcf8043103d4f22898f?utm_campaign=1057&utm_source=git)** | Puyallup, WA | On Site | Sep 27 |
 | **[Nemours](http://www.nemours.org)** | **[Intern - Ginsburg Scholar](https://jobright.ai/jobs/info/68c40150e471ef3ce16d353d?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Sep 27 |
 | **[Leadership In Flight Training Academy](www.flywithlift.com)** | **[LIFT Student Advising Intern - Summer 2026](https://jobright.ai/jobs/info/68bbeaa26105227d118ab2ba?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Sep 27 |
+| **[Republic Airways](http://www.rjet.com)** | **[Learning and Development Intern - Summer 2026](https://jobright.ai/jobs/info/68bbda078043103d4f22d054?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Sep 27 |
+| **[Ally](http://www.ally.com/)** | **[Summer 2026 Internship – Auto Finance (Detroit, MI)](https://jobright.ai/jobs/info/68b8d7695b42bc4562828397?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Sep 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
