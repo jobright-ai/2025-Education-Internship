@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Apprenticeship & Skills Training](https://jobright.ai/jobs/info/68da6b276df7b8311bb0ecee?utm_campaign=1057&utm_source=git)** | Tempe, AZ | Hybrid | Sep 29 |
+| ↳ | **[College Intern - Risk Management](https://jobright.ai/jobs/info/68da6ace0b832179ca4ad821?utm_campaign=1057&utm_source=git)** | Tempe, AZ | Hybrid | Sep 29 |
+| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Outpatient Mental Health Clinics - Frederick OCS) 2025-2026 School Based Counseling/Social Work Fieldwork](https://jobright.ai/jobs/info/68da64100b832179ca4ad697?utm_campaign=1057&utm_source=git)** | Frederick, MD | On Site | Sep 29 |
+| **[Rialto Unified School District](https://kec.rialto.k12.ca.us/)** | **[CHILD DEVELOPMENT APPRENTICE (JOB POSTING #58)](https://jobright.ai/jobs/info/68da60ea07c157682e56a054?utm_campaign=1057&utm_source=git)** | Rialto, CA | On Site | Sep 29 |
+| **[Apogee Enterprises, Inc.](http://www.apog.com/)** | **[Summer Internships - Monett, MO](https://jobright.ai/jobs/info/68da60e86df7b8311bb0ea39?utm_campaign=1057&utm_source=git)** | Monett, MO | On Site | Sep 29 |
 | **[Valmont Industries, Inc.](http://www.valmont.com)** | **[Learning Specialist Intern, Dealer Success](https://jobright.ai/jobs/info/68da45853c03cd3270944e9b?utm_campaign=1057&utm_source=git)** | Omaha, NE | On Site | Sep 29 |
 | **[University of Wisconsin–Oshkosh](http://uwosh.edu)** | **[Center for International Education: Administrative Specialist](https://jobright.ai/jobs/info/68da3b4f6df7b8311bb0df76?utm_campaign=1057&utm_source=git)** | Eau Claire, WI | On Site | Sep 29 |
 | **[Monolithic Power Systems, Inc.](http://www.monolithicpower.com)** | **[University of Florida Fall 2025 ECE Career Fair](https://jobright.ai/jobs/info/68da39763c03cd327094486e?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Sep 29 |
@@ -105,6 +110,7 @@ For a complete list, click the following sortable link below:
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (OT/OTA Adolescent RTC) Winter 2025 OT Fieldwork](https://jobright.ai/jobs/info/67d9625d98ecb8fc7d978a43?utm_campaign=1057&utm_source=git)** | Towson, MD | On Site | Sep 28 |
 | **[Vermont Mutual Insurance Group](http://vermontmutual.com)** | **[Information Technology Internship - Summer 2026](https://jobright.ai/jobs/info/68d902e4061b716fa2959d5f?utm_campaign=1057&utm_source=git)** | Montpelier, VT | On Site | Sep 28 |
 | **[Prairie View A&M University](http://pvam.edu)** | **[Student Hourly Assistant (CON)-3 positions](https://jobright.ai/jobs/info/68d902df061b716fa2959d59?utm_campaign=1057&utm_source=git)** | Hempstead, TX | On Site | Sep 28 |
+| **[San José State University](http://www.sjsu.edu/)** | **[Assistant or Associate Professor in Engineering Technology (Software Quality, Mobile Technologies, Edge Computing)](https://jobright.ai/jobs/info/68d0814adbd9fb154edee9f1?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Sep 28 |
 | **[Albion College](http://www.albion.edu/)** | **[Director of Student Engagement and Activities](https://jobright.ai/jobs/info/68d8f31b9a8e451a446a41c9?utm_campaign=1057&utm_source=git)** | Albion, MI | On Site | Sep 28 |
 | **[New Directions Mental Health](https://newdirectionspgh.com/)** | **[Mental Health Therapist Intern - Pennsylvania - Fox Chapel](https://jobright.ai/jobs/info/68da48ac0b832179ca4ad16b?utm_campaign=1057&utm_source=git)** | Coraopolis, PA | On Site | Sep 28 |
 | **[Ally](http://www.ally.com/)** | **[Summer 2026 Internship – Auto Finance (Plano, TX)](https://jobright.ai/jobs/info/68cd1fbab2a74e1837ed2ba5?utm_campaign=1057&utm_source=git)** | Plano, TX | On Site | Sep 28 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Management Job Training Opportunity](https://jobright.ai/jobs/info/68bc248e5f383274918751c0?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Sep 27 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Clinical Intern](https://jobright.ai/jobs/info/68d7e2b17796a83635f0cc5c?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Sep 27 |
 | **[Year Up United](http://yearup.org)** | **[Computer Architecture & Systems Fundamentals Career Training Program](https://jobright.ai/jobs/info/68a2106dfaa4e875e829579a?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Sep 27 |
-| **[CoxHealth](https://www.coxhealth.com/)** | **[Hybrid Early Intervention Team (EIT) Nurse - Neuro Trauma ICU - Internal Only](https://jobright.ai/jobs/info/68c292aa8753a565272fbe5a?utm_campaign=1057&utm_source=git)** | Springfield, MO | Hybrid | Sep 27 |
-| **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/68bb6fcf8043103d4f22898f?utm_campaign=1057&utm_source=git)** | Puyallup, WA | On Site | Sep 27 |
-| **[Nemours](http://www.nemours.org)** | **[Intern - Ginsburg Scholar](https://jobright.ai/jobs/info/68c40150e471ef3ce16d353d?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Sep 27 |
-| **[Leadership In Flight Training Academy](www.flywithlift.com)** | **[LIFT Student Advising Intern - Summer 2026](https://jobright.ai/jobs/info/68bbeaa26105227d118ab2ba?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Sep 27 |
-| **[Republic Airways](http://www.rjet.com)** | **[Learning and Development Intern - Summer 2026](https://jobright.ai/jobs/info/68bbda078043103d4f22d054?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Sep 27 |
-| **[Ally](http://www.ally.com/)** | **[Summer 2026 Internship – Auto Finance (Detroit, MI)](https://jobright.ai/jobs/info/68b8d7695b42bc4562828397?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Sep 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
