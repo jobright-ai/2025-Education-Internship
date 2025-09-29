@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Valmont Industries, Inc.](http://www.valmont.com)** | **[Learning Specialist Intern, Dealer Success](https://jobright.ai/jobs/info/68d9fec46df7b8311bb0b6ec?utm_campaign=1057&utm_source=git)** | Omaha NE | On Site | Sep 28 |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[F99456 Assistant Professor, Marketing, Tahlequah](https://jobright.ai/jobs/info/68d9f1d69a8e451a446a578b?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Sep 28 |
+| **[Luna Community College](http://www.luna.edu)** | **[Work Study - Assistant](https://jobright.ai/jobs/info/68d9f1cf9a8e451a446a5763?utm_campaign=1057&utm_source=git)** | Las Vegas, NM | On Site | Sep 28 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[On-Call Health & Safety Substitute needed for the International School of Portland (OR)](https://jobright.ai/jobs/info/68d9ef4c022fc803b4877f93?utm_campaign=1057&utm_source=git)** | Portland, OR | On Site | Sep 28 |
+| ↳ | **[Rogers International School: Long-term Substitute Instructional Paraeducator](https://jobright.ai/jobs/info/68d9ee909a8e451a446a5715?utm_campaign=1057&utm_source=git)** | Stamford, CT | On Site | Sep 28 |
 | **[Student Activities Board](https://www.messiah.edu/info/21557/student_activities_board_sab)** | **[Assistant Director of Enrollment Technology and Communication, Graduate & Professional Studies](https://jobright.ai/jobs/info/68d9ddf1022fc803b4877cb9?utm_campaign=1057&utm_source=git)** | Winding Hill, PA | On Site | Sep 28 |
 | **[Yale MacMillan Center](https://macmillan.yale.edu)** | **[Yale Research Initiative on Innovation and Scale (Y-RISE): Postdoctoral Associate, 2026-27](https://jobright.ai/jobs/info/68d9d1539a8e451a446a53d8?utm_campaign=1057&utm_source=git)** | New Haven, CT | On Site | Sep 28 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Special Education RSP Teacher & Interns](https://jobright.ai/jobs/info/68d9bdfc022fc803b4877a95?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Sep 28 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Drexel University's Westphal College of Media Arts & Design](https://drexel.edu/westphal)** | **[Assistant Vice President, Financial Aid](https://jobright.ai/jobs/info/68d75ffa61a175619f8cac60?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | Hybrid | Sep 26 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Children's Hospital- Graduate Nurse Internship)](https://jobright.ai/jobs/info/68d755b97a37c712687c8af5?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Sep 26 |
 | **[Ascension](https://healthcare.ascension.org)** | **[LPN Nurse Intern - Medical Surgical](https://jobright.ai/jobs/info/68d755b9295f8e37655d499f?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Sep 26 |
-| **[EFCO ](http://www.efcocorp.com/)** | **[Summer Internships - Monett, MO](https://jobright.ai/jobs/info/68d74fe8e5293e3538af4009?utm_campaign=1057&utm_source=git)** | Monett, MO | On Site | Sep 26 |
-| **[Park Center](https://www.parkcenternashville.org)** | **[PSH Intern](https://jobright.ai/jobs/info/68d74959f9dbe42bf62c1259?utm_campaign=1057&utm_source=git)** | Nashville, TN | Hybrid | Sep 26 |
-| **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide](https://jobright.ai/jobs/info/68d746e9cb1d8e52c97668d9?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Sep 26 |
-| **[DeKalb County School District](http://www.dekalbschoolsga.org/)** | **[Central Office _ Secondary Counselor - Student Advancement (Wrap Around Services) 2025-2026](https://jobright.ai/jobs/info/68d8a1cec52ed61722c9452d?utm_campaign=1057&utm_source=git)** | Stone Mountain, GA | On Site | Sep 26 |
-| **[Bowman Consulting](https://bowman.com)** | **[Florida International University - FIU Fall 2025 All Majors Career Fair](https://jobright.ai/jobs/info/68d73d48894705799a2f187a?utm_campaign=1057&utm_source=git)** | Reston, VA | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
