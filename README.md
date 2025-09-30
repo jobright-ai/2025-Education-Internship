@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Dealer Services Instructional Design](https://jobright.ai/jobs/info/68dc31fd66059a42a715c668?utm_campaign=1057&utm_source=git)** | Arlington, TX | Hybrid | Sep 30 |
+| **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program-Quality Assurance, Internal Compliance & Oversight](https://jobright.ai/jobs/info/68dc31de97329f2f7732353a?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Sep 30 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Assistant Director, Student Engagement](https://jobright.ai/jobs/info/68dc263797329f2f77322fee?utm_campaign=1057&utm_source=git)** | Sarasota, FL | On Site | Sep 30 |
+| **[Sodexo](http://www.sodexo.com)** | **[Campus Intern](https://jobright.ai/jobs/info/68dc223c97329f2f77322d19?utm_campaign=1057&utm_source=git)** | New Paltz, NY | On Site | Sep 30 |
+| **[Positive Tracks](https://www.positivetracks.org/)** | **[2026-2027 Youth Leadership Fellow (Upper Valley of NH/VT)](https://jobright.ai/jobs/info/68dc1d7c97329f2f77322bb5?utm_campaign=1057&utm_source=git)** | Hanover, NH | Hybrid | Sep 30 |
 | **[Corewell Health](https://corewellhealth.org)** | **[RN OR Intern](https://jobright.ai/jobs/info/68dc16656f6c5c3fadf36669?utm_campaign=1057&utm_source=git)** | Royal Oak, MI | Hybrid | Sep 30 |
 | **[HealthFitness](http://www.healthfitness.com)** | **[Winter/Spring Fitness Internship (Fort Collins, CO)](https://jobright.ai/jobs/info/68dc1507d6470e72cf4d87af?utm_campaign=1057&utm_source=git)** | Fort Collins, CO | On Site | Sep 30 |
 | **[Positive Tracks](https://www.positivetracks.org/)** | **[2026 Youth Leadership Fellow (Greater Boston)](https://jobright.ai/jobs/info/68dc1196d6470e72cf4d86ea?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | Sep 30 |
