@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Verizon](https://www.verizon.com)** | **[University of FL- Finance Leadership Development Internship Program](https://jobright.ai/jobs/info/68db5d21e19b9e63ba20b3c1?utm_campaign=1057&utm_source=git)** | Basking Ridge, New Jersey | Hybrid | Sep 29 |
-| ↳ | **[University of FL- Finance Leadership Development Internship Program](https://jobright.ai/jobs/info/68db5d219f13662d20e4a751?utm_campaign=1057&utm_source=git)** | Lake Mary, Florida | Hybrid | Sep 29 |
+| **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/68db76159f13662d20e4b8a1?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Sep 29 |
+| **[Ally](http://www.ally.com/)** | **[Summer 2026 Internship – Auto Finance (Detroit, MI)](https://jobright.ai/jobs/info/68db72bee19b9e63ba20c3c6?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Sep 29 |
+| **[Verizon](https://www.verizon.com)** | **[University of FL- Finance Leadership Development Internship Program](https://jobright.ai/jobs/info/68db5d219f13662d20e4a751?utm_campaign=1057&utm_source=git)** | Lake Mary, Florida | Hybrid | Sep 29 |
+| ↳ | **[University of FL- Finance Leadership Development Internship Program](https://jobright.ai/jobs/info/68db5d21e19b9e63ba20b3c1?utm_campaign=1057&utm_source=git)** | Basking Ridge, New Jersey | Hybrid | Sep 29 |
 | **[Rendora AI](https://www.rendora.ai/)** | **[Community Development Intern](https://jobright.ai/jobs/info/68db5d1c34f2c406da6d73fa?utm_campaign=1057&utm_source=git)** | United States | Remote | Sep 29 |
 | **[Newark Unified School District](http://www.newarkunified.org)** | **[100% School Psychologist (Special Education)](https://jobright.ai/jobs/info/68db54819f13662d20e4a0c4?utm_campaign=1057&utm_source=git)** | Newark, CA | On Site | Sep 29 |
 | **[Metropolitan State University of Denver](http://www.msudenver.edu)** | **[Associate Registrar, Academic Records & International Student Support](https://jobright.ai/jobs/info/68db54519f13662d20e4a07d?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Sep 29 |
@@ -88,22 +90,22 @@ For a complete list, click the following sortable link below:
 | **[Western Governors University](http://www.wgu.edu/)** | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db2881e9b48513789b22d6?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Sep 29 |
 | ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db2863e9b48513789b22a0?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Sep 29 |
 | ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db2846e9b48513789b2260?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Sep 29 |
-| ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db2808e9b48513789b2202?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Sep 29 |
 | ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db2808e9b48513789b2203?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Sep 29 |
+| ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db2808e9b48513789b2202?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Sep 29 |
 | ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db27ece9b48513789b21af?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Sep 29 |
 | ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db27376df7b8311bb16508?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Sep 29 |
 | ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db27256df7b8311bb164f2?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Sep 29 |
 | ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db27186df7b8311bb164dc?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Sep 29 |
 | ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db27186df7b8311bb164db?utm_campaign=1057&utm_source=git)** | SLC Metro Area | On Site | Sep 29 |
-| ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db26f46df7b8311bb164ad?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Sep 29 |
 | ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db26f46df7b8311bb164ac?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Sep 29 |
+| ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db26f46df7b8311bb164ad?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Sep 29 |
 | **[Ally](http://www.ally.com/)** | **[Summer 2026 Internship – Auto Finance - Business Line Risk](https://jobright.ai/jobs/info/68da21436df7b8311bb0c9ab?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Sep 29 |
 | **[Western Governors University](http://www.wgu.edu/)** | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db26d56df7b8311bb1647d?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Sep 29 |
-| ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db25f70dffed6f83d2cc17?utm_campaign=1057&utm_source=git)** | Omaha, NE | On Site | Sep 29 |
-| ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db25f70dffed6f83d2cc16?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Sep 29 |
 | ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db25f70dffed6f83d2cc15?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Sep 29 |
 | ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db25f70dffed6f83d2cc13?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Sep 29 |
 | ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db25f70dffed6f83d2cc14?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | Sep 29 |
+| ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db25f70dffed6f83d2cc17?utm_campaign=1057&utm_source=git)** | Omaha, NE | On Site | Sep 29 |
+| ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db25f70dffed6f83d2cc16?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Sep 29 |
 | **[H. J. Russell & Company](http://hjrussell.com)** | **[Fall Intern 2026](https://jobright.ai/jobs/info/68db25f50dffed6f83d2cc0a?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Sep 29 |
 | **[Western Governors University](http://www.wgu.edu/)** | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db25a00dffed6f83d2cb68?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Sep 29 |
 | ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db25940dffed6f83d2cb54?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Sep 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[RBT Intern – Trainer](https://jobright.ai/jobs/info/68daff900dffed6f83d2bbdd?utm_campaign=1057&utm_source=git)** | Cypress, TX | On Site | Sep 29 |
 | ↳ | **[RBT Intern – Trainer](https://jobright.ai/jobs/info/68daff446df7b8311bb15446?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Sep 29 |
 | ↳ | **[RBT Intern – Trainer](https://jobright.ai/jobs/info/68daff1f0dffed6f83d2baa6?utm_campaign=1057&utm_source=git)** | Bellevue, NE | On Site | Sep 29 |
-| ↳ | **[RBT Intern – Trainer](https://jobright.ai/jobs/info/68daff1ee9b48513789b0f5a?utm_campaign=1057&utm_source=git)** | Sugar Land, TX | On Site | Sep 29 |
-| ↳ | **[RBT Intern – Trainer](https://jobright.ai/jobs/info/68dafebc6df7b8311bb15399?utm_campaign=1057&utm_source=git)** | Sugar Land, TX | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
