@@ -40,7 +40,7 @@
 
 ---
 <h4>
-Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">14</span> days are listed due to capacity constraints.
+Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">7</span> days are listed due to capacity constraints.
 <br>
 For a complete list, click the following sortable link below:
 </h4>
@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Corewell Health](https://corewellhealth.org)** | **[RN OR Intern](https://jobright.ai/jobs/info/68dc16656f6c5c3fadf36669?utm_campaign=1057&utm_source=git)** | Royal Oak, MI | Hybrid | Sep 30 |
+| **[HealthFitness](http://www.healthfitness.com)** | **[Winter/Spring Fitness Internship (Fort Collins, CO)](https://jobright.ai/jobs/info/68dc1507d6470e72cf4d87af?utm_campaign=1057&utm_source=git)** | Fort Collins, CO | On Site | Sep 30 |
+| **[Positive Tracks](https://www.positivetracks.org/)** | **[2026 Youth Leadership Fellow (Greater Boston)](https://jobright.ai/jobs/info/68dc1196d6470e72cf4d86ea?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | Sep 30 |
+| **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist](https://jobright.ai/jobs/info/68dc0f1f97329f2f77322575?utm_campaign=1057&utm_source=git)** | New Bedford, MA | On Site | Sep 30 |
+| **[Beckman Coulter Life Sciences](https://www.mybeckman.uk/)** | **[Instructional Design Intern - Miami, FL](https://jobright.ai/jobs/info/68dc0edf97329f2f773224c4?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Sep 30 |
+| **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist](https://jobright.ai/jobs/info/68dc0ec797329f2f77322482?utm_campaign=1057&utm_source=git)** | Hyannis, MA | On Site | Sep 30 |
+| ↳ | **[Staff Psychologist - Neuropsychologist](https://jobright.ai/jobs/info/68dc0d76d6470e72cf4d8572?utm_campaign=1057&utm_source=git)** | Chillicothe, OH | On Site | Sep 30 |
+| **[Florida Blue](https://www.floridablue.com)** | **[IT Summer Undergraduate Internship-2026](https://jobright.ai/jobs/info/68dc0b046f6c5c3fadf361af?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Sep 30 |
+| **[Norton Healthcare](https://nortonhealthcare.com)** | **[Chaplain Ordained Intern PRN, As Needed](https://jobright.ai/jobs/info/68dbfc20d6470e72cf4d7cef?utm_campaign=1057&utm_source=git)** | Louisville, KY | On Site | Sep 30 |
 | **[Driftwood Hospitality Management](https://driftwoodhospitality.com)** | **[2026 Summer Internship - FSU Dedman College Students](https://jobright.ai/jobs/info/68dbf7086f6c5c3fadf35840?utm_campaign=1057&utm_source=git)** | Melbourne, FL | On Site | Sep 30 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Nursing Intern – Cardiology- Part-Time- Rotating](https://jobright.ai/jobs/info/68dbf7026f6c5c3fadf3583b?utm_campaign=1057&utm_source=git)** | Warren, MI | On Site | Sep 30 |
 | **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[SRTE CAS Training and Administration - LSE Student Summer Intern](https://jobright.ai/jobs/info/68dbf30ed6470e72cf4d75c1?utm_campaign=1057&utm_source=git)** | Aiken, SC | On Site | Sep 30 |
@@ -80,11 +89,4 @@ For a complete list, click the following sortable link below:
 | **[Arts In Action Community Charter Schools](http://www.artsinactioncharter.org)** | **[Intern School Psychologist (Paid)](https://jobright.ai/jobs/info/68d6dde3894705799a2ee320?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Sep 25 |
 | **[Johnson & Johnson MedTech](https://www.jnjmedicaldevices.com/)** | **[2026 J&J Orthopedics Internship – Digital Education](https://jobright.ai/jobs/info/68d44b4a17554c2d9eef8148?utm_campaign=1057&utm_source=git)** | Raynham, MA | On Site | Sep 25 |
 | ↳ | **[2026 J&J Orthopedics Internship – Digital Education](https://jobright.ai/jobs/info/68d465798c62e63bc7fe8fd0?utm_campaign=1057&utm_source=git)** | West Chester, PA | On Site | Sep 25 |
-| **[Volkert, Inc.](https://volkert.com/)** | **[College Intern](https://jobright.ai/jobs/info/68dbb3f897329f2f7731c09d?utm_campaign=1057&utm_source=git)** | El Paso, TX, US | On Site | Sep 23 |
-| ↳ | **[College Intern](https://jobright.ai/jobs/info/68dbc24d6f6c5c3fadf3101d?utm_campaign=1057&utm_source=git)** | Springfield, VA, US | On Site | Sep 23 |
-| **[Crane Worldwide Logistics](https://craneww.com)** | **[College – Summer 2026 Internship Program](https://jobright.ai/jobs/info/68dbd564d6470e72cf4d45d6?utm_campaign=1057&utm_source=git)** | Sumner, Washington, United States | On Site | Sep 19 |
-| ↳ | **[College – Summer 2026 Internship Program](https://jobright.ai/jobs/info/68dbcfd36f6c5c3fadf31aba?utm_campaign=1057&utm_source=git)** | Atlanta, Georgia, United States | On Site | Sep 19 |
-| ↳ | **[College – Summer 2026 Internship Program](https://jobright.ai/jobs/info/68dbe68e97329f2f7731fcc5?utm_campaign=1057&utm_source=git)** | Houston, Texas, United States | On Site | Sep 19 |
-| **[Pathways, Inc.](https://www.pathwaysforyou.org)** | **[Mental Health Intern](https://jobright.ai/jobs/info/68dbb0296f6c5c3fadf2eef5?utm_campaign=1057&utm_source=git)** | Corning, NY, US | On Site | Sep 18 |
-| **[Indiana Farm Bureau, Inc.](https://www.infarmbureau.org/)** | **[Summer Education and Engagement Intern](https://jobright.ai/jobs/info/68dbb417d6470e72cf4d19ac?utm_campaign=1057&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
