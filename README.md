@@ -57,10 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Commonwealth of Pennsylvania](http://www.arts.pa.gov)** | **[Aide Trainee - Selinsgrove Center (2nd Shift)](https://jobright.ai/jobs/info/68db9b449f13662d20e4f45f?utm_campaign=1057&utm_source=git)** | Snyder County, PA | On Site | Sep 30 |
+| **[Monroe Community College](http://www.monroecc.edu/)** | **[Federal Work Study, Student Employee, Engineering Technologies - Monroe Community College](https://jobright.ai/jobs/info/68db9b109f13662d20e4f3f4?utm_campaign=1057&utm_source=git)** | Rochester, NY | On Site | Sep 30 |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[VP for Student Success - SPC - req13058](https://jobright.ai/jobs/info/68db9a8de19b9e63ba20ff48?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Sep 30 |
+| **[Monroe Community College](http://www.monroecc.edu/)** | **[Federal Work Study, Student Employee, Global Education & International Services - Monroe Community C](https://jobright.ai/jobs/info/68db9a75e19b9e63ba20fef9?utm_campaign=1057&utm_source=git)** | Rochester, NY | On Site | Sep 30 |
+| **[California Department of Health Care Services](https://www.dhcs.ca.gov)** | **[Student Assistant](https://jobright.ai/jobs/info/68db9663e19b9e63ba20f754?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Sep 30 |
+| **[Tulane University School of Medicine](https://medicine.tulane.edu)** | **[Bonquois Postdoctoral Fellow in Women's History  >>>](https://jobright.ai/jobs/info/68db8dbc34f2c406da6d9855?utm_campaign=1057&utm_source=git)** | New Orleans, LA | On Site | Sep 30 |
 | **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/68db76159f13662d20e4b8a1?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Sep 29 |
 | **[Ally](http://www.ally.com/)** | **[Summer 2026 Internship – Auto Finance (Detroit, MI)](https://jobright.ai/jobs/info/68db72bee19b9e63ba20c3c6?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Sep 29 |
-| **[Verizon](https://www.verizon.com)** | **[University of FL- Finance Leadership Development Internship Program](https://jobright.ai/jobs/info/68db5d219f13662d20e4a751?utm_campaign=1057&utm_source=git)** | Lake Mary, Florida | Hybrid | Sep 29 |
-| ↳ | **[University of FL- Finance Leadership Development Internship Program](https://jobright.ai/jobs/info/68db5d21e19b9e63ba20b3c1?utm_campaign=1057&utm_source=git)** | Basking Ridge, New Jersey | Hybrid | Sep 29 |
+| **[Verizon](https://www.verizon.com)** | **[University of FL- Finance Leadership Development Internship Program](https://jobright.ai/jobs/info/68db5d21e19b9e63ba20b3c1?utm_campaign=1057&utm_source=git)** | Basking Ridge, New Jersey | Hybrid | Sep 29 |
+| ↳ | **[University of FL- Finance Leadership Development Internship Program](https://jobright.ai/jobs/info/68db5d219f13662d20e4a751?utm_campaign=1057&utm_source=git)** | Lake Mary, Florida | Hybrid | Sep 29 |
 | **[Rendora AI](https://www.rendora.ai/)** | **[Community Development Intern](https://jobright.ai/jobs/info/68db5d1c34f2c406da6d73fa?utm_campaign=1057&utm_source=git)** | United States | Remote | Sep 29 |
 | **[Newark Unified School District](http://www.newarkunified.org)** | **[100% School Psychologist (Special Education)](https://jobright.ai/jobs/info/68db54819f13662d20e4a0c4?utm_campaign=1057&utm_source=git)** | Newark, CA | On Site | Sep 29 |
 | **[Metropolitan State University of Denver](http://www.msudenver.edu)** | **[Associate Registrar, Academic Records & International Student Support](https://jobright.ai/jobs/info/68db54519f13662d20e4a07d?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Sep 29 |
@@ -97,15 +103,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db27256df7b8311bb164f2?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Sep 29 |
 | ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db27186df7b8311bb164dc?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Sep 29 |
 | ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db27186df7b8311bb164db?utm_campaign=1057&utm_source=git)** | SLC Metro Area | On Site | Sep 29 |
-| ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db26f46df7b8311bb164ac?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Sep 29 |
 | ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db26f46df7b8311bb164ad?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Sep 29 |
+| ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db26f46df7b8311bb164ac?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Sep 29 |
 | **[Ally](http://www.ally.com/)** | **[Summer 2026 Internship – Auto Finance - Business Line Risk](https://jobright.ai/jobs/info/68da21436df7b8311bb0c9ab?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Sep 29 |
 | **[Western Governors University](http://www.wgu.edu/)** | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db26d56df7b8311bb1647d?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Sep 29 |
-| ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db25f70dffed6f83d2cc15?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Sep 29 |
+| ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db25f70dffed6f83d2cc16?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Sep 29 |
 | ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db25f70dffed6f83d2cc13?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Sep 29 |
 | ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db25f70dffed6f83d2cc14?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | Sep 29 |
+| ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db25f70dffed6f83d2cc15?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Sep 29 |
 | ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db25f70dffed6f83d2cc17?utm_campaign=1057&utm_source=git)** | Omaha, NE | On Site | Sep 29 |
-| ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db25f70dffed6f83d2cc16?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Sep 29 |
 | **[H. J. Russell & Company](http://hjrussell.com)** | **[Fall Intern 2026](https://jobright.ai/jobs/info/68db25f50dffed6f83d2cc0a?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Sep 29 |
 | **[Western Governors University](http://www.wgu.edu/)** | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db25a00dffed6f83d2cb68?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Sep 29 |
 | ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db25940dffed6f83d2cb54?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Sep 29 |
@@ -121,6 +127,7 @@ For a complete list, click the following sortable link below:
 | **[Weber State University Department of Automotive Technology](https://www.weber.edu/automotive)** | **[College of Social Sciences and Education Peer Mentor](https://jobright.ai/jobs/info/68db21ff0dffed6f83d2c9f2?utm_campaign=1057&utm_source=git)** | Ogden, UT | On Site | Sep 29 |
 | ↳ | **[Graduate Studies in Education (GSE) Peer Mentor](https://jobright.ai/jobs/info/68db20a5e9b48513789b2047?utm_campaign=1057&utm_source=git)** | Ogden, UT | On Site | Sep 29 |
 | **[Paul Mueller Company](https://www.paulmueller.com/)** | **[THE EDGE INTERNSHIP PROGRAM](https://jobright.ai/jobs/info/68db2019e9b48513789b1f7e?utm_campaign=1057&utm_source=git)** | Osceola, IA | On Site | Sep 29 |
+| **[HOLT Industrial Systems](https://holtindustrialsystems.com)** | **[Service Intern- College](https://jobright.ai/jobs/info/68db90d19f13662d20e4dd60?utm_campaign=1057&utm_source=git)** | Waco, Texas, United States | On Site | Sep 29 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Student Assistant](https://jobright.ai/jobs/info/68db15e76df7b8311bb15f78?utm_campaign=1057&utm_source=git)** | Athens, GA | On Site | Sep 29 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist - EDRP Authorized](https://jobright.ai/jobs/info/68db10bde9b48513789b1a53?utm_campaign=1057&utm_source=git)** | Temple, TX | On Site | Sep 29 |
 | ↳ | **[Staff Psychologist](https://jobright.ai/jobs/info/68db1099e9b48513789b1a09?utm_campaign=1057&utm_source=git)** | Williamsport, PA | On Site | Sep 29 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[United Airlines](https://www.united.com)** | **[Intern - Network Operations Training & Development (Summer 2026)](https://jobright.ai/jobs/info/68db07226df7b8311bb157e5?utm_campaign=1057&utm_source=git)** | Arlington Heights, IL | On Site | Sep 29 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Associate Degree Apprenticeship Program - Underwriting Services - Schaumburg, IL (Summer 2026)](https://jobright.ai/jobs/info/68db07106df7b8311bb157b5?utm_campaign=1057&utm_source=git)** | Illinois, United States | Hybrid | Sep 29 |
 | **[El Dorado County Office of Education](https://www.edcoe.org)** | **[Student Assistant I - Charter Extended Day](https://jobright.ai/jobs/info/68db03b20dffed6f83d2bec7?utm_campaign=1057&utm_source=git)** | Placerville, CA | On Site | Sep 29 |
-| **[Lee County Port Authority](http://flylcpa.com)** | **[2026 Internship](https://jobright.ai/jobs/info/68db0343e9b48513789b1299?utm_campaign=1057&utm_source=git)** | Fort Myers, FL | On Site | Sep 29 |
-| **[Alcon](http://www.alcon.com)** | **[Summer 2026 Intern – Surgical Global Services, Educational Technology](https://jobright.ai/jobs/info/68db027a6df7b8311bb154f4?utm_campaign=1057&utm_source=git)** | Lake Forest, CA | On Site | Sep 29 |
-| **[Apara Autism Centers](https://aparaautism.com/)** | **[RBT Intern – Trainer](https://jobright.ai/jobs/info/68daffbbe9b48513789b10f6?utm_campaign=1057&utm_source=git)** | Pearland, TX | On Site | Sep 29 |
-| ↳ | **[RBT Intern – Trainer](https://jobright.ai/jobs/info/68daff9e0dffed6f83d2bc12?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Sep 29 |
-| ↳ | **[RBT Intern – Trainer](https://jobright.ai/jobs/info/68daff900dffed6f83d2bbdd?utm_campaign=1057&utm_source=git)** | Cypress, TX | On Site | Sep 29 |
-| ↳ | **[RBT Intern – Trainer](https://jobright.ai/jobs/info/68daff446df7b8311bb15446?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Sep 29 |
-| ↳ | **[RBT Intern – Trainer](https://jobright.ai/jobs/info/68daff1f0dffed6f83d2baa6?utm_campaign=1057&utm_source=git)** | Bellevue, NE | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
