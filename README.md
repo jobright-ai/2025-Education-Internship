@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Botany and Plant Pathology Department at Purdue University](https://ag.purdue.edu/btny/Pages/default.aspx)** | **[Purdue Convocations Student Engagement Intern - Student Clerical](https://jobright.ai/jobs/info/68db51179f13662d20e49f15?utm_campaign=1057&utm_source=git)** | West Lafayette, IN | On Site | Sep 29 |
+| **[HOLT CAT](http://www.holtcat.com/)** | **[Service Intern- College](https://jobright.ai/jobs/info/68db4cf29f13662d20e49968?utm_campaign=1057&utm_source=git)** | Waco, TX | On Site | Sep 29 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Early Childhood Education Fellow](https://jobright.ai/jobs/info/68db497ee19b9e63ba20a3b8?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Sep 29 |
+| **[The Institute for Study Abroad](https://ifsa-butler.org)** | **[Intern](https://jobright.ai/jobs/info/68db4938e19b9e63ba20a28d?utm_campaign=1057&utm_source=git)** | United States | Remote | Sep 29 |
+| **[Microsoft](https://www.microsoft.com)** | **[Explore Program Internship Opportunities: Second-Year Students, Atlanta](https://jobright.ai/jobs/info/68db48f2e19b9e63ba20a171?utm_campaign=1057&utm_source=git)** | Atlanta, GA | Hybrid | Sep 29 |
+| **[University of Arkansas](http://uark.edu)** | **[Post Doctoral Reseacher](https://jobright.ai/jobs/info/68db445be19b9e63ba209d14?utm_campaign=1057&utm_source=git)** | Fayetteville, AR | On Site | Sep 29 |
+| **[Shanzo Kitchens LLC](https://www.linkedin.com/company/105008111)** | **[Student Intern - CPT](https://jobright.ai/jobs/info/68db3b899f13662d20e48bd6?utm_campaign=1057&utm_source=git)** | Lombard, IL | On Site | Sep 29 |
+| **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Registered Apprenticeship Program Intern](https://jobright.ai/jobs/info/68db38729f13662d20e48b7c?utm_campaign=1057&utm_source=git)** | Louisville, KY | On Site | Sep 29 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[College of the Arts, Graduation Specialist (Student Services Professional III)](https://jobright.ai/jobs/info/68db386334f2c406da6d5775?utm_campaign=1057&utm_source=git)** | Fullerton, CA | On Site | Sep 29 |
 | **[Western Governors University](http://www.wgu.edu/)** | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db344fe19b9e63ba20939f?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Sep 29 |
 | **[Global Health Leaders](https://www.globalhealthleaders.net)** | **[Medical or Medical Research Internship - Short Term Study Abroad](https://jobright.ai/jobs/info/68db25a60dffed6f83d2cb78?utm_campaign=1057&utm_source=git)** | United States | Remote | Sep 29 |
 | **[Western Governors University](http://www.wgu.edu/)** | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db30be6df7b8311bb16b04?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Sep 29 |
@@ -79,15 +88,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db27ece9b48513789b21af?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Sep 29 |
 | ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db27376df7b8311bb16508?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Sep 29 |
 | ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db27256df7b8311bb164f2?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Sep 29 |
-| ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db27186df7b8311bb164dc?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Sep 29 |
 | ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db27186df7b8311bb164db?utm_campaign=1057&utm_source=git)** | SLC Metro Area | On Site | Sep 29 |
-| ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db26f46df7b8311bb164ad?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Sep 29 |
+| ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db27186df7b8311bb164dc?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Sep 29 |
 | ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db26f46df7b8311bb164ac?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Sep 29 |
-| ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db26d56df7b8311bb1647d?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Sep 29 |
+| ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db26f46df7b8311bb164ad?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Sep 29 |
+| **[Ally](http://www.ally.com/)** | **[Summer 2026 Internship – Auto Finance - Business Line Risk](https://jobright.ai/jobs/info/68da21436df7b8311bb0c9ab?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Sep 29 |
+| **[Western Governors University](http://www.wgu.edu/)** | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db26d56df7b8311bb1647d?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Sep 29 |
 | ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db25f70dffed6f83d2cc13?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Sep 29 |
 | ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db25f70dffed6f83d2cc14?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | Sep 29 |
-| ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db25f70dffed6f83d2cc17?utm_campaign=1057&utm_source=git)** | Omaha, NE | On Site | Sep 29 |
 | ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db25f70dffed6f83d2cc15?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Sep 29 |
+| ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db25f70dffed6f83d2cc17?utm_campaign=1057&utm_source=git)** | Omaha, NE | On Site | Sep 29 |
 | ↳ | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db25f70dffed6f83d2cc16?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Sep 29 |
 | **[H. J. Russell & Company](http://hjrussell.com)** | **[Fall Intern 2026](https://jobright.ai/jobs/info/68db25f50dffed6f83d2cc0a?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Sep 29 |
 | **[Western Governors University](http://www.wgu.edu/)** | **[Internship & Experiential Learning Manager](https://jobright.ai/jobs/info/68db25a00dffed6f83d2cb68?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Sep 29 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Apara Autism Centers](https://aparaautism.com/)** | **[RBT Intern – Trainer](https://jobright.ai/jobs/info/68dafe9ce9b48513789b0da4?utm_campaign=1057&utm_source=git)** | Plano, TX | On Site | Sep 29 |
 | ↳ | **[RBT Intern – Trainer](https://jobright.ai/jobs/info/68dafe9ce9b48513789b0da2?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Sep 29 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Trading Intern](https://jobright.ai/jobs/info/68dafe956df7b8311bb15367?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Sep 29 |
-| **[Dallas College](https://www.dcccd.edu)** | **[Administrative Support-Student Assistant  (Basic Needs West Workforce Center)](https://jobright.ai/jobs/info/68dafbdb0dffed6f83d2b8c9?utm_campaign=1057&utm_source=git)** | El Centro Campus | On Site | Sep 29 |
-| **[Northeastern University](https://www.northeastern.edu/cri/)** | **[Job Posting Title Postdoctoral Research Associate - Physical Therapy](https://jobright.ai/jobs/info/68daf9816df7b8311bb14e3a?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Sep 29 |
-| **[Interactive Brokers](https://www.interactivebrokers.com/en/home.php)** | **[Summer Internship 2026](https://jobright.ai/jobs/info/68daf96c6df7b8311bb14dfb?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Sep 29 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[VP for Student Success - NVC - req13112](https://jobright.ai/jobs/info/68daf4526df7b8311bb14887?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Sep 29 |
-| **[Datacor, Inc.](http://www.datacor.com)** | **[Summer 2026 Internship Program](https://jobright.ai/jobs/info/68daf1c207c157682e56fe1b?utm_campaign=1057&utm_source=git)** | United States | Remote | Sep 29 |
-| **[Keystone AI](https://www.keystone.ai)** | **[2026 Summer Interns- Undergraduate](https://jobright.ai/jobs/info/68daf1c007c157682e56fe10?utm_campaign=1057&utm_source=git)** | New York | On Site | Sep 29 |
-| **[Baptist Health](http://baptisthealth.net/)** | **[Nurse Intern, Observation , Per Diem, 07P-7:30A](https://jobright.ai/jobs/info/68daf18307c157682e56fd9f?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Sep 29 |
-| **[Apara Autism Centers](https://aparaautism.com/)** | **[RBT Intern – Trainer](https://jobright.ai/jobs/info/68daf1690dffed6f83d2af22?utm_campaign=1057&utm_source=git)** | Lewisville, TX | On Site | Sep 29 |
-| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program – Discovery Immunology – Co-op (Cambridge, MA)](https://jobright.ai/jobs/info/68daf15a0dffed6f83d2aeb9?utm_campaign=1057&utm_source=git)** | USA - Massachusetts - Cambridge (320 Bent Street) | Hybrid | Sep 29 |
-| **[Manhattan Star Academy](www.yai.org/msa)** | **[Hankering For More Internship](https://jobright.ai/jobs/info/68daefd707c157682e56f9d7?utm_campaign=1057&utm_source=git)** | Manhattan | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
