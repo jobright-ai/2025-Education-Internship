@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Concurrent](https://poweredbyconcurrent.com)** | **[Summer Intern 2026](https://jobright.ai/jobs/info/68dc4620a125e75c4229f11f?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Sep 30 |
+| **[Children's Hospital of Michigan](http://childrensdmc.org)** | **[Pharmacy Intern P2 Contingent Rotate](https://jobright.ai/jobs/info/68dc45d7ddc10244dd6738e1?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Sep 30 |
+| **[FOX Sports](http://foxsports.com)** | **[Summer 2026 FOX Sports Internship Program - Charlotte](https://jobright.ai/jobs/info/68dc40a0ddc10244dd673664?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Sep 30 |
+| **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for Residence Life](https://jobright.ai/jobs/info/68dc38b3b324915618962553?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | Sep 30 |
+| **[FOX Sports](http://foxsports.com)** | **[Summer 2026 FOX Sports Internship Program - Los Angeles](https://jobright.ai/jobs/info/68dc3827731a80473206780a?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Sep 30 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Dealer Services Instructional Design](https://jobright.ai/jobs/info/68dc31fd66059a42a715c668?utm_campaign=1057&utm_source=git)** | Arlington, TX | Hybrid | Sep 30 |
 | **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program-Quality Assurance, Internal Compliance & Oversight](https://jobright.ai/jobs/info/68dc31de97329f2f7732353a?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Sep 30 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Assistant Director, Student Engagement](https://jobright.ai/jobs/info/68dc263797329f2f77322fee?utm_campaign=1057&utm_source=git)** | Sarasota, FL | On Site | Sep 30 |
@@ -92,6 +97,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Naturalist (Spring)](https://jobright.ai/jobs/info/68dad94607c157682e56e5bb?utm_campaign=1057&utm_source=git)** | Rapid City, SD | On Site | Sep 29 |
 | **[PeoplesBank](http://bankatpeoples.com)** | **[Internship Program - Summer 2026](https://jobright.ai/jobs/info/68dbae826f6c5c3fadf2ea58?utm_campaign=1057&utm_source=git)** | Holyoke, MA, US | On Site | Sep 26 |
 | **[Arts In Action Community Charter Schools](http://www.artsinactioncharter.org)** | **[Intern School Psychologist (Paid)](https://jobright.ai/jobs/info/68d6dde3894705799a2ee320?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Sep 25 |
+| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68dc377f731a804732067778?utm_campaign=1057&utm_source=git)** | Morristown - South | Hybrid | Sep 25 |
+| ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68dc3789731a804732067799?utm_campaign=1057&utm_source=git)** | Chicago - 155 Wacker | Hybrid | Sep 25 |
+| ↳ | **[Risk Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68dc375ba271e745b8a7cc1d?utm_campaign=1057&utm_source=git)** | Philadelphia - South 17th | Hybrid | Sep 25 |
 | **[Johnson & Johnson MedTech](https://www.jnjmedicaldevices.com/)** | **[2026 J&J Orthopedics Internship – Digital Education](https://jobright.ai/jobs/info/68d44b4a17554c2d9eef8148?utm_campaign=1057&utm_source=git)** | Raynham, MA | On Site | Sep 25 |
 | ↳ | **[2026 J&J Orthopedics Internship – Digital Education](https://jobright.ai/jobs/info/68d465798c62e63bc7fe8fd0?utm_campaign=1057&utm_source=git)** | West Chester, PA | On Site | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
