@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ACTS - Agency for Community Treatment Services](https://www.actsfl.org)** | **[Counselor Internship](https://jobright.ai/jobs/info/68ddef7409bda65a4b624ce2?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Oct 01 |
+| **[Travelers](https://www.travelers.com)** | **[Business Insurance Underwriting Professional Development Program Internship (BI UPDP Intern))](https://jobright.ai/jobs/info/68ddecb344d32141e0bfbe7f?utm_campaign=1057&utm_source=git)** | Walnut Creek, CA | Hybrid | Oct 01 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Scholar Advisor](https://jobright.ai/jobs/info/68ddeb3709bda65a4b6249cd?utm_campaign=1057&utm_source=git)** | Chapel Hill, NC | On Site | Oct 01 |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[VP for Student Success - SPC - req13058](https://jobright.ai/jobs/info/68dde771a125e75c422afcec?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Oct 01 |
+| **[ACTS - Agency for Community Treatment Services](https://www.actsfl.org)** | **[Therapist Internship](https://jobright.ai/jobs/info/68dde58e44d32141e0bfb897?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Oct 01 |
+| **[Pittsburgh Riverhounds SC](https://www.riverhounds.com)** | **[Spring 2026 Rotational Associates Program](https://jobright.ai/jobs/info/68dde1f744d32141e0bfb70e?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Oct 01 |
 | **[Loews Hotels & Co](https://www.loewshotels.com)** | **[Food & Beverage Internship - Loews Hotels Universal Orlando](https://jobright.ai/jobs/info/68ddd9c744d32141e0bfb26e?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Oct 01 |
 | **[Destination by Hyatt](https://www.thewoodmark.com/still-spa.htm)** | **[Summer 2026 Recreation Internship](https://jobright.ai/jobs/info/68ddd6adddc10244dd6840b9?utm_campaign=1057&utm_source=git)** | Isle of Palms, SC | On Site | Oct 01 |
 | **[Parkview Health](http://www.parkview.com)** | **[MyWell-Being Summer Non-Clinical Intern](https://jobright.ai/jobs/info/68ddd662ddc10244dd68401e?utm_campaign=1057&utm_source=git)** | Greater Fort Wayne | On Site | Oct 01 |
@@ -100,11 +106,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68dda56544d32141e0bf9d9c?utm_campaign=1057&utm_source=git)** | Smyrna, GA | On Site | Oct 01 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68dda50744d32141e0bf9c69?utm_campaign=1057&utm_source=git)** | Lilburn, GA | On Site | Oct 01 |
 | **[RBC](https://www.rbc.com)** | **[2026 Learning & Development Summer Internship - USWM](https://jobright.ai/jobs/info/68dda4c8ddc10244dd682827?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Oct 01 |
-| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68dda4c444d32141e0bf9ba5?utm_campaign=1057&utm_source=git)** | Manassas, VA | On Site | Oct 01 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68dda4c444d32141e0bf9ba4?utm_campaign=1057&utm_source=git)** | Gainesville, GA | On Site | Oct 01 |
+| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68dda4c444d32141e0bf9ba4?utm_campaign=1057&utm_source=git)** | Gainesville, GA | On Site | Oct 01 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68dda4c444d32141e0bf9ba5?utm_campaign=1057&utm_source=git)** | Manassas, VA | On Site | Oct 01 |
 | **[Enterprise for Youth](https://enterpriseforyouth.org/)** | **[Program Director: Bloomberg Arts Internship Program](https://jobright.ai/jobs/info/68dda48ca125e75c422adced?utm_campaign=1057&utm_source=git)** | San Francisco, CA | Hybrid | Oct 01 |
-| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68dda46744d32141e0bf9a7f?utm_campaign=1057&utm_source=git)** | Antioch, TN | On Site | Oct 01 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68dda46744d32141e0bf9a7e?utm_campaign=1057&utm_source=git)** | Hackettstown, NJ | On Site | Oct 01 |
+| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68dda46744d32141e0bf9a7e?utm_campaign=1057&utm_source=git)** | Hackettstown, NJ | On Site | Oct 01 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68dda46744d32141e0bf9a7f?utm_campaign=1057&utm_source=git)** | Antioch, TN | On Site | Oct 01 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68dda44d44d32141e0bf9a1f?utm_campaign=1057&utm_source=git)** | Basking Ridge, NJ | On Site | Oct 01 |
 | **[Stanislaus County Office of Education](http://www.stancoe.org/)** | **[SHORT TERM - Mental Health Student Intern, Deadline: 10/8/2025](https://jobright.ai/jobs/info/68dda449a125e75c422adc24?utm_campaign=1057&utm_source=git)** | West Modesto, CA | On Site | Oct 01 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68dda44544d32141e0bf9a0f?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Oct 01 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Desert Parkway Behavioral Healthcare Hospital](https://www.desertparkway.com)** | **[Clinical Intern / Licensed Clinician - Outpatient (evening groups)](https://jobright.ai/jobs/info/68dd6ecb44d32141e0bf6a21?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Oct 01 |
 | **[RBC](https://www.rbc.com)** | **[2026 Learning & Development Summer Internship - USWM](https://jobright.ai/jobs/info/68dd680fddc10244dd67f225?utm_campaign=1057&utm_source=git)** | Minneapolis, Minnesota, United States of America | On Site | Oct 01 |
 | ↳ | **[2026 Learning & Development Summer Internship - USWM](https://jobright.ai/jobs/info/68dd6807ddc10244dd67f20d?utm_campaign=1057&utm_source=git)** | Minneapolis, Minnesota, United States of America | On Site | Oct 01 |
-| **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist - Behavioral Health Interdisciplinary Program](https://jobright.ai/jobs/info/68dd63dc44d32141e0bf6447?utm_campaign=1057&utm_source=git)** | Williston, ND | On Site | Oct 01 |
-| ↳ | **[Staff Psychologist Outpatient Psychological Services (OPS)](https://jobright.ai/jobs/info/68dd63caddc10244dd67ef05?utm_campaign=1057&utm_source=git)** | Salem, VA | On Site | Oct 01 |
-| ↳ | **[Staff Psychologist](https://jobright.ai/jobs/info/68dc0ec797329f2f77322482?utm_campaign=1057&utm_source=git)** | Hyannis, MA | On Site | Oct 01 |
-| **[Dr. April Brown](https://www.draprilbrown.com)** | **[Registered Intern / Graduate Student – MFT or Mental Health](https://jobright.ai/jobs/info/68dd5fd7ddc10244dd67ed2d?utm_campaign=1057&utm_source=git)** | Cape Coral, FL | Hybrid | Oct 01 |
-| **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Psychologist - Primary Care Mental Health Integration](https://jobright.ai/jobs/info/68dd5bf344d32141e0bf6138?utm_campaign=1057&utm_source=git)** | Syracuse, NY | On Site | Oct 01 |
-| ↳ | **[Staff Psychologist - Outpatient Mental Health and Substance Use Disorders](https://jobright.ai/jobs/info/68dd5bc7a125e75c422aa181?utm_campaign=1057&utm_source=git)** | Rapid City, SD | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
