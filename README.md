@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lakeview Center](https://elakeviewcenter.org/)** | **[Intern Masters in Counseling](https://jobright.ai/jobs/info/68de698d09bda65a4b62aa57?utm_campaign=1057&utm_source=git)** | Pensacola, FL | On Site | Oct 02 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Signature Experiences, DVC Learning & Development Intern, Summer 2026](https://jobright.ai/jobs/info/68de66e5a125e75c422b426d?utm_campaign=1057&utm_source=git)** | Celebration, FL | On Site | Oct 02 |
 | **[GCU Career Services](https://www.gcu.edu/why-gcu/campus-life/student-success/career-services)** | **[International Trade and Finance– Traditional Campus – Colangelo College of Business](https://jobright.ai/jobs/info/68de5cfba125e75c422b3e7d?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Oct 02 |
 | **[Education Service Center Region 13 ](https://esc13.net)** | **[Non-Paid University - Nurse Interns - 2025-2026](https://jobright.ai/jobs/info/68de5511a125e75c422b3c28?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Oct 02 |
 | **[Tacoma Community College](http://www.tacomacc.edu/)** | **[Student Programming, Government and Ambassadors](https://jobright.ai/jobs/info/68de534744d32141e0bff7a6?utm_campaign=1057&utm_source=git)** | Tacoma, WA | On Site | Oct 02 |
@@ -67,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[AT&T](https://www.att.com/)** | **[Supply Chain Leadership Program Undergraduate Internship - Sourcing (Evergreen)](https://jobright.ai/jobs/info/68de3f0a09bda65a4b6285c8?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Oct 02 |
 | **[CommonSpirit Health](https://www.commonspirit.org)** | **[Intern](https://jobright.ai/jobs/info/68de59a209bda65a4b6299c5?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | Oct 02 |
 | **[AT&T](https://www.att.com/)** | **[Supply Chain Leadership Program Undergraduate Internship - Planning & Logistics](https://jobright.ai/jobs/info/68de642f09bda65a4b62a595?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Oct 02 |
+| **[Providence Health & Services](https://www.providence.org/)** | **[Clinical Student Intern](https://jobright.ai/jobs/info/68de2e97a125e75c422b1a92?utm_campaign=1057&utm_source=git)** | Spokane, WA | On Site | Oct 02 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/68de2e67a125e75c422b19c8?utm_campaign=1057&utm_source=git)** | Alexandria, LA | On Site | Oct 02 |
 | **[Providence Health & Services](https://www.providence.org/)** | **[Clinical Student Intern](https://jobright.ai/jobs/info/68de2d4f09bda65a4b626ab1?utm_campaign=1057&utm_source=git)** | Spokane, WA | On Site | Oct 02 |
 | **[Allegheny County Department of Human Services](http://www.alleghenycounty.us/dhs)** | **[2026 Allegheny County Department of Human Services Internship -  Administration](https://jobright.ai/jobs/info/68de2caea125e75c422b1196?utm_campaign=1057&utm_source=git)** | Pittsburgh, Pennsylvania, United States | On Site | Oct 02 |
@@ -88,7 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Public Counsel](https://publiccounsel.org)** | **[2026 Summer Intern - Audrey Irmas Education Equity Project](https://jobright.ai/jobs/info/68ddd021a125e75c422af245?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Oct 01 |
 | **[Pantex Plant](https://www.pantex.com)** | **[EMS Student Intern - Emergency Management](https://jobright.ai/jobs/info/68ddcd0aa125e75c422af15f?utm_campaign=1057&utm_source=git)** | Amarillo, TX | On Site | Oct 01 |
 | **[Noah's Animal Hospitals](https://www.noahshospitals.com)** | **[DVM Internship: 1st & 2nd Year Veterinary Medicine School Students](https://jobright.ai/jobs/info/68ddcca6ddc10244dd683ba4?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Oct 01 |
-| **[Providence](https://www.psjhealth.org/)** | **[Clinical Student Intern](https://jobright.ai/jobs/info/68ddcc7ea125e75c422aef8a?utm_campaign=1057&utm_source=git)** | Spokane, WA, United States | On Site | Oct 01 |
+| **[Providence](https://www.psjhealth.org/)** | **[Clinical Student Intern](https://jobright.ai/jobs/info/68ddcc6cddc10244dd683ade?utm_campaign=1057&utm_source=git)** | Spokane, WA, United States | On Site | Oct 01 |
 | **[Travelers](https://www.travelers.com)** | **[Business Insurance Underwriting Professional Development Program (BI UPDP) Internship](https://jobright.ai/jobs/info/68ddcc5b5c94f548c951a9ec?utm_campaign=1057&utm_source=git)** | NC - Charlotte | Hybrid | Oct 01 |
 | **[The College of St. Scholastica](https://www.css.edu)** | **[Financial Aid Office Assistant](https://jobright.ai/jobs/info/68ddf6a309bda65a4b624f90?utm_campaign=1057&utm_source=git)** | Duluth, MN | On Site | Oct 01 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Intern](https://jobright.ai/jobs/info/68ddc93ca125e75c422aed75?utm_campaign=1057&utm_source=git)** | Lancaster, PA | On Site | Oct 01 |
@@ -99,7 +102,7 @@ For a complete list, click the following sortable link below:
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist - PCMHI](https://jobright.ai/jobs/info/68ddbc25ddc10244dd683671?utm_campaign=1057&utm_source=git)** | Prescott, AZ | On Site | Oct 01 |
 | ↳ | **[Staff Psychologist - Behavioral Health Interdisciplinary Program](https://jobright.ai/jobs/info/68ddbbc6a125e75c422aea99?utm_campaign=1057&utm_source=git)** | Cottonwood, AZ | On Site | Oct 01 |
 | **[Ochsner Health](https://www.ochsner.org/)** | **[Student Intern](https://jobright.ai/jobs/info/68ddba0c44d32141e0bfa8e0?utm_campaign=1057&utm_source=git)** | New Orleans, LA | On Site | Oct 01 |
-| **[Marriott International](http://travel-brilliantly.marriott.com)** | **[University Summer Internship](https://jobright.ai/jobs/info/68ddafe044d32141e0bfa47f?utm_campaign=1057&utm_source=git)** | 6023 Park South Drive, Charlotte, NC, 28210, US | On Site | Oct 01 |
+| **[Marriott International](https://www.marriott.com/hotels/travel/mkeak-hotel-metro-autograph-collection/)** | **[University Summer Internship](https://jobright.ai/jobs/info/68ddafe044d32141e0bfa47f?utm_campaign=1057&utm_source=git)** | 6023 Park South Drive, Charlotte, NC, 28210, US | On Site | Oct 01 |
 | **[Zurich North America](https://www.zurichna.com)** | **[ZRS Internship - Training and Development - Schaumburg, IL (Summer 2026)](https://jobright.ai/jobs/info/68ddaf1744d32141e0bfa336?utm_campaign=1057&utm_source=git)** | Schaumburg, IL | Hybrid | Oct 01 |
 | **[U.S. Chamber of Commerce](https://www.uschamber.com/)** | **[Internship, Spring 2026](https://jobright.ai/jobs/info/68ddae9044d32141e0bfa249?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Oct 01 |
 | ↳ | **[Foundation Internship, Spring 2026](https://jobright.ai/jobs/info/68ddae14ddc10244dd682e4b?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Oct 01 |
@@ -122,11 +125,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68dda56544d32141e0bf9d9c?utm_campaign=1057&utm_source=git)** | Smyrna, GA | On Site | Oct 01 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68dda50744d32141e0bf9c69?utm_campaign=1057&utm_source=git)** | Lilburn, GA | On Site | Oct 01 |
 | **[RBC](https://www.rbc.com)** | **[2026 Learning & Development Summer Internship - USWM](https://jobright.ai/jobs/info/68dda4c8ddc10244dd682827?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Oct 01 |
-| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68dda4c444d32141e0bf9ba5?utm_campaign=1057&utm_source=git)** | Manassas, VA | On Site | Oct 01 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68dda4c444d32141e0bf9ba4?utm_campaign=1057&utm_source=git)** | Gainesville, GA | On Site | Oct 01 |
+| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68dda4c444d32141e0bf9ba4?utm_campaign=1057&utm_source=git)** | Gainesville, GA | On Site | Oct 01 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68dda4c444d32141e0bf9ba5?utm_campaign=1057&utm_source=git)** | Manassas, VA | On Site | Oct 01 |
 | **[Enterprise for Youth](https://enterpriseforyouth.org/)** | **[Program Director: Bloomberg Arts Internship Program](https://jobright.ai/jobs/info/68dda48ca125e75c422adced?utm_campaign=1057&utm_source=git)** | San Francisco, CA | Hybrid | Oct 01 |
-| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68dda46744d32141e0bf9a7e?utm_campaign=1057&utm_source=git)** | Hackettstown, NJ | On Site | Oct 01 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68dda46744d32141e0bf9a7f?utm_campaign=1057&utm_source=git)** | Antioch, TN | On Site | Oct 01 |
+| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68dda46744d32141e0bf9a7f?utm_campaign=1057&utm_source=git)** | Antioch, TN | On Site | Oct 01 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68dda46744d32141e0bf9a7e?utm_campaign=1057&utm_source=git)** | Hackettstown, NJ | On Site | Oct 01 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68dda44d44d32141e0bf9a1f?utm_campaign=1057&utm_source=git)** | Basking Ridge, NJ | On Site | Oct 01 |
 | **[Stanislaus County Office of Education](http://www.stancoe.org/)** | **[SHORT TERM - Mental Health Student Intern, Deadline: 10/8/2025](https://jobright.ai/jobs/info/68dda449a125e75c422adc24?utm_campaign=1057&utm_source=git)** | West Modesto, CA | On Site | Oct 01 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68dda44544d32141e0bf9a0f?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Oct 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BayCare Health System](https://baycare.org/bmg)** | **[Perioperative Internship - March 2026 Start](https://jobright.ai/jobs/info/68dd86ffa125e75c422abab6?utm_campaign=1057&utm_source=git)** | All, MO | On Site | Oct 01 |
 | **[Wilderness Resort in Wisconsin Dells](https://www.wildernessresort.com)** | **[Aquatics Internship Summer 2026](https://jobright.ai/jobs/info/68dd83afa125e75c422ab84c?utm_campaign=1057&utm_source=git)** | Wilderness - Wisconsin Dells, WI, 511 E Adams St, Wisconsin Dells, Wisconsin, United States of America | On Site | Oct 01 |
 | **[Faith Works Industries](https://www.faithwi.com)** | **[Clinical Intern](https://jobright.ai/jobs/info/68dd82beddc10244dd6800d5?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | On Site | Oct 01 |
-| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Open Rank - Academic Internal Medicine-Pediatrics/Med Peds](https://jobright.ai/jobs/info/68dd7f16ddc10244dd67fefb?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Oct 01 |
-| **[Sensory Innovation Therapies](www.sensoryinnovationtherapies.com)** | **[Pediatric Therapy Summer Intern](https://jobright.ai/jobs/info/68dd7b4ea125e75c422ab340?utm_campaign=1057&utm_source=git)** | Stuart, FL | On Site | Oct 01 |
-| **[InterVarsity Christian Fellowship/USA](http://www.intervarsity.org)** | **[Student Intern - Field UNR (Undergraduate Ministry)](https://jobright.ai/jobs/info/68dd7b46ddc10244dd67fde0?utm_campaign=1057&utm_source=git)** | Nevada | Hybrid | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
