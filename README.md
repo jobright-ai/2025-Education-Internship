@@ -57,9 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Atrium Health](https://atriumhealth.org/medical-services/childrens-services/levine-childrens-hospital)** | **[Physical Therapy Intern](https://jobright.ai/jobs/info/68df466efe896042b0b78d70?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Oct 02 |
-| ↳ | **[Psychiatric Services Intern](https://jobright.ai/jobs/info/68df4667fe896042b0b78d6b?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Oct 02 |
+| **[Atrium Health](https://atriumhealth.org/medical-services/childrens-services/levine-childrens-hospital)** | **[Physical Therapy Intern](https://jobright.ai/jobs/info/68df5f235ab4977c2e953ee0?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Oct 02 |
+| **[Sonoma County Office of Education](http://www.scoe.org)** | **[Wellness Coach Intern (Alternative Education Department)](https://jobright.ai/jobs/info/68df5ee55ab4977c2e953e4c?utm_campaign=1057&utm_source=git)** | Santa Rosa, CA | On Site | Oct 02 |
+| **[Terros Health](https://www.terroshealth.org/)** | **[Intern - Maverick house- Master's level](https://jobright.ai/jobs/info/68df56bf5ab4977c2e95345c?utm_campaign=1057&utm_source=git)** | Glendale, AZ | On Site | Oct 02 |
+| ↳ | **[Intern - Children's Services](https://jobright.ai/jobs/info/68df5580fe896042b0b79c17?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Oct 02 |
+| **[Parkland Health](https://www.parklandhealth.org)** | **[College Intern - Multi-Semester - January 2026](https://jobright.ai/jobs/info/68df554bfe896042b0b79b9f?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Oct 02 |
+| **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Home Based Primary Care Clinical Psychologist](https://jobright.ai/jobs/info/68df532f5ab4977c2e953287?utm_campaign=1057&utm_source=git)** | Fayetteville, NC | On Site | Oct 02 |
+| **[Highline Public Schools](https://www.highlineschools.org/)** | **[TEACHER ELEMENTARY (5TH GRADE) **INTERNAL ONLY, NON-CONTINUING**](https://jobright.ai/jobs/info/68df5004fe896042b0b7957f?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Oct 02 |
+| **[Lamb Weston](http://www.lambweston.com/)** | **[Lamb Weston Summer Internship Program (2026)](https://jobright.ai/jobs/info/68df4d9e5ab4977c2e952fec?utm_campaign=1057&utm_source=git)** | Kennewick, WA | On Site | Oct 02 |
 | **[Travelers](https://www.travelers.com)** | **[Bond & Specialty Insurance Underwriting Professional Development Program (BSI UPDP) Internship](https://jobright.ai/jobs/info/68df3d73fe896042b0b78363?utm_campaign=1057&utm_source=git)** | Alpharetta, GA | Hybrid | Oct 02 |
+| ↳ | **[Bond & Specialty Insurance Underwriting Professional Development Program (BSI UPDP) Internship](https://jobright.ai/jobs/info/68df3bcdfe896042b0b77f33?utm_campaign=1057&utm_source=git)** | Alpharetta, GA | Hybrid | Oct 02 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Associate Director of International Student Services](https://jobright.ai/jobs/info/68df35606be63b6ec996d0eb?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD | On Site | Oct 02 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Student Intern](https://jobright.ai/jobs/info/68df2c785ab4977c2e9513ac?utm_campaign=1057&utm_source=git)** | Freehold, NJ | Hybrid | Oct 02 |
 | **[Terros Health](https://www.terroshealth.org/)** | **[Intern - Maverick house- Master's level (5496)](https://jobright.ai/jobs/info/68df29f5fe896042b0b776ef?utm_campaign=1057&utm_source=git)** | Glendale, AZ, USA | On Site | Oct 02 |
@@ -107,10 +114,10 @@ For a complete list, click the following sortable link below:
 | **[La Sierra University](http://www.lasierra.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/68dee03ba125e75c422b788b?utm_campaign=1057&utm_source=git)** | Riverside, CA | On Site | Oct 02 |
 | **[Meridian Health](https://www.meridianhealth.com)** | **[Intern - Masters Level Clinical Therapist 6615](https://jobright.ai/jobs/info/68dedfe109bda65a4b62e727?utm_campaign=1057&utm_source=git)** | Portland, IN | On Site | Oct 02 |
 | **[JFK Johnson Rehabilitation Institute ](http://JFKJohnson.org)** | **[CURRICULAR DESIGN/INSTRUCTIONAL TECHNOLOGY COORDINATOR](https://jobright.ai/jobs/info/68df06c35ab4977c2e94c50d?utm_campaign=1057&utm_source=git)** | Nutley, NJ | Hybrid | Oct 02 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[VP for Student Success - SPC - req13058](https://jobright.ai/jobs/info/68df11c45ab4977c2e94eabc?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Oct 02 |
 | **[Kleinfelder](http://www.kleinfelder.com/)** | **[University of Maine Fall 2025 Career Fair](https://jobright.ai/jobs/info/68dedbc0a125e75c422b751a?utm_campaign=1057&utm_source=git)** | Manchester, NH | On Site | Oct 02 |
 | **[Old National Bank](http://www.oldnational.com)** | **[Nashville 2026 Summer Internship Program](https://jobright.ai/jobs/info/68dedab709bda65a4b62e435?utm_campaign=1057&utm_source=git)** | US-TN-Nashville | On Site | Oct 02 |
-| ↳ | **[Chicago 2026 Summer Internship Program](https://jobright.ai/jobs/info/68ded96aa125e75c422b7420?utm_campaign=1057&utm_source=git)** | US-IL-Chicago | On Site | Oct 02 |
+| **[Child and Family Focus Inc.](https://www.childandfamilyfocus.org)** | **[Masters Level Mental Health Intern](https://jobright.ai/jobs/info/68df4a13fe896042b0b78faf?utm_campaign=1057&utm_source=git)** | Plymouth Meeting, PA | On Site | Oct 02 |
+| **[Old National Bank](http://www.oldnational.com)** | **[Chicago 2026 Summer Internship Program](https://jobright.ai/jobs/info/68ded96aa125e75c422b7420?utm_campaign=1057&utm_source=git)** | US-IL-Chicago | On Site | Oct 02 |
 | ↳ | **[Evansville 2026 Internship Program](https://jobright.ai/jobs/info/68ded941a125e75c422b73af?utm_campaign=1057&utm_source=git)** | US-IN-Evansville | On Site | Oct 02 |
 | ↳ | **[Indianapolis 2026 Summer Internship Program](https://jobright.ai/jobs/info/68ded935a125e75c422b738e?utm_campaign=1057&utm_source=git)** | US-IN-Indianapolis | On Site | Oct 02 |
 | **[Terros Health](https://www.terroshealth.org/)** | **[Intern - Children's Services (5490)](https://jobright.ai/jobs/info/68ded926a125e75c422b735d?utm_campaign=1057&utm_source=git)** | Phoenix, AZ, USA | On Site | Oct 02 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Intern I - Summer 2026 - Provider Relations](https://jobright.ai/jobs/info/68deb72544d32141e0c01c49?utm_campaign=1057&utm_source=git)** | Utica, NY | On Site | Oct 02 |
 | **[Lifetime Benefit Solutions, Inc.](http://lifetimebenefitsolutions.com)** | **[College Intern I - Summer 2026 - Provider Relations](https://jobright.ai/jobs/info/68deb3dc09bda65a4b62d071?utm_campaign=1057&utm_source=git)** | Utica, NY | On Site | Oct 02 |
 | ↳ | **[College Intern I - Summer 2026 - Provider Relations](https://jobright.ai/jobs/info/68deb3d944d32141e0c01b46?utm_campaign=1057&utm_source=git)** | Buffalo, NY | On Site | Oct 02 |
-| ↳ | **[College Intern I - Summer 2026 - Provider Relations](https://jobright.ai/jobs/info/68deb37d44d32141e0c01aa3?utm_campaign=1057&utm_source=git)** | Elmira, NY | On Site | Oct 02 |
-| ↳ | **[College Intern I - Summer 2026 - Medical Services](https://jobright.ai/jobs/info/68deb34709bda65a4b62cfad?utm_campaign=1057&utm_source=git)** | Binghamton, NY | On Site | Oct 02 |
-| ↳ | **[College Intern I - Summer 2026 - Medical Services](https://jobright.ai/jobs/info/68deb2d609bda65a4b62ced2?utm_campaign=1057&utm_source=git)** | Buffalo, NY | On Site | Oct 02 |
-| **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Medical Services](https://jobright.ai/jobs/info/68df0a495ab4977c2e94d5ab?utm_campaign=1057&utm_source=git)** | Binghamton, NY | On Site | Oct 02 |
-| ↳ | **[College Intern I - Summer 2026 - Provider Relations](https://jobright.ai/jobs/info/68df0b825ab4977c2e94dbc6?utm_campaign=1057&utm_source=git)** | Binghamton, NY | On Site | Oct 02 |
-| **[HYU Spiritual Life & Learning Society](ukuunki.org)** | **[Internship Coordinator](https://jobright.ai/jobs/info/68deaff944d32141e0c0199f?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Oct 02 |
-| **[State of Ohio](http://ohio.gov/)** | **[Civic Education Intern](https://jobright.ai/jobs/info/68deacc909bda65a4b62cad8?utm_campaign=1057&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
