@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Atrium Health](https://atriumhealth.org/medical-services/childrens-services/levine-childrens-hospital)** | **[Physical Therapy Intern](https://jobright.ai/jobs/info/68df5f235ab4977c2e953ee0?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Oct 02 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Open Rank- Ambulatory General Internist](https://jobright.ai/jobs/info/68df76166be63b6ec9970231?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Oct 03 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Assistant Director, Student Engagement](https://jobright.ai/jobs/info/68df6d26fe896042b0b7ab89?utm_campaign=1057&utm_source=git)** | Sarasota, FL | On Site | Oct 02 |
+| **[MCH International LLC](https://mantra.care/)** | **[Psychologist Internship](https://jobright.ai/jobs/info/68df6d0c5ab4977c2e954718?utm_campaign=1057&utm_source=git)** | United States | Remote | Oct 02 |
+| **[University of Illinois Chicago (UIC) School of Public Health](https://publichealth.uic.edu)** | **[Assistant Director of Student Development, UICOM-Rockford- Urban Health Program](https://jobright.ai/jobs/info/68df64acfe896042b0b7a73b?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Oct 02 |
 | **[Sonoma County Office of Education](http://www.scoe.org)** | **[Wellness Coach Intern (Alternative Education Department)](https://jobright.ai/jobs/info/68df5ee55ab4977c2e953e4c?utm_campaign=1057&utm_source=git)** | Santa Rosa, CA | On Site | Oct 02 |
 | **[Terros Health](https://www.terroshealth.org/)** | **[Intern - Maverick house- Master's level](https://jobright.ai/jobs/info/68df56bf5ab4977c2e95345c?utm_campaign=1057&utm_source=git)** | Glendale, AZ | On Site | Oct 02 |
 | ↳ | **[Intern - Children's Services](https://jobright.ai/jobs/info/68df5580fe896042b0b79c17?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Oct 02 |
@@ -129,9 +132,9 @@ For a complete list, click the following sortable link below:
 | **[Keystone AI](https://www.keystone.ai)** | **[Undergraduate Students- Share your interest in Summer 2026 Internships](https://jobright.ai/jobs/info/68df081e5ab4977c2e94cb5e?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Oct 02 |
 | **[Sealaska](http://www.sealaska.com/)** | **[Shareholder Development - Intern - Raven Writes Education](https://jobright.ai/jobs/info/68df08975ab4977c2e94cd8e?utm_campaign=1057&utm_source=git)** | Juneau, AK | On Site | Oct 02 |
 | **[UMass Memorial Health](https://www.ummhealth.org)** | **[Student Intern, Coop Program](https://jobright.ai/jobs/info/68ded4e944d32141e0c02c9f?utm_campaign=1057&utm_source=git)** | Leominster, MA | On Site | Oct 02 |
-| **[Travelers](https://www.travelers.com)** | **[Bond & Specialty Insurance Underwriting Professional Development Program (BSI UPDP) Internship](https://jobright.ai/jobs/info/68ded4bc09bda65a4b62e2ad?utm_campaign=1057&utm_source=git)** | GA - Alpharetta | Hybrid | Oct 02 |
 | **[Kleinfelder](http://www.kleinfelder.com/)** | **[University of Maine Fall 2025 Career Fair](https://jobright.ai/jobs/info/68ded49244d32141e0c02bc4?utm_campaign=1057&utm_source=git)** | Portland, ME | On Site | Oct 02 |
 | **[Alcon](http://www.alcon.com)** | **[Summer 2026 Intern R&D - Strategic Programs Office (Learning & Engagement)](https://jobright.ai/jobs/info/68ded41409bda65a4b62e075?utm_campaign=1057&utm_source=git)** | Fort Worth, Texas | On Site | Oct 02 |
+| **[Travelers](https://www.travelers.com)** | **[Bond & Specialty Insurance Underwriting Professional Development Program (BSI UPDP) Internship](https://jobright.ai/jobs/info/68ded3e209bda65a4b62e02e?utm_campaign=1057&utm_source=git)** | GA - Alpharetta | Hybrid | Oct 02 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[DPI Digital Adoption Analyst Apprentice](https://jobright.ai/jobs/info/68ded1bf44d32141e0c02b27?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Oct 02 |
 | **[UHS](https://uhs.com)** | **[Spring 2026 Paid Master's Level Internship](https://jobright.ai/jobs/info/68decda609bda65a4b62de93?utm_campaign=1057&utm_source=git)** | ALLSTON, Massachusetts | On Site | Oct 02 |
 | ↳ | **[Spring 2026 Partial Hospitalization Internship](https://jobright.ai/jobs/info/68decd5d09bda65a4b62de29?utm_campaign=1057&utm_source=git)** | LOWELL, Massachusetts | On Site | Oct 02 |
@@ -139,7 +142,6 @@ For a complete list, click the following sortable link below:
 | **[DeVry University](http://www.devry.edu)** | **[FWS Student Worker III, Off Campus (Web Development Intern)](https://jobright.ai/jobs/info/68decb7ca125e75c422b68b1?utm_campaign=1057&utm_source=git)** | Lisle, IL, USA | Hybrid | Oct 02 |
 | **[UHS](https://uhs.com)** | **[Spring 2026 Partial Hospitalization Internship](https://jobright.ai/jobs/info/68decb3fa125e75c422b67fc?utm_campaign=1057&utm_source=git)** | NORWELL, Massachusetts | On Site | Oct 02 |
 | ↳ | **[Spring 2026 Paid Master's Level Internship](https://jobright.ai/jobs/info/68decb19a125e75c422b6797?utm_campaign=1057&utm_source=git)** | Fall River, Massachusetts | On Site | Oct 02 |
-| **[Kraft Heinz](http://www.kraftheinzcompany.com)** | **[2026 US Internship Program](https://jobright.ai/jobs/info/68dec9ce09bda65a4b62da5c?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Oct 02 |
 | **[Invesco US](http://www.invesco.com/us)** | **[Summer 2026 Internship - Security - Early Careers](https://jobright.ai/jobs/info/68dec99c44d32141e0c0239d?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Oct 02 |
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Provider Relations](https://jobright.ai/jobs/info/68dec42b09bda65a4b62d6b4?utm_campaign=1057&utm_source=git)** | DeWitt, NY | On Site | Oct 02 |
 | **[Geisinger](https://www.geisinger.org)** | **[Nursing Student Summer Internship- Apply here for all locations!](https://jobright.ai/jobs/info/68dec3dba125e75c422b6545?utm_campaign=1057&utm_source=git)** | Danville, PA | On Site | Oct 02 |
@@ -147,6 +149,7 @@ For a complete list, click the following sortable link below:
 | **[Univera Healthcare](https://www.univerahealthcare.com)** | **[College Intern I - Summer 2026 - Provider Relations](https://jobright.ai/jobs/info/68dec0e844d32141e0c020a0?utm_campaign=1057&utm_source=git)** | Buffalo, NY | Remote | Oct 02 |
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Provider Relations](https://jobright.ai/jobs/info/68dec0e144d32141e0c02090?utm_campaign=1057&utm_source=git)** | Elmira, NY | On Site | Oct 02 |
 | **[Atlantic Health](http://www.atlantichealth.org)** | **[Digital Content Intern](https://jobright.ai/jobs/info/68dec07744d32141e0c01ff0?utm_campaign=1057&utm_source=git)** | Morristown, NJ | Hybrid | Oct 02 |
+| **[Kraft Heinz](http://www.kraftheinzcompany.com)** | **[2026 US Internship Program](https://jobright.ai/jobs/info/68dec014a125e75c422b63a6?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Oct 02 |
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Medical Services](https://jobright.ai/jobs/info/68dec00aa125e75c422b6392?utm_campaign=1057&utm_source=git)** | Utica, NY | On Site | Oct 02 |
 | **[Penn State University](http://psu.edu)** | **[Center for Agricultural Conservation Assistance Training Intern](https://jobright.ai/jobs/info/68debd9d44d32141e0c01f9a?utm_campaign=1057&utm_source=git)** | University Park, PA | Remote | Oct 02 |
 | **[Univera Healthcare](https://www.univerahealthcare.com)** | **[College Intern I - Summer 2026 - Medical Services](https://jobright.ai/jobs/info/68df0a415ab4977c2e94d577?utm_campaign=1057&utm_source=git)** | Buffalo, NY | On Site | Oct 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Medical Services](https://jobright.ai/jobs/info/68deb849a125e75c422b6035?utm_campaign=1057&utm_source=git)** | Rochester, NY | On Site | Oct 02 |
 | ↳ | **[College Intern I - Summer 2026 - Medical Services](https://jobright.ai/jobs/info/68deb7eaa125e75c422b5fba?utm_campaign=1057&utm_source=git)** | Elmira, NY | On Site | Oct 02 |
 | ↳ | **[College Intern I - Summer 2026 - Medical Services](https://jobright.ai/jobs/info/68deb75044d32141e0c01c85?utm_campaign=1057&utm_source=git)** | DeWitt, NY | On Site | Oct 02 |
-| ↳ | **[College Intern I - Summer 2026 - Provider Relations](https://jobright.ai/jobs/info/68deb72544d32141e0c01c49?utm_campaign=1057&utm_source=git)** | Utica, NY | On Site | Oct 02 |
-| **[Lifetime Benefit Solutions, Inc.](http://lifetimebenefitsolutions.com)** | **[College Intern I - Summer 2026 - Provider Relations](https://jobright.ai/jobs/info/68deb3dc09bda65a4b62d071?utm_campaign=1057&utm_source=git)** | Utica, NY | On Site | Oct 02 |
-| ↳ | **[College Intern I - Summer 2026 - Provider Relations](https://jobright.ai/jobs/info/68deb3d944d32141e0c01b46?utm_campaign=1057&utm_source=git)** | Buffalo, NY | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
