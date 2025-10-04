@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Travelers](https://www.travelers.com)** | **[Bond & Specialty Insurance Underwriting Professional Development Program (BSI UPDP) Internship](https://jobright.ai/jobs/info/68e0e9a6f758fe1f97e52c0a?utm_campaign=1057&utm_source=git)** | Albany, NY | Hybrid | Oct 04 |
+| **[Gateway Rehab](https://gatewayrehab.org)** | **[Clinical Internship for 2026](https://jobright.ai/jobs/info/68e0e605b99ec3563b0d4e0b?utm_campaign=1057&utm_source=git)** | Aliquippa, PA | On Site | Oct 04 |
+| **[Travelers](https://www.travelers.com)** | **[Bond & Specialty Insurance Underwriting Professional Development Program (BSI UPDP) Internship](https://jobright.ai/jobs/info/68e0e4e3b99ec3563b0d4baa?utm_campaign=1057&utm_source=git)** | Blue Bell, PA | Hybrid | Oct 04 |
+| ↳ | **[Bond & Specialty Insurance Underwriting Professional Development Program (BSI UPDP) Internship](https://jobright.ai/jobs/info/68e0e46ab99ec3563b0d4a6c?utm_campaign=1057&utm_source=git)** | Hartford, CT | Hybrid | Oct 04 |
+| ↳ | **[Business Insurance Underwriting Professional Development Program (BI UPDP) Internship](https://jobright.ai/jobs/info/68e0e3f5b99ec3563b0d4965?utm_campaign=1057&utm_source=git)** | Albany, NY | Hybrid | Oct 04 |
+| ↳ | **[Business Insurance Underwriting Professional Development Program (BI UPDP) Internship](https://jobright.ai/jobs/info/68e0e3b8b99ec3563b0d48f7?utm_campaign=1057&utm_source=git)** | Alpharetta, GA | Hybrid | Oct 04 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Open Rank - Academic Internal Medicine-Pediatrics/Med Peds](https://jobright.ai/jobs/info/68e0bd0bf758fe1f97e50998?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Oct 03 |
 | **[The City University of New York](http://www.cuny.edu)** | **[Assistant, Associate, or Full Professor – Political Science; and Academic Director of the Masters of International Affairs Program](https://jobright.ai/jobs/info/68e09e951852e62f007ed1a9?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Oct 03 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Assistant Professor of International Relations](https://jobright.ai/jobs/info/68e08f3db99ec3563b0d0a46?utm_campaign=1057&utm_source=git)** | Gainesville, FL | On Site | Oct 03 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Mental Health Therapist Intern - Pennsylvania - Meadowlands](https://jobright.ai/jobs/info/68e0cc0af758fe1f97e512e9?utm_campaign=1057&utm_source=git)** | Wellsburg, WV | On Site | Oct 02 |
 | ↳ | **[Mental Health Therapist Intern - Pennsylvania - Meadowlands](https://jobright.ai/jobs/info/68e0c60fb99ec3563b0d3350?utm_campaign=1057&utm_source=git)** | Washington, PA | On Site | Oct 02 |
 | ↳ | **[Mental Health Therapist Intern - Pennsylvania - Washington](https://jobright.ai/jobs/info/68e0c077b99ec3563b0d2cb2?utm_campaign=1057&utm_source=git)** | Claysville, PA | On Site | Oct 02 |
-| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Assistant Director, Student Engagement](https://jobright.ai/jobs/info/68df6d26fe896042b0b7ab89?utm_campaign=1057&utm_source=git)** | Sarasota, FL | On Site | Oct 02 |
-| **[New Directions Mental Health](https://newdirectionspgh.com/)** | **[Mental Health Therapist Intern - Pennsylvania - Meadowlands](https://jobright.ai/jobs/info/68e0c1fdb99ec3563b0d2eb4?utm_campaign=1057&utm_source=git)** | Granville, WV | On Site | Oct 02 |
-| ↳ | **[Mental Health Therapist Intern - Pennsylvania - Washington](https://jobright.ai/jobs/info/68e0bcb2f758fe1f97e50944?utm_campaign=1057&utm_source=git)** | West Finley, PA | On Site | Oct 02 |
-| ↳ | **[Mental Health Therapist Intern - Pennsylvania - Meadowlands](https://jobright.ai/jobs/info/68e0c1531852e62f007ee6cf?utm_campaign=1057&utm_source=git)** | Claysville, PA | On Site | Oct 02 |
-| ↳ | **[Mental Health Therapist Intern - Pennsylvania - Washington](https://jobright.ai/jobs/info/68e0c15d1852e62f007ee6db?utm_campaign=1057&utm_source=git)** | Langeloth, PA | On Site | Oct 02 |
-| ↳ | **[Mental Health Therapist Intern - Pennsylvania - Washington](https://jobright.ai/jobs/info/68e0c0751852e62f007ee59d?utm_campaign=1057&utm_source=git)** | McKeesport, PA | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
