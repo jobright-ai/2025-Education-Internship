@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blount Fine Foods](http://blountfinefoods.com)** | **[T&D Intern (Safety)](https://jobright.ai/jobs/info/68e1543ab99ec3563b0d717a?utm_campaign=1057&utm_source=git)** | McKinney, TX | On Site | Oct 04 |
+| **[Monmouth University](http://www.monmouth.edu)** | **[Adjunct, Marketing and International Business](https://jobright.ai/jobs/info/68e14efff758fe1f97e54f37?utm_campaign=1057&utm_source=git)** | West Long Branch, NJ | On Site | Oct 04 |
+| **[Snap-on](http://www.snapon.com)** | **[College Intern - GMIS Conference](https://jobright.ai/jobs/info/68e14ecf1852e62f007f27f2?utm_campaign=1057&utm_source=git)** | Kenosha, WI | On Site | Oct 04 |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[GN9894 Graduate Assistant](https://jobright.ai/jobs/info/68e1459b1852e62f007f25d7?utm_campaign=1057&utm_source=git)** | Broken Arrow, OK | On Site | Oct 04 |
+| **[The Commons XR](https://thecommonsxr.com)** | **[UNPAID Internship - 2025 Fall/Spring Cohort for students/Post-Grads in Mental health, Social Work, Special  Ed, Psychologist](https://jobright.ai/jobs/info/68e14576f758fe1f97e54d18?utm_campaign=1057&utm_source=git)** | San Diego County, CA | On Site | Oct 04 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Adjunct Faculty - International Psychology - DC Campus](https://jobright.ai/jobs/info/68e13ac5b99ec3563b0d6d8b?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Oct 04 |
 | ↳ | **[English Learner Specialist - St. Francis International School](https://jobright.ai/jobs/info/68e13715f758fe1f97e54a26?utm_campaign=1057&utm_source=git)** | Silver Spring, MD | On Site | Oct 04 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[VP for Student Success - SPC - req13058](https://jobright.ai/jobs/info/68e136e11852e62f007f22c4?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Oct 04 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Undergraduate Intern - Surgery Research](https://jobright.ai/jobs/info/68dfe1f7b99ec3563b0c9d7e?utm_campaign=1057&utm_source=git)** | Rochester, MN, United States | On Site | Oct 03 |
 | **[Explico](https://www.explico.com)** | **[Internships / Co-ops](https://jobright.ai/jobs/info/68dfdbd3b99ec3563b0c9a8d?utm_campaign=1057&utm_source=git)** | Detroit, MI | Hybrid | Oct 03 |
 | **[Catholic Health](https://www.chsbuffalo.org/)** | **[Intern Pharmacy KMH](https://jobright.ai/jobs/info/68e007f31852e62f007e6a0d?utm_campaign=1057&utm_source=git)** | Kenmore, NY | On Site | Oct 03 |
-| **[Joliet Junior College](http://www.jjc.edu/)** | **[Student Employee, Sustainability Union](https://jobright.ai/jobs/info/68dfa35d6be63b6ec99722eb?utm_campaign=1057&utm_source=git)** | Joliet, IL | On Site | Oct 03 |
-| **[Energy Management Corporation](http://emcsolutions.com)** | **[Training & Development Intern](https://jobright.ai/jobs/info/68dfb71d6be63b6ec99728d1?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | Oct 03 |
-| **[Travelers](https://www.travelers.com)** | **[Business Insurance Underwriting Professional Development Program (BI UPDP) Internship](https://jobright.ai/jobs/info/68df8f445ab4977c2e955dfd?utm_campaign=1057&utm_source=git)** | Alpharetta, GA | Hybrid | Oct 03 |
-| **[Mercy Street](https://mercystreetdallas.org/)** | **[Leadership Institute Senior Intern - Summer 2026](https://jobright.ai/jobs/info/68df8f1f6be63b6ec9971651?utm_campaign=1057&utm_source=git)** | Dallas, TX | Hybrid | Oct 03 |
-| **[University of Wisconsin–Oshkosh](http://uwosh.edu)** | **[International Admissions Coordinator](https://jobright.ai/jobs/info/68df88dafe896042b0b7bdfb?utm_campaign=1057&utm_source=git)** | Superior, WI | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
