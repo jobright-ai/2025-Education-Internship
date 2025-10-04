@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[California Correctional Health Care Services](https://cchcs.ca.gov)** | **[PSYCHOLOGIST-CLINICAL, CORRECTIONAL FACILITY, Sierra Conservation Center (SCC)](https://jobright.ai/jobs/info/68e10aa2f758fe1f97e53918?utm_campaign=1057&utm_source=git)** | Tuolumne, CA | On Site | Oct 04 |
+| **[Rosendin](https://www.rosendin.com)** | **[Intern - Summer 2026](https://jobright.ai/jobs/info/68e10a0d1852e62f007f11ae?utm_campaign=1057&utm_source=git)** | McKinney, TX | On Site | Oct 04 |
 | **[California Correctional Health Care Services](https://cchcs.ca.gov)** | **[PSYCHOLOGIST, CF - Pleasant Valley State Prison (PVSP)](https://jobright.ai/jobs/info/68a29ac383d13d1f5b6d69a1?utm_campaign=1057&utm_source=git)** | Fresno, CA | On Site | Oct 04 |
 | ↳ | **[Psychologist -Clinical, CF California Health Care Facility (CHCF) PIP 0.20](https://jobright.ai/jobs/info/68e1041bb99ec3563b0d5a05?utm_campaign=1057&utm_source=git)** | San Joaquin County, CA | On Site | Oct 04 |
 | ↳ | **[PSYCHOLOGIST, CF - California Institution for Men (CIM)](https://jobright.ai/jobs/info/68e1033fb99ec3563b0d593b?utm_campaign=1057&utm_source=git)** | San Bernardino, CA | On Site | Oct 04 |
@@ -122,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Undergraduate Intern - Surgery Research](https://jobright.ai/jobs/info/68e03417b99ec3563b0cd34c?utm_campaign=1057&utm_source=git)** | Rochester, MN | On Site | Oct 03 |
 | **[Allegheny County Department of Human Services](http://www.alleghenycounty.us/dhs)** | **[2026 Allegheny County Department of Human Services Internship - Administration](https://jobright.ai/jobs/info/68e033b9b99ec3563b0cd22f?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Oct 03 |
 | **[Sotheby's Institute of Art](http://www.sothebysinstitute.com)** | **[2026 Summer Intern Program (New York)](https://jobright.ai/jobs/info/68e0337ef758fe1f97e4ac7e?utm_campaign=1057&utm_source=git)** | New York, United States | On Site | Oct 03 |
-| **[Adagio Health](https://www.adagiohealth.org)** | **[NUTRITION INTERN](https://jobright.ai/jobs/info/68e02f421852e62f007e8596?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Oct 03 |
 | **[BrightSpring Health Services](https://www.brightspringhealth.com/)** | **[Independent Living Skills Coach Apprentice / Intern (Metro State/Century)](https://jobright.ai/jobs/info/68e02f011852e62f007e8532?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Oct 03 |
+| **[Adagio Health](https://www.adagiohealth.org)** | **[NUTRITION INTERN](https://jobright.ai/jobs/info/68e02dcbf758fe1f97e4a91c?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Oct 03 |
 | **[Aquila | On-Site Health & Fitness Management](http://aquilaltd.com)** | **[Internship Fitness Specialist - Spring 2026*](https://jobright.ai/jobs/info/68e02d681852e62f007e838b?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Oct 03 |
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Master's Level Intern - Disability Support Services](https://jobright.ai/jobs/info/68e02231f758fe1f97e4a01c?utm_campaign=1057&utm_source=git)** | Lafayette, IN | On Site | Oct 03 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Knowledge Tools & Communications Intern](https://jobright.ai/jobs/info/68e01ea71852e62f007e79e7?utm_campaign=1057&utm_source=git)** | Brownsville Metro | On Site | Oct 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of Wisconsin–Oshkosh](http://uwosh.edu)** | **[International Admissions Coordinator](https://jobright.ai/jobs/info/68df88dafe896042b0b7bdfb?utm_campaign=1057&utm_source=git)** | Superior, WI | On Site | Oct 03 |
 | **[University of Wisconsin-Eau Claire](http://www.uwec.edu)** | **[Center for International Education: Administrative Specialist](https://jobright.ai/jobs/info/68df887d6be63b6ec99710a1?utm_campaign=1057&utm_source=git)** | Eau Claire, WI | On Site | Oct 03 |
 | **[DCCC](https://dccc.org)** | **[2026 Spring Internship Program](https://jobright.ai/jobs/info/68df84db6be63b6ec9970f75?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Oct 03 |
-| **[Onondaga Community College](http://www.sunyocc.edu/)** | **[Federal Work Study (Financial Aid Student Assistant) - Onondaga Community College](https://jobright.ai/jobs/info/68df83756be63b6ec9970dbb?utm_campaign=1057&utm_source=git)** | Syracuse, NY | On Site | Oct 03 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship Kona](https://jobright.ai/jobs/info/68df84a46be63b6ec9970f2d?utm_campaign=1057&utm_source=git)** | Kailua-Kona, HI | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
