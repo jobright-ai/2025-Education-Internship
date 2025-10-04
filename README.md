@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Open Rank - Academic Internal Medicine-Pediatrics/Med Peds](https://jobright.ai/jobs/info/68e0bd0bf758fe1f97e50998?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Oct 03 |
 | **[The City University of New York](http://www.cuny.edu)** | **[Assistant, Associate, or Full Professor – Political Science; and Academic Director of the Masters of International Affairs Program](https://jobright.ai/jobs/info/68e09e951852e62f007ed1a9?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Oct 03 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Assistant Professor of International Relations](https://jobright.ai/jobs/info/68e08f3db99ec3563b0d0a46?utm_campaign=1057&utm_source=git)** | Gainesville, FL | On Site | Oct 03 |
 | **[University of Central Florida](https://www.ucf.edu)** | **[Academic Support Coordinator I](https://jobright.ai/jobs/info/68e08e9df758fe1f97e4e4f4?utm_campaign=1057&utm_source=git)** | Greater Orlando | On Site | Oct 03 |
@@ -119,6 +120,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Intern I - Summer 2025 - ERP Solutions & Delivery](https://jobright.ai/jobs/info/68e01567b99ec3563b0cb852?utm_campaign=1057&utm_source=git)** | Utica, NY | On Site | Oct 03 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist - BHIP](https://jobright.ai/jobs/info/68e01118b99ec3563b0cb7a7?utm_campaign=1057&utm_source=git)** | Winter Park, FL | On Site | Oct 03 |
 | **[Penn State University](http://psu.edu)** | **[Part-Time Penn State Climate Consortium Student Intern/Research Assistant](https://jobright.ai/jobs/info/68e00fd0f758fe1f97e4933c?utm_campaign=1057&utm_source=git)** | University Park, PA | Hybrid | Oct 03 |
+| **[Kids Above All](https://www.kidsaboveall.org)** | **[Clinical Internship (Waukegan)](https://jobright.ai/jobs/info/68e0c2feb99ec3563b0d2f45?utm_campaign=1057&utm_source=git)** | Waukegan, IL | On Site | Oct 03 |
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2025 - ERP Solutions & Delivery](https://jobright.ai/jobs/info/68e009b0f758fe1f97e48f9e?utm_campaign=1057&utm_source=git)** | DeWitt, NY | On Site | Oct 03 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Clinical Psychologist](https://jobright.ai/jobs/info/68e007d61852e62f007e69cb?utm_campaign=1057&utm_source=git)** | Leeds, MA | On Site | Oct 03 |
 | **[Penn State University](http://psu.edu)** | **[Part-Time Penn State Climate Consortium Student Intern/Research Assistant](https://jobright.ai/jobs/info/68e004c5f758fe1f97e48c37?utm_campaign=1057&utm_source=git)** | Penn State University Park | Hybrid | Oct 03 |
@@ -145,16 +147,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Summer Internship Hilo](https://jobright.ai/jobs/info/68df83a86be63b6ec9970de7?utm_campaign=1057&utm_source=git)** | Hilo, HI | On Site | Oct 03 |
 | ↳ | **[Management Trainee Summer Internship Maui](https://jobright.ai/jobs/info/68df838b5ab4977c2e955601?utm_campaign=1057&utm_source=git)** | Kahului, HI | On Site | Oct 03 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Open Rank- Ambulatory General Internist](https://jobright.ai/jobs/info/68df76166be63b6ec9970231?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Oct 02 |
-| ↳ | **[Assistant Director, Student Engagement](https://jobright.ai/jobs/info/68df6d26fe896042b0b7ab89?utm_campaign=1057&utm_source=git)** | Sarasota, FL | On Site | Oct 02 |
-| **[University of Illinois Chicago (UIC) School of Public Health](https://publichealth.uic.edu)** | **[Assistant Director of Student Development, UICOM-Rockford- Urban Health Program](https://jobright.ai/jobs/info/68df64acfe896042b0b7a73b?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Oct 02 |
-| **[New Directions Mental Health](https://newdirectionspgh.com/)** | **[Mental Health Therapist Intern - PA](https://jobright.ai/jobs/info/68e0b1871852e62f007edc13?utm_campaign=1057&utm_source=git)** | Beaver, PA | On Site | Oct 02 |
-| ↳ | **[Mental Health Therapist Intern - Pennsylvania - Meadowlands](https://jobright.ai/jobs/info/68e0b1b91852e62f007edc60?utm_campaign=1057&utm_source=git)** | Carmichaels, PA | On Site | Oct 02 |
-| ↳ | **[Mental Health Therapist Intern - Pennsylvania - Fox Chapel](https://jobright.ai/jobs/info/68e0b190b99ec3563b0d239b?utm_campaign=1057&utm_source=git)** | Connoquenessing, PA | On Site | Oct 02 |
-| ↳ | **[Mental Health Therapist Intern - Pennsylvania - Meadowlands](https://jobright.ai/jobs/info/68e0b242b99ec3563b0d24e2?utm_campaign=1057&utm_source=git)** | Vanderbilt, PA | On Site | Oct 02 |
-| ↳ | **[Mental Health Therapist Intern - Pennsylvania - Fox Chapel](https://jobright.ai/jobs/info/68e0b18f1852e62f007edc1f?utm_campaign=1057&utm_source=git)** | Sarver, PA | On Site | Oct 02 |
-| ↳ | **[Mental Health Therapist Intern - Pennsylvania - Washington](https://jobright.ai/jobs/info/68e0b268f758fe1f97e501b9?utm_campaign=1057&utm_source=git)** | Belle Vernon, PA | On Site | Oct 02 |
-| ↳ | **[Mental Health Therapist Intern - Pennsylvania - Fox Chapel](https://jobright.ai/jobs/info/68e0b20db99ec3563b0d2474?utm_campaign=1057&utm_source=git)** | Vandergrift, PA | On Site | Oct 02 |
-| **[Sonoma County Office of Education](http://www.scoe.org)** | **[Wellness Coach Intern (Alternative Education Department)](https://jobright.ai/jobs/info/68df5ee55ab4977c2e953e4c?utm_campaign=1057&utm_source=git)** | Santa Rosa, CA | On Site | Oct 02 |
-| **[Terros Health](https://www.terroshealth.org/)** | **[Intern - Maverick house- Master's level](https://jobright.ai/jobs/info/68df56bf5ab4977c2e95345c?utm_campaign=1057&utm_source=git)** | Glendale, AZ | On Site | Oct 02 |
-| **[Parkland Health](https://www.parklandhealth.org)** | **[College Intern - Multi-Semester - January 2026](https://jobright.ai/jobs/info/68df554bfe896042b0b79b9f?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Oct 02 |
+| **[New Directions Mental Health](https://newdirectionspgh.com/)** | **[Mental Health Therapist Intern - Pennsylvania - Washington](https://jobright.ai/jobs/info/68e0c4d01852e62f007ee977?utm_campaign=1057&utm_source=git)** | Prosperity, PA | On Site | Oct 02 |
+| ↳ | **[Mental Health Therapist Intern - Pennsylvania - Meadowlands](https://jobright.ai/jobs/info/68e0cc0af758fe1f97e512e9?utm_campaign=1057&utm_source=git)** | Wellsburg, WV | On Site | Oct 02 |
+| ↳ | **[Mental Health Therapist Intern - Pennsylvania - Meadowlands](https://jobright.ai/jobs/info/68e0c60fb99ec3563b0d3350?utm_campaign=1057&utm_source=git)** | Washington, PA | On Site | Oct 02 |
+| ↳ | **[Mental Health Therapist Intern - Pennsylvania - Washington](https://jobright.ai/jobs/info/68e0c077b99ec3563b0d2cb2?utm_campaign=1057&utm_source=git)** | Claysville, PA | On Site | Oct 02 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Assistant Director, Student Engagement](https://jobright.ai/jobs/info/68df6d26fe896042b0b7ab89?utm_campaign=1057&utm_source=git)** | Sarasota, FL | On Site | Oct 02 |
+| **[New Directions Mental Health](https://newdirectionspgh.com/)** | **[Mental Health Therapist Intern - Pennsylvania - Meadowlands](https://jobright.ai/jobs/info/68e0c1fdb99ec3563b0d2eb4?utm_campaign=1057&utm_source=git)** | Granville, WV | On Site | Oct 02 |
+| ↳ | **[Mental Health Therapist Intern - Pennsylvania - Washington](https://jobright.ai/jobs/info/68e0bcb2f758fe1f97e50944?utm_campaign=1057&utm_source=git)** | West Finley, PA | On Site | Oct 02 |
+| ↳ | **[Mental Health Therapist Intern - Pennsylvania - Meadowlands](https://jobright.ai/jobs/info/68e0c1531852e62f007ee6cf?utm_campaign=1057&utm_source=git)** | Claysville, PA | On Site | Oct 02 |
+| ↳ | **[Mental Health Therapist Intern - Pennsylvania - Washington](https://jobright.ai/jobs/info/68e0c15d1852e62f007ee6db?utm_campaign=1057&utm_source=git)** | Langeloth, PA | On Site | Oct 02 |
+| ↳ | **[Mental Health Therapist Intern - Pennsylvania - Washington](https://jobright.ai/jobs/info/68e0c0751852e62f007ee59d?utm_campaign=1057&utm_source=git)** | McKeesport, PA | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
