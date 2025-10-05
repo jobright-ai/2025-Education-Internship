@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Healthy Habits Student Intern - Paid - Per Diem](https://jobright.ai/jobs/info/68e1cbd9f758fe1f97e55f28?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Oct 04 |
 | **[Young Life](https://sworlando.younglife.org)** | **[HWR Intern Experience - Teton, ID](https://jobright.ai/jobs/info/68e1af5af758fe1f97e55c12?utm_campaign=1057&utm_source=git)** | Driggs, ID | On Site | Oct 04 |
 | **[Stanislaus County Office of Education](http://www.stancoe.org/)** | **[SHORT TERM - Mental Health Student Intern, Deadline: 10/8/2025](https://jobright.ai/jobs/info/68e19dd4b99ec3563b0d7c83?utm_campaign=1057&utm_source=git)** | West Modesto, CA | On Site | Oct 04 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68e19aa6b99ec3563b0d7c71?utm_campaign=1057&utm_source=git)** | Richardson, TX | On Site | Oct 04 |
@@ -81,10 +82,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Psychologist -Clinical, CF California Health Care Facility (CHCF) PIP 0.20](https://jobright.ai/jobs/info/68e1041bb99ec3563b0d5a05?utm_campaign=1057&utm_source=git)** | San Joaquin County, CA | On Site | Oct 04 |
 | ↳ | **[PSYCHOLOGIST, CF - California Institution for Men (CIM)](https://jobright.ai/jobs/info/68e1033fb99ec3563b0d593b?utm_campaign=1057&utm_source=git)** | San Bernardino, CA | On Site | Oct 04 |
 | **[Arbour Counseling Services](https://arbourhealth.com/)** | **[Spring 2026 Paid Masters Level Internship](https://jobright.ai/jobs/info/68e0fc07f758fe1f97e535c1?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Oct 04 |
-| **[City of Sioux City](https://www.sioux-city.org/)** | **[Student Internship (Neighborhood Services Division)](https://jobright.ai/jobs/info/68e0fbbc1852e62f007f0ea7?utm_campaign=1057&utm_source=git)** | Sioux City, IA | On Site | Oct 04 |
-| **[Arbour Counseling Services](https://arbourhealth.com/)** | **[Spring 2026 Paid Masters Level Internship](https://jobright.ai/jobs/info/68e0fafe1852e62f007f0e2d?utm_campaign=1057&utm_source=git)** | Fall River, MA | On Site | Oct 04 |
+| ↳ | **[Spring 2026 Paid Masters Level Internship](https://jobright.ai/jobs/info/68e0fafe1852e62f007f0e2d?utm_campaign=1057&utm_source=git)** | Fall River, MA | On Site | Oct 04 |
 | **[California Correctional Health Care Services](https://cchcs.ca.gov)** | **[PSYCHOLOGIST, CF - Kern Valley State Prison (KVSP)](https://jobright.ai/jobs/info/67d61239992f58f2c90b3097?utm_campaign=1057&utm_source=git)** | Kern County, CA | On Site | Oct 04 |
-| **[ámaxa](https://www.amaxaimpact.org/)** | **[Program Development Intern](https://jobright.ai/jobs/info/68e0f0281852e62f007f09d5?utm_campaign=1057&utm_source=git)** | United States | Remote | Oct 04 |
 | **[Travelers](https://www.travelers.com)** | **[Bond & Specialty Insurance Underwriting Professional Development Program (BSI UPDP) Internship](https://jobright.ai/jobs/info/68e0e9a6f758fe1f97e52c0a?utm_campaign=1057&utm_source=git)** | Albany, NY | Hybrid | Oct 04 |
 | **[Gateway Rehab](https://gatewayrehab.org)** | **[Clinical Internship for 2026](https://jobright.ai/jobs/info/68e0e605b99ec3563b0d4e0b?utm_campaign=1057&utm_source=git)** | Aliquippa, PA | On Site | Oct 04 |
 | **[Travelers](https://www.travelers.com)** | **[Bond & Specialty Insurance Underwriting Professional Development Program (BSI UPDP) Internship](https://jobright.ai/jobs/info/68e0e4e3b99ec3563b0d4baa?utm_campaign=1057&utm_source=git)** | Blue Bell, PA | Hybrid | Oct 04 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Penn State University](http://psu.edu)** | **[Part-Time Penn State Climate Consortium Student Intern/Research Assistant](https://jobright.ai/jobs/info/68e004c5f758fe1f97e48c37?utm_campaign=1057&utm_source=git)** | Penn State University Park | Hybrid | Oct 03 |
 | **[United Tribes Technical College](http://www.uttc.edu/)** | **[Retention Administrative Apprentice- Closes October 16, 2025 at 5:00 PM](https://jobright.ai/jobs/info/68dffefcf758fe1f97e48946?utm_campaign=1057&utm_source=git)** | Bismarck, ND | On Site | Oct 03 |
 | **[Easterseals PORT Health](http://eastersealsPORT.com)** | **[Intern, clinical rotations](https://jobright.ai/jobs/info/68dffda9f758fe1f97e48795?utm_campaign=1057&utm_source=git)** | Morehead City, NC | On Site | Oct 03 |
+| **[Henry Ford Health](http://www.henryford.com/)** | **[Research Student- 16 hours weekly- Research Administration](https://jobright.ai/jobs/info/68dffd2f1852e62f007e639c?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
