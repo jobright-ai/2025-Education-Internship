@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Young Life](https://sworlando.younglife.org)** | **[HWR Intern Experience - Teton, ID](https://jobright.ai/jobs/info/68e1af5af758fe1f97e55c12?utm_campaign=1057&utm_source=git)** | Driggs, ID | On Site | Oct 04 |
+| **[Stanislaus County Office of Education](http://www.stancoe.org/)** | **[SHORT TERM - Mental Health Student Intern, Deadline: 10/8/2025](https://jobright.ai/jobs/info/68e19dd4b99ec3563b0d7c83?utm_campaign=1057&utm_source=git)** | West Modesto, CA | On Site | Oct 04 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68e19aa6b99ec3563b0d7c71?utm_campaign=1057&utm_source=git)** | Richardson, TX | On Site | Oct 04 |
+| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68e19a79b99ec3563b0d7c61?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Oct 04 |
+| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/68e19a6bb99ec3563b0d7c5e?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Oct 04 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68e1994df758fe1f97e55a97?utm_campaign=1057&utm_source=git)** | Leander, TX | On Site | Oct 04 |
+| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68e199061852e62f007f33b4?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Oct 04 |
+| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68e198e11852e62f007f33a5?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Oct 04 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[VP for Student Success - NVC - req13112](https://jobright.ai/jobs/info/68e182dab99ec3563b0d76d4?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Oct 04 |
 | **[Sanofi](https://www.sanofi.com)** | **[Summeror Fall 2026 Co-op_Intern - Dupixent Global Market Access & Pricing Dermatology](https://jobright.ai/jobs/info/68e181031852e62f007f2dbb?utm_campaign=1057&utm_source=git)** | Cambridge, MA | On Site | Oct 04 |
 | **[Blount Fine Foods](http://blountfinefoods.com)** | **[T&D Intern (Safety)](https://jobright.ai/jobs/info/68e1543ab99ec3563b0d717a?utm_campaign=1057&utm_source=git)** | McKinney, TX | On Site | Oct 04 |
@@ -121,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[Fordham University](https://www.fordham.edu/)** | **[Provost and Senior Vice President for Academic Affairs](https://jobright.ai/jobs/info/68e04c13f758fe1f97e4c142?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Oct 03 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Sheppard Pratt School - Rockville) 2026 Mental Health Counseling/Social Work Fieldwork](https://jobright.ai/jobs/info/68e04c12f758fe1f97e4c13f?utm_campaign=1057&utm_source=git)** | Rockville, MD | On Site | Oct 03 |
 | **[Arena](https://arena.run/)** | **[2026 Spring Internship Program](https://jobright.ai/jobs/info/68e094921852e62f007ec5ac?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Oct 03 |
-| **[Stanislaus County Office of Education](http://www.stancoe.org/)** | **[SHORT TERM - Mental Health Student Intern, Deadline: 10/8/2025](https://jobright.ai/jobs/info/68e04a45b99ec3563b0ce401?utm_campaign=1057&utm_source=git)** | West Modesto, CA | On Site | Oct 03 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist](https://jobright.ai/jobs/info/68e0761bb99ec3563b0cfa09?utm_campaign=1057&utm_source=git)** | Ramsey, MN | On Site | Oct 03 |
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[SAN ANTONIO - Transportation, Internship](https://jobright.ai/jobs/info/68e03c351852e62f007e916c?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Oct 03 |
 | **[Springfield Empowerment Zone Partnership](https://www.springfieldempowerment.org)** | **[Emergence Academy Fall 2025 Student Intern](https://jobright.ai/jobs/info/68e03bd11852e62f007e90ca?utm_campaign=1057&utm_source=git)** | Springfield, MA | On Site | Oct 03 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Penn State University](http://psu.edu)** | **[Part-Time Penn State Climate Consortium Student Intern/Research Assistant](https://jobright.ai/jobs/info/68e004c5f758fe1f97e48c37?utm_campaign=1057&utm_source=git)** | Penn State University Park | Hybrid | Oct 03 |
 | **[United Tribes Technical College](http://www.uttc.edu/)** | **[Retention Administrative Apprentice- Closes October 16, 2025 at 5:00 PM](https://jobright.ai/jobs/info/68dffefcf758fe1f97e48946?utm_campaign=1057&utm_source=git)** | Bismarck, ND | On Site | Oct 03 |
 | **[Easterseals PORT Health](http://eastersealsPORT.com)** | **[Intern, clinical rotations](https://jobright.ai/jobs/info/68dffda9f758fe1f97e48795?utm_campaign=1057&utm_source=git)** | Morehead City, NC | On Site | Oct 03 |
-| **[Henry Ford Health](http://www.henryford.com/)** | **[Research Student- 16 hours weekly- Research Administration](https://jobright.ai/jobs/info/68dffd2f1852e62f007e639c?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Oct 03 |
-| **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Learning Management](https://jobright.ai/jobs/info/68dffab4b99ec3563b0caa24?utm_campaign=1057&utm_source=git)** | Bridgewater, NJ | On Site | Oct 03 |
-| **[Pathstone](http://pathstone.com)** | **[Summer Advisory Internship: Cross-Departmental Learning - Alexandria, VA](https://jobright.ai/jobs/info/68deefd744d32141e0c0417f?utm_campaign=1057&utm_source=git)** | Alexandria, VA | On Site | Oct 03 |
-| **[Aquila | On-Site Health & Fitness Management](http://aquilaltd.com)** | **[Spring 2026 Internship Fitness Specialist](https://jobright.ai/jobs/info/68dfe287b99ec3563b0c9e51?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Oct 03 |
-| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Undergraduate Intern - Surgery Research](https://jobright.ai/jobs/info/68dfe1f7b99ec3563b0c9d7e?utm_campaign=1057&utm_source=git)** | Rochester, MN, United States | On Site | Oct 03 |
-| **[Explico](https://www.explico.com)** | **[Internships / Co-ops](https://jobright.ai/jobs/info/68dfdbd3b99ec3563b0c9a8d?utm_campaign=1057&utm_source=git)** | Detroit, MI | Hybrid | Oct 03 |
-| **[Catholic Health](https://www.chsbuffalo.org/)** | **[Intern Pharmacy KMH](https://jobright.ai/jobs/info/68e007f31852e62f007e6a0d?utm_campaign=1057&utm_source=git)** | Kenmore, NY | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
