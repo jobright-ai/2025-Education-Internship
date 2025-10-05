@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Drexel University](http://drexel.edu)** | **[Program Coordinator II](https://jobright.ai/jobs/info/68e294231852e62f007f8156?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Oct 05 |
+| **[Lake Region State College](http://www.lrsc.edu)** | **[Surgical Technology Instructor/Program Coordinator](https://jobright.ai/jobs/info/68e2a290b99ec3563b0dca6f?utm_campaign=1057&utm_source=git)** | Devils Lake, ND | On Site | Oct 05 |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[GN9894 Graduate Assistant](https://jobright.ai/jobs/info/68e29ec2b99ec3563b0dc9d9?utm_campaign=1057&utm_source=git)** | Broken Arrow, OK | On Site | Oct 05 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[VP for Student Success - NVC - req13112](https://jobright.ai/jobs/info/68e283a3b99ec3563b0dc73f?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Oct 05 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/68e2833b1852e62f007f7f98?utm_campaign=1057&utm_source=git)** | Racine, WI | Remote | Oct 05 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern (SNI)- Resource](https://jobright.ai/jobs/info/68972bdf8c6d6b4426786327?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Oct 05 |
@@ -67,9 +68,10 @@ For a complete list, click the following sortable link below:
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[VP for Student Success - SPC - req13058](https://jobright.ai/jobs/info/68e23298b99ec3563b0db8d1?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Oct 05 |
 | **[City of Ankeny](https://www.ankenyiowa.gov/)** | **[Winter-Spring Parks & Recreation Internship](https://jobright.ai/jobs/info/68e22ef41852e62f007f6f4b?utm_campaign=1057&utm_source=git)** | Ankeny, IA | On Site | Oct 05 |
 | **[Anderson Sport and Wellness a Physical Therapy Corporation](https://andersonswpt.com)** | **[Pre Physical Therapy Internship (paid position)](https://jobright.ai/jobs/info/68e213afb99ec3563b0d9f72?utm_campaign=1057&utm_source=git)** | Newport Beach, CA | On Site | Oct 04 |
+| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - San Diego, CA - California Market Bank CRE](https://jobright.ai/jobs/info/68e1ff01b99ec3563b0d9747?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Oct 04 |
 | **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/68e1f845f758fe1f97e572dd?utm_campaign=1057&utm_source=git)** | Fort Mill, SC US | Hybrid | Oct 04 |
-| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68e1f16a1852e62f007f48c5?utm_campaign=1057&utm_source=git)** | Omaha, NE | On Site | Oct 04 |
-| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68e1f1001852e62f007f482a?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Oct 04 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68e1f27cb99ec3563b0d9251?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Oct 04 |
+| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68e1f16a1852e62f007f48c5?utm_campaign=1057&utm_source=git)** | Omaha, NE | On Site | Oct 04 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68e1f0e71852e62f007f47fe?utm_campaign=1057&utm_source=git)** | Broomfield, CO | On Site | Oct 04 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68e1f0e0f758fe1f97e56ddf?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | Oct 04 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Professional Academic Advisor, International Partnerships](https://jobright.ai/jobs/info/68e1d4edf758fe1f97e56038?utm_campaign=1057&utm_source=git)** | Hays, KS | On Site | Oct 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lee County Port Authority](http://flylcpa.com)** | **[2026 Internship](https://jobright.ai/jobs/info/68e04cc0b99ec3563b0ce6d8?utm_campaign=1057&utm_source=git)** | Fort Myers, FL | On Site | Oct 03 |
 | **[Divergent](http://www.divergent3d.com)** | **[Summer 2026 Organizational Psychology Intern](https://jobright.ai/jobs/info/68e04c2bf758fe1f97e4c15a?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Oct 03 |
 | **[Fordham University](https://www.fordham.edu/)** | **[Provost and Senior Vice President for Academic Affairs](https://jobright.ai/jobs/info/68e04c13f758fe1f97e4c142?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Oct 03 |
-| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Sheppard Pratt School - Rockville) 2026 Mental Health Counseling/Social Work Fieldwork](https://jobright.ai/jobs/info/68e04c12f758fe1f97e4c13f?utm_campaign=1057&utm_source=git)** | Rockville, MD | On Site | Oct 03 |
-| **[Arena](https://arena.run/)** | **[2026 Spring Internship Program](https://jobright.ai/jobs/info/68e094921852e62f007ec5ac?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
