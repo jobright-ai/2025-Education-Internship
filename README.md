@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/68e2e986b99ec3563b0dd1e6?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Oct 05 |
+| **[Stanislaus County Office of Education](http://www.stancoe.org/)** | **[SHORT TERM - Mental Health Student Intern, Deadline: 10/8/2025](https://jobright.ai/jobs/info/68e2e6601852e62f007f8a08?utm_campaign=1057&utm_source=git)** | West Modesto, CA | On Site | Oct 05 |
+| **[Temple University](https://www.temple.edu)** | **[Assistant Professor of Instruction & Faculty Director of Bachelor of General Studies Program](https://jobright.ai/jobs/info/68e2cfa4b99ec3563b0dcf0b?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Oct 05 |
+| **[Arthrex](https://www.arthrex.com/)** | **[Analytics and Digital Education Transformation Intern](https://jobright.ai/jobs/info/68e2ceb1f758fe1f97e5acc3?utm_campaign=1057&utm_source=git)** | Naples, FL | On Site | Oct 05 |
 | **[Del Mar College - Corporate Services](https://www.delmar.edu/continuing-education/corporate-services/)** | **[STUDENT ASSISTANT - TELEVISION PRODUCTION/DIGITAL MEDIA ASSISTANT - COMMUNICATIONS, LANGUAGES & READING (POOL)](https://jobright.ai/jobs/info/68e2bc0ef758fe1f97e5aa98?utm_campaign=1057&utm_source=git)** | Corpus Christi, TX | On Site | Oct 05 |
 | ↳ | **[STUDENT ASSISTANT-DEPT CLERK-BUSINESS ADMINISTRATION (POOL)](https://jobright.ai/jobs/info/68e2bbe0b99ec3563b0dcc03?utm_campaign=1057&utm_source=git)** | Corpus Christi, TX | On Site | Oct 05 |
 | **[Orbit AI](https://findmyorbit.com/)** | **[Intern](https://jobright.ai/jobs/info/68e2b89d1852e62f007f8423?utm_campaign=1057&utm_source=git)** | United States | Remote | Oct 05 |
@@ -77,11 +81,10 @@ For a complete list, click the following sortable link below:
 | **[Anderson Sport and Wellness a Physical Therapy Corporation](https://andersonswpt.com)** | **[Pre Physical Therapy Internship (paid position)](https://jobright.ai/jobs/info/68e213afb99ec3563b0d9f72?utm_campaign=1057&utm_source=git)** | Newport Beach, CA | On Site | Oct 04 |
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - San Diego, CA - California Market Bank CRE](https://jobright.ai/jobs/info/68e1ff01b99ec3563b0d9747?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Oct 04 |
 | **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/68e1f845f758fe1f97e572dd?utm_campaign=1057&utm_source=git)** | Fort Mill, SC US | Hybrid | Oct 04 |
-| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68e1f27cb99ec3563b0d9251?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Oct 04 |
-| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68e1f16a1852e62f007f48c5?utm_campaign=1057&utm_source=git)** | Omaha, NE | On Site | Oct 04 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68e1f16a1852e62f007f48c5?utm_campaign=1057&utm_source=git)** | Omaha, NE | On Site | Oct 04 |
+| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68e1f1001852e62f007f482a?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Oct 04 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68e1f0e71852e62f007f47fe?utm_campaign=1057&utm_source=git)** | Broomfield, CO | On Site | Oct 04 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68e1f0e0f758fe1f97e56ddf?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | Oct 04 |
-| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Professional Academic Advisor, International Partnerships](https://jobright.ai/jobs/info/68e1d4edf758fe1f97e56038?utm_campaign=1057&utm_source=git)** | Hays, KS | On Site | Oct 04 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Healthy Habits Student Intern - Paid - Per Diem](https://jobright.ai/jobs/info/68e1cbd9f758fe1f97e55f28?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Oct 04 |
 | **[New Directions Mental Health](https://newdirectionspgh.com/)** | **[Mental Health Therapist Intern - PA](https://jobright.ai/jobs/info/68e2710e1852e62f007f7d5c?utm_campaign=1057&utm_source=git)** | Rural Valley, PA | On Site | Oct 04 |
 | ↳ | **[Mental Health Therapist Intern - PA](https://jobright.ai/jobs/info/68e270f31852e62f007f7d54?utm_campaign=1057&utm_source=git)** | Cranberry, PA | On Site | Oct 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist](https://jobright.ai/jobs/info/68e05410f758fe1f97e4c79e?utm_campaign=1057&utm_source=git)** | Grants Pass, OR | On Site | Oct 03 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT CORPORATE HEALTH & SAFETY](https://jobright.ai/jobs/info/68e0540e1852e62f007ea31a?utm_campaign=1057&utm_source=git)** | New Braunfels, TX | On Site | Oct 03 |
 | **[J Street](https://jstreet.org/)** | **[J Street U Campus Fellowship](https://jobright.ai/jobs/info/68e054071852e62f007ea30d?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Oct 03 |
-| **[CrowdStrike](http://www.crowdstrike.com)** | **[Professional Services Explorer Intern - Summer 2026](https://jobright.ai/jobs/info/68e0539cb99ec3563b0cea64?utm_campaign=1057&utm_source=git)** | Virginia, United States | Remote | Oct 03 |
-| **[YMCA of Delaware](https://www.ymcade.org)** | **[School Age Site Intern- Dover Location](https://jobright.ai/jobs/info/68e053731852e62f007ea24c?utm_campaign=1057&utm_source=git)** | Dover, DE | On Site | Oct 03 |
-| **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist - HBPC](https://jobright.ai/jobs/info/68e0531cf758fe1f97e4c61f?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
