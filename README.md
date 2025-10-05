@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Del Mar College - Corporate Services](https://www.delmar.edu/continuing-education/corporate-services/)** | **[STUDENT ASSISTANT - TELEVISION PRODUCTION/DIGITAL MEDIA ASSISTANT - COMMUNICATIONS, LANGUAGES & READING (POOL)](https://jobright.ai/jobs/info/68e2bc0ef758fe1f97e5aa98?utm_campaign=1057&utm_source=git)** | Corpus Christi, TX | On Site | Oct 05 |
+| ↳ | **[STUDENT ASSISTANT-DEPT CLERK-BUSINESS ADMINISTRATION (POOL)](https://jobright.ai/jobs/info/68e2bbe0b99ec3563b0dcc03?utm_campaign=1057&utm_source=git)** | Corpus Christi, TX | On Site | Oct 05 |
+| **[Orbit AI](https://findmyorbit.com/)** | **[Intern](https://jobright.ai/jobs/info/68e2b89d1852e62f007f8423?utm_campaign=1057&utm_source=git)** | United States | Remote | Oct 05 |
+| **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/68e2b51fb99ec3563b0dcba2?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Oct 05 |
+| **[Del Mar College - Corporate Services](https://www.delmar.edu/continuing-education/corporate-services/)** | **[STUDENT ASSISTANT - MEXICAN-AMERICAN STUDIES - PROGRAM CLERK (POOL)](https://jobright.ai/jobs/info/68e2b51fb99ec3563b0dcba0?utm_campaign=1057&utm_source=git)** | Corpus Christi, TX | On Site | Oct 05 |
+| ↳ | **[STUDENT ASSISTANT - CENTER FOR EARLY LEARNING (POOL)](https://jobright.ai/jobs/info/68e2b4e1b99ec3563b0dcb84?utm_campaign=1057&utm_source=git)** | Corpus Christi, TX | On Site | Oct 05 |
+| **[Simpson College](http://www.simpson.edu/)** | **[Sports Administration Assistant Professor](https://jobright.ai/jobs/info/68e2b2321852e62f007f83b5?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Oct 05 |
 | **[Lake Region State College](http://www.lrsc.edu)** | **[Surgical Technology Instructor/Program Coordinator](https://jobright.ai/jobs/info/68e2a290b99ec3563b0dca6f?utm_campaign=1057&utm_source=git)** | Devils Lake, ND | On Site | Oct 05 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[GN9894 Graduate Assistant](https://jobright.ai/jobs/info/68e29ec2b99ec3563b0dc9d9?utm_campaign=1057&utm_source=git)** | Broken Arrow, OK | On Site | Oct 05 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[VP for Student Success - NVC - req13112](https://jobright.ai/jobs/info/68e283a3b99ec3563b0dc73f?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Oct 05 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Professional Services Explorer Intern - Summer 2026](https://jobright.ai/jobs/info/68e0539cb99ec3563b0cea64?utm_campaign=1057&utm_source=git)** | Virginia, United States | Remote | Oct 03 |
 | **[YMCA of Delaware](https://www.ymcade.org)** | **[School Age Site Intern- Dover Location](https://jobright.ai/jobs/info/68e053731852e62f007ea24c?utm_campaign=1057&utm_source=git)** | Dover, DE | On Site | Oct 03 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist - HBPC](https://jobright.ai/jobs/info/68e0531cf758fe1f97e4c61f?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Oct 03 |
-| **[Divergent](http://www.divergent3d.com)** | **[Summer 2026 Organizational Psychology Intern](https://jobright.ai/jobs/info/68e052abf758fe1f97e4c5aa?utm_campaign=1057&utm_source=git)** | Torrance, California, United States | On Site | Oct 03 |
-| **[CrowdStrike](http://www.crowdstrike.com)** | **[Professional Services Explorer Intern - Summer 2026](https://jobright.ai/jobs/info/68e0511db99ec3563b0ce7f8?utm_campaign=1057&utm_source=git)** | USA - Remote, VA | Remote | Oct 03 |
-| ↳ | **[Professional Services Explorer Intern - Summer 2026](https://jobright.ai/jobs/info/68e0507c1852e62f007ea130?utm_campaign=1057&utm_source=git)** | USA - Arlington, VA | Hybrid | Oct 03 |
-| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (School Based Services- Glyndon) Spring 2026 BSW/Counseling Fieldwork Practicum](https://jobright.ai/jobs/info/68e04cdab99ec3563b0ce6f8?utm_campaign=1057&utm_source=git)** | Reisterstown, MD | On Site | Oct 03 |
-| **[Lee County Port Authority](http://flylcpa.com)** | **[2026 Internship](https://jobright.ai/jobs/info/68e04cc0b99ec3563b0ce6d8?utm_campaign=1057&utm_source=git)** | Fort Myers, FL | On Site | Oct 03 |
-| **[Divergent](http://www.divergent3d.com)** | **[Summer 2026 Organizational Psychology Intern](https://jobright.ai/jobs/info/68e04c2bf758fe1f97e4c15a?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Oct 03 |
-| **[Fordham University](https://www.fordham.edu/)** | **[Provost and Senior Vice President for Academic Affairs](https://jobright.ai/jobs/info/68e04c13f758fe1f97e4c142?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
