@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/68e23471f758fe1f97e59870?utm_campaign=1057&utm_source=git)** | Fort Mill, SC | Hybrid | Oct 05 |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[VP for Student Success - SPC - req13058](https://jobright.ai/jobs/info/68e23298b99ec3563b0db8d1?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Oct 05 |
+| **[City of Ankeny](https://www.ankenyiowa.gov/)** | **[Winter-Spring Parks & Recreation Internship](https://jobright.ai/jobs/info/68e22ef41852e62f007f6f4b?utm_campaign=1057&utm_source=git)** | Ankeny, IA | On Site | Oct 05 |
 | **[Anderson Sport and Wellness a Physical Therapy Corporation](https://andersonswpt.com)** | **[Pre Physical Therapy Internship (paid position)](https://jobright.ai/jobs/info/68e213afb99ec3563b0d9f72?utm_campaign=1057&utm_source=git)** | Newport Beach, CA | On Site | Oct 04 |
 | **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/68e1f845f758fe1f97e572dd?utm_campaign=1057&utm_source=git)** | Fort Mill, SC US | Hybrid | Oct 04 |
-| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68e1f2bbb99ec3563b0d9278?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | Oct 04 |
-| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68e1f27cb99ec3563b0d9251?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Oct 04 |
-| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68e1f16a1852e62f007f48c5?utm_campaign=1057&utm_source=git)** | Omaha, NE | On Site | Oct 04 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68e1f16a1852e62f007f48c5?utm_campaign=1057&utm_source=git)** | Omaha, NE | On Site | Oct 04 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68e1f0e71852e62f007f47fe?utm_campaign=1057&utm_source=git)** | Broomfield, CO | On Site | Oct 04 |
+| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68e1f0e0f758fe1f97e56ddf?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | Oct 04 |
+| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68e1f08bf758fe1f97e56d43?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Oct 04 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Professional Academic Advisor, International Partnerships](https://jobright.ai/jobs/info/68e1d4edf758fe1f97e56038?utm_campaign=1057&utm_source=git)** | Hays, KS | On Site | Oct 04 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Healthy Habits Student Intern - Paid - Per Diem](https://jobright.ai/jobs/info/68e1cbd9f758fe1f97e55f28?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Oct 04 |
 | **[Young Life](https://sworlando.younglife.org)** | **[HWR Intern Experience - Teton, ID](https://jobright.ai/jobs/info/68e1af5af758fe1f97e55c12?utm_campaign=1057&utm_source=git)** | Driggs, ID | On Site | Oct 04 |
@@ -77,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Sanofi](https://www.sanofi.com)** | **[Summeror Fall 2026 Co-op_Intern - Dupixent Global Market Access & Pricing Dermatology](https://jobright.ai/jobs/info/68e181031852e62f007f2dbb?utm_campaign=1057&utm_source=git)** | Cambridge, MA | On Site | Oct 04 |
 | **[Blount Fine Foods](http://blountfinefoods.com)** | **[T&D Intern (Safety)](https://jobright.ai/jobs/info/68e1543ab99ec3563b0d717a?utm_campaign=1057&utm_source=git)** | McKinney, TX | On Site | Oct 04 |
 | **[Snap-on](http://www.snapon.com)** | **[College Intern - GMIS Conference](https://jobright.ai/jobs/info/68e14ecf1852e62f007f27f2?utm_campaign=1057&utm_source=git)** | Kenosha, WI | On Site | Oct 04 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[GN9894 Graduate Assistant](https://jobright.ai/jobs/info/68e1459b1852e62f007f25d7?utm_campaign=1057&utm_source=git)** | Broken Arrow, OK | On Site | Oct 04 |
 | **[The Commons XR](https://thecommonsxr.com)** | **[UNPAID Internship - 2025 Fall/Spring Cohort for students/Post-Grads in Mental health, Social Work, Special  Ed, Psychologist](https://jobright.ai/jobs/info/68e14576f758fe1f97e54d18?utm_campaign=1057&utm_source=git)** | San Diego County, CA | On Site | Oct 04 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Adjunct Faculty - International Psychology - DC Campus](https://jobright.ai/jobs/info/68e13ac5b99ec3563b0d6d8b?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Oct 04 |
 | ↳ | **[English Learner Specialist - St. Francis International School](https://jobright.ai/jobs/info/68e13715f758fe1f97e54a26?utm_campaign=1057&utm_source=git)** | Silver Spring, MD | On Site | Oct 04 |
@@ -120,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Workfront Associate - Center of Excellence](https://jobright.ai/jobs/info/68e076a41852e62f007eb287?utm_campaign=1057&utm_source=git)** | North Carolina, United States | Remote | Oct 03 |
 | ↳ | **[Intern - Workfront Associate - Center of Excellence](https://jobright.ai/jobs/info/68e076131852e62f007eb20e?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Oct 03 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Intern](https://jobright.ai/jobs/info/68e0714df758fe1f97e4d413?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Oct 03 |
-| **[New Directions Mental Health](https://newdirectionspgh.com/)** | **[Mental Health Therapist Intern - Pennsylvania - Washington](https://jobright.ai/jobs/info/68e12abef758fe1f97e544cd?utm_campaign=1057&utm_source=git)** | Pennsylvania, United States | On Site | Oct 03 |
 | **[Univera Healthcare](https://www.univerahealthcare.com)** | **[College Intern I - Summer 2025 - ERP Solutions & Delivery](https://jobright.ai/jobs/info/68e0659ef758fe1f97e4cdd4?utm_campaign=1057&utm_source=git)** | Buffalo, NY | On Site | Oct 03 |
 | **[BayCare Health System](https://baycare.org/bmg)** | **[Perioperative Internship - March 2026 Start](https://jobright.ai/jobs/info/68dd86ffa125e75c422abab6?utm_campaign=1057&utm_source=git)** | All, MO | On Site | Oct 03 |
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Portal & Mobile App](https://jobright.ai/jobs/info/68e06328b99ec3563b0cf1a2?utm_campaign=1057&utm_source=git)** | Elmira, NY | On Site | Oct 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Undergraduate Intern - Surgery Research](https://jobright.ai/jobs/info/68e03417b99ec3563b0cd34c?utm_campaign=1057&utm_source=git)** | Rochester, MN | On Site | Oct 03 |
 | **[Allegheny County Department of Human Services](http://www.alleghenycounty.us/dhs)** | **[2026 Allegheny County Department of Human Services Internship - Administration](https://jobright.ai/jobs/info/68e033b9b99ec3563b0cd22f?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Oct 03 |
 | **[Sotheby's Institute of Art](http://www.sothebysinstitute.com)** | **[2026 Summer Intern Program (New York)](https://jobright.ai/jobs/info/68e0337ef758fe1f97e4ac7e?utm_campaign=1057&utm_source=git)** | New York, United States | On Site | Oct 03 |
-| **[BrightSpring Health Services](https://www.brightspringhealth.com/)** | **[Independent Living Skills Coach Apprentice / Intern (Metro State/Century)](https://jobright.ai/jobs/info/68e02f011852e62f007e8532?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
