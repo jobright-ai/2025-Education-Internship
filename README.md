@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[F99456 Assistant Professor, Marketing, Tahlequah](https://jobright.ai/jobs/info/68e331c2f758fe1f97e5ba89?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Oct 05 |
+| **[Life Time Inc.](https://www.lifetime.life/)** | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68e32a261852e62f007f9164?utm_campaign=1057&utm_source=git)** | Warrenville, IL | On Site | Oct 05 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Admissions Coordinator](https://jobright.ai/jobs/info/68e32112b99ec3563b0dd69d?utm_campaign=1057&utm_source=git)** | Superior, WI | On Site | Oct 05 |
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Business Engagement](https://jobright.ai/jobs/info/68e306921852e62f007f8c31?utm_campaign=1057&utm_source=git)** | Utica, NY | On Site | Oct 05 |
 | ↳ | **[College Intern I - Summer 2026 - Business Engagement](https://jobright.ai/jobs/info/68e3044bb99ec3563b0dd3c0?utm_campaign=1057&utm_source=git)** | Elmira, NY | On Site | Oct 05 |
@@ -94,18 +96,18 @@ For a complete list, click the following sortable link below:
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Development Undergraduate Internship](https://jobright.ai/jobs/info/68e25009f758fe1f97e5a093?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Oct 05 |
 | **[Culver Academies](https://www.culver.org)** | **[26-27 Fellow](https://jobright.ai/jobs/info/68e24c34b99ec3563b0dc186?utm_campaign=1057&utm_source=git)** | Culver, IN | On Site | Oct 05 |
 | **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/68e23471f758fe1f97e59870?utm_campaign=1057&utm_source=git)** | Fort Mill, SC | Hybrid | Oct 05 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[VP for Student Success - SPC - req13058](https://jobright.ai/jobs/info/68e23298b99ec3563b0db8d1?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Oct 05 |
 | **[Anderson Sport and Wellness a Physical Therapy Corporation](https://andersonswpt.com)** | **[Pre Physical Therapy Internship (paid position)](https://jobright.ai/jobs/info/68e213afb99ec3563b0d9f72?utm_campaign=1057&utm_source=git)** | Newport Beach, CA | On Site | Oct 04 |
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - San Diego, CA - California Market Bank CRE](https://jobright.ai/jobs/info/68e1ff01b99ec3563b0d9747?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Oct 04 |
+| **[HACC, Central Pennsylvania's Community College](http://www.hacc.edu)** | **[Internship Coordinator Perkins](https://jobright.ai/jobs/info/68e33d781852e62f007f9d36?utm_campaign=1057&utm_source=git)** | Gettysburg, PA | On Site | Oct 04 |
 | **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/68e1f845f758fe1f97e572dd?utm_campaign=1057&utm_source=git)** | Fort Mill, SC US | Hybrid | Oct 04 |
-| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68e1f2bbb99ec3563b0d9278?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | Oct 04 |
-| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68e1f16a1852e62f007f48c5?utm_campaign=1057&utm_source=git)** | Omaha, NE | On Site | Oct 04 |
-| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68e1f1001852e62f007f482a?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Oct 04 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68e1f16a1852e62f007f48c5?utm_campaign=1057&utm_source=git)** | Omaha, NE | On Site | Oct 04 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68e1f0e71852e62f007f47fe?utm_campaign=1057&utm_source=git)** | Broomfield, CO | On Site | Oct 04 |
+| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68e1f0e0f758fe1f97e56ddf?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | Oct 04 |
+| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68e1f08bf758fe1f97e56d43?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Oct 04 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Healthy Habits Student Intern - Paid - Per Diem](https://jobright.ai/jobs/info/68e1cbd9f758fe1f97e55f28?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Oct 04 |
 | **[New Directions Mental Health](https://newdirectionspgh.com/)** | **[Mental Health Therapist Intern - PA](https://jobright.ai/jobs/info/68e2710e1852e62f007f7d5c?utm_campaign=1057&utm_source=git)** | Rural Valley, PA | On Site | Oct 04 |
+| ↳ | **[Mental Health Therapist Intern - Pennsylvania - Fox Chapel](https://jobright.ai/jobs/info/68e2729fb99ec3563b0dc525?utm_campaign=1057&utm_source=git)** | Pennsylvania, United States | On Site | Oct 04 |
 | ↳ | **[Mental Health Therapist Intern - PA](https://jobright.ai/jobs/info/68e270f31852e62f007f7d54?utm_campaign=1057&utm_source=git)** | Cranberry, PA | On Site | Oct 04 |
-| ↳ | **[Mental Health Therapist Intern - Pennsylvania - Fox Chapel](https://jobright.ai/jobs/info/68e27b9f1852e62f007f7e9c?utm_campaign=1057&utm_source=git)** | Pennsylvania, United States | On Site | Oct 04 |
 | ↳ | **[Mental Health Therapist Intern - Pennsylvania - Fox Chapel](https://jobright.ai/jobs/info/68e2790bf758fe1f97e5a4f8?utm_campaign=1057&utm_source=git)** | Cranberry, PA | On Site | Oct 04 |
 | ↳ | **[Mental Health Therapist Intern - Pennsylvania - Fox Chapel](https://jobright.ai/jobs/info/68e27ac91852e62f007f7e0c?utm_campaign=1057&utm_source=git)** | McDonald County, MO | On Site | Oct 04 |
 | **[Young Life](https://sworlando.younglife.org)** | **[HWR Intern Experience - Teton, ID](https://jobright.ai/jobs/info/68e1af5af758fe1f97e55c12?utm_campaign=1057&utm_source=git)** | Driggs, ID | On Site | Oct 04 |
@@ -114,7 +116,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68e19a79b99ec3563b0d7c61?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Oct 04 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68e1994df758fe1f97e55a97?utm_campaign=1057&utm_source=git)** | Leander, TX | On Site | Oct 04 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68e199061852e62f007f33b4?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Oct 04 |
-| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68e198e11852e62f007f33a5?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Oct 04 |
+| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/68e198a21852e62f007f338c?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Oct 04 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[VP for Student Success - NVC - req13112](https://jobright.ai/jobs/info/68e182dab99ec3563b0d76d4?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Oct 04 |
 | **[Sanofi](https://www.sanofi.com)** | **[Summeror Fall 2026 Co-op_Intern - Dupixent Global Market Access & Pricing Dermatology](https://jobright.ai/jobs/info/68e181031852e62f007f2dbb?utm_campaign=1057&utm_source=git)** | Cambridge, MA | On Site | Oct 04 |
 | **[Blount Fine Foods](http://blountfinefoods.com)** | **[T&D Intern (Safety)](https://jobright.ai/jobs/info/68e1543ab99ec3563b0d717a?utm_campaign=1057&utm_source=git)** | McKinney, TX | On Site | Oct 04 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship Oahu](https://jobright.ai/jobs/info/68e1ee04b99ec3563b0d901d?utm_campaign=1057&utm_source=git)** | Honolulu, HI | On Site | Oct 03 |
 | **[University of Central Florida](https://www.ucf.edu)** | **[Academic Support Coordinator I](https://jobright.ai/jobs/info/68e08e9df758fe1f97e4e4f4?utm_campaign=1057&utm_source=git)** | Greater Orlando | On Site | Oct 03 |
 | **[Arbour Counseling Services](https://arbourhealth.com/)** | **[Spring 2026 Partial Hospitalization Internship](https://jobright.ai/jobs/info/68e089701852e62f007ebc53?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Oct 03 |
-| **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Healthy Habits Student Intern - Paid - Per Diem](https://jobright.ai/jobs/info/68e087baf758fe1f97e4deb2?utm_campaign=1057&utm_source=git)** | 6500 Wilshire Blvd, Los Angeles, CA, 90048, US | On Site | Oct 03 |
-| **[North Star Behavioral Health](https://northstarbehavioral.com)** | **[Spring 2026 Partial Hospitalization Internship](https://jobright.ai/jobs/info/68e081ffb99ec3563b0cffde?utm_campaign=1057&utm_source=git)** | ALLSTON, Massachusetts | On Site | Oct 03 |
-| **[Harris](https://www.harriscompany.com/)** | **[Purchasing Intern](https://jobright.ai/jobs/info/68e07e92f758fe1f97e4d9f3?utm_campaign=1057&utm_source=git)** | St Paul, MN | On Site | Oct 03 |
+| **[New Directions Mental Health](https://newdirectionspgh.com/)** | **[Mental Health Therapist Intern - Pennsylvania - Washington](https://jobright.ai/jobs/info/68e336e1b99ec3563b0ddf86?utm_campaign=1057&utm_source=git)** | Follansbee, WV | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
