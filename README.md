@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Autism Learning Collaborative](https://www.autismlearningcollaborative.com/)** | **[RBT Intern – Trainer](https://jobright.ai/jobs/info/68e80dbfcc49a84b7e10139d?utm_campaign=1057&utm_source=git)** | Plano, TX | On Site | Oct 09 |
+| **[CHEManager International](https://www.chemanager-online.com/en)** | **[Adjunct Faculty, International Studies and Public Policy](https://jobright.ai/jobs/info/68e80db909580a2fe57f2d66?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Oct 09 |
+| **[HealthFitness](http://www.healthfitness.com)** | **[Spring Fitness Intern (Fort Collins, CO)](https://jobright.ai/jobs/info/68e7f77c09580a2fe57f1ae2?utm_campaign=1057&utm_source=git)** | Fort Collins, CO | On Site | Oct 09 |
+| **[Terex Corporation](http://www.terex.com)** | **[Training Specialist Intern](https://jobright.ai/jobs/info/68e7f58809580a2fe57f181f?utm_campaign=1057&utm_source=git)** | USA, SD, Watertown | On Site | Oct 09 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Learning Delivery Intern, Spring 2026](https://jobright.ai/jobs/info/68e7f46509580a2fe57f15e3?utm_campaign=1057&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 09 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Digital Events and Engagement Intern (ST&MK, Spring 2026)](https://jobright.ai/jobs/info/68e7f0c0cc49a84b7e0ffbbb?utm_campaign=1057&utm_source=git)** | Maryland Heights, MO | Remote | Oct 09 |
 | **[Mental Health Cooperative](https://www.mhc-tn.org)** | **[Internship Opportunity, APN](https://jobright.ai/jobs/info/68e7ef42cc49a84b7e0ff9ab?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Oct 09 |
 | **[Duke University](http://www.duke.edu)** | **[NONDUKE STUDENT/INTERN](https://jobright.ai/jobs/info/68e7eef3c4895107182bfb20?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Oct 09 |
-| **[Eradicate Hate Global Summit](https://eradicatehatesummit.org/)** | **[Programs Internship](https://jobright.ai/jobs/info/68e7ee90cc49a84b7e0ff8c1?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Oct 09 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Sustainability Center of Competence Intern (SUS, Spring 2026)](https://jobright.ai/jobs/info/68e7ed03cc49a84b7e0ff6ad?utm_campaign=1057&utm_source=git)** | Maryland Heights, MO | Remote | Oct 09 |
 | **[Siemens](https://www.siemens.com/)** | **[Training & Development Internship- Customer Service (Summer 2026)](https://jobright.ai/jobs/info/68e7e702cc49a84b7e0ff210?utm_campaign=1057&utm_source=git)** | New Castle, DE | On Site | Oct 09 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: R&D Data Analytics Intern (ST&MK, Spring 2026)](https://jobright.ai/jobs/info/68e7e63209580a2fe57f0ab7?utm_campaign=1057&utm_source=git)** | Maryland Heights, MO | Remote | Oct 09 |
@@ -71,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[Mental Health Cooperative](https://www.mhc-tn.org)** | **[Internship Opportunity, APN](https://jobright.ai/jobs/info/68e7d92709580a2fe57f017d?utm_campaign=1057&utm_source=git)** | MHC Nashville, TN | On Site | Oct 09 |
 | **[Centene Corporation](http://www.centene.com)** | **[Pharmacy Clinical Implementation Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68e7d8a6cc49a84b7e0fea26?utm_campaign=1057&utm_source=git)** | Remote-CA | Remote | Oct 09 |
 | ↳ | **[Pharmacy Clinical Implementation Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68e7d837c4895107182bebae?utm_campaign=1057&utm_source=git)** | Remote-FL | Remote | Oct 09 |
-| ↳ | **[Pharmacy Clinical Implementation Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68e7d75bcc49a84b7e0fe953?utm_campaign=1057&utm_source=git)** | Remote-IA | Remote | Oct 09 |
 | ↳ | **[Pharmacy Clinical Implementation Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68e7d75b09580a2fe57f008b?utm_campaign=1057&utm_source=git)** | Remote-GA | Remote | Oct 09 |
+| ↳ | **[Pharmacy Clinical Implementation Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68e7d75bcc49a84b7e0fe953?utm_campaign=1057&utm_source=git)** | Remote-IA | Remote | Oct 09 |
 | **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/68cd9657b2a74e1837ed9323?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Oct 09 |
 | **[BayMark Health Services](http://baymark.com/)** | **[Counselor/Counselor Intern](https://jobright.ai/jobs/info/68e7cadb09580a2fe57ef941?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Oct 09 |
 | **[Apple Bank](https://www.applebank.com)** | **[2026 Summer Intern- Commercial Banking](https://jobright.ai/jobs/info/68e7c76fc4895107182be267?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Oct 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist (Primary Care Mental Health Integration)](https://jobright.ai/jobs/info/68e6a889e8daec61499ad394?utm_campaign=1057&utm_source=git)** | Wasilla, AK | On Site | Oct 08 |
 | ↳ | **[Clinical Psychologist (Neuropsychologist)](https://jobright.ai/jobs/info/68e6a8791852e62f0081d280?utm_campaign=1057&utm_source=git)** | Canandaigua, NY | On Site | Oct 08 |
 | **[Texas A&M University](https://tamu.edu)** | **[Academic Professional Track (Non-Tenure): Open Rank-Clinical - Internal Medicine](https://jobright.ai/jobs/info/68e6a62de8daec61499ad1f0?utm_campaign=1057&utm_source=git)** | San Angelo, TX | On Site | Oct 08 |
-| **[San Juan College](http://www.sanjuancollege.edu/)** | **[Student Internship and Apprenticeship Coordinator](https://jobright.ai/jobs/info/68e6c4c11852e62f0081e586?utm_campaign=1057&utm_source=git)** | Farmington, NM | On Site | Oct 08 |
-| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Mercer / Pharmacy Strategy Summer Intern - Chicago - College Program 2026](https://jobright.ai/jobs/info/68e6a52ee8daec61499ad101?utm_campaign=1057&utm_source=git)** | Chicago - 155 Wacker | Hybrid | Oct 08 |
-| **[Verizon](https://www.verizon.com)** | **[Rutgers University - 2026 Global Solutions Technology Summer Internship](https://jobright.ai/jobs/info/68e6a2cbae2b894b1d71c209?utm_campaign=1057&utm_source=git)** | Temple Terrace, FL | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
