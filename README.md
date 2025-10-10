@@ -57,13 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eastern State Penitentiary Historic Site, Inc](http://easternstate.org)** | **[Education &amp; Programs Intern](https://jobright.ai/jobs/info/68e8afb8c72beb74cb32183b?utm_campaign=1057&utm_source=git)** | Philadelphia, PA, USA | Hybrid | Oct 10 |
+| **[Elk Grove Unified School District](https://www.egusd.net/)** | **[ELEMENTARY INTERN TEACHER Eligibility Pool](https://jobright.ai/jobs/info/68e8ad25c72beb74cb3212aa?utm_campaign=1057&utm_source=git)** | Elk Grove, CA | On Site | Oct 09 |
 | **[Simmons University](https://www.simmons.edu/news/simmons-celebrates-womens-equality-day-2022)** | **[Adjunct Faculty: Feminist International Relations](https://jobright.ai/jobs/info/68e89117cc49a84b7e107a26?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Oct 09 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Small Animal Internal Medicine Resident - Industry Sponsored](https://jobright.ai/jobs/info/68e88f4f09580a2fe57f928d?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Oct 09 |
 | **[National Pork Board](https://pork.org/)** | **[Human Nutrition Internship 2026](https://jobright.ai/jobs/info/68e8893bcc49a84b7e107455?utm_campaign=1057&utm_source=git)** | Des Moines, IA | On Site | Oct 09 |
 | **[CASA DE LA FAMILIA](https://www.casadelafamilia.org)** | **[Clinical Internship](https://jobright.ai/jobs/info/68e88798c72beb74cb31fc92?utm_campaign=1057&utm_source=git)** | Santa Ana, CA | On Site | Oct 09 |
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Intern-Personal Training](https://jobright.ai/jobs/info/68e8871c09580a2fe57f8b32?utm_campaign=1057&utm_source=git)** | White Bear Lake, MN | On Site | Oct 09 |
-| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68e88645c72beb74cb31fa74?utm_campaign=1057&utm_source=git)** | Bloomingdale, IL | On Site | Oct 09 |
+| **[Edward Waters College](http://www.ewc.edu/)** | **[Program Coordinator for Forensic Science](https://jobright.ai/jobs/info/68e8ae2cc72beb74cb321598?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Oct 09 |
+| **[Life Time Inc.](https://www.lifetime.life/)** | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68e88645c72beb74cb31fa74?utm_campaign=1057&utm_source=git)** | Bloomingdale, IL | On Site | Oct 09 |
 | ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/68e885ef09580a2fe57f8939?utm_campaign=1057&utm_source=git)** | Sterling, VA | On Site | Oct 09 |
+| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68e8836acc49a84b7e106efc?utm_campaign=1057&utm_source=git)** | Eden Prairie, MN | On Site | Oct 09 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68e8828fcc49a84b7e106d8e?utm_campaign=1057&utm_source=git)** | St Louis Park, MN | On Site | Oct 09 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68e88186c72beb74cb31f686?utm_campaign=1057&utm_source=git)** | San Clemente, CA | On Site | Oct 09 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68e880cac72beb74cb31f58b?utm_campaign=1057&utm_source=git)** | Lakeville, MN | On Site | Oct 09 |
@@ -84,11 +88,11 @@ For a complete list, click the following sortable link below:
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68e87a6f09580a2fe57f80f5?utm_campaign=1057&utm_source=git)** | Overland Park, KS | On Site | Oct 09 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68e87a3309580a2fe57f80a2?utm_campaign=1057&utm_source=git)** | Bellevue, WA | On Site | Oct 09 |
 | ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/68e87a2dc72beb74cb31f09a?utm_campaign=1057&utm_source=git)** | Johns Creek, GA | On Site | Oct 09 |
+| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/68e87a2709580a2fe57f8095?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Oct 09 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68e87a0509580a2fe57f8059?utm_campaign=1057&utm_source=git)** | Canton, MI | On Site | Oct 09 |
 | **[Sioux Falls Specialty Hospital](https://www.sfsh.com/)** | **[Student RN Clinical Internship - June 2026](https://jobright.ai/jobs/info/68e8793ac72beb74cb31ef32?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD | On Site | Oct 09 |
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Intern - Personal Training](https://jobright.ai/jobs/info/68e878f309580a2fe57f7eb6?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Oct 09 |
 | ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/68e8784fcc49a84b7e10680b?utm_campaign=1057&utm_source=git)** | Alpharetta, GA | On Site | Oct 09 |
-| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68e87844cc49a84b7e1067fd?utm_campaign=1057&utm_source=git)** | Eden Prairie, MN | On Site | Oct 09 |
 | ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/68e87827cc49a84b7e1067db?utm_campaign=1057&utm_source=git)** | Gainesville, VA | On Site | Oct 09 |
 | ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/68e8780dcc49a84b7e1067b8?utm_campaign=1057&utm_source=git)** | Florham Park, NJ | On Site | Oct 09 |
 | ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/68e877dbcc49a84b7e106778?utm_campaign=1057&utm_source=git)** | Arlington, VA | On Site | Oct 09 |
@@ -117,7 +121,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68e8745709580a2fe57f7c9b?utm_campaign=1057&utm_source=git)** | Wheat Ridge, CO | On Site | Oct 09 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68e8742809580a2fe57f7c48?utm_campaign=1057&utm_source=git)** | Tempe, AZ | On Site | Oct 09 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68e873d3c72beb74cb31eb70?utm_campaign=1057&utm_source=git)** | Vernon Hills, IL | On Site | Oct 09 |
-| ↳ | **[Intern - Personal Training](https://jobright.ai/jobs/info/68e873c5c72beb74cb31eb5d?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Oct 09 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68e873c5c72beb74cb31eb5c?utm_campaign=1057&utm_source=git)** | Franklin, TN | On Site | Oct 09 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68e8738fc72beb74cb31eb17?utm_campaign=1057&utm_source=git)** | St Paul, MN | On Site | Oct 09 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68e8737c09580a2fe57f7b7a?utm_campaign=1057&utm_source=git)** | Troy, MI | On Site | Oct 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Clinical Psychologist - Women's Health](https://jobright.ai/jobs/info/68e6a22f1852e62f0081ce6f?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Oct 09 |
 | ↳ | **[Staff Psychologist - Addiction Treatment Program](https://jobright.ai/jobs/info/68e83e9fcc49a84b7e1044fe?utm_campaign=1057&utm_source=git)** | Columbia, MO | On Site | Oct 09 |
 | **[Sevita](https://sevitahealth.com)** | **[Outpatient Therapist Intern](https://jobright.ai/jobs/info/68e83e83c72beb74cb31cb4b?utm_campaign=1057&utm_source=git)** | Leominster, MA | On Site | Oct 09 |
-| **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2026 Project Management, US Consumer Services - New York, NY](https://jobright.ai/jobs/info/68e83c14c72beb74cb31c7a4?utm_campaign=1057&utm_source=git)** | New York, New York, United States | Hybrid | Oct 09 |
-| **[Cook Children's Health Care System](http://www.cookchildrens.org)** | **[Child Life Intern](https://jobright.ai/jobs/info/68e838aecc49a84b7e103fdb?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Oct 09 |
-| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Student Intern (KPro)](https://jobright.ai/jobs/info/68e83895cc49a84b7e103fbf?utm_campaign=1057&utm_source=git)** | Boston-MA | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
