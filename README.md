@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crest Vale](crestvale.us)** | **[Trading Internship](https://jobright.ai/jobs/info/68eab5d68369791ef7822d3f?utm_campaign=1057&utm_source=git)** | Chicago, IL | Remote | Oct 11 |
+| **[Wichita Public Schools - USD259](http://www.usd259.org)** | **[Temporary Aide - Education Co-op Student (2024-2025 School Year)](https://jobright.ai/jobs/info/68eaaf732f64880ca0b53d29?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Oct 11 |
+| **[Children's Home Society of South Dakota](https://www.chssd.org)** | **[Master's Level Spring Internship](https://jobright.ai/jobs/info/68eaa6b52f64880ca0b53be4?utm_campaign=1057&utm_source=git)** | Children's Home, Rapid City, SD | On Site | Oct 11 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Student Asst - FWS](https://jobright.ai/jobs/info/68ea982a76a1db7c5985b891?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Oct 11 |
 | **[Valley Behavioral Health](http://www.valleycares.com/)** | **[Clinical Internship / Social Work & Counseling (Spring & Summer 2026)](https://jobright.ai/jobs/info/68ea92088369791ef7822584?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | Oct 11 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer 2026 Intern- Business, Finance, Accounting, Economics, or Related Majors](https://jobright.ai/jobs/info/68ea7d7c8369791ef78222f8?utm_campaign=1057&utm_source=git)** | Tarrytown, NY | On Site | Oct 11 |
@@ -103,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Psychologist](https://jobright.ai/jobs/info/68e995420930fe0bc4627867?utm_campaign=1057&utm_source=git)** | Port Jervis, NY | On Site | Oct 10 |
 | **[Mosaic Community Health](http://www.MosaicCH.org)** | **[Student/Intern](https://jobright.ai/jobs/info/68e994c265768b6412b1dd30?utm_campaign=1057&utm_source=git)** | Bend, OR | On Site | Oct 10 |
 | **[Penn State University](http://psu.edu)** | **[Criminal Justice Internship Course Instructor](https://jobright.ai/jobs/info/68e9945a0930fe0bc462774e?utm_campaign=1057&utm_source=git)** | Beaver, PA | On Site | Oct 10 |
-| **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/68e994330930fe0bc4627712?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | On Site | Oct 10 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Psychologist](https://jobright.ai/jobs/info/68e9940a65768b6412b1dc49?utm_campaign=1057&utm_source=git)** | Goshen, NY | On Site | Oct 10 |
 | ↳ | **[Staff Psychologist - Recruitment/Relocation Incentive - EDRP](https://jobright.ai/jobs/info/68e9932b65768b6412b1db13?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Oct 10 |
 | ↳ | **[Staff Psychologist - Substance Use Disorder](https://jobright.ai/jobs/info/68e99150f195760c354aaca6?utm_campaign=1057&utm_source=git)** | Fargo, ND | On Site | Oct 10 |
@@ -116,9 +118,9 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Learning Delivery Intern, Spring 2026](https://jobright.ai/jobs/info/68e9738f0930fe0bc4625f1f?utm_campaign=1057&utm_source=git)** | Burbank, CA | On Site | Oct 10 |
 | **[Baird](http://www.rwbaird.com)** | **[Women In Banking Sophomore Internship (Summer 2026)](https://jobright.ai/jobs/info/68e972a80930fe0bc4625db5?utm_campaign=1057&utm_source=git)** | IL-Chicago | On Site | Oct 10 |
 | ↳ | **[Women In Banking Sophomore Internship (Summer 2026)](https://jobright.ai/jobs/info/68e9723565768b6412b1c121?utm_campaign=1057&utm_source=git)** | WI-Milwaukee | On Site | Oct 10 |
-| **[Penn State University](http://psu.edu)** | **[Criminal Justice Internship Course Instructor](https://jobright.ai/jobs/info/68e97230f195760c354a9256?utm_campaign=1057&utm_source=git)** | Penn State Beaver | On Site | Oct 10 |
 | **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[WFC Workforce Development Program Intern](https://jobright.ai/jobs/info/68e97229f195760c354a924d?utm_campaign=1057&utm_source=git)** | Stevens Point, WI | On Site | Oct 10 |
 | **[Grand Canyon Education, Inc. ](https://www.gce.com)** | **[Program Recruitment -- Program Development Specialist Intern (Honors) (NFWS)](https://jobright.ai/jobs/info/68e9716e0930fe0bc4625b58?utm_campaign=1057&utm_source=git)** | AZ Phoenix | On Site | Oct 10 |
+| **[Penn State University](http://psu.edu)** | **[Criminal Justice Internship Course Instructor](https://jobright.ai/jobs/info/68e97145f195760c354a91bd?utm_campaign=1057&utm_source=git)** | Penn State Beaver | On Site | Oct 10 |
 | **[Genworth](https://www.genworth.com)** | **[Genworth Finance Development Program Intern – Summer 2026](https://jobright.ai/jobs/info/68e964d50930fe0bc4625404?utm_campaign=1057&utm_source=git)** | Richmond, Virginia | Hybrid | Oct 10 |
 | **[Higginbotham](https://www.higginbotham.com)** | **[Higginbotham Summer Internship - Class of 2026](https://jobright.ai/jobs/info/68e95f9c65768b6412b1b4dd?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Oct 10 |
 | **[Arbour Counseling Services](https://arbourhealth.com/)** | **[Spring 2026 Partial Hospitalization Internship](https://jobright.ai/jobs/info/68e97be565768b6412b1ca61?utm_campaign=1057&utm_source=git)** | Woburn, MA | On Site | Oct 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[Training & Professional Development Intern - Spring 2026](https://jobright.ai/jobs/info/68e8ca3c01c6482bd877770c?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Oct 10 |
 | **[Bedford County Public Schools](http://cbschools.sharpschool.net/)** | **[School Psychologist Intern](https://jobright.ai/jobs/info/68e8f8bc0930fe0bc462164b?utm_campaign=1057&utm_source=git)** | Bedford, VA | On Site | Oct 10 |
 | **[Eastern State Penitentiary Historic Site, Inc](http://easternstate.org)** | **[Education &amp; Programs Intern](https://jobright.ai/jobs/info/68e8afb8c72beb74cb32183b?utm_campaign=1057&utm_source=git)** | Philadelphia, PA, USA | Hybrid | Oct 10 |
-| **[Elk Grove Unified School District](https://www.egusd.net/)** | **[ELEMENTARY INTERN TEACHER Eligibility Pool](https://jobright.ai/jobs/info/68e8ad25c72beb74cb3212aa?utm_campaign=1057&utm_source=git)** | Elk Grove, CA | On Site | Oct 09 |
-| **[Simmons University](https://www.simmons.edu/news/simmons-celebrates-womens-equality-day-2022)** | **[Adjunct Faculty: Feminist International Relations](https://jobright.ai/jobs/info/68e89117cc49a84b7e107a26?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
