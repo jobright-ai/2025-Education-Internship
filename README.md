@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BestSelf Behavioral Health](https://www.bestselfwny.org/)** | **[Clinical Internship](https://jobright.ai/jobs/info/68ea3f17efce685ab6fb4c74?utm_campaign=1057&utm_source=git)** | Buffalo, NY | On Site | Oct 11 |
+| **[North Central Michigan College](http://www.ncmich.edu/)** | **[Student Employee Athletics - North Central Michigan College](https://jobright.ai/jobs/info/68ea3d70efce685ab6fb4b23?utm_campaign=1057&utm_source=git)** | Petoskey, MI | On Site | Oct 11 |
+| **[Oak Ridge National Laboratory](http://www.ornl.gov/)** | **[DoD SkillBridge Military Intern](https://jobright.ai/jobs/info/68ea2ffadb8fbc4015c65ef2?utm_campaign=1057&utm_source=git)** | Oak Ridge, TN | On Site | Oct 11 |
 | **[Behavioral Health Resources](http://www.bhr.org/)** | **[Adult Therapist Internship](https://jobright.ai/jobs/info/68ea1dc32730e71fcc137397?utm_campaign=1057&utm_source=git)** | Shelton, WA | On Site | Oct 11 |
 | ↳ | **[Adult Therapist Internship](https://jobright.ai/jobs/info/68ea1714cdf8d94b293a513a?utm_campaign=1057&utm_source=git)** | Olympia, WA | On Site | Oct 11 |
 | **[City of Ankeny](https://www.ankenyiowa.gov/)** | **[Winter-Spring Parks & Recreation Internship](https://jobright.ai/jobs/info/68ea115f54fbf903f6a814d2?utm_campaign=1057&utm_source=git)** | Ankeny, IA | On Site | Oct 11 |
@@ -99,9 +102,9 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Learning Delivery Intern, Spring 2026](https://jobright.ai/jobs/info/68e9738f0930fe0bc4625f1f?utm_campaign=1057&utm_source=git)** | Burbank, CA | On Site | Oct 10 |
 | **[Baird](http://www.rwbaird.com)** | **[Women In Banking Sophomore Internship (Summer 2026)](https://jobright.ai/jobs/info/68e972a80930fe0bc4625db5?utm_campaign=1057&utm_source=git)** | IL-Chicago | On Site | Oct 10 |
 | ↳ | **[Women In Banking Sophomore Internship (Summer 2026)](https://jobright.ai/jobs/info/68e9723565768b6412b1c121?utm_campaign=1057&utm_source=git)** | WI-Milwaukee | On Site | Oct 10 |
+| **[Penn State University](http://psu.edu)** | **[Criminal Justice Internship Course Instructor](https://jobright.ai/jobs/info/68e97230f195760c354a9256?utm_campaign=1057&utm_source=git)** | Penn State Beaver | On Site | Oct 10 |
 | **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[WFC Workforce Development Program Intern](https://jobright.ai/jobs/info/68e97229f195760c354a924d?utm_campaign=1057&utm_source=git)** | Stevens Point, WI | On Site | Oct 10 |
 | **[Grand Canyon Education, Inc. ](https://www.gce.com)** | **[Program Recruitment -- Program Development Specialist Intern (Honors) (NFWS)](https://jobright.ai/jobs/info/68e9716e0930fe0bc4625b58?utm_campaign=1057&utm_source=git)** | AZ Phoenix | On Site | Oct 10 |
-| **[Penn State University](http://psu.edu)** | **[Criminal Justice Internship Course Instructor](https://jobright.ai/jobs/info/68e97145f195760c354a91bd?utm_campaign=1057&utm_source=git)** | Penn State Beaver | On Site | Oct 10 |
 | **[Genworth](https://www.genworth.com)** | **[Genworth Finance Development Program Intern – Summer 2026](https://jobright.ai/jobs/info/68e964d50930fe0bc4625404?utm_campaign=1057&utm_source=git)** | Richmond, Virginia | Hybrid | Oct 10 |
 | **[Higginbotham](https://www.higginbotham.com)** | **[Higginbotham Summer Internship - Class of 2026](https://jobright.ai/jobs/info/68e95f9c65768b6412b1b4dd?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Oct 10 |
 | **[Arbour Counseling Services](https://arbourhealth.com/)** | **[Spring 2026 Partial Hospitalization Internship](https://jobright.ai/jobs/info/68e97be565768b6412b1ca61?utm_campaign=1057&utm_source=git)** | Woburn, MA | On Site | Oct 10 |
@@ -152,9 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68e880cac72beb74cb31f58b?utm_campaign=1057&utm_source=git)** | Lakeville, MN | On Site | Oct 09 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68e87ecac72beb74cb31f372?utm_campaign=1057&utm_source=git)** | Roseville, MN | On Site | Oct 09 |
 | ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68e87e7ccc49a84b7e106c6d?utm_campaign=1057&utm_source=git)** | Woodbury, MN | On Site | Oct 09 |
-| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68e87d7ecc49a84b7e106b03?utm_campaign=1057&utm_source=git)** | Chanhassen, MN | On Site | Oct 09 |
-| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68e87d24cc49a84b7e106a83?utm_campaign=1057&utm_source=git)** | Boca Raton, FL | On Site | Oct 09 |
-| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68e87cb7cc49a84b7e1069d4?utm_campaign=1057&utm_source=git)** | Laguna Niguel, CA | On Site | Oct 09 |
-| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68e87c9ccc49a84b7e1069a2?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Oct 09 |
-| ↳ | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68e87c2d09580a2fe57f8336?utm_campaign=1057&utm_source=git)** | Romeoville, IL | On Site | Oct 09 |
+| **[Travelers](https://www.travelers.com)** | **[Bond & Specialty Insurance Underwriting Professional Development Program (BSI UPDP) Internship](https://jobright.ai/jobs/info/68e87d88cc49a84b7e106b11?utm_campaign=1057&utm_source=git)** | Hartford, CT | Hybrid | Oct 09 |
+| **[Life Time Inc.](https://www.lifetime.life/)** | **[Intern-Personal Trainer](https://jobright.ai/jobs/info/68e87d7ecc49a84b7e106b03?utm_campaign=1057&utm_source=git)** | Chanhassen, MN | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
