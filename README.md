@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AI-Powered Women](www.aipoweredwomen.com)** | **[Community Engagement Intern/Volunteer](https://jobright.ai/jobs/info/68ebdfd276a1db7c59861821?utm_campaign=1057&utm_source=git)** | Boston, MA | Remote | Oct 12 |
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[Graduate Administrative Assistant - Vice Provost for Student Success (Fall 2025 - Spring 2026)](https://jobright.ai/jobs/info/68ebcca02f64880ca0b5971c?utm_campaign=1057&utm_source=git)** | Jacksonville, AL | On Site | Oct 12 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[VP for Student Success - NVC - req13112](https://jobright.ai/jobs/info/68ebc04f76a1db7c59861524?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Oct 12 |
 | **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Trading Internship](https://jobright.ai/jobs/info/68ebbfe52f64880ca0b595ce?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Oct 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Staff Psychologist](https://jobright.ai/jobs/info/68e93b9d0930fe0bc4623539?utm_campaign=1057&utm_source=git)** | Savannah, GA | On Site | Oct 10 |
 | ↳ | **[Staff Psychologist](https://jobright.ai/jobs/info/68e95857f195760c354a7b71?utm_campaign=1057&utm_source=git)** | Charleston, SC | On Site | Oct 10 |
 | **[Amplify](http://www.amplify.com)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/68e937db9020b95add6a4eb3?utm_campaign=1057&utm_source=git)** | Remote - United States | Remote | Oct 10 |
-| **[Shepherd Center](http://www.shepherd.org/)** | **[Nurse Intern](https://jobright.ai/jobs/info/68e92e0a65768b6412b19346?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
