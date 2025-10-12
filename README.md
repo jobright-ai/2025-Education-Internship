@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Burrell Behavioral Health](https://www.burrellcenter.com/)** | **[Student Trainee](https://jobright.ai/jobs/info/68eb90d12f64880ca0b58e48?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Oct 12 |
+| **[Essentia Health](https://www.essentiahealth.org/)** | **[2026 Summer Student Nurse Internship Program - Fargo](https://jobright.ai/jobs/info/68eb8d0d8369791ef7827b80?utm_campaign=1057&utm_source=git)** | Fargo, ND | On Site | Oct 12 |
+| **[Kansas State University](http://www.k-state.edu/)** | **[Program/Project Coordinator](https://jobright.ai/jobs/info/68eb8b5e76a1db7c59860ba5?utm_campaign=1057&utm_source=git)** | Manhattan, KS | On Site | Oct 12 |
+| **[East-West](https://www.eastwest.org)** | **[NEXT Generation Internship](https://jobright.ai/jobs/info/68eb8b1676a1db7c59860b73?utm_campaign=1057&utm_source=git)** | Plano, TX | On Site | Oct 12 |
+| **[Essentia Health](https://www.essentiahealth.org/)** | **[2026 Summer Student Nurse Internship Program – Bismarck](https://jobright.ai/jobs/info/68eb80168369791ef782762a?utm_campaign=1057&utm_source=git)** | Bismarck, ND | On Site | Oct 12 |
 | **[Cherokee Nation](https://www.cherokee.org/)** | **[Paid Internship -Summer 2026- Cherokee Nation Businesses](https://jobright.ai/jobs/info/68eb6ee38369791ef7826e8b?utm_campaign=1057&utm_source=git)** | Tulsa, OK | On Site | Oct 12 |
 | **[Clutch Health](https://www.reciprocityhealth.com/programs)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/68eb5ce776a1db7c5985f6d2?utm_campaign=1057&utm_source=git)** | Elmer, LA | On Site | Oct 12 |
 | **[NashvilleHealth](https://www.nashvillehealth.org/)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/68eb4bdb76a1db7c5985e8c1?utm_campaign=1057&utm_source=git)** | Longleaf, LA | On Site | Oct 11 |
@@ -113,6 +118,7 @@ For a complete list, click the following sortable link below:
 | **[The Y in Central Maryland](https://ymaryland.org/)** | **[Family Center Intern - Swim Center in Dundalk](https://jobright.ai/jobs/info/68e9a3bf65768b6412b1e3c0?utm_campaign=1057&utm_source=git)** | Dundalk, MD | On Site | Oct 10 |
 | **[Ferris State University College of Business ](http://ferris.edu/business)** | **[SLA Facilitator (Student Position)](https://jobright.ai/jobs/info/68e9a107feeb0006c1a56261?utm_campaign=1057&utm_source=git)** | Big Rapids, MI | On Site | Oct 10 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Psychologist](https://jobright.ai/jobs/info/68e99eff0930fe0bc4627cb8?utm_campaign=1057&utm_source=git)** | Castle Point, NY | On Site | Oct 10 |
+| **[Children's Wisconsin](https://childrenswi.org/)** | **[High School Intern](https://jobright.ai/jobs/info/68e99c1df195760c354ab2c6?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | Oct 10 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Immunology Medical Affairs Learning Excellence Intern](https://jobright.ai/jobs/info/68e999380930fe0bc4627a06?utm_campaign=1057&utm_source=git)** | Horsham, PA | Hybrid | Oct 10 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Psychologist](https://jobright.ai/jobs/info/68e995420930fe0bc4627867?utm_campaign=1057&utm_source=git)** | Port Jervis, NY | On Site | Oct 10 |
 | **[Mosaic Community Health](http://www.MosaicCH.org)** | **[Student/Intern](https://jobright.ai/jobs/info/68e994c265768b6412b1dd30?utm_campaign=1057&utm_source=git)** | Bend, OR | On Site | Oct 10 |
@@ -132,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[WFC Workforce Development Program Intern](https://jobright.ai/jobs/info/68e97229f195760c354a924d?utm_campaign=1057&utm_source=git)** | Stevens Point, WI | On Site | Oct 10 |
 | **[Grand Canyon Education, Inc. ](https://www.gce.com)** | **[Program Recruitment -- Program Development Specialist Intern (Honors) (NFWS)](https://jobright.ai/jobs/info/68e9716e0930fe0bc4625b58?utm_campaign=1057&utm_source=git)** | AZ Phoenix | On Site | Oct 10 |
 | **[Genworth](https://www.genworth.com)** | **[Genworth Finance Development Program Intern – Summer 2026](https://jobright.ai/jobs/info/68e964d50930fe0bc4625404?utm_campaign=1057&utm_source=git)** | Richmond, Virginia | Hybrid | Oct 10 |
-| **[Children's Wisconsin](https://childrenswi.org/)** | **[High School Intern](https://jobright.ai/jobs/info/68e963490930fe0bc4625134?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | Oct 10 |
 | **[Higginbotham](https://www.higginbotham.com)** | **[Higginbotham Summer Internship - Class of 2026](https://jobright.ai/jobs/info/68e95f9c65768b6412b1b4dd?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Oct 10 |
 | **[Arbour Counseling Services](https://arbourhealth.com/)** | **[Spring 2026 Partial Hospitalization Internship](https://jobright.ai/jobs/info/68e97be565768b6412b1ca61?utm_campaign=1057&utm_source=git)** | Woburn, MA | On Site | Oct 10 |
 | **[UHS](https://uhs.com)** | **[January 2026 Partial Hospitalization Internship](https://jobright.ai/jobs/info/68e95ce40930fe0bc4624c44?utm_campaign=1057&utm_source=git)** | WOBURN, Massachusetts | On Site | Oct 10 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amplify](http://www.amplify.com)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/68e937db9020b95add6a4eb3?utm_campaign=1057&utm_source=git)** | Remote - United States | Remote | Oct 10 |
 | **[Shepherd Center](http://www.shepherd.org/)** | **[Nurse Intern](https://jobright.ai/jobs/info/68e92e0a65768b6412b19346?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Oct 10 |
 | **[BISSELL Homecare, Inc.](http://www.bissell.com)** | **[General Internship - Become a BISStern](https://jobright.ai/jobs/info/68e9179e65768b6412b1888a?utm_campaign=1057&utm_source=git)** | Grand Rapids, MI | On Site | Oct 10 |
-| **[Holy Family Institute](https://www.hfi-pgh.org/)** | **[Director of Student Internship and Workforce Development](https://jobright.ai/jobs/info/6893ed30f47efe2113967de3?utm_campaign=1057&utm_source=git)** | Emsworth, PA | On Site | Oct 10 |
-| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Specia Ed. Para- Padonia International School](https://jobright.ai/jobs/info/68e92ccd9020b95add6a4741?utm_campaign=1057&utm_source=git)** | Cockeysville, MD | On Site | Oct 10 |
-| **[Housing Works](http://www.housingworks.org)** | **[Internship Supervisor](https://jobright.ai/jobs/info/68e908350930fe0bc4621d1d?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Oct 10 |
-| **[BGE, Inc.](https://www.bgeinc.com)** | **[HOUSTON - Transportation, Internship](https://jobright.ai/jobs/info/68e901fc9020b95add6a35fe?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Oct 10 |
-| **[Mindful Healing Works](https://mindfulhealingworks.com)** | **[Internship Director - The Academy MHW](https://jobright.ai/jobs/info/68e900e49020b95add6a34db?utm_campaign=1057&utm_source=git)** | Rosedale, MD | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
