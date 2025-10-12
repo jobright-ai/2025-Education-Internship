@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fort Washington Investment Advisors, Inc.](http://www.fortwashington.com)** | **[MBA Leadership Development Program Internship](https://jobright.ai/jobs/info/68ebad172f64880ca0b5935c?utm_campaign=1057&utm_source=git)** | US-OH-CINCINNATI | On Site | Oct 12 |
+| **[CHI](https://www.catholichealthinitiatives.org/)** | **[Nurse Graduate Intern-LPN](https://jobright.ai/jobs/info/68ebaa5c2f64880ca0b592d2?utm_campaign=1057&utm_source=git)** | Dickinson, ND | On Site | Oct 12 |
+| **[Sanford Health](http://www.sanfordhealth.org)** | **[Sanford Student Nurse Internship Program](https://jobright.ai/jobs/info/68d7766d7a37c712687cd9ee?utm_campaign=1057&utm_source=git)** | Mahnomen, MN | On Site | Oct 12 |
 | **[Burrell Behavioral Health](https://www.burrellcenter.com/)** | **[Student Trainee](https://jobright.ai/jobs/info/68eb90d12f64880ca0b58e48?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Oct 12 |
 | **[Essentia Health](https://www.essentiahealth.org/)** | **[2026 Summer Student Nurse Internship Program - Fargo](https://jobright.ai/jobs/info/68eb8d0d8369791ef7827b80?utm_campaign=1057&utm_source=git)** | Fargo, ND | On Site | Oct 12 |
 | **[Kansas State University](http://www.k-state.edu/)** | **[Program/Project Coordinator](https://jobright.ai/jobs/info/68eb8b5e76a1db7c59860ba5?utm_campaign=1057&utm_source=git)** | Manhattan, KS | On Site | Oct 12 |
@@ -70,7 +73,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Adjunct Faculty, International Business](https://jobright.ai/jobs/info/68eb0c9676a1db7c5985ca43?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Oct 11 |
 | ↳ | **[Visiting Assistant Professor - International Business](https://jobright.ai/jobs/info/68eb0c518369791ef782374f?utm_campaign=1057&utm_source=git)** | Lawrence, KS | On Site | Oct 11 |
 | ↳ | **[Adjunct Dissertation Chair- International Psychology- Online Campus](https://jobright.ai/jobs/info/68eb0c1b8369791ef7823740?utm_campaign=1057&utm_source=git)** | Chicago, IL | Remote | Oct 11 |
-| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/68ead37576a1db7c5985c505?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Oct 11 |
 | **[Southeast Missouri State University](http://www.semo.edu/)** | **[Assistant Professor or Instructor - Engineering & Technology - Construction Management](https://jobright.ai/jobs/info/68ead09f76a1db7c5985c4e5?utm_campaign=1057&utm_source=git)** | Cape Girardeau, MO | On Site | Oct 11 |
 | **[University of La Verne](http://laverne.edu)** | **[Honors Program Student Assistant (23/24) - FWS](https://jobright.ai/jobs/info/68eacbb38369791ef7823150?utm_campaign=1057&utm_source=git)** | La Verne, CA | On Site | Oct 11 |
 | **[Sun Valley Academy](http://www.sunvalleyacademy.org)** | **[Aspiring Educators Enrichment Program (Internship)](https://jobright.ai/jobs/info/68eacb5b76a1db7c5985c3dc?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Oct 11 |
@@ -86,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://healthcare.ascension.org)** | **[Intern / Sleep Lab](https://jobright.ai/jobs/info/68ea69c38369791ef7821c15?utm_campaign=1057&utm_source=git)** | Appleton, WI | On Site | Oct 11 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Brainfreeze Collective Intern](https://jobright.ai/jobs/info/68ea69ba76a1db7c5985ad63?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | Oct 11 |
 | **[Terros Health](https://www.terroshealth.org/)** | **[Intern - Pinchot Gardens - Masters or Bachelors level (5563)](https://jobright.ai/jobs/info/68ea5fb68369791ef7821815?utm_campaign=1057&utm_source=git)** | Phoenix, AZ, USA | On Site | Oct 11 |
-| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Credential Evaluator](https://jobright.ai/jobs/info/68ea7e3876a1db7c5985b543?utm_campaign=1057&utm_source=git)** | Cambridge, MA | On Site | Oct 11 |
 | **[fairlife, LLC](http://www.fairlife.com)** | **[Graduate Nutritionist Intern](https://jobright.ai/jobs/info/68b2978bbc187f64e1bddbaa?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Oct 11 |
 | **[City of New York](http://www1.nyc.gov)** | **[Fieldwork Intern, Bureau of Public Health Clinics](https://jobright.ai/jobs/info/68ea524b8369791ef7820d5e?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Oct 11 |
 | **[UBS](https://www.ubs.com)** | **[2026 MBA Associate Internship - Global Banking](https://jobright.ai/jobs/info/68ce94e6fb49c96ca6ea1d09?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Oct 11 |
@@ -134,9 +135,9 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Learning Delivery Intern, Spring 2026](https://jobright.ai/jobs/info/68e9738f0930fe0bc4625f1f?utm_campaign=1057&utm_source=git)** | Burbank, CA | On Site | Oct 10 |
 | **[Baird](http://www.rwbaird.com)** | **[Women In Banking Sophomore Internship (Summer 2026)](https://jobright.ai/jobs/info/68e972a80930fe0bc4625db5?utm_campaign=1057&utm_source=git)** | IL-Chicago | On Site | Oct 10 |
 | ↳ | **[Women In Banking Sophomore Internship (Summer 2026)](https://jobright.ai/jobs/info/68e9723565768b6412b1c121?utm_campaign=1057&utm_source=git)** | WI-Milwaukee | On Site | Oct 10 |
-| **[Penn State University](http://psu.edu)** | **[Criminal Justice Internship Course Instructor](https://jobright.ai/jobs/info/68e97230f195760c354a9256?utm_campaign=1057&utm_source=git)** | Penn State Beaver | On Site | Oct 10 |
 | **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[WFC Workforce Development Program Intern](https://jobright.ai/jobs/info/68e97229f195760c354a924d?utm_campaign=1057&utm_source=git)** | Stevens Point, WI | On Site | Oct 10 |
 | **[Grand Canyon Education, Inc. ](https://www.gce.com)** | **[Program Recruitment -- Program Development Specialist Intern (Honors) (NFWS)](https://jobright.ai/jobs/info/68e9716e0930fe0bc4625b58?utm_campaign=1057&utm_source=git)** | AZ Phoenix | On Site | Oct 10 |
+| **[Penn State University](http://psu.edu)** | **[Criminal Justice Internship Course Instructor](https://jobright.ai/jobs/info/68e97145f195760c354a91bd?utm_campaign=1057&utm_source=git)** | Penn State Beaver | On Site | Oct 10 |
 | **[Genworth](https://www.genworth.com)** | **[Genworth Finance Development Program Intern – Summer 2026](https://jobright.ai/jobs/info/68e964d50930fe0bc4625404?utm_campaign=1057&utm_source=git)** | Richmond, Virginia | Hybrid | Oct 10 |
 | **[Higginbotham](https://www.higginbotham.com)** | **[Higginbotham Summer Internship - Class of 2026](https://jobright.ai/jobs/info/68e95f9c65768b6412b1b4dd?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Oct 10 |
 | **[Arbour Counseling Services](https://arbourhealth.com/)** | **[Spring 2026 Partial Hospitalization Internship](https://jobright.ai/jobs/info/68e97be565768b6412b1ca61?utm_campaign=1057&utm_source=git)** | Woburn, MA | On Site | Oct 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Staff Psychologist](https://jobright.ai/jobs/info/68e95857f195760c354a7b71?utm_campaign=1057&utm_source=git)** | Charleston, SC | On Site | Oct 10 |
 | **[Amplify](http://www.amplify.com)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/68e937db9020b95add6a4eb3?utm_campaign=1057&utm_source=git)** | Remote - United States | Remote | Oct 10 |
 | **[Shepherd Center](http://www.shepherd.org/)** | **[Nurse Intern](https://jobright.ai/jobs/info/68e92e0a65768b6412b19346?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Oct 10 |
-| **[BISSELL Homecare, Inc.](http://www.bissell.com)** | **[General Internship - Become a BISStern](https://jobright.ai/jobs/info/68e9179e65768b6412b1888a?utm_campaign=1057&utm_source=git)** | Grand Rapids, MI | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
