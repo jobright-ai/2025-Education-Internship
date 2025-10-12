@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/68ec233976a1db7c59861efc?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Oct 12 |
+| **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[Research Associate, Center for Clinical and Translational Science and Training](https://jobright.ai/jobs/info/68ec0fe48369791ef7828b52?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Oct 12 |
+| **[Frederick Health](https://www.frederickhealth.org/)** | **[Clinical Pastoral Education Intern](https://jobright.ai/jobs/info/68ec0f868369791ef7828b33?utm_campaign=1057&utm_source=git)** | Frederick, MD | On Site | Oct 12 |
+| **[Collier Construction, LLC](http://www.collierconstruction.com)** | **[Assistant Superintendent Regular Position or Internship](https://jobright.ai/jobs/info/68ec07432f64880ca0b59cca?utm_campaign=1057&utm_source=git)** | Brenham, TX | On Site | Oct 12 |
 | **[Fitness Together Providence](http://www.ftpvd.com)** | **[Personal Trainer Intern](https://jobright.ai/jobs/info/68ec01b08369791ef7828920?utm_campaign=1057&utm_source=git)** | US-CT-Avon | Hybrid | Oct 12 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Neuro Cardio - APP - Internal Medicine](https://jobright.ai/jobs/info/68ebee198369791ef782871d?utm_campaign=1057&utm_source=git)** | Florida, United States | On Site | Oct 12 |
 | **[AI-Powered Women](www.aipoweredwomen.com)** | **[Community Engagement Intern/Volunteer](https://jobright.ai/jobs/info/68ebdfd276a1db7c59861821?utm_campaign=1057&utm_source=git)** | Boston, MA | Remote | Oct 12 |
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[Graduate Administrative Assistant - Vice Provost for Student Success (Fall 2025 - Spring 2026)](https://jobright.ai/jobs/info/68ebcca02f64880ca0b5971c?utm_campaign=1057&utm_source=git)** | Jacksonville, AL | On Site | Oct 12 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[VP for Student Success - NVC - req13112](https://jobright.ai/jobs/info/68ebc04f76a1db7c59861524?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Oct 12 |
-| **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Trading Internship](https://jobright.ai/jobs/info/68ebbfe52f64880ca0b595ce?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Oct 12 |
 | **[Fort Washington Investment Advisors, Inc.](http://www.fortwashington.com)** | **[MBA Leadership Development Program Internship](https://jobright.ai/jobs/info/68ebad172f64880ca0b5935c?utm_campaign=1057&utm_source=git)** | US-OH-CINCINNATI | On Site | Oct 12 |
 | **[CHI](https://www.catholichealthinitiatives.org/)** | **[Nurse Graduate Intern-LPN](https://jobright.ai/jobs/info/68ebaa5c2f64880ca0b592d2?utm_campaign=1057&utm_source=git)** | Dickinson, ND | On Site | Oct 12 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Sanford Student Nurse Internship Program](https://jobright.ai/jobs/info/68d7766d7a37c712687cd9ee?utm_campaign=1057&utm_source=git)** | Mahnomen, MN | On Site | Oct 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Staff Psychologist](https://jobright.ai/jobs/info/68e94f720930fe0bc462400f?utm_campaign=1057&utm_source=git)** | Hinesville, GA | On Site | Oct 10 |
 | **[HealthFitness](http://www.healthfitness.com)** | **[Spring Fitness Intern (Fort Collins, CO)](https://jobright.ai/jobs/info/68e9427065768b6412b19d66?utm_campaign=1057&utm_source=git)** | Fort Collins, CO | On Site | Oct 10 |
 | **[Milton CAT](http://www.miltoncat.com/Pages/default.aspx)** | **[Student Intern - Parts Department](https://jobright.ai/jobs/info/68ea5d722f64880ca0b52873?utm_campaign=1057&utm_source=git)** | Batavia, NY | On Site | Oct 10 |
-| **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist - Behavioral Health Interdisciplinary Program (BHIP)](https://jobright.ai/jobs/info/68e93ea09020b95add6a521f?utm_campaign=1057&utm_source=git)** | Lincoln, NE | On Site | Oct 10 |
-| ↳ | **[Staff Psychologist](https://jobright.ai/jobs/info/68e93e7a65768b6412b19cf9?utm_campaign=1057&utm_source=git)** | North Charleston, SC | On Site | Oct 10 |
-| ↳ | **[Staff Psychologist](https://jobright.ai/jobs/info/68e93db365768b6412b19c33?utm_campaign=1057&utm_source=git)** | Myrtle Beach, SC | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
