@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fitness Together Providence](http://www.ftpvd.com)** | **[Personal Trainer Intern](https://jobright.ai/jobs/info/68ec01b08369791ef7828920?utm_campaign=1057&utm_source=git)** | US-CT-Avon | Hybrid | Oct 12 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Neuro Cardio - APP - Internal Medicine](https://jobright.ai/jobs/info/68ebee198369791ef782871d?utm_campaign=1057&utm_source=git)** | Florida, United States | On Site | Oct 12 |
 | **[AI-Powered Women](www.aipoweredwomen.com)** | **[Community Engagement Intern/Volunteer](https://jobright.ai/jobs/info/68ebdfd276a1db7c59861821?utm_campaign=1057&utm_source=git)** | Boston, MA | Remote | Oct 12 |
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[Graduate Administrative Assistant - Vice Provost for Student Success (Fall 2025 - Spring 2026)](https://jobright.ai/jobs/info/68ebcca02f64880ca0b5971c?utm_campaign=1057&utm_source=git)** | Jacksonville, AL | On Site | Oct 12 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[VP for Student Success - NVC - req13112](https://jobright.ai/jobs/info/68ebc04f76a1db7c59861524?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Oct 12 |
@@ -145,6 +147,7 @@ For a complete list, click the following sortable link below:
 | **[UHS](https://uhs.com)** | **[January 2026 Partial Hospitalization Internship](https://jobright.ai/jobs/info/68e95ce40930fe0bc4624c44?utm_campaign=1057&utm_source=git)** | WOBURN, Massachusetts | On Site | Oct 10 |
 | **[MobilizeGreen](https://www.mobilizegreen.org/)** | **[2026 Virtual Youth Conservation Intern](https://jobright.ai/jobs/info/68e95a18f195760c354a7e82?utm_campaign=1057&utm_source=git)** | United States | Remote | Oct 10 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Immunology Medical Affairs Learning Excellence Intern](https://jobright.ai/jobs/info/68e95a020930fe0bc4624752?utm_campaign=1057&utm_source=git)** | Horsham, Pennsylvania, United States of America | Hybrid | Oct 10 |
+| **[UCP of Central Florida](https://www.ucpcfl.org)** | **[Intern - Therapy Aide Administration](https://jobright.ai/jobs/info/68ec01982f64880ca0b59bec?utm_campaign=1057&utm_source=git)** | Orlando, FL, USA | On Site | Oct 10 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist](https://jobright.ai/jobs/info/68e951e39020b95add6a5b4b?utm_campaign=1057&utm_source=git)** | Beaufort, SC | On Site | Oct 10 |
 | **[Amplify](http://www.amplify.com)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/68e9514a0930fe0bc46242b7?utm_campaign=1057&utm_source=git)** | United States | Remote | Oct 10 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist](https://jobright.ai/jobs/info/68e950ed0930fe0bc4624225?utm_campaign=1057&utm_source=git)** | Goose Creek, SC | On Site | Oct 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist - Behavioral Health Interdisciplinary Program (BHIP)](https://jobright.ai/jobs/info/68e93ea09020b95add6a521f?utm_campaign=1057&utm_source=git)** | Lincoln, NE | On Site | Oct 10 |
 | ↳ | **[Staff Psychologist](https://jobright.ai/jobs/info/68e93e7a65768b6412b19cf9?utm_campaign=1057&utm_source=git)** | North Charleston, SC | On Site | Oct 10 |
 | ↳ | **[Staff Psychologist](https://jobright.ai/jobs/info/68e93db365768b6412b19c33?utm_campaign=1057&utm_source=git)** | Myrtle Beach, SC | On Site | Oct 10 |
-| ↳ | **[Staff Psychologist](https://jobright.ai/jobs/info/68e93b9d0930fe0bc4623539?utm_campaign=1057&utm_source=git)** | Savannah, GA | On Site | Oct 10 |
-| ↳ | **[Staff Psychologist](https://jobright.ai/jobs/info/68e95857f195760c354a7b71?utm_campaign=1057&utm_source=git)** | Charleston, SC | On Site | Oct 10 |
-| **[Amplify](http://www.amplify.com)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/68e937db9020b95add6a4eb3?utm_campaign=1057&utm_source=git)** | Remote - United States | Remote | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
