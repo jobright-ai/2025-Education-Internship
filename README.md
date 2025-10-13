@@ -142,6 +142,7 @@ For a complete list, click the following sortable link below:
 | **[Ferris State University College of Business ](http://ferris.edu/business)** | **[SLA Facilitator (Student Position)](https://jobright.ai/jobs/info/68e9a107feeb0006c1a56261?utm_campaign=1057&utm_source=git)** | Big Rapids, MI | On Site | Oct 10 |
 | **[Westfield Specialty Insurance](https://www.westfieldspecialty.com/)** | **[Claims Intern, WSP](https://jobright.ai/jobs/info/68ec5ba4bb72c377a5511012?utm_campaign=1057&utm_source=git)** | Berkeley Heights, NJ, United States | On Site | Oct 10 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Psychologist](https://jobright.ai/jobs/info/68e99eff0930fe0bc4627cb8?utm_campaign=1057&utm_source=git)** | Castle Point, NY | On Site | Oct 10 |
+| **[Children's Wisconsin](https://childrenswi.org/)** | **[High School Intern](https://jobright.ai/jobs/info/68e99c1df195760c354ab2c6?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | Oct 10 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Immunology Medical Affairs Learning Excellence Intern](https://jobright.ai/jobs/info/68e999380930fe0bc4627a06?utm_campaign=1057&utm_source=git)** | Horsham, PA | Hybrid | Oct 10 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Psychologist](https://jobright.ai/jobs/info/68e995420930fe0bc4627867?utm_campaign=1057&utm_source=git)** | Port Jervis, NY | On Site | Oct 10 |
 | **[Mosaic Community Health](http://www.MosaicCH.org)** | **[Student/Intern](https://jobright.ai/jobs/info/68e994c265768b6412b1dd30?utm_campaign=1057&utm_source=git)** | Bend, OR | On Site | Oct 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Auburn University](https://www.auburn.edu/)** | **[Field Summer Intern](https://jobright.ai/jobs/info/68e973f4f195760c354a9480?utm_campaign=1057&utm_source=git)** | Auburn, AL | On Site | Oct 10 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Learning Delivery Intern, Spring 2026](https://jobright.ai/jobs/info/68e9738f0930fe0bc4625f1f?utm_campaign=1057&utm_source=git)** | Burbank, CA | On Site | Oct 10 |
 | **[Baird](http://www.rwbaird.com)** | **[Women In Banking Sophomore Internship (Summer 2026)](https://jobright.ai/jobs/info/68e972a80930fe0bc4625db5?utm_campaign=1057&utm_source=git)** | IL-Chicago | On Site | Oct 10 |
-| ↳ | **[Women In Banking Sophomore Internship (Summer 2026)](https://jobright.ai/jobs/info/68e9723565768b6412b1c121?utm_campaign=1057&utm_source=git)** | WI-Milwaukee | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
