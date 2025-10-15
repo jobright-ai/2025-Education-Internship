@@ -57,17 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KHAITE](https://khaite.com/)** | **[Learning & Development Intern, Spring 2026](https://jobright.ai/jobs/info/68eff53a9821486c423c8293?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Oct 15 |
+| **[State of Missouri](http://mo.gov)** | **[Paid Intern](https://jobright.ai/jobs/info/68eff31bde50091dbfa51088?utm_campaign=1057&utm_source=git)** | Joplin, MO | On Site | Oct 15 |
+| **[Precision AQ](http://www.precisionaq.com)** | **[Medical Writing Intern, Market Access (Undergraduate)](https://jobright.ai/jobs/info/68eff1fade50091dbfa5100d?utm_campaign=1057&utm_source=git)** | Remote, United States | Remote | Oct 15 |
+| **[TKO](https://tkogrp.com)** | **[UFC Strength & Conditioning Intern - Spring 2026](https://jobright.ai/jobs/info/68eff01a9821486c423c7ffd?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Oct 15 |
+| ↳ | **[Performance Nutrition Intern - Spring 2026](https://jobright.ai/jobs/info/68efef4b9821486c423c7fb5?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Oct 15 |
+| **[State of Missouri](http://mo.gov)** | **[Paid Intern](https://jobright.ai/jobs/info/68efeedbde50091dbfa50efa?utm_campaign=1057&utm_source=git)** | Salem, MO | On Site | Oct 15 |
+| **[Qnity](https://www.qnityelectronics.com/)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/68efe4dc78ba1621431e0fca?utm_campaign=1057&utm_source=git)** | Wilmington, DE | On Site | Oct 15 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Medical Writing Intern, Market Access (Undergraduate)](https://jobright.ai/jobs/info/68efd83e9821486c423c7b12?utm_campaign=1057&utm_source=git)** | United States | Remote | Oct 15 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Medical Writing Intern, Market Access (Undergraduate)](https://jobright.ai/jobs/info/68efd8079821486c423c7ae7?utm_campaign=1057&utm_source=git)** | United States | Remote | Oct 15 |
 | **[NYS Office of Information Technology Services](https://its.ny.gov/)** | **[Student Assistant Internship (Integrated Eligibility System), Ref# 9465](https://jobright.ai/jobs/info/68efce91de50091dbfa50630?utm_campaign=1057&utm_source=git)** | Albany, NY | Hybrid | Oct 15 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist-Mental Health & Behavioral Sciences](https://jobright.ai/jobs/info/68efcd6078ba1621431e0778?utm_campaign=1057&utm_source=git)** | Bradenton, FL | On Site | Oct 15 |
 | **[NYS Office of Information Technology Services](https://its.ny.gov/)** | **[Student Assistant Internship (Integrated Eligibility System), Ref# 9465](https://jobright.ai/jobs/info/68efcc40de50091dbfa5035f?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Oct 15 |
-| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Trading Internship](https://jobright.ai/jobs/info/68efc7c79821486c423c74d3?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Oct 15 |
 | **[BayMark Health Services](http://baymark.com/)** | **[Counselor/Counselor Intern](https://jobright.ai/jobs/info/68efbc7f9821486c423c701e?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Oct 15 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Adjunct Dissertation Chair- International Psychology- Online Campus](https://jobright.ai/jobs/info/68efb674de50091dbfa4fd0c?utm_campaign=1057&utm_source=git)** | Home, KS | Remote | Oct 15 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern - Adult Psychiatry](https://jobright.ai/jobs/info/68efae4b78ba1621431dfc15?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Oct 15 |
-| **[CHI](https://www.catholichealthinitiatives.org/)** | **[Nurse Internship](https://jobright.ai/jobs/info/68d77c557a37c712687cf149?utm_campaign=1057&utm_source=git)** | Bismarck, ND | On Site | Oct 15 |
 | **[Corebridge Financial](https://www.corebridgefinancial.com)** | **[2026 Corebridge Summer Internship Program - Capital Markets](https://jobright.ai/jobs/info/68ef9e1bde50091dbfa4f5b2?utm_campaign=1057&utm_source=git)** | Norwalk, CT | On Site | Oct 15 |
+| **[CHI](https://www.catholichealthinitiatives.org/)** | **[Nurse Internship](https://jobright.ai/jobs/info/68d777a361a175619f8ceddd?utm_campaign=1057&utm_source=git)** | Bismarck, ND | On Site | Oct 15 |
 | **[University of Pennsylvania](http://www.upenn.edu)** | **[2026 Summer Undergraduate Mentored Research Program](https://jobright.ai/jobs/info/68ef86d8de50091dbfa4f080?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Oct 15 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Student Intern (KPro)](https://jobright.ai/jobs/info/68ec9b2d1eecd439f43fb433?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Oct 15 |
 | **[Travelers](https://www.travelers.com)** | **[Business Insurance Underwriting Professional Development Program Internship (BI UPDP Intern)](https://jobright.ai/jobs/info/68ef66189821486c423c5787?utm_campaign=1057&utm_source=git)** | Glendale, CA | Hybrid | Oct 15 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Staff Psychologist - PTSD Clinical Team](https://jobright.ai/jobs/info/68ee8d69e0db92422580784f?utm_campaign=1057&utm_source=git)** | Sheridan, WY | Hybrid | Oct 14 |
 | ↳ | **[Staff Psychologist](https://jobright.ai/jobs/info/68ee8b4b46e5b153e5a5beb0?utm_campaign=1057&utm_source=git)** | Providence, RI | On Site | Oct 14 |
 | ↳ | **[Staff Psychologist](https://jobright.ai/jobs/info/68ee8a7dd078b81ad160b730?utm_campaign=1057&utm_source=git)** | Chillicothe, OH | On Site | Oct 14 |
-| ↳ | **[Staff Psychologist](https://jobright.ai/jobs/info/68ee8a58d078b81ad160b705?utm_campaign=1057&utm_source=git)** | Toledo, OH | On Site | Oct 14 |
-| **[Allianz Commercial](https://www.commercial.allianz.com/)** | **[Student Intern - Property](https://jobright.ai/jobs/info/68ee8368e0db9242258070eb?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Oct 14 |
-| **[Penn State University](http://psu.edu)** | **[Part-time Youth and Family Programs Intern - Summer 2026](https://jobright.ai/jobs/info/68ee81aae0db924225806f3e?utm_campaign=1057&utm_source=git)** | University Park, PA | On Site | Oct 14 |
-| **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Psychologist - Home Based Primary Care](https://jobright.ai/jobs/info/68ee7dc8d078b81ad160a72e?utm_campaign=1057&utm_source=git)** | Erie, PA | On Site | Oct 14 |
-| **[Central Connecticut State University](http://www.ccsu.edu/)** | **[Certified Athletic Trainer - Internship](https://jobright.ai/jobs/info/68ee7810d078b81ad160a5f9?utm_campaign=1057&utm_source=git)** | New Britain, CT | On Site | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
