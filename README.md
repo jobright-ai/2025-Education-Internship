@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Corebridge Financial](https://www.corebridgefinancial.com)** | **[2026 Corebridge Summer Internship Program - Capital Markets](https://jobright.ai/jobs/info/68ef9e1bde50091dbfa4f5b2?utm_campaign=1057&utm_source=git)** | Norwalk, CT | On Site | Oct 15 |
+| **[CHI](https://www.catholichealthinitiatives.org/)** | **[Nurse Internship](https://jobright.ai/jobs/info/68d777a361a175619f8ceddd?utm_campaign=1057&utm_source=git)** | Bismarck, ND | On Site | Oct 15 |
 | **[University of Pennsylvania](http://www.upenn.edu)** | **[2026 Summer Undergraduate Mentored Research Program](https://jobright.ai/jobs/info/68ef86d8de50091dbfa4f080?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Oct 15 |
 | **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/68ef7711de50091dbfa4ed50?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Oct 15 |
 | **[Travelers](https://www.travelers.com)** | **[Business Insurance Underwriting Professional Development Program Internship (BI UPDP Intern)](https://jobright.ai/jobs/info/68ef66189821486c423c5787?utm_campaign=1057&utm_source=git)** | Glendale, CA | Hybrid | Oct 15 |
@@ -133,7 +135,8 @@ For a complete list, click the following sortable link below:
 | **[Institute for Women's Leadership Marquette University](https://www.marquette.edu/womens-leadership/)** | **[Director, Applied Investment Management (AIM)](https://jobright.ai/jobs/info/68ef26bd20456578d5eb5e20?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | Oct 14 |
 | **[Central Garden & Pet](http://www.central.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/68ee966c46e5b153e5a5c8e3?utm_campaign=1057&utm_source=git)** | Franklin, WI | Hybrid | Oct 14 |
 | **[ROSEN](https://www.rosen-group.com/)** | **[Intern - Advisory](https://jobright.ai/jobs/info/68ee921fe0db924225807e6a?utm_campaign=1057&utm_source=git)** | Houston, TX | Hybrid | Oct 14 |
-| ↳ | **[Intern - System Implementation](https://jobright.ai/jobs/info/68ee903346e5b153e5a5c3cd?utm_campaign=1057&utm_source=git)** | Houston, TX | Hybrid | Oct 14 |
+| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern - Technical Trainer - IT](https://jobright.ai/jobs/info/68ee9349d078b81ad160bec1?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Oct 14 |
+| **[ROSEN](https://www.rosen-group.com/)** | **[Intern - System Implementation](https://jobright.ai/jobs/info/68ee903346e5b153e5a5c3cd?utm_campaign=1057&utm_source=git)** | Houston, TX | Hybrid | Oct 14 |
 | **[Kaweah Health](https://www.kaweahhealth.org)** | **[Student Nurse Intern- Surgery](https://jobright.ai/jobs/info/68ee9024d078b81ad160bd81?utm_campaign=1057&utm_source=git)** | Visalia, California | On Site | Oct 14 |
 | **[ROSEN](https://www.rosen-group.com/)** | **[Intern - Health, Safety, and Environment](https://jobright.ai/jobs/info/68ee8ec7d078b81ad160ba7a?utm_campaign=1057&utm_source=git)** | Houston, TX | Hybrid | Oct 14 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Sanford Sports Intern](https://jobright.ai/jobs/info/68ee8ec2d078b81ad160ba6d?utm_campaign=1057&utm_source=git)** | SD, Sioux Falls | On Site | Oct 14 |
@@ -152,9 +155,6 @@ For a complete list, click the following sortable link below:
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Director, International Student Services and Recruitment and Admissions](https://jobright.ai/jobs/info/68ee671ed078b81ad1609499?utm_campaign=1057&utm_source=git)** | Bozeman, MT | On Site | Oct 14 |
 | **[Joliet Junior College](http://www.jjc.edu/)** | **[Healthcare Pathway Peer Tutor, Internship](https://jobright.ai/jobs/info/68ee66b5d078b81ad1609391?utm_campaign=1057&utm_source=git)** | Main Campus, Joliet, IL | On Site | Oct 14 |
 | **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program-Management Associate-Business Operations (BOPS)](https://jobright.ai/jobs/info/68ee515246e5b153e5a57190?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Oct 14 |
+| **[CHI](https://www.catholichealthinitiatives.org/)** | **[Nurse Internship](https://jobright.ai/jobs/info/68d777b97a37c712687ce461?utm_campaign=1057&utm_source=git)** | Bismarck, ND | On Site | Oct 14 |
 | **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Registered Intern Therapist Outpatient](https://jobright.ai/jobs/info/68ee4a82d078b81ad16062d3?utm_campaign=1057&utm_source=git)** | Bradenton, FL | On Site | Oct 14 |
-| **[CHI](https://www.catholichealthinitiatives.org/)** | **[Nurse Internship](https://jobright.ai/jobs/info/68d77502295f8e37655d9aa4?utm_campaign=1057&utm_source=git)** | Bismarck, ND | On Site | Oct 14 |
-| **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Co-op/Student Intern](https://jobright.ai/jobs/info/68ef3d6d230ae70a14c42ba9?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Oct 14 |
-| **[University of Wyoming](https://www.uwyo.edu/)** | **[Hourly Pooled - Wyoming State Vet Lab (WSVL) Student Employee](https://jobright.ai/jobs/info/68ee289cd078b81ad1601d70?utm_campaign=1057&utm_source=git)** | Laramie, WY | On Site | Oct 14 |
-| **[GCU Career Services](https://www.gcu.edu/why-gcu/campus-life/student-success/career-services)** | **[International Trade and Finance– Traditional Campus – Colangelo College of Business](https://jobright.ai/jobs/info/68ee27cb46e5b153e5a51f0d?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
