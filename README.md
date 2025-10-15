@@ -57,14 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[World Vision](http://www.worldvision.org/)** | **[Faith & Development Intern](https://jobright.ai/jobs/info/68eefba8d078b81ad161137b?utm_campaign=1057&utm_source=git)** | Home Working, United States | Remote | Oct 14 |
+| **[Legacy Health](http://www.legacyhealth.org/)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68eef80ed078b81ad1611179?utm_campaign=1057&utm_source=git)** | Tualatin, OR | On Site | Oct 14 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Online Learning Technical Writing Intern](https://jobright.ai/jobs/info/68eef3dad078b81ad1610ca5?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Oct 14 |
+| **[State of Missouri](http://mo.gov)** | **[Paid Intern](https://jobright.ai/jobs/info/68eeebefd078b81ad1610977?utm_campaign=1057&utm_source=git)** | Fulton, MO | On Site | Oct 14 |
+| **[HDR](http://www.hdrinc.com)** | **[CSULA ECST Fall 2025 Internship & Career Expo](https://jobright.ai/jobs/info/68eeeb34e0db92422580c8c4?utm_campaign=1057&utm_source=git)** | Ventura, CA | On Site | Oct 14 |
+| **[Fortrea](https://www.fortrea.com)** | **[Intern University Program - Clinical Operations / Dallas, TX or Madison, WI / (ON-SITE)](https://jobright.ai/jobs/info/68eee84246e5b153e5a60f67?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Oct 14 |
 | **[Penn State University](http://psu.edu)** | **[Physical Plant Sustainability Internship](https://jobright.ai/jobs/info/68eede72e0db92422580c47d?utm_campaign=1057&utm_source=git)** | University Park, PA | Remote | Oct 14 |
 | **[HealthFitness](http://www.healthfitness.com)** | **[Spring/Summer Fitness Intern (Moon, PA)](https://jobright.ai/jobs/info/68eede16e0db92422580c3c9?utm_campaign=1057&utm_source=git)** | Moon, PA | On Site | Oct 14 |
 | **[Virginia's Community College System](https://www.vccs.edu/)** | **[Student Outreach / Recruitment Specialist](https://jobright.ai/jobs/info/68eed9e1e0db92422580c174?utm_campaign=1057&utm_source=git)** | Richmond, VA | Hybrid | Oct 14 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Psychologist- Veterans Readjustment Counselor](https://jobright.ai/jobs/info/68eed74846e5b153e5a608b0?utm_campaign=1057&utm_source=git)** | Anchorage, AK | On Site | Oct 14 |
 | ↳ | **[Clinical Psychologist (Spinal Cord Injury)](https://jobright.ai/jobs/info/68eed538d078b81ad160ffa4?utm_campaign=1057&utm_source=git)** | Memphis, TN | On Site | Oct 14 |
 | ↳ | **[Staff Psychologist - Behavioral Health Interdisciplinary Program](https://jobright.ai/jobs/info/68eed506d078b81ad160ff5a?utm_campaign=1057&utm_source=git)** | Fresno, CA | On Site | Oct 14 |
-| **[Sanford Health](http://www.sanfordhealth.org)** | **[Sanford Sports Intern](https://jobright.ai/jobs/info/68eed4cbe0db92422580be91?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD | On Site | Oct 14 |
-| **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Clinical Psychologist](https://jobright.ai/jobs/info/68eed48ee0db92422580be1b?utm_campaign=1057&utm_source=git)** | Lexington, KY | On Site | Oct 14 |
+| ↳ | **[Clinical Psychologist](https://jobright.ai/jobs/info/68eed48ee0db92422580be1b?utm_campaign=1057&utm_source=git)** | Lexington, KY | On Site | Oct 14 |
 | ↳ | **[Staff Psychologist](https://jobright.ai/jobs/info/68eed398e0db92422580bca6?utm_campaign=1057&utm_source=git)** | Linthicum Heights, MD | On Site | Oct 14 |
 | **[Texas Christian University](https://mdschool.tcu.edu)** | **[Assistant/Associate/Full Professor in Computer Science](https://jobright.ai/jobs/info/68eed382d078b81ad160fc73?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Oct 14 |
 | **[East West Bank](http://eastwestbank.com)** | **[Intern](https://jobright.ai/jobs/info/68eed2a446e5b153e5a6063b?utm_campaign=1057&utm_source=git)** | Pasadena, CA | On Site | Oct 14 |
@@ -94,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist- Dialectical Behavior Therapy Program](https://jobright.ai/jobs/info/68ee8d83e0db9242258078ac?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Oct 14 |
 | ↳ | **[Staff Psychologist - PTSD Clinical Team](https://jobright.ai/jobs/info/68ee8d69e0db92422580784f?utm_campaign=1057&utm_source=git)** | Sheridan, WY | Hybrid | Oct 14 |
 | ↳ | **[Staff Psychologist](https://jobright.ai/jobs/info/68ee8b4b46e5b153e5a5beb0?utm_campaign=1057&utm_source=git)** | Providence, RI | On Site | Oct 14 |
+| ↳ | **[Staff Psychologist](https://jobright.ai/jobs/info/68ee8a7dd078b81ad160b730?utm_campaign=1057&utm_source=git)** | Chillicothe, OH | On Site | Oct 14 |
 | ↳ | **[Staff Psychologist](https://jobright.ai/jobs/info/68ee8a58d078b81ad160b705?utm_campaign=1057&utm_source=git)** | Toledo, OH | On Site | Oct 14 |
-| ↳ | **[Staff Psychologist](https://jobright.ai/jobs/info/68ee898fd078b81ad160b623?utm_campaign=1057&utm_source=git)** | Chillicothe, OH | On Site | Oct 14 |
 | **[Allianz Commercial](https://www.commercial.allianz.com/)** | **[Student Intern - Property](https://jobright.ai/jobs/info/68ee8368e0db9242258070eb?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Oct 14 |
 | **[Penn State University](http://psu.edu)** | **[Part-time Youth and Family Programs Intern - Summer 2026](https://jobright.ai/jobs/info/68ee81aae0db924225806f3e?utm_campaign=1057&utm_source=git)** | University Park, PA | On Site | Oct 14 |
 | **[Northern Kentucky University](http://www.nku.edu/)** | **[Sport Programs Assistant (student employment)](https://jobright.ai/jobs/info/68ee7e44d078b81ad160a830?utm_campaign=1057&utm_source=git)** | Newport, KY | On Site | Oct 14 |
@@ -110,9 +115,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Director, International Student Services and Recruitment and Admissions](https://jobright.ai/jobs/info/68ee671ed078b81ad1609499?utm_campaign=1057&utm_source=git)** | Bozeman, MT | On Site | Oct 14 |
 | **[Joliet Junior College](http://www.jjc.edu/)** | **[Healthcare Pathway Peer Tutor, Internship](https://jobright.ai/jobs/info/68ee66b5d078b81ad1609391?utm_campaign=1057&utm_source=git)** | Main Campus, Joliet, IL | On Site | Oct 14 |
 | **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program-Management Associate-Business Operations (BOPS)](https://jobright.ai/jobs/info/68ee515246e5b153e5a57190?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Oct 14 |
-| **[CHI](https://www.catholichealthinitiatives.org/)** | **[Nurse Internship](https://jobright.ai/jobs/info/68d777b97a37c712687ce461?utm_campaign=1057&utm_source=git)** | Bismarck, ND | On Site | Oct 14 |
 | **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Registered Intern Therapist Outpatient](https://jobright.ai/jobs/info/68ee4a82d078b81ad16062d3?utm_campaign=1057&utm_source=git)** | Bradenton, FL | On Site | Oct 14 |
-| **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Co-op/Student Intern](https://jobright.ai/jobs/info/68ea5bea2f64880ca0b52668?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Oct 14 |
+| **[CHI](https://www.catholichealthinitiatives.org/)** | **[Nurse Internship](https://jobright.ai/jobs/info/68d77502295f8e37655d9aa4?utm_campaign=1057&utm_source=git)** | Bismarck, ND | On Site | Oct 14 |
 | **[University of Wyoming](https://www.uwyo.edu/)** | **[Hourly Pooled - Wyoming State Vet Lab (WSVL) Student Employee](https://jobright.ai/jobs/info/68ee289cd078b81ad1601d70?utm_campaign=1057&utm_source=git)** | Laramie, WY | On Site | Oct 14 |
 | **[GCU Career Services](https://www.gcu.edu/why-gcu/campus-life/student-success/career-services)** | **[International Trade and Finance– Traditional Campus – Colangelo College of Business](https://jobright.ai/jobs/info/68ee27cb46e5b153e5a51f0d?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Oct 14 |
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Student employee-Dept of Counselor Education- Student Assistant](https://jobright.ai/jobs/info/68ee23d146e5b153e5a51394?utm_campaign=1057&utm_source=git)** | Huntsville, TX | On Site | Oct 14 |
@@ -137,24 +141,20 @@ For a complete list, click the following sortable link below:
 | **[The Sea Pines Resort](https://www.seapines.com/)** | **[J-1 Internship Program](https://jobright.ai/jobs/info/68eda0f06335d3323612a78b?utm_campaign=1057&utm_source=git)** | Hilton Head Island, SC | On Site | Oct 13 |
 | **[Cumberland Valley High School](http://www.cvschools.org)** | **[Internship - School Psychologist (2026-2027 School Year)](https://jobright.ai/jobs/info/68ee5879e0db924225803c37?utm_campaign=1057&utm_source=git)** | Mechanicsburg, PA | On Site | Oct 13 |
 | **[Providence](http://www.providence.org)** | **[Clinical Student Intern](https://jobright.ai/jobs/info/68ee191181fdd1626d3a26d0?utm_campaign=1057&utm_source=git)** | Portland, OR | On Site | Oct 13 |
-| **[Albertsons Companies](https://www.albertsonscompanies.com/)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68eee11b46e5b153e5a60cb3?utm_campaign=1057&utm_source=git)** | 13111 W ALAMEDA PKWY, LAKEWOOD, CO, 80228, US | Hybrid | Oct 13 |
+| **[Albertsons Companies](https://www.albertsonscompanies.com/)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68eee208e0db92422580c5de?utm_campaign=1057&utm_source=git)** | 1900 E RICHARDS ST, DOUGLAS, WY, 82633, US | Hybrid | Oct 13 |
+| ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68eee11b46e5b153e5a60cb3?utm_campaign=1057&utm_source=git)** | 13111 W ALAMEDA PKWY, LAKEWOOD, CO, 80228, US | Hybrid | Oct 13 |
+| ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68eee165e0db92422580c508?utm_campaign=1057&utm_source=git)** | 6520 S ACADEMY BLVD, COLORADO SPRINGS, CO, 80906, US | Hybrid | Oct 13 |
+| **[Sanford Health](http://www.sanfordhealth.org)** | **[Sanford Sports Intern](https://jobright.ai/jobs/info/68eeb746d078b81ad160e133?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD | On Site | Oct 13 |
+| **[McNay Art Museum](https://www.mcnayart.org/)** | **[Douglass Foundation Educational Internship](https://jobright.ai/jobs/info/68eee6a3e0db92422580c755?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Oct 13 |
 | **[Rosendin](https://www.rosendin.com)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/68ed913081fdd1626d39d8eb?utm_campaign=1057&utm_source=git)** | Greater Idaho Falls | On Site | Oct 13 |
-| **[Corewell Health](https://corewellhealth.org)** | **[Community Connect Internship Summer 2026](https://jobright.ai/jobs/info/68ed8dde81fdd1626d39d782?utm_campaign=1057&utm_source=git)** | Grand Rapids, MI | Hybrid | Oct 13 |
 | **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Student Nurse Summer Internship](https://jobright.ai/jobs/info/68ed8dd281fdd1626d39d76e?utm_campaign=1057&utm_source=git)** | Eau Claire, WI | On Site | Oct 13 |
 | ↳ | **[Student Nurse Summer Internship](https://jobright.ai/jobs/info/68ed8d246335d33236129f25?utm_campaign=1057&utm_source=git)** | La Crosse, WI | On Site | Oct 13 |
+| **[Corewell Health](https://corewellhealth.org)** | **[Digital Workspace Internship Summer 2026](https://jobright.ai/jobs/info/68ed8d116335d33236129f07?utm_campaign=1057&utm_source=git)** | Southfield, MI | Hybrid | Oct 13 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 School Partnerships Intern: Spring](https://jobright.ai/jobs/info/68ed85e870b66e2345d3ecce?utm_campaign=1057&utm_source=git)** | Bentonville, AR | On Site | Oct 13 |
-| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68ed831681fdd1626d39d3cc?utm_campaign=1057&utm_source=git)** | Maryville, TN | On Site | Oct 13 |
+| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68ed834c81fdd1626d39d439?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Oct 13 |
+| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68ed831681fdd1626d39d3cc?utm_campaign=1057&utm_source=git)** | Maryville, TN | On Site | Oct 13 |
+| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68ed82f26335d33236129c50?utm_campaign=1057&utm_source=git)** | Scottsdale, AZ | On Site | Oct 13 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Sanford Student Nurse Intern - Fargo](https://jobright.ai/jobs/info/68ed82a46335d33236129bf4?utm_campaign=1057&utm_source=git)** | Fargo, ND | On Site | Oct 13 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68ed82a281fdd1626d39d2f6?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Oct 13 |
 | **[Art of Problem Solving](https://artofproblemsolving.com/)** | **[Math Curriculum Intern](https://jobright.ai/jobs/info/68ed82976335d33236129be6?utm_campaign=1057&utm_source=git)** | San Diego, California, United States | On Site | Oct 13 |
-| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68ed82796335d33236129bd1?utm_campaign=1057&utm_source=git)** | Jupiter, FL | On Site | Oct 13 |
-| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68ed827381fdd1626d39d2b7?utm_campaign=1057&utm_source=git)** | Orange Park, FL | On Site | Oct 13 |
-| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68ed825d70b66e2345d3eb54?utm_campaign=1057&utm_source=git)** | Woodstock, GA | On Site | Oct 13 |
-| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68ed824a6335d33236129ba1?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Oct 13 |
-| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68ed822581fdd1626d39d25f?utm_campaign=1057&utm_source=git)** | Ontario, CA | On Site | Oct 13 |
-| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68ed82216335d33236129b71?utm_campaign=1057&utm_source=git)** | Scottsdale, AZ | On Site | Oct 13 |
-| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68ed82136335d33236129b63?utm_campaign=1057&utm_source=git)** | Bradenton, FL | On Site | Oct 13 |
-| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68ed820c70b66e2345d3eacd?utm_campaign=1057&utm_source=git)** | Naples, FL | On Site | Oct 13 |
-| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68ed820c70b66e2345d3eacc?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Oct 13 |
-| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68ed81d76335d33236129b15?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
