@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Centene Corporation](http://www.centene.com)** | **[Pharmacy Excellence Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68f1b03aef766b3f0fd10dc0?utm_campaign=1057&utm_source=git)** | Ohio, United States | Remote | Oct 16 |
+| **[United Veterinary Care](https://unitedveterinarycare.com/)** | **[Emergency and Critical Care Internship](https://jobright.ai/jobs/info/68f1afb6ef766b3f0fd10c72?utm_campaign=1057&utm_source=git)** | Buzzards Bay, MA | On Site | Oct 16 |
+| **[Centene Corporation](http://www.centene.com)** | **[Pharmacy Excellence Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68f1af0bef766b3f0fd10b3e?utm_campaign=1057&utm_source=git)** | Florida, United States | Remote | Oct 16 |
+| ↳ | **[Pharmacy Excellence Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68f1af09e6870116b1f5bb26?utm_campaign=1057&utm_source=git)** | Greater Enid Area | Remote | Oct 16 |
+| ↳ | **[Pharmacy Excellence Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68f1ae28f462172a5a7db2d9?utm_campaign=1057&utm_source=git)** | Nevada, United States | Remote | Oct 16 |
+| **[Banner Health](https://www.bannerhealth.com)** | **[High School Internship](https://jobright.ai/jobs/info/68f1a718f462172a5a7daebe?utm_campaign=1057&utm_source=git)** | Fort Collins, CO | On Site | Oct 16 |
+| **[Capital Area Intermediate Unit](https://www.caiu.org/)** | **[Intern - High School Student](https://jobright.ai/jobs/info/68f1a244ef766b3f0fd1042e?utm_campaign=1057&utm_source=git)** | Camp Hill, PA | On Site | Oct 16 |
+| **[Nystrom & Associates, Ltd.](http://www.nystromcounseling.com)** | **[Undergraduate Mental Health Intern - Adults](https://jobright.ai/jobs/info/68f19d6ae6870116b1f5b151?utm_campaign=1057&utm_source=git)** | Bloomington, MN | On Site | Oct 16 |
 | **[Partnership with Children](http://www.partnershipwithchildren.org)** | **[Arts Education Internship](https://jobright.ai/jobs/info/68f195efef766b3f0fd0fbcb?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Oct 16 |
 | **[David C Cook](https://davidccook.org)** | **[Global Program Development Internship (Unpaid)](https://jobright.ai/jobs/info/68f1910cef766b3f0fd0f6db?utm_campaign=1057&utm_source=git)** | Franklin, TN | On Site | Oct 16 |
 | **[Charlie Health](https://www.charliehealth.com)** | **[Clinical Practicum Intern (Master's Level)](https://jobright.ai/jobs/info/68f18ef9ef766b3f0fd0f593?utm_campaign=1057&utm_source=git)** | United States | Remote | Oct 16 |
@@ -80,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Anthropologie Weddings](https://www.bhldn.com)** | **[URBN Summer 2026 Internship - Delaware Valley University](https://jobright.ai/jobs/info/68f164fae6870116b1f582e3?utm_campaign=1057&utm_source=git)** | US-PA-Philadelphia | On Site | Oct 16 |
 | **[HyperGrowth Labs](http://www.hypergrowthlabs.com)** | **[Campus Venture Partner - InSchool Ventures](https://jobright.ai/jobs/info/68f186bcef766b3f0fd0f226?utm_campaign=1057&utm_source=git)** | United States | Remote | Oct 16 |
 | **[La Sierra University](http://www.lasierra.edu/)** | **[Student Project Assistant- Records Office](https://jobright.ai/jobs/info/68f16494e6870116b1f58206?utm_campaign=1057&utm_source=git)** | Riverside, CA | On Site | Oct 16 |
-| **[Shalom Park](https://shalompark.org/)** | **[Internship (Unpaid)](https://jobright.ai/jobs/info/68f1640ae6870116b1f58133?utm_campaign=1057&utm_source=git)** | Aurora, CO | On Site | Oct 16 |
 | **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant, Green Affairs](https://jobright.ai/jobs/info/68ec9f34c26b9574506f55ac?utm_campaign=1057&utm_source=git)** | Sarasota, FL | On Site | Oct 16 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Training Content Creator Intern](https://jobright.ai/jobs/info/68f16323f462172a5a7d7933?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Oct 16 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[VP for Student Success - NVC - req13112](https://jobright.ai/jobs/info/68f16072f462172a5a7d749b?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Oct 16 |
@@ -121,7 +128,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Underwriting Internship (Summer 2026): Business Insurance Underwriting Professional Development Program (UPDP)](https://jobright.ai/jobs/info/68f0b24b1f624a7ec1cf6a7f?utm_campaign=1057&utm_source=git)** | Overland Park, KS | Hybrid | Oct 16 |
 | **[PNC](http://www.pnc.com)** | **[Asset Management Group Undergraduate Intern](https://jobright.ai/jobs/info/68f0aacca6b9004b5e32341d?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Oct 16 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Open Rank- Ambulatory General Internist](https://jobright.ai/jobs/info/68f098eaa6b9004b5e321d34?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Oct 16 |
-| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Student Asst - FWS](https://jobright.ai/jobs/info/68f094d8a6b9004b5e321b88?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Oct 15 |
 | **[Simpson College](http://www.simpson.edu/)** | **[Sports Administration Assistant Professor](https://jobright.ai/jobs/info/68f091c31f624a7ec1cf4102?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Oct 15 |
 | **[CharacterStrong](https://characterstrong.com)** | **[Curriculum Support Intern](https://jobright.ai/jobs/info/68f11645ef766b3f0fd088ad?utm_campaign=1057&utm_source=git)** | United States | Remote | Oct 15 |
 | **[Easterseals PORT Health](http://eastersealsPORT.com)** | **[Intern](https://jobright.ai/jobs/info/68f07b26eb273a32d9768d8f?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Oct 15 |
@@ -136,6 +142,7 @@ For a complete list, click the following sortable link below:
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Noon Supervisor (0.6 FTE) - International Community School (2025-26)](https://jobright.ai/jobs/info/68f052b3e2767e5e924c5698?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Oct 15 |
 | ↳ | **[International Student Advisor](https://jobright.ai/jobs/info/68f051ce99530851ee6ec6ee?utm_campaign=1057&utm_source=git)** | Kalamazoo, MI | On Site | Oct 15 |
 | **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/68f051c423b5702fba8c9e90?utm_campaign=1057&utm_source=git)** | Knoxville, TN | On Site | Oct 15 |
+| **[Centene Corporation](http://www.centene.com)** | **[MPS Curriculum Design Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68ed949381fdd1626d39d9a2?utm_campaign=1057&utm_source=git)** | United States | Remote | Oct 15 |
 | **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[2026 Spring Internship Program Supply Chain, Cincinnati](https://jobright.ai/jobs/info/68f04934e2767e5e924c51fd?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Oct 15 |
 | **[YesCare](https://www.yescarecorp.com)** | **[Behavioral Health Professional (Registered Mental Health Intern)](https://jobright.ai/jobs/info/68f0436d9821486c423cae8f?utm_campaign=1057&utm_source=git)** | Punta Gorda, FL | On Site | Oct 15 |
 | **[M3 Insurance](http://www.m3ins.com)** | **[2026 M3 Summer Learning and Development Internship](https://jobright.ai/jobs/info/68f09223eb273a32d976998a?utm_campaign=1057&utm_source=git)** | Wauwatosa, WI | Hybrid | Oct 15 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HealthFitness](http://www.healthfitness.com)** | **[Spring Fitness Intern (Marysville, OH)](https://jobright.ai/jobs/info/68f035129821486c423ca569?utm_campaign=1057&utm_source=git)** | Marysville, OH | On Site | Oct 15 |
 | **[The Miami Foundation](http://miamifoundation.org)** | **[Student Engagement/Scholarships Intern](https://jobright.ai/jobs/info/68f035119821486c423ca565?utm_campaign=1057&utm_source=git)** | Location, WV | On Site | Oct 15 |
 | **[Primoris Services Corporation](http://prim.com)** | **[University of Houston Career & Internship Fair 2025](https://jobright.ai/jobs/info/68f034c29821486c423ca4ee?utm_campaign=1057&utm_source=git)** | Spring, TX | On Site | Oct 15 |
-| ↳ | **[University of Houston Career & Internship Fair 2025](https://jobright.ai/jobs/info/68f03441de50091dbfa533ef?utm_campaign=1057&utm_source=git)** | Irvine, CA | On Site | Oct 15 |
-| ↳ | **[University of Houston Career & Internship Fair 2025](https://jobright.ai/jobs/info/68f0342078ba1621431e3686?utm_campaign=1057&utm_source=git)** | Baton Rouge, LA | On Site | Oct 15 |
-| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68f033fdde50091dbfa53396?utm_campaign=1057&utm_source=git)** | Rialto, CA | On Site | Oct 15 |
-| **[Primoris Services Corporation](http://prim.com)** | **[University of Houston Career & Internship Fair 2025](https://jobright.ai/jobs/info/68f033d1de50091dbfa53346?utm_campaign=1057&utm_source=git)** | Beaumont, TX | On Site | Oct 15 |
-| ↳ | **[University of Houston Career & Internship Fair 2025](https://jobright.ai/jobs/info/68f032f278ba1621431e3520?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Oct 15 |
-| **[Centene Corporation](http://www.centene.com)** | **[MPS Curriculum Design Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68dedc3d44d32141e0c0314f?utm_campaign=1057&utm_source=git)** | Kenton County, KY | On Site | Oct 15 |
-| **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Psychologist](https://jobright.ai/jobs/info/68f02a1278ba1621431e28f7?utm_campaign=1057&utm_source=git)** | Santa Maria, CA | On Site | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
