@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Art of Problem Solving](https://artofproblemsolving.com/)** | **[Math Curriculum Intern](https://jobright.ai/jobs/info/68ed82976335d33236129be6?utm_campaign=1057&utm_source=git)** | San Diego, California, United States | On Site | Oct 18 |
+| **[Exos](http://www.teamexos.com/)** | **[Sports Performance Intern - Spring 2026](https://jobright.ai/jobs/info/68f3e09f9a65fd3458588a0d?utm_campaign=1057&utm_source=git)** | Gulf Breeze, FL | On Site | Oct 18 |
+| ↳ | **[Sports Performance Intern - Spring 2026](https://jobright.ai/jobs/info/68f3e0439a63986de7573cd3?utm_campaign=1057&utm_source=git)** | Alpharetta, GA | On Site | Oct 18 |
+| ↳ | **[Sports Performance Intern - Spring 2026](https://jobright.ai/jobs/info/68f3e0439a65fd34585889f8?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Oct 18 |
+| ↳ | **[Sports Performance Intern - Spring 2026](https://jobright.ai/jobs/info/68f3e0239a65fd34585889ec?utm_campaign=1057&utm_source=git)** | Canton, GA | On Site | Oct 18 |
+| ↳ | **[Sports Science Intern - Spring 2026](https://jobright.ai/jobs/info/68f3dfb19a63986de7573cb8?utm_campaign=1057&utm_source=git)** | Gulf Breeze, FL | Hybrid | Oct 18 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[RN Intern- Cardiac Cath Lab](https://jobright.ai/jobs/info/68c2932603b99f6b342968d5?utm_campaign=1057&utm_source=git)** | Mason City, IA | On Site | Oct 18 |
 | **[AARP](http://www.aarp.org)** | **[Program Analysis Intern](https://jobright.ai/jobs/info/68bbdf536105227d118aa824?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Oct 18 |
 | **[Bellevue School District](https://bsd405.org/)** | **[Custodian Swing Shift Shift - 2025-26 Sammamish High School (Internal Applicants Only)](https://jobright.ai/jobs/info/68f3bd989a65fd3458588470?utm_campaign=1057&utm_source=git)** | Bellevue, WA | On Site | Oct 18 |
@@ -145,16 +151,10 @@ For a complete list, click the following sortable link below:
 | **[North Star Behavioral Health](https://northstarbehavioral.com)** | **[Student  Intern / RN / Behavioral Health/ Acute Geri Psych / PT / Day](https://jobright.ai/jobs/info/68f2a53d9a65fd345857e8af?utm_campaign=1057&utm_source=git)** | AMARILLO, Texas | On Site | Oct 17 |
 | **[Centene Corporation](http://www.centene.com)** | **[Pharmacy Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68f2a5029a65fd345857e84a?utm_campaign=1057&utm_source=git)** | Remote-TX | Remote | Oct 17 |
 | ↳ | **[Pharmacy Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68f2a4029a63986de7569a11?utm_campaign=1057&utm_source=git)** | Remote-AZ | Remote | Oct 17 |
-| **[Gundersen Health System](https://www.gundersenhealth.org)** | **[Nurse Intern, Summer 2026](https://jobright.ai/jobs/info/68f2a18376a51a4307bc587c?utm_campaign=1057&utm_source=git)** | Hillsboro, WI | On Site | Oct 17 |
 | **[University of Iowa Center for Advancement](https://www.foriowa.org/)** | **[Advancement Summer Internship Program - Tippie College of Business Intern](https://jobright.ai/jobs/info/68f2a1019a65fd345857e4a1?utm_campaign=1057&utm_source=git)** | Iowa City, IA | Hybrid | Oct 17 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[BH Therapy Intern - Driving CT](https://jobright.ai/jobs/info/68f2a0fc9a65fd345857e495?utm_campaign=1057&utm_source=git)** | Main Campus, Columbus, OH | On Site | Oct 17 |
 | **[General Dynamics Electric Boat](http://www.gdeb.com/)** | **[Health & Safety (EH&S) - 2026 Summer Internship](https://jobright.ai/jobs/info/68f29f4a76a51a4307bc5702?utm_campaign=1057&utm_source=git)** | EB Groton Shipyard | On Site | Oct 17 |
 | **[Centene Corporation](http://www.centene.com)** | **[Pharmacy Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68f29f4876a51a4307bc56fb?utm_campaign=1057&utm_source=git)** | Remote-CA | Remote | Oct 17 |
 | **[Bank of Utah](http://bankofutah.com)** | **[Bank of Utah Internship Program](https://jobright.ai/jobs/info/68d1ec75a54edb3bf3e1786c?utm_campaign=1057&utm_source=git)** | All, MO | On Site | Oct 17 |
 | **[UHS](https://uhs.com)** | **[Student  Intern / RN / Behavioral Health/ Acute Geri Psych / PT / Day](https://jobright.ai/jobs/info/68f29eb49a63986de7569734?utm_campaign=1057&utm_source=git)** | AMARILLO, Texas | On Site | Oct 17 |
-| **[University of Iowa Center for Advancement](https://www.foriowa.org/)** | **[Advancement Summer Internship Program - Stewardship Intern](https://jobright.ai/jobs/info/68f29add76a51a4307bc53f5?utm_campaign=1057&utm_source=git)** | Iowa City, IA | Hybrid | Oct 17 |
-| **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/68f2b9e176a51a4307bc7a33?utm_campaign=1057&utm_source=git)** | Lithia Springs, GA | On Site | Oct 17 |
-| **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program -Safety Data Analyst- Safety Data Analytics](https://jobright.ai/jobs/info/68f29aaf9a63986de7569436?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Oct 17 |
-| **[Dr. April Brown ](https://www.draprilbrown.com)** | **[Registered Intern / Graduate Student – MFT or Mental Health](https://jobright.ai/jobs/info/68f2b96676a51a4307bc793b?utm_campaign=1057&utm_source=git)** | Cape Coral, FL | Hybrid | Oct 17 |
-| **[CalRecycle](http://www.calrecycle.ca.gov)** | **[Student Assistant](https://jobright.ai/jobs/info/68f2949276a51a4307bc502e?utm_campaign=1057&utm_source=git)** | Sacramento, CA | Hybrid | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
