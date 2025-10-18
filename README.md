@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The City University of New York](http://cuny.edu)** | **[Work-Based Learning Specialist (Student Career Program Specialist)](https://jobright.ai/jobs/info/68f316889a65fd3458583bc0?utm_campaign=1057&utm_source=git)** | Queens, NY | On Site | Oct 17 |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[VP for Student Success - NVC - req13112](https://jobright.ai/jobs/info/68f314849a63986de756edee?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Oct 17 |
+| **[Arrow Child & Family Ministries](https://www.arrow.org/)** | **[Student Intern - TX](https://jobright.ai/jobs/info/68f313229a63986de756ed15?utm_campaign=1057&utm_source=git)** | Texas, United States | On Site | Oct 17 |
 | **[Bellevue School District](https://bsd405.org/)** | **[Custodian Swing Shift Shift - International School/Woodridge Elementary 2025/26 (Internal Applicants](https://jobright.ai/jobs/info/68f30bff9a63986de756e6e5?utm_campaign=1057&utm_source=git)** | Bellevue, WA | On Site | Oct 17 |
 | **[Mom's Meals | A Purfoods Company](https://www.momsmeals.com)** | **[Nutrition Outreach Intern](https://jobright.ai/jobs/info/68f306b49a63986de756e334?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Oct 17 |
 | ↳ | **[Nutrition Outreach Intern](https://jobright.ai/jobs/info/68f304d876a51a4307bca241?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Oct 17 |
@@ -119,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[After School Program Spring 2026 Intern - Unpaid](https://jobright.ai/jobs/info/68f28fa476a51a4307bc4bbe?utm_campaign=1057&utm_source=git)** | Louisville, KY USA | On Site | Oct 17 |
 | **[University of Iowa Center for Advancement](https://www.foriowa.org/)** | **[Advancement Summer Internship Program - College of Education Development Internship](https://jobright.ai/jobs/info/68f2bc069a65fd3458580620?utm_campaign=1057&utm_source=git)** | Iowa City, IA | Hybrid | Oct 17 |
 | ↳ | **[Advancement Summer Internship Program - Main Campus Regional Gifts Intern](https://jobright.ai/jobs/info/68f2b59f9a63986de756b287?utm_campaign=1057&utm_source=git)** | Iowa City, IA | Hybrid | Oct 17 |
-| **[LaAmistad, Inc.](https://laamistadinc.org)** | **[ESL/ Adult Education Intern](https://jobright.ai/jobs/info/68f2ab2676a51a4307bc6506?utm_campaign=1057&utm_source=git)** | Atlanta, Georgia, United States | On Site | Oct 17 |
-| ↳ | **[Internship- Unpaid SY25-26](https://jobright.ai/jobs/info/68f2fe8e9a63986de756dcbc?utm_campaign=1057&utm_source=git)** | Atlanta, Georgia, United States | On Site | Oct 17 |
+| **[LaAmistad, Inc.](https://laamistadinc.org)** | **[Internship- Unpaid SY25-26](https://jobright.ai/jobs/info/68f2fe8e9a63986de756dcbc?utm_campaign=1057&utm_source=git)** | Atlanta, Georgia, United States | On Site | Oct 17 |
+| ↳ | **[ESL/ Adult Education Intern](https://jobright.ai/jobs/info/68f2ab2676a51a4307bc6506?utm_campaign=1057&utm_source=git)** | Atlanta, Georgia, United States | On Site | Oct 17 |
 | **[Ally](http://www.ally.com/)** | **[Summer 2026 Internship – Consumer Banking (Auto Customer Care Group - Process Management)](https://jobright.ai/jobs/info/68cc5fec7342c7623ae63d54?utm_campaign=1057&utm_source=git)** | Lewisville, TX | On Site | Oct 17 |
 | **[Santander Private Banking International](http://pb-santander.com)** | **[Intern - CSU-2](https://jobright.ai/jobs/info/68f2a69b76a51a4307bc5dc8?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Oct 17 |
 | **[Gordon Food Service - Canada](https://www.gfs.ca/en-ca)** | **[Store Food Safety Internship](https://jobright.ai/jobs/info/68f30c1876a51a4307bca740?utm_campaign=1057&utm_source=git)** | Wyoming, MI | On Site | Oct 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Yates Construction](https://www.wgyates.com)** | **[INTERN](https://jobright.ai/jobs/info/68b8a16aea901c0d269f8374?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Oct 17 |
 | **[Operation Smile](http://www.operationsmile.org)** | **[Museum Education Internship](https://jobright.ai/jobs/info/68719e7ca5ae807a59d00cc3?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA | On Site | Oct 17 |
 | **[General Dynamics Electric Boat](http://www.gdeb.com/)** | **[2026 Medical Summer Internship](https://jobright.ai/jobs/info/68f266edaf0b5a06b584ce91?utm_campaign=1057&utm_source=git)** | US-CT-Groton | On Site | Oct 17 |
-| **[Yates Construction](https://www.wgyates.com)** | **[INTERN](https://jobright.ai/jobs/info/68b8a414ea901c0d269f85c0?utm_campaign=1057&utm_source=git)** | Byram, MS | On Site | Oct 17 |
-| **[Santander](https://www.santander.com/)** | **[Intern - CSU-2](https://jobright.ai/jobs/info/68f2602dcb0abf15612f70f9?utm_campaign=1057&utm_source=git)** | Miami | On Site | Oct 17 |
-| **[Valorantum](valorantum.us)** | **[Career Development Program](https://jobright.ai/jobs/info/68f281e39a63986de7568711?utm_campaign=1057&utm_source=git)** | Wisconsin, United States | Remote | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
