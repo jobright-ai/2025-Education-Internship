@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Travelers](https://www.travelers.com)** | **[Business Insurance Underwriting Professional Development Program Internship (BI UPDP Intern)](https://jobright.ai/jobs/info/68ef0dff230ae70a14c3f664?utm_campaign=1057&utm_source=git)** | Centennial, CO | Hybrid | Oct 18 |
+| ↳ | **[Business Insurance Underwriting Professional Development Program Internship (BI UPDP Intern)](https://jobright.ai/jobs/info/68ef0f5ea1a1d02df61e8a26?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | Hybrid | Oct 18 |
 | **[The City University of New York](http://cuny.edu)** | **[Work-Based Learning Specialist (Student Career Program Specialist)](https://jobright.ai/jobs/info/68f316889a65fd3458583bc0?utm_campaign=1057&utm_source=git)** | Queens, NY | On Site | Oct 17 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[VP for Student Success - NVC - req13112](https://jobright.ai/jobs/info/68f314849a63986de756edee?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Oct 17 |
 | **[Arrow Child & Family Ministries](https://www.arrow.org/)** | **[Student Intern - TX](https://jobright.ai/jobs/info/68f313229a63986de756ed15?utm_campaign=1057&utm_source=git)** | Texas, United States | On Site | Oct 17 |
@@ -107,6 +109,7 @@ For a complete list, click the following sortable link below:
 | **[North Star Behavioral Health](https://northstarbehavioral.com)** | **[Student  Intern / RN / Behavioral Health/ Acute Geri Psych / PT / Day](https://jobright.ai/jobs/info/68f2a53d9a65fd345857e8af?utm_campaign=1057&utm_source=git)** | AMARILLO, Texas | On Site | Oct 17 |
 | **[Centene Corporation](http://www.centene.com)** | **[Pharmacy Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68f2a5029a65fd345857e84a?utm_campaign=1057&utm_source=git)** | Remote-TX | Remote | Oct 17 |
 | ↳ | **[Pharmacy Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68f2a4029a63986de7569a11?utm_campaign=1057&utm_source=git)** | Remote-AZ | Remote | Oct 17 |
+| **[Gundersen Health System](https://www.gundersenhealth.org)** | **[Nurse Intern, Summer 2026](https://jobright.ai/jobs/info/68f2a18376a51a4307bc587c?utm_campaign=1057&utm_source=git)** | Hillsboro, WI | On Site | Oct 17 |
 | **[University of Iowa Center for Advancement](https://www.foriowa.org/)** | **[Advancement Summer Internship Program - Tippie College of Business Intern](https://jobright.ai/jobs/info/68f2a1019a65fd345857e4a1?utm_campaign=1057&utm_source=git)** | Iowa City, IA | Hybrid | Oct 17 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[BH Therapy Intern - Driving CT](https://jobright.ai/jobs/info/68f2a0fc9a65fd345857e495?utm_campaign=1057&utm_source=git)** | Main Campus, Columbus, OH | On Site | Oct 17 |
 | **[General Dynamics Electric Boat](http://www.gdeb.com/)** | **[Health & Safety (EH&S) - 2026 Summer Internship](https://jobright.ai/jobs/info/68f29f4a76a51a4307bc5702?utm_campaign=1057&utm_source=git)** | EB Groton Shipyard | On Site | Oct 17 |
@@ -116,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[University of Iowa Center for Advancement](https://www.foriowa.org/)** | **[Advancement Summer Internship Program - Stewardship Intern](https://jobright.ai/jobs/info/68f29add76a51a4307bc53f5?utm_campaign=1057&utm_source=git)** | Iowa City, IA | Hybrid | Oct 17 |
 | **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/68f2b9e176a51a4307bc7a33?utm_campaign=1057&utm_source=git)** | Lithia Springs, GA | On Site | Oct 17 |
 | **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program -Safety Data Analyst- Safety Data Analytics](https://jobright.ai/jobs/info/68f29aaf9a63986de7569436?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Oct 17 |
-| **[Gundersen Health System](https://www.gundersenhealth.org)** | **[Nurse Intern, Summer 2026](https://jobright.ai/jobs/info/68f2c38376a51a4307bc81b7?utm_campaign=1057&utm_source=git)** | Hillsboro, WI | On Site | Oct 17 |
 | **[Dr. April Brown ](https://www.draprilbrown.com)** | **[Registered Intern / Graduate Student – MFT or Mental Health](https://jobright.ai/jobs/info/68f2b96676a51a4307bc793b?utm_campaign=1057&utm_source=git)** | Cape Coral, FL | Hybrid | Oct 17 |
 | **[CalRecycle](http://www.calrecycle.ca.gov)** | **[Student Assistant](https://jobright.ai/jobs/info/68f2949276a51a4307bc502e?utm_campaign=1057&utm_source=git)** | Sacramento, CA | Hybrid | Oct 17 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Justice & Public Safety - Department of Juvenile Justice](https://jobright.ai/jobs/info/68f2919c9a65fd345857daed?utm_campaign=1057&utm_source=git)** | Louisville, KY, US | On Site | Oct 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Do it Best](http://www.doitbestcorp.com)** | **[Member Education Internship](https://jobright.ai/jobs/info/68b895ed07090163b6ba3174?utm_campaign=1057&utm_source=git)** | Fort Wayne, IN | On Site | Oct 17 |
 | **[Divergent](http://www.divergent3d.com)** | **[Summer 2026 People Ops – Learning Design & Development Intern](https://jobright.ai/jobs/info/68e052abf758fe1f97e4c5aa?utm_campaign=1057&utm_source=git)** | Torrance, California, United States | On Site | Oct 17 |
 | **[Yates Construction](https://www.wgyates.com)** | **[INTERN](https://jobright.ai/jobs/info/68b8a16aea901c0d269f8374?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Oct 17 |
-| **[Operation Smile](http://www.operationsmile.org)** | **[Museum Education Internship](https://jobright.ai/jobs/info/68719e7ca5ae807a59d00cc3?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA | On Site | Oct 17 |
-| **[General Dynamics Electric Boat](http://www.gdeb.com/)** | **[2026 Medical Summer Internship](https://jobright.ai/jobs/info/68f266edaf0b5a06b584ce91?utm_campaign=1057&utm_source=git)** | US-CT-Groton | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
