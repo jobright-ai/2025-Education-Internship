@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bellevue School District](https://bsd405.org/)** | **[Custodian Swing Shift Shift - International School/Woodridge Elementary 2025/26 (Internal Applicants](https://jobright.ai/jobs/info/68f30bff9a63986de756e6e5?utm_campaign=1057&utm_source=git)** | Bellevue, WA | On Site | Oct 17 |
+| **[Mom's Meals | A Purfoods Company](https://www.momsmeals.com)** | **[Nutrition Outreach Intern](https://jobright.ai/jobs/info/68f306b49a63986de756e334?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Oct 17 |
+| ↳ | **[Nutrition Outreach Intern](https://jobright.ai/jobs/info/68f304d876a51a4307bca241?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Oct 17 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Youth Ballet Instructor (International District/Chinatown Community Center)](https://jobright.ai/jobs/info/68f2fd6e76a51a4307bc9bce?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Oct 17 |
+| **[Tampa Bay Rays](https://www.mlb.com/rays)** | **[Intern, Amateur Scouting](https://jobright.ai/jobs/info/68f2f7a89a65fd3458582529?utm_campaign=1057&utm_source=git)** | St. Petersburg, FL | On Site | Oct 17 |
 | **[EMBREY](https://www.embreydc.com/)** | **[Internship Program Class of 2026 - Development](https://jobright.ai/jobs/info/68f1c4b5e6870116b1f5d0ef?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Oct 17 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Vocational English as a Second Language Spring 2026 Intern - Unpaid](https://jobright.ai/jobs/info/68f2f0c69a63986de756d5c0?utm_campaign=1057&utm_source=git)** | Louisville, KY | On Site | Oct 17 |
 | **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program - Analytics / Dashboard](https://jobright.ai/jobs/info/68de9d0e09bda65a4b62c11d?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Oct 17 |
@@ -69,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Youth Villages](http://www.youthvillages.org)** | **[Paid Recreation Therapy Internship - Summer 2026](https://jobright.ai/jobs/info/68f2d5929a65fd345858164c?utm_campaign=1057&utm_source=git)** | Memphis, TN | On Site | Oct 17 |
 | **[Kennesaw State University](http://www.kennesaw.edu)** | **[Career and Internship Advisor, Part-Time, Temporary](https://jobright.ai/jobs/info/68f2d03676a51a4307bc87f9?utm_campaign=1057&utm_source=git)** | Kennesaw, GA | On Site | Oct 17 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Learning Management Systems Intern](https://jobright.ai/jobs/info/68a7775f33dd7158bbca776f?utm_campaign=1057&utm_source=git)** | Strongsville, OH | On Site | Oct 17 |
+| **[CU Online](https://online.cu.edu/)** | **[Education Abroad Program Manager](https://jobright.ai/jobs/info/68f306f276a51a4307bca3ce?utm_campaign=1057&utm_source=git)** | Boulder, CO | Hybrid | Oct 17 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Academic Program Coordinator](https://jobright.ai/jobs/info/68f2cbbb76a51a4307bc86a2?utm_campaign=1057&utm_source=git)** | Athens, GA | On Site | Oct 17 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Clinical Psychologist](https://jobright.ai/jobs/info/68f2c89076a51a4307bc8417?utm_campaign=1057&utm_source=git)** | Dayton, OH | On Site | Oct 17 |
 | **[Chestnut Health Systems](http://chestnut.org/)** | **[Bachelor’s Internship Behavioral Health Assessment Clinician](https://jobright.ai/jobs/info/68f2c7c69a65fd3458580fdb?utm_campaign=1057&utm_source=git)** | Bloomington, IL | On Site | Oct 17 |
@@ -114,8 +120,10 @@ For a complete list, click the following sortable link below:
 | **[University of Iowa Center for Advancement](https://www.foriowa.org/)** | **[Advancement Summer Internship Program - College of Education Development Internship](https://jobright.ai/jobs/info/68f2bc069a65fd3458580620?utm_campaign=1057&utm_source=git)** | Iowa City, IA | Hybrid | Oct 17 |
 | ↳ | **[Advancement Summer Internship Program - Main Campus Regional Gifts Intern](https://jobright.ai/jobs/info/68f2b59f9a63986de756b287?utm_campaign=1057&utm_source=git)** | Iowa City, IA | Hybrid | Oct 17 |
 | **[LaAmistad, Inc.](https://laamistadinc.org)** | **[ESL/ Adult Education Intern](https://jobright.ai/jobs/info/68f2ab2676a51a4307bc6506?utm_campaign=1057&utm_source=git)** | Atlanta, Georgia, United States | On Site | Oct 17 |
+| ↳ | **[Internship- Unpaid SY25-26](https://jobright.ai/jobs/info/68f2fe8e9a63986de756dcbc?utm_campaign=1057&utm_source=git)** | Atlanta, Georgia, United States | On Site | Oct 17 |
 | **[Ally](http://www.ally.com/)** | **[Summer 2026 Internship – Consumer Banking (Auto Customer Care Group - Process Management)](https://jobright.ai/jobs/info/68cc5fec7342c7623ae63d54?utm_campaign=1057&utm_source=git)** | Lewisville, TX | On Site | Oct 17 |
 | **[Santander Private Banking International](http://pb-santander.com)** | **[Intern - CSU-2](https://jobright.ai/jobs/info/68f2a69b76a51a4307bc5dc8?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Oct 17 |
+| **[Gordon Food Service - Canada](https://www.gfs.ca/en-ca)** | **[Store Food Safety Internship](https://jobright.ai/jobs/info/68f30c1876a51a4307bca740?utm_campaign=1057&utm_source=git)** | Wyoming, MI | On Site | Oct 17 |
 | **[Athlete Training and Health](https://www.linkedin.com/redir/suspicious-page?url=http%3A%2F%2Fwww%2eAthleteTrainingandHealth%2ecom)** | **[2026 Intern Opportunities](https://jobright.ai/jobs/info/68f280df76a51a4307bc455b?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Oct 17 |
 | **[Boys Town](https://www.boystown.org/Pages/default.aspx)** | **[Clinical Therapy Intern](https://jobright.ai/jobs/info/68f2803f76a51a4307bc44a7?utm_campaign=1057&utm_source=git)** | Omaha, NE | On Site | Oct 17 |
 | **[Ally](http://www.ally.com/)** | **[Summer 2026 Internship – Auto Finance (Costa Mesa, CA)](https://jobright.ai/jobs/info/68eae29476a1db7c5985c67d?utm_campaign=1057&utm_source=git)** | Costa Mesa, CA | On Site | Oct 17 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Yates Construction](https://www.wgyates.com)** | **[INTERN](https://jobright.ai/jobs/info/68b8a414ea901c0d269f85c0?utm_campaign=1057&utm_source=git)** | Byram, MS | On Site | Oct 17 |
 | **[Santander](https://www.santander.com/)** | **[Intern - CSU-2](https://jobright.ai/jobs/info/68f2602dcb0abf15612f70f9?utm_campaign=1057&utm_source=git)** | Miami | On Site | Oct 17 |
 | **[Valorantum](valorantum.us)** | **[Career Development Program](https://jobright.ai/jobs/info/68f281e39a63986de7568711?utm_campaign=1057&utm_source=git)** | Wisconsin, United States | Remote | Oct 17 |
-| **[Tufts University](http://hnrca.tufts.edu)** | **[STEM  Advantage Accelerator Program Administrator](https://jobright.ai/jobs/info/68d2facb8c62e63bc7fdc402?utm_campaign=1057&utm_source=git)** | Medford, MA | Hybrid | Oct 17 |
-| **[Lutheran Health Network](http://www.lutheranhealth.net)** | **[Nursing Student Intern - Trauma ICU](https://jobright.ai/jobs/info/6864d6cc177413afbe1f2d35?utm_campaign=1057&utm_source=git)** | Fort Wayne, IN | On Site | Oct 17 |
-| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/6880157f764c3d7411c4f274?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Oct 17 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern/News](https://jobright.ai/jobs/info/682cdbd6a9f2e10b3d672138?utm_campaign=1057&utm_source=git)** | Panama City, FL | On Site | Oct 17 |
-| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d6349f894705799a2e89d7?utm_campaign=1057&utm_source=git)** | Pflugerville, TX | On Site | Oct 17 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d63fedebcef82ef5cf85b0?utm_campaign=1057&utm_source=git)** | Fresno, TX | On Site | Oct 17 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d63907ebcef82ef5cf7cc1?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Oct 17 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d618ac1f7fb2169ab16f27?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
