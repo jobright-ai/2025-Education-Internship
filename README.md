@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[VP for Student Success - NVC - req13112](https://jobright.ai/jobs/info/68f549a39a63986de7578be7?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Oct 19 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern - Ortho Neuro Surgery/Trauma](https://jobright.ai/jobs/info/68f5423776a51a4307bd4ac0?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Oct 19 |
 | **[Grand Canyon Education, Inc. ](https://www.gce.com)** | **[Program Recruitment  Program Development Specialist Intern (CET) (NFWS)](https://jobright.ai/jobs/info/68f541a676a51a4307bd4a95?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Oct 19 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern - Ortho Neuro Surgery/Trauma](https://jobright.ai/jobs/info/68f5306b9a63986de75788bf?utm_campaign=1057&utm_source=git)** | US-KS-Wichita | On Site | Oct 19 |
@@ -78,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Safety (Spring 2026)](https://jobright.ai/jobs/info/68f1668aef766b3f0fd0d776?utm_campaign=1057&utm_source=git)** | Middletown, PA | On Site | Oct 19 |
 | **[Joliet Junior College](http://www.jjc.edu/)** | **[Student Employee, Project Achieve Student Employee (Student Support Services)-2](https://jobright.ai/jobs/info/68f4b26e9a65fd345858c1a8?utm_campaign=1057&utm_source=git)** | Joliet, IL | On Site | Oct 19 |
 | **[Tacoma Community College](http://www.tacomacc.edu/)** | **[Student Programming, Government and Ambassadors](https://jobright.ai/jobs/info/68f4ae6b76a51a4307bd3272?utm_campaign=1057&utm_source=git)** | Tacoma, WA | On Site | Oct 19 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[VP for Student Success - NVC - req13112](https://jobright.ai/jobs/info/68f4a4409a63986de7576ff8?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Oct 19 |
 | **[Albion College](http://www.albion.edu/)** | **[Director of Student Engagement and Activities](https://jobright.ai/jobs/info/68f49fc09a63986de7576d33?utm_campaign=1057&utm_source=git)** | Albion, MI | On Site | Oct 19 |
 | **[St. Mary's County Public Schools](https://schools.smcps.org)** | **[School Psychologist Intern - Open Until Filled](https://jobright.ai/jobs/info/68f49a459a63986de7576b38?utm_campaign=1057&utm_source=git)** | Leonardtown, MD | On Site | Oct 19 |
 | **[We Independent](www.weindependent.org)** | **[English Language Mentor Intern/Volunteer](https://jobright.ai/jobs/info/68f464949a63986de757525d?utm_campaign=1057&utm_source=git)** | Virginia, United States | Remote | Oct 18 |
@@ -120,7 +120,7 @@ For a complete list, click the following sortable link below:
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Workplace Violence - Intern](https://jobright.ai/jobs/info/68ba39236105227d1189c05b?utm_campaign=1057&utm_source=git)** | Rahway, NJ | Hybrid | Oct 18 |
 | **[IEA Constructors LLC, a MasTec Company](https://ieaconstructors.com/)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/68ec623cee50895bd70b4653?utm_campaign=1057&utm_source=git)** | Greater Indianapolis | On Site | Oct 18 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Global Medical Proficiency & External Affairs - Intern](https://jobright.ai/jobs/info/68cf644dfb49c96ca6ea8474?utm_campaign=1057&utm_source=git)** | North Wales, PA | Hybrid | Oct 18 |
-| **[Starr](https://starrcompanies.com/)** | **[2026 Starr Summer Intern - Commercial Casualty](https://jobright.ai/jobs/info/68b9e0ac5f38327491861a1b?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Oct 18 |
+| **[Starr](https://starrcompanies.com/)** | **[2026 Starr Summer Intern - Commercial Casualty](https://jobright.ai/jobs/info/68b9da158043103d4f21b03e?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Oct 18 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Finance MBA - Intern (Hybrid)](https://jobright.ai/jobs/info/68d0273cdbd9fb154ededb12?utm_campaign=1057&utm_source=git)** | Rahway, NJ | Hybrid | Oct 18 |
 | **[Axis Community Health](https://www.axishealth.org)** | **[MENTAL HEALTH INTERN](https://jobright.ai/jobs/info/689fccadcc9ee94dc9119ec8?utm_campaign=1057&utm_source=git)** | Pleasanton, CA | Hybrid | Oct 18 |
 | **[City of Roanoke, VA](http://www.ci.roanoke.va.us)** | **[Spring Intern - Unpaid 2026](https://jobright.ai/jobs/info/68f36d059a63986de7572105?utm_campaign=1057&utm_source=git)** | Roanoke, VA | On Site | Oct 18 |
