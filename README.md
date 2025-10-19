@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Clinical Research Intern](https://jobright.ai/jobs/info/68cba44e9e3a822f5d249aba?utm_campaign=1057&utm_source=git)** | Wilmington, NC | Remote | Oct 19 |
+| **[YES Prep Public Schools](http://www.yesprep.org/)** | **[Visiting International Teacher - YES Prep Public Schools (26-27 School Year)](https://jobright.ai/jobs/info/68f4e3989a63986de7577f13?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Oct 19 |
+| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Outpatient Mental Health Clinics- Hagerstown) 2025- 2026 Counseling/Social Work Fieldwork](https://jobright.ai/jobs/info/68d5023a24b1ee4c7b663422?utm_campaign=1057&utm_source=git)** | Hagerstown, MD | On Site | Oct 19 |
+| **[Madison Metropolitan School District](https://www.madison.k12.wi.us/)** | **[25-26 - Memorial - Technical Education Teacher - 1.0 (40 HPW)](https://jobright.ai/jobs/info/68c399896031587f8458c87b?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Oct 19 |
 | **[USRA](http://www.usra.edu/)** | **[Program Coordinator-Intern Program](https://jobright.ai/jobs/info/68f1e37ae6870116b1f5e0c1?utm_campaign=1057&utm_source=git)** | Eglin Air Force Base, FL | On Site | Oct 19 |
 | **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Spring  Education Programs Intern (onsite)](https://jobright.ai/jobs/info/68dd7b0ba125e75c422ab21a?utm_campaign=1057&utm_source=git)** | Little Rock, Arkansas | On Site | Oct 19 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Safety (Spring 2026)](https://jobright.ai/jobs/info/68f1668aef766b3f0fd0d776?utm_campaign=1057&utm_source=git)** | Middletown, PA | On Site | Oct 19 |
@@ -69,14 +73,14 @@ For a complete list, click the following sortable link below:
 | **[Tulare County Office of Education](http://www.tcoe.org)** | **[Outdoor Education Intern at SCICON (Recruiting for the 2025 - 2026 School Year) Year long Intern Pos](https://jobright.ai/jobs/info/68f463a276a51a4307bd121a?utm_campaign=1057&utm_source=git)** | Visalia, CA | On Site | Oct 18 |
 | **[Utah State University](http://www.usu.edu)** | **[Professional Practice Assistant Professor - School Counseling](https://jobright.ai/jobs/info/68f44e7f9a65fd3458589760?utm_campaign=1057&utm_source=git)** | Logan, UT | On Site | Oct 18 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Coordinator: International Baccalaureate DP/CP Site (School Based)](https://jobright.ai/jobs/info/68f4457976a51a4307bd07ff?utm_campaign=1057&utm_source=git)** | Annapolis, MD | On Site | Oct 18 |
-| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Climbing Arborist Internship / Columbus, OH](https://jobright.ai/jobs/info/68f4055176a51a4307bd0346?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Oct 18 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Climbing Arborist Internship / Columbus, OH](https://jobright.ai/jobs/info/68f4073d9a63986de75742cf?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Oct 18 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[VP for Student Success - NVC - req13112](https://jobright.ai/jobs/info/68f3fe0576a51a4307bd0248?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Oct 18 |
 | **[Northeastern Illinois University](http://www.neiu.edu/)** | **[Director of Career Development](https://jobright.ai/jobs/info/68f3fb299a65fd3458588e09?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Oct 18 |
 | **[University of South Carolina](https://sc.edu)** | **[Campus Recreation Aquatics Intern](https://jobright.ai/jobs/info/68f3f5159a63986de7574038?utm_campaign=1057&utm_source=git)** | Columbia, SC | On Site | Oct 18 |
 | **[Art of Problem Solving](https://artofproblemsolving.com/)** | **[Math Curriculum Intern](https://jobright.ai/jobs/info/68ed82976335d33236129be6?utm_campaign=1057&utm_source=git)** | San Diego, California, United States | On Site | Oct 18 |
 | **[Exos](http://www.teamexos.com/)** | **[Sports Performance Intern - Spring 2026](https://jobright.ai/jobs/info/68f3e09f9a65fd3458588a0d?utm_campaign=1057&utm_source=git)** | Gulf Breeze, FL | On Site | Oct 18 |
-| ↳ | **[Sports Performance Intern - Spring 2026](https://jobright.ai/jobs/info/68f3e0439a63986de7573cd3?utm_campaign=1057&utm_source=git)** | Alpharetta, GA | On Site | Oct 18 |
 | ↳ | **[Sports Performance Intern - Spring 2026](https://jobright.ai/jobs/info/68f3e0439a65fd34585889f8?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Oct 18 |
+| ↳ | **[Sports Performance Intern - Spring 2026](https://jobright.ai/jobs/info/68f3e0439a63986de7573cd3?utm_campaign=1057&utm_source=git)** | Alpharetta, GA | On Site | Oct 18 |
 | ↳ | **[Sports Performance Intern - Spring 2026](https://jobright.ai/jobs/info/68f3e0239a65fd34585889ec?utm_campaign=1057&utm_source=git)** | Canton, GA | On Site | Oct 18 |
 | ↳ | **[Sports Science Intern - Spring 2026](https://jobright.ai/jobs/info/68f3dfb19a63986de7573cb8?utm_campaign=1057&utm_source=git)** | Gulf Breeze, FL | Hybrid | Oct 18 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[RN Intern- Cardiac Cath Lab](https://jobright.ai/jobs/info/68c2932603b99f6b342968d5?utm_campaign=1057&utm_source=git)** | Mason City, IA | On Site | Oct 18 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Performance Nutrition Intern - Spring 2026](https://jobright.ai/jobs/info/68f2b6869a63986de756b359?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Oct 17 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Childrens Hospital- Graduate Nurse Internship- PICU)](https://jobright.ai/jobs/info/68f2b66876a51a4307bc745e?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Oct 17 |
 | ↳ | **[REGISTERED NURSE- D. Dan and Betty Kahn Health Care Pavilion-Operating Room Internship](https://jobright.ai/jobs/info/68f2b5ed9a63986de756b2bd?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Oct 17 |
-| **[UFC GYM](http://UFCGYM.com)** | **[UFC Strength & Conditioning Intern](https://jobright.ai/jobs/info/68f2b1bd9a63986de756ac65?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Oct 17 |
-| **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[BH Therapy Intern - Driving CT](https://jobright.ai/jobs/info/68f2ac4a9a65fd345857f0ef?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Oct 17 |
-| **[Marshfield Clinic Health System](https://www.marshfieldclinic.org)** | **[Student Nurse Intern - Summer 2026: Stevens Point](https://jobright.ai/jobs/info/68f2abd576a51a4307bc66be?utm_campaign=1057&utm_source=git)** | Stevens Point, WI | On Site | Oct 17 |
-| **[MelroseWakefield Hospital](https://www.melrosewakefield.org/)** | **[Student Intern Co-Op, RRSU](https://jobright.ai/jobs/info/68f2aae19a63986de756a3c8?utm_campaign=1057&utm_source=git)** | Tufts Medical Center | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
