@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Student Asst - FWS](https://jobright.ai/jobs/info/68f5258276a51a4307bd4717?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Oct 19 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - UC Davis](https://jobright.ai/jobs/info/68bc8fdbae79610dacddbdaf?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Oct 19 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Support - Navy Federal Investment Services)](https://jobright.ai/jobs/info/68cd948de23def7af55bc0d4?utm_campaign=1057&utm_source=git)** | San Diego, CA | Hybrid | Oct 19 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Penn State](https://jobright.ai/jobs/info/68cda7f11ad6b16f0289d0f6?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Oct 19 |
@@ -115,7 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Workplace Violence - Intern](https://jobright.ai/jobs/info/68ba39236105227d1189c05b?utm_campaign=1057&utm_source=git)** | Rahway, NJ | Hybrid | Oct 18 |
 | **[IEA Constructors LLC, a MasTec Company](https://ieaconstructors.com/)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/68ec623cee50895bd70b4653?utm_campaign=1057&utm_source=git)** | Greater Indianapolis | On Site | Oct 18 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Global Medical Proficiency & External Affairs - Intern](https://jobright.ai/jobs/info/68cf644dfb49c96ca6ea8474?utm_campaign=1057&utm_source=git)** | North Wales, PA | Hybrid | Oct 18 |
-| **[Starr](https://starrcompanies.com/)** | **[2026 Starr Summer Intern - Commercial Casualty](https://jobright.ai/jobs/info/68b9e0ac5f38327491861a1b?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Oct 18 |
+| **[Starr](https://starrcompanies.com/)** | **[2026 Starr Summer Intern - Commercial Casualty](https://jobright.ai/jobs/info/68b9da158043103d4f21b03e?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Oct 18 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Finance MBA - Intern (Hybrid)](https://jobright.ai/jobs/info/68d0273cdbd9fb154ededb12?utm_campaign=1057&utm_source=git)** | Rahway, NJ | Hybrid | Oct 18 |
 | **[Axis Community Health](https://www.axishealth.org)** | **[MENTAL HEALTH INTERN](https://jobright.ai/jobs/info/689fccadcc9ee94dc9119ec8?utm_campaign=1057&utm_source=git)** | Pleasanton, CA | Hybrid | Oct 18 |
 | **[City of Roanoke, VA](http://www.ci.roanoke.va.us)** | **[Spring Intern - Unpaid 2026](https://jobright.ai/jobs/info/68f36d059a63986de7572105?utm_campaign=1057&utm_source=git)** | Roanoke, VA | On Site | Oct 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist](https://jobright.ai/jobs/info/68f2c79c76a51a4307bc8397?utm_campaign=1057&utm_source=git)** | Coatesville, PA | On Site | Oct 17 |
 | **[Blue Cross Blue Shield of North Dakota](https://www.bcbsnd.com/jobs/)** | **[Caring Foundation Intern - Spring 2026 (Part-time)](https://jobright.ai/jobs/info/68f2ba6376a51a4307bc7afd?utm_campaign=1057&utm_source=git)** | Fargo, ND | Hybrid | Oct 17 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Vocational English as a Second Language Spring 2026 Intern - Unpaid](https://jobright.ai/jobs/info/68f2c5cf9a65fd3458580e27?utm_campaign=1057&utm_source=git)** | Louisville, KY USA | On Site | Oct 17 |
-| **[Mom's Meals | A Purfoods Company](https://www.momsmeals.com)** | **[Nutrition Outreach Intern](https://jobright.ai/jobs/info/68f2baf09a65fd34585804c3?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | Remote | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
