@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Joliet Junior College](http://www.jjc.edu/)** | **[Student Employee, Project Achieve Student Employee (Student Support Services)-2](https://jobright.ai/jobs/info/68f4b26e9a65fd345858c1a8?utm_campaign=1057&utm_source=git)** | Joliet, IL | On Site | Oct 19 |
+| **[Tacoma Community College](http://www.tacomacc.edu/)** | **[Student Programming, Government and Ambassadors](https://jobright.ai/jobs/info/68f4ae6b76a51a4307bd3272?utm_campaign=1057&utm_source=git)** | Tacoma, WA | On Site | Oct 19 |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[VP for Student Success - NVC - req13112](https://jobright.ai/jobs/info/68f4a4409a63986de7576ff8?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Oct 19 |
+| **[Albion College](http://www.albion.edu/)** | **[Director of Student Engagement and Activities](https://jobright.ai/jobs/info/68f49fc09a63986de7576d33?utm_campaign=1057&utm_source=git)** | Albion, MI | On Site | Oct 19 |
+| **[St. Mary's County Public Schools](https://schools.smcps.org)** | **[School Psychologist Intern - Open Until Filled](https://jobright.ai/jobs/info/68f49a459a63986de7576b38?utm_campaign=1057&utm_source=git)** | Leonardtown, MD | On Site | Oct 19 |
 | **[We Independent](www.weindependent.org)** | **[English Language Mentor Intern/Volunteer](https://jobright.ai/jobs/info/68f464949a63986de757525d?utm_campaign=1057&utm_source=git)** | Virginia, United States | Remote | Oct 18 |
 | **[Tulare County Office of Education](http://www.tcoe.org)** | **[Outdoor Education Intern at SCICON (Recruiting for the 2025 - 2026 School Year) Year long Intern Pos](https://jobright.ai/jobs/info/68f463a276a51a4307bd121a?utm_campaign=1057&utm_source=git)** | Visalia, CA | On Site | Oct 18 |
 | **[Utah State University](http://www.usu.edu)** | **[Professional Practice Assistant Professor - School Counseling](https://jobright.ai/jobs/info/68f44e7f9a65fd3458589760?utm_campaign=1057&utm_source=git)** | Logan, UT | On Site | Oct 18 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MelroseWakefield Hospital](https://www.melrosewakefield.org/)** | **[Student Intern Co-Op, RRSU](https://jobright.ai/jobs/info/68f2aae19a63986de756a3c8?utm_campaign=1057&utm_source=git)** | Tufts Medical Center | On Site | Oct 17 |
 | **[ZobeLab](http://www.ZobeLab.com)** | **[Host For Webinar (Internship)](https://jobright.ai/jobs/info/68f2a9ab9a63986de756a1b6?utm_campaign=1057&utm_source=git)** | United States | Remote | Oct 17 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Education & Youth Services Spring 2026 Intern - Unpaid](https://jobright.ai/jobs/info/68f2a9709a65fd345857ea78?utm_campaign=1057&utm_source=git)** | Louisville, KY USA | On Site | Oct 17 |
-| **[University of Iowa Center for Advancement](https://www.foriowa.org/)** | **[Advancement Summer Internship Program - Health Sciences Regional Gifts & Neurosciences Intern](https://jobright.ai/jobs/info/68f2a94b76a51a4307bc6091?utm_campaign=1057&utm_source=git)** | Iowa City, IA | Hybrid | Oct 17 |
-| **[Marshfield Clinic Health System](https://www.marshfieldclinic.org)** | **[Student Nurse Intern - Summer 2026: Marshfield](https://jobright.ai/jobs/info/68f2a9489a65fd345857ea2c?utm_campaign=1057&utm_source=git)** | Marshfield, WI | On Site | Oct 17 |
-| **[New England Public Media](https://www.nepm.org/)** | **[NEPM Media Mentor Education Internship - Spring 2026](https://jobright.ai/jobs/info/68f2a9229a65fd345857ea02?utm_campaign=1057&utm_source=git)** | Springfield, MA | Hybrid | Oct 17 |
-| **[Mom's Meals | A Purfoods Company](https://www.momsmeals.com)** | **[Nutrition Outreach Intern](https://jobright.ai/jobs/info/68f2a8d69a65fd345857e9c8?utm_campaign=1057&utm_source=git)** | San Diego, CA | Remote | Oct 17 |
-| **[General Dynamics Electric Boat](http://www.gdeb.com/)** | **[Health & Safety (EH&S) - 2026 Summer Internship](https://jobright.ai/jobs/info/68f2a5ad9a63986de7569c95?utm_campaign=1057&utm_source=git)** | US-CT-Groton | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
