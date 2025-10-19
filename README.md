@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Utah State University](http://www.usu.edu)** | **[Professional Practice Assistant Professor - School Counseling](https://jobright.ai/jobs/info/68f44e7f9a65fd3458589760?utm_campaign=1057&utm_source=git)** | Logan, UT | On Site | Oct 18 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Coordinator: International Baccalaureate DP/CP Site (School Based)](https://jobright.ai/jobs/info/68f4457976a51a4307bd07ff?utm_campaign=1057&utm_source=git)** | Annapolis, MD | On Site | Oct 18 |
-| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Climbing Arborist Internship / Columbus, OH](https://jobright.ai/jobs/info/68f4055176a51a4307bd0346?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Oct 18 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Climbing Arborist Internship / Columbus, OH](https://jobright.ai/jobs/info/68f4073d9a63986de75742cf?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Oct 18 |
 | **[Northeastern Illinois University](http://www.neiu.edu/)** | **[Director of Career Development](https://jobright.ai/jobs/info/68f3fb299a65fd3458588e09?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Oct 18 |
 | **[University of South Carolina](https://sc.edu)** | **[Campus Recreation Aquatics Intern](https://jobright.ai/jobs/info/68f3f5159a63986de7574038?utm_campaign=1057&utm_source=git)** | Columbia, SC | On Site | Oct 18 |
 | **[Art of Problem Solving](https://artofproblemsolving.com/)** | **[Math Curriculum Intern](https://jobright.ai/jobs/info/68ed82976335d33236129be6?utm_campaign=1057&utm_source=git)** | San Diego, California, United States | On Site | Oct 18 |
 | **[Exos](http://www.teamexos.com/)** | **[Sports Performance Intern - Spring 2026](https://jobright.ai/jobs/info/68f3e09f9a65fd3458588a0d?utm_campaign=1057&utm_source=git)** | Gulf Breeze, FL | On Site | Oct 18 |
-| ↳ | **[Sports Performance Intern - Spring 2026](https://jobright.ai/jobs/info/68f3e0439a63986de7573cd3?utm_campaign=1057&utm_source=git)** | Alpharetta, GA | On Site | Oct 18 |
 | ↳ | **[Sports Performance Intern - Spring 2026](https://jobright.ai/jobs/info/68f3e0439a65fd34585889f8?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Oct 18 |
+| ↳ | **[Sports Performance Intern - Spring 2026](https://jobright.ai/jobs/info/68f3e0439a63986de7573cd3?utm_campaign=1057&utm_source=git)** | Alpharetta, GA | On Site | Oct 18 |
 | ↳ | **[Sports Performance Intern - Spring 2026](https://jobright.ai/jobs/info/68f3e0239a65fd34585889ec?utm_campaign=1057&utm_source=git)** | Canton, GA | On Site | Oct 18 |
 | ↳ | **[Sports Science Intern - Spring 2026](https://jobright.ai/jobs/info/68f3dfb19a63986de7573cb8?utm_campaign=1057&utm_source=git)** | Gulf Breeze, FL | Hybrid | Oct 18 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[RN Intern- Cardiac Cath Lab](https://jobright.ai/jobs/info/68c2932603b99f6b342968d5?utm_campaign=1057&utm_source=git)** | Mason City, IA | On Site | Oct 18 |
@@ -80,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Toyota North America](https://www.toyota.com/usa/operations/map/tcal)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/68c35bb4b8c22d3828471259?utm_campaign=1057&utm_source=git)** | Salisbury, NC | On Site | Oct 18 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Graduate Summer Internship Program - 2026 Commercial Enablement Strategy, Global Commercial Services - New York, NY](https://jobright.ai/jobs/info/68d7279f894705799a2f11f5?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Oct 18 |
 | **[VertoTech](vertotech.us)** | **[Corporate Trainee Program Internship](https://jobright.ai/jobs/info/68f3afdc9a63986de7573441?utm_campaign=1057&utm_source=git)** | Sussex, WI | Remote | Oct 18 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Instructional Designer)](https://jobright.ai/jobs/info/68f45efe76a51a4307bd0f78?utm_campaign=1057&utm_source=git)** | Pensacola, FL | Hybrid | Oct 18 |
 | **[UPMC](https://www.upmc.com/)** | **[Student Nurse Internship (SNI) Program: North Central PA Hospitals](https://jobright.ai/jobs/info/689f196479a9f96662554720?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Oct 18 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[F99456 Assistant Professor, Marketing, Tahlequah](https://jobright.ai/jobs/info/68f3aede76a51a4307bcf4d5?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Oct 18 |
 | **[Indiana Farm Bureau Insurance](http://www.infarmbureau.com)** | **[Farm Training Intern - Summer 2026](https://jobright.ai/jobs/info/68ceb061fb49c96ca6ea2e12?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | Hybrid | Oct 18 |
@@ -92,8 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Workplace Violence - Intern](https://jobright.ai/jobs/info/68ba39236105227d1189c05b?utm_campaign=1057&utm_source=git)** | Rahway, NJ | Hybrid | Oct 18 |
 | **[IEA Constructors LLC, a MasTec Company](https://ieaconstructors.com/)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/68ec623cee50895bd70b4653?utm_campaign=1057&utm_source=git)** | Greater Indianapolis | On Site | Oct 18 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Global Medical Proficiency & External Affairs - Intern](https://jobright.ai/jobs/info/68cf644dfb49c96ca6ea8474?utm_campaign=1057&utm_source=git)** | North Wales, PA | Hybrid | Oct 18 |
-| **[Starr](https://starrcompanies.com/)** | **[2026 Starr Summer Intern - Commercial Casualty](https://jobright.ai/jobs/info/68b9da158043103d4f21b03e?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Oct 18 |
-| ↳ | **[2026 Starr Summer Intern - Commercial Casualty](https://jobright.ai/jobs/info/68b9e0ac5f38327491861a1b?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Oct 18 |
+| **[Starr](https://starrcompanies.com/)** | **[2026 Starr Summer Intern - Commercial Casualty](https://jobright.ai/jobs/info/68b9e0ac5f38327491861a1b?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Oct 18 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Finance MBA - Intern (Hybrid)](https://jobright.ai/jobs/info/68d0273cdbd9fb154ededb12?utm_campaign=1057&utm_source=git)** | Rahway, NJ | Hybrid | Oct 18 |
 | **[Axis Community Health](https://www.axishealth.org)** | **[MENTAL HEALTH INTERN](https://jobright.ai/jobs/info/689fccadcc9ee94dc9119ec8?utm_campaign=1057&utm_source=git)** | Pleasanton, CA | Hybrid | Oct 18 |
 | **[City of Roanoke, VA](http://www.ci.roanoke.va.us)** | **[Spring Intern - Unpaid 2026](https://jobright.ai/jobs/info/68f36d059a63986de7572105?utm_campaign=1057&utm_source=git)** | Roanoke, VA | On Site | Oct 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Electric Boat](http://www.gdeb.com/)** | **[Health & Safety (EH&S) - 2026 Summer Internship](https://jobright.ai/jobs/info/68f2a5ad9a63986de7569c95?utm_campaign=1057&utm_source=git)** | US-CT-Groton | On Site | Oct 17 |
 | **[North Star Behavioral Health](https://northstarbehavioral.com)** | **[Student  Intern / RN / Behavioral Health/ Acute Geri Psych / PT / Day](https://jobright.ai/jobs/info/68f2a53d9a65fd345857e8af?utm_campaign=1057&utm_source=git)** | AMARILLO, Texas | On Site | Oct 17 |
 | **[Centene Corporation](http://www.centene.com)** | **[Pharmacy Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68f2a5029a65fd345857e84a?utm_campaign=1057&utm_source=git)** | Remote-TX | Remote | Oct 17 |
-| ↳ | **[Pharmacy Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68f2a4029a63986de7569a11?utm_campaign=1057&utm_source=git)** | Remote-AZ | Remote | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
