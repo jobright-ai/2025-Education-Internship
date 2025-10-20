@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[VP for Student Success - NVC - req13112](https://jobright.ai/jobs/info/68f549a39a63986de7578be7?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Oct 19 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern - Ortho Neuro Surgery/Trauma](https://jobright.ai/jobs/info/68f5423776a51a4307bd4ac0?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Oct 19 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Project Management Internship - Sacramento, CA](https://jobright.ai/jobs/info/68f5693c76a51a4307bd4e34?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Oct 19 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern - Ortho Neuro Surgery/Trauma](https://jobright.ai/jobs/info/68f542459a65fd345858d7db?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Oct 19 |
 | **[Grand Canyon Education, Inc. ](https://www.gce.com)** | **[Program Recruitment  Program Development Specialist Intern (CET) (NFWS)](https://jobright.ai/jobs/info/68f541a676a51a4307bd4a95?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Oct 19 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern - Ortho Neuro Surgery/Trauma](https://jobright.ai/jobs/info/68f5306b9a63986de75788bf?utm_campaign=1057&utm_source=git)** | US-KS-Wichita | On Site | Oct 19 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern - Ortho Neuro Surgery/Trauma](https://jobright.ai/jobs/info/68f5301176a51a4307bd4874?utm_campaign=1057&utm_source=git)** | US-KS-Wichita | On Site | Oct 19 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Student Asst - FWS](https://jobright.ai/jobs/info/68f5258276a51a4307bd4717?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Oct 19 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - UC Davis](https://jobright.ai/jobs/info/68bc8fdbae79610dacddbdaf?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Oct 19 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Support - Navy Federal Investment Services)](https://jobright.ai/jobs/info/68cd948de23def7af55bc0d4?utm_campaign=1057&utm_source=git)** | San Diego, CA | Hybrid | Oct 19 |
@@ -79,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Safety (Spring 2026)](https://jobright.ai/jobs/info/68f1668aef766b3f0fd0d776?utm_campaign=1057&utm_source=git)** | Middletown, PA | On Site | Oct 19 |
 | **[Joliet Junior College](http://www.jjc.edu/)** | **[Student Employee, Project Achieve Student Employee (Student Support Services)-2](https://jobright.ai/jobs/info/68f4b26e9a65fd345858c1a8?utm_campaign=1057&utm_source=git)** | Joliet, IL | On Site | Oct 19 |
 | **[Tacoma Community College](http://www.tacomacc.edu/)** | **[Student Programming, Government and Ambassadors](https://jobright.ai/jobs/info/68f4ae6b76a51a4307bd3272?utm_campaign=1057&utm_source=git)** | Tacoma, WA | On Site | Oct 19 |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[VP for Student Success - NVC - req13112](https://jobright.ai/jobs/info/68f4a4409a63986de7576ff8?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Oct 19 |
 | **[Albion College](http://www.albion.edu/)** | **[Director of Student Engagement and Activities](https://jobright.ai/jobs/info/68f49fc09a63986de7576d33?utm_campaign=1057&utm_source=git)** | Albion, MI | On Site | Oct 19 |
 | **[St. Mary's County Public Schools](https://schools.smcps.org)** | **[School Psychologist Intern - Open Until Filled](https://jobright.ai/jobs/info/68f49a459a63986de7576b38?utm_campaign=1057&utm_source=git)** | Leonardtown, MD | On Site | Oct 19 |
 | **[We Independent](www.weindependent.org)** | **[English Language Mentor Intern/Volunteer](https://jobright.ai/jobs/info/68f464949a63986de757525d?utm_campaign=1057&utm_source=git)** | Virginia, United States | Remote | Oct 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Learning Management Systems Intern](https://jobright.ai/jobs/info/68a7775f33dd7158bbca776f?utm_campaign=1057&utm_source=git)** | Strongsville, OH | On Site | Oct 17 |
 | **[CU Online](https://online.cu.edu/)** | **[Education Abroad Program Manager](https://jobright.ai/jobs/info/68f306f276a51a4307bca3ce?utm_campaign=1057&utm_source=git)** | Boulder, CO | Hybrid | Oct 17 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Academic Program Coordinator](https://jobright.ai/jobs/info/68f2cbbb76a51a4307bc86a2?utm_campaign=1057&utm_source=git)** | Athens, GA | On Site | Oct 17 |
-| **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Clinical Psychologist](https://jobright.ai/jobs/info/68f2c89076a51a4307bc8417?utm_campaign=1057&utm_source=git)** | Dayton, OH | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
