@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[2025 Winter Internship](https://jobright.ai/jobs/info/68f7e118ec6dbe7073fcda48?utm_campaign=1057&utm_source=git)** | San Francisco, CA | Remote | Oct 21 |
+| **[Southwestern Behavioral Healthcare](http://www.southwestern.org)** | **[Master Level Clinical Internship - Moulton](https://jobright.ai/jobs/info/68f7e046ec6dbe7073fcd96c?utm_campaign=1057&utm_source=git)** | Evansville, IN, USA | On Site | Oct 21 |
+| **[College of Health and Human Sciences at Texas Tech University](http://www.depts.ttu.edu/hs/)** | **[Post-Grad Intern, Athletic Trainer M/WBB &amp; TTU Spirit Program](https://jobright.ai/jobs/info/68f7df77ec6dbe7073fcd80a?utm_campaign=1057&utm_source=git)** | Lubbock | On Site | Oct 21 |
+| **[Travelers](https://www.travelers.com)** | **[Underwriting Internship (Summer 2026): Business Insurance Underwriting](https://jobright.ai/jobs/info/68f7dd01b0edcf159dc8aa54?utm_campaign=1057&utm_source=git)** | TX - Richardson | Hybrid | Oct 21 |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Health & Family Services - Office of Data Analytics](https://jobright.ai/jobs/info/68f2d9069a63986de756cb33?utm_campaign=1057&utm_source=git)** | Frankfort, KY | On Site | Oct 21 |
+| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[2025 Winter Internship](https://jobright.ai/jobs/info/68f7dbbcb0edcf159dc8a7bd?utm_campaign=1057&utm_source=git)** | San Francisco, California, USA | Remote | Oct 21 |
+| **[axogen](http://www.axogeninc.com)** | **[Intern, Learning & Development](https://jobright.ai/jobs/info/68f7db44b0edcf159dc8a717?utm_campaign=1057&utm_source=git)** | Tampa, Florida, United States | On Site | Oct 21 |
+| **[Ally](http://www.ally.com/)** | **[Summer 2026 Internship – Auto Finance (Downers Grove, IL)](https://jobright.ai/jobs/info/68b8e2f907090163b6ba5c30?utm_campaign=1057&utm_source=git)** | Downers Grove, IL | On Site | Oct 21 |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program / General Requisition](https://jobright.ai/jobs/info/68f7d5a05dc1be601281c78d?utm_campaign=1057&utm_source=git)** | Kentucky, United States | On Site | Oct 21 |
+| ↳ | **[Team Kentucky Internship Program - Health & Family Services - Off of Application Technology Services](https://jobright.ai/jobs/info/68f2d69376a51a4307bc8ad1?utm_campaign=1057&utm_source=git)** | Frankfort, KY | On Site | Oct 21 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Spring 2026 Connect to Success Intern - UNPAID](https://jobright.ai/jobs/info/68f7d4d8b0edcf159dc89fc0?utm_campaign=1057&utm_source=git)** | Atlanta, GA USA | On Site | Oct 21 |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Justice & Public Safety - Division of Professional Development](https://jobright.ai/jobs/info/68f2d5c49a65fd3458581660?utm_campaign=1057&utm_source=git)** | Louisville, KY | On Site | Oct 21 |
 | **[Ally](http://www.ally.com/)** | **[Summer 2026 Internship – Auto Finance (Lawrenceville, GA)](https://jobright.ai/jobs/info/68cd04514d568306aabd195f?utm_campaign=1057&utm_source=git)** | Lawrenceville, GA | On Site | Oct 21 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Spring 2026 Youth Education Intern](https://jobright.ai/jobs/info/68f7bf405dc1be601281a858?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Oct 21 |
 | **[Primoris Services Corporation](http://prim.com)** | **[Dillard University Career & Internship Fair 2025](https://jobright.ai/jobs/info/68f7bee0ec6dbe7073fcac6a?utm_campaign=1057&utm_source=git)** | Sunrise, FL | On Site | Oct 21 |
@@ -122,8 +134,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Underwriting Undergraduate Intern](https://jobright.ai/jobs/info/68f71e0d9a63986de758515c?utm_campaign=1057&utm_source=git)** | NC, Working at Home - N Carolina | Remote | Oct 20 |
 | ↳ | **[Spring 2026 Underwriting Undergraduate Intern](https://jobright.ai/jobs/info/68f71e069a63986de7585152?utm_campaign=1057&utm_source=git)** | CT, Working at Home - Conneticut | Remote | Oct 20 |
 | ↳ | **[Spring 2026 Underwriting Undergraduate Intern](https://jobright.ai/jobs/info/68f71df39a63986de758514a?utm_campaign=1057&utm_source=git)** | UT, Working at Home - Utah | Remote | Oct 20 |
-| ↳ | **[Spring 2026 Underwriting Undergraduate Intern](https://jobright.ai/jobs/info/68f71dee9a63986de7585146?utm_campaign=1057&utm_source=git)** | TX, Working at Home - Texas | Remote | Oct 20 |
 | ↳ | **[Spring 2026 Underwriting Undergraduate Intern](https://jobright.ai/jobs/info/68f71dee9a65fd3458599e2c?utm_campaign=1057&utm_source=git)** | WA, Working at Home - Washington | Remote | Oct 20 |
+| ↳ | **[Spring 2026 Underwriting Undergraduate Intern](https://jobright.ai/jobs/info/68f71dee9a63986de7585146?utm_campaign=1057&utm_source=git)** | TX, Working at Home - Texas | Remote | Oct 20 |
 | ↳ | **[Spring 2026 Underwriting Undergraduate Intern](https://jobright.ai/jobs/info/68f71de89a65fd3458599e26?utm_campaign=1057&utm_source=git)** | MS, Working at Home - Mississippi | Remote | Oct 20 |
 | ↳ | **[Spring 2026 Underwriting Undergraduate Intern](https://jobright.ai/jobs/info/68f71dde9a63986de7585137?utm_campaign=1057&utm_source=git)** | KS, Working at Home - Kansas | Remote | Oct 20 |
 | ↳ | **[Spring 2026 Underwriting Undergraduate Intern](https://jobright.ai/jobs/info/68f71dcf9a65fd3458599e02?utm_campaign=1057&utm_source=git)** | NV, Working at Home - Nevada | Remote | Oct 20 |
@@ -139,22 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Underwriting Undergraduate Intern](https://jobright.ai/jobs/info/68f71d919a63986de75850a0?utm_campaign=1057&utm_source=git)** | OK, Working at Home - Oklahoma | Remote | Oct 20 |
 | ↳ | **[Spring 2026 Underwriting Undergraduate Intern](https://jobright.ai/jobs/info/68f71d809a65fd3458599d20?utm_campaign=1057&utm_source=git)** | MA, Working at Home -Massachusetts | Remote | Oct 20 |
 | ↳ | **[Spring 2026 Underwriting Undergraduate Intern](https://jobright.ai/jobs/info/68f71d809a65fd3458599d1f?utm_campaign=1057&utm_source=git)** | AZ, Working at Home - Arizona | Remote | Oct 20 |
-| ↳ | **[Spring 2026 Underwriting Undergraduate Intern](https://jobright.ai/jobs/info/68f71d7f9a63986de7585074?utm_campaign=1057&utm_source=git)** | NE, Working at Home - Nebraska | Remote | Oct 20 |
 | ↳ | **[Spring 2026 Underwriting Undergraduate Intern](https://jobright.ai/jobs/info/68f71d7f9a63986de7585075?utm_campaign=1057&utm_source=git)** | WY, Working at Home - Wyoming | Remote | Oct 20 |
+| ↳ | **[Spring 2026 Underwriting Undergraduate Intern](https://jobright.ai/jobs/info/68f71d7f9a63986de7585074?utm_campaign=1057&utm_source=git)** | NE, Working at Home - Nebraska | Remote | Oct 20 |
 | ↳ | **[Spring 2026 Underwriting Undergraduate Intern](https://jobright.ai/jobs/info/68f71d7d9a63986de7585072?utm_campaign=1057&utm_source=git)** | AL, Working at Home - Alabama | Remote | Oct 20 |
 | ↳ | **[Spring 2026 Underwriting Undergraduate Intern](https://jobright.ai/jobs/info/68f71d7a9a65fd3458599d14?utm_campaign=1057&utm_source=git)** | OH, Working at Home - Ohio | Remote | Oct 20 |
 | ↳ | **[Spring 2026 Underwriting Undergraduate Intern](https://jobright.ai/jobs/info/68f71d6d9a63986de7585034?utm_campaign=1057&utm_source=git)** | CO, Working at Home - Colorado | Remote | Oct 20 |
 | ↳ | **[Spring 2026 Underwriting Undergraduate Intern](https://jobright.ai/jobs/info/68f71d669a65fd3458599cdf?utm_campaign=1057&utm_source=git)** | SC, Working at Home-South Carolina | Remote | Oct 20 |
-| ↳ | **[Spring 2026 Underwriting Undergraduate Intern](https://jobright.ai/jobs/info/68f71d589a65fd3458599cc2?utm_campaign=1057&utm_source=git)** | KY, Working at Home - Kentucky | Remote | Oct 20 |
-| ↳ | **[Spring 2026 Underwriting Undergraduate Intern](https://jobright.ai/jobs/info/68f71d579a63986de7584fe3?utm_campaign=1057&utm_source=git)** | RI, Working at Home - Rhode Island | Remote | Oct 20 |
-| ↳ | **[Spring 2026 Underwriting Undergraduate Intern](https://jobright.ai/jobs/info/68f71d529a65fd3458599cbc?utm_campaign=1057&utm_source=git)** | NM, Working at Home - New Mexico | Remote | Oct 20 |
-| ↳ | **[Spring 2026 Underwriting Undergraduate Intern](https://jobright.ai/jobs/info/68f71d529a65fd3458599cbb?utm_campaign=1057&utm_source=git)** | DE, Working at Home - Delaware | Remote | Oct 20 |
-| ↳ | **[Spring 2026 Underwriting Undergraduate Intern](https://jobright.ai/jobs/info/68f71d529a65fd3458599cbd?utm_campaign=1057&utm_source=git)** | MI, Working at Home - Michigan | Remote | Oct 20 |
-| ↳ | **[Spring 2026 Underwriting Undergraduate Intern](https://jobright.ai/jobs/info/68f71d0c76a51a4307be0f2d?utm_campaign=1057&utm_source=git)** | MD, Working at Home - Maryland | Remote | Oct 20 |
-| ↳ | **[Spring 2026 Underwriting Undergraduate Intern](https://jobright.ai/jobs/info/68f71d0776a51a4307be0f2a?utm_campaign=1057&utm_source=git)** | NY, Working at Home - New York | Remote | Oct 20 |
-| ↳ | **[Spring 2026 Underwriting Undergraduate Intern](https://jobright.ai/jobs/info/68f71d0776a51a4307be0f29?utm_campaign=1057&utm_source=git)** | NH, Working at Home - New Hampshire | Remote | Oct 20 |
-| ↳ | **[Spring 2026 Underwriting Undergraduate Intern](https://jobright.ai/jobs/info/68f71ce976a51a4307be0f16?utm_campaign=1057&utm_source=git)** | ID, Working at Home - Idaho | Remote | Oct 20 |
-| ↳ | **[Spring 2026 Underwriting Undergraduate Intern](https://jobright.ai/jobs/info/68f71cd676a51a4307be0f0a?utm_campaign=1057&utm_source=git)** | VA, Working at Home - Virginia | Remote | Oct 20 |
-| ↳ | **[Spring 2026 Underwriting Undergraduate Intern](https://jobright.ai/jobs/info/68f71cc676a51a4307be0efc?utm_campaign=1057&utm_source=git)** | IN, Working at Home - Indiana | Remote | Oct 20 |
-| ↳ | **[Spring 2026 Underwriting Undergraduate Intern](https://jobright.ai/jobs/info/68f71cbc76a51a4307be0ef6?utm_campaign=1057&utm_source=git)** | AK, Working at Home - Alaska | Remote | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
