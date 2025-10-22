@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Graduate Intern - Biomedical Ethics - Temporary](https://jobright.ai/jobs/info/68f888f06de2db04dc3e0224?utm_campaign=1057&utm_source=git)** | Rochester, MN, United States | On Site | Oct 22 |
+| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Biomedical Ethics Intern - Temporary](https://jobright.ai/jobs/info/68f880874bafad6d2d76358c?utm_campaign=1057&utm_source=git)** | Rochester, MN, United States | On Site | Oct 21 |
 | **[Siemens EDA (Siemens Digital Industries Software)](https://eda.sw.siemens.com/)** | **[Strategic Student Program: Digital Enterprise Software Applications Intern (GSCS, Summer 26)](https://jobright.ai/jobs/info/68f85f4e4bafad6d2d762048?utm_campaign=1057&utm_source=git)** | Santa Clara, CA | Hybrid | Oct 21 |
 | **[The City University of New York](http://cuny.edu)** | **[College Assistant - International Student & Scholar Services](https://jobright.ai/jobs/info/68f85f084bafad6d2d762025?utm_campaign=1057&utm_source=git)** | Bronx, NY | Hybrid | Oct 21 |
 | **[Travelers](https://www.travelers.com)** | **[Underwriting Internship (Summer 2026): Business Insurance Underwriting](https://jobright.ai/jobs/info/68f853234bafad6d2d7619b4?utm_campaign=1057&utm_source=git)** | Richardson, TX | Hybrid | Oct 21 |
@@ -86,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[California Correctional Health Care Services](https://cchcs.ca.gov)** | **[PSYCHOLOGIST, CF - Avenal State Prison (ASP)](https://jobright.ai/jobs/info/68f82d98b0edcf159dc8f17d?utm_campaign=1057&utm_source=git)** | Corcoran, CA | On Site | Oct 21 |
 | **[HDR](http://www.hdrinc.com)** | **[UCI ASCE Fall Civil/Environmental Career & Internship Fair](https://jobright.ai/jobs/info/68f81e035dc1be6012821254?utm_campaign=1057&utm_source=git)** | Irvine, CA | On Site | Oct 21 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Summer Intern](https://jobright.ai/jobs/info/68f81b1d5dc1be60128210dd?utm_campaign=1057&utm_source=git)** | California, United States | On Site | Oct 21 |
-| **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Co-op/Student Intern](https://jobright.ai/jobs/info/68ef3d6d230ae70a14c42ba9?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Oct 21 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist - Neuropsychologist](https://jobright.ai/jobs/info/68f8122db0edcf159dc8e64f?utm_campaign=1057&utm_source=git)** | Chillicothe, OH | On Site | Oct 21 |
 | **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/68f810a95dc1be6012820b3f?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Oct 21 |
 | **[University of Kansas Medical Center](https://www.kumc.edu)** | **[College Intern - Office of Student Enrichment Health Exploration](https://jobright.ai/jobs/info/68f80fc8b0edcf159dc8e37c?utm_campaign=1057&utm_source=git)** | Kansas City Metro Area | On Site | Oct 21 |
@@ -152,7 +153,6 @@ For a complete list, click the following sortable link below:
 | **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/68ccfe0d77add66568abd516?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Oct 21 |
 | ↳ | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/682977756dd7e5f8b5d79e42?utm_campaign=1057&utm_source=git)** | Greenville, SC | On Site | Oct 21 |
 | **[Texas A&M University](https://tamu.edu)** | **[Tenure-Track: Assistant Professor, Financial Planning](https://jobright.ai/jobs/info/68dac95507c157682e56d7b6?utm_campaign=1057&utm_source=git)** | College Station, TX | On Site | Oct 21 |
-| **[Ohlone College](http://www.ohlone.edu/)** | **[Vice President, Student Services and Equity](https://jobright.ai/jobs/info/68f78b98b0edcf159dc82efa?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Oct 21 |
 | **[Healthy Kids Programs](https://www.healthykidsprograms.com/)** | **[Early Learning Director and Lead Teacher](https://jobright.ai/jobs/info/68f7aada5dc1be60128187b2?utm_campaign=1057&utm_source=git)** | Walton, NY | On Site | Oct 21 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Adjunct Faculty, International Studies and Public Policy](https://jobright.ai/jobs/info/68f7a89c5dc1be60128185ac?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Oct 21 |
 | **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Clinical Internship (PAID!)](https://jobright.ai/jobs/info/68f74866aed0577b7e05052a?utm_campaign=1057&utm_source=git)** | Pittsfield, MA | On Site | Oct 21 |
