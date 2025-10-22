@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Siemens EDA (Siemens Digital Industries Software)](https://eda.sw.siemens.com/)** | **[Strategic Student Program: Digital Enterprise Software Applications Intern (GSCS, Summer 26)](https://jobright.ai/jobs/info/68f85f4e4bafad6d2d762048?utm_campaign=1057&utm_source=git)** | Santa Clara, CA | Hybrid | Oct 21 |
+| **[The City University of New York](http://cuny.edu)** | **[College Assistant - International Student & Scholar Services](https://jobright.ai/jobs/info/68f85f084bafad6d2d762025?utm_campaign=1057&utm_source=git)** | Bronx, NY | Hybrid | Oct 21 |
 | **[Travelers](https://www.travelers.com)** | **[Underwriting Internship (Summer 2026): Business Insurance Underwriting](https://jobright.ai/jobs/info/68f853234bafad6d2d7619b4?utm_campaign=1057&utm_source=git)** | Richardson, TX | Hybrid | Oct 21 |
 | ↳ | **[Underwriting Internship (Summer 2026): Business Insurance Underwriting Professional Development Program (UPDP)](https://jobright.ai/jobs/info/68f0b24b1f624a7ec1cf6a7f?utm_campaign=1057&utm_source=git)** | Overland Park, KS | Hybrid | Oct 21 |
 | ↳ | **[Underwriting Internship (Summer 2026): Business Insurance Underwriting Professional Development Program (UPDP)](https://jobright.ai/jobs/info/68f0b2e7eb273a32d976c655?utm_campaign=1057&utm_source=git)** | Downers Grove, IL | Hybrid | Oct 21 |
@@ -127,7 +129,7 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Spring 2026 Connect to Success Intern - UNPAID](https://jobright.ai/jobs/info/68f7d4d8b0edcf159dc89fc0?utm_campaign=1057&utm_source=git)** | Atlanta, GA USA | On Site | Oct 21 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Justice & Public Safety - Division of Professional Development](https://jobright.ai/jobs/info/68f2d5c49a65fd3458581660?utm_campaign=1057&utm_source=git)** | Louisville, KY | On Site | Oct 21 |
 | **[Ryder System, Inc.](http://ryder.com/en)** | **[IT Internship - Summer 2026](https://jobright.ai/jobs/info/68f7f3deec6dbe7073fcf195?utm_campaign=1057&utm_source=git)** | USA - Coral Gables FL HQ | Hybrid | Oct 21 |
-| **[TKO](https://tkogrp.com)** | **[Performance Nutrition Intern - Spring 2026](https://jobright.ai/jobs/info/68f7ecc75dc1be601281e6e3?utm_campaign=1057&utm_source=git)** | Las Vegas, NV - UFC Headquarters | On Site | Oct 21 |
+| **[TKO](https://tkogrp.com)** | **[Performance Nutrition Intern - Spring 2026](https://jobright.ai/jobs/info/68f7ed8e5dc1be601281e793?utm_campaign=1057&utm_source=git)** | Las Vegas, NV - UFC Headquarters | On Site | Oct 21 |
 | **[Ally](http://www.ally.com/)** | **[Summer 2026 Internship – Auto Finance (Lawrenceville, GA)](https://jobright.ai/jobs/info/68cd04514d568306aabd195f?utm_campaign=1057&utm_source=git)** | Lawrenceville, GA | On Site | Oct 21 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Spring 2026 Youth Education Intern](https://jobright.ai/jobs/info/68f7bf405dc1be601281a858?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Oct 21 |
 | **[Primoris Services Corporation](http://prim.com)** | **[Dillard University Career & Internship Fair 2025](https://jobright.ai/jobs/info/68f7bee0ec6dbe7073fcac6a?utm_campaign=1057&utm_source=git)** | Sunrise, FL | On Site | Oct 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Adjunct Faculty, International Studies and Public Policy](https://jobright.ai/jobs/info/68f7a89c5dc1be60128185ac?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Oct 21 |
 | **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Clinical Internship (PAID!)](https://jobright.ai/jobs/info/68f74866aed0577b7e05052a?utm_campaign=1057&utm_source=git)** | Pittsfield, MA | On Site | Oct 21 |
 | **[PORT Health](https://www.porthealth.org/)** | **[Intern](https://jobright.ai/jobs/info/68f7839fec6dbe7073fc4c21?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Oct 21 |
-| **[Starr](https://starrcompanies.com/)** | **[2026 Starr Summer Intern - Commercial Casualty](https://jobright.ai/jobs/info/68bf1d4b5c5d5f14f46d3c40?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Oct 21 |
-| **[Cartersville-Bartow County Chamber of Commerce](http://www.cartersvillechamber.com)** | **[Specialist - Enrollment Management Technology](https://jobright.ai/jobs/info/68f77f325dc1be6012813f9b?utm_campaign=1057&utm_source=git)** | Cartersville, GA | On Site | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
