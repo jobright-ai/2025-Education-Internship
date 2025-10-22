@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Heartland Community College](http://www.heartland.edu/)** | **[Program Assistant, TRIO Student Support Services](https://jobright.ai/jobs/info/68f837846de2db04dc3dcbb8?utm_campaign=1057&utm_source=git)** | Normal, IL | On Site | Oct 21 |
+| **[Meridian Health Services Corp.](https://www.meridianhs.org/)** | **[Intern - Masters Level Clinical Therapist 6663](https://jobright.ai/jobs/info/68f8370d4bafad6d2d7604af?utm_campaign=1057&utm_source=git)** | Muncie, IN | On Site | Oct 21 |
+| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Maternal Child Health (Summer)](https://jobright.ai/jobs/info/68f830895dc1be60128219fb?utm_campaign=1057&utm_source=git)** | Brookings, SD | On Site | Oct 21 |
+| **[MIM, Musical Instrument Museum](http://mim.org)** | **[VOLUNTEER INTERN](https://jobright.ai/jobs/info/68f82f15ec6dbe7073fd1a86?utm_campaign=1057&utm_source=git)** | Phoenix, AZ, US | On Site | Oct 21 |
+| **[Meridian Health Services Corp.](https://www.meridianhs.org/)** | **[Intern - Masters Level Clinical Therapist 6664](https://jobright.ai/jobs/info/68f82e90b0edcf159dc8f243?utm_campaign=1057&utm_source=git)** | Anderson, IN | On Site | Oct 21 |
+| **[California Correctional Health Care Services](https://cchcs.ca.gov)** | **[PSYCHOLOGIST, CF - Avenal State Prison (ASP)](https://jobright.ai/jobs/info/68f82d98b0edcf159dc8f17d?utm_campaign=1057&utm_source=git)** | Corcoran, CA | On Site | Oct 21 |
+| **[HDR](http://www.hdrinc.com)** | **[UCI ASCE Fall Civil/Environmental Career & Internship Fair](https://jobright.ai/jobs/info/68f81e035dc1be6012821254?utm_campaign=1057&utm_source=git)** | Irvine, CA | On Site | Oct 21 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Summer Intern](https://jobright.ai/jobs/info/68f81b1d5dc1be60128210dd?utm_campaign=1057&utm_source=git)** | California, United States | On Site | Oct 21 |
 | **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Co-op/Student Intern](https://jobright.ai/jobs/info/68ef3d6d230ae70a14c42ba9?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Oct 21 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist - Neuropsychologist](https://jobright.ai/jobs/info/68f8122db0edcf159dc8e64f?utm_campaign=1057&utm_source=git)** | Chillicothe, OH | On Site | Oct 21 |
@@ -101,7 +108,7 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Spring 2026 Connect to Success Intern - UNPAID](https://jobright.ai/jobs/info/68f7d4d8b0edcf159dc89fc0?utm_campaign=1057&utm_source=git)** | Atlanta, GA USA | On Site | Oct 21 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Justice & Public Safety - Division of Professional Development](https://jobright.ai/jobs/info/68f2d5c49a65fd3458581660?utm_campaign=1057&utm_source=git)** | Louisville, KY | On Site | Oct 21 |
 | **[Ryder System, Inc.](http://ryder.com/en)** | **[IT Internship - Summer 2026](https://jobright.ai/jobs/info/68f7f3deec6dbe7073fcf195?utm_campaign=1057&utm_source=git)** | USA - Coral Gables FL HQ | Hybrid | Oct 21 |
-| **[TKO](https://tkogrp.com)** | **[Performance Nutrition Intern - Spring 2026](https://jobright.ai/jobs/info/68f7ecc75dc1be601281e6e3?utm_campaign=1057&utm_source=git)** | Las Vegas, NV - UFC Headquarters | On Site | Oct 21 |
+| **[TKO](https://tkogrp.com)** | **[Performance Nutrition Intern - Spring 2026](https://jobright.ai/jobs/info/68f7ed8e5dc1be601281e793?utm_campaign=1057&utm_source=git)** | Las Vegas, NV - UFC Headquarters | On Site | Oct 21 |
 | **[Ally](http://www.ally.com/)** | **[Summer 2026 Internship – Auto Finance (Lawrenceville, GA)](https://jobright.ai/jobs/info/68cd04514d568306aabd195f?utm_campaign=1057&utm_source=git)** | Lawrenceville, GA | On Site | Oct 21 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Spring 2026 Youth Education Intern](https://jobright.ai/jobs/info/68f7bf405dc1be601281a858?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Oct 21 |
 | **[Primoris Services Corporation](http://prim.com)** | **[Dillard University Career & Internship Fair 2025](https://jobright.ai/jobs/info/68f7bee0ec6dbe7073fcac6a?utm_campaign=1057&utm_source=git)** | Sunrise, FL | On Site | Oct 21 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of Houston](https://www.uh.edu)** | **[Federal Work-Study- Student Assistant, Office of the Senior Vice President for Academic and Student](https://jobright.ai/jobs/info/68f755525dc1be601280d3f1?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Oct 21 |
 | **[Seattle Public Schools](http://www.seattleschools.org)** | **[Bilingual Instructional Assistant 1.0 FTE (2025-26 SY)](https://jobright.ai/jobs/info/68f77e155dc1be6012813de8?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Oct 21 |
 | **[Centerstone](https://centerstone.org/)** | **[Bachelor Level Intern](https://jobright.ai/jobs/info/68f76fe8b0edcf159dc7f199?utm_campaign=1057&utm_source=git)** | Sarasota, FL | On Site | Oct 21 |
-| ↳ | **[Bachelor Level Intern](https://jobright.ai/jobs/info/68f769c65dc1be6012810f96?utm_campaign=1057&utm_source=git)** | Fort Myers, FL | On Site | Oct 21 |
-| ↳ | **[Master Level Intern](https://jobright.ai/jobs/info/68f76a405dc1be6012811145?utm_campaign=1057&utm_source=git)** | Fort Myers, FL | On Site | Oct 21 |
-| **[Pegasystems](http://www.pega.com)** | **[Curriculum Developer Intern](https://jobright.ai/jobs/info/68f781a1b0edcf159dc81c21?utm_campaign=1057&utm_source=git)** | Waltham, MA | On Site | Oct 21 |
-| **[USA Triathlon](https://www.teamusa.org/usa-triathlon)** | **[Youth Program Intern](https://jobright.ai/jobs/info/68f75725b0edcf159dc7b2d8?utm_campaign=1057&utm_source=git)** | Colorado Springs, CO | On Site | Oct 21 |
-| **[Textron](http://textron.com)** | **[2026 Intern - Training & Development - New Orleans, LA](https://jobright.ai/jobs/info/68f7597d5dc1be601280e3bc?utm_campaign=1057&utm_source=git)** | New Orleans, LA | Hybrid | Oct 21 |
-| **[YMCA of the North Shore](http://www.northshoreymca.org)** | **[YMCA  Sports &amp; Recreation Management Internship - Spring 2026](https://jobright.ai/jobs/info/68f789b4b0edcf159dc82a83?utm_campaign=1057&utm_source=git)** | Beverly, MA, USA | On Site | Oct 20 |
-| **[ImpactLife](https://www.bloodcenter.org/)** | **[Illinios State University On Campus Intern](https://jobright.ai/jobs/info/68f7253f9a63986de758548e?utm_campaign=1057&utm_source=git)** | Peoria, IL | On Site | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
