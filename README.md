@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lehman College](http://www.lehman.edu)** | **[College Assistant - International Student & Scholar Services](https://jobright.ai/jobs/info/68f8a4ec6de2db04dc3e12ad?utm_campaign=1057&utm_source=git)** | Bronx, NY | Hybrid | Oct 22 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Graduate Intern - Biomedical Ethics - Temporary](https://jobright.ai/jobs/info/68f888f06de2db04dc3e0224?utm_campaign=1057&utm_source=git)** | Rochester, MN, United States | On Site | Oct 22 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Biomedical Ethics Intern - Temporary](https://jobright.ai/jobs/info/68f880874bafad6d2d76358c?utm_campaign=1057&utm_source=git)** | Rochester, MN, United States | On Site | Oct 21 |
 | **[Siemens EDA (Siemens Digital Industries Software)](https://eda.sw.siemens.com/)** | **[Strategic Student Program: Digital Enterprise Software Applications Intern (GSCS, Summer 26)](https://jobright.ai/jobs/info/68f85f4e4bafad6d2d762048?utm_campaign=1057&utm_source=git)** | Santa Clara, CA | Hybrid | Oct 21 |
@@ -86,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[MIM, Musical Instrument Museum](http://mim.org)** | **[VOLUNTEER INTERN](https://jobright.ai/jobs/info/68f82f15ec6dbe7073fd1a86?utm_campaign=1057&utm_source=git)** | Phoenix, AZ, US | On Site | Oct 21 |
 | **[Meridian Health Services Corp.](https://www.meridianhs.org/)** | **[Intern - Masters Level Clinical Therapist 6664](https://jobright.ai/jobs/info/68f82e90b0edcf159dc8f243?utm_campaign=1057&utm_source=git)** | Anderson, IN | On Site | Oct 21 |
 | **[California Correctional Health Care Services](https://cchcs.ca.gov)** | **[PSYCHOLOGIST, CF - Avenal State Prison (ASP)](https://jobright.ai/jobs/info/68f82d98b0edcf159dc8f17d?utm_campaign=1057&utm_source=git)** | Corcoran, CA | On Site | Oct 21 |
-| **[HDR](http://www.hdrinc.com)** | **[UCI ASCE Fall Civil/Environmental Career & Internship Fair](https://jobright.ai/jobs/info/68f81e035dc1be6012821254?utm_campaign=1057&utm_source=git)** | Irvine, CA | On Site | Oct 21 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Summer Intern](https://jobright.ai/jobs/info/68f81b1d5dc1be60128210dd?utm_campaign=1057&utm_source=git)** | California, United States | On Site | Oct 21 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist - Neuropsychologist](https://jobright.ai/jobs/info/68f8122db0edcf159dc8e64f?utm_campaign=1057&utm_source=git)** | Chillicothe, OH | On Site | Oct 21 |
 | **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/68f810a95dc1be6012820b3f?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Oct 21 |
