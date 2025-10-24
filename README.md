@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kleinfelder](http://www.kleinfelder.com/)** | **[University of Maine Fall 2025 Career Fair](https://jobright.ai/jobs/info/68ded49244d32141e0c02bc4?utm_campaign=1057&utm_source=git)** | Portland, ME | On Site | Oct 24 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE: Cardiovascular Center (Cardiovascular OR Internship)](https://jobright.ai/jobs/info/68fb46663c99cc1d9602a49b?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Oct 24 |
+| ↳ | **[REGISTERED NURSE: University Hospital (Adult Emergency Services Graduate Nurse Internship)](https://jobright.ai/jobs/info/68fb3f67e154835f11efaf11?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Oct 24 |
+| ↳ | **[REGISTERED NURSE: Mott Childrens Hospital (Childrens Emergency Department Graduate Nurse Internship)](https://jobright.ai/jobs/info/68fb3dea9e8e925ac6c89fc8?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Oct 24 |
+| **[St. John's University](http://www.stjohns.edu)** | **[Assistant/Associate Professor, Marketing](https://jobright.ai/jobs/info/68fb44559e8e925ac6c8a3db?utm_campaign=1057&utm_source=git)** | Queens, NY | On Site | Oct 24 |
 | **[Purdue Department of Anthropology](https://www.cla.purdue.edu/anthropology/)** | **[Student Clerical - Formatting Assistant](https://jobright.ai/jobs/info/68fb2411e154835f11ef9d41?utm_campaign=1057&utm_source=git)** | West Lafayette, IN | Hybrid | Oct 24 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[F99456 Assistant Professor, Marketing, Tahlequah](https://jobright.ai/jobs/info/68fafe4f9e8e925ac6c88345?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Oct 23 |
 | **[State of Michigan](https://michigancountymap.com/)** | **[Student Assistant](https://jobright.ai/jobs/info/68faf79a3c99cc1d96027eee?utm_campaign=1057&utm_source=git)** | Lansing, MI | On Site | Oct 23 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CPL](https://cplteam.com/locations)** | **[Internship Interest Application - Rochester Institute Technology](https://jobright.ai/jobs/info/68f9e94f8a7359609b8c7b0e?utm_campaign=1057&utm_source=git)** | Fairport, NY | On Site | Oct 23 |
 | **[Fowler College of Business at San Diego State University](https://business.sdsu.edu/)** | **[Program Director, Parent and Family Programs, (Student Services Professional IV)](https://jobright.ai/jobs/info/68f9e5087ab77a56387e80bc?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Oct 23 |
 | **[Career Center at Portland State University](https://www.pdx.edu/careers/)** | **[Student Success Program Coordinator](https://jobright.ai/jobs/info/68fae7f93c99cc1d96027505?utm_campaign=1057&utm_source=git)** | Portland, OR | On Site | Oct 23 |
-| **[CPL](https://cplteam.com/locations)** | **[Internship Interest Application - Rochester Institute Technology](https://jobright.ai/jobs/info/68f9d6b5cadb2e5a06a68047?utm_campaign=1057&utm_source=git)** | Vestal, NY | On Site | Oct 23 |
-| **[The University of South Dakota Knudson School of Law](http://www.usd.edu/law)** | **[Visiting Assistant Professor of Finance](https://jobright.ai/jobs/info/68f9f2327ab77a56387e8a4e?utm_campaign=1057&utm_source=git)** | Vermillion, SD | On Site | Oct 23 |
-| **[CPL](https://cplteam.com/locations)** | **[Internship Interest Application - Rochester Institute Technology](https://jobright.ai/jobs/info/68f9d573cadb2e5a06a67f6b?utm_campaign=1057&utm_source=git)** | Jamestown, NY | On Site | Oct 23 |
-| ↳ | **[Internship Interest Application - Rochester Institute Technology](https://jobright.ai/jobs/info/68f9d3ffcadb2e5a06a67ec3?utm_campaign=1057&utm_source=git)** | Buffalo, NY | On Site | Oct 23 |
-| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Open Rank- Ambulatory General Internist](https://jobright.ai/jobs/info/68f9d3d2cadb2e5a06a67eb4?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
