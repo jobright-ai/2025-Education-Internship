@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[F99456 Assistant Professor, Marketing, Tahlequah](https://jobright.ai/jobs/info/68fafe4f9e8e925ac6c88345?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Oct 23 |
+| **[State of Michigan](https://michigancountymap.com/)** | **[Student Assistant](https://jobright.ai/jobs/info/68faf79a3c99cc1d96027eee?utm_campaign=1057&utm_source=git)** | Lansing, MI | On Site | Oct 23 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Student Services Psychologist - Milton Somers Middle School](https://jobright.ai/jobs/info/68faec308d32c164778cca72?utm_campaign=1057&utm_source=git)** | La Plata, MD | On Site | Oct 23 |
 | **[Boys & Girls Clubs of Middle Tennessee](http://www.bgcmt.org/)** | **[INTERN - RTI/READING](https://jobright.ai/jobs/info/68fae84d3c99cc1d9602754a?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Oct 23 |
 | **[American Bankers Association](http://www.aba.com)** | **[Intern, Financial Education](https://jobright.ai/jobs/info/68fae2258d32c164778cc455?utm_campaign=1057&utm_source=git)** | District of Columbia, United States | On Site | Oct 23 |
@@ -91,9 +93,10 @@ For a complete list, click the following sortable link below:
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[MMA National Intern - Summer 2026](https://jobright.ai/jobs/info/68fa8019edd190144238d3d6?utm_campaign=1057&utm_source=git)** | Greensboro - Airport | Hybrid | Oct 23 |
 | ↳ | **[MMA National Intern - Summer 2026](https://jobright.ai/jobs/info/68fa7fd8b2c86843bf20e377?utm_campaign=1057&utm_source=git)** | Raleigh - Beechleaf | Hybrid | Oct 23 |
 | **[Apara Autism Centers](https://aparaautism.com/)** | **[RBT Intern – Trainer](https://jobright.ai/jobs/info/68fa7e89b2c86843bf20e22c?utm_campaign=1057&utm_source=git)** | Albuquerque Center | On Site | Oct 23 |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/68fa7e1367272b29af72fc8f?utm_campaign=1057&utm_source=git)** | Athens, OH | On Site | Oct 23 |
 | **[TRUMPF North America](https://www.us.trumpf.com)** | **[Digital Training Intern](https://jobright.ai/jobs/info/68d6df0a894705799a2ee43e?utm_campaign=1057&utm_source=git)** | Farmington, CT | On Site | Oct 23 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/68fa7d4767272b29af72fb77?utm_campaign=1057&utm_source=git)** | Athens, OH | On Site | Oct 23 |
 | **[Ombudsman Educational Services](https://www.ombudsman.com/)** | **[Graduate Intern](https://jobright.ai/jobs/info/68fa7c6b67272b29af72fa6d?utm_campaign=1057&utm_source=git)** | Glendale, AZ | On Site | Oct 23 |
+| **[Taylor Corporation](https://www.taylor.com/)** | **[Training & Organizational Change Management Analyst Intern](https://jobright.ai/jobs/info/68e6be3b1852e62f0081e040?utm_campaign=1057&utm_source=git)** | Minnesota, United States | Remote | Oct 23 |
 | **[Michelin](http://www.michelin.com/)** | **[2026 Summer Internship Norwood, NC](https://jobright.ai/jobs/info/68fa6f6367272b29af72f2e8?utm_campaign=1057&utm_source=git)** | NORWOOD, NC | On Site | Oct 23 |
 | **[Brigham Young University](https://byu.edu)** | **[Adjunct Teaching - St Dev 214R-Citizenship Clinic Internship (Evening or Online)](https://jobright.ai/jobs/info/68fa65daedd190144238bf8d?utm_campaign=1057&utm_source=git)** | Provo, Utah | Hybrid | Oct 23 |
 | **[Chesapeake Utilities Corporation](http://chpk.com)** | **[Instructional Design Internship](https://jobright.ai/jobs/info/68fa608aedd190144238ba68?utm_campaign=1057&utm_source=git)** | Delaware, United States | Hybrid | Oct 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CPL](https://cplteam.com/locations)** | **[Internship Interest Application - Rochester Institute Technology](https://jobright.ai/jobs/info/68f9d573cadb2e5a06a67f6b?utm_campaign=1057&utm_source=git)** | Jamestown, NY | On Site | Oct 23 |
 | ↳ | **[Internship Interest Application - Rochester Institute Technology](https://jobright.ai/jobs/info/68f9d3ffcadb2e5a06a67ec3?utm_campaign=1057&utm_source=git)** | Buffalo, NY | On Site | Oct 23 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Open Rank- Ambulatory General Internist](https://jobright.ai/jobs/info/68f9d3d2cadb2e5a06a67eb4?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Oct 23 |
-| **[Catholic Health](https://www.chsbuffalo.org/)** | **[Intern Pharmacy MSMH](https://jobright.ai/jobs/info/68f9c7eccadb2e5a06a67adb?utm_campaign=1057&utm_source=git)** | Lewiston, NY | On Site | Oct 22 |
-| **[FutureTech Insights](futuretechinsights.us)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/68f9c696cadb2e5a06a67a68?utm_campaign=1057&utm_source=git)** | Racine, WI | Remote | Oct 22 |
-| **[Catholic Charities, Diocese of Paterson](https://catholicharities.org/)** | **[Counselor Intern (Residential Programs)](https://jobright.ai/jobs/info/68f9b7ef7b89366816033cba?utm_campaign=1057&utm_source=git)** | Straight, OK | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
