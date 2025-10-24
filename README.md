@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Purdue Department of Anthropology](https://www.cla.purdue.edu/anthropology/)** | **[Student Clerical - Formatting Assistant](https://jobright.ai/jobs/info/68fb2411e154835f11ef9d41?utm_campaign=1057&utm_source=git)** | West Lafayette, IN | Hybrid | Oct 24 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[F99456 Assistant Professor, Marketing, Tahlequah](https://jobright.ai/jobs/info/68fafe4f9e8e925ac6c88345?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Oct 23 |
 | **[State of Michigan](https://michigancountymap.com/)** | **[Student Assistant](https://jobright.ai/jobs/info/68faf79a3c99cc1d96027eee?utm_campaign=1057&utm_source=git)** | Lansing, MI | On Site | Oct 23 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Student Services Psychologist - Milton Somers Middle School](https://jobright.ai/jobs/info/68faec308d32c164778cca72?utm_campaign=1057&utm_source=git)** | La Plata, MD | On Site | Oct 23 |
@@ -74,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[State of Michigan](https://michigancountymap.com/)** | **[Student Assistant](https://jobright.ai/jobs/info/68fab94567272b29af733093?utm_campaign=1057&utm_source=git)** | Lansing, MI | Hybrid | Oct 23 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern, Operations Training](https://jobright.ai/jobs/info/68fab0aa67272b29af732a9f?utm_campaign=1057&utm_source=git)** | Houston, TX | Hybrid | Oct 23 |
 | **[Holy Family Institute](https://www.hfi-pgh.org/)** | **[Director of Student Internship and Workforce Development](https://jobright.ai/jobs/info/6893ed30f47efe2113967de3?utm_campaign=1057&utm_source=git)** | Emsworth, PA | On Site | Oct 23 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[VP for Student Success - NVC - req13112](https://jobright.ai/jobs/info/68faaa58b2c86843bf210d37?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Oct 23 |
 | **[Valorantum](valorantum.us)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/68faa9a5b2c86843bf210ceb?utm_campaign=1057&utm_source=git)** | Racine, WI | Remote | Oct 23 |
 | **[Perrigo Company plc](http://www.perrigo.com)** | **[Perrigo Aspire Commercial Internship Program - Sales Training and Development Summer 2026](https://jobright.ai/jobs/info/68fa9ce667272b29af731d7f?utm_campaign=1057&utm_source=git)** | Grand Rapids, MI | Hybrid | Oct 23 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Senior Coordinator - Student Success - SPC - req13206](https://jobright.ai/jobs/info/68fa99c767272b29af731a79?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Oct 23 |
@@ -116,7 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Zurich North America](https://www.zurichna.com)** | **[ZRS Internship - Training and Development - Schaumburg, IL (Summer 2026)](https://jobright.ai/jobs/info/68ddaf1744d32141e0bfa336?utm_campaign=1057&utm_source=git)** | Schaumburg, IL | Hybrid | Oct 23 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (OT/OTA Hospital Inpatient) Fall 2026 OT Fieldwork](https://jobright.ai/jobs/info/68c28af18753a565272fb03f?utm_campaign=1057&utm_source=git)** | Elkridge, MD | On Site | Oct 23 |
 | **[University of Vermont](http://www.uvm.edu/medicine)** | **[Assistant Professor of Psychological Science: Clinical Psychologist](https://jobright.ai/jobs/info/68c2196933864f172f9bcf3a?utm_campaign=1057&utm_source=git)** | Burlington, VT | On Site | Oct 23 |
-| **[Providence Health & Services](https://www.providence.org/)** | **[Clinical Student Intern](https://jobright.ai/jobs/info/68f062c19e09d311e04314fc?utm_campaign=1057&utm_source=git)** | Spokane, WA | On Site | Oct 23 |
+| **[Providence Health & Services](https://www.providence.org/)** | **[Clinical Student Intern](https://jobright.ai/jobs/info/68ecdabf81fdd1626d3978bb?utm_campaign=1057&utm_source=git)** | Spokane, WA | On Site | Oct 23 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Learning and Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68c026a28e65e77df55beeae?utm_campaign=1057&utm_source=git)** | Greensboro, NC | On Site | Oct 23 |
 | **[Growvix](https://www.linkedin.com/company/104166605)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/68fa38667959161d33e60e09?utm_campaign=1057&utm_source=git)** | Racine, WI | Remote | Oct 23 |
 | **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Field Learning & Development Intern](https://jobright.ai/jobs/info/68f355c19a63986de75718b2?utm_campaign=1057&utm_source=git)** | St Paul, MN | On Site | Oct 23 |
