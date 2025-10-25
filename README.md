@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[Associate Dean of Research, College of Design, Architecture, Art, & Planning](https://jobright.ai/jobs/info/68fc515b93c49825ab10bf65?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Oct 24 |
+| **[HealthCorps](https://www.HealthCorps.org)** | **[Teens Make Health Happen Mentor Internship](https://jobright.ai/jobs/info/68fc4f61f55bb021a88a2a3b?utm_campaign=1057&utm_source=git)** | Palm Bay, FL | On Site | Oct 24 |
 | **[Sentry](https://link.sentry.com/Sentry-HomePage)** | **[Learning Experience Designer Internship Summer 2026](https://jobright.ai/jobs/info/68da97be07c157682e56b371?utm_campaign=1057&utm_source=git)** | Stevens Point, WI | On Site | Oct 24 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[2026 Summer Intern - Credit Administration (Hybrid - Raleigh, NC)](https://jobright.ai/jobs/info/68fc3fc84129dd33cd13a25e?utm_campaign=1057&utm_source=git)** | Raleigh, NC | Hybrid | Oct 24 |
 | **[University of South Florida](http://www.usf.edu)** | **[Career Counselor/Internship Coordinator](https://jobright.ai/jobs/info/68fc3b20f55bb021a88a1c6a?utm_campaign=1057&utm_source=git)** | St. Petersburg, FL | On Site | Oct 24 |
@@ -87,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Western University of Health Sciences](http://www.westernu.edu/)** | **[Assistant/Associate Professor of Internal Medicine](https://jobright.ai/jobs/info/68fc01edf55bb021a889f5da?utm_campaign=1057&utm_source=git)** | Lebanon, OR | On Site | Oct 24 |
 | **[Crohn's & Colitis Foundation](https://www.crohnscolitisfoundation.org/)** | **[Intern, Camp Oasis](https://jobright.ai/jobs/info/68fbff65f55bb021a889f3d9?utm_campaign=1057&utm_source=git)** | United States | Remote | Oct 24 |
 | **[Community Health Systems](http://www.chs.net)** | **[Winter RN Graduate Internship](https://jobright.ai/jobs/info/68fbff26f55bb021a889f385?utm_campaign=1057&utm_source=git)** | 1700 EAST SAUNDERS, LAREDO, TX, 78041, US | On Site | Oct 24 |
+| **[Arena](https://arena.run/)** | **[National Democratic Training Committee: Remote Paid Internships](https://jobright.ai/jobs/info/68fc4cb84129dd33cd13acc3?utm_campaign=1057&utm_source=git)** | New York, NY | Remote | Oct 24 |
 | **[Aspire Public Schools](http://aspirepublicschools.org)** | **[Ed Specialist Intern - Credential Sponsorship](https://jobright.ai/jobs/info/68fbfd064129dd33cd13759f?utm_campaign=1057&utm_source=git)** | Oakland, CA | On Site | Oct 24 |
 | **[Travelers](https://www.travelers.com)** | **[Business Insurance Underwriting Professional Development Program Internship (BI UPDP Intern)](https://jobright.ai/jobs/info/68f6a5409a65fd3458595ab3?utm_campaign=1057&utm_source=git)** | Irvine, CA | Hybrid | Oct 24 |
 | **[University of Central Oklahoma](http://www.uco.edu/)** | **[Graduate Assistant Case Manager - Counseling](https://jobright.ai/jobs/info/68fbf5f293c49825ab107e77?utm_campaign=1057&utm_source=git)** | Edmond, OK | On Site | Oct 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship Oahu](https://jobright.ai/jobs/info/68e1ee04b99ec3563b0d901d?utm_campaign=1057&utm_source=git)** | Honolulu, HI | On Site | Oct 24 |
 | **[Alcon](http://www.alcon.com)** | **[Summer 2026 Intern R&D - Strategic Programs Office (Learning & Engagement)](https://jobright.ai/jobs/info/68df09285ab4977c2e94d02c?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Oct 24 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68c332aa5001f8077bf62143?utm_campaign=1057&utm_source=git)** | Brooksville, FL | On Site | Oct 24 |
-| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68cd2b12e23def7af55b65c0?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Oct 24 |
-| **[Corebridge Financial](https://www.corebridgefinancial.com)** | **[2026 Corebridge Summer Internship Program - Financial Distributors](https://jobright.ai/jobs/info/68cd045b4d568306aabd1976?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Oct 24 |
-| **[Wanzek Construction, Inc., a MasTec Company](http://www.wanzek.com/)** | **[Field Safety Internship - 2026 Summer](https://jobright.ai/jobs/info/68c36802b8c22d38284718d3?utm_campaign=1057&utm_source=git)** | Fargo, ND | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
