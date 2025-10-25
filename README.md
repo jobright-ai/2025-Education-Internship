@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Open Rank- Ambulatory General Internist](https://jobright.ai/jobs/info/68fd1c9fe04ac838fb5ae24c?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Oct 25 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Research/Student Tutor](https://jobright.ai/jobs/info/68fd051ae04ac838fb5ae059?utm_campaign=1057&utm_source=git)** | Lorman, MS | On Site | Oct 25 |
 | **[Sutter Health](http://www.sutterhealth.org)** | **[Child Life Specialist, ACLP Completed Child Life Internship](https://jobright.ai/jobs/info/68fd02a70ab3b222462a0c13?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Oct 25 |
 | **[BlackRock](http://www.blackrock.com)** | **[2026 Quantitative Masters Internship Program - AMERS](https://jobright.ai/jobs/info/6853379f0f06028222f9d5d8?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Oct 25 |
@@ -133,7 +134,7 @@ For a complete list, click the following sortable link below:
 | **[UMass Memorial Health](https://www.ummhealth.org)** | **[Intern- TSS SU Treatment](https://jobright.ai/jobs/info/68fc195a4129dd33cd138b26?utm_campaign=1057&utm_source=git)** | Worcester, MA | On Site | Oct 24 |
 | **[Precision Castparts](http://precast.com)** | **[Co-Op, Spring/Summer 2026 - Morgantown, PA](https://jobright.ai/jobs/info/68fc1905f55bb021a88a07ad?utm_campaign=1057&utm_source=git)** | Morgantown, PA | On Site | Oct 24 |
 | **[Kids Above All](https://www.kidsaboveall.org)** | **[Clinical Internship (Waukegan)](https://jobright.ai/jobs/info/68fc3e71f55bb021a88a1d95?utm_campaign=1057&utm_source=git)** | Waukegan, IL | On Site | Oct 24 |
-| **[Sutter Health](http://www.sutterhealth.org)** | **[Child Life Specialist, ACLP Completed Child Life Internship](https://jobright.ai/jobs/info/68fc0e314129dd33cd1384ac?utm_campaign=1057&utm_source=git)** | San Francisco | On Site | Oct 24 |
+| **[Sutter Health](http://www.sutterhealth.org)** | **[Child Life Specialist, ACLP Completed Child Life Internship](https://jobright.ai/jobs/info/68fc0f344129dd33cd138609?utm_campaign=1057&utm_source=git)** | San Francisco | On Site | Oct 24 |
 | **[Lawndale Elementary School District](https://www.lawndalesd.net/)** | **[Student Supervision Assistant (Internal Applicants Only)](https://jobright.ai/jobs/info/68fc0caa4129dd33cd1382ec?utm_campaign=1057&utm_source=git)** | Lawndale, CA | On Site | Oct 24 |
 | **[Western University of Health Sciences](http://www.westernu.edu/)** | **[Assistant/Associate Professor of Internal Medicine](https://jobright.ai/jobs/info/68fc01edf55bb021a889f5da?utm_campaign=1057&utm_source=git)** | Lebanon, OR | On Site | Oct 24 |
 | **[Crohn's & Colitis Foundation](https://www.crohnscolitisfoundation.org/)** | **[Intern, Camp Oasis](https://jobright.ai/jobs/info/68fbff65f55bb021a889f3d9?utm_campaign=1057&utm_source=git)** | United States | Remote | Oct 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Soccer Shots Pittsburgh](https://www.soccershots.org/pittsburgh/)** | **[Pittsburgh North Youth Coaching Intern](https://jobright.ai/jobs/info/68fc8d94bf1f431bc45f6c6f?utm_campaign=1057&utm_source=git)** | Gibsonia, PA, US | On Site | Oct 24 |
 | **[LaAmistad, Inc.](https://laamistadinc.org)** | **[ESL/ Adult Education Intern](https://jobright.ai/jobs/info/68fc8756bf1f431bc45f6210?utm_campaign=1057&utm_source=git)** | Atlanta, GA, US | On Site | Oct 24 |
 | **[Good Shepherd Services](https://goodshepherds.org/)** | **[Internship & Career Coordinator (Bronx Lifelink)](https://jobright.ai/jobs/info/68fbeea893c49825ab107898?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Oct 24 |
-| **[Catholic Charities](http://www.catholiccharitiesla.org)** | **[Masters Level Intern](https://jobright.ai/jobs/info/68fc8c2b664c6f162a951c3a?utm_campaign=1057&utm_source=git)** | Hartford, CT, US | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
