@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lawndale Elementary School District](https://www.lawndalesd.net/)** | **[Student Supervision Assistant (Internal Applicants Only)](https://jobright.ai/jobs/info/68fd434e0ab3b222462a1633?utm_campaign=1057&utm_source=git)** | Lawndale, CA | On Site | Oct 25 |
+| **[Global Health Leaders](https://www.globalhealthleaders.net)** | **[Medical or Medical Research Internship - Short Term Study Abroad](https://jobright.ai/jobs/info/68fd375ce0c73b3a11191906?utm_campaign=1057&utm_source=git)** | United States | Remote | Oct 25 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Open Rank- Ambulatory General Internist](https://jobright.ai/jobs/info/68fd1c9fe04ac838fb5ae24c?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Oct 25 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Research/Student Tutor](https://jobright.ai/jobs/info/68fd051ae04ac838fb5ae059?utm_campaign=1057&utm_source=git)** | Lorman, MS | On Site | Oct 25 |
 | **[Sutter Health](http://www.sutterhealth.org)** | **[Child Life Specialist, ACLP Completed Child Life Internship](https://jobright.ai/jobs/info/68fd02a70ab3b222462a0c13?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Oct 25 |
@@ -146,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[Keystone Cooperative](https://www.keystonecoop.com/)** | **[Agronomy Student Coordinator Intern](https://jobright.ai/jobs/info/68fbf4c193c49825ab107ce1?utm_campaign=1057&utm_source=git)** | Decatur, IN | Hybrid | Oct 24 |
 | **[University of Kansas Medical Center](https://www.kumc.edu)** | **[College Intern - Office of Student Enrichment Health Exploration](https://jobright.ai/jobs/info/68f8403b6de2db04dc3dd260?utm_campaign=1057&utm_source=git)** | Kansas City, KS | On Site | Oct 24 |
 | **[Divergent](http://www.divergent3d.com)** | **[Summer 2026 People Ops - Learning Design & Development Intern](https://jobright.ai/jobs/info/68fc92cd664c6f162a95250e?utm_campaign=1057&utm_source=git)** | Los Angeles, CA, US | On Site | Oct 24 |
-| **[The Menta Education Group](https://menta.com/)** | **[Teacher Internship (Paid)](https://jobright.ai/jobs/info/68fc95afbf1f431bc45f78d6?utm_campaign=1057&utm_source=git)** | Phoenix, AZ, US | On Site | Oct 24 |
 | **[Catholic Charities](http://www.catholiccharitiesla.org)** | **[Masters Level Intern](https://jobright.ai/jobs/info/68fc8f3d39d0ae3279af7b46?utm_campaign=1057&utm_source=git)** | New Haven, CT, US | On Site | Oct 24 |
 | **[Virginia Museum of History & Culture](https://virginiahistory.org)** | **[Education Intern - Spring 2026](https://jobright.ai/jobs/info/68fc8de139d0ae3279af792c?utm_campaign=1057&utm_source=git)** | Richmond, VA, US | On Site | Oct 24 |
 | **[Meridian Health Services Corp.](https://www.meridianhs.org/)** | **[Intern - Masters Level Clinical Therapist 6664](https://jobright.ai/jobs/info/68fc871039d0ae3279af6e54?utm_campaign=1057&utm_source=git)** | Anderson, IN, US | On Site | Oct 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HealthCorps](https://www.HealthCorps.org)** | **[Teen Health Education Internship](https://jobright.ai/jobs/info/68fca821e0c73b3a1118e701?utm_campaign=1057&utm_source=git)** | Peebles, OH, US | On Site | Oct 24 |
 | **[Soccer Shots Pittsburgh](https://www.soccershots.org/pittsburgh/)** | **[Pittsburgh North Youth Coaching Intern](https://jobright.ai/jobs/info/68fc8d94bf1f431bc45f6c6f?utm_campaign=1057&utm_source=git)** | Gibsonia, PA, US | On Site | Oct 24 |
 | **[LaAmistad, Inc.](https://laamistadinc.org)** | **[ESL/ Adult Education Intern](https://jobright.ai/jobs/info/68fc8756bf1f431bc45f6210?utm_campaign=1057&utm_source=git)** | Atlanta, GA, US | On Site | Oct 24 |
-| **[Good Shepherd Services](https://goodshepherds.org/)** | **[Internship & Career Coordinator (Bronx Lifelink)](https://jobright.ai/jobs/info/68fbeea893c49825ab107898?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
