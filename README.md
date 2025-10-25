@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CHEManager International](https://www.chemanager-online.com/en)** | **[Research/Student Tutor](https://jobright.ai/jobs/info/68fd051ae04ac838fb5ae059?utm_campaign=1057&utm_source=git)** | Lorman, MS | On Site | Oct 25 |
+| **[Sutter Health](http://www.sutterhealth.org)** | **[Child Life Specialist, ACLP Completed Child Life Internship](https://jobright.ai/jobs/info/68fd02a70ab3b222462a0c13?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Oct 25 |
 | **[BlackRock](http://www.blackrock.com)** | **[2026 Quantitative Masters Internship Program - AMERS](https://jobright.ai/jobs/info/6853379f0f06028222f9d5d8?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Oct 25 |
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Phoenix, AZ - Digital Banking Operations](https://jobright.ai/jobs/info/68f6c76676a51a4307bde348?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Oct 25 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Global Leaders Gateway. International Campus Employment-1](https://jobright.ai/jobs/info/68fce69de04ac838fb5ad956?utm_campaign=1057&utm_source=git)** | Mountain View, CA | On Site | Oct 25 |
@@ -75,7 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Rush University Medical Center](https://www.rush.edu/)** | **[Physician -General Internal Medicine - Rush University Internist (RUI)-20629](https://jobright.ai/jobs/info/688ab37709808a6103e50adb?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Oct 25 |
 | **[California Correctional Health Care Services](https://cchcs.ca.gov)** | **[PSYCHOLOGIST, CF - Richard J. Donovan Correctional Facility (RJD)](https://jobright.ai/jobs/info/68c86fa595f5211cd2ce5528?utm_campaign=1057&utm_source=git)** | San Diego County, CA | On Site | Oct 25 |
 | ↳ | **[PSYCHOLOGIST, CF - Pleasant Valley State Prison (PVSP)](https://jobright.ai/jobs/info/68a29ac383d13d1f5b6d69a1?utm_campaign=1057&utm_source=git)** | Fresno, CA | On Site | Oct 25 |
-| ↳ | **[PSYCHOLOGIST, CF - Kern Valley State Prison (KVSP)](https://jobright.ai/jobs/info/67d61239992f58f2c90b3097?utm_campaign=1057&utm_source=git)** | Kern County, CA | On Site | Oct 25 |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/68fcb4c7e0c73b3a1118f0c3?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Oct 25 |
+| **[California Correctional Health Care Services](https://cchcs.ca.gov)** | **[PSYCHOLOGIST, CF - Kern Valley State Prison (KVSP)](https://jobright.ai/jobs/info/67d61239992f58f2c90b3097?utm_campaign=1057&utm_source=git)** | Kern County, CA | On Site | Oct 25 |
 | ↳ | **[PSYCHOLOGIST, CF - California State Prison, Corcoran (CSP-COR)](https://jobright.ai/jobs/info/67d5408d365977a90a4e72ae?utm_campaign=1057&utm_source=git)** | Corcoran, CA | On Site | Oct 25 |
 | **[Harris](https://www.harriscompany.com/)** | **[Purchasing Intern](https://jobright.ai/jobs/info/68e07e92f758fe1f97e4d9f3?utm_campaign=1057&utm_source=git)** | St Paul, MN | On Site | Oct 25 |
 | **[UW School of Medicine and Public Health](https://www.med.wisc.edu)** | **[Internal Medicine Physician - Beaver Dam Clinic](https://jobright.ai/jobs/info/68cf2946dbd9fb154ede5634?utm_campaign=1057&utm_source=git)** | Beaver Dam, WI | On Site | Oct 25 |
@@ -129,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[Apex Home Health & Hospice](http://apexhomehealth.com)** | **[Student Research Assistant](https://jobright.ai/jobs/info/68fc19874129dd33cd138b4d?utm_campaign=1057&utm_source=git)** | Lawrence, KS | On Site | Oct 24 |
 | **[UMass Memorial Health](https://www.ummhealth.org)** | **[Intern- TSS SU Treatment](https://jobright.ai/jobs/info/68fc195a4129dd33cd138b26?utm_campaign=1057&utm_source=git)** | Worcester, MA | On Site | Oct 24 |
 | **[Precision Castparts](http://precast.com)** | **[Co-Op, Spring/Summer 2026 - Morgantown, PA](https://jobright.ai/jobs/info/68fc1905f55bb021a88a07ad?utm_campaign=1057&utm_source=git)** | Morgantown, PA | On Site | Oct 24 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/68fc14ae4129dd33cd138923?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Oct 24 |
 | **[Kids Above All](https://www.kidsaboveall.org)** | **[Clinical Internship (Waukegan)](https://jobright.ai/jobs/info/68fc3e71f55bb021a88a1d95?utm_campaign=1057&utm_source=git)** | Waukegan, IL | On Site | Oct 24 |
 | **[Sutter Health](http://www.sutterhealth.org)** | **[Child Life Specialist, ACLP Completed Child Life Internship](https://jobright.ai/jobs/info/68fc0e314129dd33cd1384ac?utm_campaign=1057&utm_source=git)** | San Francisco | On Site | Oct 24 |
 | **[Lawndale Elementary School District](https://www.lawndalesd.net/)** | **[Student Supervision Assistant (Internal Applicants Only)](https://jobright.ai/jobs/info/68fc0caa4129dd33cd1382ec?utm_campaign=1057&utm_source=git)** | Lawndale, CA | On Site | Oct 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LaAmistad, Inc.](https://laamistadinc.org)** | **[ESL/ Adult Education Intern](https://jobright.ai/jobs/info/68fc8756bf1f431bc45f6210?utm_campaign=1057&utm_source=git)** | Atlanta, GA, US | On Site | Oct 24 |
 | **[Good Shepherd Services](https://goodshepherds.org/)** | **[Internship & Career Coordinator (Bronx Lifelink)](https://jobright.ai/jobs/info/68fbeea893c49825ab107898?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Oct 24 |
 | **[Catholic Charities](http://www.catholiccharitiesla.org)** | **[Masters Level Intern](https://jobright.ai/jobs/info/68fc8c2b664c6f162a951c3a?utm_campaign=1057&utm_source=git)** | Hartford, CT, US | On Site | Oct 24 |
-| **[NewPath Child & Family Solutions](https://newpath.org)** | **[Internship at NewPath](https://jobright.ai/jobs/info/68fc9cbce0c73b3a1118de11?utm_campaign=1057&utm_source=git)** | Cincinnati, OH, US | On Site | Oct 24 |
-| **[BestCare Treatment Services, Inc.](https://www.bestcaretreatment.org)** | **[Mental Health Intern - Adult Team Crook](https://jobright.ai/jobs/info/68fc88a3664c6f162a951952?utm_campaign=1057&utm_source=git)** | Prineville, OR, US | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
