@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/68fda7dbe0c73b3a11194140?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Oct 25 |
 | **[Global Kids](https://globalkids.org/)** | **[Global Kids, Student Academic Support Intern](https://jobright.ai/jobs/info/68fd829f0ab3b222462a2695?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Oct 25 |
 | ↳ | **[Global Kids, College and Career Readiness Intern](https://jobright.ai/jobs/info/68fd817ee0c73b3a11192920?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Oct 25 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Core Faculty Positions in International Politics, Open Rank](https://jobright.ai/jobs/info/68fd80c4e04ac838fb5af8af?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Oct 25 |
@@ -86,8 +87,8 @@ For a complete list, click the following sortable link below:
 | **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychotherapist Intern Outpatient Clinic- CSW / MHC / MFT/ Independent Contractor/Jacksonville](https://jobright.ai/jobs/info/68fd516a0ab3b222462a17d6?utm_campaign=1057&utm_source=git)** | Jacksonville, FL, US | On Site | Oct 25 |
 | **[Advanced Behavioral Health Inc.](https://www.abhmaryland.com/)** | **[Therapist - Paid Clinical Internship SP 26](https://jobright.ai/jobs/info/68fd5d34e0c73b3a11191f8d?utm_campaign=1057&utm_source=git)** | Greenbelt, MD, US | On Site | Oct 25 |
 | **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychotherapist Intern Outpatient Clinic- CSW / MHC / MFT/ Independent Contractor/Tampa](https://jobright.ai/jobs/info/68fd51fa0ab3b222462a1843?utm_campaign=1057&utm_source=git)** | Tampa, FL, US | On Site | Oct 25 |
-| ↳ | **[Psychotherapist Intern Outpatient Clinic- CSW / MHC / MFT/ Independent Contractor/Winter Garden](https://jobright.ai/jobs/info/68fd52b70ab3b222462a18c2?utm_campaign=1057&utm_source=git)** | Winter Garden, FL, US | On Site | Oct 25 |
 | ↳ | **[Psychotherapist Intern Outpatient Clinic- CSW / MHC / MFT/ Independent Contractor/The Villages](https://jobright.ai/jobs/info/68fd507e0ab3b222462a174a?utm_campaign=1057&utm_source=git)** | Lady Lake, FL, US | On Site | Oct 25 |
+| ↳ | **[Psychotherapist Intern Outpatient Clinic- CSW / MHC / MFT/ Independent Contractor/Winter Garden](https://jobright.ai/jobs/info/68fd52b70ab3b222462a18c2?utm_campaign=1057&utm_source=git)** | Winter Garden, FL, US | On Site | Oct 25 |
 | **[Anasazi Foundation](http://www.anasazi.org)** | **[Internship - Clinical](https://jobright.ai/jobs/info/68fd5239e0c73b3a11191bf3?utm_campaign=1057&utm_source=git)** | Mesa, AZ, US | On Site | Oct 25 |
 | **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychotherapist Intern Outpatient Clinic- CSW / MHC / MFT/ Independent Contractor/Sarasota](https://jobright.ai/jobs/info/68fd6b66e04ac838fb5af04a?utm_campaign=1057&utm_source=git)** | Sarasota, FL, US | On Site | Oct 25 |
 | ↳ | **[Psychotherapist Intern Outpatient Clinic- CSW / MHC / MFT/ Independent Contractor/Fort Myers](https://jobright.ai/jobs/info/68fd52bc0ab3b222462a18cb?utm_campaign=1057&utm_source=git)** | Fort Myers, FL, US | On Site | Oct 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of South Florida](http://www.usf.edu)** | **[Career Counselor/Internship Coordinator](https://jobright.ai/jobs/info/68fc3b20f55bb021a88a1c6a?utm_campaign=1057&utm_source=git)** | St. Petersburg, FL | On Site | Oct 24 |
 | **[Simmons University](https://www.simmons.edu/news/simmons-celebrates-womens-equality-day-2022)** | **[Joan M. Warburg Professor of International Relations](https://jobright.ai/jobs/info/68fc3a1ff55bb021a88a1bab?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Oct 24 |
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Personal Training Internship](https://jobright.ai/jobs/info/68fc387b4129dd33cd139e60?utm_campaign=1057&utm_source=git)** | Norcross, GA | On Site | Oct 24 |
-| **[The California State University](http://www.calstate.edu)** | **[Program Director, Black Leadership and Opportunity Center](https://jobright.ai/jobs/info/68fc35c693c49825ab10ad4f?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
