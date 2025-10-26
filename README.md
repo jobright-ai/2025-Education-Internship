@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Simpson College](http://www.simpson.edu/)** | **[Sports Administration Assistant Professor](https://jobright.ai/jobs/info/68fe5f34e0c73b3a111970a1?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Oct 26 |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/68fe52c50ab3b222462a6c0a?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Oct 26 |
 | **[Futridge](https://www.linkedin.com/company/101638417)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/68fe3eece04ac838fb5b3e02?utm_campaign=1057&utm_source=git)** | Racine, WI | Remote | Oct 26 |
 | **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Leadership Development Program (MBA)](https://jobright.ai/jobs/info/68a8f5696acf96396f723d43?utm_campaign=1057&utm_source=git)** | Midland, MI | On Site | Oct 26 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Agronomy Student Coordinator Intern](https://jobright.ai/jobs/info/68fe30530ab3b222462a6899?utm_campaign=1057&utm_source=git)** | Decatur County, IN | Hybrid | Oct 26 |
@@ -99,8 +101,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Psychotherapist Intern Outpatient Clinic- CSW / MHC / MFT/ Independent Contractor/Jacksonville](https://jobright.ai/jobs/info/68fd516a0ab3b222462a17d6?utm_campaign=1057&utm_source=git)** | Jacksonville, FL, US | On Site | Oct 25 |
 | **[Advanced Behavioral Health Inc.](https://www.abhmaryland.com/)** | **[Therapist - Paid Clinical Internship SP 26](https://jobright.ai/jobs/info/68fd5d34e0c73b3a11191f8d?utm_campaign=1057&utm_source=git)** | Greenbelt, MD, US | On Site | Oct 25 |
 | **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychotherapist Intern Outpatient Clinic- CSW / MHC / MFT/ Independent Contractor/Tampa](https://jobright.ai/jobs/info/68fd51fa0ab3b222462a1843?utm_campaign=1057&utm_source=git)** | Tampa, FL, US | On Site | Oct 25 |
-| ↳ | **[Psychotherapist Intern Outpatient Clinic- CSW / MHC / MFT/ Independent Contractor/The Villages](https://jobright.ai/jobs/info/68fd507e0ab3b222462a174a?utm_campaign=1057&utm_source=git)** | Lady Lake, FL, US | On Site | Oct 25 |
 | ↳ | **[Psychotherapist Intern Outpatient Clinic- CSW / MHC / MFT/ Independent Contractor/Winter Garden](https://jobright.ai/jobs/info/68fd52b70ab3b222462a18c2?utm_campaign=1057&utm_source=git)** | Winter Garden, FL, US | On Site | Oct 25 |
+| ↳ | **[Psychotherapist Intern Outpatient Clinic- CSW / MHC / MFT/ Independent Contractor/The Villages](https://jobright.ai/jobs/info/68fd507e0ab3b222462a174a?utm_campaign=1057&utm_source=git)** | Lady Lake, FL, US | On Site | Oct 25 |
 | **[Community Health of South Florida, Inc.](http://www.chisouthfl.org/)** | **[MHS II, THERAPIST (INTERN)](https://jobright.ai/jobs/info/68fd5fd70ab3b222462a1bd7?utm_campaign=1057&utm_source=git)** | Miami, FL, US | On Site | Oct 25 |
 | **[Anasazi Foundation](http://www.anasazi.org)** | **[Internship - Clinical](https://jobright.ai/jobs/info/68fd5239e0c73b3a11191bf3?utm_campaign=1057&utm_source=git)** | Mesa, AZ, US | On Site | Oct 25 |
 | **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychotherapist Intern Outpatient Clinic- CSW / MHC / MFT/ Independent Contractor/Sarasota](https://jobright.ai/jobs/info/68fd6b66e04ac838fb5af04a?utm_campaign=1057&utm_source=git)** | Sarasota, FL, US | On Site | Oct 25 |
@@ -121,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[Ohlone College](http://www.ohlone.edu/)** | **[Vice President, Student Services and Equity](https://jobright.ai/jobs/info/68fcdee5e0c73b3a111906d4?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Oct 25 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Nuclear Training Technical Intern - Welch, MN](https://jobright.ai/jobs/info/68fcdc77e04ac838fb5ad59a?utm_campaign=1057&utm_source=git)** | Welch, MN | On Site | Oct 25 |
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Summer 2026 Intern - Pharmacy Services](https://jobright.ai/jobs/info/68c64aa4c96a22563ececd2a?utm_campaign=1057&utm_source=git)** | United States | Remote | Oct 25 |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/68fcdbf20ab3b222462a01e4?utm_campaign=1057&utm_source=git)** | Racine, WI | Remote | Oct 25 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - Philadelphia (48518)](https://jobright.ai/jobs/info/68ce6c38dbd9fb154eddf76c?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Oct 25 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Oncology Medical Affairs (Heme) Intern](https://jobright.ai/jobs/info/68cf640dfb49c96ca6ea83bf?utm_campaign=1057&utm_source=git)** | Horsham, PA | Hybrid | Oct 25 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - Chicago (48514)](https://jobright.ai/jobs/info/68cc4aea16d00d2beeb1d243?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Oct 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Applewood Centers Inc](https://www.applewoodcenters.org)** | **[Residential Treatment Clinical Services Intern](https://jobright.ai/jobs/info/68fcabdb0ab3b2224629e607?utm_campaign=1057&utm_source=git)** | Cleveland, OH, US | On Site | Oct 25 |
 | **[George Junior Republic](https://gjr.org/)** | **[Therapist Intern](https://jobright.ai/jobs/info/68fcbe02e0c73b3a1118f606?utm_campaign=1057&utm_source=git)** | Franklin, IN, US | On Site | Oct 25 |
 | **[Health Wealth Safe, Inc.](https://www.healthwealthsafe.com/)** | **[Student Assistant for Finance 230](https://jobright.ai/jobs/info/68fc7e1139d0ae3279af59a5?utm_campaign=1057&utm_source=git)** | Lawrence, KS | On Site | Oct 25 |
-| **[Towson University](http://www.towson.edu/)** | **[Staff Psychologist](https://jobright.ai/jobs/info/689a371883d13d1f5b696e66?utm_campaign=1057&utm_source=git)** | Towson, MD | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
