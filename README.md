@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ohlone College](http://www.ohlone.edu/)** | **[Vice President, Student Services and Equity](https://jobright.ai/jobs/info/68ff781be04ac838fb5b8aaf?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Oct 27 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Clinical Intern](https://jobright.ai/jobs/info/689586ee73b3a600fe88857f?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Oct 27 |
+| **[Unum](http://www.unum.com)** | **[Unum Scholar Intern - Columbia, SC](https://jobright.ai/jobs/info/68cbfd647342c7623ae5d018?utm_campaign=1057&utm_source=git)** | Columbia, SC | Hybrid | Oct 27 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/68ff54e50ab3b222462aab6d?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Oct 27 |
 | **[MantraCare](https://mantracare.org/)** | **[Student Listener (Psychology Intern) – Remote](https://jobright.ai/jobs/info/68ff4baf0ab3b222462aa97b?utm_campaign=1057&utm_source=git)** | United States | Remote | Oct 27 |
 | **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/68ff4a8de04ac838fb5b7e06?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Oct 27 |
@@ -118,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychotherapist Intern Outpatient Clinic- CSW / MHC / MFT/ Independent Contractor/Jacksonville](https://jobright.ai/jobs/info/68fd516a0ab3b222462a17d6?utm_campaign=1057&utm_source=git)** | Jacksonville, FL, US | On Site | Oct 25 |
 | **[Advanced Behavioral Health Inc.](https://www.abhmaryland.com/)** | **[Therapist - Paid Clinical Internship SP 26](https://jobright.ai/jobs/info/68fd5d34e0c73b3a11191f8d?utm_campaign=1057&utm_source=git)** | Greenbelt, MD, US | On Site | Oct 25 |
 | **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychotherapist Intern Outpatient Clinic- CSW / MHC / MFT/ Independent Contractor/Tampa](https://jobright.ai/jobs/info/68fd51fa0ab3b222462a1843?utm_campaign=1057&utm_source=git)** | Tampa, FL, US | On Site | Oct 25 |
-| ↳ | **[Psychotherapist Intern Outpatient Clinic- CSW / MHC / MFT/ Independent Contractor/The Villages](https://jobright.ai/jobs/info/68fd507e0ab3b222462a174a?utm_campaign=1057&utm_source=git)** | Lady Lake, FL, US | On Site | Oct 25 |
 | ↳ | **[Psychotherapist Intern Outpatient Clinic- CSW / MHC / MFT/ Independent Contractor/Winter Garden](https://jobright.ai/jobs/info/68fd52b70ab3b222462a18c2?utm_campaign=1057&utm_source=git)** | Winter Garden, FL, US | On Site | Oct 25 |
+| ↳ | **[Psychotherapist Intern Outpatient Clinic- CSW / MHC / MFT/ Independent Contractor/The Villages](https://jobright.ai/jobs/info/68fd507e0ab3b222462a174a?utm_campaign=1057&utm_source=git)** | Lady Lake, FL, US | On Site | Oct 25 |
 | **[Anasazi Foundation](http://www.anasazi.org)** | **[Internship - Clinical](https://jobright.ai/jobs/info/68fd5239e0c73b3a11191bf3?utm_campaign=1057&utm_source=git)** | Mesa, AZ, US | On Site | Oct 25 |
 | **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychotherapist Intern Outpatient Clinic- CSW / MHC / MFT/ Independent Contractor/Sarasota](https://jobright.ai/jobs/info/68fd6b66e04ac838fb5af04a?utm_campaign=1057&utm_source=git)** | Sarasota, FL, US | On Site | Oct 25 |
 | ↳ | **[Psychotherapist Intern Outpatient Clinic- CSW / MHC / MFT/ Independent Contractor/Fort Myers](https://jobright.ai/jobs/info/68fd52bc0ab3b222462a18cb?utm_campaign=1057&utm_source=git)** | Fort Myers, FL, US | On Site | Oct 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Harris](https://www.harriscompany.com/)** | **[Purchasing Intern](https://jobright.ai/jobs/info/68e07e92f758fe1f97e4d9f3?utm_campaign=1057&utm_source=git)** | St Paul, MN | On Site | Oct 25 |
 | **[UW School of Medicine and Public Health](https://www.med.wisc.edu)** | **[Internal Medicine Physician - Beaver Dam Clinic](https://jobright.ai/jobs/info/68cf2946dbd9fb154ede5634?utm_campaign=1057&utm_source=git)** | Beaver Dam, WI | On Site | Oct 25 |
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[SAN ANTONIO - Transportation, Internship](https://jobright.ai/jobs/info/68e03c351852e62f007e916c?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Oct 25 |
-| **[CrowdStrike](http://www.crowdstrike.com)** | **[Professional Services Explorer Intern - Summer 2026](https://jobright.ai/jobs/info/68e0539cb99ec3563b0cea64?utm_campaign=1057&utm_source=git)** | Virginia, United States | Remote | Oct 25 |
-| **[Zyric Grid](https://www.linkedin.com/company/88692952)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/68fcc5870ab3b2224629f507?utm_campaign=1057&utm_source=git)** | Racine, WI | Remote | Oct 25 |
-| **[National Audubon Society](http://www.audubon.org)** | **[Knowledge Tools & Communications Intern](https://jobright.ai/jobs/info/68e01ea71852e62f007e79e7?utm_campaign=1057&utm_source=git)** | Brownsville Metro | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
