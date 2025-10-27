@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sanford Health](http://www.sanfordhealth.org)** | **[Sanford Student Nurse Internship Program - Non-Traditional UMary Students](https://jobright.ai/jobs/info/68fea45d0ab3b222462a74b6?utm_campaign=1057&utm_source=git)** | ND, Bismarck | On Site | Oct 26 |
 | **[Lawndale Elementary School District](https://www.lawndalesd.net/)** | **[Student Supervision Assistant (Internal Applicants Only)](https://jobright.ai/jobs/info/68fe9522e0c73b3a111977d6?utm_campaign=1057&utm_source=git)** | Lawndale, CA | On Site | Oct 26 |
 | **[University of La Verne](http://laverne.edu)** | **[Natural Science Division Student Assistant (25/26) - FWS (Student)](https://jobright.ai/jobs/info/68fe8527e04ac838fb5b4590?utm_campaign=1057&utm_source=git)** | La Verne, CA | Hybrid | Oct 26 |
 | **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program -Safety Data Analyst- Safety Data Analytics](https://jobright.ai/jobs/info/68f29aaf9a63986de7569436?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Oct 26 |
@@ -83,8 +84,7 @@ For a complete list, click the following sortable link below:
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Clinical Intern](https://jobright.ai/jobs/info/6818e5ac15f2a2fc81b8fc82?utm_campaign=1057&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Oct 26 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Education Intern](https://jobright.ai/jobs/info/68c4c3367279451d6a0377fe?utm_campaign=1057&utm_source=git)** | Prior Lake, MN | On Site | Oct 26 |
 | **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program - Analytics / Dashboard](https://jobright.ai/jobs/info/68de9d0e09bda65a4b62c11d?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Oct 26 |
-| **[Global Kids](https://globalkids.org/)** | **[Global Kids, Student Academic Support Intern](https://jobright.ai/jobs/info/68fd829f0ab3b222462a2695?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Oct 25 |
-| ↳ | **[Global Kids, College and Career Readiness Intern](https://jobright.ai/jobs/info/68fd817ee0c73b3a11192920?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Oct 25 |
+| **[Global Kids](https://globalkids.org/)** | **[Global Kids, College and Career Readiness Intern](https://jobright.ai/jobs/info/68fd817ee0c73b3a11192920?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Oct 25 |
 | **[Exos](http://www.teamexos.com/)** | **[Corporate Wellness Internship - Spring 2026](https://jobright.ai/jobs/info/68fd6ecde04ac838fb5af0b5?utm_campaign=1057&utm_source=git)** | Burbank, CA | On Site | Oct 25 |
 | ↳ | **[Corporate Wellness Internship - Spring 2026](https://jobright.ai/jobs/info/68fd6e9be04ac838fb5af096?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Oct 25 |
 | ↳ | **[Corporate Wellness Internship - Spring 2026](https://jobright.ai/jobs/info/68fd6e88e04ac838fb5af090?utm_campaign=1057&utm_source=git)** | Mountlake Terrace, WA | On Site | Oct 25 |
