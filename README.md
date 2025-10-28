@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Platte Valley Companies](https://pvbank.com/)** | **[College Internship (Summer 2026)](https://jobright.ai/jobs/info/69001ef00ab3b222462b201b?utm_campaign=1057&utm_source=git)** | Platte Valley Companies, 1212 Circle Drive, Scottsbluff, Nebraska, United States of America | On Site | Oct 27 |
+| **[BlueCross BlueShield of South Carolina](https://www.southcarolinablues.com)** | **[Summer Intern - Engagement Solutions and Creative Services](https://jobright.ai/jobs/info/69001c650ab3b222462b1e84?utm_campaign=1057&utm_source=git)** | Columbia, SC | Hybrid | Oct 27 |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/69000fe80ab3b222462b168f?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Oct 27 |
+| **[Xanterra Travel Collection](http://www.xanterra.com/)** | **[Summer 2026 Hospitality Internship - Oasis at Death Valley](https://jobright.ai/jobs/info/69000e3b0ab3b222462b15f9?utm_campaign=1057&utm_source=git)** | Death Valley, CA | On Site | Oct 27 |
+| **[Ally](http://www.ally.com/)** | **[Summer 2026 Internship – Auto Analytics - Loss Forecasting and Credit Risk](https://jobright.ai/jobs/info/69000c31e04ac838fb5beac1?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Oct 27 |
 | **[The Dollywood Company](https://www.dollywood.com/)** | **[Poolside Food and Beverage Internship - Dollywood's DreamMore Resort & Spa - Seasonal](https://jobright.ai/jobs/info/6900010ee0c73b3a111a163e?utm_campaign=1057&utm_source=git)** | Pigeon Forge, TN | On Site | Oct 27 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68fffc11e0c73b3a111a13c2?utm_campaign=1057&utm_source=git)** | New Braunfels, TX | On Site | Oct 27 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[2026 Change Management Summer Internship](https://jobright.ai/jobs/info/68fff74e0ab3b222462b09b1?utm_campaign=1057&utm_source=git)** | Charlotte, NC | Hybrid | Oct 27 |
@@ -107,10 +112,10 @@ For a complete list, click the following sortable link below:
 | **[MUSC Health](https://muschealth.org/locations/university-medical-center)** | **[Summer Student Youth Employment Intern-4](https://jobright.ai/jobs/info/68ff9991e0c73b3a1119c9b4?utm_campaign=1057&utm_source=git)** | Charleston | On Site | Oct 27 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH Education Research Internship -Spring 2026](https://jobright.ai/jobs/info/68ff959be0c73b3a1119c864?utm_campaign=1057&utm_source=git)** | Boston | On Site | Oct 27 |
 | **[Brunswick School](https://brunswickschool.org)** | **[Summer College Intern](https://jobright.ai/jobs/info/68ff954ae04ac838fb5b9688?utm_campaign=1057&utm_source=git)** | Greenwich, CT | On Site | Oct 27 |
-| **[Toshiba Global Commerce Solutions](https://commerce.toshiba.com)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/68ff8ba90ab3b222462abd88?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Oct 27 |
 | **[MUSC Health](https://muschealth.org/locations/university-medical-center)** | **[Summer Student Youth Employment Intern-3](https://jobright.ai/jobs/info/68ffa7940ab3b222462accde?utm_campaign=1057&utm_source=git)** | Charleston | On Site | Oct 27 |
 | **[Park Nicollet Health Services](http://www.parknicollet.com)** | **[Nurse Internship, Methodist Hospital - Summer 2026](https://jobright.ai/jobs/info/68ff863fe0c73b3a1119bfe1?utm_campaign=1057&utm_source=git)** | St Louis Park, MN | On Site | Oct 27 |
 | **[Amery Hospital & Clinic](https://www.amerymedicalcenter.org)** | **[Nurse Internship, Methodist Hospital - Summer 2026](https://jobright.ai/jobs/info/68ff859de0c73b3a1119bf5f?utm_campaign=1057&utm_source=git)** | Saint Louis Park, MN, United States | On Site | Oct 27 |
+| **[Toshiba Global Commerce Solutions](https://commerce.toshiba.com)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/68ff8031e04ac838fb5b8d21?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Oct 27 |
 | **[Park Nicollet Health Services](http://www.parknicollet.com)** | **[Nurse Internship, Methodist Hospital - Summer 2026](https://jobright.ai/jobs/info/68ff7d60e04ac838fb5b8bbf?utm_campaign=1057&utm_source=git)** | Saint Louis Park, MN, United States | On Site | Oct 27 |
 | **[University of South Florida](http://www.usf.edu)** | **[Career Experience/Internship Coordinator & Career Coach](https://jobright.ai/jobs/info/68ff7cbe0ab3b222462ab7d8?utm_campaign=1057&utm_source=git)** | St. Petersburg, FL | On Site | Oct 27 |
 | **[Basin Electric Power Cooperative](https://www.basinelectric.com/)** | **[STUDENT INTERN - IT OCM](https://jobright.ai/jobs/info/68ccf065d11b445e0bee4ad2?utm_campaign=1057&utm_source=git)** | Bismarck, ND | On Site | Oct 27 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Exos](http://www.teamexos.com/)** | **[Corporate Wellness Internship - Spring 2026](https://jobright.ai/jobs/info/68fd6ecde04ac838fb5af0b5?utm_campaign=1057&utm_source=git)** | Burbank, CA | On Site | Oct 25 |
 | ↳ | **[Corporate Wellness Internship - Spring 2026](https://jobright.ai/jobs/info/68fd6e9be04ac838fb5af096?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Oct 25 |
 | ↳ | **[Corporate Wellness Internship - Spring 2026](https://jobright.ai/jobs/info/68fd6e88e04ac838fb5af090?utm_campaign=1057&utm_source=git)** | Mountlake Terrace, WA | On Site | Oct 25 |
-| ↳ | **[Corporate Wellness Internship - Spring 2026](https://jobright.ai/jobs/info/68fd6c20e0c73b3a11192127?utm_campaign=1057&utm_source=git)** | Morrisville, NC | On Site | Oct 25 |
-| ↳ | **[Corporate Wellness Internship - Spring 2026](https://jobright.ai/jobs/info/68fd6bfde0c73b3a1119211e?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Oct 25 |
-| ↳ | **[Corporate Wellness Internship - Spring 2026](https://jobright.ai/jobs/info/68fd6bdee0c73b3a11192118?utm_campaign=1057&utm_source=git)** | Plano, TX | On Site | Oct 25 |
-| ↳ | **[Corporate Wellness Internship - Spring 2026](https://jobright.ai/jobs/info/68fd6bcae0c73b3a11192111?utm_campaign=1057&utm_source=git)** | Geismar, LA | On Site | Oct 25 |
-| **[Practice](https://practice.do/)** | **[Tutor Internship - Hillsborough](https://jobright.ai/jobs/info/68fd812fe04ac838fb5af8ef?utm_campaign=1057&utm_source=git)** | Tampa, FL, US | Remote | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
