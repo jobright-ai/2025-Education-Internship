@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lawndale Elementary School District](https://www.lawndalesd.net/)** | **[Student Supervision Assistant (Internal Applicants Only)](https://jobright.ai/jobs/info/69014d59f8ce7a040fdbeb8c?utm_campaign=1057&utm_source=git)** | Lawndale, CA | On Site | Oct 28 |
+| **[Behavioral Health Group - BHG](https://www.bhgrecovery.com)** | **[Counselor Intern - Unpaid](https://jobright.ai/jobs/info/6901458cd5259a1b3cff3c2d?utm_campaign=1057&utm_source=git)** | Lawrence, KS | On Site | Oct 28 |
+| **[Gundersen Health System](https://www.gundersenhealth.org)** | **[Nurse Intern, Hospital-West Union, IA](https://jobright.ai/jobs/info/690143364539ea1f2141ea9b?utm_campaign=1057&utm_source=git)** | West Union, IA | On Site | Oct 28 |
+| **[Syracuse University](https://ischool.syr.edu/research/research-centers/nexis/)** | **[Part-Time Faculty: COU 790 Internship (Spring 2026)](https://jobright.ai/jobs/info/69013e3ed5259a1b3cff373a?utm_campaign=1057&utm_source=git)** | Syracuse, NY | On Site | Oct 28 |
+| **[CUNY Building Performance Lab](https://www.cunybpl.org)** | **[Student Intern](https://jobright.ai/jobs/info/69013cc64539ea1f2141e62f?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Oct 28 |
+| **[Child Mind Institute](http://childmind.org)** | **[Pre-doctoral Internship, Clinical Psychology](https://jobright.ai/jobs/info/69013c0ad5259a1b3cff3532?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Oct 28 |
+| ↳ | **[Pre-doctoral Internship, Clinical Psychology](https://jobright.ai/jobs/info/69013ac8f8ce7a040fdbdd02?utm_campaign=1057&utm_source=git)** | New York, NY, US | Hybrid | Oct 28 |
 | **[Clarios](https://www.clarios.com/)** | **[Learning & Development Intern (Summer 2026)](https://jobright.ai/jobs/info/6901350cd5259a1b3cff2fc4?utm_campaign=1057&utm_source=git)** | United States, Wisconsin, Milwaukee | Hybrid | Oct 28 |
 | **[Travelers](https://www.travelers.com)** | **[Claim Professional Development Program Internship (Summer 2026)](https://jobright.ai/jobs/info/69013386d5259a1b3cff2d9e?utm_campaign=1057&utm_source=git)** | St Paul, MN | Hybrid | Oct 28 |
 | **[Oriana House, Inc.](https://www.orianahouse.org/)** | **[Wellness Intern (Spring 2026)](https://jobright.ai/jobs/info/69013243d5259a1b3cff2c37?utm_campaign=1057&utm_source=git)** | Akron, OH | On Site | Oct 28 |
@@ -102,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Pantex Plant](https://www.pantex.com)** | **[Student Intern - Science](https://jobright.ai/jobs/info/68cd1f9ce23def7af55b5a05?utm_campaign=1057&utm_source=git)** | Amarillo, TX | On Site | Oct 28 |
 | **[Providence Health & Services](https://www.providence.org/)** | **[Clinical Student Intern - Respiratory Therapy](https://jobright.ai/jobs/info/68f08d7e1f624a7ec1cf4016?utm_campaign=1057&utm_source=git)** | Spokane, WA | On Site | Oct 28 |
 | **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/68c7b5f15c25e576f7b29d6d?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Oct 28 |
-| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[High School Service Intern](https://jobright.ai/jobs/info/681984b8f36d9db33ceb5b86?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | Oct 28 |
 | **[Capstone Investment Advisors](http://capstoneco.com)** | **[Summer 2026 Non-Investment Internship](https://jobright.ai/jobs/info/6900f9104539ea1f2141b260?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Oct 28 |
 | **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/68ccfe0d77add66568abd516?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Oct 28 |
 | **[Pantex Plant](https://www.pantex.com)** | **[BSO Student Intern - Business Services, Supply Chain Management](https://jobright.ai/jobs/info/68c9a64a95f5211cd2cf2841?utm_campaign=1057&utm_source=git)** | Amarillo, TX | On Site | Oct 28 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[2026 Change Management Summer Internship](https://jobright.ai/jobs/info/68fff74e0ab3b222462b09b1?utm_campaign=1057&utm_source=git)** | Charlotte, NC | Hybrid | Oct 27 |
 | **[St. Louis Community College](https://www.stlcc.edu)** | **[Director, Youth Programs and Apprenticeships](https://jobright.ai/jobs/info/68fff38ee04ac838fb5bdc5f?utm_campaign=1057&utm_source=git)** | Bridgeton, MO | On Site | Oct 27 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Content Strategy Internship (Undergraduate)](https://jobright.ai/jobs/info/68ffefd20ab3b222462b03f4?utm_campaign=1057&utm_source=git)** | Woonsocket, RI | Hybrid | Oct 27 |
-| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/68ffed4e0ab3b222462b01bc?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Oct 27 |
-| **[Travelers](https://www.travelers.com)** | **[Underwriting Internship (Summer 2026): Business Insurance Underwriting Professional Development Program (UPDP)](https://jobright.ai/jobs/info/68f85080a628d10664e81978?utm_campaign=1057&utm_source=git)** | St Paul, MN | Hybrid | Oct 27 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Content Strategy Internship (Undergraduate)](https://jobright.ai/jobs/info/68ffe904e0c73b3a111a04dc?utm_campaign=1057&utm_source=git)** | RI - Woonsocket | Hybrid | Oct 27 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Senior Coordinator - Student Success - SPC - req13206](https://jobright.ai/jobs/info/68ffe839e0c73b3a111a03e5?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Oct 27 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Foundational Models & Agents](https://jobright.ai/jobs/info/68ffe5d7e04ac838fb5bd12e?utm_campaign=1057&utm_source=git)** | Redmond, WA | Hybrid | Oct 27 |
-| ↳ | **[Research Intern - Applied Sciences Group (Audio/Vision/NLP/Multimodal)](https://jobright.ai/jobs/info/68ffe3ece04ac838fb5bce6d?utm_campaign=1057&utm_source=git)** | Redmond, WA | Hybrid | Oct 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
