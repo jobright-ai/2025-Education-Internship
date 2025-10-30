@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/6903073600a1816c41ea3411?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Oct 29 |
+| **[Southeast Toyota Distributors, LLC](https://jmfamily.com/our-businesses/southeast-toyota-distributors/)** | **[Technical Training Specialist (TTS) Intern](https://jobright.ai/jobs/info/690304ee98707b2b0fe748b1?utm_campaign=1057&utm_source=git)** | Metro Jacksonville | Hybrid | Oct 29 |
 | **[University of Illinois Chicago (UIC) School of Public Health](https://publichealth.uic.edu)** | **[Extra Help - Program/Student Advisor - TRIO](https://jobright.ai/jobs/info/6902fb6eff462851fefe804f?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Oct 29 |
 | **[BrightSpring Health Services](https://www.brightspringhealth.com/)** | **[Mental Health Practitioner Apprentice / Intern](https://jobright.ai/jobs/info/68fbedeaf55bb021a889e3c8?utm_campaign=1057&utm_source=git)** | St Paul, MN | On Site | Oct 29 |
 | **[University of North Carolina Wilmington](https://uncw.edu/)** | **[Assistant Director of International Student and Scholar Services](https://jobright.ai/jobs/info/6902eb4fff462851fefe7931?utm_campaign=1057&utm_source=git)** | Wilmington, NC | On Site | Oct 29 |
@@ -114,7 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Respiratory Therapist Intern, Respiratory Therapy,  Per Diem, Varies,](https://jobright.ai/jobs/info/6902864f98707b2b0fe70994?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Oct 29 |
 | **[San Juan Unified School District](https://www.sanjuan.edu/rioamericano)** | **[COUNSELOR INTERN I, II @White House Counseling #6849](https://jobright.ai/jobs/info/6902827b98707b2b0fe7051f?utm_campaign=1057&utm_source=git)** | Carmichael, CA | On Site | Oct 29 |
 | **[Seattle Art Museum](http://seattleartmuseum.org)** | **[Teen Programs Internship](https://jobright.ai/jobs/info/6902825d98707b2b0fe70507?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Oct 29 |
-| **[UC Health](http://uchealth.com/)** | **[Digital Health Systems Co-op Student](https://jobright.ai/jobs/info/69027ff7ff462851fefe3e67?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Oct 29 |
+| **[UC Health](http://uchealth.com/)** | **[Digital Health Systems Co-op Student](https://jobright.ai/jobs/info/690280f7ff462851fefe3f35?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Oct 29 |
 | **[CHI](https://www.catholichealthinitiatives.org/)** | **[Nurse Graduate Intern-LPN](https://jobright.ai/jobs/info/69027a6200a1816c41e9e89c?utm_campaign=1057&utm_source=git)** | Dickinson, ND | On Site | Oct 29 |
 | **[Kubota Research & Development North America](https://www.kubota.com/innovation/location/krdna.html)** | **[Learning Experience Designer - Summer College Internship](https://jobright.ai/jobs/info/690294dcff462851fefe4ec1?utm_campaign=1057&utm_source=git)** | Gainesville, GA, 30501, United States | On Site | Oct 29 |
 | **[Axis Community Health](https://www.axishealth.org)** | **[MENTAL HEALTH INTERN](https://jobright.ai/jobs/info/689fccadcc9ee94dc9119ec8?utm_campaign=1057&utm_source=git)** | Pleasanton, CA | Hybrid | Oct 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pathful Inc.](https://www.pathful.com/)** | **[Volunteer Virtual Classroom Speaker - U.S. Only (How to get an internship)](https://jobright.ai/jobs/info/68e62ba0e8daec61499a9b35?utm_campaign=1057&utm_source=git)** | United States | Remote | Oct 29 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68c9daa484fc1901fd419ef0?utm_campaign=1057&utm_source=git)** | New Braunfels, TX | On Site | Oct 29 |
 | **[Hamilton](http://hamiltongroup.com)** | **[Hamilton Insurance Summer Internship (Richmond, VA)](https://jobright.ai/jobs/info/68ec9bb81eecd439f43fb5e4?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Oct 29 |
-| **[Trans Ova Genetics](http://transova.com)** | **[Professional Services Internship - Texas](https://jobright.ai/jobs/info/68cd13991ad6b16f0289485c?utm_campaign=1057&utm_source=git)** | Bryan, TX | On Site | Oct 29 |
-| **[UBS](https://www.ubs.com)** | **[2026 MBA Associate Internship - Global Banking](https://jobright.ai/jobs/info/68c85a81983e6768bc54bf4b?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
