@@ -57,11 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Volo Kids Foundation](http://www.volocityfoundation.org)** | **[Baltimore Kids Program and Coaching Internship](https://jobright.ai/jobs/info/6903bdedff462851fefee2ca?utm_campaign=1057&utm_source=git)** | Baltimore, MD | On Site | Oct 30 |
+| **[Cadence Education](http://www.cadence-education.com/)** | **[Intern/Teacher Aide](https://jobright.ai/jobs/info/6903b83fd64a22104aa92105?utm_campaign=1057&utm_source=git)** | Odenton, MD | On Site | Oct 30 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Career Counselor/Internship Coordinator](https://jobright.ai/jobs/info/6903b5f9ff462851fefedca7?utm_campaign=1057&utm_source=git)** | St. Petersburg, FL | On Site | Oct 30 |
 | **[Centerstone](https://centerstone.org/)** | **[Master Level Internship Spring Semester](https://jobright.ai/jobs/info/690391cf63502c0aded69ed1?utm_campaign=1057&utm_source=git)** | Seymour, IN | On Site | Oct 30 |
 | **[Fulton County Schools](http://www.fultonschools.org/en)** | **[TAG Career Intern](https://jobright.ai/jobs/info/69038e92ff462851fefec24f?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Oct 30 |
+| **[Workato](http://www.workato.com)** | **[Intern, Education Program](https://jobright.ai/jobs/info/6903b3c2d64a22104aa91f09?utm_campaign=1057&utm_source=git)** | Palo Alto, California | On Site | Oct 30 |
 | **[Merrimack College](http://www.merrimack.edu/)** | **[Internship Placement Coordinator](https://jobright.ai/jobs/info/68f17352ef766b3f0fd0e2da?utm_campaign=1057&utm_source=git)** | North Andover, MA | On Site | Oct 30 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69038b8fff462851fefec0db?utm_campaign=1057&utm_source=git)** | East Rutherford, New Jersey, USA | On Site | Oct 30 |
 | **[Invesco US](http://www.invesco.com/us)** | **[Summer 2026 Internship - Security - Early Careers](https://jobright.ai/jobs/info/69038ad263502c0aded699ea?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Oct 30 |
+| **[Midland Memorial Hospital](https://www.midlandhealth.org)** | **[Ultrasound Tech Student](https://jobright.ai/jobs/info/6903ab5663502c0aded6aeeb?utm_campaign=1057&utm_source=git)** | Midland, TX | On Site | Oct 30 |
 | **[Yates Construction](https://www.wgyates.com)** | **[INTERN](https://jobright.ai/jobs/info/68cb32e7ba798c1a501cd186?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Oct 30 |
 | **[Centerstone](https://centerstone.org/)** | **[Bachelor Level Intern Spring Semester](https://jobright.ai/jobs/info/690382ffd64a22104aa8ffee?utm_campaign=1057&utm_source=git)** | Richmond, IN | On Site | Oct 30 |
 | **[Nord Anglia Education](https://www.nordangliaeducation.com)** | **[Principal, The British International School of Charlotte](https://jobright.ai/jobs/info/690380d1ff462851fefebbe3?utm_campaign=1057&utm_source=git)** | Charlotte, AR | On Site | Oct 30 |
@@ -69,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Centerstone](https://centerstone.org/)** | **[Bachelor Level Intern Spring Semester](https://jobright.ai/jobs/info/690395ce63502c0aded6a121?utm_campaign=1057&utm_source=git)** | Bloomington, IN | On Site | Oct 30 |
 | ↳ | **[Master Level Internship Spring Semester](https://jobright.ai/jobs/info/6903957dd64a22104aa90a8b?utm_campaign=1057&utm_source=git)** | Bloomington, IN | On Site | Oct 30 |
 | ↳ | **[Bachelor Level Intern Spring Semester](https://jobright.ai/jobs/info/69039456ff462851fefec5a2?utm_campaign=1057&utm_source=git)** | Greenwood, IN | On Site | Oct 30 |
+| ↳ | **[Bachelor Level Intern Spring Semester](https://jobright.ai/jobs/info/6903a62c63502c0aded6a9e0?utm_campaign=1057&utm_source=git)** | Jeffersonville, IN | On Site | Oct 30 |
 | ↳ | **[Master Level Internship Spring Semester](https://jobright.ai/jobs/info/6903a20f63502c0aded6a796?utm_campaign=1057&utm_source=git)** | Greenwood, IN | On Site | Oct 30 |
 | ↳ | **[Master Level Internship Spring Semester](https://jobright.ai/jobs/info/6903937263502c0aded6a01d?utm_campaign=1057&utm_source=git)** | Jeffersonville, IN | On Site | Oct 30 |
 | ↳ | **[Master Level Internship Spring Semester](https://jobright.ai/jobs/info/69039ee3d64a22104aa90f25?utm_campaign=1057&utm_source=git)** | Richmond, IN | On Site | Oct 30 |
@@ -87,6 +93,7 @@ For a complete list, click the following sortable link below:
 | **[The Institute for Study Abroad](https://ifsa-butler.org)** | **[Intern](https://jobright.ai/jobs/info/68f3038776a51a4307bca0f3?utm_campaign=1057&utm_source=git)** | United States | Remote | Oct 30 |
 | **[Centerstone](https://centerstone.org/)** | **[Master Level Internship Spring Semester](https://jobright.ai/jobs/info/69036cc763502c0aded68af5?utm_campaign=1057&utm_source=git)** | Jeffersonville, Indiana | Hybrid | Oct 30 |
 | ↳ | **[Bachelor Level Intern Spring Semester](https://jobright.ai/jobs/info/69036c99ff462851fefeb1c4?utm_campaign=1057&utm_source=git)** | Bloomington, Indiana | Hybrid | Oct 30 |
+| **[Yates Construction](https://www.wgyates.com)** | **[INTERN](https://jobright.ai/jobs/info/68cb2ad29e3a822f5d243517?utm_campaign=1057&utm_source=git)** | Philadelphia, MS | On Site | Oct 30 |
 | **[Firefly Aerospace](https://fireflyspace.com)** | **[Internship - Learning & Development (Videography) - Spring 2026](https://jobright.ai/jobs/info/68e6c3041852e62f0081e358?utm_campaign=1057&utm_source=git)** | Cedar Park, TX | On Site | Oct 30 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Medical Writing Intern (PharmD)](https://jobright.ai/jobs/info/68e69b3fe8daec61499acb4c?utm_campaign=1057&utm_source=git)** | United States | Remote | Oct 30 |
 | **[Bryn Mawr Trust](https://www.bmt.com)** | **[2026 Summer Internship Program - Wealth Management](https://jobright.ai/jobs/info/68eca3841eecd439f43fc512?utm_campaign=1057&utm_source=git)** | Berwyn, PA | Hybrid | Oct 30 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/6902a19498707b2b0fe71b52?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Oct 29 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Student Engagement and Programming Graduate Assistant](https://jobright.ai/jobs/info/6902a15e00a1816c41ea05d7?utm_campaign=1057&utm_source=git)** | Athens, GA | On Site | Oct 29 |
 | **[Cottage Grove Place](https://cottagegroveplace.com)** | **[Business Applications Training Intern](https://jobright.ai/jobs/info/69029f4bff462851fefe54f3?utm_campaign=1057&utm_source=git)** | Des Moines, IA, United States | On Site | Oct 29 |
-| **[LCS](https://www.lcsnet.com/)** | **[Business Applications Training Intern](https://jobright.ai/jobs/info/69029f0c00a1816c41ea04e4?utm_campaign=1057&utm_source=git)** | 400 Locust Street, Des Moines, IA, 50309, US | On Site | Oct 29 |
-| **[State of Michigan](https://michigancountymap.com/)** | **[Student Assistant-E](https://jobright.ai/jobs/info/69029da498707b2b0fe71a01?utm_campaign=1057&utm_source=git)** | Lansing, MI | On Site | Oct 29 |
-| **[StoneRidge Senior Living Community](https://www.stoneridgelcs.com/careers/)** | **[Business Applications Training Intern](https://jobright.ai/jobs/info/69029c1900a1816c41ea0391?utm_campaign=1057&utm_source=git)** | Des Moines, IA, United States | On Site | Oct 29 |
-| **[Lawndale Elementary School District](https://www.lawndalesd.net/)** | **[Student Supervision Assistant (Internal Applicants Only)](https://jobright.ai/jobs/info/69029ba098707b2b0fe718d6?utm_campaign=1057&utm_source=git)** | Lawndale, CA | On Site | Oct 29 |
-| **[LCS](https://www.lcsnet.com/)** | **[Business Applications Training Intern](https://jobright.ai/jobs/info/69029aa698707b2b0fe71804?utm_campaign=1057&utm_source=git)** | Des Moines, IA, United States | On Site | Oct 29 |
-| **[Monte Nido Walden](https://www.waldeneatingdisorders.com)** | **[Walden - Dietetic Internship](https://jobright.ai/jobs/info/69029a6498707b2b0fe717d4?utm_campaign=1057&utm_source=git)** | Middletown, CT | On Site | Oct 29 |
-| **[South Port Square](https://southportseniorliving.com/)** | **[Business Applications Training Intern](https://jobright.ai/jobs/info/690298caff462851fefe516b?utm_campaign=1057&utm_source=git)** | Des Moines, IA, United States | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
