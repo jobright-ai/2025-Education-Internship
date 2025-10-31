@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Phillips 66](http://www.phillips66.com/)** | **[2026 University Intern - Procurement](https://jobright.ai/jobs/info/68cb93e3ba798c1a501d1fa1?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Oct 31 |
+| ↳ | **[2026 University Intern - Commercial](https://jobright.ai/jobs/info/68c7c5c5369c3763c743bf1e?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Oct 31 |
+| **[UW School of Medicine and Public Health](https://www.med.wisc.edu)** | **[Internal Medicine Physician](https://jobright.ai/jobs/info/6893eda34c7e851b90ae163b?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Oct 31 |
+| **[Hermès](https://www.hermes.com/us/en/)** | **[Client Relations Center Training Intern (2026 Semester 1) - Generation H](https://jobright.ai/jobs/info/68eca044d4b0106e703eac07?utm_campaign=1057&utm_source=git)** | Manhattan, NY | On Site | Oct 31 |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/6904aa17ff462851feff6d05?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Oct 31 |
 | **[PNC](http://www.pnc.com)** | **[Corporate & Institutional Banking Undergraduate Intern - Capital Markets](https://jobright.ai/jobs/info/690481e9ff462851feff5d59?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Oct 31 |
 | **[PPG](http://www.ppg.com)** | **[2026 PPG Primers Internship](https://jobright.ai/jobs/info/69048035d64a22104aa99f30?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Oct 31 |
+| **[University of Wyoming](https://www.uwyo.edu/)** | **[Hourly Pooled - Wyoming State Vet Lab (WSVL) Student Employee](https://jobright.ai/jobs/info/6904ab5063502c0aded747b9?utm_campaign=1057&utm_source=git)** | Laramie, WY | On Site | Oct 31 |
 | **[Montana State University - Office of Student Engagement](http://www.montana.edu/engagement)** | **[Director, International Student Services and Recruitment and Admissions](https://jobright.ai/jobs/info/690470f8d64a22104aa99887?utm_campaign=1057&utm_source=git)** | Bozeman, MT | On Site | Oct 31 |
 | **[PNC](http://www.pnc.com)** | **[Retail Product Innovation Undergraduate Intern](https://jobright.ai/jobs/info/690486dcff462851feff5f96?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Oct 31 |
 | **[Career Center at Portland State University ](https://www.pdx.edu/careers/)** | **[Student Success Program Coordinator](https://jobright.ai/jobs/info/690495b5122e8474c78d1f14?utm_campaign=1057&utm_source=git)** | Portland, OR | On Site | Oct 31 |
@@ -106,7 +112,7 @@ For a complete list, click the following sortable link below:
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Senior Coordinator - Student Success - SPC - req13206](https://jobright.ai/jobs/info/6903dacc63502c0aded6d756?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Oct 30 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Nurse Intern, Oncology, PT, 07A-7:30P](https://jobright.ai/jobs/info/6903d782d64a22104aa93d4f?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Oct 30 |
 | **[Children's Hospital of Michigan](http://childrensdmc.org)** | **[Pharmacy Intern P2 Contingent Rotate](https://jobright.ai/jobs/info/6903d56563502c0aded6d17e?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Oct 30 |
-| **[PBS SoCal](http://www.pbssocal.org/home/)** | **[Early Learning Partnerships Intern](https://jobright.ai/jobs/info/6903d541ff462851fefef7b9?utm_campaign=1057&utm_source=git)** | Burbank, CA, US | Hybrid | Oct 30 |
+| **[PBS SoCal ](http://www.pbssocal.org/home/)** | **[Early Learning Partnerships Intern](https://jobright.ai/jobs/info/6903d541ff462851fefef7b9?utm_campaign=1057&utm_source=git)** | Burbank, CA, US | Hybrid | Oct 30 |
 | ↳ | **[Early Learning Partnerships Intern](https://jobright.ai/jobs/info/6903d4bbd64a22104aa93a18?utm_campaign=1057&utm_source=git)** | Costa Mesa, CA, US | Hybrid | Oct 30 |
 | **[Navigant Credit Union](http://navigantcu.org)** | **[Bryant Student Campus Coordinator - Intern](https://jobright.ai/jobs/info/6903d3beff462851fefef5cb?utm_campaign=1057&utm_source=git)** | Smithfield, RI | On Site | Oct 30 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Nurse Intern, Med/Surg - 4 MCVI, Per Diem, 07P-7:30A](https://jobright.ai/jobs/info/6903d398ff462851fefef598?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Oct 30 |
@@ -139,22 +145,16 @@ For a complete list, click the following sortable link below:
 | **[Centerstone](https://centerstone.org/)** | **[Bachelor Level Intern Spring Semester](https://jobright.ai/jobs/info/690395ce63502c0aded6a121?utm_campaign=1057&utm_source=git)** | Bloomington, IN | On Site | Oct 30 |
 | ↳ | **[Master Level Internship Spring Semester](https://jobright.ai/jobs/info/6903957dd64a22104aa90a8b?utm_campaign=1057&utm_source=git)** | Bloomington, IN | On Site | Oct 30 |
 | ↳ | **[Bachelor Level Intern Spring Semester](https://jobright.ai/jobs/info/69039456ff462851fefec5a2?utm_campaign=1057&utm_source=git)** | Greenwood, IN | On Site | Oct 30 |
-| ↳ | **[Master Level Internship Spring Semester](https://jobright.ai/jobs/info/6903937263502c0aded6a01d?utm_campaign=1057&utm_source=git)** | Jeffersonville, IN | On Site | Oct 30 |
 | ↳ | **[Master Level Internship Spring Semester](https://jobright.ai/jobs/info/6903a20f63502c0aded6a796?utm_campaign=1057&utm_source=git)** | Greenwood, IN | On Site | Oct 30 |
 | ↳ | **[Bachelor Level Intern Spring Semester](https://jobright.ai/jobs/info/6903a62c63502c0aded6a9e0?utm_campaign=1057&utm_source=git)** | Jeffersonville, IN | On Site | Oct 30 |
+| ↳ | **[Master Level Internship Spring Semester](https://jobright.ai/jobs/info/6903937263502c0aded6a01d?utm_campaign=1057&utm_source=git)** | Jeffersonville, IN | On Site | Oct 30 |
 | ↳ | **[Master Level Internship Spring Semester](https://jobright.ai/jobs/info/69039ee3d64a22104aa90f25?utm_campaign=1057&utm_source=git)** | Richmond, IN | On Site | Oct 30 |
 | ↳ | **[Bachelor Level Intern Spring Semester](https://jobright.ai/jobs/info/69039d5f63502c0aded6a4ce?utm_campaign=1057&utm_source=git)** | Seymour, IN | On Site | Oct 30 |
-| **[Marriott International](http://travel-brilliantly.marriott.com)** | **[University Intern- Front Office](https://jobright.ai/jobs/info/69039de3ff462851fefecbf3?utm_campaign=1057&utm_source=git)** | 1000 Penn Ave, Pittsburgh, PA, 15222, US | On Site | Oct 30 |
+| **[Marriott International](https://w-hotels.marriott.com)** | **[University Intern- Front Office](https://jobright.ai/jobs/info/69039de3ff462851fefecbf3?utm_campaign=1057&utm_source=git)** | 1000 Penn Ave, Pittsburgh, PA, 15222, US | On Site | Oct 30 |
 | **[Centerstone](https://centerstone.org/)** | **[Master Level Internship Spring Semester](https://jobright.ai/jobs/info/69037344d64a22104aa8f8da?utm_campaign=1057&utm_source=git)** | Seymour, Indiana | Hybrid | Oct 30 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - North American Early Careers](https://jobright.ai/jobs/info/6900d9944539ea1f2141a17c?utm_campaign=1057&utm_source=git)** | Lincolnshire, IL | Hybrid | Oct 30 |
 | **[Centerstone](https://centerstone.org/)** | **[Master Level Internship Spring Semester](https://jobright.ai/jobs/info/69037322d64a22104aa8f8cc?utm_campaign=1057&utm_source=git)** | Richmond, Indiana | Hybrid | Oct 30 |
 | ↳ | **[Bachelor Level Intern Spring Semester](https://jobright.ai/jobs/info/69037210d64a22104aa8f842?utm_campaign=1057&utm_source=git)** | Greenwood, Indiana | Hybrid | Oct 30 |
 | **[Amgen](http://www.amgen.com)** | **[Grad Intern](https://jobright.ai/jobs/info/69038c9eff462851fefec166?utm_campaign=1057&utm_source=git)** | United States | Remote | Oct 30 |
 | **[Eruditio](https://eruditiollc.com)** | **[Design Intern – eLearning Modules](https://jobright.ai/jobs/info/69039354ff462851fefec517?utm_campaign=1057&utm_source=git)** | Charleston, South Carolina Metropolitan Area | On Site | Oct 30 |
-| **[Centerstone](https://centerstone.org/)** | **[Master Level Internship Spring Semester](https://jobright.ai/jobs/info/69036eba63502c0aded68ce7?utm_campaign=1057&utm_source=git)** | Bloomington, Indiana | Hybrid | Oct 30 |
-| ↳ | **[Bachelor Level Intern Spring Semester](https://jobright.ai/jobs/info/69036e9a63502c0aded68cd2?utm_campaign=1057&utm_source=git)** | Richmond, Indiana | Hybrid | Oct 30 |
-| **[NYC School Construction Authority (SCA)](http://nycsca.org/)** | **[Opportunity Academy Intern](https://jobright.ai/jobs/info/6902c1e400a1816c41ea12c6?utm_campaign=1057&utm_source=git)** | Queens, NY | On Site | Oct 30 |
-| **[Centerstone](https://centerstone.org/)** | **[Bachelor Level Intern Spring Semester](https://jobright.ai/jobs/info/69036d9263502c0aded68bef?utm_campaign=1057&utm_source=git)** | Seymour, Indiana | Hybrid | Oct 30 |
-| **[The Institute for Study Abroad](https://ifsa-butler.org)** | **[Intern](https://jobright.ai/jobs/info/68f3038776a51a4307bca0f3?utm_campaign=1057&utm_source=git)** | United States | Remote | Oct 30 |
-| **[Centerstone](https://centerstone.org/)** | **[Master Level Internship Spring Semester](https://jobright.ai/jobs/info/69036cc763502c0aded68af5?utm_campaign=1057&utm_source=git)** | Jeffersonville, Indiana | Hybrid | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
