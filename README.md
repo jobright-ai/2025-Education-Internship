@@ -60,6 +60,8 @@ For a complete list, click the following sortable link below:
 | **[PNC](http://www.pnc.com)** | **[Corporate & Institutional Banking Undergraduate Intern - Capital Markets](https://jobright.ai/jobs/info/690481e9ff462851feff5d59?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Oct 31 |
 | **[PPG](http://www.ppg.com)** | **[2026 PPG Primers Internship](https://jobright.ai/jobs/info/69048035d64a22104aa99f30?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Oct 31 |
 | **[Montana State University - Office of Student Engagement](http://www.montana.edu/engagement)** | **[Director, International Student Services and Recruitment and Admissions](https://jobright.ai/jobs/info/690470f8d64a22104aa99887?utm_campaign=1057&utm_source=git)** | Bozeman, MT | On Site | Oct 31 |
+| **[PNC](http://www.pnc.com)** | **[Retail Product Innovation Undergraduate Intern](https://jobright.ai/jobs/info/690486dcff462851feff5f96?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Oct 31 |
+| **[Career Center at Portland State University ](https://www.pdx.edu/careers/)** | **[Student Success Program Coordinator](https://jobright.ai/jobs/info/690495b5122e8474c78d1f14?utm_campaign=1057&utm_source=git)** | Portland, OR | On Site | Oct 31 |
 | **[Takeda](http://www.takeda.com)** | **[2026 U.S Summer Internship Program: US Health Economics and Outcomes Research Summer Intern](https://jobright.ai/jobs/info/6904410aff462851feff4424?utm_campaign=1057&utm_source=git)** | USA - MA - Cambridge - Kendall Square - 500 | Remote | Oct 30 |
 | ↳ | **[2026 Summer Internship Program: Global Insights & Analytics MBA Intern, Immunology](https://jobright.ai/jobs/info/69044b6363502c0aded722d2?utm_campaign=1057&utm_source=git)** | USA - MA - Cambridge - Binney St | Hybrid | Oct 30 |
 | **[Easterseals PORT Health](http://eastersealsPORT.com)** | **[Graduate Nurse Practitioner Intern – Spring 2026](https://jobright.ai/jobs/info/690448f8d64a22104aa98b6d?utm_campaign=1057&utm_source=git)** | Dunn, NC | On Site | Oct 30 |
@@ -137,11 +139,11 @@ For a complete list, click the following sortable link below:
 | **[Centerstone](https://centerstone.org/)** | **[Bachelor Level Intern Spring Semester](https://jobright.ai/jobs/info/690395ce63502c0aded6a121?utm_campaign=1057&utm_source=git)** | Bloomington, IN | On Site | Oct 30 |
 | ↳ | **[Master Level Internship Spring Semester](https://jobright.ai/jobs/info/6903957dd64a22104aa90a8b?utm_campaign=1057&utm_source=git)** | Bloomington, IN | On Site | Oct 30 |
 | ↳ | **[Bachelor Level Intern Spring Semester](https://jobright.ai/jobs/info/69039456ff462851fefec5a2?utm_campaign=1057&utm_source=git)** | Greenwood, IN | On Site | Oct 30 |
-| ↳ | **[Bachelor Level Intern Spring Semester](https://jobright.ai/jobs/info/6903a62c63502c0aded6a9e0?utm_campaign=1057&utm_source=git)** | Jeffersonville, IN | On Site | Oct 30 |
-| ↳ | **[Master Level Internship Spring Semester](https://jobright.ai/jobs/info/6903a20f63502c0aded6a796?utm_campaign=1057&utm_source=git)** | Greenwood, IN | On Site | Oct 30 |
 | ↳ | **[Master Level Internship Spring Semester](https://jobright.ai/jobs/info/6903937263502c0aded6a01d?utm_campaign=1057&utm_source=git)** | Jeffersonville, IN | On Site | Oct 30 |
-| ↳ | **[Bachelor Level Intern Spring Semester](https://jobright.ai/jobs/info/69039d5f63502c0aded6a4ce?utm_campaign=1057&utm_source=git)** | Seymour, IN | On Site | Oct 30 |
+| ↳ | **[Master Level Internship Spring Semester](https://jobright.ai/jobs/info/6903a20f63502c0aded6a796?utm_campaign=1057&utm_source=git)** | Greenwood, IN | On Site | Oct 30 |
+| ↳ | **[Bachelor Level Intern Spring Semester](https://jobright.ai/jobs/info/6903a62c63502c0aded6a9e0?utm_campaign=1057&utm_source=git)** | Jeffersonville, IN | On Site | Oct 30 |
 | ↳ | **[Master Level Internship Spring Semester](https://jobright.ai/jobs/info/69039ee3d64a22104aa90f25?utm_campaign=1057&utm_source=git)** | Richmond, IN | On Site | Oct 30 |
+| ↳ | **[Bachelor Level Intern Spring Semester](https://jobright.ai/jobs/info/69039d5f63502c0aded6a4ce?utm_campaign=1057&utm_source=git)** | Seymour, IN | On Site | Oct 30 |
 | **[Marriott International](http://travel-brilliantly.marriott.com)** | **[University Intern- Front Office](https://jobright.ai/jobs/info/69039de3ff462851fefecbf3?utm_campaign=1057&utm_source=git)** | 1000 Penn Ave, Pittsburgh, PA, 15222, US | On Site | Oct 30 |
 | **[Centerstone](https://centerstone.org/)** | **[Master Level Internship Spring Semester](https://jobright.ai/jobs/info/69037344d64a22104aa8f8da?utm_campaign=1057&utm_source=git)** | Seymour, Indiana | Hybrid | Oct 30 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - North American Early Careers](https://jobright.ai/jobs/info/6900d9944539ea1f2141a17c?utm_campaign=1057&utm_source=git)** | Lincolnshire, IL | Hybrid | Oct 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Centerstone](https://centerstone.org/)** | **[Bachelor Level Intern Spring Semester](https://jobright.ai/jobs/info/69036d9263502c0aded68bef?utm_campaign=1057&utm_source=git)** | Seymour, Indiana | Hybrid | Oct 30 |
 | **[The Institute for Study Abroad](https://ifsa-butler.org)** | **[Intern](https://jobright.ai/jobs/info/68f3038776a51a4307bca0f3?utm_campaign=1057&utm_source=git)** | United States | Remote | Oct 30 |
 | **[Centerstone](https://centerstone.org/)** | **[Master Level Internship Spring Semester](https://jobright.ai/jobs/info/69036cc763502c0aded68af5?utm_campaign=1057&utm_source=git)** | Jeffersonville, Indiana | Hybrid | Oct 30 |
-| ↳ | **[Bachelor Level Intern Spring Semester](https://jobright.ai/jobs/info/69036c99ff462851fefeb1c4?utm_campaign=1057&utm_source=git)** | Bloomington, Indiana | Hybrid | Oct 30 |
-| **[Yates Construction](https://www.wgyates.com)** | **[INTERN](https://jobright.ai/jobs/info/68cb2ad29e3a822f5d243517?utm_campaign=1057&utm_source=git)** | Philadelphia, MS | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
