@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychotherapist Intern Outpatient Clinic – CSW / MHC / MFT Full-Time Employment](https://jobright.ai/jobs/info/69067266ff462851fe004a0b?utm_campaign=1057&utm_source=git)** | Punta Gorda, FL | On Site | Nov 01 |
+| ↳ | **[Psychotherapist Intern Outpatient Clinic – CSW / MHC / MFT Full-Time Employment](https://jobright.ai/jobs/info/69067176122e8474c78e0193?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Nov 01 |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Senior Coordinator - Student Success - SPC - req13206](https://jobright.ai/jobs/info/69067156ff462851fe0049c8?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Nov 01 |
+| **[Orbient 24](orbient24.us)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/69066d65ff462851fe004971?utm_campaign=1057&utm_source=git)** | Racine, WI | Remote | Nov 01 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Career Counselor/Internship Coordinator](https://jobright.ai/jobs/info/6906490363502c0aded81e73?utm_campaign=1057&utm_source=git)** | St. Petersburg, FL | On Site | Nov 01 |
 | **[University of Illinois Chicago (UIC) School of Public Health](https://publichealth.uic.edu)** | **[Extra Help - Program/Student Advisor - TRIO](https://jobright.ai/jobs/info/69064825122e8474c78dfa64?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Nov 01 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/69064511122e8474c78dfa14?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Nov 01 |
@@ -107,7 +111,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Internship Program: Medical Affairs - Field Intern](https://jobright.ai/jobs/info/69058ec9122e8474c78da0db?utm_campaign=1057&utm_source=git)** | Texas, United States | Remote | Oct 31 |
 | ↳ | **[2026 Summer Internship Program: US Medical Information and Review Intern](https://jobright.ai/jobs/info/69058d3aff462851feffe8a1?utm_campaign=1057&utm_source=git)** | Lexington, MA | On Site | Oct 31 |
 | ↳ | **[2026 Summer Internship Program: Community Engagement Intern](https://jobright.ai/jobs/info/69058c3eff462851feffe83f?utm_campaign=1057&utm_source=git)** | Cambridge, MA | Hybrid | Oct 31 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Senior Coordinator - Student Success - SPC - req13206](https://jobright.ai/jobs/info/690585e4122e8474c78d9c0d?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Oct 31 |
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[PT Intern](https://jobright.ai/jobs/info/69058193122e8474c78d996c?utm_campaign=1057&utm_source=git)** | Peoria, AZ | On Site | Oct 31 |
 | **[WHYY](http://whyy.org/)** | **[Media Arts Education Intern](https://jobright.ai/jobs/info/69057c70ff462851feffde76?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Oct 31 |
 | **[Optimum](http://www.optimum.com)** | **[Intern](https://jobright.ai/jobs/info/690573d563502c0aded7b319?utm_campaign=1057&utm_source=git)** | Bethpage, NY | On Site | Oct 31 |
@@ -138,7 +141,8 @@ For a complete list, click the following sortable link below:
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Nurse Intern, Emergency Department, PT, 7A-7:30P](https://jobright.ai/jobs/info/69052b48122e8474c78d6f31?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Oct 31 |
 | **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Pharmacy Intern, Experiential Rotation](https://jobright.ai/jobs/info/69052864122e8474c78d6ba3?utm_campaign=1057&utm_source=git)** | Olathe, KS | On Site | Oct 31 |
 | **[JFK Johnson Rehabilitation Institute ](http://JFKJohnson.org)** | **[CLINICAL PSYCHOLOGIST, PER DIEM](https://jobright.ai/jobs/info/69052674122e8474c78d6a32?utm_campaign=1057&utm_source=git)** | Maywood, NJ | On Site | Oct 31 |
-| **[Baptist Health](http://careers.baptisthealth.net)** | **[Nurse Intern, Observation, PT, 07P-7:30A](https://jobright.ai/jobs/info/690524c363502c0aded78a87?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Oct 31 |
+| **[Baptist Health](http://careers.baptisthealth.net)** | **[Nurse Intern, Observation, PT, 07A-7:30P](https://jobright.ai/jobs/info/69052615ff462851feffafbe?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Oct 31 |
+| ↳ | **[Nurse Intern, Observation, PT, 07P-7:30A](https://jobright.ai/jobs/info/690524c363502c0aded78a87?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Oct 31 |
 | **[Rutgers University](http://www.rutgers.edu)** | **[Student Assistant](https://jobright.ai/jobs/info/69052364ff462851feffad7f?utm_campaign=1057&utm_source=git)** | Newark, NJ | On Site | Oct 31 |
 | **[Child Mind Institute](http://childmind.org)** | **[Intern, Summer Program](https://jobright.ai/jobs/info/6905232b63502c0aded788dd?utm_campaign=1057&utm_source=git)** | New York, NY, US | On Site | Oct 31 |
 | **[Opelousas General Health System](https://www.opelousasgeneral.com)** | **[Nurse Intern - For RN Clinical Students](https://jobright.ai/jobs/info/68f1c131f462172a5a7dc0ac?utm_campaign=1057&utm_source=git)** | Opelousas, LA | On Site | Oct 31 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Girl Scouts of Greater Chicago & Northwest Indiana](http://www.girlscoutsgcnwi.org)** | **[Outdoor Education Program Intern - Camp Juniper Knoll](https://jobright.ai/jobs/info/69050ee9ff462851feff9f8b?utm_campaign=1057&utm_source=git)** | East Troy, WI | On Site | Oct 31 |
 | **[Presence](https://presence.com)** | **[Paid Internship- In-Person Therapy Support Specialist](https://jobright.ai/jobs/info/69050d3eff462851feff9e15?utm_campaign=1057&utm_source=git)** | Chicago, IL, USA | On Site | Oct 31 |
 | **[Apara Autism Centers](https://aparaautism.com/)** | **[RBT Intern – Trainer](https://jobright.ai/jobs/info/69050b1263502c0aded7773e?utm_campaign=1057&utm_source=git)** | Plano Center | On Site | Oct 31 |
-| **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Pharmacy Intern, Experiential Rotation](https://jobright.ai/jobs/info/69050a3dff462851feff9bda?utm_campaign=1057&utm_source=git)** | Olathe, Kansas | On Site | Oct 31 |
-| **[Grand Itasca Clinic & Hospital](https://granditasca.org/)** | **[Medical Assistant Intern](https://jobright.ai/jobs/info/69050a06ff462851feff9bb1?utm_campaign=1057&utm_source=git)** | Grand Rapids,MN,US | On Site | Oct 31 |
-| **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Associate Dean of Research, College of Design, Architecture, Art, & Planning](https://jobright.ai/jobs/info/690528d9ff462851feffb299?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Oct 31 |
-| **[Apara Autism Centers](https://aparaautism.com/)** | **[RBT Intern – Trainer](https://jobright.ai/jobs/info/690540c0ff462851feffc474?utm_campaign=1057&utm_source=git)** | Lewisville Center | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
