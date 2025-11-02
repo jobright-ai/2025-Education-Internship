@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TalentSphere Global](talentsphereglobal.us)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/6907a95a63502c0aded88318?utm_campaign=1057&utm_source=git)** | Racine, WI | Remote | Nov 02 |
+| **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/69079ce1122e8474c78e5d48?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Nov 02 |
 | **[Apogee Architectural Metals](http://www.wausauwindow.com/)** | **[Summer Internships - Wausau, WI](https://jobright.ai/jobs/info/68cde4011ad6b16f0289fb06?utm_campaign=1057&utm_source=git)** | Wausau, WI | On Site | Nov 02 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Global Supply Chain Intern - Summer 2026 - SHPE](https://jobright.ai/jobs/info/6904c15b63502c0aded74edd?utm_campaign=1057&utm_source=git)** | North Carolina, United States | On Site | Nov 02 |
 | **[Dexter](https://www.dexteraxle.com/)** | **[Working Student](https://jobright.ai/jobs/info/68bfc1ea702aa35207aa8eed?utm_campaign=1057&utm_source=git)** | Seagoville, TX | On Site | Nov 02 |
@@ -84,10 +86,10 @@ For a complete list, click the following sortable link below:
 | **[Lockton](https://global.lockton.com)** | **[Summer 2026 Internship - Birmingham, MI](https://jobright.ai/jobs/info/68ce4352b2a74e1837ee0ea8?utm_campaign=1057&utm_source=git)** | Birmingham, MI | On Site | Nov 02 |
 | **[New York Botanical Garden](http://www.nybg.org)** | **[GreenSchool Science Education Intern](https://jobright.ai/jobs/info/69074e10ff462851fe00857c?utm_campaign=1057&utm_source=git)** | Bronx, NY | Hybrid | Nov 02 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Neuro Cardio - APP - Internal Medicine](https://jobright.ai/jobs/info/69070811122e8474c78e2067?utm_campaign=1057&utm_source=git)** | Florida, United States | On Site | Nov 02 |
-| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Westlake Village, CA - Training and Development Team](https://jobright.ai/jobs/info/6906e99d63502c0aded83bdf?utm_campaign=1057&utm_source=git)** | Westlake Village, CA | On Site | Nov 01 |
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af1aa31f0a2a568a05f103?utm_campaign=1057&utm_source=git)** | Ormond Beach, Florida, United States | On Site | Nov 01 |
 | **[AmeriHome Mortgage Company, LLC](http://amerihome.com)** | **[Summer 2026 Internship - Westlake Village, CA - Training and Development Team](https://jobright.ai/jobs/info/6906dc13ff462851fe005d39?utm_campaign=1057&utm_source=git)** | Westlake Village, CA | On Site | Nov 01 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[International Student Recruitment and Support SpecialistI](https://jobright.ai/jobs/info/6906c511122e8474c78e0bd7?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Nov 01 |
+| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Westlake Village, CA - Training and Development Team](https://jobright.ai/jobs/info/6906b806ff462851fe00500e?utm_campaign=1057&utm_source=git)** | Westlake Village, CA | On Site | Nov 01 |
 | **[International Friendships, Inc.](https://www.ifiusa.org)** | **[Internship Coordinator](https://jobright.ai/jobs/info/69071af263502c0aded84ccb?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Nov 01 |
 | **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychotherapist Intern Outpatient Clinic – CSW / MHC / MFT Full-Time Employment](https://jobright.ai/jobs/info/69067266ff462851fe004a0b?utm_campaign=1057&utm_source=git)** | Punta Gorda, FL | On Site | Nov 01 |
 | ↳ | **[Psychotherapist Intern Outpatient Clinic – CSW / MHC / MFT Full-Time Employment](https://jobright.ai/jobs/info/69067176122e8474c78e0193?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Nov 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AdventHealth](https://www.adventhealth.com/)** | **[Intern PRN](https://jobright.ai/jobs/info/69054f86122e8474c78d8349?utm_campaign=1057&utm_source=git)** | Burleson, TX | On Site | Oct 31 |
 | **[Kitsap Mental Health Services](https://www.kitsapmentalhealth.org/)** | **[Bachelor's Level Internship](https://jobright.ai/jobs/info/690743fa63502c0aded8595a?utm_campaign=1057&utm_source=git)** | Bremerton, Washington | On Site | Oct 31 |
 | **[Virginia's Community College System](https://www.vccs.edu/)** | **[Senior Advisor - Life Sciences](https://jobright.ai/jobs/info/6905479b63502c0aded7a1bf?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Oct 31 |
-| **[Altorfer Cat](https://www.altorfer.com/)** | **[ThinkBIG  Internship - Fall 2026 Urbana Heavy](https://jobright.ai/jobs/info/690546d563502c0aded7a14e?utm_campaign=1057&utm_source=git)** | Urbana, IL | On Site | Oct 31 |
-| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Climbing Arborist Internship / Chesterfield, MI](https://jobright.ai/jobs/info/69053ed3122e8474c78d7d51?utm_campaign=1057&utm_source=git)** | New Baltimore, MI | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
