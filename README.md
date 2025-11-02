@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[International Student Recruitment and Support SpecialistI](https://jobright.ai/jobs/info/6906c511122e8474c78e0bd7?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Nov 01 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Coordinator: International Baccalaureate DP/CP Site (School Based)](https://jobright.ai/jobs/info/6906c27a63502c0aded82ec7?utm_campaign=1057&utm_source=git)** | Annapolis, MD | On Site | Nov 01 |
+| ↳ | **[Site Director at International Leadership of Texas](https://jobright.ai/jobs/info/6906c0ec63502c0aded82de1?utm_campaign=1057&utm_source=git)** | Pearland, TX | On Site | Nov 01 |
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Westlake Village, CA - Training and Development Team](https://jobright.ai/jobs/info/6906b806ff462851fe00500e?utm_campaign=1057&utm_source=git)** | Westlake Village, CA | On Site | Nov 01 |
 | **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychotherapist Intern Outpatient Clinic – CSW / MHC / MFT Full-Time Employment](https://jobright.ai/jobs/info/69067266ff462851fe004a0b?utm_campaign=1057&utm_source=git)** | Punta Gorda, FL | On Site | Nov 01 |
 | ↳ | **[Psychotherapist Intern Outpatient Clinic – CSW / MHC / MFT Full-Time Employment](https://jobright.ai/jobs/info/69067176122e8474c78e0193?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Nov 01 |
@@ -141,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Nurse Intern, Emergency Department, PT, 7A-7:30P](https://jobright.ai/jobs/info/69052b48122e8474c78d6f31?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Oct 31 |
 | **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Pharmacy Intern, Experiential Rotation](https://jobright.ai/jobs/info/69052864122e8474c78d6ba3?utm_campaign=1057&utm_source=git)** | Olathe, KS | On Site | Oct 31 |
 | **[JFK Johnson Rehabilitation Institute ](http://JFKJohnson.org)** | **[CLINICAL PSYCHOLOGIST, PER DIEM](https://jobright.ai/jobs/info/69052674122e8474c78d6a32?utm_campaign=1057&utm_source=git)** | Maywood, NJ | On Site | Oct 31 |
-| **[Baptist Health](http://careers.baptisthealth.net)** | **[Nurse Intern, Observation, PT, 07A-7:30P](https://jobright.ai/jobs/info/69052615ff462851feffafbe?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Oct 31 |
 | **[Child Mind Institute](http://childmind.org)** | **[Intern, Summer Program](https://jobright.ai/jobs/info/6905251e122e8474c78d6942?utm_campaign=1057&utm_source=git)** | New York, NY, US | On Site | Oct 31 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Nurse Intern, Observation, PT, 07P-7:30A](https://jobright.ai/jobs/info/690524c363502c0aded78a87?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Oct 31 |
 | **[Opelousas General Health System](https://www.opelousasgeneral.com)** | **[Nurse Intern - For RN Clinical Students](https://jobright.ai/jobs/info/68f1c131f462172a5a7dc0ac?utm_campaign=1057&utm_source=git)** | Opelousas, LA | On Site | Oct 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/68ec9beb1eecd439f43fb681?utm_campaign=1057&utm_source=git)** | Vandalia, OH | On Site | Oct 31 |
 | **[Versiti Blood Center of Illinois](http://www.versiti.org/illinois)** | **[Summer 2026 Student Internship - Volunteer Services- Organ Procurement Organization- Donate Life](https://jobright.ai/jobs/info/69055334122e8474c78d8403?utm_campaign=1057&utm_source=git)** | US-WI-Milwaukee | On Site | Oct 31 |
 | **[Girl Scouts of Greater Chicago & Northwest Indiana](http://www.girlscoutsgcnwi.org)** | **[Outdoor Education Program Intern - Camp Juniper Knoll](https://jobright.ai/jobs/info/69050ee9ff462851feff9f8b?utm_campaign=1057&utm_source=git)** | East Troy, WI | On Site | Oct 31 |
-| **[Presence](https://presence.com)** | **[Paid Internship- In-Person Therapy Support Specialist](https://jobright.ai/jobs/info/69050d3eff462851feff9e15?utm_campaign=1057&utm_source=git)** | Chicago, IL, USA | On Site | Oct 31 |
-| **[Apara Autism Centers](https://aparaautism.com/)** | **[RBT Intern – Trainer](https://jobright.ai/jobs/info/69050b1263502c0aded7773e?utm_campaign=1057&utm_source=git)** | Plano Center | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
