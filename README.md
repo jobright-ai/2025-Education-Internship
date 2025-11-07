@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hoyleton Youth & Family Services](https://hoyleton.org/)** | **[Bilingual Clinical Intern](https://jobright.ai/jobs/info/690db647221b890c27808f2f?utm_campaign=1057&utm_source=git)** | Fairview Heights, IL | On Site | Nov 07 |
+| **[NYC Health + Hospitals](http://www.nychealthandhospitals.org)** | **[Student Intern Level II](https://jobright.ai/jobs/info/690db26244146d3b6ec4ef2b?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Nov 07 |
 | **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Intern Program Coordinator-Workforce Partnerships](https://jobright.ai/jobs/info/690d9d28d046ab6061cf785f?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Nov 06 |
 | **[County of Los Angeles](https://lacounty.gov)** | **[CLINICAL PSYCHOLOGY INTERN](https://jobright.ai/jobs/info/690d9a6c221b890c27807ef1?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Nov 06 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Patient Access Training Intern](https://jobright.ai/jobs/info/690d8d07d046ab6061cf70da?utm_campaign=1057&utm_source=git)** | Lexington, MA | Hybrid | Nov 06 |
+| **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/690daa08d046ab6061cf8082?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Nov 06 |
 | **[Easterseals PORT Health](http://eastersealsPORT.com)** | **[Intern, Facility Based Clinic Spring 2026](https://jobright.ai/jobs/info/690d7865d046ab6061cf67aa?utm_campaign=1057&utm_source=git)** | Greenville, NC | On Site | Nov 06 |
 | **[UHS](https://uhs.com)** | **[Activity Therapist - Internship](https://jobright.ai/jobs/info/690d75ee221b890c27806ef8?utm_campaign=1057&utm_source=git)** | LOUISVILLE, Kentucky | On Site | Nov 06 |
 | **[North Memorial Health](https://northmemorial.com/)** | **[Pharmacy Internship/Externship: First & Second Year Students](https://jobright.ai/jobs/info/690d67c84a1b456627b21094?utm_campaign=1057&utm_source=git)** | Twin Cities Area | On Site | Nov 06 |
@@ -117,10 +120,10 @@ For a complete list, click the following sortable link below:
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[Inclusion and Belonging Intern: Spring 2026](https://jobright.ai/jobs/info/68d473138c62e63bc7fe96bf?utm_campaign=1057&utm_source=git)** | Bentonville, AR | On Site | Nov 06 |
 | **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/690cdaf3d046ab6061cf0062?utm_campaign=1057&utm_source=git)** | Racine, WI | Remote | Nov 06 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68f033fdde50091dbfa53396?utm_campaign=1057&utm_source=git)** | Rialto, CA | On Site | Nov 06 |
+| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT CORPORATE ACCOUNTING](https://jobright.ai/jobs/info/68d4520f17554c2d9eef8669?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Nov 06 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[2026 Summer Intern - Commercial Credit (Hybrid - NYC, NY)](https://jobright.ai/jobs/info/68f05f402e327452a0a4c4c9?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Nov 06 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[Adult Public Programs Intern: Spring 2026](https://jobright.ai/jobs/info/68d471d28c62e63bc7fe9578?utm_campaign=1057&utm_source=git)** | Bentonville, AR | On Site | Nov 06 |
 | **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/68f01f01de50091dbfa51d81?utm_campaign=1057&utm_source=git)** | Conshohocken, PA | On Site | Nov 06 |
-| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT CORPORATE ACCOUNTING](https://jobright.ai/jobs/info/68d45bb18c62e63bc7fe8a26?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Nov 06 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Medical Writing Intern, Market Access (Undergraduate)](https://jobright.ai/jobs/info/68efd8079821486c423c7ae7?utm_campaign=1057&utm_source=git)** | United States | Remote | Nov 06 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Medical Writing Intern, Market Access (Undergraduate)](https://jobright.ai/jobs/info/68efd83e9821486c423c7b12?utm_campaign=1057&utm_source=git)** | United States | Remote | Nov 06 |
 | **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/68f0008378ba1621431e185a?utm_campaign=1057&utm_source=git)** | Jessup, MD | On Site | Nov 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/690c2c854a1b456627b16c64?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Nov 05 |
 | **[Elgin Community College](http://www.elgin.edu/)** | **[CRSS Internship and Training Coordinator](https://jobright.ai/jobs/info/6903e542d64a22104aa94ad1?utm_campaign=1057&utm_source=git)** | Elgin, IL | On Site | Nov 05 |
 | **[Easterseals PORT Health](http://eastersealsPORT.com)** | **[Intern](https://jobright.ai/jobs/info/690c221bd046ab6061ceb456?utm_campaign=1057&utm_source=git)** | Goldsboro, NC | On Site | Nov 05 |
-| **[Saint Mary-of-the-Woods College](http://www.smwc.edu/)** | **[Student Employment - Education Intern](https://jobright.ai/jobs/info/690c11e6d046ab6061ceaa4b?utm_campaign=1057&utm_source=git)** | Saint Mary-of-the-Woods, IN | On Site | Nov 05 |
-| **[FOX Sports](http://foxsports.com)** | **[Spring 2026 FOX Sports Internship Program - Chicago, IL](https://jobright.ai/jobs/info/690c11784a1b456627b15c4e?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Nov 05 |
-| **[Axis Community Health](https://www.axishealth.org)** | **[MENTAL HEALTH INTERN](https://jobright.ai/jobs/info/689fccadcc9ee94dc9119ec8?utm_campaign=1057&utm_source=git)** | Pleasanton, CA | Hybrid | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
