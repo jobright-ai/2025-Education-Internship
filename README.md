@@ -57,8 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[Foster Care Case Management Intern (Summer / Fall 2026)](https://jobright.ai/jobs/info/690e44bc221b890c2780c34b?utm_campaign=1057&utm_source=git)** | Shaker Heights, OH | Hybrid | Nov 07 |
+| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Global Training and Documentation Intern](https://jobright.ai/jobs/info/690e63e0221b890c2780d6d4?utm_campaign=1057&utm_source=git)** | Lexington, MA | Hybrid | Nov 07 |
+| **[Grand Itasca Clinic & Hospital](https://granditasca.org/)** | **[Nursing Assistant Intern](https://jobright.ai/jobs/info/690e575c221b890c2780cec4?utm_campaign=1057&utm_source=git)** | Grand Rapids, MN | On Site | Nov 07 |
+| **[Elwyn](https://www.elwyn.org)** | **[Intern - Children's Behavioral Health T-Camp](https://jobright.ai/jobs/info/690e52edd046ab6061cfc4d0?utm_campaign=1057&utm_source=git)** | Elwyn, PA | On Site | Nov 07 |
+| **[College of Health and Human Sciences at Texas Tech University](http://www.depts.ttu.edu/hs/)** | **[Department Intern Heritage Education](https://jobright.ai/jobs/info/690e4f5844146d3b6ec52ca9?utm_campaign=1057&utm_source=git)** | Lubbock | On Site | Nov 07 |
+| **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[Prevention Services Intern (Summer 2026)](https://jobright.ai/jobs/info/690e652444146d3b6ec53ae4?utm_campaign=1057&utm_source=git)** | Shaker Heights, OH | On Site | Nov 07 |
+| ↳ | **[Foster Care Case Management Intern (Summer / Fall 2026)](https://jobright.ai/jobs/info/690e44bc221b890c2780c34b?utm_campaign=1057&utm_source=git)** | Shaker Heights, OH | Hybrid | Nov 07 |
 | **[Woodberry Associates](https://www.woodberryassociates.com)** | **[Spring 2026 Intern](https://jobright.ai/jobs/info/68e6d893ae2b894b1d71ebcb?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Nov 07 |
+| **[Blue & Co., LLC](https://www.blueandco.com/)** | **[JUMPSTART Summer Leadership Program-Hosted in Cincinnati, OH](https://jobright.ai/jobs/info/690e653b221b890c2780d7bd?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Nov 07 |
+| **[Swissnex in San Francisco](http://www.swissnexsanfrancisco.org)** | **[Startup Programs Associate (Internship)](https://jobright.ai/jobs/info/690e5dbcd046ab6061cfcb92?utm_campaign=1057&utm_source=git)** | San Francisco, CA | Hybrid | Nov 07 |
+| **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[Child & Adolescent Group Services Intern (Fall 2026)](https://jobright.ai/jobs/info/690e5e35d046ab6061cfcc10?utm_campaign=1057&utm_source=git)** | Shaker Heights, OH | On Site | Nov 07 |
 | **[Epsilon](https://www.epsilon.com/us)** | **[Intern Program – IT Rotational Intern (Year-Round)](https://jobright.ai/jobs/info/68f15d54e6870116b1f57b99?utm_campaign=1057&utm_source=git)** | Irving, TX | Hybrid | Nov 07 |
 | **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/68cd9657b2a74e1837ed9323?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Nov 07 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Trading Internship](https://jobright.ai/jobs/info/690e1f8bd046ab6061cfaa82?utm_campaign=1057&utm_source=git)** | Chicago, IL | Remote | Nov 07 |
@@ -89,18 +97,18 @@ For a complete list, click the following sortable link below:
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Training Content Creator Intern](https://jobright.ai/jobs/info/68f16323f462172a5a7d7933?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Nov 07 |
 | **[University of Nevada-Las Vegas](http://www.unlv.edu/)** | **[Assistant Director of Career and Internship Services, College of Engineering [R0148937]](https://jobright.ai/jobs/info/690e06a1221b890c2780aabc?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Nov 07 |
 | **[Zscaler](https://www.zscaler.com)** | **[Technical Enablement- SkillBridge Intern](https://jobright.ai/jobs/info/689db45479a9f96662543f1b?utm_campaign=1057&utm_source=git)** | United States | Hybrid | Nov 07 |
-| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d631edebcef82ef5cf7792?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Nov 07 |
+| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d625c6ebcef82ef5cf6c4d?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Nov 07 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d61b111f7fb2169ab17432?utm_campaign=1057&utm_source=git)** | Bryan, TX | On Site | Nov 07 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/690ddf3c221b890c2780a1e8?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Nov 07 |
 | **[David C Cook](https://davidccook.org)** | **[Global Program Development Internship (Unpaid)](https://jobright.ai/jobs/info/68f1910cef766b3f0fd0f6db?utm_campaign=1057&utm_source=git)** | Franklin, TN | On Site | Nov 07 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Residential Crisis-Towson Hospital) 2025 Psychology Undergraduate Fieldwork](https://jobright.ai/jobs/info/68d7756c295f8e37655d9d5c?utm_campaign=1057&utm_source=git)** | Towson, MD | On Site | Nov 07 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d63fedebcef82ef5cf85b0?utm_campaign=1057&utm_source=git)** | Fresno, TX | On Site | Nov 07 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d61a901f7fb2169ab1730b?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Nov 07 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d61af01f7fb2169ab173e9?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Nov 07 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d646fb894705799a2ea3dc?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Nov 07 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d625254736ff202fdcfbe9?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Nov 07 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d61ebd57a2ca5cf160b8d9?utm_campaign=1057&utm_source=git)** | Lewisville, TX | On Site | Nov 07 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d6349f894705799a2e89d7?utm_campaign=1057&utm_source=git)** | Pflugerville, TX | On Site | Nov 07 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d62629894705799a2e7f13?utm_campaign=1057&utm_source=git)** | Savannah, GA | On Site | Nov 07 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d618ac1f7fb2169ab16f27?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Nov 07 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d634f8894705799a2e8a6d?utm_campaign=1057&utm_source=git)** | Humble, TX | On Site | Nov 07 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d63267ebcef82ef5cf7868?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Nov 07 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Summer 2026 Pharmacy Intern – Emerging Therapies and Health Outcomes](https://jobright.ai/jobs/info/68b89df207090163b6ba3965?utm_campaign=1057&utm_source=git)** | Detroit, MI | Hybrid | Nov 07 |
@@ -137,6 +145,7 @@ For a complete list, click the following sortable link below:
 | **[UHS](https://uhs.com)** | **[Activity Therapist CTRS Student Internship](https://jobright.ai/jobs/info/690d3240221b890c27804837?utm_campaign=1057&utm_source=git)** | ST. JOHNS, Michigan | On Site | Nov 06 |
 | **[North Star Behavioral Health](https://northstarbehavioral.com)** | **[Activity Therapist CTRS Student Internship](https://jobright.ai/jobs/info/690d34da4a1b456627b1f3af?utm_campaign=1057&utm_source=git)** | ST. JOHNS, Michigan | On Site | Nov 06 |
 | **[The College of New Jersey](http://www.tcnj.edu/)** | **[Assistant Professor-Design and Creative Technology](https://jobright.ai/jobs/info/690d1f82221b890c278038c2?utm_campaign=1057&utm_source=git)** | Ewing, NJ | On Site | Nov 06 |
+| **[Ally](http://www.ally.com/)** | **[Summer 2026 Internship – Consumer Banking (Auto Customer Care Group - Process Management)](https://jobright.ai/jobs/info/68cc5fec7342c7623ae63d54?utm_campaign=1057&utm_source=git)** | Lewisville, TX | On Site | Nov 06 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/690cf235d046ab6061cf0ca6?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Nov 06 |
 | **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Associate Dean of Research, College of Design, Architecture, Art, & Planning](https://jobright.ai/jobs/info/690d1c92d046ab6061cf2ec5?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Nov 06 |
 | **[MONKEY MOUTHS, LLC](https://monkeymouths.com)** | **[Therapy Tech Intern - Frisco, Texas](https://jobright.ai/jobs/info/690cef6e4a1b456627b1ba36?utm_campaign=1057&utm_source=git)** | Frisco, TX | On Site | Nov 06 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wright Tree Service](https://www.wrighttree.com/)** | **[Training & Development Intern](https://jobright.ai/jobs/info/690cdf9b4a1b456627b1b34d?utm_campaign=1057&utm_source=git)** | West Des Moines, Iowa | Hybrid | Nov 06 |
 | **[Atlantic Health](http://www.atlantichealth.org)** | **[Nursing Education Intern (Overlook Medical Center)](https://jobright.ai/jobs/info/690cfba1221b890c27801873?utm_campaign=1057&utm_source=git)** | Summit, NJ | On Site | Nov 06 |
 | **[West Shore Home](http://westshorehome.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/690d09b34a1b456627b1cda7?utm_campaign=1057&utm_source=git)** | Mechanicsburg, PA | On Site | Nov 06 |
-| **[Atlantic Health](http://www.atlantichealth.org)** | **[Nursing Education Intern (Overlook Medical Center)](https://jobright.ai/jobs/info/690cdb9b4a1b456627b1b1ae?utm_campaign=1057&utm_source=git)** | 99 Beauvoir Ave, Summit, NJ, 07901, US | On Site | Nov 06 |
-| **[Independent Living Systems, LLC](http://ilshealthservices.com)** | **[Dietetic Intern](https://jobright.ai/jobs/info/690cd6dd4a1b456627b1afa0?utm_campaign=1057&utm_source=git)** | Miami, FL, US | On Site | Nov 06 |
-| **[Wright Service Corp.](http://www.wrightservicecorp.com/)** | **[Training And Development Intern](https://jobright.ai/jobs/info/690d0781221b890c278021ed?utm_campaign=1057&utm_source=git)** | West Des Moines, IA | Hybrid | Nov 06 |
-| **[Takeda](http://www.takeda.com)** | **[Commercial Leadership Development Program Summer Internship](https://jobright.ai/jobs/info/68b7988ef4e41a61efd9a5d2?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Nov 06 |
-| **[Amgen](http://www.amgen.com)** | **[Undergrad Intern - R&D Learning (Summer 2026)](https://jobright.ai/jobs/info/690ccef3d046ab6061cefb97?utm_campaign=1057&utm_source=git)** | United States - Remote | Remote | Nov 06 |
-| **[Hudson River Trading](https://www.hudsonrivertrading.com)** | **[Sophomore Internship – Summer 2026](https://jobright.ai/jobs/info/690d1b164a1b456627b1dcec?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Nov 06 |
-| ↳ | **[PhD Winter Internship - 2026](https://jobright.ai/jobs/info/690d1576221b890c27802f48?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Nov 06 |
-| **[Atlantic Health](http://www.atlantichealth.org)** | **[Nursing Education Intern (Overlook Medical Center)](https://jobright.ai/jobs/info/690ce904221b890c27800cbf?utm_campaign=1057&utm_source=git)** | 99 Beauvoir Ave, Summit, NJ, 07901, US | On Site | Nov 06 |
-| **[Baptist Health](http://careers.baptisthealth.net)** | **[Nurse Intern, 4Hope-Neuro Cardiac Progressive Care, Per Diem, 7A-7P](https://jobright.ai/jobs/info/690cc3414a1b456627b1a9a4?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
