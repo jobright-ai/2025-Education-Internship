@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sun Valley Academy](http://www.sunvalleyacademy.org)** | **[Aspiring Educators Enrichment Program (Internship)](https://jobright.ai/jobs/info/690faa8ebb519377733e9979?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Nov 08 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Neuro Cardio - APP - Internal Medicine](https://jobright.ai/jobs/info/690f8b1c988c2b7b4ec4e6c5?utm_campaign=1057&utm_source=git)** | Florida, United States | On Site | Nov 08 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/690f7db3988c2b7b4ec4e343?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Nov 08 |
+| **[Edmonds College](https://www.edmonds.edu)** | **[Office Assistant 3 - Career Action Center](https://jobright.ai/jobs/info/690f7a84bb519377733e8bf6?utm_campaign=1057&utm_source=git)** | Lynnwood, WA | On Site | Nov 08 |
 | **[Stratify Edge](stratifyedge.us)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/690f7a3a183be660d2675674?utm_campaign=1057&utm_source=git)** | Racine, WI | Remote | Nov 08 |
-| **[Edmonds College](https://www.edmonds.edu)** | **[Office Assistant 3 - Career Action Center](https://jobright.ai/jobs/info/690f7938183be660d2675619?utm_campaign=1057&utm_source=git)** | Lynnwood, WA | On Site | Nov 08 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Florida A&M / FSU](https://jobright.ai/jobs/info/68bc3c5b3bf9eb44f83238e2?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Nov 08 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[RN Intern- Cardiac Cath Lab](https://jobright.ai/jobs/info/68c2932603b99f6b342968d5?utm_campaign=1057&utm_source=git)** | Mason City, IA | On Site | Nov 08 |
 | **[UPMC](https://www.upmc.com/)** | **[Student Nurse Internship (SNI) Program: Central PA Hospitals](https://jobright.ai/jobs/info/689f19e683d13d1f5b6c43b3?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Nov 08 |
@@ -134,11 +135,11 @@ For a complete list, click the following sortable link below:
 | **[College of Health and Human Sciences at Texas Tech University](http://www.depts.ttu.edu/hs/)** | **[Department Intern Heritage Education](https://jobright.ai/jobs/info/690e4f5844146d3b6ec52ca9?utm_campaign=1057&utm_source=git)** | Lubbock | On Site | Nov 07 |
 | **[Arizona State University](http://www.asu.edu)** | **[Management Intern](https://jobright.ai/jobs/info/690e6cde44146d3b6ec54220?utm_campaign=1057&utm_source=git)** | Tempe, AZ | On Site | Nov 07 |
 | **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[Prevention Services Intern (Summer 2026)](https://jobright.ai/jobs/info/690e652444146d3b6ec53ae4?utm_campaign=1057&utm_source=git)** | Shaker Heights, OH | On Site | Nov 07 |
-| ↳ | **[Child & Adolescent Group Services Intern (Fall 2026)](https://jobright.ai/jobs/info/690e69d444146d3b6ec53efd?utm_campaign=1057&utm_source=git)** | Shaker Heights, OH | On Site | Nov 07 |
 | ↳ | **[Foster Care Case Management Intern (Summer / Fall 2026)](https://jobright.ai/jobs/info/690e44bc221b890c2780c34b?utm_campaign=1057&utm_source=git)** | Shaker Heights, OH | Hybrid | Nov 07 |
 | **[Woodberry Associates](https://www.woodberryassociates.com)** | **[Spring 2026 Intern](https://jobright.ai/jobs/info/68e6d893ae2b894b1d71ebcb?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Nov 07 |
 | **[Blue & Co., LLC](https://www.blueandco.com/)** | **[JUMPSTART Summer Leadership Program-Hosted in Cincinnati, OH](https://jobright.ai/jobs/info/690e653b221b890c2780d7bd?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Nov 07 |
 | **[Swissnex in San Francisco](http://www.swissnexsanfrancisco.org)** | **[Startup Programs Associate (Internship)](https://jobright.ai/jobs/info/690e5dbcd046ab6061cfcb92?utm_campaign=1057&utm_source=git)** | San Francisco, CA | Hybrid | Nov 07 |
+| **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[Child & Adolescent Group Services Intern (Fall 2026)](https://jobright.ai/jobs/info/690e5e35d046ab6061cfcc10?utm_campaign=1057&utm_source=git)** | Shaker Heights, OH | On Site | Nov 07 |
 | **[Mitsubishi Electric Research Laboratories](http://www.merl.com/)** | **[Internship - Instructional Video Generation](https://jobright.ai/jobs/info/690e6fbb221b890c2780e0b0?utm_campaign=1057&utm_source=git)** | Cambridge, MA | On Site | Nov 07 |
 | **[Epsilon](https://www.epsilon.com/us)** | **[Intern Program – IT Rotational Intern (Year-Round)](https://jobright.ai/jobs/info/68f15d54e6870116b1f57b99?utm_campaign=1057&utm_source=git)** | Irving, TX | Hybrid | Nov 07 |
 | **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/68cd9657b2a74e1837ed9323?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Nov 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Deutsche Bank](https://www.db.com)** | **[Deutsche Bank Internship Program - Private Bank - Wealth Management - New York – 2026](https://jobright.ai/jobs/info/690dfaf0d046ab6061cfa05a?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Nov 07 |
 | **[University of the Pacific](https://www.pacific.edu)** | **[Student Athlete Development Coordinator](https://jobright.ai/jobs/info/690df8f3221b890c2780a7b3?utm_campaign=1057&utm_source=git)** | Stockton, CA | On Site | Nov 07 |
 | **[Analysis Group](http://www.analysisgroup.com)** | **[Summer Associate Intern - Generalist (MBA/MA) (2026 Start Date)](https://jobright.ai/jobs/info/690df78644146d3b6ec50a8e?utm_campaign=1057&utm_source=git)** | US-MA-Boston | On Site | Nov 07 |
-| ↳ | **[Summer Associate Intern - Generalist (MBA/MA) (2026 Start Date)](https://jobright.ai/jobs/info/690df748221b890c2780a775?utm_campaign=1057&utm_source=git)** | US-CA-Los Angeles | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
