@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/690f7db3988c2b7b4ec4e343?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Nov 08 |
+| **[Edmonds College](https://www.edmonds.edu)** | **[Office Assistant 3 - Career Action Center](https://jobright.ai/jobs/info/690f7a84bb519377733e8bf6?utm_campaign=1057&utm_source=git)** | Lynnwood, WA | On Site | Nov 08 |
+| **[Stratify Edge](stratifyedge.us)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/690f7a3a183be660d2675674?utm_campaign=1057&utm_source=git)** | Racine, WI | Remote | Nov 08 |
+| **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Florida A&M / FSU](https://jobright.ai/jobs/info/68bc3c5b3bf9eb44f83238e2?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Nov 08 |
+| **[Trinity Health](http://www.trinity-health.org)** | **[RN Intern- Cardiac Cath Lab](https://jobright.ai/jobs/info/68c2932603b99f6b342968d5?utm_campaign=1057&utm_source=git)** | Mason City, IA | On Site | Nov 08 |
+| **[UPMC](https://www.upmc.com/)** | **[Student Nurse Internship (SNI) Program: Northwestern PA & Western NY Hospitals](https://jobright.ai/jobs/info/689f19dc83d13d1f5b6c437f?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Nov 08 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Instructional Designer)](https://jobright.ai/jobs/info/68f45efe76a51a4307bd0f78?utm_campaign=1057&utm_source=git)** | Pensacola, FL | Hybrid | Nov 08 |
+| **[UPMC](https://www.upmc.com/)** | **[Student Nurse Internship (SNI) Program: North Central PA Hospitals](https://jobright.ai/jobs/info/689f196479a9f96662554720?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Nov 08 |
+| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Global Training and Documentation Intern](https://jobright.ai/jobs/info/690f6b8337acd2126472ec48?utm_campaign=1057&utm_source=git)** | Lexington, MA | Hybrid | Nov 08 |
+| **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Liberty University](https://jobright.ai/jobs/info/68bc2f556105227d118ac190?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Nov 08 |
+| **[UPMC](https://www.upmc.com/)** | **[Student Nurse Internship (SNI) Program: Southwestern PA Hospitals](https://jobright.ai/jobs/info/689f19dc83d13d1f5b6c437d?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Nov 08 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[BH Therapy Intern - Driving CT](https://jobright.ai/jobs/info/690f606c44146d3b6ec5b917?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Nov 08 |
 | **[FIRST](https://firstagency.com/)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/690f601bd046ab6061d04f6c?utm_campaign=1057&utm_source=git)** | FIRST - New York | On Site | Nov 08 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Education & Labor - Department of Workplace Standards](https://jobright.ai/jobs/info/6909290ad046ab6061cd24d4?utm_campaign=1057&utm_source=git)** | Frankfort, KY | On Site | Nov 08 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Associate Intern - Generalist (MBA/MA) (2026 Start Date)](https://jobright.ai/jobs/info/690df748221b890c2780a775?utm_campaign=1057&utm_source=git)** | US-CA-Los Angeles | On Site | Nov 07 |
 | **[Overcome](http://www.overcome.org.uk)** | **[Clinical Psychology Intern (Eastern Time)](https://jobright.ai/jobs/info/690df724d046ab6061cf9f99?utm_campaign=1057&utm_source=git)** | Pennsylvania, United States | Remote | Nov 07 |
 | **[Analysis Group](http://www.analysisgroup.com)** | **[Summer Associate Intern - Generalist (MBA/MA) (2026 Start Date)](https://jobright.ai/jobs/info/690df4ff44146d3b6ec509c4?utm_campaign=1057&utm_source=git)** | US-CO-Denver | On Site | Nov 07 |
-| **[Fox Corporation](https://www.foxcorporation.com/)** | **[Spring 2026 FOX Entertainment Internship Program - MBA](https://jobright.ai/jobs/info/690dddd8d046ab6061cf9a03?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Nov 07 |
-| **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for Undergraduate Admission](https://jobright.ai/jobs/info/68cfdb22fb49c96ca6eac0f8?utm_campaign=1057&utm_source=git)** | Massachusetts, United States | On Site | Nov 07 |
-| **[Analysis Group](http://www.analysisgroup.com)** | **[Summer Associate Intern - Generalist (MBA/MA) (2026 Start Date)](https://jobright.ai/jobs/info/690df25ed046ab6061cf9eaa?utm_campaign=1057&utm_source=git)** | US-DC-Washington, DC | On Site | Nov 07 |
-| ↳ | **[Summer Associate Intern - Generalist (MBA/MA) (2026 Start Date)](https://jobright.ai/jobs/info/690df211d046ab6061cf9e9e?utm_campaign=1057&utm_source=git)** | US-TX-Dallas | On Site | Nov 07 |
-| ↳ | **[Summer Associate Intern - Generalist (MBA/MA) (2026 Start Date)](https://jobright.ai/jobs/info/690def77221b890c2780a5c9?utm_campaign=1057&utm_source=git)** | US-IL-Chicago | On Site | Nov 07 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern/News](https://jobright.ai/jobs/info/682cdbd6a9f2e10b3d672138?utm_campaign=1057&utm_source=git)** | Panama City, FL | On Site | Nov 07 |
-| **[PTC](http://ptc.co/VLED30oHtEh)** | **[Training Content Creator Intern](https://jobright.ai/jobs/info/68f16323f462172a5a7d7933?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Nov 07 |
-| **[University of Nevada-Las Vegas](http://www.unlv.edu/)** | **[Assistant Director of Career and Internship Services, College of Engineering [R0148937]](https://jobright.ai/jobs/info/690e06a1221b890c2780aabc?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Nov 07 |
-| **[Zscaler](https://www.zscaler.com)** | **[Technical Enablement- SkillBridge Intern](https://jobright.ai/jobs/info/689db45479a9f96662543f1b?utm_campaign=1057&utm_source=git)** | United States | Hybrid | Nov 07 |
-| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d631edebcef82ef5cf7792?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Nov 07 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d61b111f7fb2169ab17432?utm_campaign=1057&utm_source=git)** | Bryan, TX | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
