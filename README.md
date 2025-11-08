@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Avangrid](https://www.avangrid.com/aboutus/avangridfoundation)** | **[2026 Summer Info. Technology, Business Analyst, Cyber, MIS Intern](https://jobright.ai/jobs/info/690bcf0cd046ab6061ce8004?utm_campaign=1057&utm_source=git)** | Portland, OR | On Site | Nov 08 |
+| ↳ | **[2026 Summer Info. Technology, Business Analyst, Cyber, MIS Intern](https://jobright.ai/jobs/info/690a89eabcccf20de59e39d3?utm_campaign=1057&utm_source=git)** | Orange, CT | On Site | Nov 08 |
+| ↳ | **[2026 Summer Info. Technology, Business Analyst, Cyber, MIS Intern](https://jobright.ai/jobs/info/690bd090221b890c277f88e1?utm_campaign=1057&utm_source=git)** | Augusta, ME | On Site | Nov 08 |
+| ↳ | **[2026 Summer Info. Technology, Business Analyst, Cyber, MIS Intern](https://jobright.ai/jobs/info/690bcf4ed046ab6061ce8044?utm_campaign=1057&utm_source=git)** | Rochester, New York Metropolitan Area | On Site | Nov 08 |
+| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/690f1b63d046ab6061d0393a?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Nov 08 |
 | **[PNC](http://www.pnc.com)** | **[Corporate & Institutional Banking Undergraduate Intern - Real Estate Banking](https://jobright.ai/jobs/info/690f016744146d3b6ec5945c?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Nov 08 |
 | **[Memorial Sloan Kettering Cancer Center](http://www.mskcc.org)** | **[Clinical Operations Summer Intern](https://jobright.ai/jobs/info/690ef41544146d3b6ec58ee3?utm_campaign=1057&utm_source=git)** | New York, United States | Remote | Nov 07 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Technology Internship (Summer 2026)](https://jobright.ai/jobs/info/690eefc544146d3b6ec58c82?utm_campaign=1057&utm_source=git)** | Oklahoma City, OK | On Site | Nov 07 |
@@ -85,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Holmes Murphy](http://www.holmesmurphy.com/)** | **[Growth & Development Intern - Summer 2026 (West Des Moines, IA)](https://jobright.ai/jobs/info/690e9104221b890c2780f62b?utm_campaign=1057&utm_source=git)** | West Des Moines, IA | On Site | Nov 07 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/690e8ee0d046ab6061cfec8e?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 07 |
 | ↳ | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/690e8d5c44146d3b6ec55649?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 07 |
-| ↳ | **[2025/2026 - Art Teacher & Intern - Secondary](https://jobright.ai/jobs/info/690e8bcc44146d3b6ec55575?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 07 |
 | ↳ | **[2025/2026 - Science Specialist Teacher and Interns - Elementary](https://jobright.ai/jobs/info/690e87bfd046ab6061cfe942?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 07 |
 | ↳ | **[2025/2026 - Art Teacher & Intern - Elementary](https://jobright.ai/jobs/info/690e83c1d046ab6061cfe5f7?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 07 |
 | **[Kansas Department of Health and Environment](http://www.kdheks.gov)** | **[Adolescent Engagement Intern](https://jobright.ai/jobs/info/690e7fc144146d3b6ec54e13?utm_campaign=1057&utm_source=git)** | Shawnee County, KS | On Site | Nov 07 |
@@ -117,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[Wesco](http://www.wesco.com/)** | **[2026 Summer Internship Program (Begins June 2026)](https://jobright.ai/jobs/info/689d1c3483d13d1f5b6ad372?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | Hybrid | Nov 07 |
 | **[Charlie Health](https://www.charliehealth.com)** | **[Clinical Practicum Intern (Master's Level)](https://jobright.ai/jobs/info/68f18ef9ef766b3f0fd0f593?utm_campaign=1057&utm_source=git)** | United States | Remote | Nov 07 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Student Services Coordinator](https://jobright.ai/jobs/info/690e06e744146d3b6ec50ddd?utm_campaign=1057&utm_source=git)** | Lawton, OK | On Site | Nov 07 |
-| **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Trading Internship](https://jobright.ai/jobs/info/690e3a9b221b890c2780be5c?utm_campaign=1057&utm_source=git)** | Illiopolis, IL | Remote | Nov 07 |
 | **[Columbia Bank New Jersey](http://columbiabankonline.com)** | **[Summer 2026 Internship Program](https://jobright.ai/jobs/info/690e03bcd046ab6061cfa1f1?utm_campaign=1057&utm_source=git)** | Fair Lawn, NJ | On Site | Nov 07 |
 | **[Amgen](http://www.amgen.com)** | **[Undergrad Intern - R&D Learning (Summer 2026)](https://jobright.ai/jobs/info/690e280044146d3b6ec51902?utm_campaign=1057&utm_source=git)** | United States | Remote | Nov 07 |
 | **[Deutsche Bank](https://www.db.com)** | **[Deutsche Bank Internship Program - Private Bank - Wealth Management - New York – 2026](https://jobright.ai/jobs/info/690dfaf0d046ab6061cfa05a?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Nov 07 |
@@ -136,7 +139,7 @@ For a complete list, click the following sortable link below:
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Training Content Creator Intern](https://jobright.ai/jobs/info/68f16323f462172a5a7d7933?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Nov 07 |
 | **[University of Nevada-Las Vegas](http://www.unlv.edu/)** | **[Assistant Director of Career and Internship Services, College of Engineering [R0148937]](https://jobright.ai/jobs/info/690e06a1221b890c2780aabc?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Nov 07 |
 | **[Zscaler](https://www.zscaler.com)** | **[Technical Enablement- SkillBridge Intern](https://jobright.ai/jobs/info/689db45479a9f96662543f1b?utm_campaign=1057&utm_source=git)** | United States | Hybrid | Nov 07 |
-| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d625c6ebcef82ef5cf6c4d?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Nov 07 |
+| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d631edebcef82ef5cf7792?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Nov 07 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d61b111f7fb2169ab17432?utm_campaign=1057&utm_source=git)** | Bryan, TX | On Site | Nov 07 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/690ddf3c221b890c2780a1e8?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Nov 07 |
 | **[David C Cook](https://davidccook.org)** | **[Global Program Development Internship (Unpaid)](https://jobright.ai/jobs/info/68f1910cef766b3f0fd0f6db?utm_campaign=1057&utm_source=git)** | Franklin, TN | On Site | Nov 07 |
@@ -148,13 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d61ebd57a2ca5cf160b8d9?utm_campaign=1057&utm_source=git)** | Lewisville, TX | On Site | Nov 07 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d6349f894705799a2e89d7?utm_campaign=1057&utm_source=git)** | Pflugerville, TX | On Site | Nov 07 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d62629894705799a2e7f13?utm_campaign=1057&utm_source=git)** | Savannah, GA | On Site | Nov 07 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d634f8894705799a2e8a6d?utm_campaign=1057&utm_source=git)** | Humble, TX | On Site | Nov 07 |
+| **[Chenega Security SBU](http://chenegasecurity.com)** | **[Fire & Emergency Services Skillbridge Intern](https://jobright.ai/jobs/info/68f17904f462172a5a7d8fff?utm_campaign=1057&utm_source=git)** | Cape Canaveral, FL | On Site | Nov 07 |
+| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d634f8894705799a2e8a6d?utm_campaign=1057&utm_source=git)** | Humble, TX | On Site | Nov 07 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d63267ebcef82ef5cf7868?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Nov 07 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Summer 2026 Pharmacy Intern – Emerging Therapies and Health Outcomes](https://jobright.ai/jobs/info/68b89df207090163b6ba3965?utm_campaign=1057&utm_source=git)** | Detroit, MI | Hybrid | Nov 07 |
 | **[Hoyleton Youth & Family Services](https://hoyleton.org/)** | **[Bilingual Clinical Intern](https://jobright.ai/jobs/info/690db647221b890c27808f2f?utm_campaign=1057&utm_source=git)** | Fairview Heights, IL | On Site | Nov 07 |
 | **[NYC Health + Hospitals](http://www.nychealthandhospitals.org)** | **[Student Intern Level II](https://jobright.ai/jobs/info/690db26244146d3b6ec4ef2b?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Nov 07 |
-| **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Intern Program Coordinator-Workforce Partnerships](https://jobright.ai/jobs/info/690d9d28d046ab6061cf785f?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Nov 06 |
-| **[County of Los Angeles](https://lacounty.gov)** | **[CLINICAL PSYCHOLOGY INTERN](https://jobright.ai/jobs/info/690d9a6c221b890c27807ef1?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Nov 06 |
-| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Patient Access Training Intern](https://jobright.ai/jobs/info/690d8d07d046ab6061cf70da?utm_campaign=1057&utm_source=git)** | Lexington, MA | Hybrid | Nov 06 |
-| **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/690daa08d046ab6061cf8082?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
