@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/690fda54988c2b7b4ec4f4db?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Nov 08 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Art Teacher & Intern - Elementary](https://jobright.ai/jobs/info/690fd528bb519377733e9d41?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 08 |
 | ↳ | **[2025/2026 - Art Teacher & Intern - Secondary](https://jobright.ai/jobs/info/690fcc5bbb519377733e9cb4?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 08 |
 | ↳ | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/690fcc02bb519377733e9c99?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 08 |
@@ -65,8 +66,8 @@ For a complete list, click the following sortable link below:
 | **[Sun Valley Academy](http://www.sunvalleyacademy.org)** | **[Aspiring Educators Enrichment Program (Internship)](https://jobright.ai/jobs/info/690faa8ebb519377733e9979?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Nov 08 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Neuro Cardio - APP - Internal Medicine](https://jobright.ai/jobs/info/690f8b1c988c2b7b4ec4e6c5?utm_campaign=1057&utm_source=git)** | Florida, United States | On Site | Nov 08 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/690f7db3988c2b7b4ec4e343?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Nov 08 |
+| **[Edmonds College](https://www.edmonds.edu)** | **[Office Assistant 3 - Career Action Center](https://jobright.ai/jobs/info/690f7a84bb519377733e8bf6?utm_campaign=1057&utm_source=git)** | Lynnwood, WA | On Site | Nov 08 |
 | **[Stratify Edge](stratifyedge.us)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/690f7a3a183be660d2675674?utm_campaign=1057&utm_source=git)** | Racine, WI | Remote | Nov 08 |
-| **[Edmonds College](https://www.edmonds.edu)** | **[Office Assistant 3 - Career Action Center](https://jobright.ai/jobs/info/690f7938183be660d2675619?utm_campaign=1057&utm_source=git)** | Lynnwood, WA | On Site | Nov 08 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Florida A&M / FSU](https://jobright.ai/jobs/info/68bc3c5b3bf9eb44f83238e2?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Nov 08 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[RN Intern- Cardiac Cath Lab](https://jobright.ai/jobs/info/68c2932603b99f6b342968d5?utm_campaign=1057&utm_source=git)** | Mason City, IA | On Site | Nov 08 |
 | **[UPMC](https://www.upmc.com/)** | **[Student Nurse Internship (SNI) Program: Central PA Hospitals](https://jobright.ai/jobs/info/689f19e683d13d1f5b6c43b3?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Nov 08 |
@@ -78,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[UPMC](https://www.upmc.com/)** | **[Student Nurse Internship (SNI) Program: Southwestern PA Hospitals](https://jobright.ai/jobs/info/689f19dc83d13d1f5b6c437d?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Nov 08 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[BH Therapy Intern - Driving CT](https://jobright.ai/jobs/info/690f606c44146d3b6ec5b917?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Nov 08 |
 | **[FIRST](https://firstagency.com/)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/690f601bd046ab6061d04f6c?utm_campaign=1057&utm_source=git)** | FIRST - New York | On Site | Nov 08 |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Education & Labor - Department of Workplace Standards](https://jobright.ai/jobs/info/6909290ad046ab6061cd24d4?utm_campaign=1057&utm_source=git)** | Frankfort, KY | On Site | Nov 08 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Respiratory Therapist Intern, Respiratory Therapy, Per diem, 7P-7A](https://jobright.ai/jobs/info/68c40d34e471ef3ce16d387d?utm_campaign=1057&utm_source=git)** | Homestead, FL | On Site | Nov 08 |
 | **[Noblis](http://www.noblis.org)** | **[Summer 2026 - Instructional Design and Technology Intern](https://jobright.ai/jobs/info/68f26f069a65fd345857c997?utm_campaign=1057&utm_source=git)** | Springfield, VA | On Site | Nov 08 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Assistant Director for International Student and Scholar Services](https://jobright.ai/jobs/info/690f60c344146d3b6ec5b944?utm_campaign=1057&utm_source=git)** | Waco, TX | On Site | Nov 08 |
@@ -91,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/6880157f764c3d7411c4f274?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Nov 08 |
 | **[Bank of Utah](http://bankofutah.com)** | **[Bank of Utah Internship Program](https://jobright.ai/jobs/info/68d1ec75a54edb3bf3e1786c?utm_campaign=1057&utm_source=git)** | All, MO | On Site | Nov 08 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/690f2feb221b890c27814780?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Nov 08 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Education & Labor - Department of Workplace Standards](https://jobright.ai/jobs/info/690923e44a1b456627afd1a8?utm_campaign=1057&utm_source=git)** | Frankfort, KY | On Site | Nov 08 |
 | **[Avangrid](https://www.avangrid.com/aboutus/avangridfoundation)** | **[2026 Summer Info. Technology, Business Analyst, Cyber, MIS Intern](https://jobright.ai/jobs/info/690bcf0cd046ab6061ce8004?utm_campaign=1057&utm_source=git)** | Portland, OR | On Site | Nov 08 |
 | ↳ | **[2026 Summer Info. Technology, Business Analyst, Cyber, MIS Intern](https://jobright.ai/jobs/info/690a89eabcccf20de59e39d3?utm_campaign=1057&utm_source=git)** | Orange, CT | On Site | Nov 08 |
 | ↳ | **[2026 Summer Info. Technology, Business Analyst, Cyber, MIS Intern](https://jobright.ai/jobs/info/690bd090221b890c277f88e1?utm_campaign=1057&utm_source=git)** | Augusta, ME | On Site | Nov 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Charlie Health](https://www.charliehealth.com)** | **[Clinical Practicum Intern (Master's Level)](https://jobright.ai/jobs/info/68f18ef9ef766b3f0fd0f593?utm_campaign=1057&utm_source=git)** | United States | Remote | Nov 07 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Student Services Coordinator](https://jobright.ai/jobs/info/690e06e744146d3b6ec50ddd?utm_campaign=1057&utm_source=git)** | Lawton, OK | On Site | Nov 07 |
 | **[Columbia Bank New Jersey](http://columbiabankonline.com)** | **[Summer 2026 Internship Program](https://jobright.ai/jobs/info/690e03bcd046ab6061cfa1f1?utm_campaign=1057&utm_source=git)** | Fair Lawn, NJ | On Site | Nov 07 |
-| **[Amgen](http://www.amgen.com)** | **[Undergrad Intern - R&D Learning (Summer 2026)](https://jobright.ai/jobs/info/690e280044146d3b6ec51902?utm_campaign=1057&utm_source=git)** | United States | Remote | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
