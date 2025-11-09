@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Penn State](https://jobright.ai/jobs/info/68cda7f11ad6b16f0289d0f6?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Nov 09 |
+| **[Acme Outreach](https://linktr.ee/outreachacme)** | **[Premedical Student Volunteer Intern](https://jobright.ai/jobs/info/6910cc9fbb519377733ed188?utm_campaign=1057&utm_source=git)** | Boston, MA | Remote | Nov 09 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Support - Navy Federal Investment Services)](https://jobright.ai/jobs/info/68cd948de23def7af55bc0d4?utm_campaign=1057&utm_source=git)** | San Diego, CA | Hybrid | Nov 09 |
+| ↳ | **[Summer Associate Internship (Instructional Designer)](https://jobright.ai/jobs/info/68bb79795f3832749186f73c?utm_campaign=1057&utm_source=git)** | Vienna, VA | Hybrid | Nov 09 |
+| **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - UC Davis](https://jobright.ai/jobs/info/68bc8fdbae79610dacddbdaf?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Nov 09 |
+| ↳ | **[Summer 2026 Internship - Penn State](https://jobright.ai/jobs/info/68cda7f11ad6b16f0289d0f6?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Nov 09 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Coordinator: International Baccalaureate DP/CP Site (School Based)](https://jobright.ai/jobs/info/6910a70d183be660d267990c?utm_campaign=1057&utm_source=git)** | Annapolis, MD | On Site | Nov 09 |
 | ↳ | **[Associate/Full Professor of Management & International Business](https://jobright.ai/jobs/info/6910a546bb519377733ecd6c?utm_campaign=1057&utm_source=git)** | Norman, OK | On Site | Nov 09 |
 | **[New England Public Media](https://www.nepm.org/)** | **[NEPM Media Mentor Education Internship - Spring 2026](https://jobright.ai/jobs/info/68f2a9229a65fd345857ea02?utm_campaign=1057&utm_source=git)** | Springfield, MA | Hybrid | Nov 09 |
@@ -74,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Student Services Coordinator](https://jobright.ai/jobs/info/691001b9183be660d2676d5d?utm_campaign=1057&utm_source=git)** | Lawton, KS | On Site | Nov 08 |
 | **[HealthCorps](https://www.HealthCorps.org)** | **[Teen Health Education Internship](https://jobright.ai/jobs/info/690ff810988c2b7b4ec4f7bc?utm_campaign=1057&utm_source=git)** | Portsmouth, OH | On Site | Nov 08 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Art Teacher & Intern - Elementary](https://jobright.ai/jobs/info/690fd528bb519377733e9d41?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 08 |
-| ↳ | **[2025/2026 - Art Teacher & Intern - Secondary](https://jobright.ai/jobs/info/690fcc5bbb519377733e9cb4?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 08 |
 | ↳ | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/690fcc02bb519377733e9c99?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 08 |
 | **[CharacterStrong](https://characterstrong.com)** | **[Curriculum Intern](https://jobright.ai/jobs/info/68f0b574eb273a32d976c9ea?utm_campaign=1057&utm_source=git)** | Puyallup, WA | On Site | Nov 08 |
 | **[Sun Valley Academy](http://www.sunvalleyacademy.org)** | **[Aspiring Educators Enrichment Program (Internship)](https://jobright.ai/jobs/info/690faa8ebb519377733e9979?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Nov 08 |
@@ -152,9 +155,6 @@ For a complete list, click the following sortable link below:
 | **[College of Health and Human Sciences at Texas Tech University](http://www.depts.ttu.edu/hs/)** | **[Department Intern Heritage Education](https://jobright.ai/jobs/info/690e4f5844146d3b6ec52ca9?utm_campaign=1057&utm_source=git)** | Lubbock | On Site | Nov 07 |
 | **[Arizona State University](http://www.asu.edu)** | **[Management Intern](https://jobright.ai/jobs/info/690e6cde44146d3b6ec54220?utm_campaign=1057&utm_source=git)** | Tempe, AZ | On Site | Nov 07 |
 | **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[Prevention Services Intern (Summer 2026)](https://jobright.ai/jobs/info/690e652444146d3b6ec53ae4?utm_campaign=1057&utm_source=git)** | Shaker Heights, OH | On Site | Nov 07 |
-| ↳ | **[Child & Adolescent Group Services Intern (Fall 2026)](https://jobright.ai/jobs/info/690e69d444146d3b6ec53efd?utm_campaign=1057&utm_source=git)** | Shaker Heights, OH | On Site | Nov 07 |
 | ↳ | **[Foster Care Case Management Intern (Summer / Fall 2026)](https://jobright.ai/jobs/info/690e44bc221b890c2780c34b?utm_campaign=1057&utm_source=git)** | Shaker Heights, OH | Hybrid | Nov 07 |
 | **[Woodberry Associates](https://www.woodberryassociates.com)** | **[Spring 2026 Intern](https://jobright.ai/jobs/info/68e6d893ae2b894b1d71ebcb?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Nov 07 |
-| **[Blue & Co., LLC](https://www.blueandco.com/)** | **[JUMPSTART Summer Leadership Program-Hosted in Cincinnati, OH](https://jobright.ai/jobs/info/690e653b221b890c2780d7bd?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Nov 07 |
-| **[Swissnex in San Francisco](http://www.swissnexsanfrancisco.org)** | **[Startup Programs Associate (Internship)](https://jobright.ai/jobs/info/690e5dbcd046ab6061cfcb92?utm_campaign=1057&utm_source=git)** | San Francisco, CA | Hybrid | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
