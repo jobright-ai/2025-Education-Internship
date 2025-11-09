@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/6910dee3183be660d267a038?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Nov 09 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Career Counselor/Internship Coordinator](https://jobright.ai/jobs/info/6910db6e183be660d267a005?utm_campaign=1057&utm_source=git)** | St. Petersburg, FL | On Site | Nov 09 |
+| **[Petersburg City Public Schools](http://www.petersburg.k12.va.us)** | **[Student Teaching and Internship 2025-26](https://jobright.ai/jobs/info/6910d91a183be660d2679f82?utm_campaign=1057&utm_source=git)** | Petersburg, VA | On Site | Nov 09 |
+| **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/6910d883183be660d2679f5b?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Nov 09 |
 | **[Acme Outreach](https://linktr.ee/outreachacme)** | **[Premedical Student Volunteer Intern](https://jobright.ai/jobs/info/6910cc9fbb519377733ed188?utm_campaign=1057&utm_source=git)** | Boston, MA | Remote | Nov 09 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Support - Navy Federal Investment Services)](https://jobright.ai/jobs/info/68cd948de23def7af55bc0d4?utm_campaign=1057&utm_source=git)** | San Diego, CA | Hybrid | Nov 09 |
 | ↳ | **[Summer Associate Internship (Instructional Designer)](https://jobright.ai/jobs/info/68bb79795f3832749186f73c?utm_campaign=1057&utm_source=git)** | Vienna, VA | Hybrid | Nov 09 |
@@ -83,7 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Sun Valley Academy](http://www.sunvalleyacademy.org)** | **[Aspiring Educators Enrichment Program (Internship)](https://jobright.ai/jobs/info/690faa8ebb519377733e9979?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Nov 08 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Neuro Cardio - APP - Internal Medicine](https://jobright.ai/jobs/info/690f8b1c988c2b7b4ec4e6c5?utm_campaign=1057&utm_source=git)** | Florida, United States | On Site | Nov 08 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/690f7db3988c2b7b4ec4e343?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Nov 08 |
-| **[Edmonds College](https://www.edmonds.edu)** | **[Office Assistant 3 - Career Action Center](https://jobright.ai/jobs/info/690f7938183be660d2675619?utm_campaign=1057&utm_source=git)** | Lynnwood, WA | On Site | Nov 08 |
+| **[Edmonds College](https://www.edmonds.edu)** | **[Office Assistant 3 - Career Action Center](https://jobright.ai/jobs/info/690f7a84bb519377733e8bf6?utm_campaign=1057&utm_source=git)** | Lynnwood, WA | On Site | Nov 08 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Florida A&M / FSU](https://jobright.ai/jobs/info/68bc3c5b3bf9eb44f83238e2?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Nov 08 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[RN Intern- Cardiac Cath Lab](https://jobright.ai/jobs/info/68c2932603b99f6b342968d5?utm_campaign=1057&utm_source=git)** | Mason City, IA | On Site | Nov 08 |
 | **[UPMC](https://www.upmc.com/)** | **[Student Nurse Internship (SNI) Program: Central PA Hospitals](https://jobright.ai/jobs/info/689f19e683d13d1f5b6c43b3?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Nov 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Reliance Matrix](https://reliancematrix.com)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/690e798ed046ab6061cfe021?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | Hybrid | Nov 07 |
 | **[Elwyn](https://www.elwyn.org)** | **[Intern - Children's Behavioral Health T-Camp](https://jobright.ai/jobs/info/690e52edd046ab6061cfc4d0?utm_campaign=1057&utm_source=git)** | Elwyn, PA | On Site | Nov 07 |
 | **[College of Health and Human Sciences at Texas Tech University](http://www.depts.ttu.edu/hs/)** | **[Department Intern Heritage Education](https://jobright.ai/jobs/info/690e4f5844146d3b6ec52ca9?utm_campaign=1057&utm_source=git)** | Lubbock | On Site | Nov 07 |
-| **[Arizona State University](http://www.asu.edu)** | **[Management Intern](https://jobright.ai/jobs/info/690e6cde44146d3b6ec54220?utm_campaign=1057&utm_source=git)** | Tempe, AZ | On Site | Nov 07 |
-| **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[Prevention Services Intern (Summer 2026)](https://jobright.ai/jobs/info/690e652444146d3b6ec53ae4?utm_campaign=1057&utm_source=git)** | Shaker Heights, OH | On Site | Nov 07 |
-| ↳ | **[Foster Care Case Management Intern (Summer / Fall 2026)](https://jobright.ai/jobs/info/690e44bc221b890c2780c34b?utm_campaign=1057&utm_source=git)** | Shaker Heights, OH | Hybrid | Nov 07 |
-| **[Woodberry Associates](https://www.woodberryassociates.com)** | **[Spring 2026 Intern](https://jobright.ai/jobs/info/68e6d893ae2b894b1d71ebcb?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
