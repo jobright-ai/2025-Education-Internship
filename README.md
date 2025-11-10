@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CommonSpirit Health](https://www.commonspirit.org)** | **[Student Intern](https://jobright.ai/jobs/info/69115546988c2b7b4ec5404b?utm_campaign=1057&utm_source=git)** | Lexington, KY | On Site | Nov 09 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Student and Student Organization Advisor](https://jobright.ai/jobs/info/69114662988c2b7b4ec53c6a?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | Nov 09 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/69111e2b183be660d267ac79?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 09 |
 | ↳ | **[2025/2026 - Science Specialist Teacher and Interns - Elementary](https://jobright.ai/jobs/info/69111e20183be660d267ac77?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 09 |
 | ↳ | **[2025/2026 - Art Teacher & Intern - Secondary](https://jobright.ai/jobs/info/69111df1bb519377733ee154?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 09 |
@@ -94,7 +96,7 @@ For a complete list, click the following sortable link below:
 | **[Ally](http://www.ally.com/)** | **[Summer 2026 Internship – Auto Finance (Lawrenceville, GA)](https://jobright.ai/jobs/info/68cd04514d568306aabd195f?utm_campaign=1057&utm_source=git)** | Lawrenceville, GA | On Site | Nov 08 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Neuro Cardio - APP - Internal Medicine](https://jobright.ai/jobs/info/690f8b1c988c2b7b4ec4e6c5?utm_campaign=1057&utm_source=git)** | Florida, United States | On Site | Nov 08 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/690f7db3988c2b7b4ec4e343?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Nov 08 |
-| **[Edmonds College](https://www.edmonds.edu)** | **[Office Assistant 3 - Career Action Center](https://jobright.ai/jobs/info/690f7938183be660d2675619?utm_campaign=1057&utm_source=git)** | Lynnwood, WA | On Site | Nov 08 |
+| **[Edmonds College](https://www.edmonds.edu)** | **[Office Assistant 3 - Career Action Center](https://jobright.ai/jobs/info/690f7a84bb519377733e8bf6?utm_campaign=1057&utm_source=git)** | Lynnwood, WA | On Site | Nov 08 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Florida A&M / FSU](https://jobright.ai/jobs/info/68bc3c5b3bf9eb44f83238e2?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Nov 08 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[RN Intern- Cardiac Cath Lab](https://jobright.ai/jobs/info/68c2932603b99f6b342968d5?utm_campaign=1057&utm_source=git)** | Mason City, IA | On Site | Nov 08 |
 | **[UPMC](https://www.upmc.com/)** | **[Student Nurse Internship (SNI) Program: Central PA Hospitals](https://jobright.ai/jobs/info/689f19e683d13d1f5b6c43b3?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Nov 08 |
@@ -125,7 +127,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Info. Technology, Business Analyst, Cyber, MIS Intern](https://jobright.ai/jobs/info/690bcf4ed046ab6061ce8044?utm_campaign=1057&utm_source=git)** | Rochester, New York Metropolitan Area | On Site | Nov 08 |
 | **[Woburn Public Schools](https://www.woburnps.com/)** | **[Administrative Assistant (Guidance Department)](https://jobright.ai/jobs/info/690f36cc44146d3b6ec5ab37?utm_campaign=1057&utm_source=git)** | Woburn, MA | On Site | Nov 08 |
 | **[PNC](http://www.pnc.com)** | **[Corporate & Institutional Banking Undergraduate Intern - Real Estate Banking](https://jobright.ai/jobs/info/690f016744146d3b6ec5945c?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Nov 08 |
-| **[Georgia Southwestern State University](http://www.gsw.edu/)** | **[Work Study Student Assistant - Financial Aid](https://jobright.ai/jobs/info/690f4900221b890c27814e1c?utm_campaign=1057&utm_source=git)** | Americus, GA | On Site | Nov 07 |
 | **[Memorial Sloan Kettering Cancer Center](http://www.mskcc.org)** | **[Clinical Operations Summer Intern](https://jobright.ai/jobs/info/690ef41544146d3b6ec58ee3?utm_campaign=1057&utm_source=git)** | New York, United States | Remote | Nov 07 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Technology Internship (Summer 2026)](https://jobright.ai/jobs/info/690eefc544146d3b6ec58c82?utm_campaign=1057&utm_source=git)** | Oklahoma City, OK | On Site | Nov 07 |
 | **[Memorial Sloan Kettering Cancer Center](http://www.mskcc.org)** | **[Clinical Operations Summer Intern](https://jobright.ai/jobs/info/690ee4d5d046ab6061d01fd5?utm_campaign=1057&utm_source=git)** | New York - Teleworker | Remote | Nov 07 |
@@ -153,7 +154,6 @@ For a complete list, click the following sortable link below:
 | **[AMPED Association Management](https://manageassociations.com/)** | **[Association Management College Internship](https://jobright.ai/jobs/info/690e9106221b890c2780f62c?utm_campaign=1057&utm_source=git)** | Middleton, WI | On Site | Nov 07 |
 | **[Holmes Murphy](http://www.holmesmurphy.com/)** | **[Growth & Development Intern - Summer 2026 (West Des Moines, IA)](https://jobright.ai/jobs/info/690e9104221b890c2780f62b?utm_campaign=1057&utm_source=git)** | West Des Moines, IA | On Site | Nov 07 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/690e8d5c44146d3b6ec55649?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 07 |
-| ↳ | **[2025/2026 - Art Teacher & Intern - Elementary](https://jobright.ai/jobs/info/690e83c1d046ab6061cfe5f7?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 07 |
 | **[Kansas Department of Health and Environment](http://www.kdheks.gov)** | **[Adolescent Engagement Intern](https://jobright.ai/jobs/info/690e7fc144146d3b6ec54e13?utm_campaign=1057&utm_source=git)** | Shawnee County, KS | On Site | Nov 07 |
 | **[Eastern Washington University](http://www.ewu.edu/)** | **[Program Coordinator - Student Financial Services](https://jobright.ai/jobs/info/690e7a60d046ab6061cfe0db?utm_campaign=1057&utm_source=git)** | Cheney, WA | On Site | Nov 07 |
 | **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant, Resident Assistant](https://jobright.ai/jobs/info/690ad15fd046ab6061ce09c0?utm_campaign=1057&utm_source=git)** | Sarasota, FL | On Site | Nov 07 |
