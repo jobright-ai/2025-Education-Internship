@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/69111e2b183be660d267ac79?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 09 |
+| ↳ | **[2025/2026 - Science Specialist Teacher and Interns - Elementary](https://jobright.ai/jobs/info/69111e20183be660d267ac77?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 09 |
+| ↳ | **[2025/2026 - Art Teacher & Intern - Secondary](https://jobright.ai/jobs/info/69111df1bb519377733ee154?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 09 |
+| ↳ | **[2025/2026 - Art Teacher & Intern - Elementary](https://jobright.ai/jobs/info/69111dc2183be660d267ac62?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 09 |
+| ↳ | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/69111d9f183be660d267ac5a?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 09 |
+| **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Career Development Program](https://jobright.ai/jobs/info/6911128abb519377733ee0ad?utm_campaign=1057&utm_source=git)** | Wisconsin, United States | Remote | Nov 09 |
 | **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/69110149bb519377733eded4?utm_campaign=1057&utm_source=git)** | Racine, WI | Remote | Nov 09 |
 | **[Arvento A](arventoa.us)** | **[Career Development Program](https://jobright.ai/jobs/info/6910fd7f183be660d267a94f?utm_campaign=1057&utm_source=git)** | Wisconsin, United States | Remote | Nov 09 |
 | **[University of La Verne](http://laverne.edu)** | **[Natural Science Division Student Assistant (25/26) - NFWS (Student)](https://jobright.ai/jobs/info/6910f1d3183be660d267a675?utm_campaign=1057&utm_source=git)** | La Verne, CA | Hybrid | Nov 09 |
@@ -87,9 +93,10 @@ For a complete list, click the following sortable link below:
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Art Teacher & Intern - Elementary](https://jobright.ai/jobs/info/690fd528bb519377733e9d41?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 08 |
 | **[CharacterStrong](https://characterstrong.com)** | **[Curriculum Intern](https://jobright.ai/jobs/info/68f0b574eb273a32d976c9ea?utm_campaign=1057&utm_source=git)** | Puyallup, WA | On Site | Nov 08 |
 | **[Sun Valley Academy](http://www.sunvalleyacademy.org)** | **[Aspiring Educators Enrichment Program (Internship)](https://jobright.ai/jobs/info/690faa8ebb519377733e9979?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Nov 08 |
+| **[Ally](http://www.ally.com/)** | **[Summer 2026 Internship – Auto Finance (Lawrenceville, GA)](https://jobright.ai/jobs/info/68cd04514d568306aabd195f?utm_campaign=1057&utm_source=git)** | Lawrenceville, GA | On Site | Nov 08 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Neuro Cardio - APP - Internal Medicine](https://jobright.ai/jobs/info/690f8b1c988c2b7b4ec4e6c5?utm_campaign=1057&utm_source=git)** | Florida, United States | On Site | Nov 08 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/690f7db3988c2b7b4ec4e343?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Nov 08 |
-| **[Edmonds College](https://www.edmonds.edu)** | **[Office Assistant 3 - Career Action Center](https://jobright.ai/jobs/info/690f7938183be660d2675619?utm_campaign=1057&utm_source=git)** | Lynnwood, WA | On Site | Nov 08 |
+| **[Edmonds College](https://www.edmonds.edu)** | **[Office Assistant 3 - Career Action Center](https://jobright.ai/jobs/info/690f7a84bb519377733e8bf6?utm_campaign=1057&utm_source=git)** | Lynnwood, WA | On Site | Nov 08 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Florida A&M / FSU](https://jobright.ai/jobs/info/68bc3c5b3bf9eb44f83238e2?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Nov 08 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[RN Intern- Cardiac Cath Lab](https://jobright.ai/jobs/info/68c2932603b99f6b342968d5?utm_campaign=1057&utm_source=git)** | Mason City, IA | On Site | Nov 08 |
 | **[UPMC](https://www.upmc.com/)** | **[Student Nurse Internship (SNI) Program: Central PA Hospitals](https://jobright.ai/jobs/info/689f19e683d13d1f5b6c43b3?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Nov 08 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/690e8d5c44146d3b6ec55649?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 07 |
 | ↳ | **[2025/2026 - Art Teacher & Intern - Elementary](https://jobright.ai/jobs/info/690e83c1d046ab6061cfe5f7?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 07 |
 | **[Kansas Department of Health and Environment](http://www.kdheks.gov)** | **[Adolescent Engagement Intern](https://jobright.ai/jobs/info/690e7fc144146d3b6ec54e13?utm_campaign=1057&utm_source=git)** | Shawnee County, KS | On Site | Nov 07 |
-| **[Eastern Washington University](http://www.ewu.edu/)** | **[Program Coordinator - Student Financial Services](https://jobright.ai/jobs/info/690e7a60d046ab6061cfe0db?utm_campaign=1057&utm_source=git)** | Cheney, WA | On Site | Nov 07 |
-| **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant, Resident Assistant](https://jobright.ai/jobs/info/690ad15fd046ab6061ce09c0?utm_campaign=1057&utm_source=git)** | Sarasota, FL | On Site | Nov 07 |
-| **[Versiti Blood Center of Wisconsin](https://www.bcw.edu/bcw/index.htm)** | **[Summer 2026 Student Internship - Volunteer Services- Organ Procurement Organization- Donate Life](https://jobright.ai/jobs/info/6905319c63502c0aded79647?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | Nov 07 |
-| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Global Training and Documentation Intern](https://jobright.ai/jobs/info/690e63e0221b890c2780d6d4?utm_campaign=1057&utm_source=git)** | Lexington, MA | Hybrid | Nov 07 |
-| **[Centerstone](https://centerstone.org/)** | **[Master Level Intern](https://jobright.ai/jobs/info/690e8328221b890c2780ed8d?utm_campaign=1057&utm_source=git)** | Cleveland, TN | On Site | Nov 07 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Learning & Development Intern (one year - full time)](https://jobright.ai/jobs/info/690e746d44146d3b6ec546ca?utm_campaign=1057&utm_source=git)** | Riverton, UT | Hybrid | Nov 07 |
-| **[Reliance Matrix](https://reliancematrix.com)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/690e798ed046ab6061cfe021?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | Hybrid | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
