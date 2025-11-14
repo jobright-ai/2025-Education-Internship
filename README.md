@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gaylor Electric, Inc.](https://www.gaylor.com/)** | **[College Craft Internship (Atlanta, Summer 2026)](https://jobright.ai/jobs/info/6916b29a286ccf0a15138ba4?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Nov 13 |
+| **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Student Success Intern, Chartwells Higher Ed / Johnson & Wales University - Charlotte](https://jobright.ai/jobs/info/6916ad086f36db06ef058ea8?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Nov 13 |
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Intern-Personal Training](https://jobright.ai/jobs/info/69169fa06f36db06ef0586a0?utm_campaign=1057&utm_source=git)** | Chanhassen, MN | On Site | Nov 13 |
 | **[Children's Minnesota](https://www.childrensmn.org/)** | **[Child Life Intern](https://jobright.ai/jobs/info/69169d95286ccf0a15137f28?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Nov 13 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Undergraduate Summer - Tribal Education Partnership Program/BEST, Remote](https://jobright.ai/jobs/info/6916969c286ccf0a15137b38?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | Hybrid | Nov 13 |
@@ -70,6 +72,9 @@ For a complete list, click the following sortable link below:
 | **[Red Bull](https://redbull.com)** | **[2026 Internship, Spring - Academy Administration & Operations](https://jobright.ai/jobs/info/69168cdb6f36db06ef057b8f?utm_campaign=1057&utm_source=git)** | East Hanover, NJ, USA | On Site | Nov 13 |
 | **[Sandstone Care](https://www.sandstonecare.com)** | **[Clinical Internship](https://jobright.ai/jobs/info/69126ed0ea9ab01b82bf29ec?utm_campaign=1057&utm_source=git)** | Sandstone Care - Cascade, Colorado | On Site | Nov 13 |
 | **[SRAM](https://www.sram.com/en/quarq)** | **[SRAM Technical University (STU) Intern](https://jobright.ai/jobs/info/691689e29c388539cbdfc619?utm_campaign=1057&utm_source=git)** | Colorado Springs, CO | Hybrid | Nov 13 |
+| **[Badger Meter](http://badgermeter.com)** | **[Training and Documentation Intern](https://jobright.ai/jobs/info/6916b3ec286ccf0a15138c50?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | Nov 13 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Assistant Director, International Student Services](https://jobright.ai/jobs/info/6916a6fa9c388539cbdfd8ee?utm_campaign=1057&utm_source=git)** | Opa-Locka, FL | On Site | Nov 13 |
+| ↳ | **[Adjunct Dissertation Chair- International Psychology- Online Campus](https://jobright.ai/jobs/info/6916b421286ccf0a15138c79?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Nov 13 |
 | **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Spring 2026 - Therapeutic Foster Care Internship](https://jobright.ai/jobs/info/69167fa4286ccf0a15136ad7?utm_campaign=1057&utm_source=git)** | Jackson, MS | On Site | Nov 13 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/69167e5e9c388539cbdfbe69?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 13 |
 | **[Dubin Research & Consulting (DRC)](https://www.dubinconsulting.com)** | **[Student Internship, Research](https://jobright.ai/jobs/info/69167dd66f36db06ef057132?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Nov 13 |
@@ -98,13 +103,13 @@ For a complete list, click the following sortable link below:
 | **[Axis Community Health](https://www.axishealth.org)** | **[MENTAL HEALTH INTERN](https://jobright.ai/jobs/info/689fccadcc9ee94dc9119ec8?utm_campaign=1057&utm_source=git)** | Pleasanton, CA | Hybrid | Nov 13 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - DC Metro (49431)](https://jobright.ai/jobs/info/69166dfb9c388539cbdfb1f7?utm_campaign=1057&utm_source=git)** | Owings Mills, MD | On Site | Nov 13 |
 | ↳ | **[Future Leaders Program Summer 2026 - Ohio (49430)](https://jobright.ai/jobs/info/69166b52286ccf0a15135b06?utm_campaign=1057&utm_source=git)** | Beachwood, OH | On Site | Nov 13 |
-| **[Centerstone](https://centerstone.org/)** | **[Master Level Internship Spring Semester](https://jobright.ai/jobs/info/69166c736f36db06ef0563ca?utm_campaign=1057&utm_source=git)** | Greenwood, IN | On Site | Nov 13 |
-| ↳ | **[Bachelor Level Intern Spring Semester](https://jobright.ai/jobs/info/69165d929c388539cbdfa5aa?utm_campaign=1057&utm_source=git)** | Jeffersonville, IN | On Site | Nov 13 |
-| ↳ | **[Master Level Internship Spring Semester](https://jobright.ai/jobs/info/69165e649c388539cbdfa657?utm_campaign=1057&utm_source=git)** | Richmond, IN | On Site | Nov 13 |
+| **[Centerstone](https://centerstone.org/)** | **[Bachelor Level Intern Spring Semester](https://jobright.ai/jobs/info/69165d929c388539cbdfa5aa?utm_campaign=1057&utm_source=git)** | Jeffersonville, IN | On Site | Nov 13 |
+| ↳ | **[Master Level Internship Spring Semester](https://jobright.ai/jobs/info/69166c736f36db06ef0563ca?utm_campaign=1057&utm_source=git)** | Greenwood, IN | On Site | Nov 13 |
 | ↳ | **[Master Level Internship Spring Semester](https://jobright.ai/jobs/info/69165ce76f36db06ef055844?utm_campaign=1057&utm_source=git)** | Jeffersonville, IN | On Site | Nov 13 |
-| ↳ | **[Bachelor Level Intern Spring Semester](https://jobright.ai/jobs/info/69168ea1286ccf0a15137621?utm_campaign=1057&utm_source=git)** | Richmond, IN | On Site | Nov 13 |
-| ↳ | **[Bachelor Level Intern Spring Semester](https://jobright.ai/jobs/info/691668c1286ccf0a1513589e?utm_campaign=1057&utm_source=git)** | Bloomington, IN | On Site | Nov 13 |
+| ↳ | **[Master Level Internship Spring Semester](https://jobright.ai/jobs/info/69165e649c388539cbdfa657?utm_campaign=1057&utm_source=git)** | Richmond, IN | On Site | Nov 13 |
 | ↳ | **[Bachelor Level Intern Spring Semester](https://jobright.ai/jobs/info/69165ce09c388539cbdfa513?utm_campaign=1057&utm_source=git)** | Seymour, IN | On Site | Nov 13 |
+| ↳ | **[Bachelor Level Intern Spring Semester](https://jobright.ai/jobs/info/691668c1286ccf0a1513589e?utm_campaign=1057&utm_source=git)** | Bloomington, IN | On Site | Nov 13 |
+| ↳ | **[Bachelor Level Intern Spring Semester](https://jobright.ai/jobs/info/69168ea1286ccf0a15137621?utm_campaign=1057&utm_source=git)** | Richmond, IN | On Site | Nov 13 |
 | ↳ | **[Bachelor Level Intern Spring Semester](https://jobright.ai/jobs/info/69166b44286ccf0a15135afb?utm_campaign=1057&utm_source=git)** | Greenwood, IN | On Site | Nov 13 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Visitor Center Guide Development Intern - Quabbin Visitor Center - (Unpaid Internship)](https://jobright.ai/jobs/info/691684366f36db06ef057453?utm_campaign=1057&utm_source=git)** | United States-Massachusetts-Belchertown-485 Ware Road | On Site | Nov 13 |
 | **[Travelers](https://www.travelers.com)** | **[Claim Professional Development Program Internship](https://jobright.ai/jobs/info/6916719d286ccf0a15135fc1?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | Hybrid | Nov 13 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Student Advisor, Senior](https://jobright.ai/jobs/info/69162ea16f36db06ef05389b?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Nov 13 |
 | **[Corebridge Financial](https://www.corebridgefinancial.com)** | **[2026 Corebridge Summer Internship Program - Retirement Services](https://jobright.ai/jobs/info/68ccc2fad99309000e5a2cab?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Nov 13 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Learning and Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68c026a28e65e77df55beeae?utm_campaign=1057&utm_source=git)** | Greensboro, NC | On Site | Nov 13 |
-| **[Zurich North America](https://www.zurichna.com)** | **[ZRS Internship - Training and Development - Schaumburg, IL (Summer 2026)](https://jobright.ai/jobs/info/68ddaf1744d32141e0bfa336?utm_campaign=1057&utm_source=git)** | Schaumburg, IL | Hybrid | Nov 13 |
-| **[TIH](https://www.truistinsurance.com/)** | **[Intern - CRC](https://jobright.ai/jobs/info/6915e29c9c388539cbdf6810?utm_campaign=1057&utm_source=git)** | Franklin, TN | On Site | Nov 13 |
-| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (OT/OTA Hospital Inpatient) Fall 2026 OT Fieldwork](https://jobright.ai/jobs/info/68c28af18753a565272fb03f?utm_campaign=1057&utm_source=git)** | Elkridge, MD | On Site | Nov 13 |
-| **[University of Vermont](http://www.uvm.edu/medicine)** | **[Assistant Professor of Psychological Science: Clinical Psychologist](https://jobright.ai/jobs/info/68c2196933864f172f9bcf3a?utm_campaign=1057&utm_source=git)** | Burlington, VT | On Site | Nov 13 |
-| **[Providence Health & Services](https://www.providence.org/)** | **[Clinical Student Intern](https://jobright.ai/jobs/info/68f062c19e09d311e04314fc?utm_campaign=1057&utm_source=git)** | Spokane, WA | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
