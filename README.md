@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/691a011bbcdbf3560c9d7a99?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Nov 16 |
+| **[Learn It Academic Services](https://www.learnitacademic.com/)** | **[Intern School Psychologist](https://jobright.ai/jobs/info/691a004b45fb6f5ead8aadcb?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Nov 16 |
+| **[Cornerstone Advocacy Service](http://www.cornerstonemn.org)** | **[Clinical Intern (Masters-Level)](https://jobright.ai/jobs/info/6919f40c45fb6f5ead8aac3f?utm_campaign=1057&utm_source=git)** | Bloomington, MN | On Site | Nov 16 |
+| **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Leadership Development Program (MBA)](https://jobright.ai/jobs/info/68a8f5696acf96396f723d43?utm_campaign=1057&utm_source=git)** | Midland, MI | On Site | Nov 16 |
 | **[Valorantum Capital](valorantumcapital.us)** | **[Corporate Trainee Program Internship](https://jobright.ai/jobs/info/6919eae115b4156367187a45?utm_campaign=1057&utm_source=git)** | Sussex, WI | On Site | Nov 16 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[F1 International Student Coordinator](https://jobright.ai/jobs/info/6919e7f845fb6f5ead8aab52?utm_campaign=1057&utm_source=git)** | Troy, MI | On Site | Nov 16 |
 | ↳ | **[Adjunct Faculty - International and Global Studies](https://jobright.ai/jobs/info/6919e7b115b4156367187a07?utm_campaign=1057&utm_source=git)** | Worcester, MA | On Site | Nov 16 |
@@ -140,10 +144,10 @@ For a complete list, click the following sortable link below:
 | **[UC Health](http://uchealth.com/)** | **[Intern- EAP Counseling](https://jobright.ai/jobs/info/6917ee7b15b415636717ceb6?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Nov 14 |
 | **[U.S. Green Building Council](http://www.usgbc.org)** | **[Healthy Schools Research Intern (Part-Time-- $20 to $25/hr)](https://jobright.ai/jobs/info/69183e4a15b4156367180503?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Nov 14 |
 | **[Yale New Haven Health](https://www.ynhhs.org/)** | **[Registered Nurse Anesthetist Intern](https://jobright.ai/jobs/info/69180ef8bcdbf3560c9ce241?utm_campaign=1057&utm_source=git)** | New Haven, CT | On Site | Nov 14 |
+| **[Westerly Hospital](https://westerlyhospital.org)** | **[Registered Nurse Anesthetist Intern](https://jobright.ai/jobs/info/6917e116bcdbf3560c9cc3f6?utm_campaign=1057&utm_source=git)** | New Haven, CT | On Site | Nov 14 |
 | **[Valkyrie Trading](http://www.valkyrietrading.com/)** | **[May 2026 Trading Boot Camp](https://jobright.ai/jobs/info/6917d95915b415636717c2ab?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Nov 14 |
 | **[Austin PBS](http://www.austinpbs.org)** | **[Education Intern](https://jobright.ai/jobs/info/6917fa2645fb6f5ead8a090f?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Nov 14 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Spring 2026] Education - Youth Learning Internship](https://jobright.ai/jobs/info/6917f60215b415636717d388?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Nov 14 |
-| **[Westerly Hospital](https://westerlyhospital.org)** | **[Registered Nurse Anesthetist Intern](https://jobright.ai/jobs/info/6917d5c1bcdbf3560c9cbda9?utm_campaign=1057&utm_source=git)** | New Haven, CT | On Site | Nov 14 |
 | **[University of Vermont](http://www.uvm.edu/medicine)** | **[Assistant Professor of Psychological Science: Clinical Psychologist](https://jobright.ai/jobs/info/6917d37015b415636717be81?utm_campaign=1057&utm_source=git)** | Burlington, VT | On Site | Nov 14 |
 | **[Strength and Conditioning Mentorship](https://www.linkedin.com/company/108999066)** | **[UCLA Athletic Performance Winter-Spring 2026 Internship](https://jobright.ai/jobs/info/6917cdec45fb6f5ead89ec03?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Nov 14 |
 | **[Atlantic Health](http://www.atlantichealth.org)** | **[Rehabilitation Services (Occupational Therapy) Intern](https://jobright.ai/jobs/info/6917cbbbbcdbf3560c9cb792?utm_campaign=1057&utm_source=git)** | Morristown, NJ | On Site | Nov 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Galapagos Charter Schools](http://www.galapagoscharter.org)** | **[Summer Fellow Instructor](https://jobright.ai/jobs/info/6917c8bbbcdbf3560c9cb57a?utm_campaign=1057&utm_source=git)** | Rockford, IL | On Site | Nov 14 |
 | **[FleishmanHillard](http://fleishmanhillard.com)** | **[Graduate Development Program, Health & Life Science (Full-Time Internship) - New York](https://jobright.ai/jobs/info/6917c20545fb6f5ead89e576?utm_campaign=1057&utm_source=git)** | New York, New York, United States | Hybrid | Nov 14 |
 | **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Summer 2026 Learning & Engagement Internship](https://jobright.ai/jobs/info/6917bfee45fb6f5ead89e3ec?utm_campaign=1057&utm_source=git)** | Bentonville, AR | On Site | Nov 14 |
-| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Art Teacher & Intern - Elementary](https://jobright.ai/jobs/info/6917bf3015b415636717b1c6?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 14 |
-| ↳ | **[2025/2026 - Art Teacher & Intern - Secondary](https://jobright.ai/jobs/info/6917bf0dbcdbf3560c9caed5?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 14 |
-| **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Summer 2026 Fellows and Internship Programs Internship](https://jobright.ai/jobs/info/6917be5f45fb6f5ead89e262?utm_campaign=1057&utm_source=git)** | Bentonville, AR | On Site | Nov 14 |
-| **[Eliada Homes](http://www.eliada.org)** | **[Eliada Students Training for Advancement (ESTA) Internship](https://jobright.ai/jobs/info/6917be5215b415636717b116?utm_campaign=1057&utm_source=git)** | Asheville, NC | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
