@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McAllister & Quinn](https://www.jm-aq.com)** | **[Higher Education Intern - Spring 2026](https://jobright.ai/jobs/info/691c34a8ff70244984166bc5?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Nov 18 |
+| **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Emergency Department](https://jobright.ai/jobs/info/691c2a20bcdbf3560c9e607a?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Nov 18 |
 | **[Salem Public Schools](https://www.salemk12.org/)** | **[21C High School Internship, Salem Public Schools, Internal SPS Students ONLY [SY 2025-2026]](https://jobright.ai/jobs/info/691bf08615b41563671945ed?utm_campaign=1057&utm_source=git)** | Salem, MA | On Site | Nov 17 |
 | ↳ | **[Collins Middle School New Teacher University Facilitator, Salem Public Schools, Internal Candidates](https://jobright.ai/jobs/info/691bee5a22a2cb4b9bd17a1e?utm_campaign=1057&utm_source=git)** | Salem, MA | On Site | Nov 17 |
 | **[Endeavor Air](http://www.endeavorair.com/)** | **[Flight Operations Training Intern](https://jobright.ai/jobs/info/691c108115b41563671959d6?utm_campaign=1057&utm_source=git)** | US-MN-Minneapolis | On Site | Nov 17 |
@@ -129,32 +131,30 @@ For a complete list, click the following sortable link below:
 | **[McDowell Center for Children](http://mcdowellcenterforchildren.com)** | **[STUDENT/INTERN](https://jobright.ai/jobs/info/691bb1c215b4156367191b5a?utm_campaign=1057&utm_source=git)** | Dyersburg, TN | On Site | Nov 17 |
 | **[IMC Trading](https://www.imc.com/us/imc-investments/)** | **[Quantitative Trader Intern - Summer 2026](https://jobright.ai/jobs/info/690f84f9183be660d26758de?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Nov 17 |
 | **[Centene Corporation](http://www.centene.com)** | **[Provider Communications Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691bb18b15b4156367191b41?utm_campaign=1057&utm_source=git)** | Utah, United States | Remote | Nov 17 |
-| ↳ | **[Provider Communications Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691bb54015b4156367191df1?utm_campaign=1057&utm_source=git)** | Washington, DC | Remote | Nov 17 |
-| ↳ | **[Provider Communications Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691ba27515b415636719124c?utm_campaign=1057&utm_source=git)** | Alabama, United States | Remote | Nov 17 |
 | ↳ | **[Provider Communications Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691ba3ec15b415636719138b?utm_campaign=1057&utm_source=git)** | Arkansas, United States | Remote | Nov 17 |
-| ↳ | **[Provider Communications Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691bb91015b41563671921bf?utm_campaign=1057&utm_source=git)** | Minnesota, United States | Remote | Nov 17 |
-| ↳ | **[Provider Communications Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691baf6ebcdbf3560c9e16d8?utm_campaign=1057&utm_source=git)** | Virginia, United States | Remote | Nov 17 |
-| ↳ | **[Provider Communications Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691bd25022a2cb4b9bd16772?utm_campaign=1057&utm_source=git)** | Bernalillo County, NM | Remote | Nov 17 |
+| ↳ | **[Provider Communications Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691ba91abcdbf3560c9e129c?utm_campaign=1057&utm_source=git)** | Florida, United States | Remote | Nov 17 |
+| ↳ | **[Provider Communications Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691bcbe822a2cb4b9bd16255?utm_campaign=1057&utm_source=git)** | Georgia, United States | Remote | Nov 17 |
+| ↳ | **[Provider Communications Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691bb54015b4156367191df1?utm_campaign=1057&utm_source=git)** | Washington, DC | Remote | Nov 17 |
+| ↳ | **[Provider Communications Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691bc037bcdbf3560c9e229b?utm_campaign=1057&utm_source=git)** | Massachusetts, United States | Remote | Nov 17 |
+| ↳ | **[Provider Communications Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691bc33fbcdbf3560c9e25b7?utm_campaign=1057&utm_source=git)** | South Carolina, United States | Remote | Nov 17 |
+| ↳ | **[Provider Communications Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691bc4d715b4156367192972?utm_campaign=1057&utm_source=git)** | West Virginia, United States | Remote | Nov 17 |
+| ↳ | **[Provider Communications Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691bbd6dbcdbf3560c9e20cc?utm_campaign=1057&utm_source=git)** | New Jersey, United States | Remote | Nov 17 |
 | ↳ | **[Provider Communications Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691bb343bcdbf3560c9e1999?utm_campaign=1057&utm_source=git)** | Alaska, United States | Remote | Nov 17 |
 | ↳ | **[Provider Communications Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691bb333bcdbf3560c9e198a?utm_campaign=1057&utm_source=git)** | Maryland, United States | Remote | Nov 17 |
-| ↳ | **[Provider Communications Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691bc4d715b4156367192972?utm_campaign=1057&utm_source=git)** | West Virginia, United States | Remote | Nov 17 |
-| ↳ | **[Provider Communications Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691bcbe822a2cb4b9bd16255?utm_campaign=1057&utm_source=git)** | Georgia, United States | Remote | Nov 17 |
-| ↳ | **[Provider Communications Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691ba91abcdbf3560c9e129c?utm_campaign=1057&utm_source=git)** | Florida, United States | Remote | Nov 17 |
-| ↳ | **[Provider Communications Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691bbd6dbcdbf3560c9e20cc?utm_campaign=1057&utm_source=git)** | New Jersey, United States | Remote | Nov 17 |
-| ↳ | **[Provider Communications Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691bc33fbcdbf3560c9e25b7?utm_campaign=1057&utm_source=git)** | South Carolina, United States | Remote | Nov 17 |
+| ↳ | **[Provider Communications Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691bd25022a2cb4b9bd16772?utm_campaign=1057&utm_source=git)** | Bernalillo County, NM | Remote | Nov 17 |
+| ↳ | **[Provider Communications Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691bb91015b41563671921bf?utm_campaign=1057&utm_source=git)** | Minnesota, United States | Remote | Nov 17 |
+| ↳ | **[Provider Communications Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691ba27515b415636719124c?utm_campaign=1057&utm_source=git)** | Alabama, United States | Remote | Nov 17 |
 | ↳ | **[Provider Communications Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691bc4a122a2cb4b9bd15e6d?utm_campaign=1057&utm_source=git)** | Delaware, United States | Remote | Nov 17 |
+| ↳ | **[Provider Communications Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691baf6ebcdbf3560c9e16d8?utm_campaign=1057&utm_source=git)** | Virginia, United States | Remote | Nov 17 |
 | ↳ | **[Provider Communications Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691bb67722a2cb4b9bd15485?utm_campaign=1057&utm_source=git)** | North Carolina, United States | Remote | Nov 17 |
-| ↳ | **[Provider Communications Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691bc037bcdbf3560c9e229b?utm_campaign=1057&utm_source=git)** | Massachusetts, United States | Remote | Nov 17 |
 | ↳ | **[Provider Communications Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691bab8122a2cb4b9bd14c6e?utm_campaign=1057&utm_source=git)** | Michigan, United States | Remote | Nov 17 |
 | ↳ | **[Provider Communications Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691bc36c22a2cb4b9bd15d3c?utm_campaign=1057&utm_source=git)** | Missouri, United States | Remote | Nov 17 |
+| ↳ | **[Provider Communications Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691bb664bcdbf3560c9e1cf3?utm_campaign=1057&utm_source=git)** | Pennsylvania, United States | Remote | Nov 17 |
+| ↳ | **[Provider Communications Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691ba0f615b4156367191102?utm_campaign=1057&utm_source=git)** | Kenton County, KY | Remote | Nov 17 |
 | ↳ | **[Provider Communications Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691bb1a622a2cb4b9bd1509d?utm_campaign=1057&utm_source=git)** | Colorado, United States | Remote | Nov 17 |
 | ↳ | **[Provider Communications Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691ba24d15b415636719121f?utm_campaign=1057&utm_source=git)** | Mississippi, United States | Remote | Nov 17 |
-| ↳ | **[Provider Communications Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691bb664bcdbf3560c9e1cf3?utm_campaign=1057&utm_source=git)** | Pennsylvania, United States | Remote | Nov 17 |
 | ↳ | **[Provider Communications Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691bab0a22a2cb4b9bd14c15?utm_campaign=1057&utm_source=git)** | Indiana, United States | Remote | Nov 17 |
-| ↳ | **[Provider Communications Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691ba0f615b4156367191102?utm_campaign=1057&utm_source=git)** | Kenton County, KY | Remote | Nov 17 |
-| ↳ | **[Provider Communications Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691ba18015b415636719116e?utm_campaign=1057&utm_source=git)** | Arizona, United States | Remote | Nov 17 |
-| ↳ | **[Provider Communications Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691bc28d22a2cb4b9bd15c46?utm_campaign=1057&utm_source=git)** | Maine, United States | Remote | Nov 17 |
 | ↳ | **[Provider Communications Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691babf915b415636719176f?utm_campaign=1057&utm_source=git)** | Ohio, United States | Remote | Nov 17 |
+| ↳ | **[Provider Communications Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691bc28d22a2cb4b9bd15c46?utm_campaign=1057&utm_source=git)** | Maine, United States | Remote | Nov 17 |
 | ↳ | **[Provider Communications Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691babf915b415636719176e?utm_campaign=1057&utm_source=git)** | Nevada, United States | Remote | Nov 17 |
-| ↳ | **[Provider Communications Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691ba91abcdbf3560c9e129b?utm_campaign=1057&utm_source=git)** | New York, United States | Remote | Nov 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
