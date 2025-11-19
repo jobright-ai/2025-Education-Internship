@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First Quality](http://firstquality.com/)** | **[Training Intern](https://jobright.ai/jobs/info/691dca4a61dc50590a64a56c?utm_campaign=1057&utm_source=git)** | US SC Anderson | On Site | Nov 19 |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Justice & Public Safety - Division of Professional Development](https://jobright.ai/jobs/info/68f2d5c49a65fd3458581660?utm_campaign=1057&utm_source=git)** | Louisville, KY | On Site | Nov 19 |
 | **[Allegheny Health Network](https://www.ahn.org)** | **[Summer 2026 Quality Analytics Undergraduate Intern](https://jobright.ai/jobs/info/6916d7bb286ccf0a15139be4?utm_campaign=1057&utm_source=git)** | Erie-Meadville Area | On Site | Nov 19 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Clinical and Population Health Graduate Intern](https://jobright.ai/jobs/info/68e9f63254fbf903f6a7fd20?utm_campaign=1057&utm_source=git)** | Erie-Meadville Area | On Site | Nov 19 |
 | ↳ | **[Summer 2026 Financial Systems Undergraduate Intern](https://jobright.ai/jobs/info/690d65b3d046ab6061cf5d05?utm_campaign=1057&utm_source=git)** | Erie-Meadville Area | On Site | Nov 19 |
@@ -131,15 +133,13 @@ For a complete list, click the following sortable link below:
 | **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/691cc0e2ff70244984169f72?utm_campaign=1057&utm_source=git)** | Racine, WI | Remote | Nov 18 |
 | **[BALENCIAGA](https://www.balenciaga.com/)** | **[BALENCIAGA Spring 2026 Retail & Product Training Intern / New York City](https://jobright.ai/jobs/info/691cc0dfbcdbf3560c9e96ae?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Nov 18 |
 | **[McGill University](http://www.mcgill.ca/)** | **[Program Assistant C - Training and Resource Development Intern](https://jobright.ai/jobs/info/691cbed9ff70244984169de3?utm_campaign=1057&utm_source=git)** | Brown Student Serv. | On Site | Nov 18 |
-| **[Draper](https://www.draper.com)** | **[Corporate and Community Engagement Intern](https://jobright.ai/jobs/info/691d6a1a7481340785ed75a7?utm_campaign=1057&utm_source=git)** | Cambridge, MA | Hybrid | Nov 18 |
 | **[Emerson Collective](http://emersoncollective.com)** | **[Summer Intern, XQ Institute: Educational Outcomes Audit & Analysis](https://jobright.ai/jobs/info/691ceb94ff7024498416bd4f?utm_campaign=1057&utm_source=git)** | Washington, D.C. | On Site | Nov 18 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Agency Training and Development Intern – Summer 2026](https://jobright.ai/jobs/info/691ce09922a2cb4b9bd1e26d?utm_campaign=1057&utm_source=git)** | West Des Moines, IA, US | On Site | Nov 18 |
 | **[Dane County](http://www.co.dane.wi.us/)** | **[LTE Intern - VITA Scheduler](https://jobright.ai/jobs/info/691ce9c822a2cb4b9bd1ea3c?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Nov 18 |
 | **[Capstone Investment Advisors](http://capstoneco.com)** | **[Summer 2026 Non-Investment Internship](https://jobright.ai/jobs/info/6900f9104539ea1f2141b260?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Nov 18 |
-| **[Simpson College](http://www.simpson.edu/)** | **[Sports Administration Assistant Professor](https://jobright.ai/jobs/info/691d6d077481340785ed7741?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Nov 18 |
-| ↳ | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/691ce347bcdbf3560c9eadc4?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Nov 18 |
+| **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/691ce347bcdbf3560c9eadc4?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Nov 18 |
+| ↳ | **[Sports Administration Assistant Professor](https://jobright.ai/jobs/info/691d6d077481340785ed7741?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Nov 18 |
 | ↳ | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/691d05a322a2cb4b9bd1fe5d?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Nov 18 |
-| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[FWS - Operational Technology Student Assistant](https://jobright.ai/jobs/info/691cfd62ff7024498416cbf7?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Nov 18 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Agency Training and Development Intern - Summer 2026](https://jobright.ai/jobs/info/691cd515ff7024498416ae0e?utm_campaign=1057&utm_source=git)** | West Des Moines, IA | On Site | Nov 18 |
 | **[Travelers](https://www.travelers.com)** | **[Data Science Leadership Development Program (DSLDP) Intern](https://jobright.ai/jobs/info/691cefbb22a2cb4b9bd1ee09?utm_campaign=1057&utm_source=git)** | CT - Hartford | Hybrid | Nov 18 |
 | **[Houchens Insurance Group](https://www.higusa.com)** | **[Intern](https://jobright.ai/jobs/info/68e82e5fcc49a84b7e103474?utm_campaign=1057&utm_source=git)** | Louisville, KY | On Site | Nov 18 |
@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/682977756dd7e5f8b5d79e42?utm_campaign=1057&utm_source=git)** | Greenville, SC | On Site | Nov 18 |
 | ↳ | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/67a4c8c710485bdc6e5a0841?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Nov 18 |
 | ↳ | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/67a4ce6df1a6c091c9da20ba?utm_campaign=1057&utm_source=git)** | Birmingham, AL | On Site | Nov 18 |
-| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/691accc245fb6f5ead8ade03?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Nov 18 |
-| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Coordinator: International Baccalaureate DP/CP Site (School Based)](https://jobright.ai/jobs/info/691d6d857481340785ed7768?utm_campaign=1057&utm_source=git)** | Annapolis, MD | On Site | Nov 18 |
+| **[Draper](https://www.draper.com)** | **[Corporate and Community Engagement Intern](https://jobright.ai/jobs/info/691cdcfb22a2cb4b9bd1dfae?utm_campaign=1057&utm_source=git)** | Cambridge, MA | Hybrid | Nov 18 |
+| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68cf5b75846f0b04af6817fd?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
