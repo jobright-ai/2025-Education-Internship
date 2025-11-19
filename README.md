@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Terros Health](https://www.terroshealth.org/)** | **[Intern - Olive Ave Health Center - Master's Degree Level](https://jobright.ai/jobs/info/691d581fbcdbf3560c9f013a?utm_campaign=1057&utm_source=git)** | Glendale, AZ | On Site | Nov 18 |
+| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Service Intern - Business Insurance](https://jobright.ai/jobs/info/691d5256bcdbf3560c9efdb6?utm_campaign=1057&utm_source=git)** | Aliso Viejo, CA | On Site | Nov 18 |
+| **[University of Calgary](http://www.ucalgary.ca)** | **[Student Recruitment Specialist, National](https://jobright.ai/jobs/info/6916efed6f36db06ef05b11f?utm_campaign=1057&utm_source=git)** | Calgary, Alberta, Canada | On Site | Nov 18 |
+| **[The City University of New York](http://cuny.edu)** | **[Health Practicum Placement Specialist (Academic Internship Specialist) - Health Equity, Administration, & Technology](https://jobright.ai/jobs/info/691d4837bcdbf3560c9ef6b3?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Nov 18 |
 | **[Ekho](https://www.ekho.academy/)** | **[MBA Intern](https://jobright.ai/jobs/info/691d3879bcdbf3560c9ee504?utm_campaign=1057&utm_source=git)** | United States | Remote | Nov 18 |
 | **[USA Baseball](http://www.usabaseball.com)** | **[Intern, National Training Complex Operations](https://jobright.ai/jobs/info/691d2e6cbcdbf3560c9edf38?utm_campaign=1057&utm_source=git)** | Cary, NC | On Site | Nov 18 |
 | ↳ | **[Intern, Youth Programs](https://jobright.ai/jobs/info/691d2cd70b7dff73415008c6?utm_campaign=1057&utm_source=git)** | Cary, NC | On Site | Nov 18 |
@@ -64,6 +68,10 @@ For a complete list, click the following sortable link below:
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/691d259b0b7dff7341500459?utm_campaign=1057&utm_source=git)** | Alexandria, LA | On Site | Nov 18 |
 | **[Apple Bank](https://www.applebank.com)** | **[2026 Summer Intern- Commercial Banking](https://jobright.ai/jobs/info/68e8422f09580a2fe57f5ec4?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Nov 18 |
 | **[Spartanburg Regional Healthcare System](http://spartanburgregional.com)** | **[Intern-Pharmacy P3](https://jobright.ai/jobs/info/691d238b7481340785ed434c?utm_campaign=1057&utm_source=git)** | Spartanburg, SC | On Site | Nov 18 |
+| **[UNLV Health](https://www.unlvhealth.org)** | **[Therapist Intern](https://jobright.ai/jobs/info/691d3e9bbcdbf3560c9eeb6f?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Nov 18 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Pre-Arrival Advisor](https://jobright.ai/jobs/info/691d4920bcdbf3560c9ef774?utm_campaign=1057&utm_source=git)** | College Park, MD | On Site | Nov 18 |
+| ↳ | **[Adjunct Faculty - International Psychology - DC Campus](https://jobright.ai/jobs/info/691d4d230b7dff7341502343?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Nov 18 |
+| ↳ | **[Adjunct Faculty, International Business](https://jobright.ai/jobs/info/691d3f460b7dff7341501680?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Nov 18 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Youth Programs Intern (Spring 2026- Unpaid)](https://jobright.ai/jobs/info/691d312d7481340785ed4a9a?utm_campaign=1057&utm_source=git)** | Charlottesville, VA | On Site | Nov 18 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Science Specialist Teacher and Interns - Elementary](https://jobright.ai/jobs/info/691d0f1a22a2cb4b9bd204b2?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 18 |
 | **[University of Utah Health Research](https://uofuhealth.utah.edu/research)** | **[Student Research Assistant (WS)](https://jobright.ai/jobs/info/691d0b42ff7024498416d4df?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | Nov 18 |
@@ -132,7 +140,7 @@ For a complete list, click the following sortable link below:
 | **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/682977756dd7e5f8b5d79e42?utm_campaign=1057&utm_source=git)** | Greenville, SC | On Site | Nov 18 |
 | ↳ | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/67a4ce6df1a6c091c9da20ba?utm_campaign=1057&utm_source=git)** | Birmingham, AL | On Site | Nov 18 |
 | **[Draper](https://www.draper.com)** | **[Corporate and Community Engagement Intern](https://jobright.ai/jobs/info/691cdcfb22a2cb4b9bd1dfae?utm_campaign=1057&utm_source=git)** | Cambridge, MA | Hybrid | Nov 18 |
-| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68cf5b75846f0b04af6817fd?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Nov 18 |
+| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/691accc245fb6f5ead8ade03?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Nov 18 |
 | **[Midcontinent Independent System Operator (MISO)](https://www.misoenergy.org/)** | **[2026 Summer Intern - Identity & Access Management (IAM)](https://jobright.ai/jobs/info/68f9884b6de2db04dc3e9e5f?utm_campaign=1057&utm_source=git)** | Carmel, IN | On Site | Nov 18 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Community Engagement Intern](https://jobright.ai/jobs/info/691c815fbcdbf3560c9e7976?utm_campaign=1057&utm_source=git)** | Cambridge, MA | Hybrid | Nov 18 |
 | **[Seattle Public Schools](http://www.seattleschools.org)** | **[Bilingual Instructional Assistant 1.0 FTE (2025-26 SY)](https://jobright.ai/jobs/info/691c658fff70244984167b2c?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Nov 18 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Willow Creek Community Church](https://www.willowcreek.org/)** | **[Internship and Residency Director](https://jobright.ai/jobs/info/691b8ef7bcdbf3560c9e0199?utm_campaign=1057&utm_source=git)** | South Barrington, IL | On Site | Nov 17 |
 | **[Rush University Medical Center](https://www.rush.edu/)** | **[Student Intern II-22463](https://jobright.ai/jobs/info/691be32215b4156367193c64?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Nov 17 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Technical Undergraduate Summer - Business Development (BD) & Proposal Management Department, Onsite](https://jobright.ai/jobs/info/691bd7f822a2cb4b9bd16a76?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | Hybrid | Nov 17 |
-| **[Rush University Medical Center](https://www.rush.edu/)** | **[Student Intern I-22502](https://jobright.ai/jobs/info/691bf20dbcdbf3560c9e43a6?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Nov 17 |
-| **[University of Vermont](http://www.uvm.edu/medicine)** | **[Assistant Professor of Psychological Science: Clinical Psychologist](https://jobright.ai/jobs/info/691bd03922a2cb4b9bd165a6?utm_campaign=1057&utm_source=git)** | Burlington, VT | On Site | Nov 17 |
-| **[Golden Aluminum](http://goldenaluminum.com/)** | **[Training and Development Intern](https://jobright.ai/jobs/info/691c0b1ebcdbf3560c9e53a3?utm_campaign=1057&utm_source=git)** | Fort Lupton, CO | On Site | Nov 17 |
-| **[YMCA of Honolulu](http://www.ymcahonolulu.org)** | **[Camp Counselor: Internship](https://jobright.ai/jobs/info/691bcc4522a2cb4b9bd162af?utm_campaign=1057&utm_source=git)** | Waialua, HI | On Site | Nov 17 |
-| **[Utah Tech University](https://utahtech.edu)** | **[Assistant Professor of Finance](https://jobright.ai/jobs/info/691bcb1722a2cb4b9bd16187?utm_campaign=1057&utm_source=git)** | St George, UT | On Site | Nov 17 |
-| **[University of Southern California](http://www.usc.edu)** | **[International Student Advisor I](https://jobright.ai/jobs/info/691bf56d15b4156367194913?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Nov 17 |
-| **[Sarasota Memorial Health Care System](https://www.smh.com/)** | **[** Revenue Cycle Internship **](https://jobright.ai/jobs/info/691bf10e15b415636719465f?utm_campaign=1057&utm_source=git)** | Sarasota, FL | On Site | Nov 17 |
-| **[H. J. Russell & Company](http://hjrussell.com)** | **[Summer Intern 2026](https://jobright.ai/jobs/info/68db25f50dffed6f83d2cc0a?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Nov 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
