@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Child Mind Institute](http://childmind.org)** | **[Postdoctoral Fellowship, Obsessive-Compulsive Disorders (OCD)](https://jobright.ai/jobs/info/691de02e61dc50590a64b488?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Nov 19 |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Applied Sciences Group (Audio/Vision/NLP/Multimodal)](https://jobright.ai/jobs/info/691ddc4f748c4e1301ec97a1?utm_campaign=1057&utm_source=git)** | Redmond, WA | Hybrid | Nov 19 |
+| **[McGriff](https://www.mcgriff.com)** | **[McGriff Specialty Intern - Summer 2026](https://jobright.ai/jobs/info/68c822a2f9c6ff7aedf0b080?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Nov 19 |
 | **[First Quality](http://firstquality.com/)** | **[Training Intern](https://jobright.ai/jobs/info/691dca4a61dc50590a64a56c?utm_campaign=1057&utm_source=git)** | US SC Anderson | On Site | Nov 19 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Justice & Public Safety - Division of Professional Development](https://jobright.ai/jobs/info/68f2d5c49a65fd3458581660?utm_campaign=1057&utm_source=git)** | Louisville, KY | On Site | Nov 19 |
+| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68c9daa484fc1901fd419ef0?utm_campaign=1057&utm_source=git)** | New Braunfels, TX | On Site | Nov 19 |
+| **[Clarios](https://www.clarios.com/)** | **[Learning & Development Intern (Summer 2026)](https://jobright.ai/jobs/info/690130b04539ea1f2141daf1?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | Nov 19 |
 | **[Allegheny Health Network](https://www.ahn.org)** | **[Summer 2026 Quality Analytics Undergraduate Intern](https://jobright.ai/jobs/info/6916d7bb286ccf0a15139be4?utm_campaign=1057&utm_source=git)** | Erie-Meadville Area | On Site | Nov 19 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Clinical and Population Health Graduate Intern](https://jobright.ai/jobs/info/68e9f63254fbf903f6a7fd20?utm_campaign=1057&utm_source=git)** | Erie-Meadville Area | On Site | Nov 19 |
 | ↳ | **[Summer 2026 Financial Systems Undergraduate Intern](https://jobright.ai/jobs/info/690d65b3d046ab6061cf5d05?utm_campaign=1057&utm_source=git)** | Erie-Meadville Area | On Site | Nov 19 |
@@ -78,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Ekho](https://www.ekho.academy/)** | **[MBA Intern](https://jobright.ai/jobs/info/691d3879bcdbf3560c9ee504?utm_campaign=1057&utm_source=git)** | United States | Remote | Nov 18 |
 | **[USA Baseball](http://www.usabaseball.com)** | **[Intern, National Training Complex Operations](https://jobright.ai/jobs/info/691d2e6cbcdbf3560c9edf38?utm_campaign=1057&utm_source=git)** | Cary, NC | On Site | Nov 18 |
 | ↳ | **[Intern, Youth Programs](https://jobright.ai/jobs/info/691d2cd70b7dff73415008c6?utm_campaign=1057&utm_source=git)** | Cary, NC | On Site | Nov 18 |
-| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Adjunct Dissertation Chair- International Psychology- Online Campus](https://jobright.ai/jobs/info/691d2912bcdbf3560c9edb9a?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Nov 18 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/691d259b0b7dff7341500459?utm_campaign=1057&utm_source=git)** | Alexandria, LA | On Site | Nov 18 |
 | **[Apple Bank](https://www.applebank.com)** | **[2026 Summer Intern- Commercial Banking](https://jobright.ai/jobs/info/68e8422f09580a2fe57f5ec4?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Nov 18 |
 | **[Spartanburg Regional Healthcare System](http://spartanburgregional.com)** | **[Intern-Pharmacy P3](https://jobright.ai/jobs/info/691d238b7481340785ed434c?utm_campaign=1057&utm_source=git)** | Spartanburg, SC | On Site | Nov 18 |
@@ -87,7 +91,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Adjunct Faculty - International Psychology - DC Campus](https://jobright.ai/jobs/info/691d4d230b7dff7341502343?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Nov 18 |
 | ↳ | **[Adjunct Faculty, International Business](https://jobright.ai/jobs/info/691d3f460b7dff7341501680?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Nov 18 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Youth Programs Intern (Spring 2026- Unpaid)](https://jobright.ai/jobs/info/691d312d7481340785ed4a9a?utm_campaign=1057&utm_source=git)** | Charlottesville, VA | On Site | Nov 18 |
-| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Science Specialist Teacher and Interns - Elementary](https://jobright.ai/jobs/info/691d0f1a22a2cb4b9bd204b2?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 18 |
 | **[University of Utah Health Research](https://uofuhealth.utah.edu/research)** | **[Student Research Assistant (WS)](https://jobright.ai/jobs/info/691d0b42ff7024498416d4df?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | Nov 18 |
 | **[Shoals Club](https://shoalsclub.com)** | **[Recreation and Aquatics Intern - Spring 2026](https://jobright.ai/jobs/info/691d2c34bcdbf3560c9eddb2?utm_campaign=1057&utm_source=git)** | Bald Head Island, NC | On Site | Nov 18 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Youth Programs Intern (Spring 2026- Unpaid)](https://jobright.ai/jobs/info/691d09f9bcdbf3560c9ec962?utm_campaign=1057&utm_source=git)** | Charlottesville, VA USA | On Site | Nov 18 |
@@ -133,12 +136,13 @@ For a complete list, click the following sortable link below:
 | **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/691cc0e2ff70244984169f72?utm_campaign=1057&utm_source=git)** | Racine, WI | Remote | Nov 18 |
 | **[BALENCIAGA](https://www.balenciaga.com/)** | **[BALENCIAGA Spring 2026 Retail & Product Training Intern / New York City](https://jobright.ai/jobs/info/691cc0dfbcdbf3560c9e96ae?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Nov 18 |
 | **[McGill University](http://www.mcgill.ca/)** | **[Program Assistant C - Training and Resource Development Intern](https://jobright.ai/jobs/info/691cbed9ff70244984169de3?utm_campaign=1057&utm_source=git)** | Brown Student Serv. | On Site | Nov 18 |
+| **[Draper](https://www.draper.com)** | **[Corporate and Community Engagement Intern](https://jobright.ai/jobs/info/691d6a1a7481340785ed75a7?utm_campaign=1057&utm_source=git)** | Cambridge, MA | Hybrid | Nov 18 |
 | **[Emerson Collective](http://emersoncollective.com)** | **[Summer Intern, XQ Institute: Educational Outcomes Audit & Analysis](https://jobright.ai/jobs/info/691ceb94ff7024498416bd4f?utm_campaign=1057&utm_source=git)** | Washington, D.C. | On Site | Nov 18 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Agency Training and Development Intern – Summer 2026](https://jobright.ai/jobs/info/691ce09922a2cb4b9bd1e26d?utm_campaign=1057&utm_source=git)** | West Des Moines, IA, US | On Site | Nov 18 |
 | **[Dane County](http://www.co.dane.wi.us/)** | **[LTE Intern - VITA Scheduler](https://jobright.ai/jobs/info/691ce9c822a2cb4b9bd1ea3c?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Nov 18 |
 | **[Capstone Investment Advisors](http://capstoneco.com)** | **[Summer 2026 Non-Investment Internship](https://jobright.ai/jobs/info/6900f9104539ea1f2141b260?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Nov 18 |
-| **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/691ce347bcdbf3560c9eadc4?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Nov 18 |
-| ↳ | **[Sports Administration Assistant Professor](https://jobright.ai/jobs/info/691d6d077481340785ed7741?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Nov 18 |
+| **[Simpson College](http://www.simpson.edu/)** | **[Sports Administration Assistant Professor](https://jobright.ai/jobs/info/691d6d077481340785ed7741?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Nov 18 |
+| ↳ | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/691ce347bcdbf3560c9eadc4?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Nov 18 |
 | ↳ | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/691d05a322a2cb4b9bd1fe5d?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Nov 18 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Agency Training and Development Intern - Summer 2026](https://jobright.ai/jobs/info/691cd515ff7024498416ae0e?utm_campaign=1057&utm_source=git)** | West Des Moines, IA | On Site | Nov 18 |
 | **[Travelers](https://www.travelers.com)** | **[Data Science Leadership Development Program (DSLDP) Intern](https://jobright.ai/jobs/info/691cefbb22a2cb4b9bd1ee09?utm_campaign=1057&utm_source=git)** | CT - Hartford | Hybrid | Nov 18 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Club Support Center Intern](https://jobright.ai/jobs/info/68cd2b5ae23def7af55b6618?utm_campaign=1057&utm_source=git)** | Marlborough, MA | Hybrid | Nov 18 |
 | **[Jencap](https://jencapgroup.com)** | **[2026 Jencap Summer Insurance Internships- Atlanta, Houston, Springfield, MO and Red Bank, NJ](https://jobright.ai/jobs/info/68cd9d00b2a74e1837ed9a51?utm_campaign=1057&utm_source=git)** | Greater Houston | On Site | Nov 18 |
 | **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/682977756dd7e5f8b5d79e42?utm_campaign=1057&utm_source=git)** | Greenville, SC | On Site | Nov 18 |
-| ↳ | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/67a4c8c710485bdc6e5a0841?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Nov 18 |
-| ↳ | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/67a4ce6df1a6c091c9da20ba?utm_campaign=1057&utm_source=git)** | Birmingham, AL | On Site | Nov 18 |
-| **[Draper](https://www.draper.com)** | **[Corporate and Community Engagement Intern](https://jobright.ai/jobs/info/691cdcfb22a2cb4b9bd1dfae?utm_campaign=1057&utm_source=git)** | Cambridge, MA | Hybrid | Nov 18 |
-| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68cf5b75846f0b04af6817fd?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
