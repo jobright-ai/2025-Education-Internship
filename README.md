@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[Behavioral Health Respite Care Provider Intern (Spring / Summer 2026)](https://jobright.ai/jobs/info/691e6743a49a885af9a283da?utm_campaign=1057&utm_source=git)** | Shaker Heights, OH | On Site | Nov 19 |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Events and Immersive Experiences, School Partnerships (Winter 2026)](https://jobright.ai/jobs/info/691e5d7a3f782d2f1afb42b2?utm_campaign=1057&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Nov 19 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/691e500009cc522e87738cc1?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 19 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Clinical Intern](https://jobright.ai/jobs/info/691e4e40a49a885af9a27805?utm_campaign=1057&utm_source=git)** | San Jose, California | On Site | Nov 19 |
 | **[Zurich North America](https://www.zurichna.com)** | **[ZRS Internship - Training and Development - Schaumburg, IL (Summer 2026)](https://jobright.ai/jobs/info/691e4d6aa49a885af9a27798?utm_campaign=1057&utm_source=git)** | Wisconsin, United States | Hybrid | Nov 19 |
@@ -130,9 +132,9 @@ For a complete list, click the following sortable link below:
 | **[Spartanburg Regional Healthcare System](http://spartanburgregional.com)** | **[Intern-Pharmacy P3](https://jobright.ai/jobs/info/691d238b7481340785ed434c?utm_campaign=1057&utm_source=git)** | Spartanburg, SC | On Site | Nov 18 |
 | **[UNLV Health](https://www.unlvhealth.org)** | **[Therapist Intern](https://jobright.ai/jobs/info/691d3e9bbcdbf3560c9eeb6f?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | On Site | Nov 18 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Pre-Arrival Advisor](https://jobright.ai/jobs/info/691d4920bcdbf3560c9ef774?utm_campaign=1057&utm_source=git)** | College Park, MD | On Site | Nov 18 |
-| ↳ | **[Adjunct Faculty - International Psychology - DC Campus](https://jobright.ai/jobs/info/691d4d230b7dff7341502343?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Nov 18 |
 | **[Fairfax County Public Schools](https://www.fcps.edu/node/24745)** | **[Associate Principal, Secondary (Internal Candidates Only)](https://jobright.ai/jobs/info/691e484a3f782d2f1afb3583?utm_campaign=1057&utm_source=git)** | Virginia, United States | On Site | Nov 18 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Youth Programs Intern (Spring 2026- Unpaid)](https://jobright.ai/jobs/info/691d312d7481340785ed4a9a?utm_campaign=1057&utm_source=git)** | Charlottesville, VA | On Site | Nov 18 |
+| **[Commonwealth Corporation](http://commcorp.org/)** | **[Diversity, Equity, and Inclusion Intern Spring Cohort 2026](https://jobright.ai/jobs/info/691e5739a49a885af9a27d30?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Nov 18 |
 | **[University of Utah Health Research](https://uofuhealth.utah.edu/research)** | **[Student Research Assistant (WS)](https://jobright.ai/jobs/info/691d0b42ff7024498416d4df?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | Nov 18 |
 | **[Shoals Club](https://shoalsclub.com)** | **[Recreation and Aquatics Intern - Spring 2026](https://jobright.ai/jobs/info/691d2c34bcdbf3560c9eddb2?utm_campaign=1057&utm_source=git)** | Bald Head Island, NC | On Site | Nov 18 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Youth Programs Intern (Spring 2026- Unpaid)](https://jobright.ai/jobs/info/691d09f9bcdbf3560c9ec962?utm_campaign=1057&utm_source=git)** | Charlottesville, VA USA | On Site | Nov 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program - Office of Equal Employment Opportunity (OEEO)](https://jobright.ai/jobs/info/691cdc08ff7024498416b382?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Nov 18 |
 | **[Emerson Collective](http://emersoncollective.com)** | **[Summer Intern, XQ Institute: Educational Outcomes Audit & Analysis](https://jobright.ai/jobs/info/691cdae6bcdbf3560c9ea78d?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Nov 18 |
 | **[Travelers](https://www.travelers.com)** | **[Claim Professional Development Program Internship](https://jobright.ai/jobs/info/691cf486bcdbf3560c9ebaf0?utm_campaign=1057&utm_source=git)** | Rancho Cordova, CA | Hybrid | Nov 18 |
-| **[YES Prep Public Schools](http://www.yesprep.org/)** | **[Student Application Strategy Coordinator](https://jobright.ai/jobs/info/69168ef9286ccf0a15137665?utm_campaign=1057&utm_source=git)** | Houston, TX | Hybrid | Nov 18 |
-| **[IBM](http://www.ibm.com)** | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/691cf85122a2cb4b9bd1f539?utm_campaign=1057&utm_source=git)** | Austin, TX | Hybrid | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
