@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TPH Academy](https://totalpackagehockey.com)** | **[Academic Internship - TPH St. Louis](https://jobright.ai/jobs/info/691e9c2509cc522e8773b31e?utm_campaign=1057&utm_source=git)** | Maryland Heights, MO | On Site | Nov 19 |
 | **[Clifford Chance](http://www.cliffordchance.com/)** | **[2026 New York 1L Chris Morvillo Scholarship](https://jobright.ai/jobs/info/691e7d2e09cc522e8773a550?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Nov 19 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Youth Education Intern](https://jobright.ai/jobs/info/691e7ae709cc522e8773a29b?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Nov 19 |
 | **[Duke University Health System](http://dukemedicine.org)** | **[New Grad RN - Specialty Nurse Intern Program (SNIP - July 2026 Cohort) - Emergency Department](https://jobright.ai/jobs/info/691e775d09cc522e87739f8b?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Nov 19 |
@@ -101,6 +102,7 @@ For a complete list, click the following sortable link below:
 | **[PACCAR Parts](http://www.paccarparts.com/)** | **[Summer Internship - Technical Content](https://jobright.ai/jobs/info/68e5c4ffe8daec61499a45a2?utm_campaign=1057&utm_source=git)** | Denton, TX | Hybrid | Nov 19 |
 | **[Child Mind Institute](http://childmind.org)** | **[Postdoctoral Fellowship, Obsessive-Compulsive Disorders (OCD)](https://jobright.ai/jobs/info/691de02e61dc50590a64b488?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Nov 19 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Applied Sciences Group (Audio/Vision/NLP/Multimodal)](https://jobright.ai/jobs/info/691ddc4f748c4e1301ec97a1?utm_campaign=1057&utm_source=git)** | Redmond, WA | Hybrid | Nov 19 |
+| **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Community Engagement Intern: Spring](https://jobright.ai/jobs/info/68e57836ae2b894b1d70f7b1?utm_campaign=1057&utm_source=git)** | Bentonville, AR | On Site | Nov 19 |
 | **[Valorantum Capital](valorantumcapital.us)** | **[Trainee Internship Program](https://jobright.ai/jobs/info/691e2bafa49a885af9a25bd9?utm_campaign=1057&utm_source=git)** | Beloit, WI | Remote | Nov 19 |
 | **[McGriff](https://www.mcgriff.com)** | **[McGriff Specialty Intern - Summer 2026](https://jobright.ai/jobs/info/68c822a2f9c6ff7aedf0b080?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Nov 19 |
 | **[Child Mind Institute](http://childmind.org)** | **[Pre-doctoral Internship, Clinical Psychology](https://jobright.ai/jobs/info/69013c0ad5259a1b3cff3532?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Nov 19 |
@@ -129,11 +131,11 @@ For a complete list, click the following sortable link below:
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[High School Internship- Patient Family Advocate- Springfield](https://jobright.ai/jobs/info/691d71fcbcdbf3560c9f0fb2?utm_campaign=1057&utm_source=git)** | Springfield, MO | On Site | Nov 18 |
 | **[Northeast Family Services](https://www.northeastfamilyservices.com)** | **[Director of Internship and Training - LICSW](https://jobright.ai/jobs/info/691d5b4f0b7dff7341502e2f?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Nov 18 |
 | **[Terros Health](https://www.terroshealth.org/)** | **[Intern - Olive Ave Health Center - Master's Degree Level](https://jobright.ai/jobs/info/691d581fbcdbf3560c9f013a?utm_campaign=1057&utm_source=git)** | Glendale, AZ | On Site | Nov 18 |
-| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/691d808b0b7dff7341504145?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Nov 18 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Service Intern - Business Insurance](https://jobright.ai/jobs/info/691d5256bcdbf3560c9efdb6?utm_campaign=1057&utm_source=git)** | Aliso Viejo, CA | On Site | Nov 18 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Student Recruitment Specialist, National](https://jobright.ai/jobs/info/6916efed6f36db06ef05b11f?utm_campaign=1057&utm_source=git)** | Calgary, Alberta, Canada | On Site | Nov 18 |
 | **[The City University of New York](http://cuny.edu)** | **[Health Practicum Placement Specialist (Academic Internship Specialist) - Health Equity, Administration, & Technology](https://jobright.ai/jobs/info/691d4837bcdbf3560c9ef6b3?utm_campaign=1057&utm_source=git)** | Bronx, NY | On Site | Nov 18 |
 | **[Ekho](https://www.ekho.academy/)** | **[MBA Intern](https://jobright.ai/jobs/info/691d3879bcdbf3560c9ee504?utm_campaign=1057&utm_source=git)** | United States | Remote | Nov 18 |
+| **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/68eca303d4b0106e703eb423?utm_campaign=1057&utm_source=git)** | Greensboro, NC | On Site | Nov 18 |
 | **[USA Baseball](http://www.usabaseball.com)** | **[Intern, National Training Complex Operations](https://jobright.ai/jobs/info/691d2e6cbcdbf3560c9edf38?utm_campaign=1057&utm_source=git)** | Cary, NC | On Site | Nov 18 |
 | ↳ | **[Intern, Youth Programs](https://jobright.ai/jobs/info/691d2cd70b7dff73415008c6?utm_campaign=1057&utm_source=git)** | Cary, NC | On Site | Nov 18 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/691d259b0b7dff7341500459?utm_campaign=1057&utm_source=git)** | Alexandria, LA | On Site | Nov 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Georgia Banking Company](https://georgiabanking.com)** | **[Summer Banking Internship Program](https://jobright.ai/jobs/info/691cf824ff7024498416c6be?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Nov 18 |
 | **[Sandstone Care](https://www.sandstonecare.com)** | **[Clinical Internship](https://jobright.ai/jobs/info/690a7500bcccf20de59e289a?utm_campaign=1057&utm_source=git)** | Sandstone Care - Cascade, Colorado | On Site | Nov 18 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Risk Management and Organ Toxicity Intern](https://jobright.ai/jobs/info/691cf41bff7024498416c2e8?utm_campaign=1057&utm_source=git)** | USA - MA - Cambridge - Kendall Square - 500 | Remote | Nov 18 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/691d1b7fbcdbf3560c9ed3a9?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Nov 18 |
-| **[Sevita](https://sevitahealth.com)** | **[Behavioral Technican Internship](https://jobright.ai/jobs/info/691d07f2ff7024498416d1fa?utm_campaign=1057&utm_source=git)** | Duluth, MN | On Site | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
