@@ -117,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/68ec989a1eecd439f43fad73?utm_campaign=1057&utm_source=git)** | Fort Wayne, IN | On Site | Nov 19 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68c9daa484fc1901fd419ef0?utm_campaign=1057&utm_source=git)** | New Braunfels, TX | On Site | Nov 19 |
 | **[Clarios](https://www.clarios.com/)** | **[Learning & Development Intern (Summer 2026)](https://jobright.ai/jobs/info/690130b04539ea1f2141daf1?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | Nov 19 |
-| **[Allegheny Health Network](https://www.ahn.org)** | **[Summer 2026 Quality Analytics Undergraduate Intern](https://jobright.ai/jobs/info/6916d7bb286ccf0a15139be4?utm_campaign=1057&utm_source=git)** | Erie-Meadville Area | On Site | Nov 19 |
 | **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/691d9b9cbcdbf3560c9f1e6a?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | Hybrid | Nov 19 |
 | **[JFK Johnson Rehabilitation Institute](http://JFKJohnson.org)** | **[CLINICAL PSYCHOLOGIST, PER DIEM](https://jobright.ai/jobs/info/691d9a8f49c9744234f1efe8?utm_campaign=1057&utm_source=git)** | Maywood, NJ | On Site | Nov 19 |
 | **[Douglass Ridley School](www.douglassridleyschool.org)** | **[Community Outreach Intern](https://jobright.ai/jobs/info/691d92660b7dff7341504602?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Nov 19 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Towson) Spring 2026 Nursing Senior Practicum](https://jobright.ai/jobs/info/691d1fad0b7dff7341500084?utm_campaign=1057&utm_source=git)** | Towson, MD | On Site | Nov 18 |
 | ↳ | **[Internship (Outpatient Mental Health Clinics- Gaithersburg) 2026 Counseling/Social Work Fieldwork](https://jobright.ai/jobs/info/691d0e4bbcdbf3560c9ecc41?utm_campaign=1057&utm_source=git)** | Gaithersburg, MD | On Site | Nov 18 |
 | **[IBM](http://www.ibm.com)** | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/691ce586ff7024498416b7eb?utm_campaign=1057&utm_source=git)** | Tucson, AZ | Hybrid | Nov 18 |
+| **[Alfred State College - SUNY College of Technology](http://www.alfredstate.edu)** | **[Student Records and Financial Services Specialist](https://jobright.ai/jobs/info/691d02afbcdbf3560c9ec48d?utm_campaign=1057&utm_source=git)** | Alfred, NY | On Site | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
