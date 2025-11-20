@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/691efcc009cc522e8773ced5?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Nov 20 |
+| **[Emerson Collective](http://emersoncollective.com)** | **[Summer Intern, Philanthropy: Bookstore & Book Access](https://jobright.ai/jobs/info/691ef8773f782d2f1afb7bfa?utm_campaign=1057&utm_source=git)** | Palo Alto, CA | On Site | Nov 20 |
+| **[Recovery Centers of America](http://www.recoverycentersofamerica.com/)** | **[Intern-Clinical](https://jobright.ai/jobs/info/691ef834a49a885af9a2b93e?utm_campaign=1057&utm_source=git)** | Devon, PA | On Site | Nov 20 |
 | **[TPH Academy](https://totalpackagehockey.com)** | **[Academic Internship - TPH St. Louis](https://jobright.ai/jobs/info/691e9c2509cc522e8773b31e?utm_campaign=1057&utm_source=git)** | Maryland Heights, MO | On Site | Nov 19 |
 | **[Clifford Chance](http://www.cliffordchance.com/)** | **[2026 New York 1L Chris Morvillo Scholarship](https://jobright.ai/jobs/info/691e7d2e09cc522e8773a550?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Nov 19 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Youth Education Intern](https://jobright.ai/jobs/info/691e7ae709cc522e8773a29b?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Nov 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/691d1b7fbcdbf3560c9ed3a9?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Nov 18 |
 | **[Sevita](https://sevitahealth.com)** | **[Behavioral Technican Internship](https://jobright.ai/jobs/info/691d07f2ff7024498416d1fa?utm_campaign=1057&utm_source=git)** | Duluth, MN | On Site | Nov 18 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Towson) Spring 2026 Nursing Senior Practicum](https://jobright.ai/jobs/info/691d1fad0b7dff7341500084?utm_campaign=1057&utm_source=git)** | Towson, MD | On Site | Nov 18 |
-| ↳ | **[Internship (Outpatient Mental Health Clinics- Gaithersburg) 2026 Counseling/Social Work Fieldwork](https://jobright.ai/jobs/info/691d0e4bbcdbf3560c9ecc41?utm_campaign=1057&utm_source=git)** | Gaithersburg, MD | On Site | Nov 18 |
-| **[IBM](http://www.ibm.com)** | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/691ce586ff7024498416b7eb?utm_campaign=1057&utm_source=git)** | Tucson, AZ | Hybrid | Nov 18 |
-| **[Alfred State College - SUNY College of Technology](http://www.alfredstate.edu)** | **[Student Records and Financial Services Specialist](https://jobright.ai/jobs/info/691d02afbcdbf3560c9ec48d?utm_campaign=1057&utm_source=git)** | Alfred, NY | On Site | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
