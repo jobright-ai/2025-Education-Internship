@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Global Health Leaders](https://www.globalhealthleaders.net)** | **[Medical or Medical Research Internship - Short Term Study Abroad](https://jobright.ai/jobs/info/691ffb2b09cc522e877470f3?utm_campaign=1057&utm_source=git)** | United States | Remote | Nov 20 |
+| **[Rosendin](https://www.rosendin.com)** | **[PM intern 2026](https://jobright.ai/jobs/info/691fef2e09cc522e87746bc3?utm_campaign=1057&utm_source=git)** | Office VA Sterling | On Site | Nov 20 |
+| **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[Visiting Professor of Arts Administration and Online Master's Program Director](https://jobright.ai/jobs/info/691fe7a409cc522e877467fb?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Nov 20 |
+| **[New College of Florida](https://www.ncf.edu/)** | **[Student Teacher Assistant, Creative Writing Classroom (Intermediate/Advanced Poetry Workshop)](https://jobright.ai/jobs/info/691566d39c388539cbdf340b?utm_campaign=1057&utm_source=git)** | Sarasota, FL | On Site | Nov 20 |
 | **[Center for Social Dynamics](https://csdautismservices.com)** | **[Clinical Leader Intern - Rohnert Park](https://jobright.ai/jobs/info/691fde2609cc522e8774628c?utm_campaign=1057&utm_source=git)** | Rohnert Park, CA | On Site | Nov 20 |
 | **[City of New Haven](https://www.newhavenct.gov)** | **[Student Intern - University of New Haven Co-Op](https://jobright.ai/jobs/info/691fdd17a49a885af9a34da3?utm_campaign=1057&utm_source=git)** | New Haven, CT | On Site | Nov 20 |
 | **[Parkland College](http://www.parkland.edu/)** | **[Program Manager, Apprenticeship Support Services](https://jobright.ai/jobs/info/691fdbe709cc522e87746160?utm_campaign=1057&utm_source=git)** | Champaign, IL | On Site | Nov 20 |
@@ -142,7 +146,6 @@ For a complete list, click the following sortable link below:
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Student Advisor](https://jobright.ai/jobs/info/691f2bbaa49a885af9a2cb93?utm_campaign=1057&utm_source=git)** | New Jersey, United States | On Site | Nov 20 |
 | **[Kansas State University](http://www.k-state.edu/)** | **[Program Coordinator](https://jobright.ai/jobs/info/691f6aa1a49a885af9a2f8f4?utm_campaign=1057&utm_source=git)** | Manhattan, KS | Hybrid | Nov 20 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Student Advisor I](https://jobright.ai/jobs/info/691f2a4409cc522e8773df93?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Nov 20 |
-| ↳ | **[Assistant Professor - International Studies](https://jobright.ai/jobs/info/691f295709cc522e8773df23?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Nov 20 |
 | **[Bryn Mawr Trust](https://www.bmt.com)** | **[2026 Summer Internship Program - Wealth Management](https://jobright.ai/jobs/info/68eca3841eecd439f43fc512?utm_campaign=1057&utm_source=git)** | Berwyn, PA | Hybrid | Nov 20 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[High School Service Intern](https://jobright.ai/jobs/info/6902c0aaff462851fefe6290?utm_campaign=1057&utm_source=git)** | Pflugerville, TX | On Site | Nov 20 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Respiratory Therapist Intern, Respiratory Therapy,  Per Diem, Varies,](https://jobright.ai/jobs/info/6902864f98707b2b0fe70994?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Nov 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Monte Nido Walden](https://www.waldeneatingdisorders.com)** | **[Walden - Dietetic Internship](https://jobright.ai/jobs/info/69029a6498707b2b0fe717d4?utm_campaign=1057&utm_source=git)** | Middletown, CT | On Site | Nov 20 |
 | **[Texas A&M University](https://tamu.edu)** | **[Academic Professional Track (Non-Tenure): Open Rank-Clinical - Internal Medicine](https://jobright.ai/jobs/info/68e6a62de8daec61499ad1f0?utm_campaign=1057&utm_source=git)** | San Angelo, TX | On Site | Nov 20 |
 | **[California State University, Fresno](https://csufresno.edu)** | **[Field Placement Analyst (AA/S NE)](https://jobright.ai/jobs/info/691f60273f782d2f1afbb1f4?utm_campaign=1057&utm_source=git)** | Fresno, CA | On Site | Nov 20 |
-| **[Ray Graham Association](https://www.raygraham.org/)** | **[Spring Internships (Paid)](https://jobright.ai/jobs/info/691f443809cc522e8773ecca?utm_campaign=1057&utm_source=git)** | Lisle, IL | On Site | Nov 20 |
-| **[UW School of Medicine and Public Health](https://www.med.wisc.edu)** | **[Internal Medicine Physician - Float](https://jobright.ai/jobs/info/6893e1c24c7e851b90ae1076?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Nov 20 |
-| **[Valorantum Capital](valorantumcapital.us)** | **[Corporate Trainee Program Internship](https://jobright.ai/jobs/info/691f35f73f782d2f1afb931d?utm_campaign=1057&utm_source=git)** | Sussex, WI | Remote | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
