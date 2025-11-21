@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Berkshire Hathaway Energy](https://www.brkenergy.com/)** | **[Intern (Technical Training)](https://jobright.ai/jobs/info/69203bfd00c9ee50eaec083f?utm_campaign=1057&utm_source=git)** | Delmont, PA | On Site | Nov 21 |
 | **[Global Health Leaders](https://www.globalhealthleaders.net)** | **[Medical or Medical Research Internship - Short Term Study Abroad](https://jobright.ai/jobs/info/6920095ea49a885af9a36248?utm_campaign=1057&utm_source=git)** | United States | Remote | Nov 20 |
 | ↳ | **[Global Health Internship - Short Term Study Abroad](https://jobright.ai/jobs/info/692007e009cc522e877476da?utm_campaign=1057&utm_source=git)** | United States | Remote | Nov 20 |
 | **[Rosendin](https://www.rosendin.com)** | **[PM intern 2026](https://jobright.ai/jobs/info/691fef2e09cc522e87746bc3?utm_campaign=1057&utm_source=git)** | Office VA Sterling | On Site | Nov 20 |
@@ -98,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Susquehanna University](http://www.susqu.edu)** | **[Assistant Professor of Economics, Finance, & Analytics](https://jobright.ai/jobs/info/691f9f123f782d2f1afbea87?utm_campaign=1057&utm_source=git)** | Selinsgrove, PA | On Site | Nov 20 |
 | **[Penn State University](http://psu.edu)** | **[Pennsylvania Sea Grant 2026 Summer Undergraduate Internship Program – Environmental Literacy](https://jobright.ai/jobs/info/691fba40a49a885af9a33742?utm_campaign=1057&utm_source=git)** | Erie, PA | On Site | Nov 20 |
 | **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern - Scientific Communications](https://jobright.ai/jobs/info/691fb84409cc522e87744bcf?utm_campaign=1057&utm_source=git)** | Headquarters, NJ | Hybrid | Nov 20 |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/691fb84a3f782d2f1afbf97a?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Nov 20 |
 | **[Joliet Junior College](http://www.jjc.edu/)** | **[Healthcare Pathway Peer Tutor, Internship-4](https://jobright.ai/jobs/info/691f9a86a49a885af9a32505?utm_campaign=1057&utm_source=git)** | Main Campus, Joliet, IL | On Site | Nov 20 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Science Specialist Teacher and Interns - Elementary](https://jobright.ai/jobs/info/691fb74e3f782d2f1afbf8c8?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 20 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Student Services Professional](https://jobright.ai/jobs/info/691fb8db09cc522e87744c3d?utm_campaign=1057&utm_source=git)** | Athens, GA | On Site | Nov 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[San Mateo-Foster City School District](http://smfcsd.net)** | **[2025-2026 school year - Assistant Principal - Fiesta Gardens International School (Spanish Speaking Preferred)](https://jobright.ai/jobs/info/691f65d53f782d2f1afbb67e?utm_campaign=1057&utm_source=git)** | Foster City, MI | On Site | Nov 20 |
 | **[Travelers](https://www.travelers.com)** | **[Claim Professional Development Program (CPDP) Intern](https://jobright.ai/jobs/info/691f54bca49a885af9a2e577?utm_campaign=1057&utm_source=git)** | West Bridgewater, MA | Hybrid | Nov 20 |
 | **[WSFS Bank](http://www.wsfsbank.com/)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/68ec98931eecd439f43fad5f?utm_campaign=1057&utm_source=git)** | Wilmington, DE | Hybrid | Nov 20 |
-| **[Fordham University](https://www.fordham.edu/)** | **[Provost and Senior Vice President for Academic Affairs](https://jobright.ai/jobs/info/68e594a51852e62f0081227c?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Nov 20 |
-| **[Monte Nido Walden](https://www.waldeneatingdisorders.com)** | **[Walden - Dietetic Internship](https://jobright.ai/jobs/info/69029a6498707b2b0fe717d4?utm_campaign=1057&utm_source=git)** | Middletown, CT | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
