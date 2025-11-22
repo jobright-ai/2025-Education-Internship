@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/69214a423f782d2f1afd0ee2?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Nov 21 |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/6921416e3f782d2f1afd09cd?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Nov 21 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[InnoTech Information Security & Technology Solutions Internship (Undergraduate) - Summer 2026](https://jobright.ai/jobs/info/69213ad63f782d2f1afd072a?utm_campaign=1057&utm_source=git)** | Hartford, CT | Hybrid | Nov 21 |
+| ↳ | **[InnoTech Data, Experience & Product Internship (Undergraduate) - Summer 2026](https://jobright.ai/jobs/info/692137e400c9ee50eaeccf4a?utm_campaign=1057&utm_source=git)** | Hartford, CT | Hybrid | Nov 21 |
+| ↳ | **[InnoTech Information Security & Technology Solutions Internship (Graduate) - Summer 2026](https://jobright.ai/jobs/info/6921374fa49a885af9a441ef?utm_campaign=1057&utm_source=git)** | Hartford, CT | Hybrid | Nov 21 |
+| **[Cleveland Construction, Inc.](http://clevelandconstruction.com)** | **[Intern (Summer 2026)](https://jobright.ai/jobs/info/6921370000c9ee50eaecced5?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Nov 21 |
+| **[Horizon Health and Wellness](https://hhwaz.org)** | **[Clinical Intern](https://jobright.ai/jobs/info/692136ed00c9ee50eaeccecb?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Nov 21 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[InnoTech AI Critical Skills Internship (Graduate) - Summer 2026](https://jobright.ai/jobs/info/6921367900c9ee50eaecce94?utm_campaign=1057&utm_source=git)** | Hartford, CT | Hybrid | Nov 21 |
+| **[Cleveland Construction, Inc.](http://clevelandconstruction.com)** | **[Intern (Summer 2026)](https://jobright.ai/jobs/info/6921354800c9ee50eaecce12?utm_campaign=1057&utm_source=git)** | Mentor, OH | On Site | Nov 21 |
+| **[Kearney & Company](http://www.kearneyco.com)** | **[Summer 2026 Internship Program](https://jobright.ai/jobs/info/69212efd3f782d2f1afd00fa?utm_campaign=1057&utm_source=git)** | Alexandria, VA | Hybrid | Nov 21 |
 | **[California State University, Monterey Bay](https://www.csumb.edu)** | **[Professor of Practice: Agribusiness Supply Chain Management Program Director](https://jobright.ai/jobs/info/69212d9f3f782d2f1afd000c?utm_campaign=1057&utm_source=git)** | Monterey, CA | On Site | Nov 21 |
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Student Information System Coordinator - IDEA Cincinnati (General Applicant Pool)](https://jobright.ai/jobs/info/69212be8a49a885af9a43af6?utm_campaign=1057&utm_source=git)** | Cincinnati Metro | On Site | Nov 21 |
 | **[Mindful Healing Works](https://mindfulhealingworks.com)** | **[Internship Director - The Academy MHW](https://jobright.ai/jobs/info/6921287e00c9ee50eaecc545?utm_campaign=1057&utm_source=git)** | Rosedale, IN | On Site | Nov 21 |
@@ -79,8 +89,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e303f782d2f1afcf58d?utm_campaign=1057&utm_source=git)** | US - WV - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e2c3f782d2f1afcf587?utm_campaign=1057&utm_source=git)** | US - IA - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e24a49a885af9a43034?utm_campaign=1057&utm_source=git)** | US - MI - Remote | Remote | Nov 21 |
-| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e1da49a885af9a4302b?utm_campaign=1057&utm_source=git)** | US - MD - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e1da49a885af9a4302c?utm_campaign=1057&utm_source=git)** | US - HI - Remote | Remote | Nov 21 |
+| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e1da49a885af9a4302b?utm_campaign=1057&utm_source=git)** | US - MD - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e0fa49a885af9a43020?utm_campaign=1057&utm_source=git)** | US - VA - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e07a49a885af9a43019?utm_campaign=1057&utm_source=git)** | US - WA - Remote | Remote | Nov 21 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Assistant Program Director, Parent and Family Programs (Student Services Professional III)](https://jobright.ai/jobs/info/69211e013f782d2f1afcf55d?utm_campaign=1057&utm_source=git)** | SD Metro Area | On Site | Nov 21 |
@@ -98,8 +108,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211d6b3f782d2f1afcf4df?utm_campaign=1057&utm_source=git)** | US - ME - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211d563f782d2f1afcf4ce?utm_campaign=1057&utm_source=git)** | US - SD - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211d5300c9ee50eaecbc75?utm_campaign=1057&utm_source=git)** | US - NV - Remote | Remote | Nov 21 |
-| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211d4e00c9ee50eaecbc73?utm_campaign=1057&utm_source=git)** | US - AL - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211d4e00c9ee50eaecbc72?utm_campaign=1057&utm_source=git)** | US - AK - Remote | Remote | Nov 21 |
+| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211d4e00c9ee50eaecbc73?utm_campaign=1057&utm_source=git)** | US - AL - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211d4ca49a885af9a42fc0?utm_campaign=1057&utm_source=git)** | US - PA - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211d3e3f782d2f1afcf4c0?utm_campaign=1057&utm_source=git)** | US - DC - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211d343f782d2f1afcf4b7?utm_campaign=1057&utm_source=git)** | US - ND - Remote | Remote | Nov 21 |
@@ -113,8 +123,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211c9800c9ee50eaecbc29?utm_campaign=1057&utm_source=git)** | US - NJ - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211c7d3f782d2f1afcf42f?utm_campaign=1057&utm_source=git)** | US - MO - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211c6b00c9ee50eaecbc1a?utm_campaign=1057&utm_source=git)** | US - DE - Remote | Remote | Nov 21 |
-| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211c6a3f782d2f1afcf423?utm_campaign=1057&utm_source=git)** | US - RI - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211c6a3f782d2f1afcf41f?utm_campaign=1057&utm_source=git)** | US - NM - Remote | Remote | Nov 21 |
+| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211c6a3f782d2f1afcf423?utm_campaign=1057&utm_source=git)** | US - RI - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211c64a49a885af9a42f7f?utm_campaign=1057&utm_source=git)** | US - NH - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211c6300c9ee50eaecbc18?utm_campaign=1057&utm_source=git)** | US - NC - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211c4d3f782d2f1afcf402?utm_campaign=1057&utm_source=git)** | US - CO - Remote | Remote | Nov 21 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[InnoTech AI Critical Skills Internship (Graduate) - Summer 2026](https://jobright.ai/jobs/info/6920f379a49a885af9a410fd?utm_campaign=1057&utm_source=git)** | TX - Irving | Hybrid | Nov 21 |
 | ↳ | **[InnoTech Data, Experience & Product Internship (Undergraduate) - Summer 2026](https://jobright.ai/jobs/info/6920f32fa49a885af9a41090?utm_campaign=1057&utm_source=git)** | TX - Irving | Hybrid | Nov 21 |
 | ↳ | **[InnoTech Information Security & Technology Solutions Internship (Graduate) - Summer 2026](https://jobright.ai/jobs/info/6920f13aa49a885af9a40d35?utm_campaign=1057&utm_source=git)** | CT - Hartford | Hybrid | Nov 21 |
-| ↳ | **[InnoTech AI Critical Skills Internship (Graduate) - Summer 2026](https://jobright.ai/jobs/info/6920f125a49a885af9a40d11?utm_campaign=1057&utm_source=git)** | IL - Northbrook | Hybrid | Nov 21 |
-| **[MelroseWakefield Hospital](https://www.melrosewakefield.org/)** | **[Intern, Student Co-Op (PFT)](https://jobright.ai/jobs/info/6920f0ee3f782d2f1afcd1f0?utm_campaign=1057&utm_source=git)** | Tufts Medical Center | On Site | Nov 21 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[InnoTech Information Security & Technology Solutions Internship (Undergraduate) - Summer 2026](https://jobright.ai/jobs/info/6920f0e3a49a885af9a40ca8?utm_campaign=1057&utm_source=git)** | CT - Hartford | Hybrid | Nov 21 |
-| **[Vertex Inc.](https://www.vertexinc.com)** | **[Digital Learning Content Intern](https://jobright.ai/jobs/info/6920ef9200c9ee50eaec989f?utm_campaign=1057&utm_source=git)** | Remote - PA | Remote | Nov 21 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[InnoTech AI Critical Skills Internship (Graduate) - Summer 2026](https://jobright.ai/jobs/info/6920ef743f782d2f1afccfd7?utm_campaign=1057&utm_source=git)** | CT - Hartford | Hybrid | Nov 21 |
-| **[Frisco ISD](https://www.friscoisd.org/)** | **[Administrative Intern - Elementary](https://jobright.ai/jobs/info/69210aac00c9ee50eaecb134?utm_campaign=1057&utm_source=git)** | Frisco, TX | On Site | Nov 21 |
-| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Art Teacher & Intern - Secondary](https://jobright.ai/jobs/info/6921095000c9ee50eaecafe6?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 21 |
-| **[University of New England](http://www.une.edu)** | **[Internship Coordinator](https://jobright.ai/jobs/info/69210b48a49a885af9a424f5?utm_campaign=1057&utm_source=git)** | Biddeford, ME | Hybrid | Nov 21 |
-| **[Baptist Health](http://careers.baptisthealth.net)** | **[Respiratory Therapist Intern, Respiratory Therapy, Per Diem, 6A-6:30P](https://jobright.ai/jobs/info/6920e24400c9ee50eaec9198?utm_campaign=1057&utm_source=git)** | South Miami, FL | On Site | Nov 21 |
-| **[KeyBank](https://www.key.com)** | **[2026 Summer Key's Technology, Operations & Services (Data Track) Internship - Cleveland](https://jobright.ai/jobs/info/692100cb00c9ee50eaecabd7?utm_campaign=1057&utm_source=git)** | Brooklyn, OH | Remote | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
