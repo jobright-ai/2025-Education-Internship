@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Austin Peay State University](http://www.apsu.edu/)** | **[Director, Master of Athletic Training Program](https://jobright.ai/jobs/info/69222eb4d1ec2c3565c46ed9?utm_campaign=1057&utm_source=git)** | Clarksville, TN | On Site | Nov 22 |
+| **[Hackensack Meridian Health](https://www.hackensackmeridianhealth.org)** | **[IT Summer Intern, DTS Training](https://jobright.ai/jobs/info/69222e06d1ec2c3565c46eb3?utm_campaign=1057&utm_source=git)** | Edison, NJ | On Site | Nov 22 |
+| **[Bismarck Public Schools](https://www.bismarckschools.org)** | **[Student Intern I - Century High School](https://jobright.ai/jobs/info/692225eba49a885af9a4886e?utm_campaign=1057&utm_source=git)** | Bismarck, ND | On Site | Nov 22 |
+| **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Spring  Education Programs Intern (onsite)](https://jobright.ai/jobs/info/68dd7b0ba125e75c422ab21a?utm_campaign=1057&utm_source=git)** | Little Rock, Arkansas | On Site | Nov 22 |
 | **[AAON, Inc.](https://www.aaon.com)** | **[Learning &amp; Development College Intern](https://jobright.ai/jobs/info/692211d8a49a885af9a4851e?utm_campaign=1057&utm_source=git)** | Tulsa, OK, USA | On Site | Nov 22 |
 | **[Restaurant Brands International](http://rbi.com/en)** | **[MBA Summer Internship Program](https://jobright.ai/jobs/info/68e9b08465768b6412b1eafe?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Nov 22 |
 | **[Marquette University](http://marquette.edu)** | **[Director, Commercial Banking Program](https://jobright.ai/jobs/info/692201a13f782d2f1afd4518?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | Nov 22 |
@@ -78,7 +82,7 @@ For a complete list, click the following sortable link below:
 | **[University of Vermont](http://www.uvm.edu/medicine)** | **[EDUCATION FINANCE - ASSISTANT PROFESSOR](https://jobright.ai/jobs/info/68e9ab370930fe0bc46280e4?utm_campaign=1057&utm_source=git)** | Burlington, VT | On Site | Nov 22 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern (Academic Credit) - Department of Neurology - Per Diem (On-site)](https://jobright.ai/jobs/info/68ea24ffdb8fbc4015c65960?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Nov 22 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/6905af52122e8474c78dad55?utm_campaign=1057&utm_source=git)** | Alexandria, LA | On Site | Nov 22 |
-| **[North Memorial Health](https://northmemorial.com/)** | **[Summer Nurse Intern- 2026](https://jobright.ai/jobs/info/6904e26fff462851feff84ed?utm_campaign=1057&utm_source=git)** | Twin Cities Area | On Site | Nov 22 |
+| **[North Memorial Health](https://northmemorial.com/)** | **[Summer Nurse Intern- 2026](https://jobright.ai/jobs/info/6904ce8b122e8474c78d35ee?utm_campaign=1057&utm_source=git)** | Twin Cities Area | On Site | Nov 22 |
 | **[DPR Construction](http://www.dpr.com)** | **[Build Up Internship](https://jobright.ai/jobs/info/6761281e00564f4d2776d498?utm_campaign=1057&utm_source=git)** | Redwood City, CA | On Site | Nov 22 |
 | ↳ | **[Build Up Internship - Charlotte](https://jobright.ai/jobs/info/672b51dde591f4305e4230d3?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Nov 22 |
 | **[Amplify](http://www.amplify.com)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/68e9514a0930fe0bc46242b7?utm_campaign=1057&utm_source=git)** | United States | Remote | Nov 22 |
@@ -122,8 +126,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e303f782d2f1afcf58d?utm_campaign=1057&utm_source=git)** | US - WV - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e2c3f782d2f1afcf587?utm_campaign=1057&utm_source=git)** | US - IA - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e24a49a885af9a43034?utm_campaign=1057&utm_source=git)** | US - MI - Remote | Remote | Nov 21 |
-| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e1da49a885af9a4302b?utm_campaign=1057&utm_source=git)** | US - MD - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e1da49a885af9a4302c?utm_campaign=1057&utm_source=git)** | US - HI - Remote | Remote | Nov 21 |
+| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e1da49a885af9a4302b?utm_campaign=1057&utm_source=git)** | US - MD - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e0fa49a885af9a43020?utm_campaign=1057&utm_source=git)** | US - VA - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e07a49a885af9a43019?utm_campaign=1057&utm_source=git)** | US - WA - Remote | Remote | Nov 21 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Assistant Program Director, Parent and Family Programs (Student Services Professional III)](https://jobright.ai/jobs/info/69211e013f782d2f1afcf55d?utm_campaign=1057&utm_source=git)** | SD Metro Area | On Site | Nov 21 |
@@ -140,8 +144,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211d6b3f782d2f1afcf4df?utm_campaign=1057&utm_source=git)** | US - ME - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211d563f782d2f1afcf4ce?utm_campaign=1057&utm_source=git)** | US - SD - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211d5300c9ee50eaecbc75?utm_campaign=1057&utm_source=git)** | US - NV - Remote | Remote | Nov 21 |
-| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211d4e00c9ee50eaecbc72?utm_campaign=1057&utm_source=git)** | US - AK - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211d4e00c9ee50eaecbc73?utm_campaign=1057&utm_source=git)** | US - AL - Remote | Remote | Nov 21 |
+| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211d4e00c9ee50eaecbc72?utm_campaign=1057&utm_source=git)** | US - AK - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211d4ca49a885af9a42fc0?utm_campaign=1057&utm_source=git)** | US - PA - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211d3e3f782d2f1afcf4c0?utm_campaign=1057&utm_source=git)** | US - DC - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211d343f782d2f1afcf4b7?utm_campaign=1057&utm_source=git)** | US - ND - Remote | Remote | Nov 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211cbda49a885af9a42f98?utm_campaign=1057&utm_source=git)** | US - NY - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211ca800c9ee50eaecbc32?utm_campaign=1057&utm_source=git)** | US - KY - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211c9800c9ee50eaecbc29?utm_campaign=1057&utm_source=git)** | US - NJ - Remote | Remote | Nov 21 |
-| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211c7d3f782d2f1afcf42f?utm_campaign=1057&utm_source=git)** | US - MO - Remote | Remote | Nov 21 |
-| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211c6b00c9ee50eaecbc1a?utm_campaign=1057&utm_source=git)** | US - DE - Remote | Remote | Nov 21 |
-| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211c6a3f782d2f1afcf423?utm_campaign=1057&utm_source=git)** | US - RI - Remote | Remote | Nov 21 |
-| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211c6a3f782d2f1afcf41f?utm_campaign=1057&utm_source=git)** | US - NM - Remote | Remote | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
