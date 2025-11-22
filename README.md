@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/692168763f782d2f1afd1ef5?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Nov 21 |
+| ↳ | **[Sports Administration Assistant Professor](https://jobright.ai/jobs/info/6921658ca49a885af9a458db?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Nov 21 |
+| **[Fowler College of Business at San Diego State University](https://business.sdsu.edu/)** | **[Assistant Program Director, Parent and Family Programs (Student Services Professional III)](https://jobright.ai/jobs/info/69216580a49a885af9a458d6?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Nov 21 |
+| **[Learnitude](https://www.learnitude.com/)** | **[Internship: Training and Operations Support](https://jobright.ai/jobs/info/692162bda49a885af9a4584c?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Nov 21 |
+| **[Valorantum Capital](valorantumcapital.us)** | **[Corporate Trainee Program Internship](https://jobright.ai/jobs/info/692162983f782d2f1afd1c5d?utm_campaign=1057&utm_source=git)** | Sussex, WI | Remote | Nov 21 |
+| **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/6921548f3f782d2f1afd1701?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Nov 21 |
+| **[Valorantum Capital](valorantumcapital.us)** | **[Trainee Internship Program](https://jobright.ai/jobs/info/69215071a49a885af9a450c7?utm_campaign=1057&utm_source=git)** | Beloit, WI | Remote | Nov 21 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/69214a423f782d2f1afd0ee2?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Nov 21 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/6921416e3f782d2f1afd09cd?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Nov 21 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[InnoTech Information Security & Technology Solutions Internship (Undergraduate) - Summer 2026](https://jobright.ai/jobs/info/69213ad63f782d2f1afd072a?utm_campaign=1057&utm_source=git)** | Hartford, CT | Hybrid | Nov 21 |
@@ -66,14 +73,13 @@ For a complete list, click the following sortable link below:
 | **[Horizon Health and Wellness](https://hhwaz.org)** | **[Clinical Intern](https://jobright.ai/jobs/info/692136ed00c9ee50eaeccecb?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Nov 21 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[InnoTech AI Critical Skills Internship (Graduate) - Summer 2026](https://jobright.ai/jobs/info/6921367900c9ee50eaecce94?utm_campaign=1057&utm_source=git)** | Hartford, CT | Hybrid | Nov 21 |
 | **[Cleveland Construction, Inc.](http://clevelandconstruction.com)** | **[Intern (Summer 2026)](https://jobright.ai/jobs/info/6921354800c9ee50eaecce12?utm_campaign=1057&utm_source=git)** | Mentor, OH | On Site | Nov 21 |
-| **[Kearney & Company](http://www.kearneyco.com)** | **[Summer 2026 Internship Program](https://jobright.ai/jobs/info/69212efd3f782d2f1afd00fa?utm_campaign=1057&utm_source=git)** | Alexandria, VA | Hybrid | Nov 21 |
 | **[California State University, Monterey Bay](https://www.csumb.edu)** | **[Professor of Practice: Agribusiness Supply Chain Management Program Director](https://jobright.ai/jobs/info/69212d9f3f782d2f1afd000c?utm_campaign=1057&utm_source=git)** | Monterey, CA | On Site | Nov 21 |
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Student Information System Coordinator - IDEA Cincinnati (General Applicant Pool)](https://jobright.ai/jobs/info/69212be8a49a885af9a43af6?utm_campaign=1057&utm_source=git)** | Cincinnati Metro | On Site | Nov 21 |
 | **[Mindful Healing Works](https://mindfulhealingworks.com)** | **[Internship Director - The Academy MHW](https://jobright.ai/jobs/info/6921287e00c9ee50eaecc545?utm_campaign=1057&utm_source=git)** | Rosedale, IN | On Site | Nov 21 |
 | **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Learning and Development (L&D) Intern, Spring 2026](https://jobright.ai/jobs/info/6921281900c9ee50eaecc4d9?utm_campaign=1057&utm_source=git)** | Waltham, MA | Hybrid | Nov 21 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern - Data and Analytics (Summer 2026)](https://jobright.ai/jobs/info/692127d53f782d2f1afcfd23?utm_campaign=1057&utm_source=git)** | Allentown, PA | On Site | Nov 21 |
-| **[SAP](https://www.sap.com)** | **[SAP Student Training and Rotation (STAR) Program - Business Focus [Newtown Square]](https://jobright.ai/jobs/info/692126a3a49a885af9a43693?utm_campaign=1057&utm_source=git)** | Newtown Square, PA | Hybrid | Nov 21 |
-| ↳ | **[SAP Student Training and Rotation (STAR) Program - Development Focus [Newtown Square]](https://jobright.ai/jobs/info/6921268a3f782d2f1afcfc17?utm_campaign=1057&utm_source=git)** | Newtown Square, PA | Hybrid | Nov 21 |
+| **[SAP](https://www.sap.com)** | **[SAP Student Training and Rotation (STAR) Program - Development Focus [Newtown Square]](https://jobright.ai/jobs/info/6921268a3f782d2f1afcfc17?utm_campaign=1057&utm_source=git)** | Newtown Square, PA | Hybrid | Nov 21 |
+| ↳ | **[SAP Student Training and Rotation (STAR) Program - Business Focus [Newtown Square]](https://jobright.ai/jobs/info/6921268600c9ee50eaecc385?utm_campaign=1057&utm_source=git)** | Newtown Square, PA | Hybrid | Nov 21 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/692122be00c9ee50eaecc059?utm_campaign=1057&utm_source=git)** | US - OH - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/692122623f782d2f1afcf70d?utm_campaign=1057&utm_source=git)** | US - VT - Remote | Remote | Nov 21 |
 | **[Craig Hospital](http://www.craighospital.org)** | **[Daniels Fund Scholar Intern](https://jobright.ai/jobs/info/6921222aa49a885af9a432fe?utm_campaign=1057&utm_source=git)** | Denver Metropolitan Area | On Site | Nov 21 |
@@ -89,8 +95,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e303f782d2f1afcf58d?utm_campaign=1057&utm_source=git)** | US - WV - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e2c3f782d2f1afcf587?utm_campaign=1057&utm_source=git)** | US - IA - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e24a49a885af9a43034?utm_campaign=1057&utm_source=git)** | US - MI - Remote | Remote | Nov 21 |
-| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e1da49a885af9a4302c?utm_campaign=1057&utm_source=git)** | US - HI - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e1da49a885af9a4302b?utm_campaign=1057&utm_source=git)** | US - MD - Remote | Remote | Nov 21 |
+| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e1da49a885af9a4302c?utm_campaign=1057&utm_source=git)** | US - HI - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e0fa49a885af9a43020?utm_campaign=1057&utm_source=git)** | US - VA - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e07a49a885af9a43019?utm_campaign=1057&utm_source=git)** | US - WA - Remote | Remote | Nov 21 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Assistant Program Director, Parent and Family Programs (Student Services Professional III)](https://jobright.ai/jobs/info/69211e013f782d2f1afcf55d?utm_campaign=1057&utm_source=git)** | SD Metro Area | On Site | Nov 21 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Student Intern, Psychiatry Research (per diem)](https://jobright.ai/jobs/info/6920fa6500c9ee50eaeca488?utm_campaign=1057&utm_source=git)** | Boston | On Site | Nov 21 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Spring 2026: Digital Inclusion Intern (Unpaid)](https://jobright.ai/jobs/info/6920fa273f782d2f1afcdc7c?utm_campaign=1057&utm_source=git)** | San Diego, CA USA | Hybrid | Nov 21 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Science Specialist Teacher and Interns - Elementary](https://jobright.ai/jobs/info/6920f8713f782d2f1afcd9e4?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 21 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[InnoTech Data, Experience & Product Internship (Undergraduate) - Summer 2026](https://jobright.ai/jobs/info/6920f4bba49a885af9a41324?utm_campaign=1057&utm_source=git)** | IL - Northbrook | Hybrid | Nov 21 |
-| ↳ | **[InnoTech AI Critical Skills Internship (Graduate) - Summer 2026](https://jobright.ai/jobs/info/6920f48400c9ee50eaeca033?utm_campaign=1057&utm_source=git)** | AZ - Scottsdale | Hybrid | Nov 21 |
-| ↳ | **[InnoTech AI Critical Skills Internship (Graduate) - Summer 2026](https://jobright.ai/jobs/info/6920f4813f782d2f1afcd65e?utm_campaign=1057&utm_source=git)** | RI - Woonsocket | Hybrid | Nov 21 |
-| ↳ | **[InnoTech AI Critical Skills Internship (Graduate) - Summer 2026](https://jobright.ai/jobs/info/6920f379a49a885af9a410fd?utm_campaign=1057&utm_source=git)** | TX - Irving | Hybrid | Nov 21 |
-| ↳ | **[InnoTech Data, Experience & Product Internship (Undergraduate) - Summer 2026](https://jobright.ai/jobs/info/6920f32fa49a885af9a41090?utm_campaign=1057&utm_source=git)** | TX - Irving | Hybrid | Nov 21 |
-| ↳ | **[InnoTech Information Security & Technology Solutions Internship (Graduate) - Summer 2026](https://jobright.ai/jobs/info/6920f13aa49a885af9a40d35?utm_campaign=1057&utm_source=git)** | CT - Hartford | Hybrid | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
