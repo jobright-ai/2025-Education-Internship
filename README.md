@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AAON, Inc.](https://www.aaon.com)** | **[Learning &amp; Development College Intern](https://jobright.ai/jobs/info/692211d8a49a885af9a4851e?utm_campaign=1057&utm_source=git)** | Tulsa, OK, USA | On Site | Nov 22 |
+| **[Restaurant Brands International](http://rbi.com/en)** | **[MBA Summer Internship Program](https://jobright.ai/jobs/info/68e9b08465768b6412b1eafe?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Nov 22 |
+| **[Marquette University](http://marquette.edu)** | **[Director, Commercial Banking Program](https://jobright.ai/jobs/info/692201a13f782d2f1afd4518?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | Nov 22 |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/6921fcb03f782d2f1afd4484?utm_campaign=1057&utm_source=git)** | Athens, OH | On Site | Nov 22 |
+| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/6921fbbfd1ec2c3565c46688?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Nov 22 |
 | **[Child Mind Institute](http://childmind.org)** | **[Intern, Summer Program](https://jobright.ai/jobs/info/6905335eff462851feffbb59?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Nov 22 |
 | **[BlackRock](http://www.blackrock.com)** | **[2026 MBA Internship Program - AMERS](https://jobright.ai/jobs/info/683f6532ae0729b4523c2447?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Nov 22 |
 | **[Child Mind Institute](http://childmind.org)** | **[Lead Intern, Summer Program](https://jobright.ai/jobs/info/690536f2122e8474c78d793d?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Nov 22 |
@@ -88,7 +93,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sports Administration Assistant Professor](https://jobright.ai/jobs/info/6921658ca49a885af9a458db?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Nov 21 |
 | **[Fowler College of Business at San Diego State University](https://business.sdsu.edu/)** | **[Assistant Program Director, Parent and Family Programs (Student Services Professional III)](https://jobright.ai/jobs/info/69216580a49a885af9a458d6?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Nov 21 |
 | **[Learnitude](https://www.learnitude.com/)** | **[Internship: Training and Operations Support](https://jobright.ai/jobs/info/692162bda49a885af9a4584c?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Nov 21 |
-| **[Valorantum Capital](valorantumcapital.us)** | **[Corporate Trainee Program Internship](https://jobright.ai/jobs/info/692162983f782d2f1afd1c5d?utm_campaign=1057&utm_source=git)** | Sussex, WI | Remote | Nov 21 |
 | **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/6921548f3f782d2f1afd1701?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Nov 21 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/69214a423f782d2f1afd0ee2?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Nov 21 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[InnoTech Information Security & Technology Solutions Internship (Undergraduate) - Summer 2026](https://jobright.ai/jobs/info/69213ad63f782d2f1afd072a?utm_campaign=1057&utm_source=git)** | Hartford, CT | Hybrid | Nov 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211c6b00c9ee50eaecbc1a?utm_campaign=1057&utm_source=git)** | US - DE - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211c6a3f782d2f1afcf423?utm_campaign=1057&utm_source=git)** | US - RI - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211c6a3f782d2f1afcf41f?utm_campaign=1057&utm_source=git)** | US - NM - Remote | Remote | Nov 21 |
-| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211c64a49a885af9a42f7f?utm_campaign=1057&utm_source=git)** | US - NH - Remote | Remote | Nov 21 |
-| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211c6300c9ee50eaecbc18?utm_campaign=1057&utm_source=git)** | US - NC - Remote | Remote | Nov 21 |
-| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211c4d3f782d2f1afcf402?utm_campaign=1057&utm_source=git)** | US - CO - Remote | Remote | Nov 21 |
-| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211c3b00c9ee50eaecbc06?utm_campaign=1057&utm_source=git)** | US - FL - Remote | Remote | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
