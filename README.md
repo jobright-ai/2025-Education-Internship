@@ -57,8 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Virginia's Community College System](https://www.vccs.edu/)** | **[Associate Vice President for Student Affairs](https://jobright.ai/jobs/info/6921b164a49a885af9a47210?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Nov 22 |
+| **[University of Vermont](http://www.uvm.edu/medicine)** | **[EDUCATION FINANCE - ASSISTANT PROFESSOR](https://jobright.ai/jobs/info/68e9ab370930fe0bc46280e4?utm_campaign=1057&utm_source=git)** | Burlington, VT | On Site | Nov 22 |
+| **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern (Academic Credit) - Department of Neurology - Per Diem (On-site)](https://jobright.ai/jobs/info/68ea24ffdb8fbc4015c65960?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Nov 22 |
+| **[CHRISTUS Health](http://www.christushealth.org)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/6905af52122e8474c78dad55?utm_campaign=1057&utm_source=git)** | Alexandria, LA | On Site | Nov 22 |
+| **[North Memorial Health](https://northmemorial.com/)** | **[Summer Nurse Intern- 2026](https://jobright.ai/jobs/info/6904ce8b122e8474c78d35ee?utm_campaign=1057&utm_source=git)** | Twin Cities Area | On Site | Nov 22 |
+| **[DPR Construction](http://www.dpr.com)** | **[Build Up Internship](https://jobright.ai/jobs/info/6761281e00564f4d2776d498?utm_campaign=1057&utm_source=git)** | Redwood City, CA | On Site | Nov 22 |
+| ↳ | **[Build Up Internship - Charlotte](https://jobright.ai/jobs/info/672b51dde591f4305e4230d3?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Nov 22 |
+| **[Amplify](http://www.amplify.com)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/68e9514a0930fe0bc46242b7?utm_campaign=1057&utm_source=git)** | United States | Remote | Nov 22 |
+| **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Clinical Dietitian III / Intern Program](https://jobright.ai/jobs/info/6904d47a122e8474c78d38b3?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Nov 22 |
 | **[Madison Square Garden Entertainment Corp.](https://www.msgentertainment.com/)** | **[Human Resources Summer 2026 Student Associate Program](https://jobright.ai/jobs/info/69056b76122e8474c78d8d40?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Nov 22 |
 | **[Southern Utah University](http://www.suu.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/692192a1d1ec2c3565c4517a?utm_campaign=1057&utm_source=git)** | Cedar City, UT | On Site | Nov 22 |
+| **[Madison Square Garden Sports Corp.](https://www.msgsports.com/)** | **[Creative Services Summer 2026 Student Associate Program](https://jobright.ai/jobs/info/69053e11ff462851feffc382?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
 | **[University of Montevallo](http://www.montevallo.edu)** | **[Falcon Success Center Student Office Assistant](https://jobright.ai/jobs/info/69218c8cd1ec2c3565c4501d?utm_campaign=1057&utm_source=git)** | Montevallo, AL | On Site | Nov 22 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69216a28a49a885af9a45adf?utm_campaign=1057&utm_source=git)** | Reston, VA | On Site | Nov 21 |
 | **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/692168763f782d2f1afd1ef5?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Nov 21 |
@@ -118,8 +128,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211d6b3f782d2f1afcf4df?utm_campaign=1057&utm_source=git)** | US - ME - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211d563f782d2f1afcf4ce?utm_campaign=1057&utm_source=git)** | US - SD - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211d5300c9ee50eaecbc75?utm_campaign=1057&utm_source=git)** | US - NV - Remote | Remote | Nov 21 |
-| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211d4e00c9ee50eaecbc72?utm_campaign=1057&utm_source=git)** | US - AK - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211d4e00c9ee50eaecbc73?utm_campaign=1057&utm_source=git)** | US - AL - Remote | Remote | Nov 21 |
+| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211d4e00c9ee50eaecbc72?utm_campaign=1057&utm_source=git)** | US - AK - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211d4ca49a885af9a42fc0?utm_campaign=1057&utm_source=git)** | US - PA - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211d3e3f782d2f1afcf4c0?utm_campaign=1057&utm_source=git)** | US - DC - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211d343f782d2f1afcf4b7?utm_campaign=1057&utm_source=git)** | US - ND - Remote | Remote | Nov 21 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026: Career Programs Intern (Unpaid)](https://jobright.ai/jobs/info/69211074a49a885af9a427f8?utm_campaign=1057&utm_source=git)** | San Diego, CA | Remote | Nov 21 |
 | ↳ | **[Spring 2026: Community Fridge Program Intern (Unpaid)](https://jobright.ai/jobs/info/6921100fa49a885af9a42788?utm_campaign=1057&utm_source=git)** | San Diego, CA | Hybrid | Nov 21 |
 | **[Weber State University Department of Automotive Technology](https://www.weber.edu/automotive)** | **[Student Involvement and Leadership Intern](https://jobright.ai/jobs/info/69210efca49a885af9a42642?utm_campaign=1057&utm_source=git)** | Ogden, UT | On Site | Nov 21 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Spring 2026: Refugee Field Work Intern (Unpaid)](https://jobright.ai/jobs/info/69210e6e3f782d2f1afceac8?utm_campaign=1057&utm_source=git)** | San Diego, CA USA | On Site | Nov 21 |
-| **[Circle of Care for Families and Children of Passaic County, Inc.](https://www.circleofcarecmo.org)** | **[Student Intern - Finance and Human Resources](https://jobright.ai/jobs/info/69210e663f782d2f1afceabc?utm_campaign=1057&utm_source=git)** | Woodland Park, NJ | On Site | Nov 21 |
-| **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern – Athlete Availability](https://jobright.ai/jobs/info/69210e4500c9ee50eaecb2eb?utm_campaign=1057&utm_source=git)** | US-AZ-Phoenix | On Site | Nov 21 |
-| ↳ | **[Intern – Athlete Availability](https://jobright.ai/jobs/info/6921065c3f782d2f1afce6ae?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Nov 21 |
-| **[Corning Incorporated](https://www.corning.com/)** | **[K-12 Instructional Support Intern - Summer 2026](https://jobright.ai/jobs/info/692105bf00c9ee50eaecad90?utm_campaign=1057&utm_source=git)** | Corning, NY | On Site | Nov 21 |
-| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/6921058100c9ee50eaecad72?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 21 |
-| **[Providence](http://www.providence.org)** | **[Student Intern](https://jobright.ai/jobs/info/692185e3d1ec2c3565c44dc2?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Nov 21 |
-| **[Vertex Inc.](https://www.vertexinc.com)** | **[Digital Learning Content Intern](https://jobright.ai/jobs/info/6921008000c9ee50eaecab85?utm_campaign=1057&utm_source=git)** | United States | Remote | Nov 21 |
-| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Art Teacher & Intern - Elementary](https://jobright.ai/jobs/info/6920ff56a49a885af9a41d89?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 21 |
-| **[RailPros](http://railpros.com)** | **[Intern - Instructional Design](https://jobright.ai/jobs/info/6920fd1700c9ee50eaeca795?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | Hybrid | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
