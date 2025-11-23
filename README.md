@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[7-Eleven](http://www.7-eleven.com)** | **[Brainfreeze Collective Intern](https://jobright.ai/jobs/info/68ea69ba76a1db7c5985ad63?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | Nov 23 |
+| **[Tarleton State University](http://www.tarleton.edu/)** | **[Student Intern Supervisor](https://jobright.ai/jobs/info/68985dba5574fd6bc0c79253?utm_campaign=1057&utm_source=git)** | Stephenville, TX | On Site | Nov 23 |
 | **[Recovery Centers of America](http://www.recoverycentersofamerica.com/)** | **[Intern-Clinical](https://jobright.ai/jobs/info/6922ed027795cd460c837c05?utm_campaign=1057&utm_source=git)** | Greenville, SC | On Site | Nov 23 |
 | **[Transformations Care Network](https://www.transformationsnetwork.com/)** | **[Mental Health Therapist Intern - Pennsylvania - Meadowlands](https://jobright.ai/jobs/info/6922d1bac0cefa13343d9810?utm_campaign=1057&utm_source=git)** | Washington, PA | On Site | Nov 23 |
 | **[Orbient 24](orbient24.us)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/6922ceb738cd5478a8d55317?utm_campaign=1057&utm_source=git)** | Racine, WI | Remote | Nov 23 |
@@ -65,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Virginia's Community College System](https://www.vccs.edu/)** | **[Automotive & Collision Program Assistant](https://jobright.ai/jobs/info/6922845c7795cd460c835fa9?utm_campaign=1057&utm_source=git)** | Alexandria, VA | On Site | Nov 22 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Visiting Assistant Professor - International Business](https://jobright.ai/jobs/info/692270947795cd460c835947?utm_campaign=1057&utm_source=git)** | Lawrence, KS | On Site | Nov 22 |
 | ↳ | **[SW - Associate Dean for Student Affairs and Enrollment Management - Associate Professor/Full Pr](https://jobright.ai/jobs/info/69226953a49a885af9a48e26?utm_campaign=1057&utm_source=git)** | Tuscaloosa, AL | On Site | Nov 22 |
-| ↳ | **[Postdoctoral Fellowship in International Education and Early Childhood Development](https://jobright.ai/jobs/info/692268983f782d2f1afd516b?utm_campaign=1057&utm_source=git)** | Notre Dame, IN | On Site | Nov 22 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Art Teacher & Intern - Secondary](https://jobright.ai/jobs/info/69225ac7a49a885af9a48c2e?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 22 |
 | **[PORT Health](https://www.porthealth.org/)** | **[Intern / Adolescent Residential Home](https://jobright.ai/jobs/info/69224f263f782d2f1afd4eb8?utm_campaign=1057&utm_source=git)** | Greenville, NC | On Site | Nov 22 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/692245ffd1ec2c3565c47096?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 22 |
@@ -90,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Faculty Positions in Informatics](https://jobright.ai/jobs/info/6921d457a49a885af9a47c2c?utm_campaign=1057&utm_source=git)** | Hays, KS | On Site | Nov 22 |
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af1aa31f0a2a568a05f103?utm_campaign=1057&utm_source=git)** | Ormond Beach, Florida, United States | On Site | Nov 22 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Speech Clinical Fellowship Year Intern, Pediatrics](https://jobright.ai/jobs/info/69060e3563502c0aded80791?utm_campaign=1057&utm_source=git)** | Fresno, CA | On Site | Nov 22 |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Corporate Trainee Intern](https://jobright.ai/jobs/info/6921c874d1ec2c3565c45ed8?utm_campaign=1057&utm_source=git)** | Sussex, WI | Remote | Nov 22 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68ce05181ad6b16f028a0f8a?utm_campaign=1057&utm_source=git)** | Davenport, FL | On Site | Nov 22 |
 | **[Phillips 66](http://www.phillips66.com/)** | **[2026 University Intern- Health, Safety, and Environment](https://jobright.ai/jobs/info/68953cea8c6d6b4426778431?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Nov 22 |
 | **[Virginia's Community College System](https://www.vccs.edu/)** | **[Associate Vice President for Student Affairs](https://jobright.ai/jobs/info/6921b164a49a885af9a47210?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Nov 22 |
