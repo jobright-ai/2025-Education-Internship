@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Westlake Village, CA - Training and Development Team](https://jobright.ai/jobs/info/6906e99d63502c0aded83bdf?utm_campaign=1057&utm_source=git)** | Westlake Village, CA | On Site | Nov 23 |
+| **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Training and Development Intern](https://jobright.ai/jobs/info/69232174c0cefa13343da3ac?utm_campaign=1057&utm_source=git)** | Fort Lupton, CO | On Site | Nov 23 |
+| **[BioSpace](http://www.biospace.com/)** | **[Summer Intern - Scientific Communications](https://jobright.ai/jobs/info/69231f407795cd460c838185?utm_campaign=1057&utm_source=git)** | Bridgewater, NJ | Hybrid | Nov 23 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69231330c0cefa13343da21f?utm_campaign=1057&utm_source=git)** | Reston, VA | On Site | Nov 23 |
+| ↳ | **[International Student Advisor](https://jobright.ai/jobs/info/692312bd38cd5478a8d55feb?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Nov 23 |
+| **[Phillips 66](http://www.phillips66.com/)** | **[2026 University Intern - ERI Analytical Solutions](https://jobright.ai/jobs/info/6894eb7673b3a600fe883540?utm_campaign=1057&utm_source=git)** | Bartlesville, OK | On Site | Nov 23 |
+| **[ExxonMobil](https://corporate.exxonmobil.com)** | **[PhD Students Seeking Internship Opportunities](https://jobright.ai/jobs/info/68950bc273b3a600fe884a04?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Nov 23 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Brainfreeze Collective Intern](https://jobright.ai/jobs/info/68ea69ba76a1db7c5985ad63?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | Nov 23 |
 | **[Tarleton State University](http://www.tarleton.edu/)** | **[Student Intern Supervisor](https://jobright.ai/jobs/info/68985dba5574fd6bc0c79253?utm_campaign=1057&utm_source=git)** | Stephenville, TX | On Site | Nov 23 |
 | **[Recovery Centers of America](http://www.recoverycentersofamerica.com/)** | **[Intern-Clinical](https://jobright.ai/jobs/info/6922ed027795cd460c837c05?utm_campaign=1057&utm_source=git)** | Greenville, SC | On Site | Nov 23 |
@@ -143,18 +150,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e303f782d2f1afcf58d?utm_campaign=1057&utm_source=git)** | US - WV - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e2c3f782d2f1afcf587?utm_campaign=1057&utm_source=git)** | US - IA - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e24a49a885af9a43034?utm_campaign=1057&utm_source=git)** | US - MI - Remote | Remote | Nov 21 |
-| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e1da49a885af9a4302b?utm_campaign=1057&utm_source=git)** | US - MD - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e1da49a885af9a4302c?utm_campaign=1057&utm_source=git)** | US - HI - Remote | Remote | Nov 21 |
+| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e1da49a885af9a4302b?utm_campaign=1057&utm_source=git)** | US - MD - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e0fa49a885af9a43020?utm_campaign=1057&utm_source=git)** | US - VA - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e07a49a885af9a43019?utm_campaign=1057&utm_source=git)** | US - WA - Remote | Remote | Nov 21 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Assistant Program Director, Parent and Family Programs (Student Services Professional III)](https://jobright.ai/jobs/info/69211e013f782d2f1afcf55d?utm_campaign=1057&utm_source=git)** | SD Metro Area | On Site | Nov 21 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211dfd00c9ee50eaecbd04?utm_campaign=1057&utm_source=git)** | US - TN - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211df23f782d2f1afcf554?utm_campaign=1057&utm_source=git)** | US - IN - Remote | Remote | Nov 21 |
-| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211deb00c9ee50eaecbcf0?utm_campaign=1057&utm_source=git)** | US - MA - Remote | Remote | Nov 21 |
-| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211de400c9ee50eaecbce7?utm_campaign=1057&utm_source=git)** | US - GA - Remote | Remote | Nov 21 |
-| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211de23f782d2f1afcf549?utm_campaign=1057&utm_source=git)** | US Nationwide - Remote | Remote | Nov 21 |
-| **[Heartland Business Systems](https://www.hbs.net)** | **[ERP Associate - Summer 2026 Internship Program](https://jobright.ai/jobs/info/692273c17795cd460c83596f?utm_campaign=1057&utm_source=git)** | Little Chute, WI | On Site | Nov 21 |
-| **[Stride, Inc.](https://www.stridelearning.com)** | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211dbe3f782d2f1afcf52a?utm_campaign=1057&utm_source=git)** | US - WI - Remote | Remote | Nov 21 |
-| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211da500c9ee50eaecbcbc?utm_campaign=1057&utm_source=git)** | US - IL - Remote | Remote | Nov 21 |
-| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211d9b3f782d2f1afcf512?utm_campaign=1057&utm_source=git)** | US - AR - Remote | Remote | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
