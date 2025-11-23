@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/69236289c0cefa13343daa89?utm_campaign=1057&utm_source=git)** | Racine, WI | Remote | Nov 23 |
+| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Corporate Trainee Intern](https://jobright.ai/jobs/info/6923545a7795cd460c838665?utm_campaign=1057&utm_source=git)** | Sussex, WI | Remote | Nov 23 |
+| **[Sandstone Care](https://www.sandstonecare.com)** | **[Clinical Internship](https://jobright.ai/jobs/info/69126ed0ea9ab01b82bf29ec?utm_campaign=1057&utm_source=git)** | Sandstone Care - Cascade, Colorado | On Site | Nov 23 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[FWS - Operational Technology Student Assistant](https://jobright.ai/jobs/info/69234cd37795cd460c8385e6?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Nov 23 |
 | **[BlackRock](http://www.blackrock.com)** | **[2026 Summer Internship Program - AMERS](https://jobright.ai/jobs/info/68f84f2c4bafad6d2d76165b?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Nov 23 |
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Westlake Village, CA - Training and Development Team](https://jobright.ai/jobs/info/6906e99d63502c0aded83bdf?utm_campaign=1057&utm_source=git)** | Westlake Village, CA | On Site | Nov 23 |
 | **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Training and Development Intern](https://jobright.ai/jobs/info/69232174c0cefa13343da3ac?utm_campaign=1057&utm_source=git)** | Fort Lupton, CO | On Site | Nov 23 |
@@ -151,10 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e303f782d2f1afcf58d?utm_campaign=1057&utm_source=git)** | US - WV - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e2c3f782d2f1afcf587?utm_campaign=1057&utm_source=git)** | US - IA - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e24a49a885af9a43034?utm_campaign=1057&utm_source=git)** | US - MI - Remote | Remote | Nov 21 |
-| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e1da49a885af9a4302b?utm_campaign=1057&utm_source=git)** | US - MD - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e1da49a885af9a4302c?utm_campaign=1057&utm_source=git)** | US - HI - Remote | Remote | Nov 21 |
-| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e0fa49a885af9a43020?utm_campaign=1057&utm_source=git)** | US - VA - Remote | Remote | Nov 21 |
-| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e07a49a885af9a43019?utm_campaign=1057&utm_source=git)** | US - WA - Remote | Remote | Nov 21 |
-| **[San Diego State University](http://www.sdsu.edu)** | **[Assistant Program Director, Parent and Family Programs (Student Services Professional III)](https://jobright.ai/jobs/info/69211e013f782d2f1afcf55d?utm_campaign=1057&utm_source=git)** | SD Metro Area | On Site | Nov 21 |
-| **[Stride, Inc.](https://www.stridelearning.com)** | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211dfd00c9ee50eaecbd04?utm_campaign=1057&utm_source=git)** | US - TN - Remote | Remote | Nov 21 |
+| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e1da49a885af9a4302b?utm_campaign=1057&utm_source=git)** | US - MD - Remote | Remote | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
