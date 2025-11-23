@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Transformations Care Network](https://www.transformationsnetwork.com/)** | **[Mental Health Therapist Intern - Pennsylvania - Meadowlands](https://jobright.ai/jobs/info/6922d1bac0cefa13343d9810?utm_campaign=1057&utm_source=git)** | Washington, PA | On Site | Nov 23 |
+| **[Orbient 24](orbient24.us)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/6922ceb738cd5478a8d55317?utm_campaign=1057&utm_source=git)** | Racine, WI | Remote | Nov 23 |
 | **[Holcomb Behavioral Health Systems - A Chimes Company](http://www.holcombbhs.org)** | **[Intern](https://jobright.ai/jobs/info/6922b0647795cd460c836aa6?utm_campaign=1057&utm_source=git)** | Allentown, PA | On Site | Nov 22 |
 | **[State of South Carolina](https://sc.gov/)** | **[Student Development Counselor (Student Services Program Coordinator II) #2623](https://jobright.ai/jobs/info/69229a65c0cefa13343d8817?utm_campaign=1057&utm_source=git)** | Charleston County, SC | On Site | Nov 22 |
 | **[Virginia's Community College System](https://www.vccs.edu/)** | **[Automotive & Collision Program Assistant](https://jobright.ai/jobs/info/6922845c7795cd460c835fa9?utm_campaign=1057&utm_source=git)** | Alexandria, VA | On Site | Nov 22 |
@@ -95,7 +97,7 @@ For a complete list, click the following sortable link below:
 | **[University of Vermont](http://www.uvm.edu/medicine)** | **[EDUCATION FINANCE - ASSISTANT PROFESSOR](https://jobright.ai/jobs/info/68e9ab370930fe0bc46280e4?utm_campaign=1057&utm_source=git)** | Burlington, VT | On Site | Nov 22 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern (Academic Credit) - Department of Neurology - Per Diem (On-site)](https://jobright.ai/jobs/info/68ea24ffdb8fbc4015c65960?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Nov 22 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/6905af52122e8474c78dad55?utm_campaign=1057&utm_source=git)** | Alexandria, LA | On Site | Nov 22 |
-| **[North Memorial Health](https://northmemorial.com/)** | **[Summer Nurse Intern- 2026](https://jobright.ai/jobs/info/6904ce8b122e8474c78d35ee?utm_campaign=1057&utm_source=git)** | Twin Cities Area | On Site | Nov 22 |
+| **[North Memorial Health](https://northmemorial.com/)** | **[Summer Nurse Intern- 2026](https://jobright.ai/jobs/info/6904e26fff462851feff84ed?utm_campaign=1057&utm_source=git)** | Twin Cities Area | On Site | Nov 22 |
 | **[DPR Construction](http://www.dpr.com)** | **[Build Up Internship](https://jobright.ai/jobs/info/6761281e00564f4d2776d498?utm_campaign=1057&utm_source=git)** | Redwood City, CA | On Site | Nov 22 |
 | ↳ | **[Build Up Internship - Charlotte](https://jobright.ai/jobs/info/672b51dde591f4305e4230d3?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Nov 22 |
 | **[Amplify](http://www.amplify.com)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/68e9514a0930fe0bc46242b7?utm_campaign=1057&utm_source=git)** | United States | Remote | Nov 22 |
@@ -126,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[Mindful Healing Works](https://mindfulhealingworks.com)** | **[Internship Director - The Academy MHW](https://jobright.ai/jobs/info/6921287e00c9ee50eaecc545?utm_campaign=1057&utm_source=git)** | Rosedale, IN | On Site | Nov 21 |
 | **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Learning and Development (L&D) Intern, Spring 2026](https://jobright.ai/jobs/info/6921281900c9ee50eaecc4d9?utm_campaign=1057&utm_source=git)** | Waltham, MA | Hybrid | Nov 21 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern - Data and Analytics (Summer 2026)](https://jobright.ai/jobs/info/692127d53f782d2f1afcfd23?utm_campaign=1057&utm_source=git)** | Allentown, PA | On Site | Nov 21 |
-| **[SAP](https://www.sap.com)** | **[SAP Student Training and Rotation (STAR) Program - Business Focus [Newtown Square]](https://jobright.ai/jobs/info/692126a3a49a885af9a43693?utm_campaign=1057&utm_source=git)** | Newtown Square, PA | Hybrid | Nov 21 |
-| ↳ | **[SAP Student Training and Rotation (STAR) Program - Development Focus [Newtown Square]](https://jobright.ai/jobs/info/6921268a3f782d2f1afcfc17?utm_campaign=1057&utm_source=git)** | Newtown Square, PA | Hybrid | Nov 21 |
+| **[SAP](https://www.sap.com)** | **[SAP Student Training and Rotation (STAR) Program - Development Focus [Newtown Square]](https://jobright.ai/jobs/info/6921268a3f782d2f1afcfc17?utm_campaign=1057&utm_source=git)** | Newtown Square, PA | Hybrid | Nov 21 |
+| ↳ | **[SAP Student Training and Rotation (STAR) Program - Business Focus [Newtown Square]](https://jobright.ai/jobs/info/6921268600c9ee50eaecc385?utm_campaign=1057&utm_source=git)** | Newtown Square, PA | Hybrid | Nov 21 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/692122be00c9ee50eaecc059?utm_campaign=1057&utm_source=git)** | US - OH - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/692122623f782d2f1afcf70d?utm_campaign=1057&utm_source=git)** | US - VT - Remote | Remote | Nov 21 |
 | **[Craig Hospital](http://www.craighospital.org)** | **[Daniels Fund Scholar Intern](https://jobright.ai/jobs/info/6921222aa49a885af9a432fe?utm_campaign=1057&utm_source=git)** | Denver Metropolitan Area | On Site | Nov 21 |
@@ -141,8 +143,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e303f782d2f1afcf58d?utm_campaign=1057&utm_source=git)** | US - WV - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e2c3f782d2f1afcf587?utm_campaign=1057&utm_source=git)** | US - IA - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e24a49a885af9a43034?utm_campaign=1057&utm_source=git)** | US - MI - Remote | Remote | Nov 21 |
-| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e1da49a885af9a4302b?utm_campaign=1057&utm_source=git)** | US - MD - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e1da49a885af9a4302c?utm_campaign=1057&utm_source=git)** | US - HI - Remote | Remote | Nov 21 |
+| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e1da49a885af9a4302b?utm_campaign=1057&utm_source=git)** | US - MD - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e0fa49a885af9a43020?utm_campaign=1057&utm_source=git)** | US - VA - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e07a49a885af9a43019?utm_campaign=1057&utm_source=git)** | US - WA - Remote | Remote | Nov 21 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Assistant Program Director, Parent and Family Programs (Student Services Professional III)](https://jobright.ai/jobs/info/69211e013f782d2f1afcf55d?utm_campaign=1057&utm_source=git)** | SD Metro Area | On Site | Nov 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211dbe3f782d2f1afcf52a?utm_campaign=1057&utm_source=git)** | US - WI - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211da500c9ee50eaecbcbc?utm_campaign=1057&utm_source=git)** | US - IL - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211d9b3f782d2f1afcf512?utm_campaign=1057&utm_source=git)** | US - AR - Remote | Remote | Nov 21 |
-| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211d94a49a885af9a42fd2?utm_campaign=1057&utm_source=git)** | US - LA - Remote | Remote | Nov 21 |
-| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211d8500c9ee50eaecbca5?utm_campaign=1057&utm_source=git)** | US - OR - Remote | Remote | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
