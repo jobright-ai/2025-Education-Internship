@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Visiting Assistant Professor - International Business](https://jobright.ai/jobs/info/692270947795cd460c835947?utm_campaign=1057&utm_source=git)** | Lawrence, KS | On Site | Nov 22 |
+| ↳ | **[SW - Associate Dean for Student Affairs and Enrollment Management - Associate Professor/Full Pr](https://jobright.ai/jobs/info/69226953a49a885af9a48e26?utm_campaign=1057&utm_source=git)** | Tuscaloosa, AL | On Site | Nov 22 |
+| ↳ | **[Postdoctoral Fellowship in International Education and Early Childhood Development](https://jobright.ai/jobs/info/692268983f782d2f1afd516b?utm_campaign=1057&utm_source=git)** | Notre Dame, IN | On Site | Nov 22 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Art Teacher & Intern - Secondary](https://jobright.ai/jobs/info/69225ac7a49a885af9a48c2e?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 22 |
 | **[PORT Health](https://www.porthealth.org/)** | **[Intern / Adolescent Residential Home](https://jobright.ai/jobs/info/69224f263f782d2f1afd4eb8?utm_campaign=1057&utm_source=git)** | Greenville, NC | On Site | Nov 22 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/692245ffd1ec2c3565c47096?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 22 |
 | **[Seattle University](https://www.seattleu.edu/)** | **[Temporary HRL ACUHO-I Summer Intern, Department of Housing and Residence Life](https://jobright.ai/jobs/info/692243793f782d2f1afd4e29?utm_campaign=1057&utm_source=git)** | Seattle, WA | Hybrid | Nov 22 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Science Specialist Teacher and Interns - Elementary](https://jobright.ai/jobs/info/69224304d1ec2c3565c47064?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 22 |
 | ↳ | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/69224180a49a885af9a48a8b?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 22 |
-| ↳ | **[2025/2026 - Art Teacher & Intern - Elementary](https://jobright.ai/jobs/info/6922413aa49a885af9a48a79?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 22 |
 | **[Austin Peay State University](http://www.apsu.edu/)** | **[Director, Master of Athletic Training Program](https://jobright.ai/jobs/info/69222eb4d1ec2c3565c46ed9?utm_campaign=1057&utm_source=git)** | Clarksville, TN | On Site | Nov 22 |
 | **[Hackensack Meridian Health](https://www.hackensackmeridianhealth.org)** | **[IT Summer Intern, DTS Training](https://jobright.ai/jobs/info/69222e06d1ec2c3565c46eb3?utm_campaign=1057&utm_source=git)** | Edison, NJ | On Site | Nov 22 |
 | **[Bismarck Public Schools](https://www.bismarckschools.org)** | **[Student Intern I - Century High School](https://jobright.ai/jobs/info/692225eba49a885af9a4886e?utm_campaign=1057&utm_source=git)** | Bismarck, ND | On Site | Nov 22 |
@@ -90,7 +92,7 @@ For a complete list, click the following sortable link below:
 | **[University of Vermont](http://www.uvm.edu/medicine)** | **[EDUCATION FINANCE - ASSISTANT PROFESSOR](https://jobright.ai/jobs/info/68e9ab370930fe0bc46280e4?utm_campaign=1057&utm_source=git)** | Burlington, VT | On Site | Nov 22 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern (Academic Credit) - Department of Neurology - Per Diem (On-site)](https://jobright.ai/jobs/info/68ea24ffdb8fbc4015c65960?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Nov 22 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/6905af52122e8474c78dad55?utm_campaign=1057&utm_source=git)** | Alexandria, LA | On Site | Nov 22 |
-| **[North Memorial Health](https://northmemorial.com/)** | **[Summer Nurse Intern- 2026](https://jobright.ai/jobs/info/6904e26fff462851feff84ed?utm_campaign=1057&utm_source=git)** | Twin Cities Area | On Site | Nov 22 |
+| **[North Memorial Health](https://northmemorial.com/)** | **[Summer Nurse Intern- 2026](https://jobright.ai/jobs/info/6904ce8b122e8474c78d35ee?utm_campaign=1057&utm_source=git)** | Twin Cities Area | On Site | Nov 22 |
 | **[DPR Construction](http://www.dpr.com)** | **[Build Up Internship](https://jobright.ai/jobs/info/6761281e00564f4d2776d498?utm_campaign=1057&utm_source=git)** | Redwood City, CA | On Site | Nov 22 |
 | ↳ | **[Build Up Internship - Charlotte](https://jobright.ai/jobs/info/672b51dde591f4305e4230d3?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Nov 22 |
 | **[Amplify](http://www.amplify.com)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/68e9514a0930fe0bc46242b7?utm_campaign=1057&utm_source=git)** | United States | Remote | Nov 22 |
@@ -144,7 +146,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211deb00c9ee50eaecbcf0?utm_campaign=1057&utm_source=git)** | US - MA - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211de400c9ee50eaecbce7?utm_campaign=1057&utm_source=git)** | US - GA - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211de23f782d2f1afcf549?utm_campaign=1057&utm_source=git)** | US Nationwide - Remote | Remote | Nov 21 |
-| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211dbe3f782d2f1afcf52a?utm_campaign=1057&utm_source=git)** | US - WI - Remote | Remote | Nov 21 |
+| **[Heartland Business Systems](https://www.hbs.net)** | **[ERP Associate - Summer 2026 Internship Program](https://jobright.ai/jobs/info/692273c17795cd460c83596f?utm_campaign=1057&utm_source=git)** | Little Chute, WI | On Site | Nov 21 |
+| **[Stride, Inc.](https://www.stridelearning.com)** | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211dbe3f782d2f1afcf52a?utm_campaign=1057&utm_source=git)** | US - WI - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211da500c9ee50eaecbcbc?utm_campaign=1057&utm_source=git)** | US - IL - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211d9b3f782d2f1afcf512?utm_campaign=1057&utm_source=git)** | US - AR - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211d94a49a885af9a42fd2?utm_campaign=1057&utm_source=git)** | US - LA - Remote | Remote | Nov 21 |
@@ -152,9 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211d6b3f782d2f1afcf4df?utm_campaign=1057&utm_source=git)** | US - ME - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211d563f782d2f1afcf4ce?utm_campaign=1057&utm_source=git)** | US - SD - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211d5300c9ee50eaecbc75?utm_campaign=1057&utm_source=git)** | US - NV - Remote | Remote | Nov 21 |
-| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211d4e00c9ee50eaecbc73?utm_campaign=1057&utm_source=git)** | US - AL - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211d4e00c9ee50eaecbc72?utm_campaign=1057&utm_source=git)** | US - AK - Remote | Remote | Nov 21 |
-| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211d4ca49a885af9a42fc0?utm_campaign=1057&utm_source=git)** | US - PA - Remote | Remote | Nov 21 |
-| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211d3e3f782d2f1afcf4c0?utm_campaign=1057&utm_source=git)** | US - DC - Remote | Remote | Nov 21 |
-| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211d343f782d2f1afcf4b7?utm_campaign=1057&utm_source=git)** | US - ND - Remote | Remote | Nov 21 |
+| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211d4e00c9ee50eaecbc73?utm_campaign=1057&utm_source=git)** | US - AL - Remote | Remote | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
