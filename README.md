@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Salem Public Schools](https://www.salemk12.org/)** | **[Internship Coordinator, Salem Prep High School, Internal SPS Staff ONLY [SY 2025-2026]](https://jobright.ai/jobs/info/6923d3d9c0cefa13343dbade?utm_campaign=1057&utm_source=git)** | Salem, MA | On Site | Nov 23 |
+| **[NYC Public Schools](https://schools.nyc.gov)** | **[2025-2026 School Aide Posting - South Bronx International Middle School (09X593)](https://jobright.ai/jobs/info/6923d0e8c0cefa13343db9ce?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Nov 23 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Postdoctoral Fellowship in International Education and Early Childhood Development](https://jobright.ai/jobs/info/6923be4538cd5478a8d57118?utm_campaign=1057&utm_source=git)** | Notre Dame, IN | On Site | Nov 23 |
+| **[Boys & Girls Clubs of Middle Tennessee](http://www.bgcmt.org/)** | **[Computer Science Intern (CSI): Summer 2026](https://jobright.ai/jobs/info/6923be27c0cefa13343db356?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Nov 23 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Art Teacher & Intern - Elementary](https://jobright.ai/jobs/info/692399597795cd460c838d2b?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 23 |
 | ↳ | **[2025/2026 - Science Specialist Teacher and Interns - Elementary](https://jobright.ai/jobs/info/692391e5c0cefa13343daf04?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 23 |
 | **[BrightSpring Health Services](https://www.brightspringhealth.com/)** | **[Mental Health Practitioner Apprentice / Intern](https://jobright.ai/jobs/info/68fbedeaf55bb021a889e3c8?utm_campaign=1057&utm_source=git)** | St Paul, MN | On Site | Nov 23 |
@@ -112,7 +116,7 @@ For a complete list, click the following sortable link below:
 | **[University of Vermont](http://www.uvm.edu/medicine)** | **[EDUCATION FINANCE - ASSISTANT PROFESSOR](https://jobright.ai/jobs/info/68e9ab370930fe0bc46280e4?utm_campaign=1057&utm_source=git)** | Burlington, VT | On Site | Nov 22 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern (Academic Credit) - Department of Neurology - Per Diem (On-site)](https://jobright.ai/jobs/info/68ea24ffdb8fbc4015c65960?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Nov 22 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/6905af52122e8474c78dad55?utm_campaign=1057&utm_source=git)** | Alexandria, LA | On Site | Nov 22 |
-| **[North Memorial Health](https://northmemorial.com/)** | **[Summer Nurse Intern- 2026](https://jobright.ai/jobs/info/6904ce8b122e8474c78d35ee?utm_campaign=1057&utm_source=git)** | Twin Cities Area | On Site | Nov 22 |
+| **[North Memorial Health](https://northmemorial.com/)** | **[Summer Nurse Intern- 2026](https://jobright.ai/jobs/info/6904e26fff462851feff84ed?utm_campaign=1057&utm_source=git)** | Twin Cities Area | On Site | Nov 22 |
 | **[DPR Construction](http://www.dpr.com)** | **[Build Up Internship](https://jobright.ai/jobs/info/6761281e00564f4d2776d498?utm_campaign=1057&utm_source=git)** | Redwood City, CA | On Site | Nov 22 |
 | ↳ | **[Build Up Internship - Charlotte](https://jobright.ai/jobs/info/672b51dde591f4305e4230d3?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Nov 22 |
 | **[Amplify](http://www.amplify.com)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/68e9514a0930fe0bc46242b7?utm_campaign=1057&utm_source=git)** | United States | Remote | Nov 22 |
@@ -142,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Student Information System Coordinator - IDEA Cincinnati (General Applicant Pool)](https://jobright.ai/jobs/info/69212be8a49a885af9a43af6?utm_campaign=1057&utm_source=git)** | Cincinnati Metro | On Site | Nov 21 |
 | **[Mindful Healing Works](https://mindfulhealingworks.com)** | **[Internship Director - The Academy MHW](https://jobright.ai/jobs/info/6921287e00c9ee50eaecc545?utm_campaign=1057&utm_source=git)** | Rosedale, IN | On Site | Nov 21 |
 | **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Learning and Development (L&D) Intern, Spring 2026](https://jobright.ai/jobs/info/6921281900c9ee50eaecc4d9?utm_campaign=1057&utm_source=git)** | Waltham, MA | Hybrid | Nov 21 |
-| **[SAP](https://www.sap.com)** | **[SAP Student Training and Rotation (STAR) Program - Business Focus [Newtown Square]](https://jobright.ai/jobs/info/692126a3a49a885af9a43693?utm_campaign=1057&utm_source=git)** | Newtown Square, PA | Hybrid | Nov 21 |
-| ↳ | **[SAP Student Training and Rotation (STAR) Program - Development Focus [Newtown Square]](https://jobright.ai/jobs/info/6921268a3f782d2f1afcfc17?utm_campaign=1057&utm_source=git)** | Newtown Square, PA | Hybrid | Nov 21 |
+| **[SAP](https://www.sap.com)** | **[SAP Student Training and Rotation (STAR) Program - Development Focus [Newtown Square]](https://jobright.ai/jobs/info/6921268a3f782d2f1afcfc17?utm_campaign=1057&utm_source=git)** | Newtown Square, PA | Hybrid | Nov 21 |
+| ↳ | **[SAP Student Training and Rotation (STAR) Program - Business Focus [Newtown Square]](https://jobright.ai/jobs/info/6921268600c9ee50eaecc385?utm_campaign=1057&utm_source=git)** | Newtown Square, PA | Hybrid | Nov 21 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/692122be00c9ee50eaecc059?utm_campaign=1057&utm_source=git)** | US - OH - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/692122623f782d2f1afcf70d?utm_campaign=1057&utm_source=git)** | US - VT - Remote | Remote | Nov 21 |
 | **[Craig Hospital](http://www.craighospital.org)** | **[Daniels Fund Scholar Intern](https://jobright.ai/jobs/info/6921222aa49a885af9a432fe?utm_campaign=1057&utm_source=git)** | Denver Metropolitan Area | On Site | Nov 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e70a49a885af9a43080?utm_campaign=1057&utm_source=git)** | US - MT - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e6fa49a885af9a4307d?utm_campaign=1057&utm_source=git)** | US - VA - Reston - K12 Headquarters | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e4400c9ee50eaecbd45?utm_campaign=1057&utm_source=git)** | US - TX - Remote | Remote | Nov 21 |
-| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e3fa49a885af9a43052?utm_campaign=1057&utm_source=git)** | US - OK - Remote | Remote | Nov 21 |
-| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e303f782d2f1afcf58d?utm_campaign=1057&utm_source=git)** | US - WV - Remote | Remote | Nov 21 |
-| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e2c3f782d2f1afcf587?utm_campaign=1057&utm_source=git)** | US - IA - Remote | Remote | Nov 21 |
-| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e24a49a885af9a43034?utm_campaign=1057&utm_source=git)** | US - MI - Remote | Remote | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
