@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[DreamWorks Animation](https://www.madoohd.com/)** | **[Training Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/69249515ec574f4265bb4ac2?utm_campaign=1057&utm_source=git)** | Glendale, CA | On Site | Nov 24 |
+| **[IBM](http://www.ibm.com)** | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/691d079222a2cb4b9bd2000b?utm_campaign=1057&utm_source=git)** | Rochester, MN | Hybrid | Nov 24 |
+| ↳ | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/691ce586ff7024498416b7eb?utm_campaign=1057&utm_source=git)** | Tucson, AZ | Hybrid | Nov 24 |
+| **[Morris Arboretum & Gardens of the University of Pennsylvania](https://www.morrisarboretum.org)** | **[Youth & Visitor Education Intern (9 months)](https://jobright.ai/jobs/info/6924aa4738cd5478a8d5c5de?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Nov 24 |
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern – Medical Affairs, Reproductive Medicine](https://jobright.ai/jobs/info/692491bfc0cefa13343df978?utm_campaign=1057&utm_source=git)** | Parsippany, New Jersey, United States | Hybrid | Nov 24 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Landmarks Education Intern (Open to work study and non-work study)](https://jobright.ai/jobs/info/69248f79ec574f4265bb46b2?utm_campaign=1057&utm_source=git)** | UT MAIN CAMPUS | On Site | Nov 24 |
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern – Medical Affairs, Orthopaedics](https://jobright.ai/jobs/info/69248f2438cd5478a8d5b599?utm_campaign=1057&utm_source=git)** | Parsippany, New Jersey, United States | Hybrid | Nov 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of Montevallo](http://www.montevallo.edu)** | **[Falcon Success Center Student Office Assistant](https://jobright.ai/jobs/info/69218c8cd1ec2c3565c4501d?utm_campaign=1057&utm_source=git)** | Montevallo, AL | On Site | Nov 22 |
 | **[Sanofi](https://www.sanofi.com)** | **[Summer or Fall 2026 Co-Op_Intern - Market Access Training & Operations](https://jobright.ai/jobs/info/6921bfeca49a885af9a47719?utm_campaign=1057&utm_source=git)** | Cambridge, MA | On Site | Nov 21 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69216a28a49a885af9a45adf?utm_campaign=1057&utm_source=git)** | Reston, VA | On Site | Nov 21 |
-| **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/692168763f782d2f1afd1ef5?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Nov 21 |
-| ↳ | **[Sports Administration Assistant Professor](https://jobright.ai/jobs/info/6921658ca49a885af9a458db?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
