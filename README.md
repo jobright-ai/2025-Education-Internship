@@ -61,7 +61,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025/2026 - Science Specialist Teacher and Interns - Elementary](https://jobright.ai/jobs/info/692391e5c0cefa13343daf04?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 23 |
 | **[BrightSpring Health Services](https://www.brightspringhealth.com/)** | **[Mental Health Practitioner Apprentice / Intern](https://jobright.ai/jobs/info/68fbedeaf55bb021a889e3c8?utm_campaign=1057&utm_source=git)** | St Paul, MN | On Site | Nov 23 |
 | **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[Assistant Professor, Educator, Exercise Science, CECH Human Services](https://jobright.ai/jobs/info/6923751f7795cd460c838b03?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Nov 23 |
-| **[Sun Valley Academy](http://www.sunvalleyacademy.org)** | **[Aspiring Educators Enrichment Program (Internship)](https://jobright.ai/jobs/info/692371c97795cd460c838abe?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Nov 23 |
 | **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/69236289c0cefa13343daa89?utm_campaign=1057&utm_source=git)** | Racine, WI | Remote | Nov 23 |
 | **[Sandstone Care](https://www.sandstonecare.com)** | **[Clinical Internship](https://jobright.ai/jobs/info/69126ed0ea9ab01b82bf29ec?utm_campaign=1057&utm_source=git)** | Sandstone Care - Cascade, Colorado | On Site | Nov 23 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[FWS - Operational Technology Student Assistant](https://jobright.ai/jobs/info/69234cd37795cd460c8385e6?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Nov 23 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e3fa49a885af9a43052?utm_campaign=1057&utm_source=git)** | US - OK - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e303f782d2f1afcf58d?utm_campaign=1057&utm_source=git)** | US - WV - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e2c3f782d2f1afcf587?utm_campaign=1057&utm_source=git)** | US - IA - Remote | Remote | Nov 21 |
+| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e24a49a885af9a43034?utm_campaign=1057&utm_source=git)** | US - MI - Remote | Remote | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
