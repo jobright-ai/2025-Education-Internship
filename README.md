@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pentair](http://www.pentair.com)** | **[IT and Cybersecurity Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/691ec10b09cc522e8773bf0b?utm_campaign=1057&utm_source=git)** | Golden Valley, MN | On Site | Nov 24 |
+| **[Eastern Kentucky University](http://www.eku.edu/)** | **[BSW Intern](https://jobright.ai/jobs/info/69242ac838cd5478a8d596e9?utm_campaign=1057&utm_source=git)** | Richmond, KY | On Site | Nov 24 |
 | **[Los Angeles County Office of Education](http://www.lacoe.edu)** | **[District Intern Instructor Pool (Burbank) Specified Credential/Authorizations Required](https://jobright.ai/jobs/info/692425b97795cd460c83b505?utm_campaign=1057&utm_source=git)** | Downey, CA | On Site | Nov 24 |
 | **[Peralta Community College District](https://web.peralta.edu/)** | **[Assessment Specialist (Student Accessibility Services) - Merritt **INTERNAL POSTING**](https://jobright.ai/jobs/info/6924243cc0cefa13343dd778?utm_campaign=1057&utm_source=git)** | Peralta, NM | On Site | Nov 24 |
 | **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Work Based Learning Intern](https://jobright.ai/jobs/info/6924242ec0cefa13343dd776?utm_campaign=1057&utm_source=git)** | Brownwood, TX | On Site | Nov 24 |
@@ -116,7 +118,7 @@ For a complete list, click the following sortable link below:
 | **[University of Vermont](http://www.uvm.edu/medicine)** | **[EDUCATION FINANCE - ASSISTANT PROFESSOR](https://jobright.ai/jobs/info/68e9ab370930fe0bc46280e4?utm_campaign=1057&utm_source=git)** | Burlington, VT | On Site | Nov 22 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern (Academic Credit) - Department of Neurology - Per Diem (On-site)](https://jobright.ai/jobs/info/68ea24ffdb8fbc4015c65960?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Nov 22 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/6905af52122e8474c78dad55?utm_campaign=1057&utm_source=git)** | Alexandria, LA | On Site | Nov 22 |
-| **[North Memorial Health](https://northmemorial.com/)** | **[Summer Nurse Intern- 2026](https://jobright.ai/jobs/info/6904ce8b122e8474c78d35ee?utm_campaign=1057&utm_source=git)** | Twin Cities Area | On Site | Nov 22 |
+| **[North Memorial Health](https://northmemorial.com/)** | **[Summer Nurse Intern- 2026](https://jobright.ai/jobs/info/6904e26fff462851feff84ed?utm_campaign=1057&utm_source=git)** | Twin Cities Area | On Site | Nov 22 |
 | **[DPR Construction](http://www.dpr.com)** | **[Build Up Internship](https://jobright.ai/jobs/info/6761281e00564f4d2776d498?utm_campaign=1057&utm_source=git)** | Redwood City, CA | On Site | Nov 22 |
 | ↳ | **[Build Up Internship - Charlotte](https://jobright.ai/jobs/info/672b51dde591f4305e4230d3?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Nov 22 |
 | **[Amplify](http://www.amplify.com)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/68e9514a0930fe0bc46242b7?utm_campaign=1057&utm_source=git)** | United States | Remote | Nov 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Student Intern, Psychiatry Research (per diem)](https://jobright.ai/jobs/info/6921212800c9ee50eaecbf23?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Nov 21 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e9ca49a885af9a430ac?utm_campaign=1057&utm_source=git)** | US - CA - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e75a49a885af9a43087?utm_campaign=1057&utm_source=git)** | US - WY - Remote | Remote | Nov 21 |
-| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e70a49a885af9a43080?utm_campaign=1057&utm_source=git)** | US - MT - Remote | Remote | Nov 21 |
-| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e6fa49a885af9a4307d?utm_campaign=1057&utm_source=git)** | US - VA - Reston - K12 Headquarters | Remote | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
