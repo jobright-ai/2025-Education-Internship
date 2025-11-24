@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Los Angeles County Office of Education](http://www.lacoe.edu)** | **[District Intern Instructor Pool (Burbank) Specified Credential/Authorizations Required](https://jobright.ai/jobs/info/692425b97795cd460c83b505?utm_campaign=1057&utm_source=git)** | Downey, CA | On Site | Nov 24 |
+| **[Peralta Community College District](https://web.peralta.edu/)** | **[Assessment Specialist (Student Accessibility Services) - Merritt **INTERNAL POSTING**](https://jobright.ai/jobs/info/6924243cc0cefa13343dd778?utm_campaign=1057&utm_source=git)** | Peralta, NM | On Site | Nov 24 |
+| **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Work Based Learning Intern](https://jobright.ai/jobs/info/6924242ec0cefa13343dd776?utm_campaign=1057&utm_source=git)** | Brownwood, TX | On Site | Nov 24 |
 | **[Salem Public Schools](https://www.salemk12.org/)** | **[Internship Coordinator, Salem Prep High School, Internal SPS Staff ONLY [SY 2025-2026]](https://jobright.ai/jobs/info/6923d3d9c0cefa13343dbade?utm_campaign=1057&utm_source=git)** | Salem, MA | On Site | Nov 23 |
 | **[NYC Public Schools](https://schools.nyc.gov)** | **[2025-2026 School Aide Posting - South Bronx International Middle School (09X593)](https://jobright.ai/jobs/info/6923d0e8c0cefa13343db9ce?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Nov 23 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Postdoctoral Fellowship in International Education and Early Childhood Development](https://jobright.ai/jobs/info/6923be4538cd5478a8d57118?utm_campaign=1057&utm_source=git)** | Notre Dame, IN | On Site | Nov 23 |
@@ -70,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[FWS - Operational Technology Student Assistant](https://jobright.ai/jobs/info/69234cd37795cd460c8385e6?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Nov 23 |
 | **[BlackRock](http://www.blackrock.com)** | **[2026 Summer Internship Program - AMERS](https://jobright.ai/jobs/info/68f84f2c4bafad6d2d76165b?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Nov 23 |
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Westlake Village, CA - Training and Development Team](https://jobright.ai/jobs/info/6906e99d63502c0aded83bdf?utm_campaign=1057&utm_source=git)** | Westlake Village, CA | On Site | Nov 23 |
-| **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Training and Development Intern](https://jobright.ai/jobs/info/69232174c0cefa13343da3ac?utm_campaign=1057&utm_source=git)** | Fort Lupton, CO | On Site | Nov 23 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern - Scientific Communications](https://jobright.ai/jobs/info/69231f407795cd460c838185?utm_campaign=1057&utm_source=git)** | Bridgewater, NJ | Hybrid | Nov 23 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69231330c0cefa13343da21f?utm_campaign=1057&utm_source=git)** | Reston, VA | On Site | Nov 23 |
 | ↳ | **[International Student Advisor](https://jobright.ai/jobs/info/692312bd38cd5478a8d55feb?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Nov 23 |
@@ -85,8 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Virginia's Community College System](https://www.vccs.edu/)** | **[Automotive & Collision Program Assistant](https://jobright.ai/jobs/info/6922845c7795cd460c835fa9?utm_campaign=1057&utm_source=git)** | Alexandria, VA | On Site | Nov 22 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Visiting Assistant Professor - International Business](https://jobright.ai/jobs/info/692270947795cd460c835947?utm_campaign=1057&utm_source=git)** | Lawrence, KS | On Site | Nov 22 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Art Teacher & Intern - Secondary](https://jobright.ai/jobs/info/69225ac7a49a885af9a48c2e?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 22 |
-| **[PORT Health](https://www.porthealth.org/)** | **[Intern / Adolescent Residential Home](https://jobright.ai/jobs/info/69224f263f782d2f1afd4eb8?utm_campaign=1057&utm_source=git)** | Greenville, NC | On Site | Nov 22 |
-| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/692245ffd1ec2c3565c47096?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 22 |
+| ↳ | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/692245ffd1ec2c3565c47096?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 22 |
 | **[Seattle University](https://www.seattleu.edu/)** | **[Temporary HRL ACUHO-I Summer Intern, Department of Housing and Residence Life](https://jobright.ai/jobs/info/692243793f782d2f1afd4e29?utm_campaign=1057&utm_source=git)** | Seattle, WA | Hybrid | Nov 22 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Science Specialist Teacher and Interns - Elementary](https://jobright.ai/jobs/info/69224304d1ec2c3565c47064?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 22 |
 | ↳ | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/69224180a49a885af9a48a8b?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e75a49a885af9a43087?utm_campaign=1057&utm_source=git)** | US - WY - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e70a49a885af9a43080?utm_campaign=1057&utm_source=git)** | US - MT - Remote | Remote | Nov 21 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e6fa49a885af9a4307d?utm_campaign=1057&utm_source=git)** | US - VA - Reston - K12 Headquarters | Remote | Nov 21 |
-| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/69211e4400c9ee50eaecbd45?utm_campaign=1057&utm_source=git)** | US - TX - Remote | Remote | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
