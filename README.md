@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sante Group Companies](https://www.thesantegroup.org/)** | **[Mobile Crisis Intern](https://jobright.ai/jobs/info/69273baf91ceeb2e8a53d735?utm_campaign=1057&utm_source=git)** | Salisbury, MD, US | On Site | Nov 26 |
+| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/69273a01d47de4798ecdaccf?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Nov 26 |
+| **[Sante Group Companies](https://www.thesantegroup.org/)** | **[Mobile Crisis Intern](https://jobright.ai/jobs/info/6927367bd47de4798ecdac12?utm_campaign=1057&utm_source=git)** | La Plata, MD, US | On Site | Nov 26 |
+| **[AI Made Fun](aimadefun.com)** | **[AI EDUCATION CONTENT INTERN](https://jobright.ai/jobs/info/69272c01d47de4798ecda7c2?utm_campaign=1057&utm_source=git)** | United States | Remote | Nov 26 |
+| **[Miller Electric Company](https://www.mecojax.com)** | **[Summer 2026 College Internship](https://jobright.ai/jobs/info/69272035f0beb07232627b11?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Nov 26 |
 | **[Fordham University](https://www.fordham.edu/)** | **[Director, Office for International Services](https://jobright.ai/jobs/info/690a3876d046ab6061cda276?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Nov 26 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[High School Service Intern](https://jobright.ai/jobs/info/67d081841557e74ee97f1559?utm_campaign=1057&utm_source=git)** | Hewitt, TX | On Site | Nov 26 |
 | **[RDO Truck Centers](https://www.rdotruckcenter.com)** | **[AYF Service Intern](https://jobright.ai/jobs/info/67eb080bfb209521674b62d7?utm_campaign=1057&utm_source=git)** | Lincoln, NE | On Site | Nov 26 |
@@ -65,13 +70,16 @@ For a complete list, click the following sortable link below:
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Assistant Professor Political Science and International Relations](https://jobright.ai/jobs/info/692716eff0beb0723262779b?utm_campaign=1057&utm_source=git)** | Westchester, FL | On Site | Nov 26 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Learning & Development Intern - Bachelor's Degree](https://jobright.ai/jobs/info/690f9981988c2b7b4ec4ea01?utm_campaign=1057&utm_source=git)** | Santa Clara, CA | On Site | Nov 26 |
 | **[Gaylor Electric, Inc.](https://www.gaylor.com/)** | **[College Craft Internship (Columbus, Summer 2026)](https://jobright.ai/jobs/info/690a8396d046ab6061cdda98?utm_campaign=1057&utm_source=git)** | Columbus, IN | On Site | Nov 26 |
+| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II - ME Cardiac Medicine Baptist Memphis](https://jobright.ai/jobs/info/67d3fcb50506b03ad76efff9?utm_campaign=1057&utm_source=git)** | Memphis, TN | On Site | Nov 26 |
+| **[Berkadia](https://www.berkadia.com/)** | **[Summer 2026 Internship Program](https://jobright.ai/jobs/info/68c2041133864f172f9bc52e?utm_campaign=1057&utm_source=git)** | United States Of America | On Site | Nov 26 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2026 Summer Business Intern- Raleigh](https://jobright.ai/jobs/info/690a5a0dd046ab6061cdb6a0?utm_campaign=1057&utm_source=git)** | Raleigh, NC | Hybrid | Nov 26 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68ed81c86335d33236129aff?utm_campaign=1057&utm_source=git)** | Decatur, AL | On Site | Nov 26 |
 | **[Moxell](https://www.linkedin.com/company/31184082)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/69270871f0beb07232627345?utm_campaign=1057&utm_source=git)** | Racine, WI | Remote | Nov 26 |
 | **[SUNY Brockport](http://brockport.edu)** | **[2025-2026 Adjunct Lecturer - Political Science and International Studies](https://jobright.ai/jobs/info/6927035ed47de4798ecd976e?utm_campaign=1057&utm_source=git)** | Brockport, NY | On Site | Nov 26 |
-| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/691abc4f15b415636718a45a?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Nov 26 |
+| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68ed818570b66e2345d3e9f6?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Nov 26 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[ATL- Internship Co-Op Program 2023-24](https://jobright.ai/jobs/info/691163e0988c2b7b4ec5458c?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Nov 26 |
 | **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern – Work Comp Claims (Summer 2026)](https://jobright.ai/jobs/info/68d2e786f0d9af73038dcac2?utm_campaign=1057&utm_source=git)** | West Bend, WI | On Site | Nov 26 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Adjunct Dissertation Chair- International Psychology- Online Campus](https://jobright.ai/jobs/info/692722fef0beb07232627cd6?utm_campaign=1057&utm_source=git)** | Home, KS | On Site | Nov 26 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68ed820c70b66e2345d3eacd?utm_campaign=1057&utm_source=git)** | Naples, FL | On Site | Nov 26 |
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68ed82796335d33236129bd1?utm_campaign=1057&utm_source=git)** | Jupiter, FL | On Site | Nov 26 |
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/6919552b45fb6f5ead8a82a0?utm_campaign=1057&utm_source=git)** | Fresno, CA | On Site | Nov 26 |
@@ -147,14 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 School Partnerships Intern: Spring](https://jobright.ai/jobs/info/68ed85e870b66e2345d3ecce?utm_campaign=1057&utm_source=git)** | Bentonville, AR | On Site | Nov 25 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern - Ortho Neuro Surgery/Trauma](https://jobright.ai/jobs/info/6909a793d046ab6061cd72e9?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Nov 25 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68ed822581fdd1626d39d25f?utm_campaign=1057&utm_source=git)** | Ontario, CA | On Site | Nov 25 |
-| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68ed822081fdd1626d39d25c?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Nov 25 |
-| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT SUPPLY CHAIN](https://jobright.ai/jobs/info/69093c01bcccf20de59d90bf?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Nov 25 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Adjunct Faculty: Feminist International Relations](https://jobright.ai/jobs/info/6925c1dfd47de4798ecd15ee?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | Nov 25 |
 | **[Meadows Behavioral Healthcare](https://www.meadowsbh.com)** | **[Clinical Intern - Scottsdale](https://jobright.ai/jobs/info/6870b4a401cc0956e7e848ed?utm_campaign=1057&utm_source=git)** | Scottsdale, AZ | On Site | Nov 25 |
-| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/691aa9e9bcdbf3560c9d97e8?utm_campaign=1057&utm_source=git)** | Foley, AL | On Site | Nov 25 |
-| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68ed820c70b66e2345d3eacc?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Nov 25 |
-| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68ed825d70b66e2345d3eb54?utm_campaign=1057&utm_source=git)** | Woodstock, GA | On Site | Nov 25 |
-| **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[OBD Training & Development Intern](https://jobright.ai/jobs/info/69090f78bcccf20de59d69e6?utm_campaign=1057&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 25 |
-| ↳ | **[Medical Proficiency Acceleration Center Intern](https://jobright.ai/jobs/info/69090a2ebcccf20de59d6546?utm_campaign=1057&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 25 |
-| **[Sun Country Airlines](https://www.suncountry.com/)** | **[Ground Operations Training Intern](https://jobright.ai/jobs/info/69092cf0bcccf20de59d832c?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
