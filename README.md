@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Valorantum Capital](valorantumcapital.us)** | **[Trainee Internship Program](https://jobright.ai/jobs/info/6926c569f0beb072326264f1?utm_campaign=1057&utm_source=git)** | Beloit, WI | Remote | Nov 26 |
+| **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern (Academic Credit) - MAST Program - Per Diem (On-site)](https://jobright.ai/jobs/info/6926bee4d47de4798ecd89c1?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Nov 26 |
 | **[Ventura Unified School District](https://ww2.venturausd.org)** | **[Student Intern II (College/Adult Ed)](https://jobright.ai/jobs/info/6926a4cad47de4798ecd8518?utm_campaign=1057&utm_source=git)** | Ventura, CA | On Site | Nov 25 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Student Assistant - Temporary](https://jobright.ai/jobs/info/6926964af0beb07232625ce2?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Nov 25 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Technology & Innovation Intern (T&I, Summer 2026)](https://jobright.ai/jobs/info/692687b2d47de4798ecd7f10?utm_campaign=1057&utm_source=git)** | Waltham, MA | Hybrid | Nov 25 |
@@ -141,7 +143,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68ed827381fdd1626d39d2b7?utm_campaign=1057&utm_source=git)** | Orange Park, FL | On Site | Nov 25 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Respiratory Therapist Intern, Respiratory Therapy , Per Diem,  7A-7:30PM](https://jobright.ai/jobs/info/6909dc3fd046ab6061cd837c?utm_campaign=1057&utm_source=git)** | South Miami, FL | On Site | Nov 25 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/691acd3615b415636718acb8?utm_campaign=1057&utm_source=git)** | Scottsdale, AZ | On Site | Nov 25 |
-| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/691ad5f0bcdbf3560c9dae7e?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Nov 25 |
+| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/691acc7845fb6f5ead8add40?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Nov 25 |
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68ed82136335d33236129b63?utm_campaign=1057&utm_source=git)** | Bradenton, FL | On Site | Nov 25 |
 | **[Phillips 66](http://www.phillips66.com/)** | **[2026 University Intern-Information Technology](https://jobright.ai/jobs/info/6924d54cc0cefa13343e26d6?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Nov 25 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Athletic Training Intern(TEMP)](https://jobright.ai/jobs/info/69259db127bf2f41a2c3f7a9?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Nov 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sales Optimizer, LLC](http://salesoptimizer.com)** | **[Summer Program Management Intern](https://jobright.ai/jobs/info/692573c2f0beb0723261dab6?utm_campaign=1057&utm_source=git)** | Arvada, CO | On Site | Nov 25 |
 | **[Kentucky Department of Education](https://education.ky.gov/Pages/default.aspx)** | **[School Psychologist/Intern at VanHoose JOB ID 37734](https://jobright.ai/jobs/info/69256dd927bf2f41a2c3ebf1?utm_campaign=1057&utm_source=git)** | Louisville, KY | On Site | Nov 25 |
 | **[Healthy Kids Programs](https://www.healthykidsprograms.com/)** | **[Early Learning Director and Lead Teacher](https://jobright.ai/jobs/info/69256d9bd47de4798eccfe02?utm_campaign=1057&utm_source=git)** | Oneonta, NY | On Site | Nov 25 |
-| **[Kentucky Department of Education](https://education.ky.gov/Pages/default.aspx)** | **[School Psychologist or Intern at VanHoose JOB ID 37739](https://jobright.ai/jobs/info/69256b25f0beb0723261d78b?utm_campaign=1057&utm_source=git)** | Louisville, KY | On Site | Nov 25 |
-| **[Newton Public Schools](https://www.newton.k12.ma.us)** | **[Boston College Work Study Intern](https://jobright.ai/jobs/info/69256a61d47de4798eccfd9e?utm_campaign=1057&utm_source=git)** | Newton, MA | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
