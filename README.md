@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Psychiatric Services](https://jobright.ai/jobs/info/692875a7d47de4798ece2e53?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Nov 27 |
+| ↳ | **[RN New Graduate Internship Program - Surgical Care Unit](https://jobright.ai/jobs/info/692874bed47de4798ece2e24?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Nov 27 |
+| ↳ | **[RN New Graduate Internship Program - Medical Unit](https://jobright.ai/jobs/info/692874b791ceeb2e8a5458e5?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Nov 27 |
+| **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[Adult Public Programs Intern: Spring 2026](https://jobright.ai/jobs/info/68d471d28c62e63bc7fe9578?utm_campaign=1057&utm_source=git)** | Bentonville, AR | On Site | Nov 27 |
+| **[Curvaceous Behavior](https://www.curvaceousbehavior.org/about)** | **[Spring 2026 Internship Role Prom Project](https://jobright.ai/jobs/info/69286f2bf0beb0723263060d?utm_campaign=1057&utm_source=git)** | Charlotte, NC | Hybrid | Nov 27 |
 | **[Boston University](http://www.bumc.bu.edu/busm/)** | **[DIRECTOR, INTERNSHIPS & INDUSTRY PARTNERSHIPS, Center for Career Development](https://jobright.ai/jobs/info/691fe29e09cc522e877464bd?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | Nov 27 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT CORPORATE ACCOUNTING](https://jobright.ai/jobs/info/68d45bb18c62e63bc7fe8a26?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Nov 27 |
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/691ae13b15b415636718b774?utm_campaign=1057&utm_source=git)** | Rialto, CA | On Site | Nov 27 |
@@ -131,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[Fordham University](https://www.fordham.edu/)** | **[Director, Office for International Services](https://jobright.ai/jobs/info/690a3876d046ab6061cda276?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Nov 26 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[High School Service Intern](https://jobright.ai/jobs/info/67d081841557e74ee97f1559?utm_campaign=1057&utm_source=git)** | Hewitt, TX | On Site | Nov 26 |
 | **[RDO Truck Centers](https://www.rdotruckcenter.com)** | **[AYF Service Intern](https://jobright.ai/jobs/info/67eb080bfb209521674b62d7?utm_campaign=1057&utm_source=git)** | Lincoln, NE | On Site | Nov 26 |
-| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Student Advisor](https://jobright.ai/jobs/info/69271b57f0beb072326279af?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Nov 26 |
 | **[Humana](http://www.humana.com)** | **[Summer 2026 MBA Internship – Finance & Human Resources](https://jobright.ai/jobs/info/68d2fb4c8c62e63bc7fdc48a?utm_campaign=1057&utm_source=git)** | United States | Remote | Nov 26 |
 | **[Foundation for Food & Agriculture Research](http://foundationfar.org)** | **[FFAR Spring 2026 Internship Program](https://jobright.ai/jobs/info/692717baf0beb07232627821?utm_campaign=1057&utm_source=git)** | Washington, DC | Remote | Nov 26 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Assistant Professor Political Science and International Relations](https://jobright.ai/jobs/info/692716eff0beb0723262779b?utm_campaign=1057&utm_source=git)** | Westchester, FL | On Site | Nov 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, CCS Moline Foster Care](https://jobright.ai/jobs/info/690a91514a1b456627b095b9?utm_campaign=1057&utm_source=git)** | Moline, IL | On Site | Nov 26 |
 | **[Gaylor Electric, Inc.](https://www.gaylor.com/)** | **[College Craft Internship (South Bend, Summer 2026)](https://jobright.ai/jobs/info/690a7efa4a1b456627b086f8?utm_campaign=1057&utm_source=git)** | South Bend, IN | On Site | Nov 26 |
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[CHARLOTTE - Transportation, Internship](https://jobright.ai/jobs/info/689a2884faa4e875e8256436?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Nov 26 |
-| **[Directions for Living](https://directionsforliving.org/)** | **[Clinician First Five - BCBA, Licensed, Registered Intern, School Psychologist](https://jobright.ai/jobs/info/68f31f6f76a51a4307bcb3a7?utm_campaign=1057&utm_source=git)** | Clearwater, FL | On Site | Nov 26 |
-| **[Encompass Health](http://encompasshealth.com/)** | **[Clinical Excellence Student Intern (Summer 2026)](https://jobright.ai/jobs/info/69053c3e122e8474c78d7b9e?utm_campaign=1057&utm_source=git)** | Birmingham, AL | On Site | Nov 26 |
-| **[Recovery Centers of America](http://www.recoverycentersofamerica.com/)** | **[Intern-Clinical](https://jobright.ai/jobs/info/69102151183be660d2677681?utm_campaign=1057&utm_source=git)** | Monroeville, PA | On Site | Nov 26 |
-| **[Legacy Health](http://www.legacyhealth.org/)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68eef80ed078b81ad1611179?utm_campaign=1057&utm_source=git)** | Tualatin, OR | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
