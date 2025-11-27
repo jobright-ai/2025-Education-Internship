@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Arkansas System](https://www.uasys.edu)** | **[Extra- Help Undergrad Student Assistant-1](https://jobright.ai/jobs/info/69281afc91ceeb2e8a544856?utm_campaign=1057&utm_source=git)** | Pine Bluff, AR | On Site | Nov 27 |
+| **[Travelers](https://www.travelers.com)** | **[Claim Professional Development Program (CPDP) Intern](https://jobright.ai/jobs/info/6928102691ceeb2e8a5445c6?utm_campaign=1057&utm_source=git)** | Hartford, CT | Hybrid | Nov 27 |
+| **[Hoyleton Youth & Family Services](https://hoyleton.org/)** | **[Clinical Intern - Bachelor Level](https://jobright.ai/jobs/info/69280f7891ceeb2e8a54455b?utm_campaign=1057&utm_source=git)** | Fairview Heights, IL | On Site | Nov 27 |
+| **[Sul Ross State University](http://www.sulross.edu/)** | **[Work Study-Library Circulation Desk Student Worker-Spring 2026](https://jobright.ai/jobs/info/69280846d47de4798ece192a?utm_campaign=1057&utm_source=git)** | Alpine, TX | On Site | Nov 27 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Career Development Program](https://jobright.ai/jobs/info/6927ed14d47de4798ece146f?utm_campaign=1057&utm_source=git)** | Wisconsin, United States | Remote | Nov 26 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/6927dda291ceeb2e8a543bc1?utm_campaign=1057&utm_source=git)** | Racine, WI | Remote | Nov 26 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2026 Risk & Control Project Management, Technology - Phoenix, AZ](https://jobright.ai/jobs/info/6927dccc91ceeb2e8a543b56?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | Hybrid | Nov 26 |
@@ -120,7 +124,7 @@ For a complete list, click the following sortable link below:
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68ed81c86335d33236129aff?utm_campaign=1057&utm_source=git)** | Decatur, AL | On Site | Nov 26 |
 | **[Moxell](https://www.linkedin.com/company/31184082)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/69270871f0beb07232627345?utm_campaign=1057&utm_source=git)** | Racine, WI | Remote | Nov 26 |
 | **[SUNY Brockport](http://brockport.edu)** | **[2025-2026 Adjunct Lecturer - Political Science and International Studies](https://jobright.ai/jobs/info/6927035ed47de4798ecd976e?utm_campaign=1057&utm_source=git)** | Brockport, NY | On Site | Nov 26 |
-| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68ed818570b66e2345d3e9f6?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Nov 26 |
+| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/691abc4f15b415636718a45a?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Nov 26 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[ATL- Internship Co-Op Program 2023-24](https://jobright.ai/jobs/info/691163e0988c2b7b4ec5458c?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Nov 26 |
 | **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern – Work Comp Claims (Summer 2026)](https://jobright.ai/jobs/info/68d2e786f0d9af73038dcac2?utm_campaign=1057&utm_source=git)** | West Bend, WI | On Site | Nov 26 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Adjunct Dissertation Chair- International Psychology- Online Campus](https://jobright.ai/jobs/info/692722fef0beb07232627cd6?utm_campaign=1057&utm_source=git)** | Home, KS | On Site | Nov 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Director - Hoeft Technology & Management - Gies College of Business](https://jobright.ai/jobs/info/692648e7f0beb07232623b99?utm_campaign=1057&utm_source=git)** | Urbana, IL | On Site | Nov 25 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern FamilyWorks](https://jobright.ai/jobs/info/692647a1f0beb07232623ad1?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Nov 25 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/6926416ad47de4798ecd5e40?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 25 |
-| **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[GCE Admissions -- Bilingual Support Intern (NFWS)](https://jobright.ai/jobs/info/69263aa727bf2f41a2c44963?utm_campaign=1057&utm_source=git)** | AZ Phoenix | On Site | Nov 25 |
-| **[Barnes Foundation](http://www.barnesfoundation.org)** | **[Summer Intern: Education-School Programs](https://jobright.ai/jobs/info/69262ccb27bf2f41a2c4406a?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Nov 25 |
-| **[AAON, Inc.](https://www.aaon.com)** | **[Learning & Development College Intern](https://jobright.ai/jobs/info/692628dbf0beb072326229da?utm_campaign=1057&utm_source=git)** | Tulsa, OK | On Site | Nov 25 |
-| **[Biodesix, Inc.](http://www.biodesix.com)** | **[Sales Training Internship (Undergraduate or Graduate)](https://jobright.ai/jobs/info/69262606f0beb072326227c5?utm_campaign=1057&utm_source=git)** | Louisville, CO | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
