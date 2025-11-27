@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Valorantum Capital](valorantumcapital.us)** | **[Corporate Trainee Program Internship](https://jobright.ai/jobs/info/69289d8091ceeb2e8a545f3e?utm_campaign=1057&utm_source=git)** | Sussex, WI | Remote | Nov 27 |
+| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/692899ca91ceeb2e8a545f00?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Nov 27 |
+| **[Medical College of Wisconsin](http://www.mcw.edu/)** | **[Instructor - Pediatric Psychology Fellowship - Child Development / Autism](https://jobright.ai/jobs/info/690bcc11d046ab6061ce7edf?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | Nov 27 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[FWS - Operational Technology Student Assistant](https://jobright.ai/jobs/info/69289418d47de4798ece3354?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Nov 27 |
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Psychiatric Services](https://jobright.ai/jobs/info/692875a7d47de4798ece2e53?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Nov 27 |
 | ↳ | **[RN New Graduate Internship Program - Surgical Care Unit](https://jobright.ai/jobs/info/692874bed47de4798ece2e24?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Nov 27 |
 | ↳ | **[RN New Graduate Internship Program - Medical Unit](https://jobright.ai/jobs/info/692874b791ceeb2e8a5458e5?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Nov 27 |
@@ -68,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Nurse Intern, Mother-Baby, Full Time, 7pm to 7:30am](https://jobright.ai/jobs/info/692864ea91ceeb2e8a545615?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Nov 27 |
 | ↳ | **[Nurse Intern, Clarke Cardiac, Part Time, 6:45am to 7:15pm](https://jobright.ai/jobs/info/692863c3f0beb07232630425?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Nov 27 |
 | ↳ | **[Nurse Intern, Clarke Neuro, Part Time, 7am to 7:30pm](https://jobright.ai/jobs/info/69286399f0beb0723263040c?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Nov 27 |
-| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/69285deaf0beb072326302df?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Nov 27 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[On-Call Health & Safety Substitute needed for the International School of Portland (OR)](https://jobright.ai/jobs/info/69285d5191ceeb2e8a545462?utm_campaign=1057&utm_source=git)** | Portland, OR | On Site | Nov 27 |
 | ↳ | **[Adjunct Faculty - International Psychology - DC Campus](https://jobright.ai/jobs/info/69285cd3f0beb0723263029c?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Nov 27 |
 | **[Corebridge Financial](https://www.corebridgefinancial.com)** | **[2026 Corebridge Summer Internship Program - Capital Markets](https://jobright.ai/jobs/info/68ef9e1bde50091dbfa4f5b2?utm_campaign=1057&utm_source=git)** | Norwalk, CT | On Site | Nov 27 |
@@ -98,6 +101,7 @@ For a complete list, click the following sortable link below:
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6927d0ffd47de4798ece0bc7?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Nov 26 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Summer 2026] Education - Youth Learning Internship](https://jobright.ai/jobs/info/6927b78ff0beb0723262d748?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Nov 26 |
 | ↳ | **[[Summer 2026] Education - Family Programs Internship](https://jobright.ai/jobs/info/6927b72e91ceeb2e8a54282d?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Nov 26 |
+| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/6927b6eef0beb0723262d6d5?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Nov 26 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Associate Director (International Admissions Operations)](https://jobright.ai/jobs/info/6927b61bf0beb0723262d646?utm_campaign=1057&utm_source=git)** | Gainesville, FL | On Site | Nov 26 |
 | **[Catholic Charities](https://catholiccharitiesflint.org)** | **[Masters Level Intern](https://jobright.ai/jobs/info/6927b397f0beb0723262d478?utm_campaign=1057&utm_source=git)** | Hartford, CT | On Site | Nov 26 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Summer 2026] Education - K-12 Initiatives Internship](https://jobright.ai/jobs/info/6927b1e391ceeb2e8a54255c?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Nov 26 |
@@ -149,12 +153,8 @@ For a complete list, click the following sortable link below:
 | **[SUNY Brockport](http://brockport.edu)** | **[2025-2026 Adjunct Lecturer - Political Science and International Studies](https://jobright.ai/jobs/info/6927035ed47de4798ecd976e?utm_campaign=1057&utm_source=git)** | Brockport, NY | On Site | Nov 26 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/691abc4f15b415636718a45a?utm_campaign=1057&utm_source=git)** | Orlando, FL | On Site | Nov 26 |
 | **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern – Work Comp Claims (Summer 2026)](https://jobright.ai/jobs/info/68d2e786f0d9af73038dcac2?utm_campaign=1057&utm_source=git)** | West Bend, WI | On Site | Nov 26 |
-| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Adjunct Dissertation Chair- International Psychology- Online Campus](https://jobright.ai/jobs/info/692722fef0beb07232627cd6?utm_campaign=1057&utm_source=git)** | Home, KS | On Site | Nov 26 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68ed820c70b66e2345d3eacd?utm_campaign=1057&utm_source=git)** | Naples, FL | On Site | Nov 26 |
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68ed82796335d33236129bd1?utm_campaign=1057&utm_source=git)** | Jupiter, FL | On Site | Nov 26 |
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/6919552b45fb6f5ead8a82a0?utm_campaign=1057&utm_source=git)** | Fresno, CA | On Site | Nov 26 |
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68ed82f26335d33236129c50?utm_campaign=1057&utm_source=git)** | Scottsdale, AZ | On Site | Nov 26 |
-| **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, CCS Moline Foster Care](https://jobright.ai/jobs/info/690a91514a1b456627b095b9?utm_campaign=1057&utm_source=git)** | Moline, IL | On Site | Nov 26 |
-| **[Gaylor Electric, Inc.](https://www.gaylor.com/)** | **[College Craft Internship (South Bend, Summer 2026)](https://jobright.ai/jobs/info/690a7efa4a1b456627b086f8?utm_campaign=1057&utm_source=git)** | South Bend, IN | On Site | Nov 26 |
-| **[BGE, Inc.](https://www.bgeinc.com)** | **[CHARLOTTE - Transportation, Internship](https://jobright.ai/jobs/info/689a2884faa4e875e8256436?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
