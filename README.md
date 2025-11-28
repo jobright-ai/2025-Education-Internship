@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jacksonville State University](http://www.jsu.edu/)** | **[Graduate Administrative Assistant - Vice Provost for Student Success (Fall 2025 - Spring 2026)](https://jobright.ai/jobs/info/69291cff91ceeb2e8a546fef?utm_campaign=1057&utm_source=git)** | Jacksonville, AL | On Site | Nov 27 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/6929010af0beb07232631ae5?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Nov 27 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Student Advisor](https://jobright.ai/jobs/info/6929009091ceeb2e8a546c23?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Nov 27 |
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af3a9f1f0a2a568a05fdf8?utm_campaign=1057&utm_source=git)** | Orange, California, United States | On Site | Nov 27 |
@@ -80,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Nurse Intern, Mother-Baby, Full Time, 7pm to 7:30am](https://jobright.ai/jobs/info/692864ea91ceeb2e8a545615?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Nov 27 |
 | ↳ | **[Nurse Intern, Clarke Cardiac, Part Time, 6:45am to 7:15pm](https://jobright.ai/jobs/info/692863c3f0beb07232630425?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Nov 27 |
 | ↳ | **[Nurse Intern, Clarke Neuro, Part Time, 7am to 7:30pm](https://jobright.ai/jobs/info/69286399f0beb0723263040c?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Nov 27 |
+| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/69285deaf0beb072326302df?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Nov 27 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[On-Call Health & Safety Substitute needed for the International School of Portland (OR)](https://jobright.ai/jobs/info/69285d5191ceeb2e8a545462?utm_campaign=1057&utm_source=git)** | Portland, OR | On Site | Nov 27 |
 | ↳ | **[Adjunct Faculty - International Psychology - DC Campus](https://jobright.ai/jobs/info/69285cd3f0beb0723263029c?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Nov 27 |
 | **[Corebridge Financial](https://www.corebridgefinancial.com)** | **[2026 Corebridge Summer Internship Program - Capital Markets](https://jobright.ai/jobs/info/68ef9e1bde50091dbfa4f5b2?utm_campaign=1057&utm_source=git)** | Norwalk, CT | On Site | Nov 27 |
@@ -109,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6927d0ffd47de4798ece0bc7?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Nov 26 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Summer 2026] Education - Youth Learning Internship](https://jobright.ai/jobs/info/6927b78ff0beb0723262d748?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Nov 26 |
 | ↳ | **[[Summer 2026] Education - Family Programs Internship](https://jobright.ai/jobs/info/6927b72e91ceeb2e8a54282d?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Nov 26 |
-| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/6927b6eef0beb0723262d6d5?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Nov 26 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Associate Director (International Admissions Operations)](https://jobright.ai/jobs/info/6927b61bf0beb0723262d646?utm_campaign=1057&utm_source=git)** | Gainesville, FL | On Site | Nov 26 |
 | **[Catholic Charities](https://catholiccharitiesflint.org)** | **[Masters Level Intern](https://jobright.ai/jobs/info/6927b397f0beb0723262d478?utm_campaign=1057&utm_source=git)** | Hartford, CT | On Site | Nov 26 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Summer 2026] Education - K-12 Initiatives Internship](https://jobright.ai/jobs/info/6927b1e391ceeb2e8a54255c?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Nov 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gaylor Electric, Inc.](https://www.gaylor.com/)** | **[College Craft Internship (Columbus, Summer 2026)](https://jobright.ai/jobs/info/690a8396d046ab6061cdda98?utm_campaign=1057&utm_source=git)** | Columbus, IN | On Site | Nov 26 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II - ME Cardiac Medicine Baptist Memphis](https://jobright.ai/jobs/info/67d3fcb50506b03ad76efff9?utm_campaign=1057&utm_source=git)** | Memphis, TN | On Site | Nov 26 |
 | **[Berkadia](https://www.berkadia.com/)** | **[Summer 2026 Internship Program](https://jobright.ai/jobs/info/68c2041133864f172f9bc52e?utm_campaign=1057&utm_source=git)** | United States Of America | On Site | Nov 26 |
-| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2026 Summer Business Intern- Raleigh](https://jobright.ai/jobs/info/690a5a0dd046ab6061cdb6a0?utm_campaign=1057&utm_source=git)** | Raleigh, NC | Hybrid | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
