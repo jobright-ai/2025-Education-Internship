@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Simpson College](http://www.simpson.edu/)** | **[Sports Administration Assistant Professor](https://jobright.ai/jobs/info/69293af791ceeb2e8a5471f3?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Nov 27 |
+| ↳ | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/69293ab9f0beb072326320c0?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Nov 27 |
+| ↳ | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/69293aaef0beb072326320bd?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Nov 27 |
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[Graduate Administrative Assistant - Vice Provost for Student Success (Fall 2025 - Spring 2026)](https://jobright.ai/jobs/info/69291cff91ceeb2e8a546fef?utm_campaign=1057&utm_source=git)** | Jacksonville, AL | On Site | Nov 27 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/6929010af0beb07232631ae5?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Nov 27 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Student Advisor](https://jobright.ai/jobs/info/6929009091ceeb2e8a546c23?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Nov 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Assistant Professor Political Science and International Relations](https://jobright.ai/jobs/info/692716eff0beb0723262779b?utm_campaign=1057&utm_source=git)** | Westchester, FL | On Site | Nov 26 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Learning & Development Intern - Bachelor's Degree](https://jobright.ai/jobs/info/690f9981988c2b7b4ec4ea01?utm_campaign=1057&utm_source=git)** | Santa Clara, CA | On Site | Nov 26 |
 | **[Infinity Contractors](https://infinitycontractors.com/)** | **[Internship May 2026](https://jobright.ai/jobs/info/690a9ccbd046ab6061cde947?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Nov 26 |
-| **[Gaylor Electric, Inc.](https://www.gaylor.com/)** | **[College Craft Internship (Columbus, Summer 2026)](https://jobright.ai/jobs/info/690a8396d046ab6061cdda98?utm_campaign=1057&utm_source=git)** | Columbus, IN | On Site | Nov 26 |
-| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II - ME Cardiac Medicine Baptist Memphis](https://jobright.ai/jobs/info/67d3fcb50506b03ad76efff9?utm_campaign=1057&utm_source=git)** | Memphis, TN | On Site | Nov 26 |
-| **[Berkadia](https://www.berkadia.com/)** | **[Summer 2026 Internship Program](https://jobright.ai/jobs/info/68c2041133864f172f9bc52e?utm_campaign=1057&utm_source=git)** | United States Of America | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
