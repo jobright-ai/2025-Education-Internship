@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Elon University](http://www.elon.edu/)** | **[Program Assistant, Elon in NYC](https://jobright.ai/jobs/info/692abe8afa28370be2697a44?utm_campaign=1057&utm_source=git)** | Elon, NC | On Site | Nov 29 |
 | **[Plan A Health](https://planahealth.org)** | **[Mental Health Therapist- LCSW, LPCC, LMSW, LMHC, LMFT, Intern](https://jobright.ai/jobs/info/692aa16cfa28370be2697693?utm_campaign=1057&utm_source=git)** | Rio Rancho, NM | On Site | Nov 28 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[College COACH Internship Program - Summer 2026](https://jobright.ai/jobs/info/692a77b3fa28370be26972a4?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Nov 28 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[International Student Fees Advisor, Enrolment Services](https://jobright.ai/jobs/info/692a69d366796e3028f8efdc?utm_campaign=1057&utm_source=git)** | Calgary, Alberta, Canada | On Site | Nov 28 |
@@ -72,7 +73,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/692a39e9fa28370be2696a6a?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 28 |
 | ↳ | **[2025/2026 - Art Teacher & Intern - Elementary](https://jobright.ai/jobs/info/692a2c6b66796e3028f8e7ae?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 28 |
 | ↳ | **[2025/2026 - Art Teacher & Intern - Secondary](https://jobright.ai/jobs/info/692a2bc9fa28370be26968df?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 28 |
-| **[Global Health Leaders](https://www.globalhealthleaders.net)** | **[Global Health Internship - Short Term Study Abroad](https://jobright.ai/jobs/info/692a2436fa28370be26967ef?utm_campaign=1057&utm_source=git)** | United States | Remote | Nov 28 |
+| **[Global Health Leaders](https://www.globalhealthleaders.net)** | **[Global Health Internship - Short Term Study Abroad](https://jobright.ai/jobs/info/692a2446fa28370be26967f3?utm_campaign=1057&utm_source=git)** | United States | Remote | Nov 28 |
 | **[CEGEP - John Abbott College](http://www.johnabbott.qc.ca/)** | **[CE DAYTIME- WINTER 2026 (FSD-14) - Internship](https://jobright.ai/jobs/info/692a14a54c474121999cb69e?utm_campaign=1057&utm_source=git)** | Sainte-Anne-de-Bellevue, Quebec, Canada | On Site | Nov 28 |
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Learning and Development Associate](https://jobright.ai/jobs/info/692a14634c474121999cb67b?utm_campaign=1057&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 28 |
 | **[The Mount Sinai Hospital](http://www.mountsinai.org)** | **[Pharmacy Technician Education Intern; Mount Sinai Health System; Per Diem](https://jobright.ai/jobs/info/692a083afa28370be26962a6?utm_campaign=1057&utm_source=git)** | 150 E 42nd St, New York, NY, 10017, US | On Site | Nov 28 |
@@ -110,6 +111,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d450498c62e63bc7fe8308?utm_campaign=1057&utm_source=git)** | Plain City, OH | On Site | Nov 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44ec48c62e63bc7fe8122?utm_campaign=1057&utm_source=git)** | Northbrook, IL | On Site | Nov 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44ae2ffc1276de3fd9743?utm_campaign=1057&utm_source=git)** | Maumee, OH | On Site | Nov 28 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d63907ebcef82ef5cf7cc1?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Nov 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d618ac1f7fb2169ab16f27?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Nov 28 |
 | **[Jewish Board of Family and Children's Services](https://jewishboard.org/)** | **[Internship Program Manager](https://jobright.ai/jobs/info/690ed418d046ab6061d0176d?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Nov 28 |
 | **[North Memorial Health](https://northmemorial.com/)** | **[Pharmacy Internship/Externship: First & Second Year Students](https://jobright.ai/jobs/info/690d67c84a1b456627b21094?utm_campaign=1057&utm_source=git)** | Twin Cities Area | On Site | Nov 28 |
@@ -117,7 +119,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d446c417554c2d9eef7890?utm_campaign=1057&utm_source=git)** | Plainfield, IL | On Site | Nov 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d62629894705799a2e7f13?utm_campaign=1057&utm_source=git)** | Savannah, GA | On Site | Nov 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d634f8894705799a2e8a6d?utm_campaign=1057&utm_source=git)** | Humble, TX | On Site | Nov 28 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d625254736ff202fdcfbe9?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Nov 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44690ffc1276de3fd917e?utm_campaign=1057&utm_source=git)** | Roselle, IL | On Site | Nov 28 |
 | **[Delaware Technical Community College](http://dtcc.edu)** | **[Student Intern](https://jobright.ai/jobs/info/692976b266796e3028f8c73c?utm_campaign=1057&utm_source=git)** | Georgetown, DE | On Site | Nov 28 |
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-Services for Students with Disabilities-Notetaker](https://jobright.ai/jobs/info/69296470fa28370be26944d1?utm_campaign=1057&utm_source=git)** | Huntsville, TX | On Site | Nov 28 |
@@ -144,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Nurse Intern, Mother-Baby, Full Time, 7pm to 7:30am](https://jobright.ai/jobs/info/692864ea91ceeb2e8a545615?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Nov 27 |
 | ↳ | **[Nurse Intern, Clarke Cardiac, Part Time, 6:45am to 7:15pm](https://jobright.ai/jobs/info/692863c3f0beb07232630425?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Nov 27 |
 | ↳ | **[Nurse Intern, Clarke Neuro, Part Time, 7am to 7:30pm](https://jobright.ai/jobs/info/69286399f0beb0723263040c?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Nov 27 |
-| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/69285deaf0beb072326302df?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Nov 27 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Adjunct Faculty - International Psychology - DC Campus](https://jobright.ai/jobs/info/69285cd3f0beb0723263029c?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Nov 27 |
 | **[Corebridge Financial](https://www.corebridgefinancial.com)** | **[2026 Corebridge Summer Internship Program - Capital Markets](https://jobright.ai/jobs/info/68ef9e1bde50091dbfa4f5b2?utm_campaign=1057&utm_source=git)** | Norwalk, CT | On Site | Nov 27 |
 | **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Spring  Education Programs Intern (onsite)](https://jobright.ai/jobs/info/68dd7b0ba125e75c422ab21a?utm_campaign=1057&utm_source=git)** | Little Rock, Arkansas | On Site | Nov 27 |
