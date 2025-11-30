@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/692cbc4ffa28370be269b7b1?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Nov 30 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Climbing Arborist Internship / Oxford, MI](https://jobright.ai/jobs/info/692cb4e166796e3028f93493?utm_campaign=1057&utm_source=git)** | Oxford, MI | On Site | Nov 30 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Learning Support Center Coordinator (Student Services Professional III)](https://jobright.ai/jobs/info/692ca19d4c474121999d0542?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Nov 30 |
 | **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/692c8b1166796e3028f93097?utm_campaign=1057&utm_source=git)** | Racine, WI | Remote | Nov 30 |
 | **[Alfred State College - SUNY College of Technology](http://www.alfredstate.edu)** | **[Student Records and Financial Services Specialist - Alfred State College](https://jobright.ai/jobs/info/692c708ffa28370be269b10e?utm_campaign=1057&utm_source=git)** | Alfred, NY | On Site | Nov 30 |
@@ -118,7 +120,7 @@ For a complete list, click the following sortable link below:
 | **[Health Evolution](https://www.healthevolution.com)** | **[Spring 2026 - Masters Level Paid Internship](https://jobright.ai/jobs/info/692a3ab066796e3028f8e97b?utm_campaign=1057&utm_source=git)** | Little Rock, AR | On Site | Nov 28 |
 | **[Health Wealth Safe, Inc.](https://www.healthwealthsafe.com/)** | **[Spring 2026 - Masters Level Paid Internship](https://jobright.ai/jobs/info/692a3a74fa28370be2696a96?utm_campaign=1057&utm_source=git)** | Jonesboro, AR | On Site | Nov 28 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Art Teacher & Intern - Elementary](https://jobright.ai/jobs/info/692a2c6b66796e3028f8e7ae?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 28 |
-| **[Global Health Leaders](https://www.globalhealthleaders.net)** | **[Global Health Internship - Short Term Study Abroad](https://jobright.ai/jobs/info/692a2446fa28370be26967f3?utm_campaign=1057&utm_source=git)** | United States | Remote | Nov 28 |
+| **[Global Health Leaders](https://www.globalhealthleaders.net)** | **[Global Health Internship - Short Term Study Abroad](https://jobright.ai/jobs/info/692a2436fa28370be26967ef?utm_campaign=1057&utm_source=git)** | United States | Remote | Nov 28 |
 | **[CEGEP - John Abbott College](http://www.johnabbott.qc.ca/)** | **[CE DAYTIME- WINTER 2026 (FSD-14) - Internship](https://jobright.ai/jobs/info/692a14a54c474121999cb69e?utm_campaign=1057&utm_source=git)** | Sainte-Anne-de-Bellevue, Quebec, Canada | On Site | Nov 28 |
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Learning and Development Associate](https://jobright.ai/jobs/info/692a14634c474121999cb67b?utm_campaign=1057&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 28 |
 | **[The Mount Sinai Hospital](http://www.mountsinai.org)** | **[Pharmacy Technician Education Intern; Mount Sinai Health System; Per Diem](https://jobright.ai/jobs/info/692a083afa28370be26962a6?utm_campaign=1057&utm_source=git)** | 150 E 42nd St, New York, NY, 10017, US | On Site | Nov 28 |
@@ -140,7 +142,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Principal, British International School of Chicago, South Loop](https://jobright.ai/jobs/info/6929a976fa28370be2694f54?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Nov 28 |
 | **[Hudson River Trading](https://www.hudsonrivertrading.com)** | **[Sophomore Internship – Summer 2026](https://jobright.ai/jobs/info/690d1b164a1b456627b1dcec?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Nov 28 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Enrollment Counselor](https://jobright.ai/jobs/info/6929d5f6fa28370be2695624?utm_campaign=1057&utm_source=git)** | Charleston, SC | On Site | Nov 28 |
-| ↳ | **[Adjunct Faculty: Feminist International Relations](https://jobright.ai/jobs/info/6929ce514c474121999ca507?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Nov 28 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Medical Writing Intern, Market Access (Undergraduate)](https://jobright.ai/jobs/info/68efd8079821486c423c7ae7?utm_campaign=1057&utm_source=git)** | United States | Remote | Nov 28 |
 | **[Oakridge International School, Bengaluru](https://www.oakridge.in/bengaluru/)** | **[Principal, The British International School of Charlotte](https://jobright.ai/jobs/info/6929a258fa28370be2694e08?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Nov 28 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT CORPORATE ACCOUNTING](https://jobright.ai/jobs/info/691aaa6515b4156367189bfc?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Nov 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44ec48c62e63bc7fe8122?utm_campaign=1057&utm_source=git)** | Northbrook, IL | On Site | Nov 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44ae2ffc1276de3fd9743?utm_campaign=1057&utm_source=git)** | Maumee, OH | On Site | Nov 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d618ac1f7fb2169ab16f27?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Nov 28 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d446dd17554c2d9eef78ea?utm_campaign=1057&utm_source=git)** | North Charleston, SC | On Site | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
