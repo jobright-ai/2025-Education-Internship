@@ -91,9 +91,9 @@ For a complete list, click the following sortable link below:
 | **[NewYork-Presbyterian Hospital](https://www.nyp.org/)** | **[Summer 2026 Undergraduate Intern - Project Coordinator - Nursing](https://jobright.ai/jobs/info/6911f893c98948514c477e48?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Nov 29 |
 | **[Holmes Murphy](http://www.holmesmurphy.com/)** | **[Growth & Development Intern - Summer 2026 (West Des Moines, IA)](https://jobright.ai/jobs/info/690e9104221b890c2780f62b?utm_campaign=1057&utm_source=git)** | West Des Moines, IA | On Site | Nov 29 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Commercial Training Intern](https://jobright.ai/jobs/info/692af3074c474121999ccf0e?utm_campaign=1057&utm_source=git)** | Racine County, WI | On Site | Nov 29 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Education & Labor - Department of Workplace Standards](https://jobright.ai/jobs/info/690923e44a1b456627afd1a8?utm_campaign=1057&utm_source=git)** | Frankfort, KY | On Site | Nov 29 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern/News](https://jobright.ai/jobs/info/682cdbd6a9f2e10b3d672138?utm_campaign=1057&utm_source=git)** | Panama City, FL | On Site | Nov 29 |
 | **[Columbia Bank New Jersey](http://columbiabankonline.com)** | **[Summer 2026 Internship Program](https://jobright.ai/jobs/info/690e03bcd046ab6061cfa1f1?utm_campaign=1057&utm_source=git)** | Fair Lawn, NJ | On Site | Nov 29 |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Education & Labor - Department of Workplace Standards](https://jobright.ai/jobs/info/6909290ad046ab6061cd24d4?utm_campaign=1057&utm_source=git)** | Frankfort, KY | On Site | Nov 29 |
 | **[Cleveland Guardians](https://www.mlb.com/guardians)** | **[Larry Doby Youth Baseball/Softball Internship](https://jobright.ai/jobs/info/690eb883d046ab6061d0092c?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Nov 29 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d63fedebcef82ef5cf85b0?utm_campaign=1057&utm_source=git)** | Fresno, TX | On Site | Nov 29 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d631edebcef82ef5cf7792?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Nov 29 |
@@ -110,8 +110,7 @@ For a complete list, click the following sortable link below:
 | **[Health Evolution](https://www.healthevolution.com)** | **[Spring 2026 - Masters Level Paid Internship](https://jobright.ai/jobs/info/692a3ab066796e3028f8e97b?utm_campaign=1057&utm_source=git)** | Little Rock, AR | On Site | Nov 28 |
 | **[Health Wealth Safe, Inc.](https://www.healthwealthsafe.com/)** | **[Spring 2026 - Masters Level Paid Internship](https://jobright.ai/jobs/info/692a3a74fa28370be2696a96?utm_campaign=1057&utm_source=git)** | Jonesboro, AR | On Site | Nov 28 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Art Teacher & Intern - Elementary](https://jobright.ai/jobs/info/692a2c6b66796e3028f8e7ae?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 28 |
-| ↳ | **[2025/2026 - Art Teacher & Intern - Secondary](https://jobright.ai/jobs/info/692a2bc9fa28370be26968df?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 28 |
-| **[Global Health Leaders](https://www.globalhealthleaders.net)** | **[Global Health Internship - Short Term Study Abroad](https://jobright.ai/jobs/info/692a2436fa28370be26967ef?utm_campaign=1057&utm_source=git)** | United States | Remote | Nov 28 |
+| **[Global Health Leaders](https://www.globalhealthleaders.net)** | **[Global Health Internship - Short Term Study Abroad](https://jobright.ai/jobs/info/692a2446fa28370be26967f3?utm_campaign=1057&utm_source=git)** | United States | Remote | Nov 28 |
 | **[CEGEP - John Abbott College](http://www.johnabbott.qc.ca/)** | **[CE DAYTIME- WINTER 2026 (FSD-14) - Internship](https://jobright.ai/jobs/info/692a14a54c474121999cb69e?utm_campaign=1057&utm_source=git)** | Sainte-Anne-de-Bellevue, Quebec, Canada | On Site | Nov 28 |
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Learning and Development Associate](https://jobright.ai/jobs/info/692a14634c474121999cb67b?utm_campaign=1057&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 28 |
 | **[The Mount Sinai Hospital](http://www.mountsinai.org)** | **[Pharmacy Technician Education Intern; Mount Sinai Health System; Per Diem](https://jobright.ai/jobs/info/692a083afa28370be26962a6?utm_campaign=1057&utm_source=git)** | 150 E 42nd St, New York, NY, 10017, US | On Site | Nov 28 |
@@ -149,12 +148,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44ec48c62e63bc7fe8122?utm_campaign=1057&utm_source=git)** | Northbrook, IL | On Site | Nov 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44ae2ffc1276de3fd9743?utm_campaign=1057&utm_source=git)** | Maumee, OH | On Site | Nov 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d618ac1f7fb2169ab16f27?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Nov 28 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d446dd17554c2d9eef78ea?utm_campaign=1057&utm_source=git)** | North Charleston, SC | On Site | Nov 28 |
 | **[Jewish Board of Family and Children's Services](https://jewishboard.org/)** | **[Internship Program Manager](https://jobright.ai/jobs/info/690ed418d046ab6061d0176d?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Nov 28 |
 | **[North Memorial Health](https://northmemorial.com/)** | **[Pharmacy Internship/Externship: First & Second Year Students](https://jobright.ai/jobs/info/690d67c84a1b456627b21094?utm_campaign=1057&utm_source=git)** | Twin Cities Area | On Site | Nov 28 |
-| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d44b27ffc1276de3fd9786?utm_campaign=1057&utm_source=git)** | North Charleston, SC | On Site | Nov 28 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d446c417554c2d9eef7890?utm_campaign=1057&utm_source=git)** | Plainfield, IL | On Site | Nov 28 |
+| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d446c417554c2d9eef7890?utm_campaign=1057&utm_source=git)** | Plainfield, IL | On Site | Nov 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d62629894705799a2e7f13?utm_campaign=1057&utm_source=git)** | Savannah, GA | On Site | Nov 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d634f8894705799a2e8a6d?utm_campaign=1057&utm_source=git)** | Humble, TX | On Site | Nov 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d625254736ff202fdcfbe9?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Nov 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44690ffc1276de3fd917e?utm_campaign=1057&utm_source=git)** | Roselle, IL | On Site | Nov 28 |
+| **[Delaware Technical Community College](http://dtcc.edu)** | **[Student Intern](https://jobright.ai/jobs/info/692976b266796e3028f8c73c?utm_campaign=1057&utm_source=git)** | Georgetown, DE | On Site | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
