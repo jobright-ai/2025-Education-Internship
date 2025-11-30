@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UPMC](https://www.upmc.com/)** | **[Student Nurse Internship (SNI) Program: Southwestern PA Hospitals](https://jobright.ai/jobs/info/689f19dc83d13d1f5b6c437d?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Nov 30 |
+| **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[BH Therapy Intern - Driving CT](https://jobright.ai/jobs/info/690f606c44146d3b6ec5b917?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Nov 30 |
+| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/692c4ecd4c474121999cff21?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Nov 30 |
 | **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - Sustainability](https://jobright.ai/jobs/info/692c421afa28370be269ad81?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD | On Site | Nov 30 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Outpatient Mental Health Clinics- Hagerstown) 2025- 2026 Counseling/Social Work Fieldwork](https://jobright.ai/jobs/info/68d5023a24b1ee4c7b663422?utm_campaign=1057&utm_source=git)** | Hagerstown, MD | On Site | Nov 30 |
 | **[University of Houston](https://www.uh.edu)** | **[Federal Work-Study- Student Supervisor, Student Leadership and Involvement](https://jobright.ai/jobs/info/692c0cf866796e3028f9271a?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Nov 30 |
@@ -64,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/692bdbcefa28370be269a08a?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Nov 29 |
 | ↳ | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/692bdbc266796e3028f91e41?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Nov 29 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/692bd8fefa28370be2699f32?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Nov 29 |
-| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/692ba3f5fa28370be2698f1f?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Nov 29 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Science Specialist Teacher and Interns - Elementary](https://jobright.ai/jobs/info/692b843a4c474121999cddf3?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 29 |
 | ↳ | **[2025/2026 - Art Teacher & Intern - Elementary](https://jobright.ai/jobs/info/692b84374c474121999cddf2?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 29 |
 | ↳ | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/692b84264c474121999cddeb?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 29 |
@@ -91,6 +93,7 @@ For a complete list, click the following sortable link below:
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[ASSISTANT DIRECTOR, STUDENT SERVICES, International Students and Scholars Office](https://jobright.ai/jobs/info/692b04cb66796e3028f8ff34?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Nov 29 |
 | **[NewYork-Presbyterian Hospital](https://www.nyp.org/)** | **[Summer 2026 Undergraduate Intern - Project Coordinator - Graduate Medical Education](https://jobright.ai/jobs/info/6911fb14d1047e3565cf8c68?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Nov 29 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/691adb6445fb6f5ead8ae554?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Nov 29 |
+| **[Baptist Health](http://careers.baptisthealth.net)** | **[Respiratory Therapist Intern, Respiratory Therapy, Per diem, 7P-7A](https://jobright.ai/jobs/info/68c40d34e471ef3ce16d387d?utm_campaign=1057&utm_source=git)** | Homestead, FL | On Site | Nov 29 |
 | **[NewYork-Presbyterian Hospital](https://www.nyp.org/)** | **[Summer 2026 Undergraduate Intern - Project Coordinator - Nursing](https://jobright.ai/jobs/info/6911f893c98948514c477e48?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Nov 29 |
 | **[Holmes Murphy](http://www.holmesmurphy.com/)** | **[Growth & Development Intern - Summer 2026 (West Des Moines, IA)](https://jobright.ai/jobs/info/690e9104221b890c2780f62b?utm_campaign=1057&utm_source=git)** | West Des Moines, IA | On Site | Nov 29 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Commercial Training Intern](https://jobright.ai/jobs/info/692af3074c474121999ccf0e?utm_campaign=1057&utm_source=git)** | Racine County, WI | On Site | Nov 29 |
@@ -127,7 +130,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Future Leaders Development- EN](https://jobright.ai/jobs/info/6929dcca66796e3028f8d653?utm_campaign=1057&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 28 |
 | **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for Undergraduate Admission](https://jobright.ai/jobs/info/68cfdb22fb49c96ca6eac0f8?utm_campaign=1057&utm_source=git)** | Massachusetts, United States | On Site | Nov 28 |
 | **[CN](http://www.cn.ca)** | **[Intern, Learning & Development- EN](https://jobright.ai/jobs/info/6929d29c4c474121999ca58e?utm_campaign=1057&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 28 |
-| **[Takeda](http://www.takeda.com)** | **[Commercial Leadership Development Program Summer Internship](https://jobright.ai/jobs/info/68b7988ef4e41a61efd9a5d2?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Nov 28 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Postdoctoral Fellowship in International Education and Early Childhood Development](https://jobright.ai/jobs/info/6929ba214c474121999ca21a?utm_campaign=1057&utm_source=git)** | Notre Dame, IN | On Site | Nov 28 |
 | **[West Shore Home](http://westshorehome.com)** | **[Instructional Design Internship (Summer 2026)](https://jobright.ai/jobs/info/69143754286ccf0a15125be0?utm_campaign=1057&utm_source=git)** | Mechanicsburg, PA | On Site | Nov 28 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Residential Crisis-Towson Hospital) 2025 Psychology Undergraduate Fieldwork](https://jobright.ai/jobs/info/68d7756c295f8e37655d9d5c?utm_campaign=1057&utm_source=git)** | Towson, MD | On Site | Nov 28 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44ec48c62e63bc7fe8122?utm_campaign=1057&utm_source=git)** | Northbrook, IL | On Site | Nov 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44ae2ffc1276de3fd9743?utm_campaign=1057&utm_source=git)** | Maumee, OH | On Site | Nov 28 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d618ac1f7fb2169ab16f27?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Nov 28 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d446dd17554c2d9eef78ea?utm_campaign=1057&utm_source=git)** | North Charleston, SC | On Site | Nov 28 |
 | **[Jewish Board of Family and Children's Services](https://jewishboard.org/)** | **[Internship Program Manager](https://jobright.ai/jobs/info/690ed418d046ab6061d0176d?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Nov 28 |
 | **[North Memorial Health](https://northmemorial.com/)** | **[Pharmacy Internship/Externship: First & Second Year Students](https://jobright.ai/jobs/info/690d67c84a1b456627b21094?utm_campaign=1057&utm_source=git)** | Twin Cities Area | On Site | Nov 28 |
-| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d44b27ffc1276de3fd9786?utm_campaign=1057&utm_source=git)** | North Charleston, SC | On Site | Nov 28 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d446c417554c2d9eef7890?utm_campaign=1057&utm_source=git)** | Plainfield, IL | On Site | Nov 28 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d62629894705799a2e7f13?utm_campaign=1057&utm_source=git)** | Savannah, GA | On Site | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
