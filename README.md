@@ -57,12 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Tribal Heritage & Education Intern](https://jobright.ai/jobs/info/692d2df84c474121999d1196?utm_campaign=1057&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
+| **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Procurement Education Intern](https://jobright.ai/jobs/info/692d3aeafa28370be269c2ae?utm_campaign=1057&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
+| **[CHRISTUS Health](http://www.christushealth.org)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/692d36074c474121999d1233?utm_campaign=1057&utm_source=git)** | Alexandria, LA | On Site | Nov 30 |
+| **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Children & Families Science Education Intern](https://jobright.ai/jobs/info/692d347e4c474121999d1217?utm_campaign=1057&utm_source=git)** | Wake County, NC | On Site | Nov 30 |
+| ↳ | **[Summer Camp Intern](https://jobright.ai/jobs/info/692d2eec66796e3028f93ef5?utm_campaign=1057&utm_source=git)** | Wake County, NC | On Site | Nov 30 |
+| ↳ | **[Resilient Engagement Intern](https://jobright.ai/jobs/info/692d2e504c474121999d11a4?utm_campaign=1057&utm_source=git)** | Wake County, NC | On Site | Nov 30 |
+| ↳ | **[Tribal Heritage & Education Intern](https://jobright.ai/jobs/info/692d2df84c474121999d1196?utm_campaign=1057&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
 | ↳ | **[Education Intern](https://jobright.ai/jobs/info/692d2b3d4c474121999d115b?utm_campaign=1057&utm_source=git)** | Dare County, NC | On Site | Nov 30 |
 | ↳ | **[State Office Training Team Intern](https://jobright.ai/jobs/info/692d2af84c474121999d1145?utm_campaign=1057&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
 | ↳ | **[Certification and Outreach Assistance Intern](https://jobright.ai/jobs/info/692d2ae6fa28370be269c147?utm_campaign=1057&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
 | ↳ | **[Summer Camp & Special Programs Intern](https://jobright.ai/jobs/info/692d2ac24c474121999d113b?utm_campaign=1057&utm_source=git)** | Manteo Maint Dare | On Site | Nov 30 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/692d25e34c474121999d1101?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Nov 30 |
+| **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Economic Development Intern](https://jobright.ai/jobs/info/692d417c66796e3028f940a7?utm_campaign=1057&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/692cf329fa28370be269bc3c?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Nov 30 |
 | **[Global Health Leaders](https://www.globalhealthleaders.net)** | **[Medical or Medical Research Internship - Short Term Study Abroad](https://jobright.ai/jobs/info/692cc5fd66796e3028f935a1?utm_campaign=1057&utm_source=git)** | United States | Remote | Nov 30 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Climbing Arborist Internship / Oxford, MI](https://jobright.ai/jobs/info/692cb4e166796e3028f93493?utm_campaign=1057&utm_source=git)** | Oxford, MI | On Site | Nov 30 |
@@ -72,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[UPMC](https://www.upmc.com/)** | **[Student Nurse Internship (SNI) Program: Northwestern PA & Western NY Hospitals](https://jobright.ai/jobs/info/689f19dc83d13d1f5b6c437f?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Nov 30 |
 | ↳ | **[Student Nurse Internship (SNI) Program: Southwestern PA Hospitals](https://jobright.ai/jobs/info/689f19dc83d13d1f5b6c437d?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Nov 30 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[BH Therapy Intern - Driving CT](https://jobright.ai/jobs/info/690f606c44146d3b6ec5b917?utm_campaign=1057&utm_source=git)** | Columbus, OH | On Site | Nov 30 |
+| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/692c4ecd4c474121999cff21?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Nov 30 |
 | **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - Sustainability](https://jobright.ai/jobs/info/692c421afa28370be269ad81?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD | On Site | Nov 30 |
 | **[Life.Church](http://www.life.church)** | **[Life.Church Central Internship](https://jobright.ai/jobs/info/67eed4e10bdb919a84e17e1b?utm_campaign=1057&utm_source=git)** | Edmond, OK | On Site | Nov 30 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Outpatient Mental Health Clinics- Hagerstown) 2025- 2026 Counseling/Social Work Fieldwork](https://jobright.ai/jobs/info/68d5023a24b1ee4c7b663422?utm_campaign=1057&utm_source=git)** | Hagerstown, MD | On Site | Nov 30 |
@@ -79,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Burrell Behavioral Health](https://www.burrellcenter.com/)** | **[Student Trainee](https://jobright.ai/jobs/info/692c086b4c474121999cf94a?utm_campaign=1057&utm_source=git)** | Kirksville, MO | On Site | Nov 30 |
 | **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Accounting-Tenure Track](https://jobright.ai/jobs/info/692bdbcefa28370be269a08a?utm_campaign=1057&utm_source=git)** | Simpson, MO | On Site | Nov 29 |
 | ↳ | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/692bdbc266796e3028f91e41?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Nov 29 |
-| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/692ba3f5fa28370be2698f1f?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Nov 29 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Science Specialist Teacher and Interns - Elementary](https://jobright.ai/jobs/info/692b843a4c474121999cddf3?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 29 |
 | ↳ | **[2025/2026 - Art Teacher & Intern - Elementary](https://jobright.ai/jobs/info/692b84374c474121999cddf2?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 29 |
 | ↳ | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/692b84264c474121999cddeb?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Nov 29 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Enrollment Counselor](https://jobright.ai/jobs/info/6929d5f6fa28370be2695624?utm_campaign=1057&utm_source=git)** | Charleston, SC | On Site | Nov 28 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Medical Writing Intern, Market Access (Undergraduate)](https://jobright.ai/jobs/info/68efd8079821486c423c7ae7?utm_campaign=1057&utm_source=git)** | United States | Remote | Nov 28 |
 | **[Oakridge International School, Bengaluru](https://www.oakridge.in/bengaluru/)** | **[Principal, The British International School of Charlotte](https://jobright.ai/jobs/info/6929a258fa28370be2694e08?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Nov 28 |
-| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT CORPORATE ACCOUNTING](https://jobright.ai/jobs/info/691aaa6515b4156367189bfc?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Nov 28 |
-| **[Oakridge International School, Bengaluru](https://www.oakridge.in/bengaluru/)** | **[Principal, British International School of Chicago, South Loop](https://jobright.ai/jobs/info/69299eebfa28370be2694db5?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Nov 28 |
-| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d6349f894705799a2e89d7?utm_campaign=1057&utm_source=git)** | Pflugerville, TX | On Site | Nov 28 |
-| **[PTC](http://ptc.co/VLED30oHtEh)** | **[Training Content Creator Intern](https://jobright.ai/jobs/info/68f16323f462172a5a7d7933?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Nov 28 |
-| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d625c6ebcef82ef5cf6c4d?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Nov 28 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d63267ebcef82ef5cf7868?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
