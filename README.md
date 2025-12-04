@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Inspire](https://inspirebrands.com)** | **[QSR Training Development Internship - Summer 2026](https://jobright.ai/jobs/info/693151a1fa28370be26b8198?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Dec 04 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Student Intern II](https://jobright.ai/jobs/info/6931476d4c474121999ecf2c?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Dec 04 |
 | **[Clarvida](https://www.clarvida.com)** | **[Outpatient Counselor Intern](https://jobright.ai/jobs/info/693131f9ef4b48533d152dee?utm_campaign=1057&utm_source=git)** | New Kensington, Pennsylvania | On Site | Dec 03 |
+| **[Utah Tech University](https://utahtech.edu)** | **[Assistant Professor of Finance](https://jobright.ai/jobs/info/6931559ffa28370be26b8355?utm_campaign=1057&utm_source=git)** | St George, UT | On Site | Dec 03 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Clinical Research Intern](https://jobright.ai/jobs/info/693115984c474121999ebecd?utm_campaign=1057&utm_source=git)** | Wilmington, NC | Remote | Dec 03 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/693114e04c474121999ebe6c?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | Dec 03 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/693114264c474121999ebdd1?utm_campaign=1057&utm_source=git)** | Fort Collins, CO | On Site | Dec 03 |
@@ -67,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Travelers](https://www.travelers.com)** | **[Data Science Leadership Development Program (DSLDP) Intern](https://jobright.ai/jobs/info/691e34fd09cc522e87737801?utm_campaign=1057&utm_source=git)** | Hartford, CT | Hybrid | Dec 03 |
 | ↳ | **[Underwriting Internship (Summer 2026): Business Insurance Underwriting Professional Development Program (UPDP)](https://jobright.ai/jobs/info/691e3b3309cc522e87737e85?utm_campaign=1057&utm_source=git)** | Overland Park, KS | Hybrid | Dec 03 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69311e92fa28370be26b7038?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Dec 03 |
+| **[MAI Capital Management](https://mai.capital)** | **[Intern - Entertainment & Sports](https://jobright.ai/jobs/info/69314550ef4b48533d1534b0?utm_campaign=1057&utm_source=git)** | Independence, OH | On Site | Dec 03 |
 | **[Servco Pacific Inc.](http://www.servco.com)** | **[2026 Summer Intern - Servco Quality Division Intern](https://jobright.ai/jobs/info/6930f0054c474121999ea82e?utm_campaign=1057&utm_source=git)** | Honolulu, HI | On Site | Dec 03 |
 | **[Weyerhaeuser](http://www.weyerhaeuser.com)** | **[Lumber Mill Summer Internship](https://jobright.ai/jobs/info/6930effffa28370be26b5658?utm_campaign=1057&utm_source=git)** | Lebanon, OR | On Site | Dec 03 |
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Training Development Intern](https://jobright.ai/jobs/info/69311311fa28370be26b6b1e?utm_campaign=1057&utm_source=git)** | Hoffman Estates, IL | On Site | Dec 03 |
@@ -117,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[Care New England](http://www.carenewengland.org)** | **[Student Nurse Intern, Medical Surgical Unit](https://jobright.ai/jobs/info/6930e5004c474121999ea14e?utm_campaign=1057&utm_source=git)** | Warwick, RI | On Site | Dec 03 |
 | **[Carle Health](http://www.carle.org)** | **[Student Nurse Internship Program - Greater Peoria Region](https://jobright.ai/jobs/info/69309189ef4b48533d14c7ca?utm_campaign=1057&utm_source=git)** | US-IL-Peoria | On Site | Dec 03 |
 | **[Environment for the Americas](http://www.environmentamericas.org)** | **[Education and Outreach Intern – ON SITE - BLM Yaquina Head Outstanding Natural Area - Newport, OR](https://jobright.ai/jobs/info/6930c8c0fa28370be26b3b16?utm_campaign=1057&utm_source=git)** | Newport, OR | On Site | Dec 03 |
-| **[Servco Pacific Inc.](http://www.servco.com)** | **[2026 Summer Intern - Servco Parts Center Intern](https://jobright.ai/jobs/info/6930b7ce4c474121999e7ec7?utm_campaign=1057&utm_source=git)** | Honolulu | On Site | Dec 03 |
-| ↳ | **[2026 Summer Intern - Product Training Intern](https://jobright.ai/jobs/info/6930b98afa28370be26b2ebc?utm_campaign=1057&utm_source=git)** | Honolulu | On Site | Dec 03 |
+| **[Servco Pacific Inc.](http://www.servco.com)** | **[2026 Summer Intern - Product Training Intern](https://jobright.ai/jobs/info/6930b98afa28370be26b2ebc?utm_campaign=1057&utm_source=git)** | Honolulu | On Site | Dec 03 |
+| ↳ | **[2026 Summer Intern - Servco Parts Center Intern](https://jobright.ai/jobs/info/6930b7ce4c474121999e7ec7?utm_campaign=1057&utm_source=git)** | Honolulu | On Site | Dec 03 |
 | **[Inspire](https://inspirebrands.com)** | **[QSR Training Development Internship - Summer 2026](https://jobright.ai/jobs/info/6930b944fa28370be26b2e56?utm_campaign=1057&utm_source=git)** | Atlanta Support Center | On Site | Dec 03 |
 | **[Carle Health](http://www.carle.org)** | **[2026 Student Nurse Internship Program - Carle Foundation Hospital](https://jobright.ai/jobs/info/6930cc0aef4b48533d14f48a?utm_campaign=1057&utm_source=git)** | US-IL-Urbana | On Site | Dec 03 |
 | **[San Diego Youth Services](https://sdyouthservices.org)** | **[Bachelors Level Clinical Intern/Trainee](https://jobright.ai/jobs/info/6930bdf84c474121999e84d6?utm_campaign=1057&utm_source=git)** | San Diego,CA,US | On Site | Dec 03 |
@@ -138,10 +142,11 @@ For a complete list, click the following sortable link below:
 | **[Driftwood Hospitality Management](https://driftwoodhospitality.com)** | **[2026 Summer Internship - FSU Dedman College Students](https://jobright.ai/jobs/info/68dbf7086f6c5c3fadf35840?utm_campaign=1057&utm_source=git)** | Melbourne, FL | On Site | Dec 03 |
 | **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Trading Bootcamp](https://jobright.ai/jobs/info/69305eba4c474121999e5072?utm_campaign=1057&utm_source=git)** | Chicago, IL | Remote | Dec 03 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Adjunct Faculty-Masters of Arts in International Disaster Psychology: Trauma and Global Mental Healt](https://jobright.ai/jobs/info/69306bcaef4b48533d14b904?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Dec 03 |
+| ↳ | **[Coordinator: International Baccalaureate DP/CP Site (School Based)](https://jobright.ai/jobs/info/693151a0ef4b48533d1538e2?utm_campaign=1057&utm_source=git)** | Annapolis, MD | On Site | Dec 03 |
 | **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/68f7e9e15dc1be601281e3ac?utm_campaign=1057&utm_source=git)** | Emmaus, PA | On Site | Dec 03 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/69305aa6ef4b48533d14b4e9?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 03 |
-| **[Pegasystems](http://www.pega.com)** | **[Curriculum Developer Intern](https://jobright.ai/jobs/info/68f781a1b0edcf159dc81c21?utm_campaign=1057&utm_source=git)** | Waltham, MA | On Site | Dec 03 |
 | **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/691a9aad45fb6f5ead8ac55e?utm_campaign=1057&utm_source=git)** | Piscataway, NJ | On Site | Dec 03 |
+| **[Pegasystems](http://www.pega.com)** | **[Curriculum Developer Intern](https://jobright.ai/jobs/info/68f781a1b0edcf159dc81c21?utm_campaign=1057&utm_source=git)** | Waltham, MA | On Site | Dec 03 |
 | **[PARKVIEW HEALTH SYSTEM INC](https://www.parkview.com/)** | **[Rehab Place Summer Clinical Intern](https://jobright.ai/jobs/info/6931392eef4b48533d153111?utm_campaign=1057&utm_source=git)** | Wabash, IN | On Site | Dec 03 |
 | **[PORT Health](https://www.porthealth.org/)** | **[Intern Clinical Rotations](https://jobright.ai/jobs/info/693135deef4b48533d152f6f?utm_campaign=1057&utm_source=git)** | Morehead City, NC | On Site | Dec 03 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[Bernstein - Summer Senior Research Associate (Campus)](https://jobright.ai/jobs/info/68c085838e65e77df55c238e?utm_campaign=1057&utm_source=git)** | New York, United States | Hybrid | Dec 03 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Orthopedic Service Line Summer Clinical Intern](https://jobright.ai/jobs/info/69303415ef4b48533d14aba4?utm_campaign=1057&utm_source=git)** | Fort Wayne, IN | On Site | Dec 03 |
 | ↳ | **[Conference and Media Services  Summer Non-Clinical Intern](https://jobright.ai/jobs/info/693049584c474121999e4b07?utm_campaign=1057&utm_source=git)** | Fort Wayne, IN | On Site | Dec 03 |
 | ↳ | **[Outpatient Orthopedic Therapy Services Summer Clinical Intern](https://jobright.ai/jobs/info/69312d6f4c474121999ec7c2?utm_campaign=1057&utm_source=git)** | Fort Wayne, IN | On Site | Dec 03 |
-| ↳ | **[Rehabilitation and Wellness Summer Clinical Intern](https://jobright.ai/jobs/info/69307677fa28370be26b0696?utm_campaign=1057&utm_source=git)** | Huntington, IN | On Site | Dec 03 |
-| ↳ | **[PPG Clinical Operations Summer Non-Clinical Intern](https://jobright.ai/jobs/info/69303812ef4b48533d14acda?utm_campaign=1057&utm_source=git)** | Fort Wayne, IN | On Site | Dec 03 |
-| ↳ | **[Pathology Summer Non-Clinical Intern](https://jobright.ai/jobs/info/69303840ef4b48533d14ace2?utm_campaign=1057&utm_source=git)** | Fort Wayne, IN | On Site | Dec 03 |
-| ↳ | **[Outpatient Orthopedic Physical and Occupational Therapy Summer Clinical Intern](https://jobright.ai/jobs/info/6930480fef4b48533d14b097?utm_campaign=1057&utm_source=git)** | Fort Wayne, IN | On Site | Dec 03 |
-| ↳ | **[Respiratory Care Summer Non-Clinical Intern](https://jobright.ai/jobs/info/693038f4ef4b48533d14ad20?utm_campaign=1057&utm_source=git)** | Fort Wayne, IN | On Site | Dec 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
