@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Inspire](https://inspirebrands.com)** | **[QSR Training Development Internship - Summer 2026](https://jobright.ai/jobs/info/693151a1fa28370be26b8198?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Dec 04 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Student Intern II](https://jobright.ai/jobs/info/6931476d4c474121999ecf2c?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Dec 04 |
+| **[Inspire](https://inspirebrands.com)** | **[QSR Training Development Internship - Summer 2026](https://jobright.ai/jobs/info/69316111fa28370be26b88ca?utm_campaign=1057&utm_source=git)** | Canton, MA | On Site | Dec 03 |
 | **[Clarvida](https://www.clarvida.com)** | **[Outpatient Counselor Intern](https://jobright.ai/jobs/info/693131f9ef4b48533d152dee?utm_campaign=1057&utm_source=git)** | New Kensington, Pennsylvania | On Site | Dec 03 |
 | **[Utah Tech University](https://utahtech.edu)** | **[Assistant Professor of Finance](https://jobright.ai/jobs/info/6931559ffa28370be26b8355?utm_campaign=1057&utm_source=git)** | St George, UT | On Site | Dec 03 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Clinical Research Intern](https://jobright.ai/jobs/info/693115984c474121999ebecd?utm_campaign=1057&utm_source=git)** | Wilmington, NC | Remote | Dec 03 |
@@ -103,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6930bdf54c474121999e84d4?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Dec 03 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6930baf4fa28370be26b2fbd?utm_campaign=1057&utm_source=git)** | Leander, TX | On Site | Dec 03 |
 | **[TIH](https://www.truistinsurance.com/)** | **[Intern - CRC](https://jobright.ai/jobs/info/6930ba71ef4b48533d14e65f?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Dec 03 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/6930e54c4c474121999ea19e?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Dec 03 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Graduate Program Coordinator](https://jobright.ai/jobs/info/6930e00fef4b48533d150344?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Dec 03 |
 | **[W. R. Berkley Corporation](https://www.berkley.com/)** | **[AIRS Intern](https://jobright.ai/jobs/info/6930b374fa28370be26b287f?utm_campaign=1057&utm_source=git)** | West Hartford, CT | Hybrid | Dec 03 |
 | **[Santa Barbara Museum of Natural History and Sea Center](https://www.sbnature.org)** | **[Teen Programs Intern](https://jobright.ai/jobs/info/6930b2524c474121999e7905?utm_campaign=1057&utm_source=git)** | Santa Barbara, CA | On Site | Dec 03 |
@@ -152,9 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Societe Generale](https://www.societegenerale.com)** | **[Bernstein - Summer Senior Research Associate (Campus)](https://jobright.ai/jobs/info/68c085838e65e77df55c238e?utm_campaign=1057&utm_source=git)** | New York, United States | Hybrid | Dec 03 |
 | **[PARKVIEW HEALTH SYSTEM INC](https://www.parkview.com/)** | **[Community Health & Well-Being Summer Non-Clinical Intern](https://jobright.ai/jobs/info/69303760fa28370be26af5b0?utm_campaign=1057&utm_source=git)** | Fort Wayne, IN | On Site | Dec 03 |
 | ↳ | **[Pharmacy Summer Clinical Intern](https://jobright.ai/jobs/info/69304644fa28370be26af901?utm_campaign=1057&utm_source=git)** | Fort Wayne, IN | On Site | Dec 03 |
+| ↳ | **[MyWell-Being Summer Non-Clinical Intern](https://jobright.ai/jobs/info/69315fd34c474121999ed87e?utm_campaign=1057&utm_source=git)** | Fort Wayne, IN | On Site | Dec 03 |
 | ↳ | **[Rehab Therapy Summer Clinical Intern](https://jobright.ai/jobs/info/693038df4c474121999e46b6?utm_campaign=1057&utm_source=git)** | Logansport, IN | On Site | Dec 03 |
 | ↳ | **[Health & Well-Being Summer Non-Clinical Intern](https://jobright.ai/jobs/info/693036e74c474121999e463b?utm_campaign=1057&utm_source=git)** | Fort Wayne, IN | On Site | Dec 03 |
 | ↳ | **[Orthopedic Service Line Summer Clinical Intern](https://jobright.ai/jobs/info/69303415ef4b48533d14aba4?utm_campaign=1057&utm_source=git)** | Fort Wayne, IN | On Site | Dec 03 |
 | ↳ | **[Conference and Media Services  Summer Non-Clinical Intern](https://jobright.ai/jobs/info/693049584c474121999e4b07?utm_campaign=1057&utm_source=git)** | Fort Wayne, IN | On Site | Dec 03 |
-| ↳ | **[Outpatient Orthopedic Therapy Services Summer Clinical Intern](https://jobright.ai/jobs/info/69312d6f4c474121999ec7c2?utm_campaign=1057&utm_source=git)** | Fort Wayne, IN | On Site | Dec 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
