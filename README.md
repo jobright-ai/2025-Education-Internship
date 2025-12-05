@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Phelps Health](https://phelpshealth.org/)** | **[Clinical Intern - ED / IPT](https://jobright.ai/jobs/info/693331cff131d96e48460865?utm_campaign=1057&utm_source=git)** | Phelps Health Hospital | On Site | Dec 05 |
+| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Instructional Design (Dealer Services)](https://jobright.ai/jobs/info/68dc31fd66059a42a715c668?utm_campaign=1057&utm_source=git)** | Arlington, TX | Hybrid | Dec 05 |
+| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/693322b9f131d96e4846008a?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Dec 05 |
+| **[Archdiocese of St. Louis](https://www.archstl.org/)** | **[Office of Youth Ministry Summer Intern](https://jobright.ai/jobs/info/693321f0f131d96e4846000c?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Dec 05 |
+| **[Tampa General Hospital](https://www.tgh.org)** | **[Student Intern - USFTGP](https://jobright.ai/jobs/info/69331b22764507023d1b236f?utm_campaign=1057&utm_source=git)** | TGH Main Campus1 Tampa General Circle | On Site | Dec 05 |
 | **[Behavioral Health Group - BHG](https://www.bhgrecovery.com)** | **[Unpaid Counselor Intern](https://jobright.ai/jobs/info/693319b5f131d96e4845fc5a?utm_campaign=1057&utm_source=git)** | Staunton, VA | On Site | Dec 05 |
 | **[Atlantic Health](http://www.atlantichealth.org)** | **[Education & Service Excellence Intern](https://jobright.ai/jobs/info/6933183df131d96e4845fb9e?utm_campaign=1057&utm_source=git)** | 475 South Street, Morristown, NJ, 07960, US | On Site | Dec 05 |
 | **[ASML](https://www.asml.com)** | **[Internship - Learning Specialist - Summer 2026](https://jobright.ai/jobs/info/68dd73e9ddc10244dd67f7fc?utm_campaign=1057&utm_source=git)** | Wilton Center, CT | On Site | Dec 05 |
@@ -128,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern - Texas Southern University](https://jobright.ai/jobs/info/6932459ff131d96e4845a6c5?utm_campaign=1057&utm_source=git)** | Home Based, Minneapolis, MN, 55401, US | Remote | Dec 04 |
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Westlake Village, CA - Credit Operations](https://jobright.ai/jobs/info/693249fa764507023d1acab7?utm_campaign=1057&utm_source=git)** | Westlake Village, CA | On Site | Dec 04 |
 | **[CASA DE LA FAMILIA](https://www.casadelafamilia.org)** | **[Clinical Internship](https://jobright.ai/jobs/info/6932db12a0dde7020e2e90b4?utm_campaign=1057&utm_source=git)** | Santa Ana, CA | On Site | Dec 04 |
-| **[Presbyterian Healthcare Services](http://www.phs.org)** | **[Student Sonographer Intern - Pediatric Cardiology](https://jobright.ai/jobs/info/693240fdf131d96e4845a2cc?utm_campaign=1057&utm_source=git)** | US-NM-Albuquerque | On Site | Dec 04 |
-| ↳ | **[Student Sonographer Intern - Pediatric Cardiology](https://jobright.ai/jobs/info/693255cf764507023d1ad486?utm_campaign=1057&utm_source=git)** | Albuquerque | On Site | Dec 04 |
+| **[Presbyterian Healthcare Services](http://www.phs.org)** | **[Student Sonographer Intern - Pediatric Cardiology](https://jobright.ai/jobs/info/693255cf764507023d1ad486?utm_campaign=1057&utm_source=git)** | Albuquerque | On Site | Dec 04 |
+| ↳ | **[Student Sonographer Intern - Pediatric Cardiology](https://jobright.ai/jobs/info/693240fdf131d96e4845a2cc?utm_campaign=1057&utm_source=git)** | US-NM-Albuquerque | On Site | Dec 04 |
 | ↳ | **[Student Sonographer Intern - Pediatric Cardiology](https://jobright.ai/jobs/info/693241b8a0dde7020e2e4ca9?utm_campaign=1057&utm_source=git)** | 1100 Central Avenue SE | On Site | Dec 04 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69321c0d4c474121999f700f?utm_campaign=1057&utm_source=git)** | Daly City, CA | On Site | Dec 04 |
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Graphic/Instructional Designer](https://jobright.ai/jobs/info/69323839d0010831497c0bcb?utm_campaign=1057&utm_source=git)** | Marlborough, MA | On Site | Dec 04 |
@@ -151,10 +156,5 @@ For a complete list, click the following sortable link below:
 | **[The College of New Jersey](http://www.tcnj.edu/)** | **[Off-Site and Online Programs Internship Supervisor Spring 2026](https://jobright.ai/jobs/info/692dd97766796e3028f96b43?utm_campaign=1057&utm_source=git)** | Ewing, NJ | On Site | Dec 04 |
 | **[PPL Corporation](https://www.pplweb.com/)** | **[Spring 2026 - Digital Training Intern](https://jobright.ai/jobs/info/69322ae0d0010831497c0435?utm_campaign=1057&utm_source=git)** | Allentown, PA | On Site | Dec 04 |
 | **[The College of New Jersey](http://www.tcnj.edu/)** | **[Political Science Adjunct Spring 2026 (International Relations)](https://jobright.ai/jobs/info/6932262a4c474121999f76ba?utm_campaign=1057&utm_source=git)** | Ewing, NJ | On Site | Dec 04 |
-| **[AcariaHealth](https://acariahealth.envolvehealth.com)** | **[Pharmacy Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/693203834c474121999f5b69?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Dec 04 |
-| ↳ | **[Pharmacy Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/6932026efa28370be26c09b2?utm_campaign=1057&utm_source=git)** | Missouri, United States | Remote | Dec 04 |
-| **[State of Michigan](https://michigancountymap.com/)** | **[Student Assistant - BSBP Training Center](https://jobright.ai/jobs/info/69323254fa28370be26c2f93?utm_campaign=1057&utm_source=git)** | Kalamazoo, MI | On Site | Dec 04 |
-| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6932557d764507023d1ad431?utm_campaign=1057&utm_source=git)** | Portland, OR | On Site | Dec 04 |
-| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69321658d0010831497bf533?utm_campaign=1057&utm_source=git)** | Santa Rosa, CA | On Site | Dec 04 |
-| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69321720fa28370be26c1b63?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Dec 04 |
+| **[Syracuse University](https://www.tracfed.syr.edu/)** | **[Internship Placement Coordinator](https://jobright.ai/jobs/info/69320645d0010831497be5c7?utm_campaign=1057&utm_source=git)** | Syracuse, NY | On Site | Dec 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
