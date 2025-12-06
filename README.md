@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Learning Management Systems Intern](https://jobright.ai/jobs/info/68a7775f33dd7158bbca776f?utm_campaign=1057&utm_source=git)** | Strongsville, OH | On Site | Dec 06 |
+| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/693411c4f131d96e48469493?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Dec 06 |
+| **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Risk Management and Insurance Internship - Summer 2026 (Dallas, TX)](https://jobright.ai/jobs/info/68d62c52894705799a2e8559?utm_campaign=1057&utm_source=git)** | Richardson, TX | On Site | Dec 06 |
+| **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6934053d764507023d1bb6cc?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 06 |
+| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[IMA Select Intern - Summer 2026](https://jobright.ai/jobs/info/6930fa1a4c474121999eae3c?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Dec 06 |
+| **[Lincoln Memorial University](http://www.lmunet.edu/)** | **[Asst/Assoc Prof of Fam Med, Internal Med, Sports Med/Omm](https://jobright.ai/jobs/info/69340603a0dde7020e2f3c46?utm_campaign=1057&utm_source=git)** | Harrogate, TN | On Site | Dec 06 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Neuro Cardio - APP - Internal Medicine](https://jobright.ai/jobs/info/6933efac764507023d1bacfa?utm_campaign=1057&utm_source=git)** | Florida, United States | On Site | Dec 05 |
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af3a9f1f0a2a568a05fdf8?utm_campaign=1057&utm_source=git)** | Orange, California, United States | On Site | Dec 05 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Assistant, Center for Teaching and Learning, Tahlequah](https://jobright.ai/jobs/info/6933af4ba0dde7020e2f0854?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Dec 05 |
@@ -107,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Arizona State University](http://www.asu.edu)** | **[Management Intern- Classroom Support](https://jobright.ai/jobs/info/69336639a0dde7020e2ed77c?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 05 |
 | **[Meridian Health](https://www.meridianhealth.com)** | **[Masters Level Intern 6775](https://jobright.ai/jobs/info/69335038764507023d1b412f?utm_campaign=1057&utm_source=git)** | Muncie, IN | On Site | Dec 05 |
 | **[Silicon Labs](https://silabs.com/)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/693358ddf131d96e484624b5?utm_campaign=1057&utm_source=git)** | Austin | On Site | Dec 05 |
-| **[Northwestern Medicine](http://nm.org)** | **[Pre-Med Undergraduate Intern Program - Summer 2026](https://jobright.ai/jobs/info/69334c07a0dde7020e2ec4e3?utm_campaign=1057&utm_source=git)** | 251 E Huron St, Chicago, IL 60611, USA | On Site | Dec 05 |
-| ↳ | **[Pre-Psychology Undergraduate Intern Program - Summer 2026](https://jobright.ai/jobs/info/6933534aa0dde7020e2eca77?utm_campaign=1057&utm_source=git)** | 251 E Huron St, Chicago, IL 60611, USA | On Site | Dec 05 |
+| **[Northwestern Medicine](http://nm.org)** | **[Pre-Psychology Undergraduate Intern Program - Summer 2026](https://jobright.ai/jobs/info/6933534aa0dde7020e2eca77?utm_campaign=1057&utm_source=git)** | 251 E Huron St, Chicago, IL 60611, USA | On Site | Dec 05 |
+| ↳ | **[Pre-Med Undergraduate Intern Program - Summer 2026](https://jobright.ai/jobs/info/69334c07a0dde7020e2ec4e3?utm_campaign=1057&utm_source=git)** | 251 E Huron St, Chicago, IL 60611, USA | On Site | Dec 05 |
 | ↳ | **[Student Nurse Intern Program - Summer 2026](https://jobright.ai/jobs/info/69335074764507023d1b416f?utm_campaign=1057&utm_source=git)** | Various locations, Chicagoland, ILLINOIS | On Site | Dec 05 |
 | ↳ | **[Pre-Med Gap Year Internship 2026-2027](https://jobright.ai/jobs/info/69335497a0dde7020e2ecb55?utm_campaign=1057&utm_source=git)** | Various Locations, Chicago, United States | On Site | Dec 05 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Instructional Design (Dealer Services)](https://jobright.ai/jobs/info/68dc31fd66059a42a715c668?utm_campaign=1057&utm_source=git)** | Arlington, TX | Hybrid | Dec 05 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship - B&H Publishing - Academic](https://jobright.ai/jobs/info/6916757b9c388539cbdfb975?utm_campaign=1057&utm_source=git)** | United States | Remote | Dec 05 |
 | **[Stepful](https://www.stepful.com/)** | **[Student Success Coach](https://jobright.ai/jobs/info/68f91ca1a628d10664e8968e?utm_campaign=1057&utm_source=git)** | New York, NY | Remote | Dec 05 |
 | **[PARKVIEW HEALTH SYSTEM INC](https://www.parkview.com/)** | **[Respiratory Care Summer Non-Clinical Intern](https://jobright.ai/jobs/info/6932eccdf131d96e4845eb94?utm_campaign=1057&utm_source=git)** | Fort Wayne, IN | On Site | Dec 05 |
-| **[Kleinfelder](http://www.kleinfelder.com/)** | **[University of Maine Fall 2025 Career Fair](https://jobright.ai/jobs/info/68ded49244d32141e0c02bc4?utm_campaign=1057&utm_source=git)** | Portland, ME | On Site | Dec 05 |
-| **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Materials Library Intern](https://jobright.ai/jobs/info/6916630b9c388539cbdfa97f?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 05 |
-| **[Badger Meter](http://badgermeter.com)** | **[Training and Documentation Intern](https://jobright.ai/jobs/info/6916b3ec286ccf0a15138c50?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | Dec 05 |
-| **[The Toro Company](https://www.thetorocompany.com)** | **[Commercial Sales Training Developer Intern - The Toro Company](https://jobright.ai/jobs/info/68c043ae5c5d5f14f46dc220?utm_campaign=1057&utm_source=git)** | Hennepin County, MN | On Site | Dec 05 |
-| **[UVM Health - UVM Medical Center](http://www.UVMhealth.org/MedCenter)** | **[Periop 101 Internship - New Grads and Experienced RNs](https://jobright.ai/jobs/info/68ded7f4a125e75c422b7215?utm_campaign=1057&utm_source=git)** | Burlington, VT | On Site | Dec 05 |
-| **[Adobe](http://www.adobe.com)** | **[2026 Intern - TPS Excellence Program Management](https://jobright.ai/jobs/info/68cd21b51ad6b16f0289571d?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
