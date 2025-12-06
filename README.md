@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/69347ef4f131d96e4846ae20?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Dec 06 |
+| **[Monmouth University](http://www.monmouth.edu)** | **[Adjunct, Marketing and International Business](https://jobright.ai/jobs/info/69347adbf131d96e4846ace7?utm_campaign=1057&utm_source=git)** | West Long Branch, NJ | On Site | Dec 06 |
+| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[High School Internship- Patient Family Advocate- Springfield](https://jobright.ai/jobs/info/693474afa0dde7020e2f5794?utm_campaign=1057&utm_source=git)** | Springfield, MO | On Site | Dec 06 |
 | **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Summer 2026 Evaluation Internship](https://jobright.ai/jobs/info/6917cee0bcdbf3560c9cb9ce?utm_campaign=1057&utm_source=git)** | Bentonville, AR | On Site | Dec 06 |
 | ↳ | **[Art Bridges Summer 2026 Fellows and Internship Programs Internship](https://jobright.ai/jobs/info/6933d0d0764507023d1b9c46?utm_campaign=1057&utm_source=git)** | Bentonville, AR | On Site | Dec 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship Kauai](https://jobright.ai/jobs/info/68df842c6be63b6ec9970e8a?utm_campaign=1057&utm_source=git)** | Lihue, HI | On Site | Dec 06 |
@@ -105,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[Meijer](https://www.meijer.com/)** | **[Pharmacy Grad Intern](https://jobright.ai/jobs/info/693375f1764507023d1b5ee4?utm_campaign=1057&utm_source=git)** | Danville, IL | On Site | Dec 05 |
 | **[Excel Academy Charter Schools](https://www.excelacademy.org/)** | **[School Counseling Intern](https://jobright.ai/jobs/info/69339866f131d96e48464ba6?utm_campaign=1057&utm_source=git)** | High School Campus, East Boston, MA | On Site | Dec 05 |
 | **[Southwestern Michigan College](http://www.swmich.edu/)** | **[Director of Advanced Technology & Industry Engagement](https://jobright.ai/jobs/info/6933b2afa0dde7020e2f0b04?utm_campaign=1057&utm_source=git)** | Dowagiac, MI | On Site | Dec 05 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/69338b91764507023d1b6b17?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Dec 05 |
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Intern Administrative High School](https://jobright.ai/jobs/info/69336612764507023d1b5366?utm_campaign=1057&utm_source=git)** | Remote Location | Remote | Dec 05 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2026 Portfolio Management, Technology - Phoenix, AZ](https://jobright.ai/jobs/info/69338537a0dde7020e2eed0c?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 05 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/69337da4a0dde7020e2ee873?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - Ohio (49430)](https://jobright.ai/jobs/info/69166b52286ccf0a15135b06?utm_campaign=1057&utm_source=git)** | Beachwood, OH | On Site | Dec 05 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/69333804a0dde7020e2eb805?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Dec 05 |
 | **[Sirius Travel Inc.](http://siriustravel.com)** | **[Tourism Student Internship](https://jobright.ai/jobs/info/69342fa5a0dde7020e2f49e3?utm_campaign=1057&utm_source=git)** | United States | Hybrid | Dec 05 |
-| **[Behavioral Health Group - BHG](https://www.bhgrecovery.com)** | **[Unpaid Counselor Intern](https://jobright.ai/jobs/info/69332cc4764507023d1b2c60?utm_campaign=1057&utm_source=git)** | Staunton, VA | On Site | Dec 05 |
-| **[IMG Academy](https://www.imgacademy.com)** | **[Volleyball Operations Intern](https://jobright.ai/jobs/info/691d3a050b7dff7341500f8b?utm_campaign=1057&utm_source=git)** | Bradenton, FL | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
