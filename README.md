@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Clemson University MBA Programs](https://www.clemson.edu/business/departments/mba/)** | **[Open Rank Faculty - Small Animal Internal Medicine - Harvey S. Peeler Jr. College of Veterinary Medicine](https://jobright.ai/jobs/info/69353faba0dde7020e2f809c?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | On Site | Dec 07 |
 | **[ALFA-Asian American Leadership in Financial Services Alliance](https://alfa-us.org)** | **[Intern (Manderian Speaker)](https://jobright.ai/jobs/info/693505df764507023d1bed2f?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 06 |
-| **[Jacksonville State University](http://www.jsu.edu/)** | **[Graduate Administrative Assistant - Vice Provost for Student Success (Fall 2025 - Spring 2026)](https://jobright.ai/jobs/info/6934f064f131d96e4846c1b9?utm_campaign=1057&utm_source=git)** | Jacksonville, AL | On Site | Dec 06 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/6934da8f764507023d1be1a4?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 06 |
 | **[Southwestern Michigan College](http://www.swmich.edu/)** | **[Director of Advanced Technology & Industry Engagement](https://jobright.ai/jobs/info/6934d247764507023d1be023?utm_campaign=1057&utm_source=git)** | Dowagiac, MI | On Site | Dec 06 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/6934b7a2f131d96e4846b892?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 06 |
@@ -97,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT CORPORATE HEALTH & SAFETY](https://jobright.ai/jobs/info/691ab4f115b4156367189fa9?utm_campaign=1057&utm_source=git)** | New Braunfels, TX | On Site | Dec 06 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Sheppard Pratt School - Rockville) 2026 Mental Health Counseling/Social Work Fieldwork](https://jobright.ai/jobs/info/68e04c12f758fe1f97e4c13f?utm_campaign=1057&utm_source=git)** | Rockville, MD | On Site | Dec 06 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Assistant Professor - International Studies](https://jobright.ai/jobs/info/693441c9764507023d1bc7ba?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Dec 06 |
+| **[Rural King](https://www.ruralking.com)** | **[Internship - IT - Summer 2026](https://jobright.ai/jobs/info/68e035d11852e62f007e8bbb?utm_campaign=1057&utm_source=git)** | Mattoon, IL | On Site | Dec 06 |
 | **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Summer 2026 Learning & Engagement Internship](https://jobright.ai/jobs/info/6917bfee45fb6f5ead89e3ec?utm_campaign=1057&utm_source=git)** | Bentonville, AR | On Site | Dec 06 |
 | ↳ | **[Art Bridges Academic Year 2026-27 Learning & Engagement Internship](https://jobright.ai/jobs/info/6917c3e245fb6f5ead89e6b8?utm_campaign=1057&utm_source=git)** | Bentonville, AR | On Site | Dec 06 |
 | **[Family Service of Rhode Island](https://www.familyserviceri.org/)** | **[Best Start Clinical Intern](https://jobright.ai/jobs/info/69343406f131d96e48469f3c?utm_campaign=1057&utm_source=git)** | Providence, RI, USA | On Site | Dec 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/69335eaea0dde7020e2ed1aa?utm_campaign=1057&utm_source=git)** | Poughkeepsie, AR | Hybrid | Dec 05 |
 | ↳ | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/69337419764507023d1b5d7e?utm_campaign=1057&utm_source=git)** | Rochester, MN | Hybrid | Dec 05 |
 | ↳ | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/6933730bf131d96e484637b7?utm_campaign=1057&utm_source=git)** | Austin, TX | Hybrid | Dec 05 |
-| **[University of South Florida](http://www.usf.edu)** | **[Student Intern - USFTGP](https://jobright.ai/jobs/info/69335b76764507023d1b4bda?utm_campaign=1057&utm_source=git)** | TGH Main Campus1 Tampa General Circle | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
