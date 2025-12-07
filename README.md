@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/6935bc57a0dde7020e2f9475?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Dec 07 |
+| **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Leadership Development Program (MBA)](https://jobright.ai/jobs/info/68a8f5696acf96396f723d43?utm_campaign=1057&utm_source=git)** | Midland, MI | On Site | Dec 07 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Assistant, Center for Teaching and Learning, Tahlequah](https://jobright.ai/jobs/info/69359fae764507023d1c0d08?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Dec 07 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[2026 Summer Intern - Credit Underwriting & Administration (Hybrid - Raleigh, NC)](https://jobright.ai/jobs/info/68fc3fc84129dd33cd13a25e?utm_campaign=1057&utm_source=git)** | Raleigh, NC | Hybrid | Dec 07 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[BBraun PA Environment Health Safety/Security Intern (Summer 2026)](https://jobright.ai/jobs/info/6919e605bcdbf3560c9d7793?utm_campaign=1057&utm_source=git)** | Allentown, PA | On Site | Dec 07 |
@@ -84,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[ALFA-Asian American Leadership in Financial Services Alliance](https://alfa-us.org)** | **[Intern (Manderian Speaker)](https://jobright.ai/jobs/info/693505df764507023d1bed2f?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 06 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/6934da8f764507023d1be1a4?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 06 |
 | **[Southwestern Michigan College](http://www.swmich.edu/)** | **[Director of Advanced Technology & Industry Engagement](https://jobright.ai/jobs/info/6934d247764507023d1be023?utm_campaign=1057&utm_source=git)** | Dowagiac, MI | On Site | Dec 06 |
-| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Art Teacher & Intern - Elementary](https://jobright.ai/jobs/info/6934b76af131d96e4846b87b?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 06 |
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern -Major League Athletic Trainer](https://jobright.ai/jobs/info/6934b20fa0dde7020e2f6275?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | Dec 06 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/6934b20aa0dde7020e2f6272?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Dec 06 |
 | **[Prairie View A&M University](http://pvam.edu)** | **[Extension Program Specialist II (Workforce Development)](https://jobright.ai/jobs/info/6934a87cf131d96e4846b67e?utm_campaign=1057&utm_source=git)** | Prairie View, TX | On Site | Dec 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2026 Portfolio Management, Technology - Phoenix, AZ](https://jobright.ai/jobs/info/69338537a0dde7020e2eed0c?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 05 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/69337da4a0dde7020e2ee873?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 05 |
 | ↳ | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/693388b6f131d96e484642ae?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 05 |
-| ↳ | **[2025/2026 - Art Teacher & Intern - Secondary](https://jobright.ai/jobs/info/693387d2764507023d1b6877?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
