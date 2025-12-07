@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/6934b7a2f131d96e4846b892?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 06 |
+| ↳ | **[2025/2026 - Science Specialist Teacher and Interns - Elementary](https://jobright.ai/jobs/info/6934b79bf131d96e4846b88f?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 06 |
+| ↳ | **[2025/2026 - Art Teacher & Intern - Elementary](https://jobright.ai/jobs/info/6934b76af131d96e4846b87b?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 06 |
+| ↳ | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/6934b745f131d96e4846b865?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 06 |
+| **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern -Major League Athletic Trainer](https://jobright.ai/jobs/info/6934b20fa0dde7020e2f6275?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | Dec 06 |
+| **[Prairie View A&M University](http://pvam.edu)** | **[Extension Program Specialist II (Workforce Development)](https://jobright.ai/jobs/info/6934a87cf131d96e4846b67e?utm_campaign=1057&utm_source=git)** | Prairie View, TX | On Site | Dec 06 |
 | **[St. Louis Community College](https://www.stlcc.edu)** | **[Faculty- Child & Family Development, Temporary](https://jobright.ai/jobs/info/6934a5f7a0dde7020e2f60a8?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Dec 06 |
 | **[Northwestern Memorial Hospital](https://www.nm.org/locations/northwestern-memorial-hospital)** | **[Pre-PA Gap Year Internship 2026-2027](https://jobright.ai/jobs/info/6934941aa0dde7020e2f5d88?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 06 |
 | ↳ | **[Student Nurse Intern Program - Summer 2026](https://jobright.ai/jobs/info/6934912fa0dde7020e2f5ccd?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 06 |
@@ -127,6 +133,7 @@ For a complete list, click the following sortable link below:
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2026 Portfolio Management, Technology - Phoenix, AZ](https://jobright.ai/jobs/info/69338537a0dde7020e2eed0c?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 05 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/69337da4a0dde7020e2ee873?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 05 |
 | ↳ | **[2025/2026 - Art Teacher & Intern - Elementary](https://jobright.ai/jobs/info/6933894cf131d96e48464312?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 05 |
+| ↳ | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/693388b6f131d96e484642ae?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 05 |
 | ↳ | **[2025/2026 - Art Teacher & Intern - Secondary](https://jobright.ai/jobs/info/693387d2764507023d1b6877?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 05 |
 | **[Endeavor Health](https://www.endeavorhealth.org)** | **[GCSI Summer Internship Program](https://jobright.ai/jobs/info/6933756af131d96e48463930?utm_campaign=1057&utm_source=git)** | EVH Evanston Hospital | On Site | Dec 05 |
 | **[VML HEALTH](http://vml.com)** | **[Detroit Experience Studio Intern](https://jobright.ai/jobs/info/69337a73764507023d1b61f2?utm_campaign=1057&utm_source=git)** | Detroit, Michigan, United States | On Site | Dec 05 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arizona State University](http://www.asu.edu)** | **[Management Intern- Classroom Support](https://jobright.ai/jobs/info/69336639a0dde7020e2ed77c?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 05 |
 | **[World Relief](https://worldrelief.org/)** | **[ESL Literacy Teaching Assistant Intern](https://jobright.ai/jobs/info/693091074c474121999e61c4?utm_campaign=1057&utm_source=git)** | Sacramento, CA | Hybrid | Dec 05 |
 | **[Meridian Health](https://www.meridianhealth.com)** | **[Masters Level Intern 6775](https://jobright.ai/jobs/info/69335038764507023d1b412f?utm_campaign=1057&utm_source=git)** | Muncie, IN | On Site | Dec 05 |
-| **[Silicon Labs](https://silabs.com/)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/693358ddf131d96e484624b5?utm_campaign=1057&utm_source=git)** | Austin | On Site | Dec 05 |
-| **[Northwestern Medicine](http://nm.org)** | **[Pre-Psychology Undergraduate Intern Program - Summer 2026](https://jobright.ai/jobs/info/6933534aa0dde7020e2eca77?utm_campaign=1057&utm_source=git)** | 251 E Huron St, Chicago, IL 60611, USA | On Site | Dec 05 |
-| ↳ | **[Pre-Med Undergraduate Intern Program - Summer 2026](https://jobright.ai/jobs/info/69334c07a0dde7020e2ec4e3?utm_campaign=1057&utm_source=git)** | 251 E Huron St, Chicago, IL 60611, USA | On Site | Dec 05 |
-| ↳ | **[Student Nurse Intern Program - Summer 2026](https://jobright.ai/jobs/info/69335074764507023d1b416f?utm_campaign=1057&utm_source=git)** | Various locations, Chicagoland, ILLINOIS | On Site | Dec 05 |
-| ↳ | **[Pre-Med Gap Year Internship 2026-2027](https://jobright.ai/jobs/info/69335497a0dde7020e2ecb55?utm_campaign=1057&utm_source=git)** | Various Locations, Chicago, United States | On Site | Dec 05 |
-| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Instructional Design (Dealer Services)](https://jobright.ai/jobs/info/68dc31fd66059a42a715c668?utm_campaign=1057&utm_source=git)** | Arlington, TX | Hybrid | Dec 05 |
-| **[Flywheel Centers](www.flywheelcenters.com)** | **[Lead Behavior Technician/BCBA Intern](https://jobright.ai/jobs/info/6933a27ea0dde7020e2eff43?utm_campaign=1057&utm_source=git)** | Edison,NJ,US | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
