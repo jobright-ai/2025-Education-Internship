@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Valorantum Capital](valorantumcapital.us)** | **[Corporate Trainee Program Internship](https://jobright.ai/jobs/info/6935d285f131d96e4846f190?utm_campaign=1057&utm_source=git)** | Sussex, WI | Remote | Dec 07 |
+| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Trading Internship](https://jobright.ai/jobs/info/6935c931f131d96e4846f00b?utm_campaign=1057&utm_source=git)** | Illinois, United States | On Site | Dec 07 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/6935bc57a0dde7020e2f9475?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Dec 07 |
 | **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Leadership Development Program (MBA)](https://jobright.ai/jobs/info/68a8f5696acf96396f723d43?utm_campaign=1057&utm_source=git)** | Midland, MI | On Site | Dec 07 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Assistant, Center for Teaching and Learning, Tahlequah](https://jobright.ai/jobs/info/69359fae764507023d1c0d08?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Dec 07 |
@@ -67,6 +69,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Adjunct Faculty-Masters of Arts in International Disaster Psychology: Trauma and Global Mental Healt](https://jobright.ai/jobs/info/69358c38a0dde7020e2f8f1a?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Dec 07 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - Philadelphia (48518)](https://jobright.ai/jobs/info/68ce6c38dbd9fb154eddf76c?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Dec 07 |
 | ↳ | **[Future Leaders Program Summer 2026 - Chicago (48514)](https://jobright.ai/jobs/info/68cc4aea16d00d2beeb1d243?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 07 |
+| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/69358707f131d96e4846e7bd?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 07 |
 | **[Cintas Canada](https://www.cintas.ca/)** | **[Intern](https://jobright.ai/jobs/info/6918a0f2bcdbf3560c9d302d?utm_campaign=1057&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 07 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - Woodland Hills (48519)](https://jobright.ai/jobs/info/68ce6c75846f0b04af679b5a?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Dec 07 |
 | **[State of Missouri](http://mo.gov)** | **[Vocational Rehabilitation Counselor Intern](https://jobright.ai/jobs/info/690d039e4a1b456627b1c8f4?utm_campaign=1057&utm_source=git)** | Missouri, United States | On Site | Dec 07 |
@@ -84,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Highmark](https://www.highmark.com)** | **[Summer 2026 Provider Information Management Undergraduate Intern](https://jobright.ai/jobs/info/6921824a3f782d2f1afd291d?utm_campaign=1057&utm_source=git)** | Camp Hill, PA | On Site | Dec 07 |
 | **[Clemson University MBA Programs](https://www.clemson.edu/business/departments/mba/)** | **[Open Rank Faculty - Small Animal Internal Medicine - Harvey S. Peeler Jr. College of Veterinary Medicine](https://jobright.ai/jobs/info/69353faba0dde7020e2f809c?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | On Site | Dec 07 |
 | **[ALFA-Asian American Leadership in Financial Services Alliance](https://alfa-us.org)** | **[Intern (Manderian Speaker)](https://jobright.ai/jobs/info/693505df764507023d1bed2f?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 06 |
-| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/6934da8f764507023d1be1a4?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 06 |
 | **[Southwestern Michigan College](http://www.swmich.edu/)** | **[Director of Advanced Technology & Industry Engagement](https://jobright.ai/jobs/info/6934d247764507023d1be023?utm_campaign=1057&utm_source=git)** | Dowagiac, MI | On Site | Dec 06 |
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern -Major League Athletic Trainer](https://jobright.ai/jobs/info/6934b20fa0dde7020e2f6275?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | Dec 06 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/6934b20aa0dde7020e2f6272?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Dec 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Excel Academy Charter Schools](https://www.excelacademy.org/)** | **[School Counseling Intern](https://jobright.ai/jobs/info/69339866f131d96e48464ba6?utm_campaign=1057&utm_source=git)** | High School Campus, East Boston, MA | On Site | Dec 05 |
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Intern Administrative High School](https://jobright.ai/jobs/info/69336612764507023d1b5366?utm_campaign=1057&utm_source=git)** | Remote Location | Remote | Dec 05 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2026 Portfolio Management, Technology - Phoenix, AZ](https://jobright.ai/jobs/info/69338537a0dde7020e2eed0c?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 05 |
-| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/69337da4a0dde7020e2ee873?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 05 |
-| ↳ | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/693388b6f131d96e484642ae?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
