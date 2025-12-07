@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ALFA-Asian American Leadership in Financial Services Alliance](https://alfa-us.org)** | **[Intern (Manderian Speaker)](https://jobright.ai/jobs/info/693505df764507023d1bed2f?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 06 |
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[Graduate Administrative Assistant - Vice Provost for Student Success (Fall 2025 - Spring 2026)](https://jobright.ai/jobs/info/6934f064f131d96e4846c1b9?utm_campaign=1057&utm_source=git)** | Jacksonville, AL | On Site | Dec 06 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/6934da8f764507023d1be1a4?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 06 |
 | **[Southwestern Michigan College](http://www.swmich.edu/)** | **[Director of Advanced Technology & Industry Engagement](https://jobright.ai/jobs/info/6934d247764507023d1be023?utm_campaign=1057&utm_source=git)** | Dowagiac, MI | On Site | Dec 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/69335eaea0dde7020e2ed1aa?utm_campaign=1057&utm_source=git)** | Poughkeepsie, AR | Hybrid | Dec 05 |
 | ↳ | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/69337419764507023d1b5d7e?utm_campaign=1057&utm_source=git)** | Rochester, MN | Hybrid | Dec 05 |
 | ↳ | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/6933730bf131d96e484637b7?utm_campaign=1057&utm_source=git)** | Austin, TX | Hybrid | Dec 05 |
-| **[University of South Florida](http://www.usf.edu)** | **[Student Intern - USFTGP](https://jobright.ai/jobs/info/69335b76764507023d1b4bda?utm_campaign=1057&utm_source=git)** | TGH Main Campus1 Tampa General Circle | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
