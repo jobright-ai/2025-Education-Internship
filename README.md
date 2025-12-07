@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Valorantum Capital](valorantumcapital.us)** | **[Corporate Trainee Program Internship](https://jobright.ai/jobs/info/6935d285f131d96e4846f190?utm_campaign=1057&utm_source=git)** | Sussex, WI | Remote | Dec 07 |
-| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Trading Internship](https://jobright.ai/jobs/info/6935c931f131d96e4846f00b?utm_campaign=1057&utm_source=git)** | Illinois, United States | On Site | Dec 07 |
+| **[Sandstone Care](https://www.sandstonecare.com)** | **[Clinical Internship](https://jobright.ai/jobs/info/69126ed0ea9ab01b82bf29ec?utm_campaign=1057&utm_source=git)** | Sandstone Care - Cascade, Colorado | On Site | Dec 07 |
+| **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment  Program Development Specialist Intern (CAM) (NFWS)](https://jobright.ai/jobs/info/6935e25df131d96e4846f3df?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Dec 07 |
+| **[Valorantum Capital](valorantumcapital.us)** | **[Corporate Trainee Program Internship](https://jobright.ai/jobs/info/6935cdcf764507023d1c113a?utm_campaign=1057&utm_source=git)** | Sussex, WI | Remote | Dec 07 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/6935bc57a0dde7020e2f9475?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Dec 07 |
 | **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Leadership Development Program (MBA)](https://jobright.ai/jobs/info/68a8f5696acf96396f723d43?utm_campaign=1057&utm_source=git)** | Midland, MI | On Site | Dec 07 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Assistant, Center for Teaching and Learning, Tahlequah](https://jobright.ai/jobs/info/69359fae764507023d1c0d08?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Dec 07 |
@@ -80,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Harris](https://www.harriscompany.com/)** | **[Purchasing Intern](https://jobright.ai/jobs/info/68e07e92f758fe1f97e4d9f3?utm_campaign=1057&utm_source=git)** | St Paul, MN | On Site | Dec 07 |
 | **[Rush University Medical Center](https://www.rush.edu/)** | **[Physician -General Internal Medicine - Rush University Internist (RUI)-20629](https://jobright.ai/jobs/info/688ab37709808a6103e50adb?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 07 |
 | ↳ | **[Physician - General Internal Medicine - Chicago Suburbs (Oak Park)-18884](https://jobright.ai/jobs/info/68ce5b75846f0b04af6790a4?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 07 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/69356d60f131d96e4846e483?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Dec 07 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Education Intern](https://jobright.ai/jobs/info/68c4c3367279451d6a0377fe?utm_campaign=1057&utm_source=git)** | Prior Lake, MN | On Site | Dec 07 |
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[Education Intern](https://jobright.ai/jobs/info/68c4db4f7279451d6a0383d3?utm_campaign=1057&utm_source=git)** | Prior Lake, MN | On Site | Dec 07 |
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[SAN ANTONIO - Transportation, Internship](https://jobright.ai/jobs/info/68e03c351852e62f007e916c?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Dec 07 |
@@ -118,7 +118,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Summer Internship Maui](https://jobright.ai/jobs/info/69344745a0dde7020e2f4f5b?utm_campaign=1057&utm_source=git)** | Kahului, HI | On Site | Dec 06 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT CORPORATE HEALTH & SAFETY](https://jobright.ai/jobs/info/691ab4f115b4156367189fa9?utm_campaign=1057&utm_source=git)** | New Braunfels, TX | On Site | Dec 06 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Sheppard Pratt School - Rockville) 2026 Mental Health Counseling/Social Work Fieldwork](https://jobright.ai/jobs/info/68e04c12f758fe1f97e4c13f?utm_campaign=1057&utm_source=git)** | Rockville, MD | On Site | Dec 06 |
-| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Assistant Professor - International Studies](https://jobright.ai/jobs/info/693441c9764507023d1bc7ba?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Dec 06 |
 | **[Rural King](https://www.ruralking.com)** | **[Internship - IT - Summer 2026](https://jobright.ai/jobs/info/68e035d11852e62f007e8bbb?utm_campaign=1057&utm_source=git)** | Mattoon, IL | On Site | Dec 06 |
 | **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Summer 2026 Learning & Engagement Internship](https://jobright.ai/jobs/info/6917bfee45fb6f5ead89e3ec?utm_campaign=1057&utm_source=git)** | Bentonville, AR | On Site | Dec 06 |
 | ↳ | **[Art Bridges Academic Year 2026-27 Learning & Engagement Internship](https://jobright.ai/jobs/info/6917c3e245fb6f5ead89e6b8?utm_campaign=1057&utm_source=git)** | Bentonville, AR | On Site | Dec 06 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Excel Academy Charter Schools](https://www.excelacademy.org/)** | **[School Counseling Intern](https://jobright.ai/jobs/info/69339866f131d96e48464ba6?utm_campaign=1057&utm_source=git)** | High School Campus, East Boston, MA | On Site | Dec 05 |
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Intern Administrative High School](https://jobright.ai/jobs/info/69336612764507023d1b5366?utm_campaign=1057&utm_source=git)** | Remote Location | Remote | Dec 05 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2026 Portfolio Management, Technology - Phoenix, AZ](https://jobright.ai/jobs/info/69338537a0dde7020e2eed0c?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 05 |
+| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/69337da4a0dde7020e2ee873?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
