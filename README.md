@@ -118,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Neuro Cardio - APP - Internal Medicine](https://jobright.ai/jobs/info/6933efac764507023d1bacfa?utm_campaign=1057&utm_source=git)** | Florida, United States | On Site | Dec 05 |
 | **[Northshore Home Health Care](http://www.northshorehomehealth.com)** | **[Nurse Extern - Nursing Internship - PRN](https://jobright.ai/jobs/info/6934ce21a0dde7020e2f64ed?utm_campaign=1057&utm_source=git)** | Forest Hill, LA | On Site | Dec 05 |
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af3a9f1f0a2a568a05fdf8?utm_campaign=1057&utm_source=git)** | Orange, California, United States | On Site | Dec 05 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Assistant, Center for Teaching and Learning, Tahlequah](https://jobright.ai/jobs/info/6933af4ba0dde7020e2f0854?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Dec 05 |
 | **[United Tribes Technical College](http://www.uttc.edu/)** | **[Vice President of Academic Affairs – Closes December 19, 2025 at 5:00 PM](https://jobright.ai/jobs/info/6933d0aca0dde7020e2f2266?utm_campaign=1057&utm_source=git)** | Bismarck, ND | On Site | Dec 05 |
 | **[Hyatt Regency](http://www.regency.hyatt.com/)** | **[J1 Intern/Trainee Program](https://jobright.ai/jobs/info/69339d24f131d96e48464e1e?utm_campaign=1057&utm_source=git)** | Incline Village, NV | On Site | Dec 05 |
 | **[Verdantas](https://www.verdantas.com)** | **[Intern](https://jobright.ai/jobs/info/69339c9ef131d96e48464de0?utm_campaign=1057&utm_source=git)** | Wilkes-Barre, PA | Hybrid | Dec 05 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/69335eaea0dde7020e2ed1aa?utm_campaign=1057&utm_source=git)** | Poughkeepsie, AR | Hybrid | Dec 05 |
 | ↳ | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/69337419764507023d1b5d7e?utm_campaign=1057&utm_source=git)** | Rochester, MN | Hybrid | Dec 05 |
 | ↳ | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/6933730bf131d96e484637b7?utm_campaign=1057&utm_source=git)** | Austin, TX | Hybrid | Dec 05 |
+| **[University of South Florida](http://www.usf.edu)** | **[Student Intern - USFTGP](https://jobright.ai/jobs/info/69335b76764507023d1b4bda?utm_campaign=1057&utm_source=git)** | TGH Main Campus1 Tampa General Circle | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
