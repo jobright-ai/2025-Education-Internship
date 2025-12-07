@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Education Intern](https://jobright.ai/jobs/info/68c4c3367279451d6a0377fe?utm_campaign=1057&utm_source=git)** | Prior Lake, MN | On Site | Dec 07 |
+| **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[Education Intern](https://jobright.ai/jobs/info/68c4db4f7279451d6a0383d3?utm_campaign=1057&utm_source=git)** | Prior Lake, MN | On Site | Dec 07 |
+| **[BGE, Inc.](https://www.bgeinc.com)** | **[SAN ANTONIO - Transportation, Internship](https://jobright.ai/jobs/info/68e03c351852e62f007e916c?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Dec 07 |
+| **[Highmark](https://www.highmark.com)** | **[Summer 2026 Provider Information Management Undergraduate Intern](https://jobright.ai/jobs/info/6921824a3f782d2f1afd291d?utm_campaign=1057&utm_source=git)** | Camp Hill, PA | On Site | Dec 07 |
 | **[Clemson University MBA Programs](https://www.clemson.edu/business/departments/mba/)** | **[Open Rank Faculty - Small Animal Internal Medicine - Harvey S. Peeler Jr. College of Veterinary Medicine](https://jobright.ai/jobs/info/69353faba0dde7020e2f809c?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | On Site | Dec 07 |
 | **[ALFA-Asian American Leadership in Financial Services Alliance](https://alfa-us.org)** | **[Intern (Manderian Speaker)](https://jobright.ai/jobs/info/693505df764507023d1bed2f?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 06 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/6934da8f764507023d1be1a4?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 06 |
@@ -128,7 +132,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Co-Occurring IOP/OP Program Intern](https://jobright.ai/jobs/info/6933befbf131d96e48466b40?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Dec 05 |
 | **[Nantahala Outdoor Center](http://noc.com)** | **[International Experience Coordinator - Internship](https://jobright.ai/jobs/info/69338529f131d96e48464080?utm_campaign=1057&utm_source=git)** | Bryson City, NC, US | On Site | Dec 05 |
 | **[Tampa General Hospital](https://www.tgh.org)** | **[Student Intern - USFTGP](https://jobright.ai/jobs/info/69337f81f131d96e48463dd9?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Dec 05 |
-| **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Intern Administrative High School](https://jobright.ai/jobs/info/69339db3a0dde7020e2efa52?utm_campaign=1057&utm_source=git)** | Cleveland, OH | Remote | Dec 05 |
 | **[API - American Petroleum Institute](http://www.api.org)** | **[GIS Training Intern](https://jobright.ai/jobs/info/69339993a0dde7020e2ef8c6?utm_campaign=1057&utm_source=git)** | Washington, DC, US | On Site | Dec 05 |
 | **[Children's Home Society of Florida](https://chsfl.org)** | **[Clinical Counselor Registered Intern](https://jobright.ai/jobs/info/693398fdf131d96e48464bf6?utm_campaign=1057&utm_source=git)** | Jacksonville, FL 32207, USA | Hybrid | Dec 05 |
 | **[Meijer](https://www.meijer.com/)** | **[Pharmacy Grad Intern](https://jobright.ai/jobs/info/693375f1764507023d1b5ee4?utm_campaign=1057&utm_source=git)** | Danville, IL | On Site | Dec 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/6933b61e764507023d1b88b9?utm_campaign=1057&utm_source=git)** | New York, United States | On Site | Dec 05 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Conservation Leadership Initiative (CLI) Intern](https://jobright.ai/jobs/info/69333fccf131d96e484611d8?utm_campaign=1057&utm_source=git)** | Audubon, FL | On Site | Dec 05 |
 | **[Houston Methodist](http://www.houstonmethodist.org/)** | **[Student Intern (Center of Innovation)](https://jobright.ai/jobs/info/6933639a764507023d1b5257?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Dec 05 |
-| **[IBM](http://www.ibm.com)** | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/69335eaea0dde7020e2ed1aa?utm_campaign=1057&utm_source=git)** | Poughkeepsie, AR | Hybrid | Dec 05 |
-| ↳ | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/69337419764507023d1b5d7e?utm_campaign=1057&utm_source=git)** | Rochester, MN | Hybrid | Dec 05 |
-| ↳ | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/6933730bf131d96e484637b7?utm_campaign=1057&utm_source=git)** | Austin, TX | Hybrid | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
