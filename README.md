@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Adjunct Faculty: Feminist International Relations](https://jobright.ai/jobs/info/6936f0e0aabec14a727c2ff7?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Dec 08 |
+| ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/6936ecc51c1c2161c13ef697?utm_campaign=1057&utm_source=git)** | Reston, VA | On Site | Dec 08 |
+| ↳ | **[Operations Training Manager, International](https://jobright.ai/jobs/info/6936e3d2a0dde7020e2fda75?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Dec 08 |
+| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/6936e05eaabec14a727c2aff?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 08 |
 | **[Unum](http://www.unum.com)** | **[Unum Scholar Intern - Columbia, SC](https://jobright.ai/jobs/info/68cbfd647342c7623ae5d018?utm_campaign=1057&utm_source=git)** | Columbia, SC | Hybrid | Dec 08 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - New York City (48517)](https://jobright.ai/jobs/info/68d021d9846f0b04af687d5a?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 08 |
 | **[Crest Vale](crestvale.us)** | **[Trading Internship](https://jobright.ai/jobs/info/6936af661c1c2161c13ee432?utm_campaign=1057&utm_source=git)** | Illinois, United States | On Site | Dec 08 |
@@ -69,10 +73,9 @@ For a complete list, click the following sortable link below:
 | **[Monroe Community College](http://www.monroecc.edu/)** | **[Federal Work Study, Student Employee, Global Education & International Services](https://jobright.ai/jobs/info/6936977fa0dde7020e2fc7d3?utm_campaign=1057&utm_source=git)** | Rochester, NY | On Site | Dec 08 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Neuro Cardio - APP - Internal Medicine](https://jobright.ai/jobs/info/69367d17a0dde7020e2fbf9d?utm_campaign=1057&utm_source=git)** | Florida, United States | On Site | Dec 07 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/69366060a0dde7020e2fb470?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Dec 07 |
-| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/69363b71764507023d1c1fa9?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 07 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/693612dd764507023d1c18ef?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 07 |
-| ↳ | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/6936070ea0dde7020e2f9c3a?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 07 |
 | ↳ | **[2025/2026 - Art Teacher & Intern - Secondary](https://jobright.ai/jobs/info/693606e0764507023d1c17be?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 07 |
+| **[EviaRx](Evia-rx.com)** | **[EviaRx™ PharmD Candidate Internship](https://jobright.ai/jobs/info/6936cd421c1c2161c13eec51?utm_campaign=1057&utm_source=git)** | Chicago, IL | Remote | Dec 07 |
 | **[Sandstone Care](https://www.sandstonecare.com)** | **[Clinical Internship](https://jobright.ai/jobs/info/69126ed0ea9ab01b82bf29ec?utm_campaign=1057&utm_source=git)** | Sandstone Care - Cascade, Colorado | On Site | Dec 07 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment  Program Development Specialist Intern (CAM) (NFWS)](https://jobright.ai/jobs/info/6935e25df131d96e4846f3df?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Dec 07 |
 | **[Valorantum Capital](valorantumcapital.us)** | **[Corporate Trainee Program Internship](https://jobright.ai/jobs/info/6935d285f131d96e4846f190?utm_campaign=1057&utm_source=git)** | Sussex, WI | Remote | Dec 07 |
@@ -83,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[2026 Summer Intern - Credit Underwriting & Administration (Hybrid - Raleigh, NC)](https://jobright.ai/jobs/info/68fc3fc84129dd33cd13a25e?utm_campaign=1057&utm_source=git)** | Raleigh, NC | Hybrid | Dec 07 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[BBraun PA Environment Health Safety/Security Intern (Summer 2026)](https://jobright.ai/jobs/info/6919e605bcdbf3560c9d7793?utm_campaign=1057&utm_source=git)** | Allentown, PA | On Site | Dec 07 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Assistant Director, International Programs & Study Abroad, Haslam College of Business - UTK](https://jobright.ai/jobs/info/69358f07764507023d1c0aa6?utm_campaign=1057&utm_source=git)** | Knoxville, TN | On Site | Dec 07 |
-| ↳ | **[Political Science Adjunct Spring 2026 (International Relations)](https://jobright.ai/jobs/info/69358d1ba0dde7020e2f8f42?utm_campaign=1057&utm_source=git)** | West Trenton, NJ | On Site | Dec 07 |
 | ↳ | **[Adjunct Faculty-Masters of Arts in International Disaster Psychology: Trauma and Global Mental Healt](https://jobright.ai/jobs/info/69358c38a0dde7020e2f8f1a?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Dec 07 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - Philadelphia (48518)](https://jobright.ai/jobs/info/68ce6c38dbd9fb154eddf76c?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Dec 07 |
 | ↳ | **[Future Leaders Program Summer 2026 - Chicago (48514)](https://jobright.ai/jobs/info/68cc4aea16d00d2beeb1d243?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[IMA Select Intern - Summer 2026](https://jobright.ai/jobs/info/6930fa1a4c474121999eae3c?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Dec 06 |
 | **[IDS Health, Inc](https://www.linkedin.com/company/107901732)** | **[Speech-Language Pathologist or CF Intern](https://jobright.ai/jobs/info/6934a4cff131d96e4846b5f9?utm_campaign=1057&utm_source=git)** | Big Spring, TX | On Site | Dec 06 |
 | **[Lincoln Memorial University](http://www.lmunet.edu/)** | **[Asst/Assoc Prof of Fam Med, Internal Med, Sports Med/Omm](https://jobright.ai/jobs/info/69340603a0dde7020e2f3c46?utm_campaign=1057&utm_source=git)** | Harrogate, TN | On Site | Dec 06 |
-| **[Northshore Home Health Care](http://www.northshorehomehealth.com)** | **[Nurse Extern - Nursing Internship - PRN](https://jobright.ai/jobs/info/6934ce21a0dde7020e2f64ed?utm_campaign=1057&utm_source=git)** | Forest Hill, LA | On Site | Dec 05 |
-| **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af3a9f1f0a2a568a05fdf8?utm_campaign=1057&utm_source=git)** | Orange, California, United States | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
