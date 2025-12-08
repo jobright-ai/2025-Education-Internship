@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crest Vale](crestvale.us)** | **[Trading Internship](https://jobright.ai/jobs/info/693722e31c1c2161c13f0d86?utm_campaign=1057&utm_source=git)** | Illinois, United States | On Site | Dec 08 |
+| **[Court Appointed Special Advocates (CASA)/ Prince George's County](http://www.pgcasa.org)** | **[Community Impact Volunteer / Intern](https://jobright.ai/jobs/info/693720751c1c2161c13f0c65?utm_campaign=1057&utm_source=git)** | Riverdale, MD | On Site | Dec 08 |
+| **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af3a9f1f0a2a568a05fdf8?utm_campaign=1057&utm_source=git)** | Orange, California, United States | On Site | Dec 08 |
 | **[Planned Parenthood of Maryland Inc.](http://www.plannedparenthood.org/maryland)** | **[College Internship: School-based Health Education Liaison](https://jobright.ai/jobs/info/69370de81c1c2161c13f0404?utm_campaign=1057&utm_source=git)** | 330 N. Howard Street, Baltimore, MD 21201 | On Site | Dec 08 |
 | **[U.S. Green Building Council](http://www.usgbc.org)** | **[Healthy Schools Research Intern (Part-Time-- $20 to $25/hr)](https://jobright.ai/jobs/info/691f706fa49a885af9a2fdb7?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Dec 08 |
+| **[University of Illinois Chicago (UIC) School of Public Health](https://publichealth.uic.edu)** | **[Visiting Research Associate I - Division of Academic Internal Medicine and Geriatrics](https://jobright.ai/jobs/info/693726f1aabec14a727c47ad?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 08 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Temporary Summer Education Intern](https://jobright.ai/jobs/info/6936fc1b1c1c2161c13efd19?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Dec 08 |
+| **[Housing Works](http://www.housingworks.org)** | **[Internship Supervisor](https://jobright.ai/jobs/info/69371ad91c1c2161c13f0929?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 08 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Adjunct Faculty: Feminist International Relations](https://jobright.ai/jobs/info/6936f0e0aabec14a727c2ff7?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Dec 08 |
 | ↳ | **[Admissions Advisor Intern](https://jobright.ai/jobs/info/6936ecc51c1c2161c13ef697?utm_campaign=1057&utm_source=git)** | Reston, VA | On Site | Dec 08 |
 | ↳ | **[Operations Training Manager, International](https://jobright.ai/jobs/info/6936e3d2a0dde7020e2fda75?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Dec 08 |
@@ -77,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Neuro Cardio - APP - Internal Medicine](https://jobright.ai/jobs/info/69367d17a0dde7020e2fbf9d?utm_campaign=1057&utm_source=git)** | Florida, United States | On Site | Dec 07 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/69366060a0dde7020e2fb470?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Dec 07 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/693612dd764507023d1c18ef?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 07 |
-| ↳ | **[2025/2026 - Art Teacher & Intern - Secondary](https://jobright.ai/jobs/info/693606e0764507023d1c17be?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 07 |
 | **[EviaRx](Evia-rx.com)** | **[EviaRx™ PharmD Candidate Internship](https://jobright.ai/jobs/info/6936cd421c1c2161c13eec51?utm_campaign=1057&utm_source=git)** | Chicago, IL | Remote | Dec 07 |
 | **[Sandstone Care](https://www.sandstonecare.com)** | **[Clinical Internship](https://jobright.ai/jobs/info/69126ed0ea9ab01b82bf29ec?utm_campaign=1057&utm_source=git)** | Sandstone Care - Cascade, Colorado | On Site | Dec 07 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment  Program Development Specialist Intern (CAM) (NFWS)](https://jobright.ai/jobs/info/6935e25df131d96e4846f3df?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Dec 07 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PARKVIEW HEALTH SYSTEM INC](https://www.parkview.com/)** | **[Orthopedic Service Line Summer Clinical Intern](https://jobright.ai/jobs/info/69343c41f131d96e4846a0ad?utm_campaign=1057&utm_source=git)** | Fort Wayne, IN | On Site | Dec 06 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Learning Management Systems Intern](https://jobright.ai/jobs/info/68a7775f33dd7158bbca776f?utm_campaign=1057&utm_source=git)** | Strongsville, OH | On Site | Dec 06 |
 | **[Gaylor Electric, Inc.](https://www.gaylor.com/)** | **[College Craft Internship (Atlanta, Summer 2026)](https://jobright.ai/jobs/info/6916b29a286ccf0a15138ba4?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Dec 06 |
-| **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Risk Management and Insurance Internship - Summer 2026 (Dallas, TX)](https://jobright.ai/jobs/info/68d62c52894705799a2e8559?utm_campaign=1057&utm_source=git)** | Richardson, TX | On Site | Dec 06 |
-| **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6934053d764507023d1bb6cc?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 06 |
-| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[IMA Select Intern - Summer 2026](https://jobright.ai/jobs/info/6930fa1a4c474121999eae3c?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Dec 06 |
-| **[IDS Health, Inc](https://www.linkedin.com/company/107901732)** | **[Speech-Language Pathologist or CF Intern](https://jobright.ai/jobs/info/6934a4cff131d96e4846b5f9?utm_campaign=1057&utm_source=git)** | Big Spring, TX | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
