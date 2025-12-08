@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/69363b71764507023d1c1fa9?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 07 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Art Teacher & Intern - Elementary](https://jobright.ai/jobs/info/693613eef131d96e4846f988?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 07 |
 | ↳ | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/693612dd764507023d1c18ef?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 07 |
 | ↳ | **[2025/2026 - Science Specialist Teacher and Interns - Elementary](https://jobright.ai/jobs/info/693612d3764507023d1c18ea?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 07 |
@@ -67,7 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/6936013c764507023d1c1724?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Dec 07 |
 | **[Sandstone Care](https://www.sandstonecare.com)** | **[Clinical Internship](https://jobright.ai/jobs/info/69126ed0ea9ab01b82bf29ec?utm_campaign=1057&utm_source=git)** | Sandstone Care - Cascade, Colorado | On Site | Dec 07 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment  Program Development Specialist Intern (CAM) (NFWS)](https://jobright.ai/jobs/info/6935e25df131d96e4846f3df?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Dec 07 |
-| **[Valorantum Capital](valorantumcapital.us)** | **[Corporate Trainee Program Internship](https://jobright.ai/jobs/info/6935cdcf764507023d1c113a?utm_campaign=1057&utm_source=git)** | Sussex, WI | Remote | Dec 07 |
+| **[Valorantum Capital](valorantumcapital.us)** | **[Corporate Trainee Program Internship](https://jobright.ai/jobs/info/6935d285f131d96e4846f190?utm_campaign=1057&utm_source=git)** | Sussex, WI | Remote | Dec 07 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/6935bc57a0dde7020e2f9475?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Dec 07 |
 | **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Leadership Development Program (MBA)](https://jobright.ai/jobs/info/68a8f5696acf96396f723d43?utm_campaign=1057&utm_source=git)** | Midland, MI | On Site | Dec 07 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Assistant, Center for Teaching and Learning, Tahlequah](https://jobright.ai/jobs/info/69359fae764507023d1c0d08?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Dec 07 |
@@ -146,7 +147,6 @@ For a complete list, click the following sortable link below:
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[IMA Select Intern - Summer 2026](https://jobright.ai/jobs/info/6930fa1a4c474121999eae3c?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Dec 06 |
 | **[IDS Health, Inc](https://www.linkedin.com/company/107901732)** | **[Speech-Language Pathologist or CF Intern](https://jobright.ai/jobs/info/6934a4cff131d96e4846b5f9?utm_campaign=1057&utm_source=git)** | Big Spring, TX | On Site | Dec 06 |
 | **[Lincoln Memorial University](http://www.lmunet.edu/)** | **[Asst/Assoc Prof of Fam Med, Internal Med, Sports Med/Omm](https://jobright.ai/jobs/info/69340603a0dde7020e2f3c46?utm_campaign=1057&utm_source=git)** | Harrogate, TN | On Site | Dec 06 |
-| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Neuro Cardio - APP - Internal Medicine](https://jobright.ai/jobs/info/6933efac764507023d1bacfa?utm_campaign=1057&utm_source=git)** | Florida, United States | On Site | Dec 05 |
 | **[Northshore Home Health Care](http://www.northshorehomehealth.com)** | **[Nurse Extern - Nursing Internship - PRN](https://jobright.ai/jobs/info/6934ce21a0dde7020e2f64ed?utm_campaign=1057&utm_source=git)** | Forest Hill, LA | On Site | Dec 05 |
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af3a9f1f0a2a568a05fdf8?utm_campaign=1057&utm_source=git)** | Orange, California, United States | On Site | Dec 05 |
 | **[United Tribes Technical College](http://www.uttc.edu/)** | **[Vice President of Academic Affairs – Closes December 19, 2025 at 5:00 PM](https://jobright.ai/jobs/info/6933d0aca0dde7020e2f2266?utm_campaign=1057&utm_source=git)** | Bismarck, ND | On Site | Dec 05 |
