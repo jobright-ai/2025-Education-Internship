@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Utah Valley University](http://www.uvu.edu/)** | **[Student - PE Issue Room (2026-2027)](https://jobright.ai/jobs/info/6936a0e244eb324fb785ccb8?utm_campaign=1057&utm_source=git)** | Orem, UT | On Site | Dec 08 |
+| **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-Public Safety Services-Foot Patrol](https://jobright.ai/jobs/info/69369dd3a0dde7020e2fc94c?utm_campaign=1057&utm_source=git)** | Huntsville, TX | On Site | Dec 08 |
+| **[Monroe Community College](http://www.monroecc.edu/)** | **[Federal Work Study, Student Employee, Global Education & International Services](https://jobright.ai/jobs/info/6936977fa0dde7020e2fc7d3?utm_campaign=1057&utm_source=git)** | Rochester, NY | On Site | Dec 08 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Neuro Cardio - APP - Internal Medicine](https://jobright.ai/jobs/info/69367d17a0dde7020e2fbf9d?utm_campaign=1057&utm_source=git)** | Florida, United States | On Site | Dec 07 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/69366060a0dde7020e2fb470?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Dec 07 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/69363b71764507023d1c1fa9?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 07 |
@@ -69,7 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/6936013c764507023d1c1724?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Dec 07 |
 | **[Sandstone Care](https://www.sandstonecare.com)** | **[Clinical Internship](https://jobright.ai/jobs/info/69126ed0ea9ab01b82bf29ec?utm_campaign=1057&utm_source=git)** | Sandstone Care - Cascade, Colorado | On Site | Dec 07 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment  Program Development Specialist Intern (CAM) (NFWS)](https://jobright.ai/jobs/info/6935e25df131d96e4846f3df?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Dec 07 |
-| **[Valorantum Capital](valorantumcapital.us)** | **[Corporate Trainee Program Internship](https://jobright.ai/jobs/info/6935cdcf764507023d1c113a?utm_campaign=1057&utm_source=git)** | Sussex, WI | Remote | Dec 07 |
+| **[Valorantum Capital](valorantumcapital.us)** | **[Corporate Trainee Program Internship](https://jobright.ai/jobs/info/6935d285f131d96e4846f190?utm_campaign=1057&utm_source=git)** | Sussex, WI | Remote | Dec 07 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/6935bc57a0dde7020e2f9475?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Dec 07 |
 | **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Leadership Development Program (MBA)](https://jobright.ai/jobs/info/68a8f5696acf96396f723d43?utm_campaign=1057&utm_source=git)** | Midland, MI | On Site | Dec 07 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Assistant, Center for Teaching and Learning, Tahlequah](https://jobright.ai/jobs/info/69359fae764507023d1c0d08?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Dec 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[United Tribes Technical College](http://www.uttc.edu/)** | **[Vice President of Academic Affairs – Closes December 19, 2025 at 5:00 PM](https://jobright.ai/jobs/info/6933d0aca0dde7020e2f2266?utm_campaign=1057&utm_source=git)** | Bismarck, ND | On Site | Dec 05 |
 | **[Hyatt Regency](http://www.regency.hyatt.com/)** | **[J1 Intern/Trainee Program](https://jobright.ai/jobs/info/69339d24f131d96e48464e1e?utm_campaign=1057&utm_source=git)** | Incline Village, NV | On Site | Dec 05 |
 | **[Verdantas](https://www.verdantas.com)** | **[Intern](https://jobright.ai/jobs/info/69339c9ef131d96e48464de0?utm_campaign=1057&utm_source=git)** | Wilkes-Barre, PA | Hybrid | Dec 05 |
-| **[VML](https://www.vmlyr.com/)** | **[Detroit Experience Studio Intern](https://jobright.ai/jobs/info/693397c6a0dde7020e2ef799?utm_campaign=1057&utm_source=git)** | Detroit, MI | Hybrid | Dec 05 |
-| **[Endeavor Health](https://www.endeavorhealth.org)** | **[GCSI Summer Internship Program](https://jobright.ai/jobs/info/6933affcf131d96e48465ed2?utm_campaign=1057&utm_source=git)** | Evanston, IL | On Site | Dec 05 |
-| **[Park Center](https://www.parkcenternashville.org)** | **[Healthcare Administration Intern Master's Level](https://jobright.ai/jobs/info/6933c24fa0dde7020e2f186c?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
