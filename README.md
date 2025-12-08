@@ -57,9 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Art Teacher & Intern - Elementary](https://jobright.ai/jobs/info/693613eef131d96e4846f988?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 07 |
+| ↳ | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/693612dd764507023d1c18ef?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 07 |
+| ↳ | **[2025/2026 - Science Specialist Teacher and Interns - Elementary](https://jobright.ai/jobs/info/693612d3764507023d1c18ea?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 07 |
+| ↳ | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/6936070ea0dde7020e2f9c3a?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 07 |
+| ↳ | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/693606f0764507023d1c17c7?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 07 |
+| ↳ | **[2025/2026 - Art Teacher & Intern - Secondary](https://jobright.ai/jobs/info/693606e0764507023d1c17be?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 07 |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/69360450a0dde7020e2f9c1e?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Dec 07 |
+| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/6936013c764507023d1c1724?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Dec 07 |
 | **[Sandstone Care](https://www.sandstonecare.com)** | **[Clinical Internship](https://jobright.ai/jobs/info/69126ed0ea9ab01b82bf29ec?utm_campaign=1057&utm_source=git)** | Sandstone Care - Cascade, Colorado | On Site | Dec 07 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment  Program Development Specialist Intern (CAM) (NFWS)](https://jobright.ai/jobs/info/6935e25df131d96e4846f3df?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Dec 07 |
-| **[Valorantum Capital](valorantumcapital.us)** | **[Corporate Trainee Program Internship](https://jobright.ai/jobs/info/6935cdcf764507023d1c113a?utm_campaign=1057&utm_source=git)** | Sussex, WI | Remote | Dec 07 |
+| **[Valorantum Capital](valorantumcapital.us)** | **[Corporate Trainee Program Internship](https://jobright.ai/jobs/info/6935d285f131d96e4846f190?utm_campaign=1057&utm_source=git)** | Sussex, WI | Remote | Dec 07 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/6935bc57a0dde7020e2f9475?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Dec 07 |
 | **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Leadership Development Program (MBA)](https://jobright.ai/jobs/info/68a8f5696acf96396f723d43?utm_campaign=1057&utm_source=git)** | Midland, MI | On Site | Dec 07 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Assistant, Center for Teaching and Learning, Tahlequah](https://jobright.ai/jobs/info/69359fae764507023d1c0d08?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | On Site | Dec 07 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Park Center](https://www.parkcenternashville.org)** | **[Healthcare Administration Intern Master's Level](https://jobright.ai/jobs/info/6933c24fa0dde7020e2f186c?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Dec 05 |
 | ↳ | **[Co-Occurring IOP/OP Program Intern](https://jobright.ai/jobs/info/6933befbf131d96e48466b40?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Dec 05 |
 | **[Nantahala Outdoor Center](http://noc.com)** | **[International Experience Coordinator - Internship](https://jobright.ai/jobs/info/69338529f131d96e48464080?utm_campaign=1057&utm_source=git)** | Bryson City, NC, US | On Site | Dec 05 |
-| **[Tampa General Hospital](https://www.tgh.org)** | **[Student Intern - USFTGP](https://jobright.ai/jobs/info/69337f81f131d96e48463dd9?utm_campaign=1057&utm_source=git)** | Tampa, FL | On Site | Dec 05 |
-| **[API - American Petroleum Institute](http://www.api.org)** | **[GIS Training Intern](https://jobright.ai/jobs/info/69339993a0dde7020e2ef8c6?utm_campaign=1057&utm_source=git)** | Washington, DC, US | On Site | Dec 05 |
-| **[Children's Home Society of Florida](https://chsfl.org)** | **[Clinical Counselor Registered Intern](https://jobright.ai/jobs/info/693398fdf131d96e48464bf6?utm_campaign=1057&utm_source=git)** | Jacksonville, FL 32207, USA | Hybrid | Dec 05 |
-| **[Meijer](https://www.meijer.com/)** | **[Pharmacy Grad Intern](https://jobright.ai/jobs/info/693375f1764507023d1b5ee4?utm_campaign=1057&utm_source=git)** | Danville, IL | On Site | Dec 05 |
-| **[Excel Academy Charter Schools](https://www.excelacademy.org/)** | **[School Counseling Intern](https://jobright.ai/jobs/info/69339866f131d96e48464ba6?utm_campaign=1057&utm_source=git)** | High School Campus, East Boston, MA | On Site | Dec 05 |
-| **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Intern Administrative High School](https://jobright.ai/jobs/info/69336612764507023d1b5366?utm_campaign=1057&utm_source=git)** | Remote Location | Remote | Dec 05 |
-| **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2026 Portfolio Management, Technology - Phoenix, AZ](https://jobright.ai/jobs/info/69338537a0dde7020e2eed0c?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 05 |
-| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/69337da4a0dde7020e2ee873?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
