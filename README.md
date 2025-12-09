@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Lakeland](http://www.lakelandgov.net/)** | **[Power Academy Spring Internship - Power Plant](https://jobright.ai/jobs/info/6937f01daabec14a727cf6d9?utm_campaign=1057&utm_source=git)** | Lakeland, FL | On Site | Dec 09 |
+| **[PNC](http://www.pnc.com)** | **[Asset Management Group Undergraduate Intern](https://jobright.ai/jobs/info/6937e780aabec14a727ce888?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Dec 09 |
+| **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for the Center for Internships and Career Development](https://jobright.ai/jobs/info/6937dde4aabec14a727cd989?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | Dec 09 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[2026 Summer Graduate Leadership Internship Program - Digital](https://jobright.ai/jobs/info/6937d20ba0dde7020e308182?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 08 |
 | **[VOA Northern Rockies](https://voanr.org)** | **[INTERN - UNPAID HEALTHCARE](https://jobright.ai/jobs/info/6937be37a0dde7020e3079a8?utm_campaign=1057&utm_source=git)** | Sheridan, WY | On Site | Dec 08 |
 | **[City of San José](http://www.sanjoseca.gov/)** | **[Programs Graduate Student Intern (Unclassified) (Part-time) – Energy Department](https://jobright.ai/jobs/info/6937ba22a0dde7020e307857?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Dec 08 |
+| **[TD Securities](https://www.tdsecurities.com)** | **[2026 Summer Graduate Leadership Internship Program - Consumer Products – Credit Management](https://jobright.ai/jobs/info/6937d6f31c1c2161c13f9f31?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 08 |
 | **[United Tribes Technical College](http://www.uttc.edu/)** | **[Retention Administrative Apprentice- Closes December 22, 2025 at 5:00 PM](https://jobright.ai/jobs/info/6937b705a0dde7020e307189?utm_campaign=1057&utm_source=git)** | Bismarck, ND | On Site | Dec 08 |
 | **[New York State Parks, Recreation & Historic Preservation](https://parks.ny.gov/)** | **[Mental Health/First Aid Program Management Intern (Park & Rec Aide 4)](https://jobright.ai/jobs/info/6937af2aa0dde7020e305f3a?utm_campaign=1057&utm_source=git)** | Albany, NY | On Site | Dec 08 |
 | **[AmeriHome Mortgage Company, LLC](http://amerihome.com)** | **[Summer 2026 Internship - Westlake Village, CA - Credit Operations](https://jobright.ai/jobs/info/6937baf81c1c2161c13f922c?utm_campaign=1057&utm_source=git)** | Westlake Village, CA | On Site | Dec 08 |
@@ -70,18 +74,18 @@ For a complete list, click the following sortable link below:
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937be511c1c2161c13f944d?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Dec 08 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937bba11c1c2161c13f9386?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Dec 08 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937bf62aabec14a727ccd09?utm_campaign=1057&utm_source=git)** | Broomfield, CO | On Site | Dec 08 |
-| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937c1f51c1c2161c13f95a1?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Dec 08 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937c01fa0dde7020e307a5f?utm_campaign=1057&utm_source=git)** | Redmond, WA | On Site | Dec 08 |
+| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937c1f51c1c2161c13f95a1?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Dec 08 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937c756aabec14a727ccffd?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Dec 08 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937bb0fa0dde7020e3078bf?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | Dec 08 |
-| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937bac6a0dde7020e3078ab?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Dec 08 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937c874aabec14a727cd040?utm_campaign=1057&utm_source=git)** | Redwood City, CA | On Site | Dec 08 |
+| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937bac6a0dde7020e3078ab?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Dec 08 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937b6c6a0dde7020e307103?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Dec 08 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937c4f5aabec14a727ccefb?utm_campaign=1057&utm_source=git)** | Daly City, CA | On Site | Dec 08 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937c3e7a0dde7020e307ba4?utm_campaign=1057&utm_source=git)** | Kent, WA | On Site | Dec 08 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937c7a8aabec14a727cd00d?utm_campaign=1057&utm_source=git)** | Portland, OR | On Site | Dec 08 |
-| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937bcd7aabec14a727ccc3a?utm_campaign=1057&utm_source=git)** | Santa Rosa, CA | On Site | Dec 08 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937c0b6a0dde7020e307a97?utm_campaign=1057&utm_source=git)** | Soquel, CA | On Site | Dec 08 |
+| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937bcd7aabec14a727ccc3a?utm_campaign=1057&utm_source=git)** | Santa Rosa, CA | On Site | Dec 08 |
 | **[TD](https://www.td.com)** | **[2026 Summer Graduate Leadership Internship Program - Digital](https://jobright.ai/jobs/info/6937903c1c1c2161c13f5c90?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 08 |
 | **[Michigan State University](http://msu.edu)** | **[Intern-Fixed Term](https://jobright.ai/jobs/info/69378e891c1c2161c13f5b30?utm_campaign=1057&utm_source=git)** | East Lansing, MI | Hybrid | Dec 08 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Product Technical Development - Digital Sciences Focus](https://jobright.ai/jobs/info/69378e4eaabec14a727c93e1?utm_campaign=1057&utm_source=git)** | South San Francisco, CA | On Site | Dec 08 |
@@ -108,15 +112,15 @@ For a complete list, click the following sortable link below:
 | **[Portland Community College](http://www.pcc.edu/)** | **[Mgr/Program II - Apprenticeship](https://jobright.ai/jobs/info/693757dfa0dde7020e301908?utm_campaign=1057&utm_source=git)** | Swans Island, ME | On Site | Dec 08 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Art Teacher & Intern - Secondary](https://jobright.ai/jobs/info/69377d83aabec14a727c89b8?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 08 |
 | ↳ | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/693784ec1c1c2161c13f5585?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 08 |
-| ↳ | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/6937867baabec14a727c8f53?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 08 |
 | ↳ | **[2025/2026 - Art Teacher & Intern - Elementary](https://jobright.ai/jobs/info/69377dd71c1c2161c13f510d?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 08 |
+| ↳ | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/6937867baabec14a727c8f53?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 08 |
 | ↳ | **[2025/2026 - Science Specialist Teacher and Interns - Elementary](https://jobright.ai/jobs/info/69377fefaabec14a727c8b35?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 08 |
 | ↳ | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/69377763a0dde7020e3033d2?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 08 |
 | **[MIT Health](https://health.mit.edu/)** | **[Post-Doctoral Fellowship, Clinical Psychology](https://jobright.ai/jobs/info/693780d9aabec14a727c8bd9?utm_campaign=1057&utm_source=git)** | Cambridge, MA | On Site | Dec 08 |
 | **[Project Transformation Rio Texas](https://linktr.ee/ptriotexas)** | **[Transformation Intern- Site Coordinator](https://jobright.ai/jobs/info/693774e5aabec14a727c8438?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Dec 08 |
-| **[TD](https://www.td.com)** | **[2026 Summer Graduate Leadership Internship Program - Digital](https://jobright.ai/jobs/info/693774be1c1c2161c13f4a56?utm_campaign=1057&utm_source=git)** | New York, New York | On Site | Dec 08 |
+| **[TD](https://www.td.com)** | **[2026 Summer Graduate Leadership Internship Program - Digital](https://jobright.ai/jobs/info/693776ada0dde7020e303334?utm_campaign=1057&utm_source=git)** | Boston, Massachusetts | On Site | Dec 08 |
+| ↳ | **[2026 Summer Graduate Leadership Internship Program - Digital](https://jobright.ai/jobs/info/693774be1c1c2161c13f4a56?utm_campaign=1057&utm_source=git)** | New York, New York | On Site | Dec 08 |
 | ↳ | **[2026 Summer Graduate Leadership Internship Program - Digital](https://jobright.ai/jobs/info/693773841c1c2161c13f494e?utm_campaign=1057&utm_source=git)** | Wilmington, Delaware | On Site | Dec 08 |
-| ↳ | **[2026 Summer Graduate Leadership Internship Program - Digital](https://jobright.ai/jobs/info/693776ada0dde7020e303334?utm_campaign=1057&utm_source=git)** | Boston, Massachusetts | On Site | Dec 08 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Product Technical Development - Digital Sciences Focus](https://jobright.ai/jobs/info/69376d7c1c1c2161c13f44d4?utm_campaign=1057&utm_source=git)** | South San Francisco | On Site | Dec 08 |
 | **[WVU Medicine Berkeley and Jefferson Medical Centers](https://wvumedicine.org/east/)** | **[Student Intern - JCS MedEd](https://jobright.ai/jobs/info/69377738a0dde7020e3033a9?utm_campaign=1057&utm_source=git)** | Ranson, WV | On Site | Dec 08 |
 | **[Carilion Clinic](https://www.carilionclinic.org)** | **[Exercise Phyisologist - Intern](https://jobright.ai/jobs/info/693741a3a0dde7020e3008f2?utm_campaign=1057&utm_source=git)** | Roanoke, VA | On Site | Dec 08 |
@@ -137,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/693732a5aabec14a727c4f42?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Dec 08 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[FWS Student Assistant](https://jobright.ai/jobs/info/69372fd7a0dde7020e2ffba8?utm_campaign=1057&utm_source=git)** | Florida, United States | On Site | Dec 08 |
 | **[U.S. Green Building Council](http://www.usgbc.org)** | **[Healthy Schools Research Intern (Part-Time-- $20 to $25/hr)](https://jobright.ai/jobs/info/691f706fa49a885af9a2fdb7?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Dec 08 |
-| **[University of Illinois Chicago (UIC) School of Public Health](https://publichealth.uic.edu)** | **[Visiting Research Associate I - Division of Academic Internal Medicine and Geriatrics](https://jobright.ai/jobs/info/693726f1aabec14a727c47ad?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 08 |
 | **[Kansas State University](http://www.k-state.edu/)** | **[Clinical or Tenure Assistant / Associate Professor - Internal Medicine](https://jobright.ai/jobs/info/69372da8aabec14a727c4bec?utm_campaign=1057&utm_source=git)** | Manhattan, KS | On Site | Dec 08 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Temporary Summer Education Intern](https://jobright.ai/jobs/info/6936fc1b1c1c2161c13efd19?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Dec 08 |
 | **[Housing Works](http://www.housingworks.org)** | **[Internship Supervisor](https://jobright.ai/jobs/info/69371ad91c1c2161c13f0929?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Oberlin College](http://new.oberlin.edu/office/creativity/funding-opportunities/launchu/)** | **[Office of Student Leadership & Involvement Programming Assistant](https://jobright.ai/jobs/info/6936a5261c1c2161c13ee24c?utm_campaign=1057&utm_source=git)** | Oberlin, OH | On Site | Dec 08 |
 | **[Utah Valley University](http://www.uvu.edu/)** | **[Student - PE Issue Room (2026-2027)](https://jobright.ai/jobs/info/6936a0e244eb324fb785ccb8?utm_campaign=1057&utm_source=git)** | Orem, UT | On Site | Dec 08 |
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-Public Safety Services-Foot Patrol](https://jobright.ai/jobs/info/69369dd3a0dde7020e2fc94c?utm_campaign=1057&utm_source=git)** | Huntsville, TX | On Site | Dec 08 |
-| **[Monroe Community College](http://www.monroecc.edu/)** | **[Federal Work Study, Student Employee, Global Education & International Services](https://jobright.ai/jobs/info/6936977fa0dde7020e2fc7d3?utm_campaign=1057&utm_source=git)** | Rochester, NY | On Site | Dec 08 |
-| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Neuro Cardio - APP - Internal Medicine](https://jobright.ai/jobs/info/69367d17a0dde7020e2fbf9d?utm_campaign=1057&utm_source=git)** | Florida, United States | On Site | Dec 07 |
-| **[Citadel Credit Union](http://citadelbanking.com)** | **[Summer Intern - Learning & Leadership Development](https://jobright.ai/jobs/info/6937d131aabec14a727cd60d?utm_campaign=1057&utm_source=git)** | Exton, PA | On Site | Dec 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
