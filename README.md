@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/6937fa70aabec14a727cfa34?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Dec 09 |
+| **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-Dept of Analytics, Information Systems & Supply Chain- Business Analytics Tutor](https://jobright.ai/jobs/info/6937f460b95c305f206d4561?utm_campaign=1057&utm_source=git)** | Huntsville, TX | On Site | Dec 09 |
 | **[City of Lakeland](http://www.lakelandgov.net/)** | **[Power Academy Spring Internship - Power Plant](https://jobright.ai/jobs/info/6937f01daabec14a727cf6d9?utm_campaign=1057&utm_source=git)** | Lakeland, FL | On Site | Dec 09 |
 | **[PNC](http://www.pnc.com)** | **[Asset Management Group Undergraduate Intern](https://jobright.ai/jobs/info/6937e780aabec14a727ce888?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Dec 09 |
 | **[Regis College](http://www.regiscollege.edu/)** | **[Graduate Intern for the Center for Internships and Career Development](https://jobright.ai/jobs/info/6937dde4aabec14a727cd989?utm_campaign=1057&utm_source=git)** | Weston, MA | On Site | Dec 09 |
+| **[Crest Vale](crestvale.us)** | **[Trading Internship](https://jobright.ai/jobs/info/6937fddea0dde7020e30a7fe?utm_campaign=1057&utm_source=git)** | Illinois, United States | Remote | Dec 09 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[2026 Summer Graduate Leadership Internship Program - Digital](https://jobright.ai/jobs/info/6937d20ba0dde7020e308182?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 08 |
 | **[VOA Northern Rockies](https://voanr.org)** | **[INTERN - UNPAID HEALTHCARE](https://jobright.ai/jobs/info/6937be37a0dde7020e3079a8?utm_campaign=1057&utm_source=git)** | Sheridan, WY | On Site | Dec 08 |
 | **[City of San José](http://www.sanjoseca.gov/)** | **[Programs Graduate Student Intern (Unclassified) (Part-time) – Energy Department](https://jobright.ai/jobs/info/6937ba22a0dde7020e307857?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Dec 08 |
@@ -71,18 +74,18 @@ For a complete list, click the following sortable link below:
 | **[TD](https://www.td.com)** | **[2026 Summer Graduate Leadership Internship Program - Consumer Products – Credit Management](https://jobright.ai/jobs/info/693796b2aabec14a727c990d?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 08 |
 | **[Shawmut Design and Construction](http://www.shawmut.com)** | **[Intern/Coop - Construction Management Skills Training (CMST) Program](https://jobright.ai/jobs/info/69379467a0dde7020e3045fb?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Dec 08 |
 | **[The City University of New York](http://cuny.edu)** | **[Associate Director - Clinical Healthcare Programs (Continuing Education Manager)](https://jobright.ai/jobs/info/6937b5af1c1c2161c13f82d0?utm_campaign=1057&utm_source=git)** | Queens, NY | On Site | Dec 08 |
-| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937be511c1c2161c13f944d?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Dec 08 |
-| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937bba11c1c2161c13f9386?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Dec 08 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937bba11c1c2161c13f9386?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Dec 08 |
+| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937c7061c1c2161c13f9782?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Dec 08 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937bf62aabec14a727ccd09?utm_campaign=1057&utm_source=git)** | Broomfield, CO | On Site | Dec 08 |
-| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937c01fa0dde7020e307a5f?utm_campaign=1057&utm_source=git)** | Redmond, WA | On Site | Dec 08 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937c1f51c1c2161c13f95a1?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Dec 08 |
+| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937c01fa0dde7020e307a5f?utm_campaign=1057&utm_source=git)** | Redmond, WA | On Site | Dec 08 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937c756aabec14a727ccffd?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Dec 08 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937bb0fa0dde7020e3078bf?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | Dec 08 |
-| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937c874aabec14a727cd040?utm_campaign=1057&utm_source=git)** | Redwood City, CA | On Site | Dec 08 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937bac6a0dde7020e3078ab?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Dec 08 |
+| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937c874aabec14a727cd040?utm_campaign=1057&utm_source=git)** | Redwood City, CA | On Site | Dec 08 |
+| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937c3e7a0dde7020e307ba4?utm_campaign=1057&utm_source=git)** | Kent, WA | On Site | Dec 08 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937b6c6a0dde7020e307103?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Dec 08 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937c4f5aabec14a727ccefb?utm_campaign=1057&utm_source=git)** | Daly City, CA | On Site | Dec 08 |
-| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937c3e7a0dde7020e307ba4?utm_campaign=1057&utm_source=git)** | Kent, WA | On Site | Dec 08 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937c7a8aabec14a727cd00d?utm_campaign=1057&utm_source=git)** | Portland, OR | On Site | Dec 08 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937c0b6a0dde7020e307a97?utm_campaign=1057&utm_source=git)** | Soquel, CA | On Site | Dec 08 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937bcd7aabec14a727ccc3a?utm_campaign=1057&utm_source=git)** | Santa Rosa, CA | On Site | Dec 08 |
@@ -110,9 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Ponte Vedra Inn & Club](http://www.pontevedra.com)** | **[RECREATION - INTERN](https://jobright.ai/jobs/info/69378144aabec14a727c8c1f?utm_campaign=1057&utm_source=git)** | Ponte Vedra Beach, FL | On Site | Dec 08 |
 | **[ATI](https://www.forging.com)** | **[Manufacturing Technical Training Internship](https://jobright.ai/jobs/info/69375e211c1c2161c13f36df?utm_campaign=1057&utm_source=git)** | Cudahy, WI | On Site | Dec 08 |
 | **[Portland Community College](http://www.pcc.edu/)** | **[Mgr/Program II - Apprenticeship](https://jobright.ai/jobs/info/693757dfa0dde7020e301908?utm_campaign=1057&utm_source=git)** | Swans Island, ME | On Site | Dec 08 |
-| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Art Teacher & Intern - Secondary](https://jobright.ai/jobs/info/69377d83aabec14a727c89b8?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 08 |
-| ↳ | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/693784ec1c1c2161c13f5585?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 08 |
-| ↳ | **[2025/2026 - Art Teacher & Intern - Elementary](https://jobright.ai/jobs/info/69377dd71c1c2161c13f510d?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 08 |
+| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/693784ec1c1c2161c13f5585?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 08 |
 | ↳ | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/6937867baabec14a727c8f53?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 08 |
 | ↳ | **[2025/2026 - Science Specialist Teacher and Interns - Elementary](https://jobright.ai/jobs/info/69377fefaabec14a727c8b35?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 08 |
 | ↳ | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/69377763a0dde7020e3033d2?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 08 |
@@ -139,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[State of Missouri](http://mo.gov)** | **[Paid Intern](https://jobright.ai/jobs/info/69372e74a0dde7020e2ffab1?utm_campaign=1057&utm_source=git)** | West Plains, MO | On Site | Dec 08 |
 | **[Planned Parenthood of Maryland Inc.](http://www.plannedparenthood.org/maryland)** | **[College Internship: School-based Health Education Liaison](https://jobright.ai/jobs/info/69370de81c1c2161c13f0404?utm_campaign=1057&utm_source=git)** | 330 N. Howard Street, Baltimore, MD 21201 | On Site | Dec 08 |
 | **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/693732a5aabec14a727c4f42?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Dec 08 |
-| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[FWS Student Assistant](https://jobright.ai/jobs/info/69372fd7a0dde7020e2ffba8?utm_campaign=1057&utm_source=git)** | Florida, United States | On Site | Dec 08 |
 | **[U.S. Green Building Council](http://www.usgbc.org)** | **[Healthy Schools Research Intern (Part-Time-- $20 to $25/hr)](https://jobright.ai/jobs/info/691f706fa49a885af9a2fdb7?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Dec 08 |
 | **[Kansas State University](http://www.k-state.edu/)** | **[Clinical or Tenure Assistant / Associate Professor - Internal Medicine](https://jobright.ai/jobs/info/69372da8aabec14a727c4bec?utm_campaign=1057&utm_source=git)** | Manhattan, KS | On Site | Dec 08 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Temporary Summer Education Intern](https://jobright.ai/jobs/info/6936fc1b1c1c2161c13efd19?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Dec 08 |
@@ -152,9 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Unum](http://www.unum.com)** | **[Unum Scholar Intern - Columbia, SC](https://jobright.ai/jobs/info/68cbfd647342c7623ae5d018?utm_campaign=1057&utm_source=git)** | Columbia, SC | Hybrid | Dec 08 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - New York City (48517)](https://jobright.ai/jobs/info/68d021d9846f0b04af687d5a?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 08 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Climbing Arborist Internship / Toledo, OH](https://jobright.ai/jobs/info/6936ae4844eb324fb785ceee?utm_campaign=1057&utm_source=git)** | Toledo, OH | On Site | Dec 08 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/6936adff1c1c2161c13ee40c?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Dec 08 |
-| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Climbing Arborist Internship / Oxford, MI](https://jobright.ai/jobs/info/6936ab8444eb324fb785ce51?utm_campaign=1057&utm_source=git)** | Oxford, MI | On Site | Dec 08 |
+| ↳ | **[Climbing Arborist Internship / Oxford, MI](https://jobright.ai/jobs/info/6936ab8444eb324fb785ce51?utm_campaign=1057&utm_source=git)** | Oxford, MI | On Site | Dec 08 |
 | **[Oberlin College](http://new.oberlin.edu/office/creativity/funding-opportunities/launchu/)** | **[Office of Student Leadership & Involvement Programming Assistant](https://jobright.ai/jobs/info/6936a5261c1c2161c13ee24c?utm_campaign=1057&utm_source=git)** | Oberlin, OH | On Site | Dec 08 |
 | **[Utah Valley University](http://www.uvu.edu/)** | **[Student - PE Issue Room (2026-2027)](https://jobright.ai/jobs/info/6936a0e244eb324fb785ccb8?utm_campaign=1057&utm_source=git)** | Orem, UT | On Site | Dec 08 |
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-Public Safety Services-Foot Patrol](https://jobright.ai/jobs/info/69369dd3a0dde7020e2fc94c?utm_campaign=1057&utm_source=git)** | Huntsville, TX | On Site | Dec 08 |
+| **[Monroe Community College](http://www.monroecc.edu/)** | **[Federal Work Study, Student Employee, Global Education & International Services](https://jobright.ai/jobs/info/6936977fa0dde7020e2fc7d3?utm_campaign=1057&utm_source=git)** | Rochester, NY | On Site | Dec 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
