@@ -57,12 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Self-Help Credit Union](https://www.self-help.org/)** | **[Learning and Development Training Intern](https://jobright.ai/jobs/info/69389732b95c305f206dc804?utm_campaign=1057&utm_source=git)** | CA-Sacramento | On Site | Dec 09 |
+| **[BlueCross BlueShield of South Carolina](https://www.southcarolinablues.com)** | **[Information Technology Summer Student Intern](https://jobright.ai/jobs/info/69388e65a0dde7020e312042?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Dec 09 |
+| **[Carolina Farm Stewardship Association](https://www.carolinafarmstewards.org)** | **[CFSA Organic Education Intern [Spring 2026]](https://jobright.ai/jobs/info/69388372a0dde7020e3115f6?utm_campaign=1057&utm_source=git)** | Triangle Area | On Site | Dec 09 |
+| **[Bering Straits Native Corporation (BSNC)](http://beringstraits.com)** | **[2026 Summer Internship Program - Nome, AK](https://jobright.ai/jobs/info/692798b2f0beb0723262c699?utm_campaign=1057&utm_source=git)** | Nome, AK | On Site | Dec 09 |
 | **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Intern - Senior](https://jobright.ai/jobs/info/69387a52aabec14a727d6196?utm_campaign=1057&utm_source=git)** | Charlotte, NC - 1110 Center Park Dr | On Site | Dec 09 |
-| **[Facebook](https://www.meta.com)** | **[Information Technology Summer Student Intern](https://jobright.ai/jobs/info/693877bab95c305f206dada4?utm_campaign=1057&utm_source=git)** | Dallas, Texas | On Site | Dec 09 |
+| **[Northeast Family Services](https://www.northeastfamilyservices.com)** | **[Director of Internship and Training - LICSW](https://jobright.ai/jobs/info/69389869a0dde7020e312d21?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Dec 09 |
+| ↳ | **[Director of Internship and Training - LICSW](https://jobright.ai/jobs/info/69389722a0dde7020e312ad3?utm_campaign=1057&utm_source=git)** | West Springfield, MA | On Site | Dec 09 |
 | **[Clarvida](https://www.clarvida.com)** | **[Clinical Intern](https://jobright.ai/jobs/info/693874cfb95c305f206dab55?utm_campaign=1057&utm_source=git)** | Portland, Maine | On Site | Dec 09 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern- Technology Communication](https://jobright.ai/jobs/info/68c8a730f9c6ff7aedf1118c?utm_campaign=1057&utm_source=git)** | Arlington, TX | Hybrid | Dec 09 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Summer Intern - Sanford Sports Performance](https://jobright.ai/jobs/info/69386d09b95c305f206d9f6a?utm_campaign=1057&utm_source=git)** | ND, Fargo | On Site | Dec 09 |
+| **[Bering Straits Native Corporation (BSNC)](http://beringstraits.com)** | **[2026 Summer Internship Program - Anchorage, AK](https://jobright.ai/jobs/info/69279ab9f0beb0723262c7f8?utm_campaign=1057&utm_source=git)** | Anchorage, AK | On Site | Dec 09 |
+| **[Swedish](http://www.swedish.org/)** | **[Post Grad Intern/Student Intern](https://jobright.ai/jobs/info/693884efb95c305f206db69e?utm_campaign=1057&utm_source=git)** | Seattle, WA | On Site | Dec 09 |
+| **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Spring  Education Programs Intern (onsite)](https://jobright.ai/jobs/info/68dd7b0ba125e75c422ab21a?utm_campaign=1057&utm_source=git)** | Little Rock, Arkansas | On Site | Dec 09 |
 | **[Museum of Science](http://www.mos.org)** | **[Living Laboratory Mentor Internship](https://jobright.ai/jobs/info/6938661ca0dde7020e30f338?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Dec 09 |
+| **[Meridian Health Services Corp.](https://www.meridianhs.org/)** | **[Intern - Masters Level Clinical Therapist 6797](https://jobright.ai/jobs/info/693882a5aabec14a727d674e?utm_campaign=1057&utm_source=git)** | Connersville, IN | On Site | Dec 09 |
+| **[Facebook](https://www.meta.com)** | **[Information Technology Summer Student Intern](https://jobright.ai/jobs/info/69388f02aabec14a727d6ffc?utm_campaign=1057&utm_source=git)** | Dallas, Texas | On Site | Dec 09 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[FWS Student Assistant](https://jobright.ai/jobs/info/6938948faabec14a727d75a2?utm_campaign=1057&utm_source=git)** | Florida, United States | On Site | Dec 09 |
+| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/69388ab4a0dde7020e311d50?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Dec 09 |
 | **[HCA Florida Bayonet Point Hospital](https://www.hcafloridahealthcare.com/locations/bayonet-point-hospital/)** | **[Radiology Student Intern PRN](https://jobright.ai/jobs/info/68ccee3cd11b445e0bee467f?utm_campaign=1057&utm_source=git)** | Hudson, FL | On Site | Dec 09 |
 | **[Penn State University](http://psu.edu)** | **[Part Time - Sustainable Labs Program Intern](https://jobright.ai/jobs/info/69386c1db95c305f206d9ceb?utm_campaign=1057&utm_source=git)** | University Park, PA | On Site | Dec 09 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Club Support Center Intern](https://jobright.ai/jobs/info/68cd2b5ae23def7af55b6618?utm_campaign=1057&utm_source=git)** | Marlborough, MA | Hybrid | Dec 09 |
@@ -71,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Jencap](https://jencapgroup.com)** | **[2026 Jencap Summer Insurance Internships- Atlanta, Houston, Springfield, MO and Red Bank, NJ](https://jobright.ai/jobs/info/68cd9d00b2a74e1837ed9a51?utm_campaign=1057&utm_source=git)** | Greater Houston | Hybrid | Dec 09 |
 | **[Rush University Medical Center](https://www.rush.edu/)** | **[Student Intern I-22502](https://jobright.ai/jobs/info/691bf20dbcdbf3560c9e43a6?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 09 |
 | **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/68ccfe0d77add66568abd516?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Dec 09 |
-| **[Intel Corporation](http://www.intel.com)** | **[Undergraduate Intern](https://jobright.ai/jobs/info/69385262a0dde7020e30d99e?utm_campaign=1057&utm_source=git)** | Hillsboro, OR | On Site | Dec 09 |
 | **[Healthy Kids Programs](https://www.healthykidsprograms.com/)** | **[Early Learning Director and Lead Teacher](https://jobright.ai/jobs/info/69385976aabec14a727d30fb?utm_campaign=1057&utm_source=git)** | Walton, NY | On Site | Dec 09 |
 | ↳ | **[Early Learning Director and Lead Teacher](https://jobright.ai/jobs/info/693863b2aabec14a727d3f19?utm_campaign=1057&utm_source=git)** | Oneonta, NY | On Site | Dec 09 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Curriculum and Instruction](https://jobright.ai/jobs/info/691b9c24bcdbf3560c9e0b57?utm_campaign=1057&utm_source=git)** | Columbia, MO | Hybrid | Dec 09 |
@@ -116,9 +127,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937bb0fa0dde7020e3078bf?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | Dec 08 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937c874aabec14a727cd040?utm_campaign=1057&utm_source=git)** | Redwood City, CA | On Site | Dec 08 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937bac6a0dde7020e3078ab?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Dec 08 |
-| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937b6c6a0dde7020e307103?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Dec 08 |
-| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937c4f5aabec14a727ccefb?utm_campaign=1057&utm_source=git)** | Daly City, CA | On Site | Dec 08 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937c3e7a0dde7020e307ba4?utm_campaign=1057&utm_source=git)** | Kent, WA | On Site | Dec 08 |
+| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937c4f5aabec14a727ccefb?utm_campaign=1057&utm_source=git)** | Daly City, CA | On Site | Dec 08 |
+| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937b6c6a0dde7020e307103?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Dec 08 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937c7a8aabec14a727cd00d?utm_campaign=1057&utm_source=git)** | Portland, OR | On Site | Dec 08 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937c0b6a0dde7020e307a97?utm_campaign=1057&utm_source=git)** | Soquel, CA | On Site | Dec 08 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6937bcd7aabec14a727ccc3a?utm_campaign=1057&utm_source=git)** | Santa Rosa, CA | On Site | Dec 08 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/6937867baabec14a727c8f53?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 08 |
 | ↳ | **[2025/2026 - Science Specialist Teacher and Interns - Elementary](https://jobright.ai/jobs/info/69377fefaabec14a727c8b35?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 08 |
 | **[MIT Health](https://health.mit.edu/)** | **[Post-Doctoral Fellowship, Clinical Psychology](https://jobright.ai/jobs/info/693780d9aabec14a727c8bd9?utm_campaign=1057&utm_source=git)** | Cambridge, MA | On Site | Dec 08 |
-| **[Project Transformation Rio Texas](https://linktr.ee/ptriotexas)** | **[Transformation Intern- Site Coordinator](https://jobright.ai/jobs/info/693774e5aabec14a727c8438?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Dec 08 |
-| **[TD](https://www.td.com)** | **[2026 Summer Graduate Leadership Internship Program - Digital](https://jobright.ai/jobs/info/693774be1c1c2161c13f4a56?utm_campaign=1057&utm_source=git)** | New York, New York | On Site | Dec 08 |
-| ↳ | **[2026 Summer Graduate Leadership Internship Program - Digital](https://jobright.ai/jobs/info/693773841c1c2161c13f494e?utm_campaign=1057&utm_source=git)** | Wilmington, Delaware | On Site | Dec 08 |
-| ↳ | **[2026 Summer Graduate Leadership Internship Program - Digital](https://jobright.ai/jobs/info/693776ada0dde7020e303334?utm_campaign=1057&utm_source=git)** | Boston, Massachusetts | On Site | Dec 08 |
-| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Product Technical Development - Digital Sciences Focus](https://jobright.ai/jobs/info/69376d7c1c1c2161c13f44d4?utm_campaign=1057&utm_source=git)** | South San Francisco | On Site | Dec 08 |
-| **[WVU Medicine Berkeley and Jefferson Medical Centers](https://wvumedicine.org/east/)** | **[Student Intern - JCS MedEd](https://jobright.ai/jobs/info/69377738a0dde7020e3033a9?utm_campaign=1057&utm_source=git)** | Ranson, WV | On Site | Dec 08 |
-| **[Carilion Clinic](https://www.carilionclinic.org)** | **[Exercise Phyisologist - Intern](https://jobright.ai/jobs/info/693741a3a0dde7020e3008f2?utm_campaign=1057&utm_source=git)** | Roanoke, VA | On Site | Dec 08 |
-| **[Compass Health Center](https://compasshealthcenter.net)** | **[Group Therapist Intern](https://jobright.ai/jobs/info/6937625fa0dde7020e3022c5?utm_campaign=1057&utm_source=git)** | Silver Spring, MD | On Site | Dec 08 |
-| **[Commonwealth of Pennsylvania](http://www.arts.pa.gov)** | **[Keystone Internship at Erie Maritime Museum - Education (College)](https://jobright.ai/jobs/info/69375a7ca0dde7020e301b5e?utm_campaign=1057&utm_source=git)** | Erie, PA | On Site | Dec 08 |
-| **[NBCC (New Brunswick Community College)](http://www.nbcc.ca)** | **[Call for Interest (Talent Pool) - Instructor(s), Trades and Apprenticeship](https://jobright.ai/jobs/info/69376077a0dde7020e302136?utm_campaign=1057&utm_source=git)** | Moncton, New Brunswick, Canada | Hybrid | Dec 08 |
-| **[DC Power Football Club](https://www.dcpowerfootballclub.com)** | **[Intern, Athletic Training - Spring 2026](https://jobright.ai/jobs/info/6937a217a0dde7020e3050e0?utm_campaign=1057&utm_source=git)** | Leesburg, VA | On Site | Dec 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
