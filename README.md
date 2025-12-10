@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pathway Caring for Children](https://www.pathwaycfc.org)** | **[Bachelor's-Level Internship – Pathway Caring for Children (Canton, OH)](https://jobright.ai/jobs/info/6939d7adac80bb5492bc5561?utm_campaign=1057&utm_source=git)** | Canton,OH,US | Hybrid | Dec 10 |
+| **[Marriott International](http://travel-brilliantly.marriott.com)** | **[Supervisor Intern - Hotel Ruth Chris](https://jobright.ai/jobs/info/6939cf3348a8ce22990dd109?utm_campaign=1057&utm_source=git)** | L.G. Smith Boulevard # 101, Palm Beach, AW | On Site | Dec 10 |
 | **[Alabama Cooperative Extension System](https://www.aces.edu/)** | **[Summer Internship -  Alabama Cooperative Extension](https://jobright.ai/jobs/info/6939c99a56b68f3dc4e727be?utm_campaign=1057&utm_source=git)** | Auburn, AL | On Site | Dec 10 |
 | **[ETS](http://www.ets.org)** | **[2026 Advanced Placement (AP) Reading Internship](https://jobright.ai/jobs/info/6939c81bac80bb5492bc4be8?utm_campaign=1057&utm_source=git)** | Princeton, NJ | On Site | Dec 10 |
+| **[PROJXON](www.projxon.com)** | **[Leadership Development Program (MBA Intern)](https://jobright.ai/jobs/info/6939e433ac80bb5492bc5fb1?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | Remote | Dec 10 |
 | **[Kraft Heinz](http://www.kraftheinzcompany.com)** | **[2026 MBA Internship Program](https://jobright.ai/jobs/info/6939bf87ac80bb5492bc460a?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Dec 10 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - Supervision & Regulation (Technology Risk)](https://jobright.ai/jobs/info/6933f84d764507023d1bb0a8?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Dec 10 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Honors College Office Intern (FWS/NFWS)](https://jobright.ai/jobs/info/6939b76b56b68f3dc4e70f35?utm_campaign=1057&utm_source=git)** | AZ Phoenix | On Site | Dec 10 |
 | **[Prosperity Bank](https://www.prosperitybankusa.com/)** | **[Intern (Spring) - Lubbock, Ave. Q](https://jobright.ai/jobs/info/6939b414ac80bb5492bc2c3a?utm_campaign=1057&utm_source=git)** | Lubbock, TX, US | On Site | Dec 10 |
-| **[World Merit](https://platform.worldmerit.org/)** | **[Instructional Design and Content Creation Internship](https://jobright.ai/jobs/info/6939cc2748a8ce22990dcf28?utm_campaign=1057&utm_source=git)** | United States | Remote | Dec 10 |
 | **[Thorlabs](http://www.thorlabs.com)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/6939adf3ac80bb5492bc267f?utm_campaign=1057&utm_source=git)** | Sterling, VA | On Site | Dec 10 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Field Service Training Multimedia (NSTC)](https://jobright.ai/jobs/info/6939aba448a8ce22990da67a?utm_campaign=1057&utm_source=git)** | Camden, NJ, United States | On Site | Dec 10 |
 | **[Van Subaru](http://www.vansubaru.com)** | **[INTERN - Field Service Training Multimedia (NSTC)](https://jobright.ai/jobs/info/6939ab5e56b68f3dc4e70017?utm_campaign=1057&utm_source=git)** | Camden, NJ, United States | On Site | Dec 10 |
@@ -136,7 +138,7 @@ For a complete list, click the following sortable link below:
 | **[Sudbury Catholic District School Board](https://sudburycatholicschools.ca)** | **[Permanent Grade K-6 Teacher (includes Core French), 1.0 FTE (internal/external)](https://jobright.ai/jobs/info/69389cabb95c305f206dd114?utm_campaign=1057&utm_source=git)** | Killarney, Ontario, Canada | On Site | Dec 09 |
 | **[Global Cities, Inc.](http://globalcities.org/)** | **[Graduate Student Internship](https://jobright.ai/jobs/info/6938c59caabec14a727dae0d?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 09 |
 | **[Culver Academies](https://www.culver.org)** | **[2026 Summer Schools and Camps - Internship](https://jobright.ai/jobs/info/6938ca04b95c305f206dfdc5?utm_campaign=1057&utm_source=git)** | Culver, IN | On Site | Dec 09 |
-| **[Self-Help Credit Union](https://www.self-help.org/)** | **[Learning and Development Training Intern](https://jobright.ai/jobs/info/69389732b95c305f206dc804?utm_campaign=1057&utm_source=git)** | CA-Sacramento | On Site | Dec 09 |
+| **[Self-Help Credit Union](https://www.self-help.org/)** | **[Learning and Development Training Intern](https://jobright.ai/jobs/info/693894edb95c305f206dc53b?utm_campaign=1057&utm_source=git)** | CA-Sacramento | On Site | Dec 09 |
 | **[University of Idaho](http://www.uidaho.edu/)** | **[International Transfer Specialist](https://jobright.ai/jobs/info/6938c027a0dde7020e315802?utm_campaign=1057&utm_source=git)** | Moscow, ID | On Site | Dec 09 |
 | **[Washington Area Clinical Center](www.waccenter.com)** | **[Graduate Clinical Intern](https://jobright.ai/jobs/info/6938b882a0dde7020e315333?utm_campaign=1057&utm_source=git)** | Bowie, MD | Hybrid | Dec 09 |
 | **[BlueCross BlueShield of South Carolina](https://www.southcarolinablues.com)** | **[Information Technology Summer Student Intern](https://jobright.ai/jobs/info/69388e65a0dde7020e312042?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Dec 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Director of Internship and Training - LICSW](https://jobright.ai/jobs/info/6938a2eba0dde7020e313fa2?utm_campaign=1057&utm_source=git)** | Massachusetts, United States | On Site | Dec 09 |
 | ↳ | **[Director of Internship and Training - LICSW](https://jobright.ai/jobs/info/69389e52aabec14a727d855f?utm_campaign=1057&utm_source=git)** | Worcester, MA | On Site | Dec 09 |
 | ↳ | **[Director of Internship and Training - LICSW](https://jobright.ai/jobs/info/69389722a0dde7020e312ad3?utm_campaign=1057&utm_source=git)** | West Springfield, MA | On Site | Dec 09 |
-| **[Facebook](https://www.meta.com)** | **[Information Technology Summer Student Intern](https://jobright.ai/jobs/info/693877bab95c305f206dada4?utm_campaign=1057&utm_source=git)** | Dallas, Texas | On Site | Dec 09 |
-| **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Pharmacy Technician Education Intern; Mount Sinai Health System; Per Diem](https://jobright.ai/jobs/info/6938ab2aaabec14a727d9ba2?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
