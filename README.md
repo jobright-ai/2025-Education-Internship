@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BakerRipley](https://www.bakerripley.org)** | **[Program Intern (841)](https://jobright.ai/jobs/info/691f0b28a49a885af9a2bde8?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Dec 11 |
+| **[Education Service Center Region 13 ](https://esc13.net)** | **[Non-Paid University - Nurse Interns - 2025-2026](https://jobright.ai/jobs/info/693a9b035f2c001987ecb9f7?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Dec 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern- Barre, VT](https://jobright.ai/jobs/info/693a8928383bf96319839520?utm_campaign=1057&utm_source=git)** | Barre, VT | On Site | Dec 11 |
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Emergency Department](https://jobright.ai/jobs/info/693a839cf3cb0010f8708c85?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Dec 11 |
+| **[Travelers](https://www.travelers.com)** | **[Claim Professional Development Program (CPDP) Intern](https://jobright.ai/jobs/info/6928102691ceeb2e8a5445c6?utm_campaign=1057&utm_source=git)** | Hartford, CT | Hybrid | Dec 11 |
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Emergency Department](https://jobright.ai/jobs/info/693a904fed39e94c66591abc?utm_campaign=1057&utm_source=git)** | Rutland, Vermont | On Site | Dec 10 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - CHE - Financial Aid](https://jobright.ai/jobs/info/693a6f1148a8ce22990e7114?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Dec 10 |
 | **[Elk Grove Unified School District](https://www.egusd.net/)** | **[ELEMENTARY INTERN TEACHER Eligibility Pool](https://jobright.ai/jobs/info/693a67afac80bb5492bcf0db?utm_campaign=1057&utm_source=git)** | Elk Grove, CA | On Site | Dec 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[YMCA of Florida's First Coast](http://firstcoastymca.org/)** | **[Sports Internship - Barco Newton YMCA](https://jobright.ai/jobs/info/69396a2cac80bb5492bbf506?utm_campaign=1057&utm_source=git)** | Fleming Island, FL | Hybrid | Dec 10 |
 | ↳ | **[Sports Internship - Baker YMCA](https://jobright.ai/jobs/info/6939620a48a8ce22990d7445?utm_campaign=1057&utm_source=git)** | Macclenny, FL | Hybrid | Dec 10 |
 | **[Intermountain Health](https://intermountainhealthcare.org)** | **[Psychology Intern/Resident](https://jobright.ai/jobs/info/693936da48a8ce22990d5176?utm_campaign=1057&utm_source=git)** | Provo, UT | On Site | Dec 10 |
-| **[Career Center at Portland State University](https://www.pdx.edu/careers/)** | **[MBA Student Experience Manager](https://jobright.ai/jobs/info/69396f5548a8ce22990d7738?utm_campaign=1057&utm_source=git)** | Portland, OR | On Site | Dec 10 |
-| **[Travelers](https://www.travelers.com)** | **[Claim Professional Development Program (CPDP) Intern](https://jobright.ai/jobs/info/692824c5d47de4798ece1f54?utm_campaign=1057&utm_source=git)** | Charlotte, NC | Hybrid | Dec 10 |
-| **[YMCA of Florida's First Coast](http://firstcoastymca.org/)** | **[Sports Internship - Dye Clay YMCA](https://jobright.ai/jobs/info/69394e0748a8ce22990d6f38?utm_campaign=1057&utm_source=git)** | Orange Park, FL | Hybrid | Dec 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
