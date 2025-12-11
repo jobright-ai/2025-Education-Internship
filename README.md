@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern- Barre, VT](https://jobright.ai/jobs/info/693a8928383bf96319839520?utm_campaign=1057&utm_source=git)** | Barre, VT | On Site | Dec 11 |
+| **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Emergency Department](https://jobright.ai/jobs/info/693a839cf3cb0010f8708c85?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Dec 11 |
+| **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Emergency Department](https://jobright.ai/jobs/info/693a904fed39e94c66591abc?utm_campaign=1057&utm_source=git)** | Rutland, Vermont | On Site | Dec 10 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - CHE - Financial Aid](https://jobright.ai/jobs/info/693a6f1148a8ce22990e7114?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Dec 10 |
 | **[Elk Grove Unified School District](https://www.egusd.net/)** | **[ELEMENTARY INTERN TEACHER Eligibility Pool](https://jobright.ai/jobs/info/693a67afac80bb5492bcf0db?utm_campaign=1057&utm_source=git)** | Elk Grove, CA | On Site | Dec 10 |
 | **[Petersburg City Public Schools](http://www.petersburg.k12.va.us)** | **[Student Teaching and Internship 2025-26](https://jobright.ai/jobs/info/693a641556b68f3dc4e7c605?utm_campaign=1057&utm_source=git)** | Petersburg, VA | On Site | Dec 10 |
@@ -81,6 +84,8 @@ For a complete list, click the following sortable link below:
 | **[PruittHealth](http://www.pruitthealth.com)** | **[PruittHealth Green Team Internship Program](https://jobright.ai/jobs/info/693a2bf248a8ce22990e24de?utm_campaign=1057&utm_source=git)** | PH Executive1626 Jeurgens Court | On Site | Dec 10 |
 | **[University of Washington](http://www.washington.edu)** | **[MHA Intern Opportunities with UW Medicine](https://jobright.ai/jobs/info/693a0e6248a8ce22990e1172?utm_campaign=1057&utm_source=git)** | Seattle, Non-Campus | Hybrid | Dec 10 |
 | **[Veranova](https://veranova.com)** | **[Summer 2026 Intern - Devens, MA or West Deptford, NJ](https://jobright.ai/jobs/info/693a2bf4ac80bb5492bcb1b6?utm_campaign=1057&utm_source=git)** | Devens, MA, US | On Site | Dec 10 |
+| **[Instructional ABA Consultants](https://www.iabaconsultants.com)** | **[RBT/Behavior Therapist - Paid internship available](https://jobright.ai/jobs/info/693a7f73f3cb0010f8708a3e?utm_campaign=1057&utm_source=git)** | Des Plaines, IL, USA, 60016 | On Site | Dec 10 |
+| ↳ | **[RBT/Behavior Therapist - Paid internship available](https://jobright.ai/jobs/info/693a7ff1f4e44c4d629d2b4b?utm_campaign=1057&utm_source=git)** | 1975 McDowell Rd, Naperville, IL 60563, USA | On Site | Dec 10 |
 | **[Monte Nido Walden](https://www.waldeneatingdisorders.com)** | **[Walden - Clinical Internship](https://jobright.ai/jobs/info/693a2c8848a8ce22990e254e?utm_campaign=1057&utm_source=git)** | US-MA-Waltham | On Site | Dec 10 |
 | **[Providence Health & Services](https://www.providence.org/)** | **[Clinical Student Intern](https://jobright.ai/jobs/info/693a27b856b68f3dc4e77b22?utm_campaign=1057&utm_source=git)** | Spokane, WA | On Site | Dec 10 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - CHE- College Enrollment](https://jobright.ai/jobs/info/693a0a03ac80bb5492bc90b8?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Dec 10 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Career Center at Portland State University](https://www.pdx.edu/careers/)** | **[MBA Student Experience Manager](https://jobright.ai/jobs/info/69396f5548a8ce22990d7738?utm_campaign=1057&utm_source=git)** | Portland, OR | On Site | Dec 10 |
 | **[Travelers](https://www.travelers.com)** | **[Claim Professional Development Program (CPDP) Intern](https://jobright.ai/jobs/info/692824c5d47de4798ece1f54?utm_campaign=1057&utm_source=git)** | Charlotte, NC | Hybrid | Dec 10 |
 | **[YMCA of Florida's First Coast](http://firstcoastymca.org/)** | **[Sports Internship - Dye Clay YMCA](https://jobright.ai/jobs/info/69394e0748a8ce22990d6f38?utm_campaign=1057&utm_source=git)** | Orange Park, FL | Hybrid | Dec 09 |
-| **[Providence Health & Services](https://www.providence.org/)** | **[Clinical Student Intern](https://jobright.ai/jobs/info/6939389448a8ce22990d5219?utm_campaign=1057&utm_source=git)** | Spokane, WA | On Site | Dec 09 |
-| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II Full Time - ED](https://jobright.ai/jobs/info/69392b1aac80bb5492bbc582?utm_campaign=1057&utm_source=git)** | West Memphis, AR | On Site | Dec 09 |
-| **[California State University - East Bay](https://www.csueastbay.edu)** | **[SEVIS Records Coordinator & Student Engagement Advisor](https://jobright.ai/jobs/info/6938ea77b95c305f206e2bb9?utm_campaign=1057&utm_source=git)** | Hayward, CA | Hybrid | Dec 09 |
-| **[Portland State University, College of Urban and Public Affairs](https://www.pdx.edu/urban-public-affairs/)** | **[MBA Student Experience Manager](https://jobright.ai/jobs/info/6939183348a8ce22990d3a53?utm_campaign=1057&utm_source=git)** | Portland, OR | On Site | Dec 09 |
-| **[National Football League (NFL)](http://www.nfl.com)** | **[2026 Undergraduate Summer Intern (CA)](https://jobright.ai/jobs/info/6938e848a0dde7020e3187d4?utm_campaign=1057&utm_source=git)** | Inglewood, CA | On Site | Dec 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
