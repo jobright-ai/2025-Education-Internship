@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cherry Creek School District](https://www.cherrycreekschools.org/)** | **[Nurse Intern - District-Wide](https://jobright.ai/jobs/info/6939ed1348a8ce22990de288?utm_campaign=1057&utm_source=git)** | 4700 S.YOSEMITE ST, GREENWOOD VILLAGE, CO, 80111, US | On Site | Dec 10 |
 | **[Pathway Caring for Children](https://www.pathwaycfc.org)** | **[Bachelor's-Level Internship – Pathway Caring for Children (Canton, OH)](https://jobright.ai/jobs/info/6939d7adac80bb5492bc5561?utm_campaign=1057&utm_source=git)** | Canton,OH,US | Hybrid | Dec 10 |
 | **[Marriott International](http://travel-brilliantly.marriott.com)** | **[Supervisor Intern - Hotel Ruth Chris](https://jobright.ai/jobs/info/6939cf3348a8ce22990dd109?utm_campaign=1057&utm_source=git)** | L.G. Smith Boulevard # 101, Palm Beach, AW | On Site | Dec 10 |
 | **[Alabama Cooperative Extension System](https://www.aces.edu/)** | **[Summer Internship -  Alabama Cooperative Extension](https://jobright.ai/jobs/info/6939c99a56b68f3dc4e727be?utm_campaign=1057&utm_source=git)** | Auburn, AL | On Site | Dec 10 |
@@ -108,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[Portland State University, College of Urban and Public Affairs](https://www.pdx.edu/urban-public-affairs/)** | **[MBA Student Experience Manager](https://jobright.ai/jobs/info/6939183348a8ce22990d3a53?utm_campaign=1057&utm_source=git)** | Portland, OR | On Site | Dec 09 |
 | **[National Football League (NFL)](http://www.nfl.com)** | **[2026 Undergraduate Summer Intern (CA)](https://jobright.ai/jobs/info/6938e848a0dde7020e3187d4?utm_campaign=1057&utm_source=git)** | Inglewood, CA | On Site | Dec 09 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6939016cb95c305f206e4151?utm_campaign=1057&utm_source=git)** | Santa Cruz, CA | On Site | Dec 09 |
-| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69392105ac80bb5492bbbeda?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Dec 09 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/693908c77548dd746be5878e?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | Dec 09 |
+| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69392105ac80bb5492bbbeda?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Dec 09 |
 | **[National Football League (NFL)](http://www.nfl.com)** | **[2026 Undergraduate Summer Intern (NY)](https://jobright.ai/jobs/info/6938d4b0b95c305f206e0990?utm_campaign=1057&utm_source=git)** | New York, New York, United States | On Site | Dec 09 |
 | **[Eastern Virginia Medical School](http://www.evms.edu/)** | **[Intern - Education - Dean's Office, Medical School](https://jobright.ai/jobs/info/6938cfdfa0dde7020e316299?utm_campaign=1057&utm_source=git)** | US-VA-Norfolk | On Site | Dec 09 |
 | **[Caravel Autism Health](http://caravelautism.com)** | **[Senior Intern](https://jobright.ai/jobs/info/6938cb21a0dde7020e315d43?utm_campaign=1057&utm_source=git)** | Hermantown, MN, US | On Site | Dec 09 |
@@ -138,7 +139,7 @@ For a complete list, click the following sortable link below:
 | **[Sudbury Catholic District School Board](https://sudburycatholicschools.ca)** | **[Permanent Grade K-6 Teacher (includes Core French), 1.0 FTE (internal/external)](https://jobright.ai/jobs/info/69389cabb95c305f206dd114?utm_campaign=1057&utm_source=git)** | Killarney, Ontario, Canada | On Site | Dec 09 |
 | **[Global Cities, Inc.](http://globalcities.org/)** | **[Graduate Student Internship](https://jobright.ai/jobs/info/6938c59caabec14a727dae0d?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 09 |
 | **[Culver Academies](https://www.culver.org)** | **[2026 Summer Schools and Camps - Internship](https://jobright.ai/jobs/info/6938ca04b95c305f206dfdc5?utm_campaign=1057&utm_source=git)** | Culver, IN | On Site | Dec 09 |
-| **[Self-Help Credit Union](https://www.self-help.org/)** | **[Learning and Development Training Intern](https://jobright.ai/jobs/info/693894edb95c305f206dc53b?utm_campaign=1057&utm_source=git)** | CA-Sacramento | On Site | Dec 09 |
+| **[Self-Help Credit Union](https://www.self-help.org/)** | **[Learning and Development Training Intern](https://jobright.ai/jobs/info/69389732b95c305f206dc804?utm_campaign=1057&utm_source=git)** | CA-Sacramento | On Site | Dec 09 |
 | **[University of Idaho](http://www.uidaho.edu/)** | **[International Transfer Specialist](https://jobright.ai/jobs/info/6938c027a0dde7020e315802?utm_campaign=1057&utm_source=git)** | Moscow, ID | On Site | Dec 09 |
 | **[Washington Area Clinical Center](www.waccenter.com)** | **[Graduate Clinical Intern](https://jobright.ai/jobs/info/6938b882a0dde7020e315333?utm_campaign=1057&utm_source=git)** | Bowie, MD | Hybrid | Dec 09 |
 | **[BlueCross BlueShield of South Carolina](https://www.southcarolinablues.com)** | **[Information Technology Summer Student Intern](https://jobright.ai/jobs/info/69388e65a0dde7020e312042?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Dec 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Northeast Family Services](https://www.northeastfamilyservices.com)** | **[Director of Internship and Training - LICSW](https://jobright.ai/jobs/info/69389869a0dde7020e312d21?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Dec 09 |
 | ↳ | **[Director of Internship and Training - LICSW](https://jobright.ai/jobs/info/6938a2eba0dde7020e313fa2?utm_campaign=1057&utm_source=git)** | Massachusetts, United States | On Site | Dec 09 |
 | ↳ | **[Director of Internship and Training - LICSW](https://jobright.ai/jobs/info/69389e52aabec14a727d855f?utm_campaign=1057&utm_source=git)** | Worcester, MA | On Site | Dec 09 |
-| ↳ | **[Director of Internship and Training - LICSW](https://jobright.ai/jobs/info/69389722a0dde7020e312ad3?utm_campaign=1057&utm_source=git)** | West Springfield, MA | On Site | Dec 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
