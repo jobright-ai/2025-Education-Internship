@@ -95,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[TD](https://www.td.com)** | **[2026 Summer Graduate Leadership Internship Program - Retail Distribution](https://jobright.ai/jobs/info/693a33c5ac80bb5492bcbbb9?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 11 |
 | **[Amherst College](http://www.amherst.edu)** | **[Program Director, Traub Careers in Business and Finance](https://jobright.ai/jobs/info/693b5b61d4054a2bc0255328?utm_campaign=1057&utm_source=git)** | Amherst, MA | On Site | Dec 11 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Temporary Summer Education Intern](https://jobright.ai/jobs/info/693b5632d4054a2bc025503b?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Dec 11 |
-| **[PNC](http://www.pnc.com)** | **[Corporate & Institutional Banking Undergraduate Intern - Capital Markets](https://jobright.ai/jobs/info/693b347db309e3780086ee0c?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Dec 11 |
 | **[Merakey](https://www.merakey.org/)** | **[Unpaid Clinical Master's Level intern](https://jobright.ai/jobs/info/693b59825f2c001987ed61f3?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Dec 11 |
 | **[University of Arkansas System Division of Agriculture](https://uada.edu)** | **[4-H Youth Development Intern](https://jobright.ai/jobs/info/693b5331b309e37800871382?utm_campaign=1057&utm_source=git)** | Little Rock | On Site | Dec 11 |
 | **[Travelers](https://www.travelers.com)** | **[Claim Professional Development Program (CPDP) Intern](https://jobright.ai/jobs/info/69281f9bd47de4798ece1e7a?utm_campaign=1057&utm_source=git)** | Baltimore, MD | Hybrid | Dec 11 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Training Intern](https://jobright.ai/jobs/info/691e130009cc522e87735c25?utm_campaign=1057&utm_source=git)** | Dayton Metropolitan Area | On Site | Dec 11 |
 | **[Education Service Center Region 13 ](https://esc13.net)** | **[Non-Paid University - Nurse Interns - 2025-2026](https://jobright.ai/jobs/info/693a9b035f2c001987ecb9f7?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Dec 11 |
 | **[Berkley Technology Services](https://berkley-bts.com)** | **[Genesys Co-Op](https://jobright.ai/jobs/info/693ac5a6d4054a2bc024b85c?utm_campaign=1057&utm_source=git)** | Urbandale, IA | On Site | Dec 11 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern- Barre, VT](https://jobright.ai/jobs/info/693a8928383bf96319839520?utm_campaign=1057&utm_source=git)** | Barre, VT | On Site | Dec 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
