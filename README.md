@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[FWS Student Assistant](https://jobright.ai/jobs/info/693bd48f50bbaf76504f2f75?utm_campaign=1057&utm_source=git)** | Florida, United States | On Site | Dec 11 |
+| **[American Addiction Centers](https://americanaddictioncenters.org/)** | **[Masters Level Clinician (Registered Intern License)](https://jobright.ai/jobs/info/693bcade4911ef04095ef6b4?utm_campaign=1057&utm_source=git)** | Riverview, FL | On Site | Dec 11 |
+| **[Mulai Coding Inc.](https://mulaicoding.com)** | **[Growth Intern](https://jobright.ai/jobs/info/693bd7014911ef04095efaf1?utm_campaign=1057&utm_source=git)** | San Francisco, CA | Remote | Dec 11 |
+| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/693bcbc050bbaf76504f2c54?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Dec 11 |
 | **[LifeBridge Health](http://www.lifebridgehealth.org/)** | **[Nurse Intern](https://jobright.ai/jobs/info/693b918bb309e37800873da1?utm_campaign=1057&utm_source=git)** | Westminster, MD | On Site | Dec 11 |
+| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Undergraduate Summer - Tribal Education Partnership Program/BEST, Remote](https://jobright.ai/jobs/info/6916969c286ccf0a15137b38?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | Remote | Dec 11 |
 | **[TD](https://www.td.com)** | **[2026 Summer Graduate Leadership Internship Program - Consumer Products – Credit Management](https://jobright.ai/jobs/info/693796b2aabec14a727c990d?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 11 |
 | **[The Heritage Group](https://thgrp.com)** | **[The Heritage Group - Instructional Design Intern](https://jobright.ai/jobs/info/693b96b1b309e3780087475b?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Dec 11 |
 | **[American Lung Association](http://www.lung.org)** | **[Development Intern - Spring 2026](https://jobright.ai/jobs/info/693b7890b309e37800872b90?utm_campaign=1057&utm_source=git)** | Remote, US | Remote | Dec 11 |
@@ -69,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Consumer & Community Banking Risk Modeling Associate Program – Summer Internship](https://jobright.ai/jobs/info/693b8dacd4054a2bc0256af5?utm_campaign=1057&utm_source=git)** | Wilmington, DE | On Site | Dec 11 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Intern-Clinical](https://jobright.ai/jobs/info/693ba22b4911ef04095ed9d2?utm_campaign=1057&utm_source=git)** | Murfreesboro, TN | On Site | Dec 11 |
 | **[American Lung Association](http://www.lung.org)** | **[Development Intern - Spring 2026](https://jobright.ai/jobs/info/693b6df6d4054a2bc0255c43?utm_campaign=1057&utm_source=git)** | Anchorage, AK, US | Remote | Dec 11 |
-| **[Soccer Shots Franchising](http://www.soccershotsfranchising.com)** | **[Soccer Shots Youth Soccer Coach Summer '26 Internship](https://jobright.ai/jobs/info/693b951bb309e37800874478?utm_campaign=1057&utm_source=git)** | Carmel, IN 46032 | On Site | Dec 11 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/693b8e5fb309e378008737d2?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 11 |
+| **[Soccer Shots Franchising](http://www.soccershotsfranchising.com)** | **[Soccer Shots Youth Soccer Coach Summer '26 Internship](https://jobright.ai/jobs/info/693b9137b309e37800873cdd?utm_campaign=1057&utm_source=git)** | Carmel, IN 46032 | On Site | Dec 11 |
 | **[The Centers](https://thecentersohio.org/)** | **[Counseling Intern](https://jobright.ai/jobs/info/693b8d97d4054a2bc0256ae9?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Dec 11 |
 | **[HealthCorps](https://www.HealthCorps.org)** | **[HealthCorps Teen Health Education Internship](https://jobright.ai/jobs/info/693b883cd4054a2bc0256731?utm_campaign=1057&utm_source=git)** | San Diego, CA | Hybrid | Dec 11 |
 | **[Waypoint NH](https://www.waypointnh.org)** | **[Intern - Family Resource Center (Upper Valley)](https://jobright.ai/jobs/info/693b8004b309e37800872e68?utm_campaign=1057&utm_source=git)** | Lebanon, NH, US | On Site | Dec 11 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BakerRipley](https://www.bakerripley.org)** | **[Program Intern (841)](https://jobright.ai/jobs/info/691f0b28a49a885af9a2bde8?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Dec 11 |
 | **[Southeast Toyota Finance](https://www.setf.com/)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/691b5d7522a2cb4b9bd11c6f?utm_campaign=1057&utm_source=git)** | Greater St. Louis | Hybrid | Dec 11 |
 | ↳ | **[Learning & Development Intern](https://jobright.ai/jobs/info/691b812fbcdbf3560c9df7a1?utm_campaign=1057&utm_source=git)** | Mobile Metropolitan Area | Hybrid | Dec 11 |
-| **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Customer Training Intern](https://jobright.ai/jobs/info/691e01f609cc522e87734c41?utm_campaign=1057&utm_source=git)** | Greater Houston | On Site | Dec 11 |
-| ↳ | **[Sales Training Intern](https://jobright.ai/jobs/info/691e130009cc522e87735c25?utm_campaign=1057&utm_source=git)** | Dayton Metropolitan Area | On Site | Dec 11 |
-| **[Education Service Center Region 13 ](https://esc13.net)** | **[Non-Paid University - Nurse Interns - 2025-2026](https://jobright.ai/jobs/info/693a9b035f2c001987ecb9f7?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Dec 11 |
-| **[Berkley Technology Services](https://berkley-bts.com)** | **[Genesys Co-Op](https://jobright.ai/jobs/info/693ac5a6d4054a2bc024b85c?utm_campaign=1057&utm_source=git)** | Urbandale, IA | On Site | Dec 11 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern- Barre, VT](https://jobright.ai/jobs/info/693a8928383bf96319839520?utm_campaign=1057&utm_source=git)** | Barre, VT | On Site | Dec 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
