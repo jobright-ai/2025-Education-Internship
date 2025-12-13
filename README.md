@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wall Street Prep](https://www.wallstreetprep.com/)** | **[Chapter President Internship - University of Kentucky](https://jobright.ai/jobs/info/693cac81aa598a08c3ed8cba?utm_campaign=1057&utm_source=git)** | Lexington, KY | Hybrid | Dec 12 |
+| **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Per Diem Student Intern NEUROLOGY DL](https://jobright.ai/jobs/info/6932d606a0dde7020e2e8f4e?utm_campaign=1057&utm_source=git)** | Greater Boston | On Site | Dec 12 |
+| **[BMO U.S.](http://www.bmoharris.com/us)** | **[BMO Catalyst - Commercial Banking Freshman and Sophomore Internship Program, Summer 2026 (8 Weeks)](https://jobright.ai/jobs/info/693ca84149a7695fbd03738c?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Dec 12 |
 | **[Ayar Labs](https://ayarlabs.com)** | **[Intern, Training Coordinator](https://jobright.ai/jobs/info/693ca5b549a7695fbd0371bf?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Dec 12 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/693ca4ee50bbaf76504fe9c5?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Dec 12 |
 | **[State of Colorado](https://dpo.colorado.gov/Medical)** | **[INTERNSHIP Area 7 Wildlife Intern](https://jobright.ai/jobs/info/693ca4c150bbaf76504fe9ae?utm_campaign=1057&utm_source=git)** | Mesa County, CO | On Site | Dec 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sealaska](http://www.sealaska.com/)** | **[Interpretation and Conservation Intern (USFS) - Summer 2026](https://jobright.ai/jobs/info/693b26c55f2c001987ed2522?utm_campaign=1057&utm_source=git)** | Juneau, AK | On Site | Dec 11 |
 | **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[Education & Training Intern (Spring 2026)](https://jobright.ai/jobs/info/693b4bb35f2c001987ed4a36?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Dec 11 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - IT Asset Management Intern](https://jobright.ai/jobs/info/692f5d2e4c474121999de2bd?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Dec 11 |
-| **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Clinical Dietitian I, Intern Program](https://jobright.ai/jobs/info/693b4186d4054a2bc0252c9c?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Dec 11 |
-| **[Endeavor Schools](https://www.endeavorschools.com)** | **[Intern - Classroom/School-based](https://jobright.ai/jobs/info/693b1eb3d4054a2bc0250f55?utm_campaign=1057&utm_source=git)** | US-MN-StAnthony | On Site | Dec 11 |
-| **[Christian Family Care](https://cfcare.org/)** | **[Undergraduate Internship - Family Empowerment Program](https://jobright.ai/jobs/info/693b1c3cd4054a2bc0250db3?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Dec 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
