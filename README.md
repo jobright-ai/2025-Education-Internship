@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Trading Internship](https://jobright.ai/jobs/info/693ebe55aa598a08c3eef2e1?utm_campaign=1057&utm_source=git)** | United States | Remote | Dec 14 |
+| **[Child Mind Institute](http://childmind.org)** | **[Lead Intern, Summer Program](https://jobright.ai/jobs/info/690536f2122e8474c78d793d?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 14 |
+| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68ce05181ad6b16f028a0f8a?utm_campaign=1057&utm_source=git)** | Davenport, FL | On Site | Dec 14 |
 | **[University of Vermont](http://www.uvm.edu/medicine)** | **[EDUCATION FINANCE - ASSISTANT PROFESSOR](https://jobright.ai/jobs/info/68e9ab370930fe0bc46280e4?utm_campaign=1057&utm_source=git)** | Burlington, VT | On Site | Dec 14 |
 | **[DPR Construction](http://www.dpr.com)** | **[Build Up Internship - Charlotte](https://jobright.ai/jobs/info/672b51dde591f4305e4230d3?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Dec 14 |
-| **[North Memorial Health](https://northmemorial.com/)** | **[Summer Nurse Intern- 2026](https://jobright.ai/jobs/info/6904ce8b122e8474c78d35ee?utm_campaign=1057&utm_source=git)** | Twin Cities Area | On Site | Dec 14 |
+| **[North Memorial Health](https://northmemorial.com/)** | **[Summer Nurse Intern- 2026](https://jobright.ai/jobs/info/6904e26fff462851feff84ed?utm_campaign=1057&utm_source=git)** | Twin Cities Area | On Site | Dec 14 |
 | **[University of Arkansas System](https://www.uasys.edu)** | **[Graduate Assistant](https://jobright.ai/jobs/info/693e954d49a7695fbd04bd54?utm_campaign=1057&utm_source=git)** | Pine Bluff, AR | On Site | Dec 14 |
 | **[University of North Carolina Wilmington](https://uncw.edu/)** | **[SHRA Temporary Program Associate III](https://jobright.ai/jobs/info/693e931150bbaf76505138f4?utm_campaign=1057&utm_source=git)** | Wilmington, NC | On Site | Dec 14 |
 | **[Portland Community College](http://www.pcc.edu/)** | **[Instructor, Reading, Writing, and English (FT)](https://jobright.ai/jobs/info/693e906549a7695fbd04bd15?utm_campaign=1057&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Dec 14 |
@@ -131,10 +134,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[BrightLife Kids Health Educator Internship (Greater Sacramento Area, CA)](https://jobright.ai/jobs/info/693cfff350bbaf76505030f1?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Dec 12 |
 | ↳ | **[BrightLife Kids Health Educator Internship (San Francisco Bay Area, CA)](https://jobright.ai/jobs/info/693d0170aa598a08c3edd04c?utm_campaign=1057&utm_source=git)** | Alameda, CA | On Site | Dec 12 |
 | ↳ | **[BrightLife Kids Health Educator Internship (Riverside & San Bernardino, CA)](https://jobright.ai/jobs/info/693cfff6aa598a08c3edcffd?utm_campaign=1057&utm_source=git)** | Riverside, CA | On Site | Dec 12 |
-| ↳ | **[BrightLife Kids Health Educator Internship (Greater Sacramento Area, CA)](https://jobright.ai/jobs/info/693d012850bbaf7650503128?utm_campaign=1057&utm_source=git)** | Yolo, CA | On Site | Dec 12 |
-| ↳ | **[BrightLife Kids Health Educator Internship (Riverside & San Bernardino, CA)](https://jobright.ai/jobs/info/693cffefaa598a08c3edcffb?utm_campaign=1057&utm_source=git)** | San Bernardino, CA | On Site | Dec 12 |
 | ↳ | **[BrightLife Kids Health Educator Internship (Greater Sacramento Area, CA)](https://jobright.ai/jobs/info/693cff85aa598a08c3edcfe5?utm_campaign=1057&utm_source=git)** | San Joaquin, CA | On Site | Dec 12 |
 | ↳ | **[BrightLife Kids Health Educator Internship (San Francisco Bay Area, CA)](https://jobright.ai/jobs/info/693d014e49a7695fbd03b957?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Dec 12 |
+| ↳ | **[BrightLife Kids Health Educator Internship (Greater Sacramento Area, CA)](https://jobright.ai/jobs/info/693d012850bbaf7650503128?utm_campaign=1057&utm_source=git)** | Yolo, CA | On Site | Dec 12 |
+| ↳ | **[BrightLife Kids Health Educator Internship (Riverside & San Bernardino, CA)](https://jobright.ai/jobs/info/693cffefaa598a08c3edcffb?utm_campaign=1057&utm_source=git)** | San Bernardino, CA | On Site | Dec 12 |
 | **[Zipline](https://www.zipline.com/)** | **[Community Engagement Intern (Summer 2026)](https://jobright.ai/jobs/info/693ccadc50bbaf76504ffc26?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Dec 12 |
 | **[State of Colorado](https://dpo.colorado.gov/Medical)** | **[INTERNSHIP Area 7 Wildlife Intern.](https://jobright.ai/jobs/info/693ce6bbaa598a08c3edaa59?utm_campaign=1057&utm_source=git)** | Mesa County, CO | On Site | Dec 12 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Assistant International Student Advisor](https://jobright.ai/jobs/info/693ce5bc50bbaf7650500b17?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Dec 12 |
@@ -151,10 +154,7 @@ For a complete list, click the following sortable link below:
 | **[West Shore Home](http://westshorehome.com)** | **[Training Internship (Summer 2026)](https://jobright.ai/jobs/info/693cb39049a7695fbd0378ac?utm_campaign=1057&utm_source=git)** | Mechanicsburg, PA | On Site | Dec 12 |
 | **[Wall Street Prep](https://www.wallstreetprep.com/)** | **[Chapter President Internship - University of Kentucky](https://jobright.ai/jobs/info/693cac81aa598a08c3ed8cba?utm_campaign=1057&utm_source=git)** | Lexington, KY | Hybrid | Dec 12 |
 | **[Brightline](https://www.hellobrightline.com)** | **[BrightLife Kids Health Educator Internship (Orange County, CA)](https://jobright.ai/jobs/info/693cd69249a7695fbd0389ea?utm_campaign=1057&utm_source=git)** | Orange County | On Site | Dec 12 |
-| ↳ | **[BrightLife Kids Health Educator Internship (San Francisco Bay Area, CA)](https://jobright.ai/jobs/info/693cd57caa598a08c3eda092?utm_campaign=1057&utm_source=git)** | San Francisco | On Site | Dec 12 |
-| ↳ | **[BrightLife Kids Health Educator Internship (San Diego, CA)](https://jobright.ai/jobs/info/693cd710aa598a08c3eda13d?utm_campaign=1057&utm_source=git)** | San Diego | On Site | Dec 12 |
-| ↳ | **[BrightLife Kids Health Educator Internship (CA)](https://jobright.ai/jobs/info/693cd83e50bbaf7650500304?utm_campaign=1057&utm_source=git)** | California  | On Site | Dec 12 |
-| ↳ | **[BrightLife Kids Health Educator Internship (Greater Sacramento Area, CA)](https://jobright.ai/jobs/info/693cd14349a7695fbd0387ce?utm_campaign=1057&utm_source=git)** | Sacramento | On Site | Dec 12 |
 | ↳ | **[BrightLife Kids Health Educator Internship (Los Angeles, CA)](https://jobright.ai/jobs/info/693cd2ff49a7695fbd038893?utm_campaign=1057&utm_source=git)** | Los Angeles | On Site | Dec 12 |
-| **[BMO U.S.](http://www.bmoharris.com/us)** | **[BMO Catalyst - Commercial Banking Freshman and Sophomore Internship Program, Summer 2026 (8 Weeks)](https://jobright.ai/jobs/info/693ca84149a7695fbd03738c?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Dec 12 |
+| ↳ | **[BrightLife Kids Health Educator Internship (San Francisco Bay Area, CA)](https://jobright.ai/jobs/info/693cd57caa598a08c3eda092?utm_campaign=1057&utm_source=git)** | San Francisco | On Site | Dec 12 |
+| ↳ | **[BrightLife Kids Health Educator Internship (CA)](https://jobright.ai/jobs/info/693cd83e50bbaf7650500304?utm_campaign=1057&utm_source=git)** | California  | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
