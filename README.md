@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ascension](https://healthcare.ascension.org)** | **[Intern-Clinical](https://jobright.ai/jobs/info/693ba22b4911ef04095ed9d2?utm_campaign=1057&utm_source=git)** | Murfreesboro, TN | On Site | Dec 15 |
+| ↳ | **[Respiratory Therapy Intern - Critical Care/Trauma 1- Indianapolis Campus](https://jobright.ai/jobs/info/691fa9ae09cc522e8774448b?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Dec 15 |
+| **[TD](https://www.td.com)** | **[2026 Summer Graduate Leadership Internship Program - Consumer Products – Credit Management](https://jobright.ai/jobs/info/693fd3c550bbaf765052071c?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 15 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern - Senior Behavioral Health](https://jobright.ai/jobs/info/69374311aabec14a727c5b0f?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Dec 15 |
+| ↳ | **[Nurse Intern - ED](https://jobright.ai/jobs/info/693b377ad4054a2bc02524a5?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | Dec 15 |
+| ↳ | **[Clinical Intern](https://jobright.ai/jobs/info/69099333bcccf20de59dc8f3?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Dec 15 |
+| ↳ | **[Nurse Intern - Pediatric Intensive Care & Burn Unit](https://jobright.ai/jobs/info/6918158b15b415636717e820?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Dec 15 |
+| **[TD](https://www.td.com)** | **[2026 Summer Graduate Leadership Internship Program - Digital](https://jobright.ai/jobs/info/693fc45450bbaf765051eb4b?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 15 |
 | **[Savvas Learning Company](https://www.savvas.com)** | **[Humanities Education Intern](https://jobright.ai/jobs/info/693fbaa549a7695fbd056993?utm_campaign=1057&utm_source=git)** | Northbrook, IL 60062, USA | Hybrid | Dec 14 |
 | ↳ | **[Literacy Education Intern](https://jobright.ai/jobs/info/693fb907aa598a08c3ef8453?utm_campaign=1057&utm_source=git)** | Northbrook, IL 60062, USA | Hybrid | Dec 14 |
 | ↳ | **[Math Education Intern](https://jobright.ai/jobs/info/693fb90550bbaf765051e66d?utm_campaign=1057&utm_source=git)** | Northbrook, IL 60062, USA | Hybrid | Dec 14 |
@@ -83,8 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/693ee96daa598a08c3ef0fc6?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Dec 14 |
 | **[Restaurant Brands International](http://rbi.com/en)** | **[MBA Summer Internship Program](https://jobright.ai/jobs/info/68e9b08465768b6412b1eafe?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Dec 14 |
 | **[Child Mind Institute](http://childmind.org)** | **[Intern, Summer Program](https://jobright.ai/jobs/info/6905335eff462851feffbb59?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 14 |
-| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/693ec59e49a7695fbd04da3a?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 14 |
-| **[Child Mind Institute](http://childmind.org)** | **[Lead Intern, Summer Program](https://jobright.ai/jobs/info/690536f2122e8474c78d793d?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 14 |
+| ↳ | **[Lead Intern, Summer Program](https://jobright.ai/jobs/info/690536f2122e8474c78d793d?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 14 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68ce05181ad6b16f028a0f8a?utm_campaign=1057&utm_source=git)** | Davenport, FL | On Site | Dec 14 |
 | **[University of Vermont](http://www.uvm.edu/medicine)** | **[EDUCATION FINANCE - ASSISTANT PROFESSOR](https://jobright.ai/jobs/info/68e9ab370930fe0bc46280e4?utm_campaign=1057&utm_source=git)** | Burlington, VT | On Site | Dec 14 |
 | **[DPR Construction](http://www.dpr.com)** | **[Build Up Internship - Charlotte](https://jobright.ai/jobs/info/672b51dde591f4305e4230d3?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Dec 14 |
@@ -97,6 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Poudre School District](http://www.psdschools.org)** | **[INTERNAL ONLY 2025-26 50% Career Tech Center Teacher Secondary-Medical Assistant Pathway-Career Tech](https://jobright.ai/jobs/info/693e510b50bbaf7650510ef8?utm_campaign=1057&utm_source=git)** | Fort Collins, CO | On Site | Dec 13 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/693e4a13aa598a08c3eea9ad?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Dec 13 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - IT Asset Management Intern](https://jobright.ai/jobs/info/692f5d2e4c474121999de2bd?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Dec 13 |
+| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/693e185350bbaf765050e4e1?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 13 |
 | **[Nisga'a School District 92](http://www.nisgaa.bc.ca)** | **[26-56 District Student Data Clerk](https://jobright.ai/jobs/info/693de148aa598a08c3ee6477?utm_campaign=1057&utm_source=git)** | Nisga'a, British Columbia, Canada | On Site | Dec 13 |
 | **[Meridian Health](https://www.meridianhealth.com)** | **[Intern - Masters Level Clinical Therapist 6797](https://jobright.ai/jobs/info/693ddb9250bbaf765050c54b?utm_campaign=1057&utm_source=git)** | Connersville, IN | On Site | Dec 13 |
 | **[Learnitude](https://www.learnitude.com/)** | **[Internship: Training and Operations Support](https://jobright.ai/jobs/info/693e40b949a7695fbd04862b?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Dec 13 |
@@ -144,17 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Colorado Department of Revenue](https://linktr.ee/co_revenue)** | **[INTERNSHIP Area 7 Wildlife Intern](https://jobright.ai/jobs/info/693cd273aa598a08c3ed9f4e?utm_campaign=1057&utm_source=git)** | Mesa County, CO | On Site | Dec 12 |
 | **[Alliance College-Ready Public Schools](http://www.laalliance.org)** | **[2026-27 School Counselor Intern (Unpaid)](https://jobright.ai/jobs/info/693ccdd250bbaf76504ffdc7?utm_campaign=1057&utm_source=git)** | Los Angeles | On Site | Dec 12 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - CMG Learning and Skill Development](https://jobright.ai/jobs/info/693ccc6e50bbaf76504ffcff?utm_campaign=1057&utm_source=git)** | South San Francisco | On Site | Dec 12 |
-| **[Brightline](https://www.hellobrightline.com)** | **[BrightLife Kids Health Educator Internship (Los Angeles, CA)](https://jobright.ai/jobs/info/693d0069aa598a08c3edd016?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Dec 12 |
-| ↳ | **[BrightLife Kids Health Educator Internship (San Diego, CA)](https://jobright.ai/jobs/info/693d0096aa598a08c3edd01e?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Dec 12 |
+| **[Brightline](https://www.hellobrightline.com)** | **[BrightLife Kids Health Educator Internship (San Diego, CA)](https://jobright.ai/jobs/info/693d0096aa598a08c3edd01e?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Dec 12 |
+| ↳ | **[BrightLife Kids Health Educator Internship (Los Angeles, CA)](https://jobright.ai/jobs/info/693d0069aa598a08c3edd016?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Dec 12 |
 | ↳ | **[BrightLife Kids Health Educator Internship (San Francisco Bay Area, CA)](https://jobright.ai/jobs/info/693d015850bbaf7650503130?utm_campaign=1057&utm_source=git)** | Contra Costa Centre, CA | On Site | Dec 12 |
 | ↳ | **[BrightLife Kids Health Educator Internship (San Francisco Bay Area, CA)](https://jobright.ai/jobs/info/693cff8e49a7695fbd03b8ee?utm_campaign=1057&utm_source=git)** | Santa Clara, CA | On Site | Dec 12 |
 | ↳ | **[BrightLife Kids Health Educator Internship (Greater Sacramento Area, CA)](https://jobright.ai/jobs/info/693cfff350bbaf76505030f1?utm_campaign=1057&utm_source=git)** | Sacramento, CA | On Site | Dec 12 |
-| ↳ | **[BrightLife Kids Health Educator Internship (San Francisco Bay Area, CA)](https://jobright.ai/jobs/info/693d0170aa598a08c3edd04c?utm_campaign=1057&utm_source=git)** | Alameda, CA | On Site | Dec 12 |
-| ↳ | **[BrightLife Kids Health Educator Internship (Riverside & San Bernardino, CA)](https://jobright.ai/jobs/info/693cfff6aa598a08c3edcffd?utm_campaign=1057&utm_source=git)** | Riverside, CA | On Site | Dec 12 |
-| ↳ | **[BrightLife Kids Health Educator Internship (Riverside & San Bernardino, CA)](https://jobright.ai/jobs/info/693cffefaa598a08c3edcffb?utm_campaign=1057&utm_source=git)** | San Bernardino, CA | On Site | Dec 12 |
-| ↳ | **[BrightLife Kids Health Educator Internship (San Francisco Bay Area, CA)](https://jobright.ai/jobs/info/693d014e49a7695fbd03b957?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Dec 12 |
-| ↳ | **[BrightLife Kids Health Educator Internship (Greater Sacramento Area, CA)](https://jobright.ai/jobs/info/693cff85aa598a08c3edcfe5?utm_campaign=1057&utm_source=git)** | San Joaquin, CA | On Site | Dec 12 |
-| ↳ | **[BrightLife Kids Health Educator Internship (Greater Sacramento Area, CA)](https://jobright.ai/jobs/info/693d012850bbaf7650503128?utm_campaign=1057&utm_source=git)** | Yolo, CA | On Site | Dec 12 |
-| **[Zipline](https://www.zipline.com/)** | **[Community Engagement Intern (Summer 2026)](https://jobright.ai/jobs/info/693ccadc50bbaf76504ffc26?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Dec 12 |
-| **[State of Colorado](https://dpo.colorado.gov/Medical)** | **[INTERNSHIP Area 7 Wildlife Intern.](https://jobright.ai/jobs/info/693ce6bbaa598a08c3edaa59?utm_campaign=1057&utm_source=git)** | Mesa County, CO | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
