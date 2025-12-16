@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/6940efd549a7695fbd06859f?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Dec 15 |
+| **[Kolmac Integrated Behavioral Health](http://www.kolmac.com/)** | **[Clinical Intern](https://jobright.ai/jobs/info/6940e4bd49a7695fbd0668b4?utm_campaign=1057&utm_source=git)** | Burtonsville, MD | On Site | Dec 15 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Nurse Intern, Clarke Cardiac, Part Time, 6:45am to 7:15pm](https://jobright.ai/jobs/info/6940cb24aa598a08c3f06471?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Dec 15 |
+| **[Auburn University](https://www.auburn.edu/)** | **[Student Assistant - Innovation & Research Commons: Adobe Creative Space](https://jobright.ai/jobs/info/693a02af48a8ce22990dfe00?utm_campaign=1057&utm_source=git)** | Auburn, AL | On Site | Dec 15 |
 | **[Northwest Regional Education Service District](https://www.nwresd.org)** | **[Internship - School Psychologist - Banks School District - 26/27 School Year](https://jobright.ai/jobs/info/6940c9afaa598a08c3f06091?utm_campaign=1057&utm_source=git)** | Hillsboro, OR | On Site | Dec 15 |
 | **[Museum of Science](http://www.mos.org)** | **[Living Laboratory Mentor Internship](https://jobright.ai/jobs/info/6938661ca0dde7020e30f338?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Dec 15 |
 | **[Hightower](https://hightoweraccess.com)** | **[Summer 2026 Internship: Advisor Services](https://jobright.ai/jobs/info/6940c89f50bbaf765052c5ff?utm_campaign=1057&utm_source=git)** | 200 W Madison St, Chicago, IL 60606, USA | On Site | Dec 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Menta Education Group](https://menta.com/)** | **[Teacher Internship -Paid](https://jobright.ai/jobs/info/6745d84317314312922bec44?utm_campaign=1057&utm_source=git)** | Yuma, AZ | On Site | Dec 15 |
 | **[Phelps Health](https://phelpshealth.org/)** | **[Clinical Intern (EWYL) / ECC, Lincoln, SBU Nursing Students](https://jobright.ai/jobs/info/6926099227bf2f41a2c42bf9?utm_campaign=1057&utm_source=git)** | Rolla, MO | On Site | Dec 15 |
 | **[Providence Health & Services](https://www.providence.org/)** | **[Clinical Student Intern](https://jobright.ai/jobs/info/6939389448a8ce22990d5219?utm_campaign=1057&utm_source=git)** | Spokane, WA | On Site | Dec 15 |
-| **[JPS Health Network](https://jpshealthnet.org)** | **[Healthcare Administrative Internship](https://jobright.ai/jobs/info/693a4a67ac80bb5492bcca1b?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Dec 15 |
-| **[Ohlone College](http://www.ohlone.edu/)** | **[Program Manager, Career Services and Industry Relations](https://jobright.ai/jobs/info/693fe2b350bbaf7650520a2e?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 15 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Speech Clinical Fellowship Year Intern, Pediatrics](https://jobright.ai/jobs/info/69060e3563502c0aded80791?utm_campaign=1057&utm_source=git)** | Fresno, CA | On Site | Dec 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
