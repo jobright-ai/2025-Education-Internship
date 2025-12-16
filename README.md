@@ -57,8 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rosendin](https://www.rosendin.com)** | **[Intern (2026)](https://jobright.ai/jobs/info/6940b613aa598a08c3f0542b?utm_campaign=1057&utm_source=git)** | Office CA Southern California | On Site | Dec 15 |
+| **[Weber State University Department of Automotive Technology](https://www.weber.edu/automotive)** | **[BTS Arts Internship](https://jobright.ai/jobs/info/6940b4d5aa598a08c3f0534a?utm_campaign=1057&utm_source=git)** | Campus, IL | On Site | Dec 15 |
+| **[Monte Nido Walden](https://www.waldeneatingdisorders.com)** | **[Walden - Clinical Internship](https://jobright.ai/jobs/info/6940b3e449a7695fbd06356c?utm_campaign=1057&utm_source=git)** | Middletown, CT | On Site | Dec 15 |
+| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/6940b095aa598a08c3f05067?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 15 |
+| ↳ | **[2025/2026 - Science Specialist Teacher and Interns - Elementary](https://jobright.ai/jobs/info/6940affaaa598a08c3f05009?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 15 |
+| ↳ | **[2025/2026 - Art Teacher & Intern - Secondary](https://jobright.ai/jobs/info/6940ac94aa598a08c3f04e6f?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 15 |
+| **[Capital Blue Cross](https://capbluecross.com)** | **[Reporting Services Intern](https://jobright.ai/jobs/info/6940ac80aa598a08c3f04e62?utm_campaign=1057&utm_source=git)** | Harrisburg, PA | Hybrid | Dec 15 |
+| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/6940a90caa598a08c3f04c96?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 15 |
+| **[Good Samaritan](http://goodsamhospice.com/)** | **[Summer Student Nurse Intern Program (SNIP) 2026](https://jobright.ai/jobs/info/6940a54aaa598a08c3f04abf?utm_campaign=1057&utm_source=git)** | 520 S 7th St, Vincennes, IN, 47591, US | On Site | Dec 15 |
+| **[Lincoln Land Community College](http://www.llcc.edu/)** | **[Instructor, Computer Science](https://jobright.ai/jobs/info/6940acb649a7695fbd0631fa?utm_campaign=1057&utm_source=git)** | Springfield, IL | On Site | Dec 15 |
+| ↳ | **[Instructor, Biology](https://jobright.ai/jobs/info/6940a83050bbaf765052b0b0?utm_campaign=1057&utm_source=git)** | Springfield, IL | On Site | Dec 15 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - NJBU - 2025-2026](https://jobright.ai/jobs/info/6940886149a7695fbd06178e?utm_campaign=1057&utm_source=git)** | Bridgewater, NJ | On Site | Dec 15 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Human Resources Training & Development Intern / 2026 Treasury Summer Internship Program](https://jobright.ai/jobs/info/6940868949a7695fbd061430?utm_campaign=1057&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | On Site | Dec 15 |
+| **[Breakthrough Silicon Valley](https://breakthroughsv.org/)** | **[AmeriCorps Teaching Fellow](https://jobright.ai/jobs/info/6940a260aa598a08c3f04970?utm_campaign=1057&utm_source=git)** | San Jose, CA | On Site | Dec 15 |
 | **[Heritage Behavioral Health Center- HBHC](https://www.heritagenet.org/)** | **[Intern - Clinical Outpatient - Decatur, Illinois](https://jobright.ai/jobs/info/694082f349a7695fbd060bd6?utm_campaign=1057&utm_source=git)** | 151 North Main, Decatur, Decatur, IL, US | On Site | Dec 15 |
 | **[District School Board Ontario North East](https://www.dsb1.ca)** | **[INTERNAL - Secondary Teacher (0.17 FTE Geography - Permanent)](https://jobright.ai/jobs/info/6940820f50bbaf7650528942?utm_campaign=1057&utm_source=git)** | Timmins, Ontario, Canada | On Site | Dec 15 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Medical Writing Intern: Rare Disease Unit](https://jobright.ai/jobs/info/6940818749a7695fbd06086f?utm_campaign=1057&utm_source=git)** | US - Boston - MA | Hybrid | Dec 15 |
@@ -95,6 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/694082d250bbaf7650528b1f?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Dec 15 |
 | **[Hightower Advisors](https://thrushgroup.hightoweradvisors.com/)** | **[Summer 2026 Internship: Estate & Financial Planning](https://jobright.ai/jobs/info/69407c7050bbaf7650527e9e?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Dec 15 |
 | **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Dartmouth Hitchcock High School Foundations Summer Internship Program](https://jobright.ai/jobs/info/6940740250bbaf7650527391?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Dec 15 |
+| **[Kids Above All](https://www.kidsaboveall.org)** | **[Clinical Internship (Waukegan)](https://jobright.ai/jobs/info/6940a02050bbaf765052ac2f?utm_campaign=1057&utm_source=git)** | Waukegan, IL | On Site | Dec 15 |
 | **[Altorfer Cat](https://www.altorfer.com/)** | **[ThinkBIG Intern - Cedar Rapids, IA- August 2026](https://jobright.ai/jobs/info/6940709aaa598a08c3f00ec4?utm_campaign=1057&utm_source=git)** | US-IA-Cedar Rapids | On Site | Dec 15 |
 | ↳ | **[ThinkBIG  Intern - Hammond Starting August 2026](https://jobright.ai/jobs/info/69406e0e49a7695fbd05efbb?utm_campaign=1057&utm_source=git)** | US-IN-Hammond | On Site | Dec 15 |
 | **[Simpson College](http://www.simpson.edu/)** | **[Sports Administration Assistant Professor](https://jobright.ai/jobs/info/6940674c50bbaf7650526b09?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Dec 15 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Nurse Intern - ED](https://jobright.ai/jobs/info/693b377ad4054a2bc02524a5?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | On Site | Dec 15 |
 | ↳ | **[Clinical Intern](https://jobright.ai/jobs/info/69099333bcccf20de59dc8f3?utm_campaign=1057&utm_source=git)** | Nashville, TN | On Site | Dec 15 |
 | ↳ | **[Nurse Intern - Pediatric Intensive Care & Burn Unit](https://jobright.ai/jobs/info/6918158b15b415636717e820?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Dec 15 |
-| **[Providence Health & Services](https://www.providence.org/)** | **[Clinical Student Intern - Phlebotomy](https://jobright.ai/jobs/info/6932c4aba0dde7020e2e8b56?utm_campaign=1057&utm_source=git)** | Spokane, WA | On Site | Dec 15 |
-| **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Per Diem Student Intern NEUROLOGY DL](https://jobright.ai/jobs/info/693f9f0049a7695fbd055d4f?utm_campaign=1057&utm_source=git)** | Greater Boston | On Site | Dec 15 |
-| **[TD](https://www.td.com)** | **[2026 Summer Graduate Leadership Internship Program - Digital](https://jobright.ai/jobs/info/693fc45450bbaf765051eb4b?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 15 |
-| **[Endeavor Health](https://www.endeavorhealth.org)** | **[GCSI Summer Internship Program](https://jobright.ai/jobs/info/6933affcf131d96e48465ed2?utm_campaign=1057&utm_source=git)** | Evanston, IL | On Site | Dec 15 |
-| **[Savvas Learning Company](https://www.savvas.com)** | **[Humanities Education Intern](https://jobright.ai/jobs/info/693fbaa549a7695fbd056993?utm_campaign=1057&utm_source=git)** | Northbrook, IL 60062, USA | Hybrid | Dec 14 |
-| ↳ | **[Literacy Education Intern](https://jobright.ai/jobs/info/693fb907aa598a08c3ef8453?utm_campaign=1057&utm_source=git)** | Northbrook, IL 60062, USA | Hybrid | Dec 14 |
-| ↳ | **[Math Education Intern](https://jobright.ai/jobs/info/693fb90550bbaf765051e66d?utm_campaign=1057&utm_source=git)** | Northbrook, IL 60062, USA | Hybrid | Dec 14 |
-| ↳ | **[Humanities Education Intern](https://jobright.ai/jobs/info/693fb29e49a7695fbd0565e8?utm_campaign=1057&utm_source=git)** | Northbrook, IL | Hybrid | Dec 14 |
-| ↳ | **[Math Education Intern](https://jobright.ai/jobs/info/693fb1a050bbaf765051e2bb?utm_campaign=1057&utm_source=git)** | Northbrook, IL | Hybrid | Dec 14 |
-| ↳ | **[Science Education Intern](https://jobright.ai/jobs/info/693fafd550bbaf765051e258?utm_campaign=1057&utm_source=git)** | Northbrook, IL | Hybrid | Dec 14 |
-| **[TD Securities](https://www.tdsecurities.com)** | **[2026 Summer Internship Program - Consumer Banking](https://jobright.ai/jobs/info/693faab950bbaf765051e1c9?utm_campaign=1057&utm_source=git)** | Mount Laurel, NJ | On Site | Dec 14 |
-| **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Consumer Banking](https://jobright.ai/jobs/info/693f9fa050bbaf765051dd96?utm_campaign=1057&utm_source=git)** | Wilmington, Delaware | On Site | Dec 14 |
-| **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Summer Intern for GeoFORCE](https://jobright.ai/jobs/info/693f721450bbaf765051b2c9?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Dec 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
