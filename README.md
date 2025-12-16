@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/69412465bdcf884a5adcff27?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | Hybrid | Dec 16 |
+| **[PNC](http://www.pnc.com)** | **[Corporate & Institutional Banking Undergraduate Intern - Tax Credit](https://jobright.ai/jobs/info/69411e45aa598a08c3f0b3fa?utm_campaign=1057&utm_source=git)** | Louisville, KY | On Site | Dec 16 |
 | **[The University of Toledo](https://utmc.utoledo.edu/)** | **[Program Manager, Graduate Orientation & Operations Support - 500315](https://jobright.ai/jobs/info/6940f89c49a7695fbd06889c?utm_campaign=1057&utm_source=git)** | Toledo, OH | On Site | Dec 15 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/6940efd549a7695fbd06859f?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Dec 15 |
 | **[Kolmac Integrated Behavioral Health](http://www.kolmac.com/)** | **[Clinical Intern](https://jobright.ai/jobs/info/6940e4bd49a7695fbd0668b4?utm_campaign=1057&utm_source=git)** | Burtonsville, MD | On Site | Dec 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Phillips 66](http://www.phillips66.com/)** | **[2026 University Intern - ERI Analytical Solutions](https://jobright.ai/jobs/info/6894eb7673b3a600fe883540?utm_campaign=1057&utm_source=git)** | Bartlesville, OK | On Site | Dec 15 |
 | **[Tarleton State University](http://www.tarleton.edu/)** | **[Student Intern Supervisor](https://jobright.ai/jobs/info/68985dba5574fd6bc0c79253?utm_campaign=1057&utm_source=git)** | Stephenville, TX | On Site | Dec 15 |
 | **[Phelps Health](https://phelpshealth.org/)** | **[Clinical Intern - ED / IPT](https://jobright.ai/jobs/info/69333f00a0dde7020e2ebd0e?utm_campaign=1057&utm_source=git)** | Rolla, MO | On Site | Dec 15 |
-| **[The Menta Education Group](https://menta.com/)** | **[Teacher Internship -Paid](https://jobright.ai/jobs/info/6745d84317314312922bec44?utm_campaign=1057&utm_source=git)** | Yuma, AZ | On Site | Dec 15 |
-| **[Phelps Health](https://phelpshealth.org/)** | **[Clinical Intern (EWYL) / ECC, Lincoln, SBU Nursing Students](https://jobright.ai/jobs/info/6926099227bf2f41a2c42bf9?utm_campaign=1057&utm_source=git)** | Rolla, MO | On Site | Dec 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
