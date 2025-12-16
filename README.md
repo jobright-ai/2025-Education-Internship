@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The University of Toledo](https://utmc.utoledo.edu/)** | **[Program Manager, Graduate Orientation & Operations Support - 500315](https://jobright.ai/jobs/info/6940f89c49a7695fbd06889c?utm_campaign=1057&utm_source=git)** | Toledo, OH | On Site | Dec 15 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/6940efd549a7695fbd06859f?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Dec 15 |
 | **[Kolmac Integrated Behavioral Health](http://www.kolmac.com/)** | **[Clinical Intern](https://jobright.ai/jobs/info/6940e4bd49a7695fbd0668b4?utm_campaign=1057&utm_source=git)** | Burtonsville, MD | On Site | Dec 15 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Nurse Intern, Clarke Cardiac, Part Time, 6:45am to 7:15pm](https://jobright.ai/jobs/info/6940cb24aa598a08c3f06471?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Dec 15 |
@@ -112,6 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Environment for the Americas](http://www.environmentamericas.org)** | **[Monarch Research and Education Internship - Camp Pendleton, Oceanside, CA](https://jobright.ai/jobs/info/69406961aa598a08c3f008f6?utm_campaign=1057&utm_source=git)** | Camp Pendleton South, California, United States | Hybrid | Dec 15 |
 | **[Franciscan Health](https://www.franciscanhealth.org/)** | **[Franciscan Nurse Internship - Michigan City/Crown Point](https://jobright.ai/jobs/info/694089fb49a7695fbd061b02?utm_campaign=1057&utm_source=git)** | IN - Crown Point | On Site | Dec 15 |
 | **[UT Health San Antonio](https://uthscsa.edu/)** | **[Mental Health Therapist Intern (FORT HOOD)](https://jobright.ai/jobs/info/694068ecaa598a08c3f0088c?utm_campaign=1057&utm_source=git)** | Fort Cavazos, TX | On Site | Dec 15 |
+| **[CHI](https://www.catholichealthinitiatives.org/)** | **[Nurse Graduate Intern-LPN](https://jobright.ai/jobs/info/693fb823aa598a08c3ef82f5?utm_campaign=1057&utm_source=git)** | Dickinson, ND | On Site | Dec 15 |
 | **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Dartmouth Hitchcock Undergraduate Summer Internship Programs](https://jobright.ai/jobs/info/69406781aa598a08c3f00755?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Dec 15 |
 | **[Volo Sports](https://www.volosports.com)** | **[Youth Sports and Operations Coaching Internship](https://jobright.ai/jobs/info/69408a8e49a7695fbd061c9e?utm_campaign=1057&utm_source=git)** | Morristown, NJ | On Site | Dec 15 |
 | **[Volo Kids Foundation](http://www.volocityfoundation.org)** | **[Youth Sports and Operations Coaching Internship](https://jobright.ai/jobs/info/694065e750bbaf76505269e5?utm_campaign=1057&utm_source=git)** | Morris County, NJ | On Site | Dec 15 |
@@ -128,7 +130,6 @@ For a complete list, click the following sortable link below:
 | **[Altorfer Cat](https://www.altorfer.com/)** | **[ThinkBIG Intern - Cedar Rapids, IA- August 2026](https://jobright.ai/jobs/info/6940709aaa598a08c3f00ec4?utm_campaign=1057&utm_source=git)** | US-IA-Cedar Rapids | On Site | Dec 15 |
 | ↳ | **[ThinkBIG  Intern - Hammond Starting August 2026](https://jobright.ai/jobs/info/69406e0e49a7695fbd05efbb?utm_campaign=1057&utm_source=git)** | US-IN-Hammond | On Site | Dec 15 |
 | **[Simpson College](http://www.simpson.edu/)** | **[Sports Administration Assistant Professor](https://jobright.ai/jobs/info/6940674c50bbaf7650526b09?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Dec 15 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/69406a5750bbaf7650526d5a?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Dec 15 |
 | **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Undergraduate leadership program](https://jobright.ai/jobs/info/69404173aa598a08c3efe0f8?utm_campaign=1057&utm_source=git)** | Racine, WI | Remote | Dec 15 |
 | **[NYS Office of Information Technology Services](https://its.ny.gov/)** | **[Student Assistant Internship (HESC), Ref# 10098](https://jobright.ai/jobs/info/6940406550bbaf7650523f45?utm_campaign=1057&utm_source=git)** | Albany, NY | Hybrid | Dec 15 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/6940609eaa598a08c3f00230?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Dec 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Phelps Health](https://phelpshealth.org/)** | **[Clinical Intern - ED / IPT](https://jobright.ai/jobs/info/69333f00a0dde7020e2ebd0e?utm_campaign=1057&utm_source=git)** | Rolla, MO | On Site | Dec 15 |
 | **[The Menta Education Group](https://menta.com/)** | **[Teacher Internship -Paid](https://jobright.ai/jobs/info/6745d84317314312922bec44?utm_campaign=1057&utm_source=git)** | Yuma, AZ | On Site | Dec 15 |
 | **[Phelps Health](https://phelpshealth.org/)** | **[Clinical Intern (EWYL) / ECC, Lincoln, SBU Nursing Students](https://jobright.ai/jobs/info/6926099227bf2f41a2c42bf9?utm_campaign=1057&utm_source=git)** | Rolla, MO | On Site | Dec 15 |
-| **[Providence Health & Services](https://www.providence.org/)** | **[Clinical Student Intern](https://jobright.ai/jobs/info/6939389448a8ce22990d5219?utm_campaign=1057&utm_source=git)** | Spokane, WA | On Site | Dec 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
