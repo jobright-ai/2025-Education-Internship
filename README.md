@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WVU Medicine Berkeley and Jefferson Medical Centers](https://wvumedicine.org/east/)** | **[Student Intern - Med ED Program](https://jobright.ai/jobs/info/693cecf249a7695fbd039768?utm_campaign=1057&utm_source=git)** | Martinsburg, WV | On Site | Dec 16 |
 | **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/69412465bdcf884a5adcff27?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | Hybrid | Dec 16 |
+| **[IES Abroad](http://www.iesabroad.org/)** | **[Temporary Internship Department Assistant](https://jobright.ai/jobs/info/69414486bdcf884a5add1c65?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 16 |
 | **[PNC](http://www.pnc.com)** | **[Corporate & Institutional Banking Undergraduate Intern - Tax Credit](https://jobright.ai/jobs/info/69411e45aa598a08c3f0b3fa?utm_campaign=1057&utm_source=git)** | Louisville, KY | On Site | Dec 16 |
 | **[The University of Toledo](https://utmc.utoledo.edu/)** | **[Program Manager, Graduate Orientation & Operations Support - 500315](https://jobright.ai/jobs/info/6940f89c49a7695fbd06889c?utm_campaign=1057&utm_source=git)** | Toledo, OH | On Site | Dec 15 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/6940efd549a7695fbd06859f?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Dec 15 |
@@ -149,12 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/69403ae550bbaf7650523b8a?utm_campaign=1057&utm_source=git)** | Racine, WI | Remote | Dec 15 |
 | **[BlackRock](http://www.blackrock.com)** | **[2026 Summer Internship Program - AMERS](https://jobright.ai/jobs/info/68f84f2c4bafad6d2d76165b?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 15 |
 | **[Paradies Lagardère](https://paradieslagardere.com/)** | **[Merchandising Student Intern](https://jobright.ai/jobs/info/69403b9a50bbaf7650523bfa?utm_campaign=1057&utm_source=git)** | Atlanta, GA | Hybrid | Dec 15 |
-| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[-Undergraduate Leadership Program](https://jobright.ai/jobs/info/69402e5b50bbaf76505234f1?utm_campaign=1057&utm_source=git)** | Racine, WI | Remote | Dec 15 |
 | **[TD](https://www.td.com)** | **[2026 Summer Graduate Leadership Internship Program - Consumer Products – Credit Management](https://jobright.ai/jobs/info/693796b2aabec14a727c990d?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 15 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Student Nurse Internship Program - Black Hills Surgical Hospital](https://jobright.ai/jobs/info/690d2935221b890c278040bb?utm_campaign=1057&utm_source=git)** | Rapid City, SD | On Site | Dec 15 |
 | **[PARKVIEW HEALTH SYSTEM INC](https://www.parkview.com/)** | **[MyWell-Being Summer Non-Clinical Intern](https://jobright.ai/jobs/info/693ffd4650bbaf7650520f3d?utm_campaign=1057&utm_source=git)** | Fort Wayne, IN | On Site | Dec 15 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Brainfreeze Collective Intern](https://jobright.ai/jobs/info/68ea69ba76a1db7c5985ad63?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | Dec 15 |
 | **[Phillips 66](http://www.phillips66.com/)** | **[2026 University Intern - ERI Analytical Solutions](https://jobright.ai/jobs/info/6894eb7673b3a600fe883540?utm_campaign=1057&utm_source=git)** | Bartlesville, OK | On Site | Dec 15 |
 | **[Tarleton State University](http://www.tarleton.edu/)** | **[Student Intern Supervisor](https://jobright.ai/jobs/info/68985dba5574fd6bc0c79253?utm_campaign=1057&utm_source=git)** | Stephenville, TX | On Site | Dec 15 |
-| **[Phelps Health](https://phelpshealth.org/)** | **[Clinical Intern - ED / IPT](https://jobright.ai/jobs/info/69333f00a0dde7020e2ebd0e?utm_campaign=1057&utm_source=git)** | Rolla, MO | On Site | Dec 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
