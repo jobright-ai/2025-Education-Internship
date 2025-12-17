@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Emergency Department](https://jobright.ai/jobs/info/69427b4550bbaf7650546942?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Dec 16 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/69424aa114ee092a690095bb?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Dec 16 |
 | **[NBCC (New Brunswick Community College)](http://www.nbcc.ca)** | **[Call for Interest (Talent Pool) - Instructor(s), Trades and Apprenticeship](https://jobright.ai/jobs/info/69376077a0dde7020e302136?utm_campaign=1057&utm_source=git)** | Moncton, New Brunswick, Canada | Hybrid | Dec 16 |
 | **[Signal Theory Inc.](https://www.signaltheory.com)** | **[2026 Summer Internships](https://jobright.ai/jobs/info/69425365bdcf884a5ade37ef?utm_campaign=1057&utm_source=git)** | Kansas City, MO | Hybrid | Dec 16 |
@@ -91,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Pentair](http://www.pentair.com)** | **[Engineering Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/694211a7bdcf884a5addce58?utm_campaign=1057&utm_source=git)** | Apex, NC | On Site | Dec 16 |
 | **[The Fay School](https://thefayschool.org)** | **[Internship Opportunity](https://jobright.ai/jobs/info/69420d29bdcf884a5addc5fa?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Dec 16 |
 | **[Ferris State University College of Business](http://ferris.edu/business)** | **[Assistant or Associate Professor - Mechanical Engineering Technology](https://jobright.ai/jobs/info/6942531f50bbaf7650544cc5?utm_campaign=1057&utm_source=git)** | Big Rapids, MI | On Site | Dec 16 |
+| **[Virginia's Community College System](https://www.vccs.edu/)** | **[Associate Vice President for Student Affairs](https://jobright.ai/jobs/info/694260c2bdcf884a5ade4147?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Dec 16 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[SAMS Veterinary Fellow I](https://jobright.ai/jobs/info/69420dbf14ee092a69002a5d?utm_campaign=1057&utm_source=git)** | Athens, GA | On Site | Dec 16 |
 | **[HealthCorps](https://www.HealthCorps.org)** | **[Teens Make Health Happen Internship School Year 2025-2026](https://jobright.ai/jobs/info/694215a050bbaf765053ec59?utm_campaign=1057&utm_source=git)** | Houston, TX | Hybrid | Dec 16 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Art Teacher & Intern - Elementary](https://jobright.ai/jobs/info/6941ff3a14ee092a69001e06?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 16 |
@@ -105,10 +107,9 @@ For a complete list, click the following sortable link below:
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Medical Writing Intern: Rare Disease Unit](https://jobright.ai/jobs/info/6941cd5e50bbaf7650539814?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Dec 16 |
 | **[Sandisk](https://www.sandisk.com/en-in)** | **[Finance & Business Internship (MBA, Summer 2026)](https://jobright.ai/jobs/info/6941c56514ee092a69ffdd64?utm_campaign=1057&utm_source=git)** | Milpitas, CA | Hybrid | Dec 16 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Undergraduate Intern - Clinical Exercise Physiologist - Cardiac](https://jobright.ai/jobs/info/6941e37b14ee092a69fff81a?utm_campaign=1057&utm_source=git)** | Rochester, MN, United States | On Site | Dec 16 |
-| **[The Hope Learning Centers](https://www.thehopelearningcenter.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/6941e2e614ee092a69fff6f1?utm_campaign=1057&utm_source=git)** | Canonsburg, PA, US | On Site | Dec 16 |
-| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6941d8d6bdcf884a5add8c72?utm_campaign=1057&utm_source=git)** | Mars, PA, US | On Site | Dec 16 |
+| **[The Hope Learning Centers](https://www.thehopelearningcenter.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/6941d8d6bdcf884a5add8c72?utm_campaign=1057&utm_source=git)** | Mars, PA, US | On Site | Dec 16 |
+| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6941e2e614ee092a69fff6f1?utm_campaign=1057&utm_source=git)** | Canonsburg, PA, US | On Site | Dec 16 |
 | **[Recovery Centers of America](http://www.recoverycentersofamerica.com/)** | **[Intern-Clinical](https://jobright.ai/jobs/info/6942138750bbaf765053e801?utm_campaign=1057&utm_source=git)** | Devon, PA | On Site | Dec 16 |
-| **[Wichita Public Schools - USD259](http://www.usd259.org)** | **[Temporary Aide - Education Co-op Student (2024-2025 School Year)](https://jobright.ai/jobs/info/6941d3f4bdcf884a5add88b6?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Dec 16 |
 | **[FactSet](http://www.factset.com)** | **[Buy-Side Analytics Internship - Charlotte (Summer 2026)](https://jobright.ai/jobs/info/6941b45e14ee092a69ffd48b?utm_campaign=1057&utm_source=git)** | Charlotte Metro | On Site | Dec 16 |
 | **[Commonwealth of Pennsylvania](http://www.arts.pa.gov)** | **[State Park Intern - Pymatuning State Park Complex](https://jobright.ai/jobs/info/69421c2950bbaf765053f741?utm_campaign=1057&utm_source=git)** | Jamestown, PA | On Site | Dec 16 |
 | **[FactSet](http://www.factset.com)** | **[Buy-Side Analytics Internship - Austin (Summer 2026)](https://jobright.ai/jobs/info/6941b19b14ee092a69ffd300?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Dec 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Western University of Health Sciences](http://www.westernu.edu/)** | **[Assistant/Associate Professor of Internal Medicine](https://jobright.ai/jobs/info/69418aa714ee092a69ffa99a?utm_campaign=1057&utm_source=git)** | Lebanon, OR | On Site | Dec 16 |
 | **[Wright State University](http://www.wright.edu/)** | **[Internal Medicine Faculty Inpatient/Outpatient - Premier Health](https://jobright.ai/jobs/info/69418404bdcf884a5add44e0?utm_campaign=1057&utm_source=git)** | Dayton, OH | On Site | Dec 16 |
 | ↳ | **[Internal Medicine Department Chair - Premier Health](https://jobright.ai/jobs/info/6941899314ee092a69ffa93a?utm_campaign=1057&utm_source=git)** | Dayton, OH | On Site | Dec 16 |
-| **[Volo Sports](https://www.volosports.com)** | **[Youth Sports Management & Coaching Internship](https://jobright.ai/jobs/info/6941892250bbaf7650535e8f?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Dec 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
