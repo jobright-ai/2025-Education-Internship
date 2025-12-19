@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of La Verne](http://laverne.edu)** | **[Information, Events and Scheduling Services - Campus Center Student Assistant (2025/2026) - NFWS](https://jobright.ai/jobs/info/6945bc5d951654073537d8d8?utm_campaign=1057&utm_source=git)** | La Verne, CA | On Site | Dec 19 |
+| **[Clemson University MBA Programs](https://www.clemson.edu/business/departments/mba/)** | **[Open Rank Faculty - Small Animal Internal Medicine - Harvey S. Peeler Jr. College of Veterinary Medicine](https://jobright.ai/jobs/info/6945badd951654073537d7bd?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | On Site | Dec 19 |
+| **[Wichita Public Schools - USD259](http://www.usd259.org)** | **[Temporary Aide - Education Co-op Student (2024-2025 School Year)](https://jobright.ai/jobs/info/6945b58363141d1884554479?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Dec 19 |
+| **[La Sierra University](http://www.lasierra.edu/)** | **[Financial Literacy Student Assistant](https://jobright.ai/jobs/info/6945b56c951654073537d1b8?utm_campaign=1057&utm_source=git)** | Riverside, CA | Hybrid | Dec 19 |
+| **[Apple Bank](https://www.applebank.com)** | **[2026 Summer Intern - Credit/Operational Risk](https://jobright.ai/jobs/info/6945b2a2951654073537cd8c?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Dec 19 |
+| **[AECOM](http://www.aecom.com/)** | **[Civil Municipal Intern](https://jobright.ai/jobs/info/6945b0f163141d1884553e3a?utm_campaign=1057&utm_source=git)** | Grand Rapids, MI | On Site | Dec 19 |
+| **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: Corporate Opportunities: Creative (Multiple Locations: CA & NY)](https://jobright.ai/jobs/info/6945ab0f63141d1884553893?utm_campaign=1057&utm_source=git)** | Santa Monica, CA | On Site | Dec 19 |
 | **[Sandstone Care](https://www.sandstonecare.com)** | **[Clinical Internship](https://jobright.ai/jobs/info/69126ed0ea9ab01b82bf29ec?utm_campaign=1057&utm_source=git)** | Sandstone Care - Cascade, Colorado | On Site | Dec 19 |
 | **[Conner Strong & Buckelew](https://www.connerstrong.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/6945a61463141d1884553282?utm_campaign=1057&utm_source=git)** | Camden, NJ | On Site | Dec 19 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/69459b0263141d188455289e?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Dec 19 |
@@ -113,7 +120,11 @@ For a complete list, click the following sortable link below:
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Student Co-op: Program, Data, Grants & Executive Support](https://jobright.ai/jobs/info/6944ddc650bbaf765056e874?utm_campaign=1057&utm_source=git)** | Ontario, CA | On Site | Dec 18 |
 | **[Nicklaus Children's Health System](https://www.nicklaushealth.org)** | **[Pulmonary Student Intern](https://jobright.ai/jobs/info/6944bdc9a7227b3ece6669a2?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Dec 18 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Nursing (Summer)](https://jobright.ai/jobs/info/6944a6e8a7227b3ece6653c4?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD | On Site | Dec 18 |
+| **[PRACTICE](https://practicebc.com/)** | **[Regents Exam Prep Intern](https://jobright.ai/jobs/info/6945bcb3951654073537d90c?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 18 |
 | **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[PWDI Scholars Internship Program - Administrative](https://jobright.ai/jobs/info/6944a14f50bbaf765056a51a?utm_campaign=1057&utm_source=git)** | Los Alamos, NM | On Site | Dec 18 |
+| **[University of Arizona](https://www.arizona.edu)** | **[KEYS Internship Resident Coordinator (Temporary)](https://jobright.ai/jobs/info/6945b4cdd1953b5d11beb254?utm_campaign=1057&utm_source=git)** | Tucson, AZ | On Site | Dec 18 |
+| **[QLI](https://qliomaha.com/)** | **[Adaptive Sports and Recreation (GAP Year Student) Internship](https://jobright.ai/jobs/info/6945b0f663141d1884553e42?utm_campaign=1057&utm_source=git)** | Omaha, NE | On Site | Dec 18 |
+| ↳ | **[QLI 2026 Summer Work Experience (Internship) #NOW HIRING](https://jobright.ai/jobs/info/6945b83d63141d1884554795?utm_campaign=1057&utm_source=git)** | Omaha, NE | On Site | Dec 18 |
 | **[Virginia's Community College System](https://www.vccs.edu/)** | **[Testing Center Manager](https://jobright.ai/jobs/info/69449d5aa7227b3ece663729?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Dec 18 |
 | **[AARP](http://www.aarp.org)** | **[Communications and Volunteer Engagement Intern](https://jobright.ai/jobs/info/69015b67f8ce7a040fdbf1a8?utm_campaign=1057&utm_source=git)** | Bismarck, ND | On Site | Dec 18 |
 | **[Steppingstone](http://www.tsf.org)** | **[Summer Intern](https://jobright.ai/jobs/info/6944bfe5a7227b3ece666b88?utm_campaign=1057&utm_source=git)** | Milton,MA,US | On Site | Dec 18 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/69447a6ddd382f5f566aa717?utm_campaign=1057&utm_source=git)** | USA-WV - West Virginia Remote | Remote | Dec 18 |
 | ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/69447a4250bbaf76505689f7?utm_campaign=1057&utm_source=git)** | USA-DE - Delaware Remote | Remote | Dec 18 |
 | ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/694478d9dd382f5f566aa4d3?utm_campaign=1057&utm_source=git)** | USA-MA - Massachusetts Remote | Remote | Dec 18 |
-| ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/6944787e94730b739877af9d?utm_campaign=1057&utm_source=git)** | USA-AL - Alabama Remote | Remote | Dec 18 |
-| ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/6944783a94730b739877aede?utm_campaign=1057&utm_source=git)** | USA-OR - Oregon Remote | Remote | Dec 18 |
-| ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/6944780994730b739877ae68?utm_campaign=1057&utm_source=git)** | USA-ME - Maine Remote | Remote | Dec 18 |
-| ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/694477c694730b739877adb6?utm_campaign=1057&utm_source=git)** | USA-NM - New Mexico Remote | Remote | Dec 18 |
-| ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/6944773850bbaf7650568176?utm_campaign=1057&utm_source=git)** | USA-PA - Pennsylvania Remote | Remote | Dec 18 |
-| ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/6944772850bbaf765056814e?utm_campaign=1057&utm_source=git)** | USA-MD - Maryland Remote | Remote | Dec 18 |
-| ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/694476f4dd382f5f566aa276?utm_campaign=1057&utm_source=git)** | USA-NE - Nebraska Remote | Remote | Dec 18 |
-| ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/694476be50bbaf7650567ffc?utm_campaign=1057&utm_source=git)** | USA-MN - Minnesota Remote | Remote | Dec 18 |
-| ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/694476b0dd382f5f566aa225?utm_campaign=1057&utm_source=git)** | USA-NC - North Carolina Remote | Remote | Dec 18 |
-| ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/69447655dd382f5f566aa195?utm_campaign=1057&utm_source=git)** | USA-FL - Florida Remote | Remote | Dec 18 |
-| ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/6944760bdd382f5f566aa133?utm_campaign=1057&utm_source=git)** | USA-LA - Louisiana Remote | Remote | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
