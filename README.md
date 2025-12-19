@@ -57,7 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d44ec48c62e63bc7fe8121?utm_campaign=1057&utm_source=git)** | Reynoldsburg, OH | On Site | Dec 19 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d4477217554c2d9eef7a84?utm_campaign=1057&utm_source=git)** | Wauconda, IL | On Site | Dec 19 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d44734ffc1276de3fd92aa?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 19 |
+| **[Ohlone College](http://www.ohlone.edu/)** | **[Program Manager, Career Services and Industry Relations](https://jobright.ai/jobs/info/694533b19516540735374751?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 19 |
+| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d448fd17554c2d9eef7e4e?utm_campaign=1057&utm_source=git)** | Findlay, OH | On Site | Dec 19 |
+| **[Ryan Specialty](https://ryanspecialty.com)** | **[Risk Management and Insurance (RMI) Intern](https://jobright.ai/jobs/info/68ec603fee50895bd70b3d61?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 19 |
+| **[IDS Health, Inc](https://www.linkedin.com/company/107901732)** | **[Speech-Language Pathologist or CF Intern](https://jobright.ai/jobs/info/694524a39516540735373f6c?utm_campaign=1057&utm_source=git)** | Big Spring, TX | On Site | Dec 19 |
 | **[American Addiction Centers](https://americanaddictioncenters.org/)** | **[Masters Level Clinician (Registered Intern License)](https://jobright.ai/jobs/info/694508ee50bbaf765057166d?utm_campaign=1057&utm_source=git)** | Riverview, FL | On Site | Dec 19 |
+| **[Steppingstone](http://www.tsf.org)** | **[Summer Intern](https://jobright.ai/jobs/info/694525369516540735374016?utm_campaign=1057&utm_source=git)** | Milton, MA | On Site | Dec 18 |
 | **[Brown University Health](https://www.brownhealth.org)** | **[Perioperative Services Intern](https://jobright.ai/jobs/info/694501c550bbaf7650571136?utm_campaign=1057&utm_source=git)** | Providence, RI | On Site | Dec 18 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/6944e5c450bbaf765056ebd4?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Dec 18 |
 | **[Brown University](https://www.brown.edu)** | **[Perioperative Services Intern](https://jobright.ai/jobs/info/6944e56ca7227b3ece66805d?utm_campaign=1057&utm_source=git)** | Rhode Island Hospital | On Site | Dec 18 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Nurse Intern, Observation, Per Diem, 07A-7:30P](https://jobright.ai/jobs/info/6944713e50bbaf7650567312?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Dec 18 |
 | **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/6944712450bbaf76505672c2?utm_campaign=1057&utm_source=git)** | USA-UT - Utah Remote | Remote | Dec 18 |
 | **[Fidelis Care - New York](https://www.fideliscare.org/)** | **[Health Plan Operations Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/6944711550bbaf765056729f?utm_campaign=1057&utm_source=git)** | New York, United States | Remote | Dec 18 |
-| **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/6944706350bbaf76505670cc?utm_campaign=1057&utm_source=git)** | USA-WY - Wyoming Remote | Remote | Dec 18 |
-| ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/6944700994730b7398779aad?utm_campaign=1057&utm_source=git)** | USA-TX - Texas Remote | Remote | Dec 18 |
-| ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/69446f5994730b7398779905?utm_campaign=1057&utm_source=git)** | USA-AR - Arkansas Remote | Remote | Dec 18 |
-| **[Harris-Stowe State University](http://www.hssu.edu/)** | **[Verizon Innovative Learning - Student Intern](https://jobright.ai/jobs/info/69446f16dd382f5f566a9167?utm_campaign=1057&utm_source=git)** | St. Louis, MO, US | On Site | Dec 18 |
-| **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/69446e6594730b73987796f8?utm_campaign=1057&utm_source=git)** | USA-VA - Virginia Remote | Remote | Dec 18 |
-| ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/69446e4850bbaf7650566b34?utm_campaign=1057&utm_source=git)** | USA-WA - Washington Remote | Remote | Dec 18 |
-| **[Baptist Health Boca Raton Regional Hospital](https://www.brrh.com/)** | **[Pool Nurse Intern, Cardiovascular Step Down, Per Diem, 6:30A-7:00P](https://jobright.ai/jobs/info/69446c8050bbaf7650566980?utm_campaign=1057&utm_source=git)** | Boca Raton, FL | On Site | Dec 18 |
-| **[California State University-San Bernardino](https://csusb.edu)** | **[Department of Music - Assistant Professor](https://jobright.ai/jobs/info/691f36d009cc522e8773e5a2?utm_campaign=1057&utm_source=git)** | San Bernardino, CA | On Site | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
