@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Medical Writing Intern, Market Access (Undergraduate)](https://jobright.ai/jobs/info/68efd83e9821486c423c7b12?utm_campaign=1057&utm_source=git)** | United States | Remote | Dec 19 |
+| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT CORPORATE ACCOUNTING](https://jobright.ai/jobs/info/68d45bb18c62e63bc7fe8a26?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Dec 19 |
+| **[Rosendin](https://www.rosendin.com)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/68ed913081fdd1626d39d8eb?utm_campaign=1057&utm_source=git)** | Greater Idaho Falls | On Site | Dec 19 |
+| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/691ae13b15b415636718b774?utm_campaign=1057&utm_source=git)** | Rialto, CA | On Site | Dec 19 |
+| **[Baptist Health](http://careers.baptisthealth.net)** | **[Nurse Intern, Mother-Baby, Full Time, 7pm to 7:30am](https://jobright.ai/jobs/info/69453dfbd1953b5d11be2f4c?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Dec 19 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d44ec48c62e63bc7fe8121?utm_campaign=1057&utm_source=git)** | Reynoldsburg, OH | On Site | Dec 19 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d4477217554c2d9eef7a84?utm_campaign=1057&utm_source=git)** | Wauconda, IL | On Site | Dec 19 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44734ffc1276de3fd92aa?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 19 |
 | **[Ohlone College](http://www.ohlone.edu/)** | **[Program Manager, Career Services and Industry Relations](https://jobright.ai/jobs/info/694533b19516540735374751?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 19 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d448fd17554c2d9eef7e4e?utm_campaign=1057&utm_source=git)** | Findlay, OH | On Site | Dec 19 |
-| **[Ryan Specialty](https://ryanspecialty.com)** | **[Risk Management and Insurance (RMI) Intern](https://jobright.ai/jobs/info/68ec603fee50895bd70b3d61?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 19 |
 | **[IDS Health, Inc](https://www.linkedin.com/company/107901732)** | **[Speech-Language Pathologist or CF Intern](https://jobright.ai/jobs/info/694524a39516540735373f6c?utm_campaign=1057&utm_source=git)** | Big Spring, TX | On Site | Dec 19 |
 | **[American Addiction Centers](https://americanaddictioncenters.org/)** | **[Masters Level Clinician (Registered Intern License)](https://jobright.ai/jobs/info/694508ee50bbaf765057166d?utm_campaign=1057&utm_source=git)** | Riverview, FL | On Site | Dec 19 |
 | **[Steppingstone](http://www.tsf.org)** | **[Summer Intern](https://jobright.ai/jobs/info/694525369516540735374016?utm_campaign=1057&utm_source=git)** | Milton, MA | On Site | Dec 18 |
@@ -86,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Nursing (Summer)](https://jobright.ai/jobs/info/6944a6e8a7227b3ece6653c4?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD | On Site | Dec 18 |
 | **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[PWDI Scholars Internship Program - Administrative](https://jobright.ai/jobs/info/6944a14f50bbaf765056a51a?utm_campaign=1057&utm_source=git)** | Los Alamos, NM | On Site | Dec 18 |
 | **[Virginia's Community College System](https://www.vccs.edu/)** | **[Testing Center Manager](https://jobright.ai/jobs/info/69449d5aa7227b3ece663729?utm_campaign=1057&utm_source=git)** | Richmond, VA | On Site | Dec 18 |
-| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Science Specialist Teacher and Interns - Elementary](https://jobright.ai/jobs/info/69449a43a7227b3ece6634a9?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 18 |
 | **[AARP](http://www.aarp.org)** | **[Communications and Volunteer Engagement Intern](https://jobright.ai/jobs/info/69015b67f8ce7a040fdbf1a8?utm_campaign=1057&utm_source=git)** | Bismarck, ND | On Site | Dec 18 |
 | **[Steppingstone](http://www.tsf.org)** | **[Summer Intern](https://jobright.ai/jobs/info/6944bfe5a7227b3ece666b88?utm_campaign=1057&utm_source=git)** | Milton,MA,US | On Site | Dec 18 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/6944985e50bbaf765056a172?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 18 |
@@ -136,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/694475c394730b739877a847?utm_campaign=1057&utm_source=git)** | USA-IL - Illinois Remote | Remote | Dec 18 |
 | ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/694475ac94730b739877a817?utm_campaign=1057&utm_source=git)** | USA-WI - Wisconsin Remote | Remote | Dec 18 |
 | ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/694475aa50bbaf7650567d5f?utm_campaign=1057&utm_source=git)** | USA-NH - New Hampshire Remote | Remote | Dec 18 |
-| ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/69447596dd382f5f566aa044?utm_campaign=1057&utm_source=git)** | USA-MS - Mississippi Remote | Remote | Dec 18 |
 | ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/69447596dd382f5f566aa041?utm_campaign=1057&utm_source=git)** | USA-ID - Idaho Remote | Remote | Dec 18 |
+| ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/69447596dd382f5f566aa044?utm_campaign=1057&utm_source=git)** | USA-MS - Mississippi Remote | Remote | Dec 18 |
 | ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/6944758cdd382f5f566aa030?utm_campaign=1057&utm_source=git)** | USA-TN - Tennessee Remote | Remote | Dec 18 |
 | ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/6944751650bbaf7650567c5c?utm_campaign=1057&utm_source=git)** | USA-OH - Ohio Remote | Remote | Dec 18 |
 | ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/694474dd50bbaf7650567bcb?utm_campaign=1057&utm_source=git)** | USA-IN - Indiana Remote | Remote | Dec 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/6944723650bbaf765056758e?utm_campaign=1057&utm_source=git)** | USA-MT - Montana Remote | Remote | Dec 18 |
 | **[Fidelis Care - New York](https://www.fideliscare.org/)** | **[Health Plan Operations Intern (Graduate - Summer)](https://jobright.ai/jobs/info/69447209dd382f5f566a9869?utm_campaign=1057&utm_source=git)** | New York, United States | Remote | Dec 18 |
 | **[California State University San Marcos](https://csusm.edu)** | **[STEM Career and Internship Specialist, College of Science, Technology, Engineering, and Mathematics](https://jobright.ai/jobs/info/69447154dd382f5f566a973e?utm_campaign=1057&utm_source=git)** | San Marcos, CA | On Site | Dec 18 |
-| **[Baptist Health](http://careers.baptisthealth.net)** | **[Nurse Intern, Observation, Per Diem, 07A-7:30P](https://jobright.ai/jobs/info/6944713e50bbaf7650567312?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Dec 18 |
-| **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/6944712450bbaf76505672c2?utm_campaign=1057&utm_source=git)** | USA-UT - Utah Remote | Remote | Dec 18 |
-| **[Fidelis Care - New York](https://www.fideliscare.org/)** | **[Health Plan Operations Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/6944711550bbaf765056729f?utm_campaign=1057&utm_source=git)** | New York, United States | Remote | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
