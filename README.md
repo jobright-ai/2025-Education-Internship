@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brown University Health](https://www.brownhealth.org)** | **[Perioperative Services Intern](https://jobright.ai/jobs/info/694501c550bbaf7650571136?utm_campaign=1057&utm_source=git)** | Providence, RI | On Site | Dec 18 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/6944e5c450bbaf765056ebd4?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Dec 18 |
 | **[Brown University](https://www.brown.edu)** | **[Perioperative Services Intern](https://jobright.ai/jobs/info/6944e56ca7227b3ece66805d?utm_campaign=1057&utm_source=git)** | Rhode Island Hospital | On Site | Dec 18 |
 | **[Beacon Health System](http://beaconhealthsystem.org/)** | **[Student Intern Unpaid (BHS)](https://jobright.ai/jobs/info/6944def350bbaf765056e8cb?utm_campaign=1057&utm_source=git)** | Granger, IN | On Site | Dec 18 |
@@ -126,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/694475c394730b739877a847?utm_campaign=1057&utm_source=git)** | USA-IL - Illinois Remote | Remote | Dec 18 |
 | ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/694475ac94730b739877a817?utm_campaign=1057&utm_source=git)** | USA-WI - Wisconsin Remote | Remote | Dec 18 |
 | ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/694475aa50bbaf7650567d5f?utm_campaign=1057&utm_source=git)** | USA-NH - New Hampshire Remote | Remote | Dec 18 |
-| ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/69447596dd382f5f566aa041?utm_campaign=1057&utm_source=git)** | USA-ID - Idaho Remote | Remote | Dec 18 |
 | ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/69447596dd382f5f566aa044?utm_campaign=1057&utm_source=git)** | USA-MS - Mississippi Remote | Remote | Dec 18 |
+| ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/69447596dd382f5f566aa041?utm_campaign=1057&utm_source=git)** | USA-ID - Idaho Remote | Remote | Dec 18 |
 | ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/6944758cdd382f5f566aa030?utm_campaign=1057&utm_source=git)** | USA-TN - Tennessee Remote | Remote | Dec 18 |
 | ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/6944751650bbaf7650567c5c?utm_campaign=1057&utm_source=git)** | USA-OH - Ohio Remote | Remote | Dec 18 |
 | ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/694474dd50bbaf7650567bcb?utm_campaign=1057&utm_source=git)** | USA-IN - Indiana Remote | Remote | Dec 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Baptist Health Boca Raton Regional Hospital](https://www.brrh.com/)** | **[Pool Nurse Intern, Cardiovascular Step Down, Per Diem, 6:30A-7:00P](https://jobright.ai/jobs/info/69446c8050bbaf7650566980?utm_campaign=1057&utm_source=git)** | Boca Raton, FL | On Site | Dec 18 |
 | **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/69448f1d50bbaf7650569bae?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | Hybrid | Dec 18 |
 | **[California State University-San Bernardino](https://csusb.edu)** | **[Department of Music - Assistant Professor](https://jobright.ai/jobs/info/691f36d009cc522e8773e5a2?utm_campaign=1057&utm_source=git)** | San Bernardino, CA | On Site | Dec 18 |
-| **[IEEE](http://www.ieee.org)** | **[Summer Intern - Innovation Project Support](https://jobright.ai/jobs/info/69446a8a94730b7398779380?utm_campaign=1057&utm_source=git)** | Piscataway, NJ | On Site | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
