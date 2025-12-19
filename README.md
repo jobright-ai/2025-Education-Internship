@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Addiction Centers](https://americanaddictioncenters.org/)** | **[Masters Level Clinician (Registered Intern License)](https://jobright.ai/jobs/info/694508ee50bbaf765057166d?utm_campaign=1057&utm_source=git)** | Riverview, FL | On Site | Dec 19 |
 | **[Brown University Health](https://www.brownhealth.org)** | **[Perioperative Services Intern](https://jobright.ai/jobs/info/694501c550bbaf7650571136?utm_campaign=1057&utm_source=git)** | Providence, RI | On Site | Dec 18 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/6944e5c450bbaf765056ebd4?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Dec 18 |
 | **[Brown University](https://www.brown.edu)** | **[Perioperative Services Intern](https://jobright.ai/jobs/info/6944e56ca7227b3ece66805d?utm_campaign=1057&utm_source=git)** | Rhode Island Hospital | On Site | Dec 18 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/69446e6594730b73987796f8?utm_campaign=1057&utm_source=git)** | USA-VA - Virginia Remote | Remote | Dec 18 |
 | ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/69446e4850bbaf7650566b34?utm_campaign=1057&utm_source=git)** | USA-WA - Washington Remote | Remote | Dec 18 |
 | **[Baptist Health Boca Raton Regional Hospital](https://www.brrh.com/)** | **[Pool Nurse Intern, Cardiovascular Step Down, Per Diem, 6:30A-7:00P](https://jobright.ai/jobs/info/69446c8050bbaf7650566980?utm_campaign=1057&utm_source=git)** | Boca Raton, FL | On Site | Dec 18 |
-| **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/69448f1d50bbaf7650569bae?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | Hybrid | Dec 18 |
 | **[California State University-San Bernardino](https://csusb.edu)** | **[Department of Music - Assistant Professor](https://jobright.ai/jobs/info/691f36d009cc522e8773e5a2?utm_campaign=1057&utm_source=git)** | San Bernardino, CA | On Site | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
