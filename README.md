@@ -108,8 +108,8 @@ For a complete list, click the following sortable link below:
 | **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/694475c394730b739877a847?utm_campaign=1057&utm_source=git)** | USA-IL - Illinois Remote | Remote | Dec 18 |
 | ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/694475ac94730b739877a817?utm_campaign=1057&utm_source=git)** | USA-WI - Wisconsin Remote | Remote | Dec 18 |
 | ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/694475aa50bbaf7650567d5f?utm_campaign=1057&utm_source=git)** | USA-NH - New Hampshire Remote | Remote | Dec 18 |
-| ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/69447596dd382f5f566aa041?utm_campaign=1057&utm_source=git)** | USA-ID - Idaho Remote | Remote | Dec 18 |
 | ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/69447596dd382f5f566aa044?utm_campaign=1057&utm_source=git)** | USA-MS - Mississippi Remote | Remote | Dec 18 |
+| ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/69447596dd382f5f566aa041?utm_campaign=1057&utm_source=git)** | USA-ID - Idaho Remote | Remote | Dec 18 |
 | ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/6944758cdd382f5f566aa030?utm_campaign=1057&utm_source=git)** | USA-TN - Tennessee Remote | Remote | Dec 18 |
 | ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/6944751650bbaf7650567c5c?utm_campaign=1057&utm_source=git)** | USA-OH - Ohio Remote | Remote | Dec 18 |
 | ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/694474dd50bbaf7650567bcb?utm_campaign=1057&utm_source=git)** | USA-IN - Indiana Remote | Remote | Dec 18 |
@@ -145,11 +145,11 @@ For a complete list, click the following sortable link below:
 | **[Curriculum Associates](http://www.curriculumassociates.com)** | **[Psychometric and Research Intern](https://jobright.ai/jobs/info/69445f8294730b73987787f0?utm_campaign=1057&utm_source=git)** | United States | Remote | Dec 18 |
 | **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/69447b8750bbaf7650568d19?utm_campaign=1057&utm_source=git)** | USA-KY - Kentucky Remote | Remote | Dec 18 |
 | ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/69447b7e94730b739877b70b?utm_campaign=1057&utm_source=git)** | USA-GA - Georgia Remote | Remote | Dec 18 |
-| ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/69447c48dd382f5f566aa9fe?utm_campaign=1057&utm_source=git)** | USA-AZ - Arizona Remote | Remote | Dec 18 |
 | ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/69447c8add382f5f566aaa8f?utm_campaign=1057&utm_source=git)** | USA-NJ - New Jersey Remote | Remote | Dec 18 |
+| ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/69447c48dd382f5f566aa9fe?utm_campaign=1057&utm_source=git)** | USA-AZ - Arizona Remote | Remote | Dec 18 |
+| ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/69447c3494730b739877b95e?utm_campaign=1057&utm_source=git)** | USA-SC - Columbia Office | On Site | Dec 18 |
 | ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/69447b9694730b739877b769?utm_campaign=1057&utm_source=git)** | USA-KS - Kansas Remote | Remote | Dec 18 |
 | ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/69447c0394730b739877b8b2?utm_campaign=1057&utm_source=git)** | USA-NV - Nevada Remote | Remote | Dec 18 |
-| ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/69447c3494730b739877b95e?utm_campaign=1057&utm_source=git)** | USA-SC - Columbia Office | On Site | Dec 18 |
 | **[Simcoe County District School Board](http://www.scdsb.on.ca)** | **[Continuing Education – Night School - DUAL CREDIT SUPPORT TEACHER - Personal Finance (Adult)](https://jobright.ai/jobs/info/694481cd50bbaf76505692d8?utm_campaign=1057&utm_source=git)** | Midhurst, Ontario, Canada | On Site | Dec 18 |
 | **[Education Through Music](https://etmonline.org)** | **[Music Teacher Intern](https://jobright.ai/jobs/info/694471fddd382f5f566a985f?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 18 |
 | **[LaAmistad, Inc.](https://laamistadinc.org)** | **[Internship- Unpaid SY25-26](https://jobright.ai/jobs/info/6944781e50bbaf76505683fe?utm_campaign=1057&utm_source=git)** | Atlanta, Georgia, United States | On Site | Dec 18 |
