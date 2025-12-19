@@ -57,8 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Heritage Academies](https://www.nhaschools.com)** | **[Enrollment Intern](https://jobright.ai/jobs/info/69458e86951654073537a706?utm_campaign=1057&utm_source=git)** | Grand Rapids, MI | On Site | Dec 19 |
+| **[Berea College](http://www.berea.edu/)** | **[Temporary Student Success Program Associate (Internal Only)](https://jobright.ai/jobs/info/69458d9863141d1884551ad6?utm_campaign=1057&utm_source=git)** | Berea, KY | On Site | Dec 19 |
+| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Bus Safety, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/6912f894d1047e3565d00a30?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Dec 19 |
+| **[Apple Bank](https://www.applebank.com)** | **[2026 Summer Intern - Credit/Operational Risk](https://jobright.ai/jobs/info/6945881563141d188455161d?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Dec 19 |
+| **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Patient Access Training Intern](https://jobright.ai/jobs/info/69458717d1953b5d11be8639?utm_campaign=1057&utm_source=git)** | Lexington, MA | Hybrid | Dec 19 |
+| **[Fordham University](https://www.fordham.edu/)** | **[Director, Office for International Services](https://jobright.ai/jobs/info/69457ed363141d1884550bdb?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 19 |
+| **[Amgen](http://www.amgen.com)** | **[Undergrad Intern – Inclusive Global Health and Impact (Summer 2026)](https://jobright.ai/jobs/info/693d846650bbaf76505086de?utm_campaign=1057&utm_source=git)** | United States | Remote | Dec 19 |
+| **[BrightSpring Health Services](https://www.brightspringhealth.com/)** | **[Mental Health Practitioner Apprentice / Intern](https://jobright.ai/jobs/info/68fbedeaf55bb021a889e3c8?utm_campaign=1057&utm_source=git)** | St Paul, MN | On Site | Dec 19 |
+| **[M&T Bank](http://www.mtb.com)** | **[2026 Summer High School Technology Internship Program](https://jobright.ai/jobs/info/694587f3d1953b5d11be86c6?utm_campaign=1057&utm_source=git)** | Buffalo, NY | On Site | Dec 19 |
 | **[Rush University Medical Center](https://www.rush.edu/)** | **[Student Intern-23619](https://jobright.ai/jobs/info/69456a1ad1953b5d11be58e7?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 19 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Medical Writing Intern, Market Access (Undergraduate)](https://jobright.ai/jobs/info/68efd8079821486c423c7ae7?utm_campaign=1057&utm_source=git)** | United States | Remote | Dec 19 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Study Hall Assistant/Outdoor Supervision Support - International School of Orange County](https://jobright.ai/jobs/info/6945805b9516540735379d5f?utm_campaign=1057&utm_source=git)** | Irvine, CA | On Site | Dec 19 |
+| ↳ | **[International Business, Adjunct](https://jobright.ai/jobs/info/694579cd9516540735379278?utm_campaign=1057&utm_source=git)** | Fairfield, CT | On Site | Dec 19 |
+| ↳ | **[Program Coordinator-International Baccalaureate IB - MS](https://jobright.ai/jobs/info/6945838ad1953b5d11be8361?utm_campaign=1057&utm_source=git)** | Spring, TX | On Site | Dec 19 |
+| ↳ | **[Assistant Director, International Programs & Study Abroad](https://jobright.ai/jobs/info/69457e6fd1953b5d11be7c54?utm_campaign=1057&utm_source=git)** | Knoxville, IL | On Site | Dec 19 |
+| ↳ | **[MCAT Prep Instructor - Kaplan International Seattle/Seattle Central College](https://jobright.ai/jobs/info/694579169516540735379115?utm_campaign=1057&utm_source=git)** | Seattle, WA | Hybrid | Dec 19 |
+| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/694574b4d1953b5d11be6a6a?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 19 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Medical Writing Intern, Market Access (Undergraduate)](https://jobright.ai/jobs/info/68efd83e9821486c423c7b12?utm_campaign=1057&utm_source=git)** | United States | Remote | Dec 19 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT CORPORATE ACCOUNTING](https://jobright.ai/jobs/info/68d45bb18c62e63bc7fe8a26?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Dec 19 |
 | **[Rosendin](https://www.rosendin.com)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/68ed913081fdd1626d39d8eb?utm_campaign=1057&utm_source=git)** | Greater Idaho Falls | On Site | Dec 19 |
@@ -140,21 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/694475c394730b739877a847?utm_campaign=1057&utm_source=git)** | USA-IL - Illinois Remote | Remote | Dec 18 |
 | ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/694475ac94730b739877a817?utm_campaign=1057&utm_source=git)** | USA-WI - Wisconsin Remote | Remote | Dec 18 |
 | ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/694475aa50bbaf7650567d5f?utm_campaign=1057&utm_source=git)** | USA-NH - New Hampshire Remote | Remote | Dec 18 |
-| ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/69447596dd382f5f566aa044?utm_campaign=1057&utm_source=git)** | USA-MS - Mississippi Remote | Remote | Dec 18 |
 | ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/69447596dd382f5f566aa041?utm_campaign=1057&utm_source=git)** | USA-ID - Idaho Remote | Remote | Dec 18 |
-| ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/6944758cdd382f5f566aa030?utm_campaign=1057&utm_source=git)** | USA-TN - Tennessee Remote | Remote | Dec 18 |
-| ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/6944751650bbaf7650567c5c?utm_campaign=1057&utm_source=git)** | USA-OH - Ohio Remote | Remote | Dec 18 |
-| ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/694474dd50bbaf7650567bcb?utm_campaign=1057&utm_source=git)** | USA-IN - Indiana Remote | Remote | Dec 18 |
-| ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/694474a4dd382f5f566a9e23?utm_campaign=1057&utm_source=git)** | USA-RI - Rhode Island Remote | Remote | Dec 18 |
-| ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/6944749794730b739877a61d?utm_campaign=1057&utm_source=git)** | USA-MI - Michigan Remote | Remote | Dec 18 |
-| ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/6944747edd382f5f566a9dc4?utm_campaign=1057&utm_source=git)** | USA-IA - Iowa Remote | Remote | Dec 18 |
-| ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/694473b450bbaf7650567971?utm_campaign=1057&utm_source=git)** | USA-SD - South Dakota Remote | Remote | Dec 18 |
-| ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/694473a150bbaf7650567933?utm_campaign=1057&utm_source=git)** | USA-AK - Alaska Remote | Remote | Dec 18 |
-| ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/6944737794730b739877a36c?utm_campaign=1057&utm_source=git)** | USA-ND - North Dakota Remote | Remote | Dec 18 |
-| ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/69447325dd382f5f566a9aae?utm_campaign=1057&utm_source=git)** | USA-VT - Vermont Remote | Remote | Dec 18 |
-| ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/694472bddd382f5f566a99ac?utm_campaign=1057&utm_source=git)** | USA-OK - Oklahoma Remote | Remote | Dec 18 |
-| ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/6944726450bbaf7650567623?utm_campaign=1057&utm_source=git)** | USA-HI - Hawaii Remote | Remote | Dec 18 |
-| **[California State University, Northridge](https://www.csun.edu/)** | **[Post-Doctoral Counselor Fellow - University Counseling Services 26-21](https://jobright.ai/jobs/info/6944b95594730b739877fcf0?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Dec 18 |
-| **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/6944723650bbaf765056758e?utm_campaign=1057&utm_source=git)** | USA-MT - Montana Remote | Remote | Dec 18 |
-| **[Fidelis Care - New York](https://www.fideliscare.org/)** | **[Health Plan Operations Intern (Graduate - Summer)](https://jobright.ai/jobs/info/69447209dd382f5f566a9869?utm_campaign=1057&utm_source=git)** | New York, United States | Remote | Dec 18 |
+| ↳ | **[Spring 2026 Internship - Access](https://jobright.ai/jobs/info/69447596dd382f5f566aa044?utm_campaign=1057&utm_source=git)** | USA-MS - Mississippi Remote | Remote | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
