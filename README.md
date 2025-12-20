@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The University of Georgia](http://www.ai.uga.edu)** | **[Student Assistant - Quality Improvement Intern](https://jobright.ai/jobs/info/6946232ed1953b5d11bf3e76?utm_campaign=1057&utm_source=git)** | Athens, GA | On Site | Dec 19 |
+| **[KIPP DC](https://www.kippdc.org/)** | **[Equity & Inclusion Intern (Summer 2026)](https://jobright.ai/jobs/info/694622837d506e3808f17430?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Dec 19 |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[Intern](https://jobright.ai/jobs/info/6946208dd1953b5d11bf3d0b?utm_campaign=1057&utm_source=git)** | Sterling Heights, MI | On Site | Dec 19 |
+| **[KIPP DC](https://www.kippdc.org/)** | **[Program Intern, Knowledge & Learning Team (Summer 2026)](https://jobright.ai/jobs/info/69461fe87d506e3808f172d0?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Dec 19 |
+| ↳ | **[Extended Learning & Enrichment Intern (Summer 2026)](https://jobright.ai/jobs/info/69461fabd1953b5d11bf3c6a?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Dec 19 |
 | **[CEA CAPA Education Abroad](https://www.ceastudyabroad.com/)** | **[Enrollment Intern](https://jobright.ai/jobs/info/694618dbd1953b5d11bf36c3?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Dec 19 |
 | **[LAFAYETTE PARISH SCHOOL SYSTEM](http://www.lpssonline.com/)** | **[SPRING 2026 Education Major Intern](https://jobright.ai/jobs/info/6946176c63141d188455c70f?utm_campaign=1057&utm_source=git)** | Lafayette, LA | On Site | Dec 19 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern - Data and Analytics (Summer 2026)](https://jobright.ai/jobs/info/694617467d506e3808f16c06?utm_campaign=1057&utm_source=git)** | Allentown, PA | On Site | Dec 19 |
@@ -75,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Art Teacher & Intern - Elementary](https://jobright.ai/jobs/info/6945eb9a63141d1884558726?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 19 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Talent Development & Enterprise Learning](https://jobright.ai/jobs/info/6945eb0d63141d18845586ac?utm_campaign=1057&utm_source=git)** | Morristown, NJ | On Site | Dec 19 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/6945e80863141d1884558458?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 19 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/6945e7cc7d506e3808f12c99?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Dec 19 |
 | **[Tampa General Hospital](https://www.tgh.org)** | **[Registered Behavioral Health Outpatient Intern](https://jobright.ai/jobs/info/6945e77bd1953b5d11bef663?utm_campaign=1057&utm_source=git)** | Tampa, FL | Hybrid | Dec 19 |
 | **[Southern Association for College Admission Counseling](http://sacac.org)** | **[Senior Vice President of Enrollment Services and Student Success - LIM College](https://jobright.ai/jobs/info/6945e71ed1953b5d11bef638?utm_campaign=1057&utm_source=git)** | Van Alstyne, TX | Hybrid | Dec 19 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/6945e5dc7d506e3808f12b75?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 19 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Brown University](https://www.brown.edu)** | **[Perioperative Services Intern](https://jobright.ai/jobs/info/6944e56ca7227b3ece66805d?utm_campaign=1057&utm_source=git)** | Rhode Island Hospital | On Site | Dec 18 |
 | **[Beacon Health System](http://beaconhealthsystem.org/)** | **[Student Intern Unpaid (BHS)](https://jobright.ai/jobs/info/6944def350bbaf765056e8cb?utm_campaign=1057&utm_source=git)** | Granger, IN | On Site | Dec 18 |
 | **[St. Charles Community College](https://www.stchas.edu/)** | **[Student Assistant - EXCELerator (Accounting Tutor) - 80226](https://jobright.ai/jobs/info/6944dce750bbaf765056e82a?utm_campaign=1057&utm_source=git)** | St Charles, MO | On Site | Dec 18 |
-| **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6944d45950bbaf765056e426?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 18 |
-| **[Travelers](https://www.travelers.com)** | **[Business Insurance Underwriting Professional Development Program (BI UPDP) Internship](https://jobright.ai/jobs/info/69310bbe4c474121999eb839?utm_campaign=1057&utm_source=git)** | Alpharetta, GA | Hybrid | Dec 18 |
-| **[HOLT CAT](http://www.holtcat.com/)** | **[Service Intern- College](https://jobright.ai/jobs/info/6944c9b550bbaf765056dd3e?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Dec 18 |
-| **[WEG Transformers USA](http://weg.us)** | **[SPRING SESSION COLLEGE INTERNSHIP](https://jobright.ai/jobs/info/6944c88994730b7398780902?utm_campaign=1057&utm_source=git)** | Washington, MO | On Site | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
