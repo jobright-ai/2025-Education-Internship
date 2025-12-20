@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Museum of Science](http://www.mos.org)** | **[Living Laboratory Mentor Internship](https://jobright.ai/jobs/info/6938661ca0dde7020e30f338?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Dec 20 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/6946d7fbd1953b5d11c00830?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Dec 20 |
 | **[Wholistic Vibes Wellness LLC](https://www.linkedin.com/company/109519141)** | **[WVW Intern & Volunteer](https://jobright.ai/jobs/info/6946cd01d1953b5d11bfed76?utm_campaign=1057&utm_source=git)** | DC-Baltimore Area | Remote | Dec 20 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Community Engagement Intern](https://jobright.ai/jobs/info/6946c9947d506e3808f21fc7?utm_campaign=1057&utm_source=git)** | Cambridge, MA | Hybrid | Dec 20 |
@@ -85,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d450498c62e63bc7fe8308?utm_campaign=1057&utm_source=git)** | Plain City, OH | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44ae2ffc1276de3fd9743?utm_campaign=1057&utm_source=git)** | Maumee, OH | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44690ffc1276de3fd917e?utm_campaign=1057&utm_source=git)** | Roselle, IL | On Site | Dec 20 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d44b27ffc1276de3fd9786?utm_campaign=1057&utm_source=git)** | North Charleston, SC | On Site | Dec 20 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d63907ebcef82ef5cf7cc1?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Dec 20 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d61e949526920fc208d499?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Dec 20 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d446dd17554c2d9eef78ea?utm_campaign=1057&utm_source=git)** | North Charleston, SC | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d625c6ebcef82ef5cf6c4d?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d61a901f7fb2169ab1730b?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Dec 20 |
 | **[Ohlone College](http://www.ohlone.edu/)** | **[Program Manager, Career Services and Industry Relations](https://jobright.ai/jobs/info/69467c25d1953b5d11bfadf5?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of La Verne](http://laverne.edu)** | **[Information, Events and Scheduling Services - Campus Center Student Assistant (2025/2026) - NFWS](https://jobright.ai/jobs/info/6945bc5d951654073537d8d8?utm_campaign=1057&utm_source=git)** | La Verne, CA | On Site | Dec 19 |
 | **[Clemson University MBA Programs](https://www.clemson.edu/business/departments/mba/)** | **[Open Rank Faculty - Small Animal Internal Medicine - Harvey S. Peeler Jr. College of Veterinary Medicine](https://jobright.ai/jobs/info/6945badd951654073537d7bd?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | On Site | Dec 19 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[2026 DOE Scholars - Internships - ARPA-E](https://jobright.ai/jobs/info/6945d3c8d1953b5d11bee3bb?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Dec 19 |
-| **[La Sierra University](http://www.lasierra.edu/)** | **[Financial Literacy Student Assistant](https://jobright.ai/jobs/info/6945b56c951654073537d1b8?utm_campaign=1057&utm_source=git)** | Riverside, CA | Hybrid | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
