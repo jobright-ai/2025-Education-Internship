@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tacoma Community College](http://www.tacomacc.edu/)** | **[Student Programming, Government and Ambassadors](https://jobright.ai/jobs/info/69470ead63141d188456cc4f?utm_campaign=1057&utm_source=git)** | Tacoma, WA | On Site | Dec 20 |
+| **[Sparkcraft](https://sparkcraft.com)** | **[(English & Mandarin) Teaching Assistant for Generative AI Engineer Course](https://jobright.ai/jobs/info/694702bcd1953b5d11c01ee7?utm_campaign=1057&utm_source=git)** | United States | Remote | Dec 20 |
+| **[Autonomous Solutions, Inc. (ASI)](http://www.asirobots.com/)** | **[Learning Experience Design Intern (Flexible Schedule)](https://jobright.ai/jobs/info/694700c363141d188456b0b3?utm_campaign=1057&utm_source=git)** | Logan,UT,US | On Site | Dec 20 |
 | **[Museum of Science](http://www.mos.org)** | **[Living Laboratory Mentor Internship](https://jobright.ai/jobs/info/6938661ca0dde7020e30f338?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Dec 20 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/6946d7fbd1953b5d11c00830?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Dec 20 |
 | **[Wholistic Vibes Wellness LLC](https://www.linkedin.com/company/109519141)** | **[WVW Intern & Volunteer](https://jobright.ai/jobs/info/6946cd01d1953b5d11bfed76?utm_campaign=1057&utm_source=git)** | DC-Baltimore Area | Remote | Dec 20 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Community Engagement Intern](https://jobright.ai/jobs/info/6946c9947d506e3808f21fc7?utm_campaign=1057&utm_source=git)** | Cambridge, MA | Hybrid | Dec 20 |
-| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/6946ba9e63141d1884567720?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 20 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Teaching Assistant - Portfolio Development (International Teaching & Global Leadership) - Staff](https://jobright.ai/jobs/info/6946ba86d1953b5d11bfe4fe?utm_campaign=1057&utm_source=git)** | Druid, MD | On Site | Dec 20 |
 | **[Education Through Music](https://etmonline.org)** | **[Music Teacher Intern](https://jobright.ai/jobs/info/6946b37f63141d188456710a?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 20 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Political Science Adjunct Spring 2026 (International Relations)](https://jobright.ai/jobs/info/6946acc5d1953b5d11bfdde0?utm_campaign=1057&utm_source=git)** | West Trenton, NJ | On Site | Dec 20 |
@@ -86,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d450498c62e63bc7fe8308?utm_campaign=1057&utm_source=git)** | Plain City, OH | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44ae2ffc1276de3fd9743?utm_campaign=1057&utm_source=git)** | Maumee, OH | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44690ffc1276de3fd917e?utm_campaign=1057&utm_source=git)** | Roselle, IL | On Site | Dec 20 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d61e949526920fc208d499?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Dec 20 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d446dd17554c2d9eef78ea?utm_campaign=1057&utm_source=git)** | North Charleston, SC | On Site | Dec 20 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d44b27ffc1276de3fd9786?utm_campaign=1057&utm_source=git)** | North Charleston, SC | On Site | Dec 20 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d625254736ff202fdcfbe9?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d625c6ebcef82ef5cf6c4d?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d61a901f7fb2169ab1730b?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Dec 20 |
 | **[Ohlone College](http://www.ohlone.edu/)** | **[Program Manager, Career Services and Industry Relations](https://jobright.ai/jobs/info/69467c25d1953b5d11bfadf5?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 20 |
@@ -113,8 +115,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Extended Learning & Enrichment Intern (Summer 2026)](https://jobright.ai/jobs/info/69461fabd1953b5d11bf3c6a?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Dec 19 |
 | **[CEA CAPA Education Abroad](https://www.ceastudyabroad.com/)** | **[Enrollment Intern](https://jobright.ai/jobs/info/694618dbd1953b5d11bf36c3?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Dec 19 |
 | **[LAFAYETTE PARISH SCHOOL SYSTEM](http://www.lpssonline.com/)** | **[SPRING 2026 Education Major Intern](https://jobright.ai/jobs/info/6946176c63141d188455c70f?utm_campaign=1057&utm_source=git)** | Lafayette, LA | On Site | Dec 19 |
-| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern - Data and Analytics (Summer 2026)](https://jobright.ai/jobs/info/6946c1df7d506e3808f21df3?utm_campaign=1057&utm_source=git)** | Allentown, PA | On Site | Dec 19 |
 | **[California State University-San Bernardino](https://csusb.edu)** | **[Department of History Chair 12 Month (Internal Candidates Only)](https://jobright.ai/jobs/info/6938ad58aabec14a727d9d40?utm_campaign=1057&utm_source=git)** | San Bernardino, CA | On Site | Dec 19 |
+| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/694603d7d1953b5d11bf1e23?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 19 |
 | **[CEA CAPA Education Abroad](https://www.ceastudyabroad.com/)** | **[Enrollment Intern](https://jobright.ai/jobs/info/69460156d1953b5d11bf1810?utm_campaign=1057&utm_source=git)** | Phoenix, AZ, US | On Site | Dec 19 |
 | **[Environment for the Americas](http://www.environmentamericas.org)** | **[Let’s Go Birding Internship - ONSITE - Cuyahoga Valley National Park (2 positions) Brecksville, OH](https://jobright.ai/jobs/info/6946013bd1953b5d11bf17d8?utm_campaign=1057&utm_source=git)** | Brecksville, OH | On Site | Dec 19 |
 | ↳ | **[Let’s Go Birding Internship - ONSITE - Medgar and Myrlie Evers Home National Monument (2 positions)](https://jobright.ai/jobs/info/694600177d506e3808f14aaa?utm_campaign=1057&utm_source=git)** | Jackson, MS | On Site | Dec 19 |
@@ -141,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[Friendship Public Charter School](https://www.friendshipschools.org/)** | **[Student & Staff Support Team Coordinator (SSST)](https://jobright.ai/jobs/info/6945c07d63141d1884554da8?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Dec 19 |
 | **[Signal Theory Inc.](https://www.signaltheory.com)** | **[2026 Summer Internships](https://jobright.ai/jobs/info/69425365bdcf884a5ade37ef?utm_campaign=1057&utm_source=git)** | Kansas City, MO | Hybrid | Dec 19 |
 | **[UBS](https://www.ubs.com)** | **[2026 MBA Associate Internship - Global Banking](https://jobright.ai/jobs/info/6945d0d0951654073537fb19?utm_campaign=1057&utm_source=git)** | New York, United States | On Site | Dec 19 |
-| **[Health Research, Inc.](https://www.healthresearch.org)** | **[Hourly Project Assistant II (Internship)](https://jobright.ai/jobs/info/6945cfbd951654073537f5b3?utm_campaign=1057&utm_source=git)** | Albany, NY | On Site | Dec 19 |
 | **[United Therapeutics Corporation](http://www.unither.com)** | **[Intern - Ex-Vivo Clinical Specialists](https://jobright.ai/jobs/info/6945cde463141d1884555af4?utm_campaign=1057&utm_source=git)** | Silver Spring, MD | On Site | Dec 19 |
 | ↳ | **[Intern - Ex-Vivo Clinical Specialist](https://jobright.ai/jobs/info/6945cce363141d188455570b?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Dec 19 |
 | **[University of Niagara Falls Canada](http://unfc.ca)** | **[Student Housing Assistant](https://jobright.ai/jobs/info/6945ca22951654073537e777?utm_campaign=1057&utm_source=git)** | Niagara Falls, Ontario, Canada | On Site | Dec 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[California State University-San Bernardino](https://csusb.edu)** | **[Department of Psychology - Department Chair 12 Month (Internal Candidates Only)](https://jobright.ai/jobs/info/6945c09563141d1884554dc0?utm_campaign=1057&utm_source=git)** | San Bernardino, CA | On Site | Dec 19 |
 | **[University of La Verne](http://laverne.edu)** | **[Information, Events and Scheduling Services - Campus Center Student Assistant (2025/2026) - NFWS](https://jobright.ai/jobs/info/6945bc5d951654073537d8d8?utm_campaign=1057&utm_source=git)** | La Verne, CA | On Site | Dec 19 |
 | **[Clemson University MBA Programs](https://www.clemson.edu/business/departments/mba/)** | **[Open Rank Faculty - Small Animal Internal Medicine - Harvey S. Peeler Jr. College of Veterinary Medicine](https://jobright.ai/jobs/info/6945badd951654073537d7bd?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | On Site | Dec 19 |
-| **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[2026 DOE Scholars - Internships - ARPA-E](https://jobright.ai/jobs/info/6945d3c8d1953b5d11bee3bb?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
