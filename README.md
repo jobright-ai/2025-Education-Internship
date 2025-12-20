@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CN](http://www.cn.ca)** | **[Intern, Future Leaders Development- EN](https://jobright.ai/jobs/info/6929dcca66796e3028f8d653?utm_campaign=1057&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 20 |
+| **[Charlie Health](https://www.charliehealth.com)** | **[Clinical Practicum Intern (Master's Level)](https://jobright.ai/jobs/info/68f18ef9ef766b3f0fd0f593?utm_campaign=1057&utm_source=git)** | United States | Remote | Dec 20 |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/69469b7563141d1884564d89?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Dec 20 |
+| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT CORPORATE ACCOUNTING](https://jobright.ai/jobs/info/691aaa6515b4156367189bfc?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Dec 20 |
 | **[Hudson River Trading](https://www.hudsonrivertrading.com)** | **[Sophomore Internship – Summer 2026](https://jobright.ai/jobs/info/690d1b164a1b456627b1dcec?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 20 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Residential Crisis-Towson Hospital) 2025 Psychology Undergraduate Fieldwork](https://jobright.ai/jobs/info/68d7756c295f8e37655d9d5c?utm_campaign=1057&utm_source=git)** | Towson, MD | On Site | Dec 20 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Training Content Creator Intern](https://jobright.ai/jobs/info/68f16323f462172a5a7d7933?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Dec 20 |
@@ -70,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d450498c62e63bc7fe8308?utm_campaign=1057&utm_source=git)** | Plain City, OH | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44ae2ffc1276de3fd9743?utm_campaign=1057&utm_source=git)** | Maumee, OH | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44690ffc1276de3fd917e?utm_campaign=1057&utm_source=git)** | Roselle, IL | On Site | Dec 20 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d61e949526920fc208d499?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44b27ffc1276de3fd9786?utm_campaign=1057&utm_source=git)** | North Charleston, SC | On Site | Dec 20 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d625254736ff202fdcfbe9?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d625c6ebcef82ef5cf6c4d?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d61a901f7fb2169ab1730b?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Dec 20 |
 | **[Ohlone College](http://www.ohlone.edu/)** | **[Program Manager, Career Services and Industry Relations](https://jobright.ai/jobs/info/69467c25d1953b5d11bfadf5?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 20 |
@@ -125,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[Friendship Public Charter School](https://www.friendshipschools.org/)** | **[Student & Staff Support Team Coordinator (SSST)](https://jobright.ai/jobs/info/6945c07d63141d1884554da8?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Dec 19 |
 | **[Signal Theory Inc.](https://www.signaltheory.com)** | **[2026 Summer Internships](https://jobright.ai/jobs/info/69425365bdcf884a5ade37ef?utm_campaign=1057&utm_source=git)** | Kansas City, MO | Hybrid | Dec 19 |
 | **[UBS](https://www.ubs.com)** | **[2026 MBA Associate Internship - Global Banking](https://jobright.ai/jobs/info/6945d0d0951654073537fb19?utm_campaign=1057&utm_source=git)** | New York, United States | On Site | Dec 19 |
-| **[Health Research, Inc.](https://www.healthresearch.org)** | **[Hourly Project Assistant II (Internship)](https://jobright.ai/jobs/info/6945cfbd951654073537f5b3?utm_campaign=1057&utm_source=git)** | Albany, NY | On Site | Dec 19 |
 | **[United Therapeutics Corporation](http://www.unither.com)** | **[Intern - Ex-Vivo Clinical Specialists](https://jobright.ai/jobs/info/6945cde463141d1884555af4?utm_campaign=1057&utm_source=git)** | Silver Spring, MD | On Site | Dec 19 |
 | ↳ | **[Intern - Ex-Vivo Clinical Specialist](https://jobright.ai/jobs/info/6945cce363141d188455570b?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Dec 19 |
 | **[University of Niagara Falls Canada](http://unfc.ca)** | **[Student Housing Assistant](https://jobright.ai/jobs/info/6945ca22951654073537e777?utm_campaign=1057&utm_source=git)** | Niagara Falls, Ontario, Canada | On Site | Dec 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: Corporate Opportunities: Creative (Multiple Locations: CA & NY)](https://jobright.ai/jobs/info/69459532951654073537b089?utm_campaign=1057&utm_source=git)** | Santa Monica, California | On Site | Dec 19 |
 | ↳ | **[Universal Music Group 2026 Summer Internship Program: Corporate Opportunities: Creative (Multiple Locations: CA & NY)](https://jobright.ai/jobs/info/69459471d1953b5d11be921b?utm_campaign=1057&utm_source=git)** | New York, New York | On Site | Dec 19 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Examination Development- Notices, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/6912d9f3c98948514c47ece9?utm_campaign=1057&utm_source=git)** | Brooklyn, NY | On Site | Dec 19 |
-| **[Franciscan Health](https://www.franciscanhealth.org/)** | **[Franciscan Nurse Internship - Crown Point](https://jobright.ai/jobs/info/694592e3951654073537ac7f?utm_campaign=1057&utm_source=git)** | IN - Crown Point | On Site | Dec 19 |
-| **[Family Guidance Centers, Inc.](https://www.fgcinc.org/)** | **[Governor's State University Intern](https://jobright.ai/jobs/info/6945922cd1953b5d11be8f22?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 19 |
-| **[National Heritage Academies](https://www.nhaschools.com)** | **[Enrollment Intern](https://jobright.ai/jobs/info/69459183d1953b5d11be8e1e?utm_campaign=1057&utm_source=git)** | 3850 Broadmoor Ave SE, Grand Rapids, MI, 49512, US | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
