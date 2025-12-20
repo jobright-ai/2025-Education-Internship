@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grace Farms Foundation](https://gracefarms.org/)** | **[Education Department Intern](https://jobright.ai/jobs/info/69466e66d1953b5d11bfa636?utm_campaign=1057&utm_source=git)** | New Canaan, CT | On Site | Dec 20 |
+| **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/69466dc0d1953b5d11bfa60a?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | Hybrid | Dec 20 |
+| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[BBraun PA Operations Financial AnalystIntern](https://jobright.ai/jobs/info/694663b87d506e3808f1beb6?utm_campaign=1057&utm_source=git)** | Allentown, PA | Hybrid | Dec 20 |
 | **[Thompson School District](https://www.thompsonschools.org)** | **[Elementary Robotics Coach Internship](https://jobright.ai/jobs/info/69464fb17d506e3808f1ad53?utm_campaign=1057&utm_source=git)** | Loveland, CO | On Site | Dec 19 |
 | **[The Centers](https://thecentersohio.org/)** | **[SUD Counseling Intern](https://jobright.ai/jobs/info/69464d83d1953b5d11bf7626?utm_campaign=1057&utm_source=git)** | East Cleveland, OH | On Site | Dec 19 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Neuro Cardio - APP - Internal Medicine](https://jobright.ai/jobs/info/69464a297d506e3808f1a79f?utm_campaign=1057&utm_source=git)** | Florida, United States | On Site | Dec 19 |
@@ -67,7 +70,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Extended Learning & Enrichment Intern (Summer 2026)](https://jobright.ai/jobs/info/69461fabd1953b5d11bf3c6a?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Dec 19 |
 | **[CEA CAPA Education Abroad](https://www.ceastudyabroad.com/)** | **[Enrollment Intern](https://jobright.ai/jobs/info/694618dbd1953b5d11bf36c3?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Dec 19 |
 | **[LAFAYETTE PARISH SCHOOL SYSTEM](http://www.lpssonline.com/)** | **[SPRING 2026 Education Major Intern](https://jobright.ai/jobs/info/6946176c63141d188455c70f?utm_campaign=1057&utm_source=git)** | Lafayette, LA | On Site | Dec 19 |
-| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern - Data and Analytics (Summer 2026)](https://jobright.ai/jobs/info/694617467d506e3808f16c06?utm_campaign=1057&utm_source=git)** | Allentown, PA | On Site | Dec 19 |
 | **[California State University-San Bernardino](https://csusb.edu)** | **[Department of History Chair 12 Month (Internal Candidates Only)](https://jobright.ai/jobs/info/6938ad58aabec14a727d9d40?utm_campaign=1057&utm_source=git)** | San Bernardino, CA | On Site | Dec 19 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/694603d7d1953b5d11bf1e23?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 19 |
 | **[CEA CAPA Education Abroad](https://www.ceastudyabroad.com/)** | **[Enrollment Intern](https://jobright.ai/jobs/info/69460156d1953b5d11bf1810?utm_campaign=1057&utm_source=git)** | Phoenix, AZ, US | On Site | Dec 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IDS Health, Inc](https://www.linkedin.com/company/107901732)** | **[Speech-Language Pathologist or CF Intern](https://jobright.ai/jobs/info/694524a39516540735373f6c?utm_campaign=1057&utm_source=git)** | Big Spring, TX | On Site | Dec 19 |
 | **[American Addiction Centers](https://americanaddictioncenters.org/)** | **[Masters Level Clinician (Registered Intern License)](https://jobright.ai/jobs/info/694508ee50bbaf765057166d?utm_campaign=1057&utm_source=git)** | Riverview, FL | On Site | Dec 19 |
 | **[Steppingstone](http://www.tsf.org)** | **[Summer Intern](https://jobright.ai/jobs/info/694525369516540735374016?utm_campaign=1057&utm_source=git)** | Milton, MA | On Site | Dec 18 |
-| **[Brown University Health](https://www.brownhealth.org)** | **[Perioperative Services Intern](https://jobright.ai/jobs/info/694501c550bbaf7650571136?utm_campaign=1057&utm_source=git)** | Providence, RI | On Site | Dec 18 |
-| **[Los Rios Community College District](https://losrios.edu/)** | **[Faculty Diversity Internship Program (FDIP)](https://jobright.ai/jobs/info/694652d0d1953b5d11bf7a1d?utm_campaign=1057&utm_source=git)** | Greater Sacramento | On Site | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
