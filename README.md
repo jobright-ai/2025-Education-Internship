@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/69474e467d506e3808f2a0e2?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 20 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/69472d7263141d188456ddc9?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 20 |
 | ↳ | **[2025/2026 - Science Specialist Teacher and Interns - Elementary](https://jobright.ai/jobs/info/69472be37d506e3808f2797d?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 20 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/6947272f63141d188456d8f0?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Dec 20 |
 | **[Autonomous Solutions, Inc. (ASI)](http://www.asirobots.com/)** | **[Learning Experience Design Intern (Flexible Schedule)](https://jobright.ai/jobs/info/694722467d506e3808f274d4?utm_campaign=1057&utm_source=git)** | Logan, UT | Hybrid | Dec 20 |
 | **[Prairie View A&M University](http://pvam.edu)** | **[Extension Program Specialist II (Workforce Development)](https://jobright.ai/jobs/info/69471a8b63141d188456d3bd?utm_campaign=1057&utm_source=git)** | Prairie View, TX | On Site | Dec 20 |
-| **[Tacoma Community College](http://www.tacomacc.edu/)** | **[Student Programming, Government and Ambassadors](https://jobright.ai/jobs/info/69470ead63141d188456cc4f?utm_campaign=1057&utm_source=git)** | Tacoma, WA | On Site | Dec 20 |
 | **[Sparkcraft](https://sparkcraft.com)** | **[(English & Mandarin) Teaching Assistant for Generative AI Engineer Course](https://jobright.ai/jobs/info/694702bcd1953b5d11c01ee7?utm_campaign=1057&utm_source=git)** | United States | Remote | Dec 20 |
 | **[Autonomous Solutions, Inc. (ASI)](http://www.asirobots.com/)** | **[Learning Experience Design Intern (Flexible Schedule)](https://jobright.ai/jobs/info/694700c363141d188456b0b3?utm_campaign=1057&utm_source=git)** | Logan,UT,US | On Site | Dec 20 |
 | **[Museum of Science](http://www.mos.org)** | **[Living Laboratory Mentor Internship](https://jobright.ai/jobs/info/6938661ca0dde7020e30f338?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Dec 20 |
@@ -147,7 +147,6 @@ For a complete list, click the following sortable link below:
 | **[Friendship Public Charter School](https://www.friendshipschools.org/)** | **[Student & Staff Support Team Coordinator (SSST)](https://jobright.ai/jobs/info/6945c07d63141d1884554da8?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Dec 19 |
 | **[Signal Theory Inc.](https://www.signaltheory.com)** | **[2026 Summer Internships](https://jobright.ai/jobs/info/69425365bdcf884a5ade37ef?utm_campaign=1057&utm_source=git)** | Kansas City, MO | Hybrid | Dec 19 |
 | **[UBS](https://www.ubs.com)** | **[2026 MBA Associate Internship - Global Banking](https://jobright.ai/jobs/info/6945d0d0951654073537fb19?utm_campaign=1057&utm_source=git)** | New York, United States | On Site | Dec 19 |
-| **[Health Research, Inc.](https://www.healthresearch.org)** | **[Hourly Project Assistant II (Internship)](https://jobright.ai/jobs/info/6945cfbd951654073537f5b3?utm_campaign=1057&utm_source=git)** | Albany, NY | On Site | Dec 19 |
 | **[United Therapeutics Corporation](http://www.unither.com)** | **[Intern - Ex-Vivo Clinical Specialists](https://jobright.ai/jobs/info/6945cde463141d1884555af4?utm_campaign=1057&utm_source=git)** | Silver Spring, MD | On Site | Dec 19 |
 | ↳ | **[Intern - Ex-Vivo Clinical Specialist](https://jobright.ai/jobs/info/6945cce363141d188455570b?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Dec 19 |
 | **[University of Niagara Falls Canada](http://unfc.ca)** | **[Student Housing Assistant](https://jobright.ai/jobs/info/6945ca22951654073537e777?utm_campaign=1057&utm_source=git)** | Niagara Falls, Ontario, Canada | On Site | Dec 19 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[UBS](https://www.ubs.com)** | **[2026 MBA Associate Internship - Global Banking](https://jobright.ai/jobs/info/6945c5b763141d188455538f?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Dec 19 |
 | **[Lenape Valley Foundation](https://www.lenapevf.org)** | **[Intern / Crisis Residential Program](https://jobright.ai/jobs/info/6945c3a5951654073537e162?utm_campaign=1057&utm_source=git)** | Bristol, PA, US | On Site | Dec 19 |
 | **[SEO (Sponsors for Educational Opportunity)](http://www.seo-usa.org)** | **[Tech Developer Teaching Assistant - First Year Academy](https://jobright.ai/jobs/info/6945c32163141d1884555064?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 19 |
+| **[UBS](https://www.ubs.com)** | **[2026 MBA Associate Internship - Global Banking](https://jobright.ai/jobs/info/6945c1add1953b5d11bec10e?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
