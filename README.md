@@ -76,7 +76,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d631edebcef82ef5cf7792?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Dec 21 |
 | **[University of Montevallo](http://www.montevallo.edu)** | **[Student Office Assistant, Counseling Services](https://jobright.ai/jobs/info/6947becad1953b5d11c0f245?utm_campaign=1057&utm_source=git)** | Montevallo, AL | On Site | Dec 21 |
 | **[TD](https://www.td.com)** | **[2026 Summer Graduate Leadership Internship Program - Retail Distribution](https://jobright.ai/jobs/info/6947b6287d506e3808f306e0?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 21 |
-| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/6947844dd1953b5d11c093a6?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Dec 20 |
 | **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[Associate Dean of Research, College of Design, Architecture, Art, & Planning](https://jobright.ai/jobs/info/69477dc163141d18845721b2?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Dec 20 |
 | **[The Menta Education Group](https://menta.com/)** | **[Teacher Internship -Paid](https://jobright.ai/jobs/info/687ec13f2097a271a89979e1?utm_campaign=1057&utm_source=git)** | Casa Grande, AZ | On Site | Dec 20 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Coordinator: International Baccalaureate DP/CP Site (School Based)](https://jobright.ai/jobs/info/6947548e7d506e3808f2a3df?utm_campaign=1057&utm_source=git)** | Annapolis, MD | On Site | Dec 20 |
@@ -114,18 +113,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44ae2ffc1276de3fd9743?utm_campaign=1057&utm_source=git)** | Maumee, OH | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44690ffc1276de3fd917e?utm_campaign=1057&utm_source=git)** | Roselle, IL | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d446dd17554c2d9eef78ea?utm_campaign=1057&utm_source=git)** | North Charleston, SC | On Site | Dec 20 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d625254736ff202fdcfbe9?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d625c6ebcef82ef5cf6c4d?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d61a901f7fb2169ab1730b?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d618ac1f7fb2169ab16f27?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d63267ebcef82ef5cf7868?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Dec 20 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d646fb894705799a2ea3dc?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d62629894705799a2e7f13?utm_campaign=1057&utm_source=git)** | Savannah, GA | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d6349f894705799a2e89d7?utm_campaign=1057&utm_source=git)** | Pflugerville, TX | On Site | Dec 20 |
 | **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[Assistant Professor, Educator, Behavior Analysis, CECH Human Services](https://jobright.ai/jobs/info/694678457d506e3808f1e1e1?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | Hybrid | Dec 20 |
 | ↳ | **[Assistant Professor, Educator, Exercise Science, CECH Human Services](https://jobright.ai/jobs/info/69467759d1953b5d11bfabda?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Dec 20 |
 | **[Grace Farms Foundation](https://gracefarms.org/)** | **[Education Department Intern](https://jobright.ai/jobs/info/69466e66d1953b5d11bfa636?utm_campaign=1057&utm_source=git)** | New Canaan, CT | On Site | Dec 20 |
 | **[Blue Valley School District](http://www.bluevalleyk12.org)** | **[Administrative Assistant, Student Services/Assistive Technology - Hilltop Learning Center](https://jobright.ai/jobs/info/69468cab63141d18845644fb?utm_campaign=1057&utm_source=git)** | Overland Park, KS | On Site | Dec 20 |
-| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[BBraun PA Operations Financial AnalystIntern](https://jobright.ai/jobs/info/694663b87d506e3808f1beb6?utm_campaign=1057&utm_source=git)** | Allentown, PA | Hybrid | Dec 20 |
 | **[Texas A&M Forest Service](https://tfsweb.tamu.edu)** | **[Student Intern](https://jobright.ai/jobs/info/69468914d1953b5d11bfb2d4?utm_campaign=1057&utm_source=git)** | College Station, TX | On Site | Dec 20 |
 | **[Epworth Children & Family Services](https://www.epworth.org/)** | **[Clinical FSN Intern](https://jobright.ai/jobs/info/69467c3c63141d1884563dcb?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Dec 20 |
 | **[Beaufort County](https://www.beaufortcountysc.gov/)** | **[Assistant Naturalist Intern](https://jobright.ai/jobs/info/69468a14d1953b5d11bfb2f4?utm_campaign=1057&utm_source=git)** | Beaufort, SC | On Site | Dec 19 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Tampa General Hospital](https://www.tgh.org)** | **[Registered Behavioral Health Outpatient Intern](https://jobright.ai/jobs/info/6945e77bd1953b5d11bef663?utm_campaign=1057&utm_source=git)** | Tampa, FL | Hybrid | Dec 19 |
 | **[Southern Association for College Admission Counseling](http://sacac.org)** | **[Senior Vice President of Enrollment Services and Student Success - LIM College](https://jobright.ai/jobs/info/6945e71ed1953b5d11bef638?utm_campaign=1057&utm_source=git)** | Van Alstyne, TX | Hybrid | Dec 19 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/6945e5dc7d506e3808f12b75?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 19 |
+| **[Weber State University Department of Automotive Technology](https://www.weber.edu/automotive)** | **[Open Educational Resources/Editor Student Intern](https://jobright.ai/jobs/info/69460486d1953b5d11bf1f8f?utm_campaign=1057&utm_source=git)** | Ogden, UT | On Site | Dec 19 |
+| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/6945e3a67d506e3808f12976?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
