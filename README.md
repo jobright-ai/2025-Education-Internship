@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TD](https://www.td.com)** | **[2026 Summer Graduate Leadership Internship Program - Consumer Products – Credit Management](https://jobright.ai/jobs/info/694761fb63141d1884570cdd?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 20 |
+| **[The Menta Education Group](https://menta.com/)** | **[Teacher Internship -Paid](https://jobright.ai/jobs/info/687ec13f2097a271a89979e1?utm_campaign=1057&utm_source=git)** | Casa Grande, AZ | On Site | Dec 20 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Coordinator: International Baccalaureate DP/CP Site (School Based)](https://jobright.ai/jobs/info/6947548e7d506e3808f2a3df?utm_campaign=1057&utm_source=git)** | Annapolis, MD | On Site | Dec 20 |
+| **[Direction Home Akron Canton Area Agency on Aging & Disabilities](https://www.dhad.org)** | **[HCBS Student Intern](https://jobright.ai/jobs/info/6947545e7d506e3808f2a39d?utm_campaign=1057&utm_source=git)** | GREEN - UNIONTOWN, OH 44685 | On Site | Dec 20 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/69474e467d506e3808f2a0e2?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 20 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/69472d7263141d188456ddc9?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 20 |
 | ↳ | **[2025/2026 - Science Specialist Teacher and Interns - Elementary](https://jobright.ai/jobs/info/69472be37d506e3808f2797d?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 20 |
@@ -69,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/6946d7fbd1953b5d11c00830?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Dec 20 |
 | **[Wholistic Vibes Wellness LLC](https://www.linkedin.com/company/109519141)** | **[WVW Intern & Volunteer](https://jobright.ai/jobs/info/6946cd01d1953b5d11bfed76?utm_campaign=1057&utm_source=git)** | DC-Baltimore Area | Remote | Dec 20 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Community Engagement Intern](https://jobright.ai/jobs/info/6946c9947d506e3808f21fc7?utm_campaign=1057&utm_source=git)** | Cambridge, MA | Hybrid | Dec 20 |
-| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/6946ba9e63141d1884567720?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 20 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Teaching Assistant - Portfolio Development (International Teaching & Global Leadership) - Staff](https://jobright.ai/jobs/info/6946ba86d1953b5d11bfe4fe?utm_campaign=1057&utm_source=git)** | Druid, MD | On Site | Dec 20 |
 | **[Education Through Music](https://etmonline.org)** | **[Music Teacher Intern](https://jobright.ai/jobs/info/6946b37f63141d188456710a?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 20 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Political Science Adjunct Spring 2026 (International Relations)](https://jobright.ai/jobs/info/6946acc5d1953b5d11bfdde0?utm_campaign=1057&utm_source=git)** | West Trenton, NJ | On Site | Dec 20 |
@@ -93,7 +96,7 @@ For a complete list, click the following sortable link below:
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d450498c62e63bc7fe8308?utm_campaign=1057&utm_source=git)** | Plain City, OH | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44ae2ffc1276de3fd9743?utm_campaign=1057&utm_source=git)** | Maumee, OH | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44690ffc1276de3fd917e?utm_campaign=1057&utm_source=git)** | Roselle, IL | On Site | Dec 20 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d63907ebcef82ef5cf7cc1?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Dec 20 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d61e949526920fc208d499?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d446dd17554c2d9eef78ea?utm_campaign=1057&utm_source=git)** | North Charleston, SC | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d625c6ebcef82ef5cf6c4d?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d61a901f7fb2169ab1730b?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Dec 20 |
@@ -121,6 +124,7 @@ For a complete list, click the following sortable link below:
 | **[CEA CAPA Education Abroad](https://www.ceastudyabroad.com/)** | **[Enrollment Intern](https://jobright.ai/jobs/info/694618dbd1953b5d11bf36c3?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Dec 19 |
 | **[LAFAYETTE PARISH SCHOOL SYSTEM](http://www.lpssonline.com/)** | **[SPRING 2026 Education Major Intern](https://jobright.ai/jobs/info/6946176c63141d188455c70f?utm_campaign=1057&utm_source=git)** | Lafayette, LA | On Site | Dec 19 |
 | **[California State University-San Bernardino](https://csusb.edu)** | **[Department of History Chair 12 Month (Internal Candidates Only)](https://jobright.ai/jobs/info/6938ad58aabec14a727d9d40?utm_campaign=1057&utm_source=git)** | San Bernardino, CA | On Site | Dec 19 |
+| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/694603d7d1953b5d11bf1e23?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 19 |
 | **[CEA CAPA Education Abroad](https://www.ceastudyabroad.com/)** | **[Enrollment Intern](https://jobright.ai/jobs/info/69460156d1953b5d11bf1810?utm_campaign=1057&utm_source=git)** | Phoenix, AZ, US | On Site | Dec 19 |
 | **[Environment for the Americas](http://www.environmentamericas.org)** | **[Let’s Go Birding Internship - ONSITE - Cuyahoga Valley National Park (2 positions) Brecksville, OH](https://jobright.ai/jobs/info/6946013bd1953b5d11bf17d8?utm_campaign=1057&utm_source=git)** | Brecksville, OH | On Site | Dec 19 |
 | ↳ | **[Let’s Go Birding Internship - ONSITE - Medgar and Myrlie Evers Home National Monument (2 positions)](https://jobright.ai/jobs/info/694600177d506e3808f14aaa?utm_campaign=1057&utm_source=git)** | Jackson, MS | On Site | Dec 19 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tampa General Hospital](https://www.tgh.org)** | **[Registered Behavioral Health Outpatient Intern](https://jobright.ai/jobs/info/6945c7a0d1953b5d11bec79c?utm_campaign=1057&utm_source=git)** | TGH Main Campus1 Tampa General Circle | Hybrid | Dec 19 |
 | ↳ | **[Registered Behavioral Health Outpatient Intern](https://jobright.ai/jobs/info/6945c65d951654073537e3fe?utm_campaign=1057&utm_source=git)** | Tampa | Hybrid | Dec 19 |
 | **[United Therapeutics Corporation](http://www.unither.com)** | **[Intern - Clinical Training & Standards](https://jobright.ai/jobs/info/6945e4947d506e3808f12a8e?utm_campaign=1057&utm_source=git)** | Triangle Area | On Site | Dec 19 |
-| **[UBS](https://www.ubs.com)** | **[2026 MBA Associate Internship - Global Banking](https://jobright.ai/jobs/info/6945c5b763141d188455538f?utm_campaign=1057&utm_source=git)** | San Francisco, CA | On Site | Dec 19 |
-| **[Lenape Valley Foundation](https://www.lenapevf.org)** | **[Intern / Crisis Residential Program](https://jobright.ai/jobs/info/6945c3a5951654073537e162?utm_campaign=1057&utm_source=git)** | Bristol, PA, US | On Site | Dec 19 |
-| **[SEO (Sponsors for Educational Opportunity)](http://www.seo-usa.org)** | **[Tech Developer Teaching Assistant - First Year Academy](https://jobright.ai/jobs/info/6945c32163141d1884555064?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 19 |
-| **[UBS](https://www.ubs.com)** | **[2026 MBA Associate Internship - Global Banking](https://jobright.ai/jobs/info/6945c1add1953b5d11bec10e?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
