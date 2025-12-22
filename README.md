@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Travelers](https://www.travelers.com)** | **[Underwriting Internship (Summer 2026): Business Insurance Underwriting Professional Development Program (UPDP)](https://jobright.ai/jobs/info/691e3b3309cc522e87737e85?utm_campaign=1057&utm_source=git)** | Overland Park, KS | Hybrid | Dec 22 |
+| **[UC Health](http://uchealth.com/)** | **[Digital Health Systems Co-op Student](https://jobright.ai/jobs/info/6949aac2d1953b5d11c2aeec?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Dec 22 |
+| **[Sevita](https://sevitahealth.com)** | **[Mental Health Therapist Internship ](https://jobright.ai/jobs/info/6949a206d1953b5d11c2a748?utm_campaign=1057&utm_source=git)** | Lawrence, MA, USA | On Site | Dec 22 |
 | **[State of Missouri](http://mo.gov)** | **[Paid Intern](https://jobright.ai/jobs/info/69499cb67d506e3808f4c530?utm_campaign=1057&utm_source=git)** | Liberty, MO | On Site | Dec 22 |
 | **[Family Service Center of Wilmette, Glenview, Northbrook, and Kenilworth](https://familyservicecenter.org)** | **[Clinical Mental Health Intern/Extern with Child and Adolescent Focus.](https://jobright.ai/jobs/info/69499bc663141d188459394c?utm_campaign=1057&utm_source=git)** | Northfield, IL | On Site | Dec 22 |
 | **[Grunley Construction Company, Inc.](http://grunley.com)** | **[Training Intern](https://jobright.ai/jobs/info/694990df7d506e3808f4b6d1?utm_campaign=1057&utm_source=git)** | Rockville, MD | On Site | Dec 22 |
+| **[Arizona Department of Health Services](https://www.azdhs.gov/)** | **[Intern](https://jobright.ai/jobs/info/6949a20563141d18845940d9?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Dec 22 |
 | **[United Airlines](https://www.united.com)** | **[YearUp Intern Program Cohort 16](https://jobright.ai/jobs/info/6949a07d63141d1884593eb0?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 22 |
 | **[Costello Medical](https://www.costellomedical.com)** | **[Global Health Internship](https://jobright.ai/jobs/info/69499d347d506e3808f4c63a?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | Dec 22 |
 | **[Sevita](https://sevitahealth.com)** | **[In-Home Therapist Internship](https://jobright.ai/jobs/info/69498e47d1953b5d11c28b53?utm_campaign=1057&utm_source=git)** | Leominster, MA | Remote | Dec 22 |
@@ -93,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[New Mexico State University](https://www.nmsu.edu)** | **[Graduate Assistant/Intern](https://jobright.ai/jobs/info/6948bf1063141d1884585ead?utm_campaign=1057&utm_source=git)** | Las Cruces, NM | On Site | Dec 21 |
 | **[Pflugerville ISD](https://www.pfisd.net/)** | **[Teacher-ACE (Internal Only)](https://jobright.ai/jobs/info/6948b33563141d188458570d?utm_campaign=1057&utm_source=git)** | Pflugerville, TX | On Site | Dec 21 |
 | **[CAC Agency](http://cobbsallen.com)** | **[CAC Specialty Summer Internship 2026 (Denver)](https://jobright.ai/jobs/info/6948af0563141d188458506e?utm_campaign=1057&utm_source=git)** | CAC CO Denver Office - Denver, CO 80206 | On Site | Dec 21 |
-| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Student Advisor](https://jobright.ai/jobs/info/6948a9ead1953b5d11c1b374?utm_campaign=1057&utm_source=git)** | New Westminster, British Columbia, Canada | On Site | Dec 21 |
 | **[UC Berkeley Law Pro Bono Program](https://www.law.berkeley.edu/experiential/pro-bono-program/)** | **[Student Programs Associate, Helen Diller Institute (Job ID #82899)](https://jobright.ai/jobs/info/6948a96bd1953b5d11c1b330?utm_campaign=1057&utm_source=git)** | Berkeley, CA | On Site | Dec 21 |
 | **[International Institute of St. Louis](https://www.iistl.org)** | **[Adult Language Learning English Teaching - Paid Intern](https://jobright.ai/jobs/info/69489ead7d506e3808f3d7cf?utm_campaign=1057&utm_source=git)** | 1126 North Broadway Avenue 2nd fl, Springfield, MO, USA | Hybrid | Dec 21 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Florida A&M / FSU](https://jobright.ai/jobs/info/68bc3c5b3bf9eb44f83238e2?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Dec 21 |
@@ -104,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[UPMC](https://www.upmc.com/)** | **[Student Nurse Internship (SNI) Program: Central PA Hospitals](https://jobright.ai/jobs/info/689f19e683d13d1f5b6c43b3?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Dec 21 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Education & Labor - Department of Workplace Standards](https://jobright.ai/jobs/info/69478a2363141d1884572d62?utm_campaign=1057&utm_source=git)** | Frankfort, KY | On Site | Dec 21 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern/News](https://jobright.ai/jobs/info/6943c71050bbaf765055bbdf?utm_campaign=1057&utm_source=git)** | Panama City, FL | On Site | Dec 21 |
-| **[Jewel-Osco](http://www.jewelosco.com)** | **[Summer Business Intern](https://jobright.ai/jobs/info/6948d3597d506e3808f412a2?utm_campaign=1057&utm_source=git)** | Itasca, IL | On Site | Dec 21 |
 | **[Children's Hospital of Michigan](http://childrensdmc.org)** | **[Pharmacy Intern P2 Contingent Rotate](https://jobright.ai/jobs/info/692b5703fa28370be2698a63?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Dec 21 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Respiratory Therapist Intern, Respiratory Therapy, Per diem, 7P-7A](https://jobright.ai/jobs/info/68c40d34e471ef3ce16d387d?utm_campaign=1057&utm_source=git)** | Homestead, FL | On Site | Dec 21 |
 | **[Columbia Bank New Jersey](http://columbiabankonline.com)** | **[Summer 2026 Internship Program](https://jobright.ai/jobs/info/690e03bcd046ab6061cfa1f1?utm_campaign=1057&utm_source=git)** | Fair Lawn, NJ | On Site | Dec 21 |
@@ -125,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[Museum of Science](http://www.mos.org)** | **[Living Laboratory Mentor Internship](https://jobright.ai/jobs/info/6938661ca0dde7020e30f338?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Dec 20 |
 | **[Wholistic Vibes Wellness LLC](www.wholisticvibeswellness.com)** | **[WVW Intern & Volunteer](https://jobright.ai/jobs/info/6946cd01d1953b5d11bfed76?utm_campaign=1057&utm_source=git)** | DC-Baltimore Area | Remote | Dec 20 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Community Engagement Intern](https://jobright.ai/jobs/info/6946c9947d506e3808f21fc7?utm_campaign=1057&utm_source=git)** | Cambridge, MA | Hybrid | Dec 20 |
-| **[Education Through Music](https://etmonline.org)** | **[Music Teacher Intern](https://jobright.ai/jobs/info/6946b37f63141d188456710a?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 20 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Political Science Adjunct Spring 2026 (International Relations)](https://jobright.ai/jobs/info/6946acc5d1953b5d11bfdde0?utm_campaign=1057&utm_source=git)** | West Trenton, NJ | On Site | Dec 20 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[College COACH Internship Program - Summer 2026](https://jobright.ai/jobs/info/692a77b3fa28370be26972a4?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Dec 20 |
 | **[CN](http://www.cn.ca)** | **[Intern, Learning & Development- EN](https://jobright.ai/jobs/info/6929d29c4c474121999ca58e?utm_campaign=1057&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 20 |
@@ -147,7 +148,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44ae2ffc1276de3fd9743?utm_campaign=1057&utm_source=git)** | Maumee, OH | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44690ffc1276de3fd917e?utm_campaign=1057&utm_source=git)** | Roselle, IL | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44b27ffc1276de3fd9786?utm_campaign=1057&utm_source=git)** | North Charleston, SC | On Site | Dec 20 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d63907ebcef82ef5cf7cc1?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Dec 20 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d625254736ff202fdcfbe9?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d625c6ebcef82ef5cf6c4d?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d61a901f7fb2169ab1730b?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d618ac1f7fb2169ab16f27?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Dec 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d6349f894705799a2e89d7?utm_campaign=1057&utm_source=git)** | Pflugerville, TX | On Site | Dec 20 |
 | **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[Assistant Professor, Educator, Behavior Analysis, CECH Human Services](https://jobright.ai/jobs/info/694678457d506e3808f1e1e1?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | Hybrid | Dec 20 |
 | ↳ | **[Assistant Professor, Educator, Exercise Science, CECH Human Services](https://jobright.ai/jobs/info/69467759d1953b5d11bfabda?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Dec 20 |
-| **[Texas A&M Forest Service](https://tfsweb.tamu.edu)** | **[Student Intern](https://jobright.ai/jobs/info/69468914d1953b5d11bfb2d4?utm_campaign=1057&utm_source=git)** | College Station, TX | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
