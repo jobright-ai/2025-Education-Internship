@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New Mexico State University](https://www.nmsu.edu)** | **[Graduate Assistant/Intern](https://jobright.ai/jobs/info/6948bf1063141d1884585ead?utm_campaign=1057&utm_source=git)** | Las Cruces, NM | On Site | Dec 21 |
+| **[Pflugerville ISD](https://www.pfisd.net/)** | **[Teacher-ACE (Internal Only)](https://jobright.ai/jobs/info/6948b33563141d188458570d?utm_campaign=1057&utm_source=git)** | Pflugerville, TX | On Site | Dec 21 |
+| **[CAC Agency](http://cobbsallen.com)** | **[CAC Specialty Summer Internship 2026 (Denver)](https://jobright.ai/jobs/info/6948af0563141d188458506e?utm_campaign=1057&utm_source=git)** | CAC CO Denver Office - Denver, CO 80206 | On Site | Dec 21 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Student Advisor](https://jobright.ai/jobs/info/6948a9ead1953b5d11c1b374?utm_campaign=1057&utm_source=git)** | New Westminster, British Columbia, Canada | On Site | Dec 21 |
+| **[UC Berkeley Law Pro Bono Program](https://www.law.berkeley.edu/experiential/pro-bono-program/)** | **[Student Programs Associate, Helen Diller Institute (Job ID #82899)](https://jobright.ai/jobs/info/6948a96bd1953b5d11c1b330?utm_campaign=1057&utm_source=git)** | Berkeley, CA | On Site | Dec 21 |
+| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/6948a80263141d1884584d95?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 21 |
 | **[International Institute of St. Louis](https://www.iistl.org)** | **[Adult Language Learning English Teaching - Paid Intern](https://jobright.ai/jobs/info/69489ead7d506e3808f3d7cf?utm_campaign=1057&utm_source=git)** | 1126 North Broadway Avenue 2nd fl, Springfield, MO, USA | Hybrid | Dec 21 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/69487e5963141d18845822c1?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 21 |
 | ↳ | **[2025/2026 - Science Specialist Teacher and Interns - Elementary](https://jobright.ai/jobs/info/69487d6a63141d18845822b3?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 21 |
@@ -72,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern/News](https://jobright.ai/jobs/info/6943c71050bbaf765055bbdf?utm_campaign=1057&utm_source=git)** | Panama City, FL | On Site | Dec 21 |
 | **[Children's Hospital of Michigan](http://childrensdmc.org)** | **[Pharmacy Intern P2 Contingent Rotate](https://jobright.ai/jobs/info/692b5703fa28370be2698a63?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Dec 21 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Respiratory Therapist Intern, Respiratory Therapy, Per diem, 7P-7A](https://jobright.ai/jobs/info/68c40d34e471ef3ce16d387d?utm_campaign=1057&utm_source=git)** | Homestead, FL | On Site | Dec 21 |
-| **[Jewel-Osco](http://www.jewelosco.com)** | **[Summer Business Intern](https://jobright.ai/jobs/info/6947805f7d506e3808f2c294?utm_campaign=1057&utm_source=git)** | Itasca, IL | On Site | Dec 21 |
 | **[Columbia Bank New Jersey](http://columbiabankonline.com)** | **[Summer 2026 Internship Program](https://jobright.ai/jobs/info/690e03bcd046ab6061cfa1f1?utm_campaign=1057&utm_source=git)** | Fair Lawn, NJ | On Site | Dec 21 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d61af01f7fb2169ab173e9?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Dec 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d61ebd57a2ca5cf160b8d9?utm_campaign=1057&utm_source=git)** | Lewisville, TX | On Site | Dec 21 |
@@ -82,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[University of Montevallo](http://www.montevallo.edu)** | **[Student Office Assistant, Counseling Services](https://jobright.ai/jobs/info/6947becad1953b5d11c0f245?utm_campaign=1057&utm_source=git)** | Montevallo, AL | On Site | Dec 21 |
 | **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[Associate Dean of Research, College of Design, Architecture, Art, & Planning](https://jobright.ai/jobs/info/69477dc163141d18845721b2?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Dec 20 |
 | **[The Menta Education Group](https://menta.com/)** | **[Teacher Internship -Paid](https://jobright.ai/jobs/info/687ec13f2097a271a89979e1?utm_campaign=1057&utm_source=git)** | Casa Grande, AZ | On Site | Dec 20 |
+| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[BBraun PA Operations Financial AnalystIntern](https://jobright.ai/jobs/info/6948b2037d506e3808f3e58a?utm_campaign=1057&utm_source=git)** | Allentown, PA | Hybrid | Dec 20 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Coordinator: International Baccalaureate DP/CP Site (School Based)](https://jobright.ai/jobs/info/6947548e7d506e3808f2a3df?utm_campaign=1057&utm_source=git)** | Annapolis, MD | On Site | Dec 20 |
 | **[Direction Home Akron Canton Area Agency on Aging & Disabilities](https://www.dhad.org)** | **[HCBS Student Intern](https://jobright.ai/jobs/info/6947545e7d506e3808f2a39d?utm_campaign=1057&utm_source=git)** | GREEN - UNIONTOWN, OH 44685 | On Site | Dec 20 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/69472d7263141d188456ddc9?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 20 |
@@ -116,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d450498c62e63bc7fe8308?utm_campaign=1057&utm_source=git)** | Plain City, OH | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44ae2ffc1276de3fd9743?utm_campaign=1057&utm_source=git)** | Maumee, OH | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44690ffc1276de3fd917e?utm_campaign=1057&utm_source=git)** | Roselle, IL | On Site | Dec 20 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d63907ebcef82ef5cf7cc1?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d446dd17554c2d9eef78ea?utm_campaign=1057&utm_source=git)** | North Charleston, SC | On Site | Dec 20 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d625254736ff202fdcfbe9?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d625c6ebcef82ef5cf6c4d?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d61a901f7fb2169ab1730b?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d618ac1f7fb2169ab16f27?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Dec 20 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KIPP DC](https://www.kippdc.org/)** | **[Extended Learning & Enrichment Intern (Summer 2026)](https://jobright.ai/jobs/info/6945f845d1953b5d11bf029a?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Dec 19 |
 | **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, Technology Solutions](https://jobright.ai/jobs/info/6945f71863141d1884558f2d?utm_campaign=1057&utm_source=git)** | Jersey City, NJ | On Site | Dec 19 |
 | **[Metro Montessori](https://www.metromontessori.com)** | **[Montessori Intern](https://jobright.ai/jobs/info/6945dd5a63141d1884557c97?utm_campaign=1057&utm_source=git)** | Rockville, MD | On Site | Dec 19 |
-| **[About Play, LLC](https://aboutplaysc.com/)** | **[Early Interventionist Intern (Spring 2026-Columbia, York, Greenville/Spartanburg))](https://jobright.ai/jobs/info/6946c9e9d1953b5d11bfea80?utm_campaign=1057&utm_source=git)** | Rock Hill, SC | On Site | Dec 19 |
-| **[Environment for the Americas](http://www.environmentamericas.org)** | **[Let’s Go Birding Internship - ONSITE - Medgar and Myrlie Evers Home National Monument (2 positions)](https://jobright.ai/jobs/info/6945f19f63141d18845589f0?utm_campaign=1057&utm_source=git)** | Jackson, MS | On Site | Dec 19 |
-| **[Valley Bank](https://www.valley.com/)** | **[Intern - Talent Development & Enterprise Learning](https://jobright.ai/jobs/info/6945eb0d63141d18845586ac?utm_campaign=1057&utm_source=git)** | Morristown, NJ | On Site | Dec 19 |
-| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/6945e80863141d1884558458?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 19 |
-| **[Tampa General Hospital](https://www.tgh.org)** | **[Registered Behavioral Health Outpatient Intern](https://jobright.ai/jobs/info/6945e77bd1953b5d11bef663?utm_campaign=1057&utm_source=git)** | Tampa, FL | Hybrid | Dec 19 |
-| **[Southern Association for College Admission Counseling](http://sacac.org)** | **[Senior Vice President of Enrollment Services and Student Success - LIM College](https://jobright.ai/jobs/info/6945e71ed1953b5d11bef638?utm_campaign=1057&utm_source=git)** | Van Alstyne, TX | Hybrid | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
