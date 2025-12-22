@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Centerstone](https://centerstone.org/)** | **[Master Level Intern](https://jobright.ai/jobs/info/69497555d1953b5d11c27044?utm_campaign=1057&utm_source=git)** | Labelle, FL | On Site | Dec 22 |
 | **[Education Through Music](https://etmonline.org)** | **[Music Teacher Intern](https://jobright.ai/jobs/info/694957ae63141d188458fdbe?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 22 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/6949569b7d506e3808f489d0?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 22 |
 | **[UPMC](https://www.upmc.com/)** | **[Student Nurse Internship (SNI) Program: Southwestern PA Hospitals](https://jobright.ai/jobs/info/689f19dc83d13d1f5b6c437d?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Dec 22 |
@@ -121,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT CORPORATE ACCOUNTING](https://jobright.ai/jobs/info/691aaa6515b4156367189bfc?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Dec 20 |
 | **[West Shore Home](http://westshorehome.com)** | **[Instructional Design Internship (Summer 2026)](https://jobright.ai/jobs/info/69143754286ccf0a15125be0?utm_campaign=1057&utm_source=git)** | Mechanicsburg, PA | On Site | Dec 20 |
 | **[Hudson River Trading](https://www.hudsonrivertrading.com)** | **[Sophomore Internship – Summer 2026](https://jobright.ai/jobs/info/690d1b164a1b456627b1dcec?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 20 |
-| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Residential Crisis-Towson Hospital) 2025 Psychology Undergraduate Fieldwork](https://jobright.ai/jobs/info/68d7756c295f8e37655d9d5c?utm_campaign=1057&utm_source=git)** | Towson, MD | On Site | Dec 20 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Training Content Creator Intern](https://jobright.ai/jobs/info/68f16323f462172a5a7d7933?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Dec 20 |
 | **[North Memorial Health](https://northmemorial.com/)** | **[Pharmacy Internship/Externship: First & Second Year Students](https://jobright.ai/jobs/info/690d67c84a1b456627b21094?utm_campaign=1057&utm_source=git)** | Twin Cities Area | On Site | Dec 20 |
 | **[Zscaler](https://www.zscaler.com)** | **[Technical Enablement- SkillBridge Intern](https://jobright.ai/jobs/info/689db45479a9f96662543f1b?utm_campaign=1057&utm_source=git)** | United States | Hybrid | Dec 20 |
@@ -133,12 +133,12 @@ For a complete list, click the following sortable link below:
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d450498c62e63bc7fe8308?utm_campaign=1057&utm_source=git)** | Plain City, OH | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44ae2ffc1276de3fd9743?utm_campaign=1057&utm_source=git)** | Maumee, OH | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44690ffc1276de3fd917e?utm_campaign=1057&utm_source=git)** | Roselle, IL | On Site | Dec 20 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d44b27ffc1276de3fd9786?utm_campaign=1057&utm_source=git)** | North Charleston, SC | On Site | Dec 20 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d625254736ff202fdcfbe9?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Dec 20 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d446dd17554c2d9eef78ea?utm_campaign=1057&utm_source=git)** | North Charleston, SC | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d625c6ebcef82ef5cf6c4d?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d61a901f7fb2169ab1730b?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d618ac1f7fb2169ab16f27?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d63267ebcef82ef5cf7868?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Dec 20 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d646fb894705799a2ea3dc?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d62629894705799a2e7f13?utm_campaign=1057&utm_source=git)** | Savannah, GA | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d6349f894705799a2e89d7?utm_campaign=1057&utm_source=git)** | Pflugerville, TX | On Site | Dec 20 |
 | **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[Assistant Professor, Educator, Behavior Analysis, CECH Human Services](https://jobright.ai/jobs/info/694678457d506e3808f1e1e1?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | Hybrid | Dec 20 |
