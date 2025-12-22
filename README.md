@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Institute of St. Louis](https://www.iistl.org)** | **[Adult Language Learning English Teaching - Paid Intern](https://jobright.ai/jobs/info/69489ead7d506e3808f3d7cf?utm_campaign=1057&utm_source=git)** | 1126 North Broadway Avenue 2nd fl, Springfield, MO, USA | Hybrid | Dec 21 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/69487e5963141d18845822c1?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 21 |
 | ↳ | **[2025/2026 - Science Specialist Teacher and Interns - Elementary](https://jobright.ai/jobs/info/69487d6a63141d18845822b3?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 21 |
 | ↳ | **[2025/2026 - Art Teacher & Intern - Elementary](https://jobright.ai/jobs/info/69487c29d1953b5d11c1880e?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 21 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/694877f37d506e3808f3b47a?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Dec 21 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Florida A&M / FSU](https://jobright.ai/jobs/info/68bc3c5b3bf9eb44f83238e2?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Dec 21 |
 | ↳ | **[Summer 2026 Internship - Liberty University](https://jobright.ai/jobs/info/68bc2f556105227d118ac190?utm_campaign=1057&utm_source=git)** | Wallingford, CT | On Site | Dec 21 |
+| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/6947fd377d506e3808f3538f?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 21 |
 | **[Reliance Matrix](https://reliancematrix.com)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/6933dad4a0dde7020e2f26de?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 21 |
 | **[UPMC](https://www.upmc.com/)** | **[Student Nurse Internship (SNI) Program: North Central PA Hospitals](https://jobright.ai/jobs/info/689f196479a9f96662554720?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Dec 21 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[RN Intern- Cardiac Cath Lab](https://jobright.ai/jobs/info/6946583bd1953b5d11bf7ebc?utm_campaign=1057&utm_source=git)** | Mason City, IA | On Site | Dec 21 |
@@ -82,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[The Menta Education Group](https://menta.com/)** | **[Teacher Internship -Paid](https://jobright.ai/jobs/info/687ec13f2097a271a89979e1?utm_campaign=1057&utm_source=git)** | Casa Grande, AZ | On Site | Dec 20 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Coordinator: International Baccalaureate DP/CP Site (School Based)](https://jobright.ai/jobs/info/6947548e7d506e3808f2a3df?utm_campaign=1057&utm_source=git)** | Annapolis, MD | On Site | Dec 20 |
 | **[Direction Home Akron Canton Area Agency on Aging & Disabilities](https://www.dhad.org)** | **[HCBS Student Intern](https://jobright.ai/jobs/info/6947545e7d506e3808f2a39d?utm_campaign=1057&utm_source=git)** | GREEN - UNIONTOWN, OH 44685 | On Site | Dec 20 |
-| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/69474e467d506e3808f2a0e2?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 20 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/69472d7263141d188456ddc9?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 20 |
 | ↳ | **[2025/2026 - Art Teacher & Intern - Elementary](https://jobright.ai/jobs/info/69472c017d506e3808f27984?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 20 |
 | ↳ | **[2025/2026 - Science Specialist Teacher and Interns - Elementary](https://jobright.ai/jobs/info/69472be37d506e3808f2797d?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 20 |
@@ -115,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d450498c62e63bc7fe8308?utm_campaign=1057&utm_source=git)** | Plain City, OH | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44ae2ffc1276de3fd9743?utm_campaign=1057&utm_source=git)** | Maumee, OH | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44690ffc1276de3fd917e?utm_campaign=1057&utm_source=git)** | Roselle, IL | On Site | Dec 20 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d44b27ffc1276de3fd9786?utm_campaign=1057&utm_source=git)** | North Charleston, SC | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d63907ebcef82ef5cf7cc1?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Dec 20 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d446dd17554c2d9eef78ea?utm_campaign=1057&utm_source=git)** | North Charleston, SC | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d625c6ebcef82ef5cf6c4d?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d61a901f7fb2169ab1730b?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d618ac1f7fb2169ab16f27?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Dec 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/6945e80863141d1884558458?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 19 |
 | **[Tampa General Hospital](https://www.tgh.org)** | **[Registered Behavioral Health Outpatient Intern](https://jobright.ai/jobs/info/6945e77bd1953b5d11bef663?utm_campaign=1057&utm_source=git)** | Tampa, FL | Hybrid | Dec 19 |
 | **[Southern Association for College Admission Counseling](http://sacac.org)** | **[Senior Vice President of Enrollment Services and Student Success - LIM College](https://jobright.ai/jobs/info/6945e71ed1953b5d11bef638?utm_campaign=1057&utm_source=git)** | Van Alstyne, TX | Hybrid | Dec 19 |
-| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/6945e5dc7d506e3808f12b75?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
