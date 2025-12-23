@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[P33 Chicago](https://p33chicago.com)** | **[P33 Summer 2026 Undergraduate Internship (Paid)](https://jobright.ai/jobs/info/694ad0fa67a69734cac5f9f1?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 23 |
+| **[Pathstone](http://pathstone.com)** | **[Summer Advisory Internship: Cross-Departmental Learning - Alexandria, VA](https://jobright.ai/jobs/info/692fd1ec4c474121999e2acf?utm_campaign=1057&utm_source=git)** | Alexandria, VA | On Site | Dec 23 |
+| **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern - Strategy/Market/Process/Client Education](https://jobright.ai/jobs/info/694ac3503019f50a4fe5d084?utm_campaign=1057&utm_source=git)** | Hartford, CT | Hybrid | Dec 23 |
 | **[Silver Grove](https://www.linkedin.com/company/108604766)** | **[Trading Internship](https://jobright.ai/jobs/info/694ab6ed1224705e9001d873?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 23 |
 | **[Berkadia](https://www.berkadia.com/)** | **[Summer 2026 Internship Program](https://jobright.ai/jobs/info/68c2041133864f172f9bc52e?utm_campaign=1057&utm_source=git)** | United States Of America | On Site | Dec 23 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/694aae231224705e9001d4e1?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 23 |
@@ -88,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[BMO](http://www.bmo.com)** | **[Student Experience Specialist - Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/694a34d763141d188459f2fe?utm_campaign=1057&utm_source=git)** | Toronto, ON, CAN | On Site | Dec 22 |
 | **[Dairy Management Inc.](https://www.usdairy.com/)** | **[Summer Internship in Scientific, Regulatory and Nutrition Affairs](https://jobright.ai/jobs/info/694a26ab7d506e3808f561bb?utm_campaign=1057&utm_source=git)** | Rosemont, IL | Hybrid | Dec 22 |
 | **[University of North Texas at Dallas](https://www.untdallas.edu/)** | **[Assistant Professor – Information Technology (Cybersecurity Specialization)](https://jobright.ai/jobs/info/694a115dc6f0e2546cef0ea8?utm_campaign=1057&utm_source=git)** | Dallas, TX | Hybrid | Dec 22 |
-| ↳ | **[Assistant Professor- Information Technology (Cyber Security Specialization)](https://jobright.ai/jobs/info/694a0e60c6f0e2546cef07fe?utm_campaign=1057&utm_source=git)** | Dallas, TX | Hybrid | Dec 22 |
 | **[University of Kentucky](https://education.uky.edu/)** | **[Athletic Trainer Intern](https://jobright.ai/jobs/info/694a0daa63141d188459aeec?utm_campaign=1057&utm_source=git)** | Greater Lexington Area | On Site | Dec 22 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Scientific Learning Program Specialist, gRED Learning and Development](https://jobright.ai/jobs/info/694a0483c6f0e2546ceeebcc?utm_campaign=1057&utm_source=git)** | South San Francisco, CA | On Site | Dec 22 |
 | **[Catholic Charities, Diocese of Paterson](https://catholicharities.org/)** | **[Admissions Counselor Intern](https://jobright.ai/jobs/info/694a1ef87d506e3808f55a00?utm_campaign=1057&utm_source=git)** | Straight, OK | On Site | Dec 22 |
@@ -119,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[Travelers](https://www.travelers.com)** | **[Underwriting Internship (Summer 2026): Business Insurance Underwriting Professional Development Program (UPDP)](https://jobright.ai/jobs/info/691e3b3309cc522e87737e85?utm_campaign=1057&utm_source=git)** | Overland Park, KS | Hybrid | Dec 22 |
 | **[State of Michigan](https://michigancountymap.com/)** | **[Student Assistant (Training)](https://jobright.ai/jobs/info/694a00e27d506e3808f51b11?utm_campaign=1057&utm_source=git)** | Chippewa County, MI | On Site | Dec 22 |
 | **[Stanford Health Care Tri-Valley](https://valleycare.com)** | **[Summer 2026 Internship - Technology & Digital Solutions - Healthcare Technology Program Management Internships (Undergraduate), Hybrid](https://jobright.ai/jobs/info/694a06cac6f0e2546ceef231?utm_campaign=1057&utm_source=git)** | 500P Hospital - J/K/L/M Patient - PALO ALTO | Hybrid | Dec 22 |
-| **[Vantage Data Centers](https://vantage-dc.com)** | **[Learning and Development Intern, NA](https://jobright.ai/jobs/info/694a08fa7d506e3808f5305b?utm_campaign=1057&utm_source=git)** | Denver, Colorado | Hybrid | Dec 22 |
-| ↳ | **[Learning and Development Intern, NA](https://jobright.ai/jobs/info/694a0dcec6f0e2546cef051b?utm_campaign=1057&utm_source=git)** | Ashburn, Virginia | Hybrid | Dec 22 |
+| **[Vantage Data Centers](https://vantage-dc.com)** | **[Learning and Development Intern, NA](https://jobright.ai/jobs/info/694a0dcec6f0e2546cef051b?utm_campaign=1057&utm_source=git)** | Ashburn, Virginia | Hybrid | Dec 22 |
+| ↳ | **[Learning and Development Intern, NA](https://jobright.ai/jobs/info/694a08fa7d506e3808f5305b?utm_campaign=1057&utm_source=git)** | Denver, Colorado | Hybrid | Dec 22 |
 | **[Maryland Environmental Service](https://menv.com/)** | **[Internship (Multiple positions)](https://jobright.ai/jobs/info/694a092863141d188459a380?utm_campaign=1057&utm_source=git)** | Millersville, MD | On Site | Dec 22 |
 | **[StandardAero](http://www.standardaero.com/)** | **[Summer Learning & Development Intern](https://jobright.ai/jobs/info/694a1777c6f0e2546cef1cf7?utm_campaign=1057&utm_source=git)** | 11550 Mosteller Road, Cincinnati, OH, 45241, US | On Site | Dec 22 |
 | **[UC Health](http://uchealth.com/)** | **[Digital Health Systems Co-op Student](https://jobright.ai/jobs/info/6949aac2d1953b5d11c2aeec?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Dec 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Camp Specialty Programming Intern - On-Site Summer 2026 Internship](https://jobright.ai/jobs/info/6949932963141d1884592f06?utm_campaign=1057&utm_source=git)** | Twin Lakes Park | On Site | Dec 22 |
 | **[Condé Nast](http://www.condenast.com)** | **[Content Planning & Practices Intern](https://jobright.ai/jobs/info/69498ebd63141d188459278f?utm_campaign=1057&utm_source=git)** | 1 World Trade Center, New York, NY | Hybrid | Dec 22 |
 | **[Centerstone](https://centerstone.org/)** | **[Master Level Intern](https://jobright.ai/jobs/info/69497555d1953b5d11c27044?utm_campaign=1057&utm_source=git)** | Labelle, FL | On Site | Dec 22 |
-| **[Education Through Music](https://etmonline.org)** | **[Music Teacher Intern](https://jobright.ai/jobs/info/694957ae63141d188458fdbe?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 22 |
-| **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[NRDC Summer 2026 Undergraduate Internship](https://jobright.ai/jobs/info/69499b2e7d506e3808f4c24a?utm_campaign=1057&utm_source=git)** | NYC Metro Area | Hybrid | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
