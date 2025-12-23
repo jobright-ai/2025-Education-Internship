@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KIPP DC](https://www.kippdc.org/)** | **[Program Intern, Knowledge & Learning Team (Summer 2026)](https://jobright.ai/jobs/info/69461fe87d506e3808f172d0?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Dec 22 |
+| **[UC Health](http://uchealth.com/)** | **[Digital Health Systems Co-op Student](https://jobright.ai/jobs/info/6949ba897d506e3808f4e6f1?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Dec 22 |
 | **[Travelers](https://www.travelers.com)** | **[Underwriting Internship (Summer 2026): Business Insurance Underwriting Professional Development Program (UPDP)](https://jobright.ai/jobs/info/691e3b3309cc522e87737e85?utm_campaign=1057&utm_source=git)** | Overland Park, KS | Hybrid | Dec 22 |
-| **[UC Health](http://uchealth.com/)** | **[Digital Health Systems Co-op Student](https://jobright.ai/jobs/info/6949aac2d1953b5d11c2aeec?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Dec 22 |
 | **[Sevita](https://sevitahealth.com)** | **[Mental Health Therapist Internship ](https://jobright.ai/jobs/info/6949a206d1953b5d11c2a748?utm_campaign=1057&utm_source=git)** | Lawrence, MA, USA | On Site | Dec 22 |
 | **[State of Missouri](http://mo.gov)** | **[Paid Intern](https://jobright.ai/jobs/info/69499cb67d506e3808f4c530?utm_campaign=1057&utm_source=git)** | Liberty, MO | On Site | Dec 22 |
 | **[Family Service Center of Wilmette, Glenview, Northbrook, and Kenilworth](https://familyservicecenter.org)** | **[Clinical Mental Health Intern/Extern with Child and Adolescent Focus.](https://jobright.ai/jobs/info/69499bc663141d188459394c?utm_campaign=1057&utm_source=git)** | Northfield, IL | On Site | Dec 22 |
@@ -123,7 +124,6 @@ For a complete list, click the following sortable link below:
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/69472d7263141d188456ddc9?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 20 |
 | **[Prairie View A&M University](http://pvam.edu)** | **[Extension Program Specialist II (Workforce Development)](https://jobright.ai/jobs/info/69471a8b63141d188456d3bd?utm_campaign=1057&utm_source=git)** | Prairie View, TX | On Site | Dec 20 |
 | **[Sparkcraft](https://sparkcraft.com)** | **[(English & Mandarin) Teaching Assistant for Generative AI Engineer Course](https://jobright.ai/jobs/info/694702bcd1953b5d11c01ee7?utm_campaign=1057&utm_source=git)** | United States | Remote | Dec 20 |
-| **[Autonomous Solutions, Inc. (ASI)](http://www.asirobots.com/)** | **[Learning Experience Design Intern (Flexible Schedule)](https://jobright.ai/jobs/info/69487b9c63141d18845822a4?utm_campaign=1057&utm_source=git)** | Logan,UT,US | On Site | Dec 20 |
 | **[Museum of Science](http://www.mos.org)** | **[Living Laboratory Mentor Internship](https://jobright.ai/jobs/info/6938661ca0dde7020e30f338?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Dec 20 |
 | **[Wholistic Vibes Wellness LLC](www.wholisticvibeswellness.com)** | **[WVW Intern & Volunteer](https://jobright.ai/jobs/info/6946cd01d1953b5d11bfed76?utm_campaign=1057&utm_source=git)** | DC-Baltimore Area | Remote | Dec 20 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Community Engagement Intern](https://jobright.ai/jobs/info/6946c9947d506e3808f21fc7?utm_campaign=1057&utm_source=git)** | Cambridge, MA | Hybrid | Dec 20 |
