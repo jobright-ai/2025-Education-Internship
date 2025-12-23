@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/6949f29163141d18845975b9?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 22 |
+| **[MaineHealth](https://mainehealth.org/)** | **[Intern- Child & Family Health](https://jobright.ai/jobs/info/6949efc7d1953b5d11c2da81?utm_campaign=1057&utm_source=git)** | Portland, ME | On Site | Dec 22 |
+| ↳ | **[Intern- Vocational Services](https://jobright.ai/jobs/info/6949ea7b63141d1884597164?utm_campaign=1057&utm_source=git)** | Portland, ME | On Site | Dec 22 |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/6949e19663141d188459709c?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Dec 22 |
+| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/6949e09963141d1884597041?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 22 |
+| ↳ | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/6949e03763141d188459701b?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 22 |
+| ↳ | **[2025/2026 - Science Specialist Teacher and Interns - Elementary](https://jobright.ai/jobs/info/6949dda963141d1884596f26?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 22 |
+| ↳ | **[2025/2026 - Art Teacher & Intern - Elementary](https://jobright.ai/jobs/info/6949dc3863141d1884596e8f?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 22 |
+| ↳ | **[2025/2026 - Art Teacher & Intern - Secondary](https://jobright.ai/jobs/info/6949ea377d506e3808f4fd3e?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 22 |
 | **[KIPP DC](https://www.kippdc.org/)** | **[Program Intern, Knowledge & Learning Team (Summer 2026)](https://jobright.ai/jobs/info/69461fe87d506e3808f172d0?utm_campaign=1057&utm_source=git)** | Washington, DC | Hybrid | Dec 22 |
 | **[UC Health](http://uchealth.com/)** | **[Digital Health Systems Co-op Student](https://jobright.ai/jobs/info/6949ba897d506e3808f4e6f1?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Dec 22 |
 | **[Travelers](https://www.travelers.com)** | **[Underwriting Internship (Summer 2026): Business Insurance Underwriting Professional Development Program (UPDP)](https://jobright.ai/jobs/info/691e3b3309cc522e87737e85?utm_campaign=1057&utm_source=git)** | Overland Park, KS | Hybrid | Dec 22 |
@@ -93,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[BitNest Solutions](https://www.linkedin.com/company/91022948)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/6948e82d7d506e3808f423dc?utm_campaign=1057&utm_source=git)** | Racine, WI | Remote | Dec 21 |
 | **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/6948ded663141d1884588d53?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Dec 21 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/6948d80863141d1884588af9?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Dec 21 |
-| ↳ | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/6948d3c67d506e3808f4142f?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Dec 21 |
 | **[National Football League (NFL)](http://www.nfl.com)** | **[2026 Undergraduate Summer Intern (NY)](https://jobright.ai/jobs/info/6938d4b0b95c305f206e0990?utm_campaign=1057&utm_source=git)** | New York, New York, United States | On Site | Dec 21 |
 | **[New Mexico State University](https://www.nmsu.edu)** | **[Graduate Assistant/Intern](https://jobright.ai/jobs/info/6948bf1063141d1884585ead?utm_campaign=1057&utm_source=git)** | Las Cruces, NM | On Site | Dec 21 |
 | **[Pflugerville ISD](https://www.pfisd.net/)** | **[Teacher-ACE (Internal Only)](https://jobright.ai/jobs/info/6948b33563141d188458570d?utm_campaign=1057&utm_source=git)** | Pflugerville, TX | On Site | Dec 21 |
@@ -121,6 +129,7 @@ For a complete list, click the following sortable link below:
 | **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[Associate Dean of Research, College of Design, Architecture, Art, & Planning](https://jobright.ai/jobs/info/69477dc163141d18845721b2?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Dec 20 |
 | **[The Menta Education Group](https://menta.com/)** | **[Teacher Internship -Paid](https://jobright.ai/jobs/info/687ec13f2097a271a89979e1?utm_campaign=1057&utm_source=git)** | Casa Grande, AZ | On Site | Dec 20 |
 | **[Direction Home Akron Canton Area Agency on Aging & Disabilities](https://www.dhad.org)** | **[HCBS Student Intern](https://jobright.ai/jobs/info/6947545e7d506e3808f2a39d?utm_campaign=1057&utm_source=git)** | GREEN - UNIONTOWN, OH 44685 | On Site | Dec 20 |
+| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[BBraun PA Operations Financial AnalystIntern](https://jobright.ai/jobs/info/6949e4257d506e3808f4fcb5?utm_campaign=1057&utm_source=git)** | Allentown, PA | Hybrid | Dec 20 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/69472d7263141d188456ddc9?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 20 |
 | **[Prairie View A&M University](http://pvam.edu)** | **[Extension Program Specialist II (Workforce Development)](https://jobright.ai/jobs/info/69471a8b63141d188456d3bd?utm_campaign=1057&utm_source=git)** | Prairie View, TX | On Site | Dec 20 |
 | **[Sparkcraft](https://sparkcraft.com)** | **[(English & Mandarin) Teaching Assistant for Generative AI Engineer Course](https://jobright.ai/jobs/info/694702bcd1953b5d11c01ee7?utm_campaign=1057&utm_source=git)** | United States | Remote | Dec 20 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44ae2ffc1276de3fd9743?utm_campaign=1057&utm_source=git)** | Maumee, OH | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44690ffc1276de3fd917e?utm_campaign=1057&utm_source=git)** | Roselle, IL | On Site | Dec 20 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44b27ffc1276de3fd9786?utm_campaign=1057&utm_source=git)** | North Charleston, SC | On Site | Dec 20 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d625254736ff202fdcfbe9?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Dec 20 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d625c6ebcef82ef5cf6c4d?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Dec 20 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d61a901f7fb2169ab1730b?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Dec 20 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d618ac1f7fb2169ab16f27?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Dec 20 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d63267ebcef82ef5cf7868?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Dec 20 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d62629894705799a2e7f13?utm_campaign=1057&utm_source=git)** | Savannah, GA | On Site | Dec 20 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d6349f894705799a2e89d7?utm_campaign=1057&utm_source=git)** | Pflugerville, TX | On Site | Dec 20 |
-| **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[Assistant Professor, Educator, Behavior Analysis, CECH Human Services](https://jobright.ai/jobs/info/694678457d506e3808f1e1e1?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | Hybrid | Dec 20 |
-| ↳ | **[Assistant Professor, Educator, Exercise Science, CECH Human Services](https://jobright.ai/jobs/info/69467759d1953b5d11bfabda?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
