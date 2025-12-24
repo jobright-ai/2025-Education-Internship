@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Education Service Center Region 13](https://esc13.net)** | **[Teacher-ACE (Internal Only)](https://jobright.ai/jobs/info/694b6d22d64ebf28d821233e?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Dec 23 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, Digital Transformation Analyst Intern](https://jobright.ai/jobs/info/694b5d785d731211346fe469?utm_campaign=1057&utm_source=git)** | Arlington, VA | Hybrid | Dec 23 |
 | **[Recovery Centers of America](http://www.recoverycentersofamerica.com/)** | **[Clinical Intern](https://jobright.ai/jobs/info/694b5d4b1a572a617dddafda?utm_campaign=1057&utm_source=git)** | Danvers, MA | On Site | Dec 23 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/694b58f61a572a617dddad54?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 23 |
@@ -68,11 +69,12 @@ For a complete list, click the following sortable link below:
 | **[USTA National Campus](http://www.ustanationalcampus.com)** | **[Undergraduate Intern Summer 2026 - Digital Program Support](https://jobright.ai/jobs/info/694b40281224705e90026bb4?utm_campaign=1057&utm_source=git)** | Orlando, FL | Hybrid | Dec 23 |
 | **[YSS](https://www.yss.org/)** | **[Residential Recovery Intern (53635)](https://jobright.ai/jobs/info/694b5d26d64ebf28d8211148?utm_campaign=1057&utm_source=git)** | Cambridge, IA 50046 | On Site | Dec 23 |
 | **[Family Health Centers of San Diego](https://www.fhcsd.org/)** | **[Volunteer, Student Intern- LRMAI- Student](https://jobright.ai/jobs/info/694b3ac53019f50a4fe655ee?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Dec 23 |
-| **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Clinical Research Student Intern](https://jobright.ai/jobs/info/694b39bf1224705e900250cf?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Dec 23 |
+| **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Clinical Research Student Intern](https://jobright.ai/jobs/info/694b37593019f50a4fe64142?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Dec 23 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Art Teacher & Intern - Secondary](https://jobright.ai/jobs/info/694b36503019f50a4fe640ee?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 23 |
 | ↳ | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/694b35fe4b53a1551f94ee83?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 23 |
 | **[Virginia's Community College System](https://www.vccs.edu/)** | **[Employer Relations and Work-Based Learning Specialist (R0003)](https://jobright.ai/jobs/info/694b34761224705e90024e6f?utm_campaign=1057&utm_source=git)** | Richmond, VA | Hybrid | Dec 23 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Art Teacher & Intern - Elementary](https://jobright.ai/jobs/info/694b338c1224705e90024e05?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 23 |
+| **[Amazon](https://amazon.com)** | **[MBA Intern, Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694b66bdd64ebf28d8211fd2?utm_campaign=1057&utm_source=git)** | Culver City, California, USA | On Site | Dec 23 |
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af3a9f1f0a2a568a05fdf8?utm_campaign=1057&utm_source=git)** | Orange, California, United States | On Site | Dec 23 |
 | **[National Heritage Academies](https://www.nhaschools.com)** | **[Special Education Intern](https://jobright.ai/jobs/info/694b2c113019f50a4fe63cf3?utm_campaign=1057&utm_source=git)** | Grand Rapids, MI | On Site | Dec 23 |
 | ↳ | **[Curriculum & Instruction Assesment Intern](https://jobright.ai/jobs/info/694b27e73019f50a4fe63aa1?utm_campaign=1057&utm_source=git)** | Grand Rapids, MI | On Site | Dec 23 |
@@ -91,7 +93,7 @@ For a complete list, click the following sortable link below:
 | **[Government of Alberta](http://alberta.ca/)** | **[Senior Program Coordinator](https://jobright.ai/jobs/info/694b1bd03019f50a4fe634b5?utm_campaign=1057&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Dec 23 |
 | **[Family Health Centers of San Diego](https://www.fhcsd.org/)** | **[Volunteer, Student Intern- LRMAI- Student](https://jobright.ai/jobs/info/694b13673019f50a4fe621b9?utm_campaign=1057&utm_source=git)** | HITEC Center - San Diego, CA | On Site | Dec 23 |
 | **[California Department of Justice](http://www.oag.ca.gov)** | **[Student Assistant](https://jobright.ai/jobs/info/694af5e43019f50a4fe60005?utm_campaign=1057&utm_source=git)** | Sacramento, CA | Hybrid | Dec 23 |
-| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Clinical Research Student Intern](https://jobright.ai/jobs/info/694b18d03019f50a4fe62e5e?utm_campaign=1057&utm_source=git)** | Boston-MA | On Site | Dec 23 |
+| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Clinical Research Student Intern](https://jobright.ai/jobs/info/694b1e834b53a1551f94e0ac?utm_campaign=1057&utm_source=git)** | Boston-MA | On Site | Dec 23 |
 | **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[Clinical Operations Intern](https://jobright.ai/jobs/info/694b19854b53a1551f94d68c?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Dec 23 |
 | **[Dinsmore & Shohl LLP](http://www.dinsmore.com)** | **[Dinsmore HBCU Scholars Program](https://jobright.ai/jobs/info/694af1683019f50a4fe5fcb4?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Dec 23 |
 | **[(USTA) United States Tennis Association](https://www.usta.com/en/home.html)** | **[Undergraduate Intern Summer 2026 - Event Services](https://jobright.ai/jobs/info/694b0e504b53a1551f94be92?utm_campaign=1057&utm_source=git)** | Queens, NY | Hybrid | Dec 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vantage Data Centers](https://vantage-dc.com)** | **[Learning and Development Intern, NA](https://jobright.ai/jobs/info/694a10f263141d188459b82d?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Dec 22 |
 | **[MaineHealth](https://mainehealth.org/)** | **[Intern- Vocational Services](https://jobright.ai/jobs/info/6949ea7b63141d1884597164?utm_campaign=1057&utm_source=git)** | Portland, ME | On Site | Dec 22 |
 | **[Center for Disability & Elder Law](https://www.cdelaw.org)** | **[2026 Winter Spring Undergraduate Intern](https://jobright.ai/jobs/info/694a261463141d188459d6e1?utm_campaign=1057&utm_source=git)** | United States | Remote | Dec 22 |
-| **[White Bear Lake Area Schools, ISD #624](http://www.isd624.org)** | **[Dual Immersion First Grade Teachers at Otter Lake Elementary and Matoska International Elementary](https://jobright.ai/jobs/info/694ae5b23019f50a4fe5f6dd?utm_campaign=1057&utm_source=git)** | St Paul, MN | On Site | Dec 22 |
-| **[MaineHealth](https://mainehealth.org/)** | **[Intern- MaineHealth Food Pantry Portland](https://jobright.ai/jobs/info/694a08f1c6f0e2546ceef81a?utm_campaign=1057&utm_source=git)** | Portland, ME | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
