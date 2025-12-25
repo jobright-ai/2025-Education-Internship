@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[High School Service Intern](https://jobright.ai/jobs/info/69139402e344172248f723d2?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | Dec 25 |
+| **[University of Mississippi](http://www.olemiss.edu/)** | **[Instructional Assistant Professor - Electrical and Computer Engineering](https://jobright.ai/jobs/info/68c9a104f9c6ff7aedf1ba7c?utm_campaign=1057&utm_source=git)** | University, MS | On Site | Dec 25 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Intern - Summer 2026](https://jobright.ai/jobs/info/68f6ba0276a51a4307bddc6c?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Dec 25 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[Bernstein - Summer Senior Research Associate (Campus)](https://jobright.ai/jobs/info/68c085838e65e77df55c238e?utm_campaign=1057&utm_source=git)** | New York, United States | Hybrid | Dec 25 |
 | **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[PRODUCT TRAINER INTERN (SKILLBRIDGE)](https://jobright.ai/jobs/info/6930f95efa28370be26b5b97?utm_campaign=1057&utm_source=git)** | Newport News, VA | On Site | Dec 25 |
+| **[Ohlone College](http://www.ohlone.edu/)** | **[Program Manager, Career Services and Industry Relations](https://jobright.ai/jobs/info/694d489429655e4dd6575617?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 25 |
+| **[Pegasystems](http://www.pega.com)** | **[Curriculum Developer Intern](https://jobright.ai/jobs/info/68f781a1b0edcf159dc81c21?utm_campaign=1057&utm_source=git)** | Waltham, MA | Remote | Dec 25 |
+| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[IMA Select Intern - Summer 2026](https://jobright.ai/jobs/info/6930f07dfa28370be26b56cb?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Dec 25 |
 | **[Elevare Consulting](elevareconsulting.us)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/694cfbd729655e4dd6570e58?utm_campaign=1057&utm_source=git)** | Racine, WI | On Site | Dec 25 |
 | **[Jacob's Pillow Dance Festival](https://www.jacobspillow.org)** | **[School Programs Intern](https://jobright.ai/jobs/info/694d1aba29655e4dd6572e7e?utm_campaign=1057&utm_source=git)** | Becket, MA 01223 | On Site | Dec 24 |
 | **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/694cd36ad4a7df7a06721a7b?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Dec 24 |
@@ -98,6 +103,7 @@ For a complete list, click the following sortable link below:
 | **[Elekta](http://elekta.com/)** | **[Educational Administration Intern- Atlanta, GA](https://jobright.ai/jobs/info/692f95a44c474121999e0b37?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Dec 24 |
 | **[Peterbilt Motors Company](http://www.peterbilt.com/)** | **[2026 Summer Internship: Advanced Technology Dealer Training](https://jobright.ai/jobs/info/692fa0234c474121999e1263?utm_campaign=1057&utm_source=git)** | Denton, TX | On Site | Dec 24 |
 | **[Boston University](https://www.bumc.bu.edu/busm)** | **[ASSISTANT DIRECTOR, STUDENT SERVICES, International Students and Scholars Office](https://jobright.ai/jobs/info/69316e304c474121999eeba3?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Dec 24 |
+| **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Clinical Research Student Intern](https://jobright.ai/jobs/info/694bdb491a572a617dde2501?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Dec 24 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/691ae67dbcdbf3560c9db5bb?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Dec 24 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Training Methods for LLM Efficiency](https://jobright.ai/jobs/info/692f582a4c474121999ddfe0?utm_campaign=1057&utm_source=git)** | Mountain View, CA | On Site | Dec 24 |
 | ↳ | **[Research Intern - Applied Sciences Group (Audio/Vision/NLP/Multimodal)](https://jobright.ai/jobs/info/692f85fa4c474121999e0115?utm_campaign=1057&utm_source=git)** | Redmond, WA | On Site | Dec 24 |
@@ -105,7 +111,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Research Intern - MSR Inclusive Futures Team](https://jobright.ai/jobs/info/692f62a0ef4b48533d144c7a?utm_campaign=1057&utm_source=git)** | Redmond, WA | On Site | Dec 24 |
 | **[HOLT Group](https://holtgrp.com)** | **[HOLT Group: Finance College Intern Opportunity](https://jobright.ai/jobs/info/692fcc4def4b48533d148f99?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Dec 24 |
 | **[Texas A&M University](https://tamu.edu)** | **[Tenure-Track: Assistant Professor, Financial Planning](https://jobright.ai/jobs/info/68dac95507c157682e56d7b6?utm_campaign=1057&utm_source=git)** | College Station, TX | On Site | Dec 24 |
-| **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Clinical Research Student Intern](https://jobright.ai/jobs/info/694bd421d64ebf28d821851e?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Dec 24 |
 | **[HighLevel](https://www.gohighlevel.com)** | **[Internship Program Coordinator](https://jobright.ai/jobs/info/692f5e6a4c474121999de389?utm_campaign=1057&utm_source=git)** | Dallas, TX | Hybrid | Dec 24 |
 | **[EPRI](http://www.epri.com)** | **[Energy Supply Student Internship: eLearning Developer](https://jobright.ai/jobs/info/692ff8dd4c474121999e36e1?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Dec 24 |
 | **[Hexagon Manufacturing Intelligence](http://www.hexagonmi.com)** | **[Academic & Training Program Intern](https://jobright.ai/jobs/info/69123255ea9ab01b82bf0465?utm_campaign=1057&utm_source=git)** | Novi, MI | Hybrid | Dec 24 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[(USTA) United States Tennis Association](https://www.usta.com/en/home.html)** | **[Undergraduate Intern Summer 2026 - Digital Program Support](https://jobright.ai/jobs/info/694b04263019f50a4fe60b43?utm_campaign=1057&utm_source=git)** | Orlando, FL | Hybrid | Dec 23 |
 | ↳ | **[Undergraduate Intern Summer 2026 - NTC Tennis Programs](https://jobright.ai/jobs/info/694afd331224705e900213b6?utm_campaign=1057&utm_source=git)** | Queens, NY | Hybrid | Dec 23 |
 | **[Brightline](https://www.hellobrightline.com)** | **[Brightlife Kids Health Educator Internship](https://jobright.ai/jobs/info/694b1c1b3019f50a4fe634ed?utm_campaign=1057&utm_source=git)** | California, United States | On Site | Dec 23 |
-| **[Government of Alberta](http://alberta.ca/)** | **[Senior Program Coordinator](https://jobright.ai/jobs/info/694b1bd03019f50a4fe634b5?utm_campaign=1057&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Dec 23 |
-| **[Family Health Centers of San Diego](https://www.fhcsd.org/)** | **[Volunteer, Student Intern- LRMAI- Student](https://jobright.ai/jobs/info/694b13673019f50a4fe621b9?utm_campaign=1057&utm_source=git)** | HITEC Center - San Diego, CA | On Site | Dec 23 |
-| **[California Department of Justice](http://www.oag.ca.gov)** | **[Student Assistant](https://jobright.ai/jobs/info/694af5e43019f50a4fe60005?utm_campaign=1057&utm_source=git)** | Sacramento, CA | Hybrid | Dec 23 |
-| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Clinical Research Student Intern](https://jobright.ai/jobs/info/694b1e834b53a1551f94e0ac?utm_campaign=1057&utm_source=git)** | Boston-MA | On Site | Dec 23 |
-| **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[Clinical Operations Intern](https://jobright.ai/jobs/info/694b19854b53a1551f94d68c?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
