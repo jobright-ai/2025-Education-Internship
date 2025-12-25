@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Intern - Summer 2026](https://jobright.ai/jobs/info/68f6ba0276a51a4307bddc6c?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Dec 25 |
+| **[Societe Generale](https://www.societegenerale.com)** | **[Bernstein - Summer Senior Research Associate (Campus)](https://jobright.ai/jobs/info/68c085838e65e77df55c238e?utm_campaign=1057&utm_source=git)** | New York, United States | Hybrid | Dec 25 |
 | **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[PRODUCT TRAINER INTERN (SKILLBRIDGE)](https://jobright.ai/jobs/info/6930f95efa28370be26b5b97?utm_campaign=1057&utm_source=git)** | Newport News, VA | On Site | Dec 25 |
 | **[Elevare Consulting](elevareconsulting.us)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/694cfbd729655e4dd6570e58?utm_campaign=1057&utm_source=git)** | Racine, WI | On Site | Dec 25 |
 | **[Jacob's Pillow Dance Festival](https://www.jacobspillow.org)** | **[School Programs Intern](https://jobright.ai/jobs/info/694d1aba29655e4dd6572e7e?utm_campaign=1057&utm_source=git)** | Becket, MA 01223 | On Site | Dec 24 |
@@ -66,8 +68,8 @@ For a complete list, click the following sortable link below:
 | **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Dartmouth Hitchcock Undergraduate Summer Internship Programs](https://jobright.ai/jobs/info/694cc06329655e4dd656dde3?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Dec 24 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/694c9f3029655e4dd656b68e?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 24 |
 | **[LEWIS & CLARK BEHAVIORAL HEALTH SERVICES, INC.](https://lewisclarkb.yankton.multisiteadmin.com)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/694c96b0d64ebf28d82214c9?utm_campaign=1057&utm_source=git)** | Yankton, SD | On Site | Dec 24 |
-| **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Training & Development Internships](https://jobright.ai/jobs/info/68d3034c17554c2d9eeece8c?utm_campaign=1057&utm_source=git)** | Sandusky, OH | On Site | Dec 24 |
-| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/694c7bead64ebf28d82207e3?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 24 |
+| **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Resident Life Internship](https://jobright.ai/jobs/info/68d3059717554c2d9eeed2c2?utm_campaign=1057&utm_source=git)** | Sandusky, OH | On Site | Dec 24 |
+| ↳ | **[Training & Development Internships](https://jobright.ai/jobs/info/68d3034c17554c2d9eeece8c?utm_campaign=1057&utm_source=git)** | Sandusky, OH | On Site | Dec 24 |
 | **[TVCC](https://tvcc.on.ca)** | **[Instructor Therapist or Instructor Therapist Intern - London](https://jobright.ai/jobs/info/694c79431a572a617ddea5ab?utm_campaign=1057&utm_source=git)** | London, Ontario, Canada | Hybrid | Dec 24 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[FinTech & AI Certificate Program Coordinator](https://jobright.ai/jobs/info/694c70a15d7312113470da65?utm_campaign=1057&utm_source=git)** | Athens, GA | On Site | Dec 24 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Diversified Intern - Summer 2026](https://jobright.ai/jobs/info/694c692c5d7312113470d8de?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Dec 24 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Government of Alberta](http://alberta.ca/)** | **[Senior Program Coordinator](https://jobright.ai/jobs/info/694b1bd03019f50a4fe634b5?utm_campaign=1057&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Dec 23 |
 | **[Family Health Centers of San Diego](https://www.fhcsd.org/)** | **[Volunteer, Student Intern- LRMAI- Student](https://jobright.ai/jobs/info/694b13673019f50a4fe621b9?utm_campaign=1057&utm_source=git)** | HITEC Center - San Diego, CA | On Site | Dec 23 |
 | **[California Department of Justice](http://www.oag.ca.gov)** | **[Student Assistant](https://jobright.ai/jobs/info/694af5e43019f50a4fe60005?utm_campaign=1057&utm_source=git)** | Sacramento, CA | Hybrid | Dec 23 |
-| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Clinical Research Student Intern](https://jobright.ai/jobs/info/694b18d03019f50a4fe62e5e?utm_campaign=1057&utm_source=git)** | Boston-MA | On Site | Dec 23 |
+| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Clinical Research Student Intern](https://jobright.ai/jobs/info/694b1e834b53a1551f94e0ac?utm_campaign=1057&utm_source=git)** | Boston-MA | On Site | Dec 23 |
 | **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[Clinical Operations Intern](https://jobright.ai/jobs/info/694b19854b53a1551f94d68c?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Dec 23 |
-| **[Dinsmore & Shohl LLP](http://www.dinsmore.com)** | **[Dinsmore HBCU Scholars Program](https://jobright.ai/jobs/info/694af1683019f50a4fe5fcb4?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Dec 23 |
-| **[(USTA) United States Tennis Association](https://www.usta.com/en/home.html)** | **[Undergraduate Intern Summer 2026 - Event Services](https://jobright.ai/jobs/info/694b0e504b53a1551f94be92?utm_campaign=1057&utm_source=git)** | Queens, NY | Hybrid | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
