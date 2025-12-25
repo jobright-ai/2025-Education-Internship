@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Elevare Consulting](elevareconsulting.us)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/694cfbd729655e4dd6570e58?utm_campaign=1057&utm_source=git)** | Racine, WI | On Site | Dec 25 |
 | **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/694cd36ad4a7df7a06721a7b?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Dec 24 |
 | **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Dartmouth Hitchcock High School Foundations Summer Internship Program](https://jobright.ai/jobs/info/694cc5a0f5bef51c96ea8863?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Dec 24 |
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af1aa31f0a2a568a05f103?utm_campaign=1057&utm_source=git)** | Ormond Beach, Florida, United States | On Site | Dec 24 |
@@ -102,7 +103,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Research Intern - MSR Inclusive Futures Team](https://jobright.ai/jobs/info/692f62a0ef4b48533d144c7a?utm_campaign=1057&utm_source=git)** | Redmond, WA | On Site | Dec 24 |
 | **[HOLT Group](https://holtgrp.com)** | **[HOLT Group: Finance College Intern Opportunity](https://jobright.ai/jobs/info/692fcc4def4b48533d148f99?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Dec 24 |
 | **[Texas A&M University](https://tamu.edu)** | **[Tenure-Track: Assistant Professor, Financial Planning](https://jobright.ai/jobs/info/68dac95507c157682e56d7b6?utm_campaign=1057&utm_source=git)** | College Station, TX | On Site | Dec 24 |
-| **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Clinical Research Student Intern](https://jobright.ai/jobs/info/694bd421d64ebf28d821851e?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Dec 24 |
 | **[HighLevel](https://www.gohighlevel.com)** | **[Internship Program Coordinator](https://jobright.ai/jobs/info/692f5e6a4c474121999de389?utm_campaign=1057&utm_source=git)** | Dallas, TX | Hybrid | Dec 24 |
 | **[EPRI](http://www.epri.com)** | **[Energy Supply Student Internship: eLearning Developer](https://jobright.ai/jobs/info/692ff8dd4c474121999e36e1?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Dec 24 |
 | **[Hexagon Manufacturing Intelligence](http://www.hexagonmi.com)** | **[Academic & Training Program Intern](https://jobright.ai/jobs/info/69123255ea9ab01b82bf0465?utm_campaign=1057&utm_source=git)** | Novi, MI | Hybrid | Dec 24 |
@@ -111,6 +111,7 @@ For a complete list, click the following sortable link below:
 | **[IDS Health, Inc](https://www.linkedin.com/company/107901732)** | **[Mental Health Clinician licensed or Registered Intern](https://jobright.ai/jobs/info/694bba961a572a617dde0b6f?utm_campaign=1057&utm_source=git)** | Fort Myers, FL | Hybrid | Dec 24 |
 | **[Amazon](https://amazon.com)** | **[MBA Intern, Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694bb8b05d73121134703b74?utm_campaign=1057&utm_source=git)** | Culver City, CA | On Site | Dec 24 |
 | **[Harris-Stowe State University](http://www.hssu.edu/)** | **[Verizon Innovative Learning - Student Intern](https://jobright.ai/jobs/info/694bb0fb5d7312113470362e?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Dec 24 |
+| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Art Teacher & Intern - Secondary](https://jobright.ai/jobs/info/694cfa72d4a7df7a06722b76?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 23 |
 | **[Project Harmony Child Protection Center](https://projectharmony.com)** | **[Intern/Practicum Student - MSW/Clinical Mental Health (Summer/Fall 2026)](https://jobright.ai/jobs/info/694bb80a1a572a617dde06eb?utm_campaign=1057&utm_source=git)** | Omaha, NE | On Site | Dec 23 |
 | **[City of Des Moines](https://DSM.city/)** | **[Special Events/Environmental Education Intern](https://jobright.ai/jobs/info/694ce297d4a7df7a06721fb9?utm_campaign=1057&utm_source=git)** | Des Moines, IA | On Site | Dec 23 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/694cc4a4f5bef51c96ea8762?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[(USTA) United States Tennis Association](https://www.usta.com/en/home.html)** | **[Undergraduate Intern Summer 2026 - Event Services](https://jobright.ai/jobs/info/694b0e504b53a1551f94be92?utm_campaign=1057&utm_source=git)** | Queens, NY | Hybrid | Dec 23 |
 | **[Family Health Centers of San Diego](https://www.fhcsd.org/)** | **[Student Intern, CHW Internship UCSD Program](https://jobright.ai/jobs/info/694aeef31224705e90020926?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Dec 23 |
 | **[Dinsmore & Shohl LLP](http://www.dinsmore.com)** | **[Dinsmore HBCU Scholars Program](https://jobright.ai/jobs/info/694aedf51224705e9002084b?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Dec 23 |
-| **[Pottawattamie County, Iowa](https://pottcounty-ia.gov)** | **[Environmental Education Intern](https://jobright.ai/jobs/info/694b28514b53a1551f94e8cd?utm_campaign=1057&utm_source=git)** | Council Bluffs, IA | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
