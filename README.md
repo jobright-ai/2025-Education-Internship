@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Dartmouth Hitchcock High School Foundations Summer Internship Program](https://jobright.ai/jobs/info/694dfa6c29655e4dd657c560?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Dec 25 |
+| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/694df652f5bef51c96eb6837?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 25 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Science Specialist Teacher and Interns - Elementary](https://jobright.ai/jobs/info/694dccdad4a7df7a0672be47?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 25 |
 | ↳ | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/694dc5a1f5bef51c96eb42ac?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 25 |
 | ↳ | **[2025/2026 - Art Teacher & Intern - Elementary](https://jobright.ai/jobs/info/694dc557f5bef51c96eb42a0?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 25 |
@@ -137,10 +139,8 @@ For a complete list, click the following sortable link below:
 | **[Harris-Stowe State University](http://www.hssu.edu/)** | **[Verizon Innovative Learning - Student Intern](https://jobright.ai/jobs/info/694bb0fb5d7312113470362e?utm_campaign=1057&utm_source=git)** | St Louis, MO | On Site | Dec 24 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Art Teacher & Intern - Secondary](https://jobright.ai/jobs/info/694cfa72d4a7df7a06722b76?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 23 |
 | **[Project Harmony Child Protection Center](https://projectharmony.com)** | **[Intern/Practicum Student - MSW/Clinical Mental Health (Summer/Fall 2026)](https://jobright.ai/jobs/info/694bb80a1a572a617dde06eb?utm_campaign=1057&utm_source=git)** | Omaha, NE | On Site | Dec 23 |
-| **[City of Des Moines](https://DSM.city/)** | **[Special Events/Environmental Education Intern](https://jobright.ai/jobs/info/694ce297d4a7df7a06721fb9?utm_campaign=1057&utm_source=git)** | Des Moines, IA | On Site | Dec 23 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/694cc4a4f5bef51c96ea8762?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 23 |
 | **[Education Service Center Region 13](https://esc13.net)** | **[Teacher-ACE (Internal Only)](https://jobright.ai/jobs/info/694b6d22d64ebf28d821233e?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Dec 23 |
-| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Science Specialist Teacher and Interns - Elementary](https://jobright.ai/jobs/info/694cbff4d4a7df7a0671fb6a?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 23 |
 | **[United Tribes Technical College](http://www.uttc.edu/)** | **[Vice President of Academic Affairs – Closes January 13, 2026 at 5:00 PM](https://jobright.ai/jobs/info/694b849c1a572a617dddebf0?utm_campaign=1057&utm_source=git)** | Bismarck, ND | On Site | Dec 23 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/694cba6df5bef51c96ea8117?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 23 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, Digital Transformation Analyst Intern](https://jobright.ai/jobs/info/694b5d785d731211346fe469?utm_campaign=1057&utm_source=git)** | Arlington, VA | Hybrid | Dec 23 |
