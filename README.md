@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Little Rock](http://www.littlerock.org)** | **[LR Zoo Summer Internship Program - Zoological Research Internships](https://jobright.ai/jobs/info/694ed594ce13cd10565718c1?utm_campaign=1057&utm_source=git)** | Little Rock, AR | On Site | Dec 26 |
+| **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Trading Associate](https://jobright.ai/jobs/info/694ed06329655e4dd658679f?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 26 |
+| **[ImpactLife](https://www.bloodcenter.org/)** | **[Illinios State University On Campus Intern](https://jobright.ai/jobs/info/694ecf2da2668b7f54521d93?utm_campaign=1057&utm_source=git)** | Peoria, IL | On Site | Dec 26 |
+| **[AffirmedRx, a Public Benefit Corporation](https://emsanarx.com/)** | **[Summer Internship, Pharmacy](https://jobright.ai/jobs/info/694eccc1ce13cd105657178e?utm_campaign=1057&utm_source=git)** | Louisville, KY | Remote | Dec 26 |
 | **[Snohomish County PUD](http://www.snopud.com/)** | **[Summer IT Student Internship](https://jobright.ai/jobs/info/694ebb0c29655e4dd6584966?utm_campaign=1057&utm_source=git)** | Everett, WA | On Site | Dec 26 |
 | **[AffirmedRx, a Public Benefit Corporation](https://emsanarx.com/)** | **[Summer Internship, Pharmacy](https://jobright.ai/jobs/info/694eb85d29655e4dd65848e9?utm_campaign=1057&utm_source=git)** | United States | Remote | Dec 26 |
 | **[CN](http://www.cn.ca)** | **[Intern, Multimedia Specialist- EN](https://jobright.ai/jobs/info/693e32d850bbaf765050ecbd?utm_campaign=1057&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 26 |
@@ -116,8 +120,6 @@ For a complete list, click the following sortable link below:
 | **[Prince William County Public Schools](https://marstellerms.pwcs.edu)** | **[ELEMENTARY SCHOOL ADMINISTRATIVE INTERN - 200 DAY](https://jobright.ai/jobs/info/694e230bd4a7df7a06730b51?utm_campaign=1057&utm_source=git)** | Manassas, VA | On Site | Dec 25 |
 | **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Dartmouth Hitchcock Undergraduate Summer Internship Programs](https://jobright.ai/jobs/info/694e129f29655e4dd657ccd5?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Dec 25 |
 | ↳ | **[Dartmouth Hitchcock High School Foundations Summer Internship Program](https://jobright.ai/jobs/info/694dfa6c29655e4dd657c560?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Dec 25 |
-| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/694dc279f5bef51c96eb4269?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 25 |
-| **[Tribal App](https://thetribalapp.com)** | **[College Content Creator Community internship](https://jobright.ai/jobs/info/694dc24af5bef51c96eb4261?utm_campaign=1057&utm_source=git)** | United States | Remote | Dec 25 |
 | **[Clemson University MBA Programs](https://www.clemson.edu/business/departments/mba/)** | **[Open Rank Faculty - Large Animal Internal Medicine - Harvey S. Peeler Jr. College of Veterinary Medicine](https://jobright.ai/jobs/info/694dabce29655e4dd6578fc2?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | On Site | Dec 25 |
 | **[PROJXON](www.projxon.com)** | **[Learning And Development Specialist (MIAO Intern)](https://jobright.ai/jobs/info/694da830d4a7df7a0672aada?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | Remote | Dec 25 |
 | **[Sunset Automotive Group](https://www.sunsetautogroup.com)** | **[Training & Development Intern - Summer 2026](https://jobright.ai/jobs/info/694da6cfd4a7df7a0672a924?utm_campaign=1057&utm_source=git)** | Livonia, MI | On Site | Dec 25 |
@@ -129,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[University of Mississippi](http://www.olemiss.edu/)** | **[Instructional Assistant Professor - Electrical and Computer Engineering](https://jobright.ai/jobs/info/68c9a104f9c6ff7aedf1ba7c?utm_campaign=1057&utm_source=git)** | University, MS | On Site | Dec 25 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Intern - Summer 2026](https://jobright.ai/jobs/info/68f6ba0276a51a4307bddc6c?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Dec 25 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Senior Advisor - International Post-Admissions](https://jobright.ai/jobs/info/694d726429655e4dd657630a?utm_campaign=1057&utm_source=git)** | Lubbock, TX | On Site | Dec 25 |
-| ↳ | **[International Student Success Coordinator, CEAS](https://jobright.ai/jobs/info/694d8dd929655e4dd6576f77?utm_campaign=1057&utm_source=git)** | Stony Brook, NY | On Site | Dec 25 |
 | ↳ | **[MCAT Prep Instructor - Kaplan International Seattle/Seattle Central College](https://jobright.ai/jobs/info/694d902ff5bef51c96eb1595?utm_campaign=1057&utm_source=git)** | Seattle, WA | Hybrid | Dec 25 |
+| ↳ | **[International Student Success Coordinator, CEAS](https://jobright.ai/jobs/info/694d8dd929655e4dd6576f77?utm_campaign=1057&utm_source=git)** | Stony Brook, NY | On Site | Dec 25 |
 | **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/68f7e9e15dc1be601281e3ac?utm_campaign=1057&utm_source=git)** | Emmaus, PA | On Site | Dec 25 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[Bernstein - Summer Senior Research Associate (Campus)](https://jobright.ai/jobs/info/68c085838e65e77df55c238e?utm_campaign=1057&utm_source=git)** | New York, United States | Hybrid | Dec 25 |
 | **[Phelps Health](https://phelpshealth.org/)** | **[Clinical Intern (EWYL) / ECC, Lincoln, SBU Nursing Students](https://jobright.ai/jobs/info/694d63b4d4a7df7a06728075?utm_campaign=1057&utm_source=git)** | Rolla, MO | On Site | Dec 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PNC](http://www.pnc.com)** | **[Corporate & Institutional Banking Undergraduate Intern - Commercial & Corporate Banking - Financials and Diversified Track](https://jobright.ai/jobs/info/694c50c25d7312113470ba86?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 24 |
 | **[Carilion Clinic](https://www.carilionclinic.org)** | **[Exercise Phyisologist - Intern](https://jobright.ai/jobs/info/694055f149a7695fbd05e026?utm_campaign=1057&utm_source=git)** | Roanoke, VA | On Site | Dec 24 |
 | **[The Heritage Community](https://www.heritagertc.org)** | **[THERAPY INTERNSHIP / Elevate Academy](https://jobright.ai/jobs/info/694c4a12d64ebf28d821dd9a?utm_campaign=1057&utm_source=git)** | Provo, UT | On Site | Dec 24 |
-| **[Kansas State University](http://www.k-state.edu/)** | **[International Student and Scholar Coordinator](https://jobright.ai/jobs/info/694c301a5d7312113470a771?utm_campaign=1057&utm_source=git)** | Manhattan, KS | On Site | Dec 24 |
-| **[Arbour Counseling Services](https://arbourhealth.com/)** | **[May 2026 Paid Master's Level Internship](https://jobright.ai/jobs/info/694c66635d7312113470d7fc?utm_campaign=1057&utm_source=git)** | Lowell, MA | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
