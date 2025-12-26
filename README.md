@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tacoma Community College](http://www.tacomacc.edu/)** | **[Student Programming, Government and Ambassadors](https://jobright.ai/jobs/info/694e567529655e4dd6581446?utm_campaign=1057&utm_source=git)** | Tacoma, WA | On Site | Dec 26 |
+| **[TD](https://www.td.com)** | **[2026 Summer Graduate Leadership Internship Program - Retail Distribution](https://jobright.ai/jobs/info/694e5004d4a7df7a06731dba?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 26 |
+| ↳ | **[2026 Summer Graduate Leadership Internship Program - Digital](https://jobright.ai/jobs/info/694e4f4bf5bef51c96eba174?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 26 |
+| ↳ | **[2026 Summer Graduate Leadership Internship Program - Consumer Products – Credit Management](https://jobright.ai/jobs/info/694e4f0429655e4dd6580002?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 26 |
 | **[Peralta Community College District](https://web.peralta.edu/)** | **[Temporary, Part-Time Mental Health Associate/Intern](https://jobright.ai/jobs/info/694e3ca629655e4dd657f773?utm_campaign=1057&utm_source=git)** | Peralta, NM | On Site | Dec 25 |
 | **[Prince William County Public Schools](https://marstellerms.pwcs.edu)** | **[ELEMENTARY SCHOOL ADMINISTRATIVE INTERN - 200 DAY](https://jobright.ai/jobs/info/694e230bd4a7df7a06730b51?utm_campaign=1057&utm_source=git)** | Manassas, VA | On Site | Dec 25 |
 | **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Dartmouth Hitchcock Undergraduate Summer Internship Programs](https://jobright.ai/jobs/info/694e129f29655e4dd657ccd5?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Dec 25 |
@@ -74,13 +78,12 @@ For a complete list, click the following sortable link below:
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/694d852729655e4dd6576d0b?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Dec 25 |
 | ↳ | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/694d8f47f5bef51c96eb1572?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Dec 25 |
 | **[Stratify Edge](stratifyedge.us)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/694d8fc729655e4dd65770c2?utm_campaign=1057&utm_source=git)** | Racine, WI | On Site | Dec 25 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/694d8606f5bef51c96eb125f?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Dec 25 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[High School Service Intern](https://jobright.ai/jobs/info/69139402e344172248f723d2?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | Dec 25 |
 | **[University of Mississippi](http://www.olemiss.edu/)** | **[Instructional Assistant Professor - Electrical and Computer Engineering](https://jobright.ai/jobs/info/68c9a104f9c6ff7aedf1ba7c?utm_campaign=1057&utm_source=git)** | University, MS | On Site | Dec 25 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Intern - Summer 2026](https://jobright.ai/jobs/info/68f6ba0276a51a4307bddc6c?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Dec 25 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Senior Advisor - International Post-Admissions](https://jobright.ai/jobs/info/694d726429655e4dd657630a?utm_campaign=1057&utm_source=git)** | Lubbock, TX | On Site | Dec 25 |
-| ↳ | **[International Student Success Coordinator, CEAS](https://jobright.ai/jobs/info/694d8dd929655e4dd6576f77?utm_campaign=1057&utm_source=git)** | Stony Brook, NY | On Site | Dec 25 |
 | ↳ | **[MCAT Prep Instructor - Kaplan International Seattle/Seattle Central College](https://jobright.ai/jobs/info/694d902ff5bef51c96eb1595?utm_campaign=1057&utm_source=git)** | Seattle, WA | Hybrid | Dec 25 |
+| ↳ | **[International Student Success Coordinator, CEAS](https://jobright.ai/jobs/info/694d8dd929655e4dd6576f77?utm_campaign=1057&utm_source=git)** | Stony Brook, NY | On Site | Dec 25 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/694d645dd4a7df7a06728080?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 25 |
 | **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/68f7e9e15dc1be601281e3ac?utm_campaign=1057&utm_source=git)** | Emmaus, PA | On Site | Dec 25 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[Bernstein - Summer Senior Research Associate (Campus)](https://jobright.ai/jobs/info/68c085838e65e77df55c238e?utm_campaign=1057&utm_source=git)** | New York, United States | Hybrid | Dec 25 |
@@ -93,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Jacob's Pillow Dance Festival](https://www.jacobspillow.org)** | **[School Programs Intern](https://jobright.ai/jobs/info/694d1aba29655e4dd6572e7e?utm_campaign=1057&utm_source=git)** | Becket, MA 01223 | On Site | Dec 24 |
 | **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/694cd36ad4a7df7a06721a7b?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Dec 24 |
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af1aa31f0a2a568a05f103?utm_campaign=1057&utm_source=git)** | Ormond Beach, Florida, United States | On Site | Dec 24 |
-| **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Dartmouth Hitchcock Undergraduate Summer Internship Programs](https://jobright.ai/jobs/info/694cc06329655e4dd656dde3?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Dec 24 |
 | **[LEWIS & CLARK BEHAVIORAL HEALTH SERVICES, INC.](https://lewisclarkb.yankton.multisiteadmin.com)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/694c96b0d64ebf28d82214c9?utm_campaign=1057&utm_source=git)** | Yankton, SD | On Site | Dec 24 |
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Resident Life Internship](https://jobright.ai/jobs/info/68d3059717554c2d9eeed2c2?utm_campaign=1057&utm_source=git)** | Sandusky, OH | On Site | Dec 24 |
 | ↳ | **[Training & Development Internships](https://jobright.ai/jobs/info/68d3034c17554c2d9eeece8c?utm_campaign=1057&utm_source=git)** | Sandusky, OH | On Site | Dec 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Art Teacher & Intern - Elementary](https://jobright.ai/jobs/info/694ca82029655e4dd656c284?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 23 |
 | **[USTA National Campus](http://www.ustanationalcampus.com)** | **[Undergraduate Intern Summer 2026 - Event Services](https://jobright.ai/jobs/info/694b4a014b53a1551f9510e0?utm_campaign=1057&utm_source=git)** | Queens, NY | Hybrid | Dec 23 |
 | ↳ | **[Undergraduate Intern Summer 2026 - NTC Tennis Programs](https://jobright.ai/jobs/info/694b49363019f50a4fe6633c?utm_campaign=1057&utm_source=git)** | Queens, NY | Hybrid | Dec 23 |
-| **[Project Harmony Child Protection Center](https://projectharmony.com)** | **[Intern/Practicum Student - MSW/Clinical Mental Health (Summer/Fall 2026)](https://jobright.ai/jobs/info/694b433b4b53a1551f950d58?utm_campaign=1057&utm_source=git)** | Omaha,NE,US | On Site | Dec 23 |
-| **[USTA National Campus](http://www.ustanationalcampus.com)** | **[Undergraduate Intern Summer 2026 - Digital Program Support](https://jobright.ai/jobs/info/694b40281224705e90026bb4?utm_campaign=1057&utm_source=git)** | Orlando, FL | Hybrid | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
