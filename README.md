@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Science Specialist Teacher and Interns - Elementary](https://jobright.ai/jobs/info/694dccdad4a7df7a0672be47?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 25 |
+| ↳ | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/694dc5a1f5bef51c96eb42ac?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 25 |
+| ↳ | **[2025/2026 - Art Teacher & Intern - Elementary](https://jobright.ai/jobs/info/694dc557f5bef51c96eb42a0?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 25 |
+| ↳ | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/694dc279f5bef51c96eb4269?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 25 |
+| **[Tribal App](https://thetribalapp.com)** | **[College Content Creator Community internship](https://jobright.ai/jobs/info/694dc24af5bef51c96eb4261?utm_campaign=1057&utm_source=git)** | United States | Remote | Dec 25 |
 | **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/694daf7829655e4dd6579483?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Dec 25 |
 | **[Clemson University MBA Programs](https://www.clemson.edu/business/departments/mba/)** | **[Open Rank Faculty - Large Animal Internal Medicine - Harvey S. Peeler Jr. College of Veterinary Medicine](https://jobright.ai/jobs/info/694dabce29655e4dd6578fc2?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | On Site | Dec 25 |
 | **[PROJXON](www.projxon.com)** | **[Learning And Development Specialist (MIAO Intern)](https://jobright.ai/jobs/info/694da830d4a7df7a0672aada?utm_campaign=1057&utm_source=git)** | Las Vegas, NV | Remote | Dec 25 |
@@ -66,14 +71,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/694d8f47f5bef51c96eb1572?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Dec 25 |
 | **[Stratify Edge](stratifyedge.us)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/694d8fc729655e4dd65770c2?utm_campaign=1057&utm_source=git)** | Racine, WI | On Site | Dec 25 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/694d8606f5bef51c96eb125f?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Dec 25 |
-| **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Trading Internship](https://jobright.ai/jobs/info/694d8dca29655e4dd6576f72?utm_campaign=1057&utm_source=git)** | United States | Remote | Dec 25 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[High School Service Intern](https://jobright.ai/jobs/info/69139402e344172248f723d2?utm_campaign=1057&utm_source=git)** | Irving, TX | On Site | Dec 25 |
 | **[University of Mississippi](http://www.olemiss.edu/)** | **[Instructional Assistant Professor - Electrical and Computer Engineering](https://jobright.ai/jobs/info/68c9a104f9c6ff7aedf1ba7c?utm_campaign=1057&utm_source=git)** | University, MS | On Site | Dec 25 |
 | **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Trading Bootcamp](https://jobright.ai/jobs/info/694d8d08d4a7df7a06728e71?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 25 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Intern - Summer 2026](https://jobright.ai/jobs/info/68f6ba0276a51a4307bddc6c?utm_campaign=1057&utm_source=git)** | Dallas, TX | On Site | Dec 25 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Senior Advisor - International Post-Admissions](https://jobright.ai/jobs/info/694d726429655e4dd657630a?utm_campaign=1057&utm_source=git)** | Lubbock, TX | On Site | Dec 25 |
-| ↳ | **[MCAT Prep Instructor - Kaplan International Seattle/Seattle Central College](https://jobright.ai/jobs/info/694d902ff5bef51c96eb1595?utm_campaign=1057&utm_source=git)** | Seattle, WA | Hybrid | Dec 25 |
 | ↳ | **[International Student Success Coordinator, CEAS](https://jobright.ai/jobs/info/694d8dd929655e4dd6576f77?utm_campaign=1057&utm_source=git)** | Stony Brook, NY | On Site | Dec 25 |
+| ↳ | **[MCAT Prep Instructor - Kaplan International Seattle/Seattle Central College](https://jobright.ai/jobs/info/694d902ff5bef51c96eb1595?utm_campaign=1057&utm_source=git)** | Seattle, WA | Hybrid | Dec 25 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/694d645dd4a7df7a06728080?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 25 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[Bernstein - Summer Senior Research Associate (Campus)](https://jobright.ai/jobs/info/68c085838e65e77df55c238e?utm_campaign=1057&utm_source=git)** | New York, United States | Hybrid | Dec 25 |
 | **[Phelps Health](https://phelpshealth.org/)** | **[Clinical Intern (EWYL) / ECC, Lincoln, SBU Nursing Students](https://jobright.ai/jobs/info/694d63b4d4a7df7a06728075?utm_campaign=1057&utm_source=git)** | Rolla, MO | On Site | Dec 25 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[USTA National Campus](http://www.ustanationalcampus.com)** | **[Undergraduate Intern Summer 2026 - Digital Program Support](https://jobright.ai/jobs/info/694b40281224705e90026bb4?utm_campaign=1057&utm_source=git)** | Orlando, FL | Hybrid | Dec 23 |
 | **[YSS](https://www.yss.org/)** | **[Residential Recovery Intern (53635)](https://jobright.ai/jobs/info/694b5d26d64ebf28d8211148?utm_campaign=1057&utm_source=git)** | Cambridge, IA 50046 | On Site | Dec 23 |
 | **[Family Health Centers of San Diego](https://www.fhcsd.org/)** | **[Volunteer, Student Intern- LRMAI- Student](https://jobright.ai/jobs/info/694b3ac53019f50a4fe655ee?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Dec 23 |
-| **[Thomas Jefferson Foundation](https://www.monticello.org)** | **[Education and Visitor Programs Intern](https://jobright.ai/jobs/info/694bbcd5d64ebf28d8216f97?utm_campaign=1057&utm_source=git)** | Charlottesville, VA | On Site | Dec 23 |
-| **[Virginia's Community College System](https://www.vccs.edu/)** | **[Employer Relations and Work-Based Learning Specialist (R0003)](https://jobright.ai/jobs/info/694b34761224705e90024e6f?utm_campaign=1057&utm_source=git)** | Richmond, VA | Hybrid | Dec 23 |
-| **[Hamilton County, Ohio](https://www.hamilton-co.org)** | **[Solid Waste College Intern (4639-56)](https://jobright.ai/jobs/info/694c692c5d7312113470d8df?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Dec 23 |
-| **[Amazon](https://amazon.com)** | **[MBA Intern, Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694b66bdd64ebf28d8211fd2?utm_campaign=1057&utm_source=git)** | Culver City, California, USA | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
