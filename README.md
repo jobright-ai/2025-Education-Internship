@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Peralta Community College District](https://web.peralta.edu/)** | **[Temporary, Part-Time Mental Health Associate/Intern](https://jobright.ai/jobs/info/694e3ca629655e4dd657f773?utm_campaign=1057&utm_source=git)** | Peralta, NM | On Site | Dec 25 |
+| **[Prince William County Public Schools](https://marstellerms.pwcs.edu)** | **[ELEMENTARY SCHOOL ADMINISTRATIVE INTERN - 200 DAY](https://jobright.ai/jobs/info/694e230bd4a7df7a06730b51?utm_campaign=1057&utm_source=git)** | Manassas, VA | On Site | Dec 25 |
 | **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Dartmouth Hitchcock Undergraduate Summer Internship Programs](https://jobright.ai/jobs/info/694e129f29655e4dd657ccd5?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Dec 25 |
 | ↳ | **[Dartmouth Hitchcock High School Foundations Summer Internship Program](https://jobright.ai/jobs/info/694dfa6c29655e4dd657c560?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Dec 25 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/694df652f5bef51c96eb6837?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Undergraduate Intern Summer 2026 - NTC Tennis Programs](https://jobright.ai/jobs/info/694b49363019f50a4fe6633c?utm_campaign=1057&utm_source=git)** | Queens, NY | Hybrid | Dec 23 |
 | **[Project Harmony Child Protection Center](https://projectharmony.com)** | **[Intern/Practicum Student - MSW/Clinical Mental Health (Summer/Fall 2026)](https://jobright.ai/jobs/info/694b433b4b53a1551f950d58?utm_campaign=1057&utm_source=git)** | Omaha,NE,US | On Site | Dec 23 |
 | **[USTA National Campus](http://www.ustanationalcampus.com)** | **[Undergraduate Intern Summer 2026 - Digital Program Support](https://jobright.ai/jobs/info/694b40281224705e90026bb4?utm_campaign=1057&utm_source=git)** | Orlando, FL | Hybrid | Dec 23 |
-| **[YSS](https://www.yss.org/)** | **[Residential Recovery Intern (53635)](https://jobright.ai/jobs/info/694b5d26d64ebf28d8211148?utm_campaign=1057&utm_source=git)** | Cambridge, IA 50046 | On Site | Dec 23 |
-| **[Family Health Centers of San Diego](https://www.fhcsd.org/)** | **[Volunteer, Student Intern- LRMAI- Student](https://jobright.ai/jobs/info/694b3ac53019f50a4fe655ee?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
