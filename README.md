@@ -57,12 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/6950460829655e4dd6598025?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | On Site | Dec 27 |
 | **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Trading Internship](https://jobright.ai/jobs/info/69501b0dce13cd1056581f50?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 27 |
-| **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/694ff32b29655e4dd6595038?utm_campaign=1057&utm_source=git)** | Racine, WI | On Site | Dec 27 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Associate Director of International Student Services](https://jobright.ai/jobs/info/694feed1a2668b7f545307de?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD | On Site | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/69337419764507023d1b5d7e?utm_campaign=1057&utm_source=git)** | Rochester, MN | Remote | Dec 27 |
 | **[Health Solutions West](https://www.mindspringshealth.org/)** | **[Clinical Intern (PAID Internship)](https://jobright.ai/jobs/info/694feb68a2668b7f54530768?utm_campaign=1057&utm_source=git)** | Building A - Grand Junction, CO 81501 | On Site | Dec 27 |
-| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/694fe66cce13cd105657fe76?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 27 |
 | **[SRAM](https://www.sram.com/en/quarq)** | **[SRAM Technical University (STU) Intern](https://jobright.ai/jobs/info/691690239c388539cbdfcbf1?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Dec 27 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Instructional Designer](https://jobright.ai/jobs/info/69336d00f131d96e4846330b?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/6933730bf131d96e484637b7?utm_campaign=1057&utm_source=git)** | Austin, TX | Remote | Dec 27 |
@@ -99,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/694f7b05ce13cd105657ab80?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Dec 26 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/694f7779ce13cd105657a951?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Dec 26 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/694f64aece13cd1056579692?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Dec 26 |
+| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/694f3b1da2668b7f545272a2?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 26 |
 | **[Provident Behavioral Health](https://www.providentstl.org)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/694f3702ce13cd10565769d2?utm_campaign=1057&utm_source=git)** | Gardner, LA | On Site | Dec 26 |
 | **[CONSUMER DIRECTED SERVICES INC.](https://www.linkedin.com/company/61295339)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/694f307da2668b7f54526b7a?utm_campaign=1057&utm_source=git)** | Flatwoods, LA | On Site | Dec 26 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Art Teacher & Intern - Secondary](https://jobright.ai/jobs/info/694f2030a2668b7f54524fa4?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 26 |
