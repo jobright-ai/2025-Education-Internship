@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/694f3b1da2668b7f545272a2?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 26 |
+| **[Provident Behavioral Health](https://www.providentstl.org)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/694f3702ce13cd10565769d2?utm_campaign=1057&utm_source=git)** | Gardner, LA | On Site | Dec 26 |
+| **[CONSUMER DIRECTED SERVICES INC.](https://www.linkedin.com/company/61295339)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/694f307da2668b7f54526b7a?utm_campaign=1057&utm_source=git)** | Flatwoods, LA | On Site | Dec 26 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/694f20acce13cd10565749ee?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 26 |
 | ↳ | **[2025/2026 - Art Teacher & Intern - Elementary](https://jobright.ai/jobs/info/694f20a7ce13cd10565749eb?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 26 |
 | ↳ | **[2025/2026 - Science Specialist Teacher and Interns - Elementary](https://jobright.ai/jobs/info/694f2085ce13cd10565749de?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 26 |
@@ -137,6 +140,7 @@ For a complete list, click the following sortable link below:
 | **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Dartmouth Hitchcock Undergraduate Summer Internship Programs](https://jobright.ai/jobs/info/694e129f29655e4dd657ccd5?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Dec 25 |
 | ↳ | **[Dartmouth Hitchcock High School Foundations Summer Internship Program](https://jobright.ai/jobs/info/694dfa6c29655e4dd657c560?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Dec 25 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/694df652f5bef51c96eb6837?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 25 |
+| **[The Child Center of NY](https://childcenterny.org/)** | **[Youth Adult Borough Center - Program Participant- Internship](https://jobright.ai/jobs/info/694a5e6731c12007d3b91498?utm_campaign=1057&utm_source=git)** | Queens, NY | On Site | Dec 25 |
 | **[Clemson University MBA Programs](https://www.clemson.edu/business/departments/mba/)** | **[Open Rank Faculty - Large Animal Internal Medicine - Harvey S. Peeler Jr. College of Veterinary Medicine](https://jobright.ai/jobs/info/694dabce29655e4dd6578fc2?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | On Site | Dec 25 |
 | **[Sunset Automotive Group](https://www.sunsetautogroup.com)** | **[Training & Development Intern - Summer 2026](https://jobright.ai/jobs/info/694da6cfd4a7df7a0672a924?utm_campaign=1057&utm_source=git)** | Livonia, MI | On Site | Dec 25 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/694d852729655e4dd6576d0b?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Dec 25 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[PRODUCT TRAINER INTERN (SKILLBRIDGE)](https://jobright.ai/jobs/info/6930f95efa28370be26b5b97?utm_campaign=1057&utm_source=git)** | Newport News, VA | On Site | Dec 25 |
 | **[Pegasystems](http://www.pega.com)** | **[Curriculum Developer Intern](https://jobright.ai/jobs/info/68f781a1b0edcf159dc81c21?utm_campaign=1057&utm_source=git)** | Waltham, MA | Remote | Dec 25 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[IMA Select Intern - Summer 2026](https://jobright.ai/jobs/info/6930f07dfa28370be26b56cb?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Dec 25 |
-| **[Elevare Consulting](elevareconsulting.us)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/694cfbd729655e4dd6570e58?utm_campaign=1057&utm_source=git)** | Racine, WI | On Site | Dec 25 |
-| **[Jacob's Pillow Dance Festival](https://www.jacobspillow.org)** | **[School Programs Intern](https://jobright.ai/jobs/info/694d1aba29655e4dd6572e7e?utm_campaign=1057&utm_source=git)** | Becket, MA 01223 | On Site | Dec 24 |
-| **[Simpson College](http://www.simpson.edu/)** | **[Assistant Professor of Digital Marketing](https://jobright.ai/jobs/info/694cd36ad4a7df7a06721a7b?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Dec 24 |
-| **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af1aa31f0a2a568a05f103?utm_campaign=1057&utm_source=git)** | Ormond Beach, Florida, United States | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
