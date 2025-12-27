@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Trading Internship](https://jobright.ai/jobs/info/69501b0dce13cd1056581f50?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 27 |
 | **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/694ff32b29655e4dd6595038?utm_campaign=1057&utm_source=git)** | Racine, WI | On Site | Dec 27 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Associate Director of International Student Services](https://jobright.ai/jobs/info/694feed1a2668b7f545307de?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD | On Site | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/69337419764507023d1b5d7e?utm_campaign=1057&utm_source=git)** | Rochester, MN | Remote | Dec 27 |
 | **[Health Solutions West](https://www.mindspringshealth.org/)** | **[Clinical Intern (PAID Internship)](https://jobright.ai/jobs/info/694feb68a2668b7f54530768?utm_campaign=1057&utm_source=git)** | Building A - Grand Junction, CO 81501 | On Site | Dec 27 |
-| **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Trading Intern](https://jobright.ai/jobs/info/694feacf29655e4dd6594ef9?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 27 |
 | **[SRAM](https://www.sram.com/en/quarq)** | **[SRAM Technical University (STU) Intern](https://jobright.ai/jobs/info/691690239c388539cbdfcbf1?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Dec 27 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Instructional Designer](https://jobright.ai/jobs/info/69336d00f131d96e4846330b?utm_campaign=1057&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/6933730bf131d96e484637b7?utm_campaign=1057&utm_source=git)** | Austin, TX | Remote | Dec 27 |
@@ -74,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - Ohio (49430)](https://jobright.ai/jobs/info/69166b52286ccf0a15135b06?utm_campaign=1057&utm_source=git)** | Westerville, OH | On Site | Dec 27 |
 | **[Silicon Labs](https://silabs.com/)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/69334dc9f131d96e48461a3b?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Dec 27 |
 | **[UVM Health - UVM Medical Center](http://www.UVMhealth.org/MedCenter)** | **[Periop 101 Internship - New Grads and Experienced RNs](https://jobright.ai/jobs/info/68ded7f4a125e75c422b7215?utm_campaign=1057&utm_source=git)** | Burlington, VT | On Site | Dec 27 |
+| **[ASML](https://www.asml.com)** | **[Internship - Learning Specialist - Summer 2026](https://jobright.ai/jobs/info/68dd73e9ddc10244dd67f7fc?utm_campaign=1057&utm_source=git)** | Wilton Center, CT | On Site | Dec 27 |
 | **[Bank of Hawaii](https://www.boh.com/personal/)** | **[2026 Summer Intern Program](https://jobright.ai/jobs/info/694a08acc6f0e2546ceef745?utm_campaign=1057&utm_source=git)** | Honolulu, HI | On Site | Dec 27 |
 | **[Wanzek Construction, Inc., a MasTec Company](http://www.wanzek.com/)** | **[Field Safety Internship - 2026 Summer](https://jobright.ai/jobs/info/68c36802b8c22d38284718d3?utm_campaign=1057&utm_source=git)** | Fargo, ND | On Site | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/69337847764507023d1b60da?utm_campaign=1057&utm_source=git)** | Tucson, AZ | Hybrid | Dec 27 |
@@ -101,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[CONSUMER DIRECTED SERVICES INC.](https://www.linkedin.com/company/61295339)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/694f307da2668b7f54526b7a?utm_campaign=1057&utm_source=git)** | Flatwoods, LA | On Site | Dec 26 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Art Teacher & Intern - Secondary](https://jobright.ai/jobs/info/694f2030a2668b7f54524fa4?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 26 |
 | ↳ | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/694f1f6729655e4dd6589889?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 26 |
-| ↳ | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/694f157229655e4dd6589720?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 26 |
 | **[City of Austin](http://www.austintexas.gov/cttc)** | **[Intern - Undergraduate (Austin Financial Services)](https://jobright.ai/jobs/info/694f0e02ce13cd105657461f?utm_campaign=1057&utm_source=git)** | One Texas Center | Hybrid | Dec 26 |
 | **[HealthRIGHT 360](https://www.healthright360.org)** | **[Statewide Virtual Training and Apprenticeship Program](https://jobright.ai/jobs/info/694f0df5ce13cd1056574619?utm_campaign=1057&utm_source=git)** | San Francisco, CA | Remote | Dec 26 |
 | ↳ | **[Statewide Virtual Training and Apprenticeship Program](https://jobright.ai/jobs/info/694f046ba2668b7f54524a78?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | Remote | Dec 26 |
@@ -115,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[Highland-Clarksburg Hospital](https://www.highlandclarksburghospital.com)** | **[THERAPY- GRADUATE INTERN](https://jobright.ai/jobs/info/694eec9129655e4dd658749d?utm_campaign=1057&utm_source=git)** | Highland- Clarksburg Hospital - Clarksburg, WV 26301 | On Site | Dec 26 |
 | **[Clemson University MBA Programs](https://www.clemson.edu/business/departments/mba/)** | **[Open Rank Faculty - Small Animal Internal Medicine - Harvey S. Peeler Jr. College of Veterinary Medicine](https://jobright.ai/jobs/info/694eeabfa2668b7f54522a02?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | On Site | Dec 26 |
 | **[City of Little Rock](http://www.littlerock.org)** | **[LR Zoo Summer Internship Program - Zoological Research Internships](https://jobright.ai/jobs/info/694ed594ce13cd10565718c1?utm_campaign=1057&utm_source=git)** | Little Rock, AR | On Site | Dec 26 |
-| **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Trading Associate](https://jobright.ai/jobs/info/694ed06329655e4dd658679f?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 26 |
 | **[ImpactLife](https://www.bloodcenter.org/)** | **[Illinios State University On Campus Intern](https://jobright.ai/jobs/info/694ecf2da2668b7f54521d93?utm_campaign=1057&utm_source=git)** | Peoria, IL | On Site | Dec 26 |
 | **[AffirmedRx, a Public Benefit Corporation](https://emsanarx.com/)** | **[Summer Internship, Pharmacy](https://jobright.ai/jobs/info/694eccc1ce13cd105657178e?utm_campaign=1057&utm_source=git)** | Louisville, KY | Remote | Dec 26 |
 | **[Snohomish County PUD](http://www.snopud.com/)** | **[Summer IT Student Internship](https://jobright.ai/jobs/info/694ebb0c29655e4dd6584966?utm_campaign=1057&utm_source=git)** | Everett, WA | On Site | Dec 26 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68dda46744d32141e0bf9a7e?utm_campaign=1057&utm_source=git)** | Hackettstown, NJ | On Site | Dec 26 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68dda4c444d32141e0bf9ba4?utm_campaign=1057&utm_source=git)** | Gainesville, GA | On Site | Dec 26 |
 | **[California Correctional Health Care Services](https://cchcs.ca.gov)** | **[PSYCHOLOGIST, CF - Kern Valley State Prison (KVSP)](https://jobright.ai/jobs/info/690dc799221b890c278098fe?utm_campaign=1057&utm_source=git)** | Kern County, CA | On Site | Dec 26 |
+| **[Beckman Coulter Life Sciences](https://www.mybeckman.uk/)** | **[Instructional Design Intern - Miami, FL](https://jobright.ai/jobs/info/6933ff97a0dde7020e2f39c7?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
