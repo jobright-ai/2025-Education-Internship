@@ -117,6 +117,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68dda91addc10244dd682ac7?utm_campaign=1057&utm_source=git)** | Alpharetta, GA | On Site | Dec 26 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68dda894ddc10244dd6829af?utm_campaign=1057&utm_source=git)** | Augusta, GA | On Site | Dec 26 |
 | **[California Correctional Health Care Services](https://cchcs.ca.gov)** | **[PSYCHOLOGIST-CLINICAL, CORRECTIONAL FACILITY, Sierra Conservation Center (SCC)](https://jobright.ai/jobs/info/68e10aa2f758fe1f97e53918?utm_campaign=1057&utm_source=git)** | Tuolumne, CA | On Site | Dec 26 |
+| ↳ | **[PSYCHOLOGIST, CF - Central California Women's Facility (CCWF)](https://jobright.ai/jobs/info/691d2bd30b7dff7341500820?utm_campaign=1057&utm_source=git)** | Madera, CA | On Site | Dec 26 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68dda44544d32141e0bf9a0f?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Dec 26 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68dda46744d32141e0bf9a7e?utm_campaign=1057&utm_source=git)** | Hackettstown, NJ | On Site | Dec 26 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68dda4c444d32141e0bf9ba4?utm_campaign=1057&utm_source=git)** | Gainesville, GA | On Site | Dec 26 |
@@ -133,8 +134,6 @@ For a complete list, click the following sortable link below:
 | **[PPL Corporation](https://www.pplweb.com/)** | **[Spring 2026 - Digital Training Intern](https://jobright.ai/jobs/info/69322ae0d0010831497c0435?utm_campaign=1057&utm_source=git)** | Allentown, PA | On Site | Dec 26 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern (Academic Credit) - Department of Neurology - Per Diem (On-site)](https://jobright.ai/jobs/info/6915d1926f36db06ef0515b1?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Dec 26 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Commercial Sales Training Developer Intern - The Toro Company](https://jobright.ai/jobs/info/68c043ae5c5d5f14f46dc220?utm_campaign=1057&utm_source=git)** | Hennepin County, MN | On Site | Dec 26 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/694e8c36a2668b7f5451f398?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Dec 26 |
-| **[Walworth County, WI](http://www.co.walworth.wi.us)** | **[Health & Human Services Internships](https://jobright.ai/jobs/info/694e5bebf5bef51c96ebadb4?utm_campaign=1057&utm_source=git)** | Elkhorn, WI | On Site | Dec 26 |
 | **[Peralta Community College District](https://web.peralta.edu/)** | **[Temporary, Part-Time Mental Health Associate/Intern](https://jobright.ai/jobs/info/694e3ca629655e4dd657f773?utm_campaign=1057&utm_source=git)** | Peralta, NM | On Site | Dec 25 |
 | **[Prince William County Public Schools](https://marstellerms.pwcs.edu)** | **[ELEMENTARY SCHOOL ADMINISTRATIVE INTERN - 200 DAY](https://jobright.ai/jobs/info/694e230bd4a7df7a06730b51?utm_campaign=1057&utm_source=git)** | Manassas, VA | On Site | Dec 25 |
 | **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Dartmouth Hitchcock Undergraduate Summer Internship Programs](https://jobright.ai/jobs/info/694e129f29655e4dd657ccd5?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Dec 25 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[PRODUCT TRAINER INTERN (SKILLBRIDGE)](https://jobright.ai/jobs/info/6930f95efa28370be26b5b97?utm_campaign=1057&utm_source=git)** | Newport News, VA | On Site | Dec 25 |
 | **[Pegasystems](http://www.pega.com)** | **[Curriculum Developer Intern](https://jobright.ai/jobs/info/68f781a1b0edcf159dc81c21?utm_campaign=1057&utm_source=git)** | Waltham, MA | Remote | Dec 25 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[IMA Select Intern - Summer 2026](https://jobright.ai/jobs/info/6930f07dfa28370be26b56cb?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Dec 25 |
+| **[Elevare Consulting](elevareconsulting.us)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/694cfbd729655e4dd6570e58?utm_campaign=1057&utm_source=git)** | Racine, WI | On Site | Dec 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
