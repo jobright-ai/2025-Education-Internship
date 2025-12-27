@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/694f64aece13cd1056579692?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Dec 26 |
+| **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Dartmouth Hitchcock High School Foundations Summer Internship Program](https://jobright.ai/jobs/info/694f612429655e4dd658d3d1?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Dec 26 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/694f3b1da2668b7f545272a2?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 26 |
 | **[Provident Behavioral Health](https://www.providentstl.org)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/694f3702ce13cd10565769d2?utm_campaign=1057&utm_source=git)** | Gardner, LA | On Site | Dec 26 |
 | **[CONSUMER DIRECTED SERVICES INC.](https://www.linkedin.com/company/61295339)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/694f307da2668b7f54526b7a?utm_campaign=1057&utm_source=git)** | Flatwoods, LA | On Site | Dec 26 |
@@ -86,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Snohomish County PUD](http://www.snopud.com/)** | **[Summer IT Student Internship](https://jobright.ai/jobs/info/694ebb0c29655e4dd6584966?utm_campaign=1057&utm_source=git)** | Everett, WA | On Site | Dec 26 |
 | **[AffirmedRx, a Public Benefit Corporation](https://emsanarx.com/)** | **[Summer Internship, Pharmacy](https://jobright.ai/jobs/info/694eb85d29655e4dd65848e9?utm_campaign=1057&utm_source=git)** | United States | Remote | Dec 26 |
 | **[CN](http://www.cn.ca)** | **[Intern, Multimedia Specialist- EN](https://jobright.ai/jobs/info/693e32d850bbaf765050ecbd?utm_campaign=1057&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 26 |
+| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/694e987dce13cd105656f3e3?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 26 |
 | **[Trinity Health Of New England](https://www.trinityhealthofne.org/)** | **[Student Nurse Internship Program](https://jobright.ai/jobs/info/69155d72286ccf0a1512da96?utm_campaign=1057&utm_source=git)** | Stafford Springs, CT | On Site | Dec 26 |
 | ↳ | **[Student Nurse Internship Program](https://jobright.ai/jobs/info/6932b61a764507023d1b02af?utm_campaign=1057&utm_source=git)** | Springfield, MA | On Site | Dec 26 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[2026 Summer Intern - Credit Administration (Hybrid - Boston, MA)](https://jobright.ai/jobs/info/68f947a5a628d10664e8b6d1?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | Dec 26 |
@@ -138,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[Prince William County Public Schools](https://marstellerms.pwcs.edu)** | **[ELEMENTARY SCHOOL ADMINISTRATIVE INTERN - 200 DAY](https://jobright.ai/jobs/info/694e230bd4a7df7a06730b51?utm_campaign=1057&utm_source=git)** | Manassas, VA | On Site | Dec 25 |
 | **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Dartmouth Hitchcock Undergraduate Summer Internship Programs](https://jobright.ai/jobs/info/694e129f29655e4dd657ccd5?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Dec 25 |
 | ↳ | **[Dartmouth Hitchcock High School Foundations Summer Internship Program](https://jobright.ai/jobs/info/694dfa6c29655e4dd657c560?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Dec 25 |
-| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/694df652f5bef51c96eb6837?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 25 |
 | **[The Child Center of NY](https://childcenterny.org/)** | **[Youth Adult Borough Center - Program Participant- Internship](https://jobright.ai/jobs/info/694a5e6731c12007d3b91498?utm_campaign=1057&utm_source=git)** | Queens, NY | On Site | Dec 25 |
 | **[Clemson University MBA Programs](https://www.clemson.edu/business/departments/mba/)** | **[Open Rank Faculty - Large Animal Internal Medicine - Harvey S. Peeler Jr. College of Veterinary Medicine](https://jobright.ai/jobs/info/694dabce29655e4dd6578fc2?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | On Site | Dec 25 |
 | **[Sunset Automotive Group](https://www.sunsetautogroup.com)** | **[Training & Development Intern - Summer 2026](https://jobright.ai/jobs/info/694da6cfd4a7df7a0672a924?utm_campaign=1057&utm_source=git)** | Livonia, MI | On Site | Dec 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Phelps Health](https://phelpshealth.org/)** | **[Clinical Intern (EWYL) / ECC, Lincoln, SBU Nursing Students](https://jobright.ai/jobs/info/694d63b4d4a7df7a06728075?utm_campaign=1057&utm_source=git)** | Rolla, MO | On Site | Dec 25 |
 | **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[PRODUCT TRAINER INTERN (SKILLBRIDGE)](https://jobright.ai/jobs/info/6930f95efa28370be26b5b97?utm_campaign=1057&utm_source=git)** | Newport News, VA | On Site | Dec 25 |
 | **[Pegasystems](http://www.pega.com)** | **[Curriculum Developer Intern](https://jobright.ai/jobs/info/68f781a1b0edcf159dc81c21?utm_campaign=1057&utm_source=git)** | Waltham, MA | Remote | Dec 25 |
-| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[IMA Select Intern - Summer 2026](https://jobright.ai/jobs/info/6930f07dfa28370be26b56cb?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Dec 25 |
-| **[Elevare Consulting](elevareconsulting.us)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/694cfbd729655e4dd6570e58?utm_campaign=1057&utm_source=git)** | Racine, WI | On Site | Dec 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
