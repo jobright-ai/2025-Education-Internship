@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WVU Medicine](https://wvumedicine.org/)** | **[Nurse Intern - Education Services](https://jobright.ai/jobs/info/69516badce13cd1056592026?utm_campaign=1057&utm_source=git)** | Thomas Memorial Hospital (TMH) | On Site | Dec 28 |
+| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/69516567ce13cd1056591f94?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Dec 28 |
 | **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Summer 2026 Evaluation Internship](https://jobright.ai/jobs/info/6948c27e63141d1884585f1d?utm_campaign=1057&utm_source=git)** | Bentonville, AR | On Site | Dec 28 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/69513af8ce13cd10565901d7?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 28 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Business Instructor - Adjunct](https://jobright.ai/jobs/info/6951368f29655e4dd65a4e35?utm_campaign=1057&utm_source=git)** | Lakewood Ranch, FL | On Site | Dec 28 |
 | ↳ | **[MCAT Prep Instructor - Kaplan International Seattle/Seattle Central College](https://jobright.ai/jobs/info/6951363029655e4dd65a4e19?utm_campaign=1057&utm_source=git)** | Seattle, WA | Remote | Dec 28 |
 | **[Arizona Department of Health Services](https://www.azdhs.gov/)** | **[Intern](https://jobright.ai/jobs/info/6951340ace13cd105658ff8c?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 28 |
+| **[UHS Physician Careers](https://www.uhsinc.com/careers/physician-career-opportunities/)** | **[Intern](https://jobright.ai/jobs/info/6951594529655e4dd65a5177?utm_campaign=1057&utm_source=git)** | Denton, TX | On Site | Dec 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship Kauai](https://jobright.ai/jobs/info/68df842c6be63b6ec9970e8a?utm_campaign=1057&utm_source=git)** | Lihue, HI | On Site | Dec 28 |
 | **[Ohlone College](http://www.ohlone.edu/)** | **[Program Manager, Career Services and Industry Relations](https://jobright.ai/jobs/info/695129eea2668b7f54540208?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship Hilo](https://jobright.ai/jobs/info/68df83a86be63b6ec9970de7?utm_campaign=1057&utm_source=git)** | Hilo, HI | On Site | Dec 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Nurse Internship Program](https://jobright.ai/jobs/info/6932b61a764507023d1b02af?utm_campaign=1057&utm_source=git)** | Springfield, MA | On Site | Dec 26 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[2026 Summer Intern - Credit Administration (Hybrid - Boston, MA)](https://jobright.ai/jobs/info/68f947a5a628d10664e8b6d1?utm_campaign=1057&utm_source=git)** | Boston, MA | Hybrid | Dec 26 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (OT/OTA Hospital Inpatient) Summer 2026 OT Fieldwork](https://jobright.ai/jobs/info/68d757ee61a175619f8c9258?utm_campaign=1057&utm_source=git)** | Elkridge, MD | On Site | Dec 26 |
-| **[Trinity Health](http://www.trinity-health.org)** | **[Student Nurse Internship Program](https://jobright.ai/jobs/info/69366dfd764507023d1c34a8?utm_campaign=1057&utm_source=git)** | Stafford Springs, CT | On Site | Dec 26 |
-| **[Meadows Behavioral Healthcare](https://www.meadowsbh.com)** | **[Clinical Intern - Wickenburg - 2026](https://jobright.ai/jobs/info/68dc7500ddc10244dd67595d?utm_campaign=1057&utm_source=git)** | Wickenburg, AZ | On Site | Dec 26 |
-| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Westlake Village, CA - Credit Operations](https://jobright.ai/jobs/info/69330729f131d96e4845f45e?utm_campaign=1057&utm_source=git)** | Westlake Village, CA | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
