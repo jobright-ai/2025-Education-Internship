@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CHI](https://www.catholichealthinitiatives.org/)** | **[Nurse Graduate Intern-LPN](https://jobright.ai/jobs/info/6951d727ce13cd10565967d6?utm_campaign=1057&utm_source=git)** | Dickinson, ND | On Site | Dec 28 |
+| **[Children's Hospital of Philadelphia](http://chop.edu)** | **[2026 Summer Internship - Digital & Technology Services](https://jobright.ai/jobs/info/6951d182a2668b7f54546c4d?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 28 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/6951b806a2668b7f54545072?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 28 |
 | ↳ | **[2025/2026 - Art Teacher & Intern - Secondary](https://jobright.ai/jobs/info/6951b806a2668b7f54545073?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 28 |
 | ↳ | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/6951b7cda2668b7f54545047?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 28 |
@@ -70,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/69516567ce13cd1056591f94?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Dec 28 |
 | **[Illinois Conservatory for the Arts](https://ilconservatory.org)** | **[Student Intern](https://jobright.ai/jobs/info/6951680a29655e4dd65a6c98?utm_campaign=1057&utm_source=git)** | Chicago, IL | Hybrid | Dec 28 |
 | **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Summer 2026 Evaluation Internship](https://jobright.ai/jobs/info/6948c27e63141d1884585f1d?utm_campaign=1057&utm_source=git)** | Bentonville, AR | On Site | Dec 28 |
-| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/69513af8ce13cd10565901d7?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 28 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Business Instructor - Adjunct](https://jobright.ai/jobs/info/6951368f29655e4dd65a4e35?utm_campaign=1057&utm_source=git)** | Lakewood Ranch, FL | On Site | Dec 28 |
 | ↳ | **[MCAT Prep Instructor - Kaplan International Seattle/Seattle Central College](https://jobright.ai/jobs/info/6951363029655e4dd65a4e19?utm_campaign=1057&utm_source=git)** | Seattle, WA | Remote | Dec 28 |
 | **[Arizona Department of Health Services](https://www.azdhs.gov/)** | **[Intern](https://jobright.ai/jobs/info/6951340ace13cd105658ff8c?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 28 |
@@ -98,8 +99,7 @@ For a complete list, click the following sortable link below:
 | **[CHA Consulting, Inc.](http://www.chacompanies.com/)** | **[Technical Internships - Summer 2026](https://jobright.ai/jobs/info/68d00c18846f0b04af68733b?utm_campaign=1057&utm_source=git)** | Portland, ME | On Site | Dec 28 |
 | ↳ | **[Corporate Internships - Summer 2026](https://jobright.ai/jobs/info/68b725c22124650c1401fad2?utm_campaign=1057&utm_source=git)** | Albany, NY | On Site | Dec 28 |
 | **[GreenMark Equipment](https://www.greenmarkequipment.com)** | **[Student Service Intern](https://jobright.ai/jobs/info/6950e4ddce13cd105658b930?utm_campaign=1057&utm_source=git)** | Holland, MI - Company HQ - Holland, MI 49423 | On Site | Dec 28 |
-| **[DayToDay Health](https://www.daytoday.health)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/6950dc42ce13cd105658b60c?utm_campaign=1057&utm_source=git)** | Boyce, LA | On Site | Dec 27 |
-| **[Eden Health (Home Health, Hospice, Home Care)](https://www.eden-health.com)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/6950db6029655e4dd65a04ad?utm_campaign=1057&utm_source=git)** | Glenmora, LA | On Site | Dec 27 |
+| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/69508d8929655e4dd659bdff?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 27 |
 | **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/6950460829655e4dd6598025?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | On Site | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/69337419764507023d1b5d7e?utm_campaign=1057&utm_source=git)** | Rochester, MN | Remote | Dec 27 |
 | **[Health Solutions West](https://www.mindspringshealth.org/)** | **[Clinical Intern (PAID Internship)](https://jobright.ai/jobs/info/694feb68a2668b7f54530768?utm_campaign=1057&utm_source=git)** | Building A - Grand Junction, CO 81501 | On Site | Dec 27 |
