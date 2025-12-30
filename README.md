@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dee Zee, Inc](http://deezee.com)** | **[Manufacturing Training Intern, Summer 2026](https://jobright.ai/jobs/info/69530e3e935649778e20cdd8?utm_campaign=1057&utm_source=git)** | Des Moines, IA | On Site | Dec 29 |
+| **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Elevate Summer Internship 2026- Special Projects Research Institute](https://jobright.ai/jobs/info/69530654935649778e20cb51?utm_campaign=1057&utm_source=git)** | Little Rock, AR | On Site | Dec 29 |
 | **[Intel Corporation](http://www.intel.com)** | **[Undergraduate Intern - 2026 Summer](https://jobright.ai/jobs/info/6952f524935649778e20c24c?utm_campaign=1057&utm_source=git)** | US, Oregon, Hillsboro | On Site | Dec 29 |
 | **[Easterseals NH](https://www.easterseals.com/nh)** | **[Intern Early Intervention Specialist Student](https://jobright.ai/jobs/info/6952f313f1f8465b79ea480d?utm_campaign=1057&utm_source=git)** | Manchester,  NH | On Site | Dec 29 |
 | **[Albertsons Companies](https://www.albertsonscompanies.com/)** | **[Pharmacy Summer Intern](https://jobright.ai/jobs/info/6952f2d45bb7de448ef60df0?utm_campaign=1057&utm_source=git)** | 20227 N 27TH AVE, PHOENIX, AZ, 85027, US | On Site | Dec 29 |
@@ -126,12 +128,11 @@ For a complete list, click the following sortable link below:
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/6951e072ce13cd1056596bfc?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 28 |
 | **[CHI](https://www.catholichealthinitiatives.org/)** | **[Nurse Graduate Intern-LPN](https://jobright.ai/jobs/info/6951d727ce13cd10565967d6?utm_campaign=1057&utm_source=git)** | Dickinson, ND | On Site | Dec 28 |
 | **[Children's Hospital of Philadelphia](http://chop.edu)** | **[2026 Summer Internship - Digital & Technology Services](https://jobright.ai/jobs/info/6951d182a2668b7f54546c4d?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 28 |
-| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/6951b806a2668b7f54545072?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 28 |
-| ↳ | **[2025/2026 - Art Teacher & Intern - Secondary](https://jobright.ai/jobs/info/6951b806a2668b7f54545073?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 28 |
+| **[Sanford Health](http://www.sanfordhealth.org)** | **[Sanford Student Internship Program- Bismarck](https://jobright.ai/jobs/info/6952f73c5bb7de448ef618a4?utm_campaign=1057&utm_source=git)** | Bismarck, ND | On Site | Dec 28 |
+| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Art Teacher & Intern - Secondary](https://jobright.ai/jobs/info/6951b806a2668b7f54545073?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 28 |
 | ↳ | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/6951b7cda2668b7f54545047?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 28 |
 | **[WVU Medicine](https://wvumedicine.org/)** | **[Nurse Intern - Education Services](https://jobright.ai/jobs/info/69516badce13cd1056592026?utm_campaign=1057&utm_source=git)** | Thomas Memorial Hospital (TMH) | On Site | Dec 28 |
 | **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Summer 2026 Evaluation Internship](https://jobright.ai/jobs/info/6948c27e63141d1884585f1d?utm_campaign=1057&utm_source=git)** | Bentonville, AR | On Site | Dec 28 |
-| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/69513af8ce13cd10565901d7?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 28 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Business Instructor - Adjunct](https://jobright.ai/jobs/info/6951368f29655e4dd65a4e35?utm_campaign=1057&utm_source=git)** | Lakewood Ranch, FL | On Site | Dec 28 |
 | **[Arizona Department of Health Services](https://www.azdhs.gov/)** | **[Intern](https://jobright.ai/jobs/info/6951340ace13cd105658ff8c?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship Kauai](https://jobright.ai/jobs/info/68df842c6be63b6ec9970e8a?utm_campaign=1057&utm_source=git)** | Lihue, HI | On Site | Dec 28 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[CHA Consulting, Inc.](http://www.chacompanies.com/)** | **[Technical Internships - Summer 2026](https://jobright.ai/jobs/info/68d00c18846f0b04af68733b?utm_campaign=1057&utm_source=git)** | Portland, ME | On Site | Dec 28 |
 | ↳ | **[Corporate Internships - Summer 2026](https://jobright.ai/jobs/info/68b725c22124650c1401fad2?utm_campaign=1057&utm_source=git)** | Albany, NY | On Site | Dec 28 |
 | **[GreenMark Equipment](https://www.greenmarkequipment.com)** | **[Student Service Intern](https://jobright.ai/jobs/info/6950e4ddce13cd105658b930?utm_campaign=1057&utm_source=git)** | Holland, MI - Company HQ - Holland, MI 49423 | On Site | Dec 28 |
-| **[South Coast Air Quality Management District](http://www.aqmd.gov/)** | **[Career Development Intern](https://jobright.ai/jobs/info/6950460829655e4dd6598025?utm_campaign=1057&utm_source=git)** | Diamond Bar, CA | On Site | Dec 27 |
-| **[IBM](http://www.ibm.com)** | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/69337419764507023d1b5d7e?utm_campaign=1057&utm_source=git)** | Rochester, MN | Remote | Dec 27 |
+| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/69508d8929655e4dd659bdff?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
