@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Dartmouth Hitchcock High School Foundations Summer Internship Program](https://jobright.ai/jobs/info/6953efd8aa05c26e7aae6d80?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Dec 30 |
+| **[Jencap](https://jencapgroup.com)** | **[Summer Insurance Intern](https://jobright.ai/jobs/info/6953ec7a5bb7de448ef6e667?utm_campaign=1057&utm_source=git)** | Springfield, MO | On Site | Dec 30 |
+| ↳ | **[Summer Insurance Intern](https://jobright.ai/jobs/info/6953eb5eaa05c26e7aae6c95?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Dec 30 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - New York City (48517)](https://jobright.ai/jobs/info/68d021d9846f0b04af687d5a?utm_campaign=1057&utm_source=git)** | White Plains, NY | On Site | Dec 30 |
 | **[Unum](http://www.unum.com)** | **[Unum Scholar Intern - Columbia, SC](https://jobright.ai/jobs/info/68cbfd647342c7623ae5d018?utm_campaign=1057&utm_source=git)** | Columbia, SC | On Site | Dec 30 |
 | **[Compass Health Center](https://compasshealthcenter.net)** | **[Group Therapist Intern](https://jobright.ai/jobs/info/6937625fa0dde7020e3022c5?utm_campaign=1057&utm_source=git)** | Silver Spring, MD | On Site | Dec 30 |
@@ -79,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Sanford Student Internship Program- Bismarck](https://jobright.ai/jobs/info/69531071935649778e20ceb5?utm_campaign=1057&utm_source=git)** | Bismarck, ND | On Site | Dec 29 |
 | **[Dee Zee, Inc](http://deezee.com)** | **[Manufacturing Training Intern, Summer 2026](https://jobright.ai/jobs/info/69530e3e935649778e20cdd8?utm_campaign=1057&utm_source=git)** | Des Moines, IA | On Site | Dec 29 |
 | **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Elevate Summer Internship 2026- Special Projects Research Institute](https://jobright.ai/jobs/info/69530654935649778e20cb51?utm_campaign=1057&utm_source=git)** | Little Rock, AR | On Site | Dec 29 |
-| **[Intel Corporation](http://www.intel.com)** | **[Undergraduate Intern - 2026 Summer](https://jobright.ai/jobs/info/6952f524935649778e20c24c?utm_campaign=1057&utm_source=git)** | US, Oregon, Hillsboro | On Site | Dec 29 |
 | **[Easterseals NH](https://www.easterseals.com/nh)** | **[Intern Early Intervention Specialist Student](https://jobright.ai/jobs/info/6952f313f1f8465b79ea480d?utm_campaign=1057&utm_source=git)** | Manchester,  NH | On Site | Dec 29 |
 | **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - Siouxland Libraries](https://jobright.ai/jobs/info/6952e92a5bb7de448ef601bf?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD | On Site | Dec 29 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Risk Management and Insurance Internship - Summer 2026 (Dallas, TX)](https://jobright.ai/jobs/info/6952dbdc935649778e209a05?utm_campaign=1057&utm_source=git)** | Richardson, TX | On Site | Dec 29 |
@@ -138,7 +140,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sports Administration Assistant Professor](https://jobright.ai/jobs/info/6952173329655e4dd65af234?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Dec 28 |
 | **[WVU Medicine Thomas Hospitals](https://thomashealth.org)** | **[Nurse Intern - Education Services](https://jobright.ai/jobs/info/6951fdb8ce13cd1056597aa3?utm_campaign=1057&utm_source=git)** | South Charleston, WV | On Site | Dec 28 |
 | **[UC Berkeley Law Pro Bono Program](https://www.law.berkeley.edu/experiential/pro-bono-program/)** | **[Student Programs Associate, Helen Diller Institute (Job ID #82899)](https://jobright.ai/jobs/info/6951e389ce13cd1056596c2e?utm_campaign=1057&utm_source=git)** | Berkeley, CA | Hybrid | Dec 28 |
-| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/6951e072ce13cd1056596bfc?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 28 |
 | **[CHI](https://www.catholichealthinitiatives.org/)** | **[Nurse Graduate Intern-LPN](https://jobright.ai/jobs/info/6951d727ce13cd10565967d6?utm_campaign=1057&utm_source=git)** | Dickinson, ND | On Site | Dec 28 |
 | **[Children's Hospital of Philadelphia](http://chop.edu)** | **[2026 Summer Internship - Digital & Technology Services](https://jobright.ai/jobs/info/6951d182a2668b7f54546c4d?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 28 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/6951b7cda2668b7f54545047?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[FleishmanHillard](http://fleishmanhillard.com)** | **[Graduate Development Program, Health & Life Science (Full-Time Internship) - New York](https://jobright.ai/jobs/info/6917eb4cbcdbf3560c9cca1d?utm_campaign=1057&utm_source=git)** | New York, United States | Hybrid | Dec 28 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/691c144822a2cb4b9bd18ef0?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Dec 28 |
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT CORPORATE HEALTH & SAFETY](https://jobright.ai/jobs/info/691ab4f115b4156367189fa9?utm_campaign=1057&utm_source=git)** | New Braunfels, TX | On Site | Dec 28 |
-| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/691aaa4615b4156367189b68?utm_campaign=1057&utm_source=git)** | Brooksville, FL | On Site | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
