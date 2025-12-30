@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Digital Resilience Lab](https://www.digitalresiliencelab.com/)** | **[College Internship – Digital Transformation in Education Internship Digital Resilience Lab, a Global Leader in Digital Wellbeing](https://jobright.ai/jobs/info/695409e7aa05c26e7aae8ed7?utm_campaign=1057&utm_source=git)** | United States | Remote | Dec 30 |
+| **[Brixenta](brixenta.us)** | **[Corporate Trainee Program Internship](https://jobright.ai/jobs/info/69540208f1f8465b79eb26c5?utm_campaign=1057&utm_source=git)** | Sussex, WI | On Site | Dec 30 |
+| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Undergraduate Summer - Tribal Education Partnership Program/BEST, Remote](https://jobright.ai/jobs/info/6916969c286ccf0a15137b38?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | Remote | Dec 30 |
+| **[Community & Wellness Collective](cawcollective.org)** | **[Spring 2026 Internships – Community & Wellness Collective (Multiple Roles)](https://jobright.ai/jobs/info/6953faf4f1f8465b79eb209b?utm_campaign=1057&utm_source=git)** | St Louis, MO | Hybrid | Dec 30 |
+| **[Jencap](https://jencapgroup.com)** | **[Summer Insurance Intern](https://jobright.ai/jobs/info/6953f8925bb7de448ef6e902?utm_campaign=1057&utm_source=git)** | Red Bank, NJ | On Site | Dec 30 |
 | **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Dartmouth Hitchcock High School Foundations Summer Internship Program](https://jobright.ai/jobs/info/6953efd8aa05c26e7aae6d80?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Dec 30 |
 | **[Jencap](https://jencapgroup.com)** | **[Summer Insurance Intern](https://jobright.ai/jobs/info/6953ec7a5bb7de448ef6e667?utm_campaign=1057&utm_source=git)** | Springfield, MO | On Site | Dec 30 |
 | ↳ | **[Summer Insurance Intern](https://jobright.ai/jobs/info/6953eb5eaa05c26e7aae6c95?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Dec 30 |
@@ -145,16 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/6951b7cda2668b7f54545047?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 28 |
 | **[WVU Medicine](https://wvumedicine.org/)** | **[Nurse Intern - Education Services](https://jobright.ai/jobs/info/69516badce13cd1056592026?utm_campaign=1057&utm_source=git)** | Thomas Memorial Hospital (TMH) | On Site | Dec 28 |
 | **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Summer 2026 Evaluation Internship](https://jobright.ai/jobs/info/6948c27e63141d1884585f1d?utm_campaign=1057&utm_source=git)** | Bentonville, AR | On Site | Dec 28 |
+| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/69513af8ce13cd10565901d7?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 28 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Business Instructor - Adjunct](https://jobright.ai/jobs/info/6951368f29655e4dd65a4e35?utm_campaign=1057&utm_source=git)** | Lakewood Ranch, FL | On Site | Dec 28 |
 | **[Arizona Department of Health Services](https://www.azdhs.gov/)** | **[Intern](https://jobright.ai/jobs/info/6951340ace13cd105658ff8c?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship Kauai](https://jobright.ai/jobs/info/68df842c6be63b6ec9970e8a?utm_campaign=1057&utm_source=git)** | Lihue, HI | On Site | Dec 28 |
 | ↳ | **[Management Trainee Summer Internship Hilo](https://jobright.ai/jobs/info/68df83a86be63b6ec9970de7?utm_campaign=1057&utm_source=git)** | Hilo, HI | On Site | Dec 28 |
 | ↳ | **[Management Trainee Summer Internship Oahu](https://jobright.ai/jobs/info/68e1ee04b99ec3563b0d901d?utm_campaign=1057&utm_source=git)** | Honolulu, HI | On Site | Dec 28 |
 | ↳ | **[Management Trainee Summer Internship Kona](https://jobright.ai/jobs/info/6933c029764507023d1b8e78?utm_campaign=1057&utm_source=git)** | Kailua-Kona, HI | On Site | Dec 28 |
-| **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Academic Year 2026-27 Learning & Engagement Internship](https://jobright.ai/jobs/info/6917c3e245fb6f5ead89e6b8?utm_campaign=1057&utm_source=git)** | Bentonville, AR | Hybrid | Dec 28 |
-| ↳ | **[Art Bridges Summer 2026 Learning & Engagement Internship](https://jobright.ai/jobs/info/6917bfee45fb6f5ead89e3ec?utm_campaign=1057&utm_source=git)** | Bentonville, AR | On Site | Dec 28 |
-| ↳ | **[Art Bridges Academic Year 2026-27 Fellows and Internship Programs Internship](https://jobright.ai/jobs/info/6917c1d645fb6f5ead89e552?utm_campaign=1057&utm_source=git)** | Bentonville, AR | Hybrid | Dec 28 |
-| **[FleishmanHillard](http://fleishmanhillard.com)** | **[Graduate Development Program, Health & Life Science (Full-Time Internship) - New York](https://jobright.ai/jobs/info/6917eb4cbcdbf3560c9cca1d?utm_campaign=1057&utm_source=git)** | New York, United States | Hybrid | Dec 28 |
-| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/691c144822a2cb4b9bd18ef0?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Dec 28 |
-| ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT CORPORATE HEALTH & SAFETY](https://jobright.ai/jobs/info/691ab4f115b4156367189fa9?utm_campaign=1057&utm_source=git)** | New Braunfels, TX | On Site | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
