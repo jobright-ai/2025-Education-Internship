@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Dartmouth Hitchcock High School Foundations Summer Internship Program](https://jobright.ai/jobs/info/6953656ff1f8465b79eabf54?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Dec 29 |
+| **[Simtra BioPharma Solutions](https://simtra.com)** | **[2026 Summer Internship - Quality Assurance-Learning & Development Intern](https://jobright.ai/jobs/info/6953655bf1f8465b79eabf4b?utm_campaign=1057&utm_source=git)** | Bloomington, IN | On Site | Dec 29 |
+| **[Vitality Living](https://www.vitalityseniorliving.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/69535741f1f8465b79ea9ce7?utm_campaign=1057&utm_source=git)** | Brentwood, TN | Remote | Dec 29 |
+| **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Assistant- Office of the Provost- Student Researcher](https://jobright.ai/jobs/info/69534ca65bb7de448ef65e82?utm_campaign=1057&utm_source=git)** | Huntsville, TX | On Site | Dec 29 |
 | **[Fellowship Recovery LLC](www.fellowshiprecovery.com)** | **[Spring Internship Program - ADC-T/LADC Track](https://jobright.ai/jobs/info/69533cab5bb7de448ef653c1?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Dec 29 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/695331fa935649778e20f863?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 29 |
 | **[Intel Corporation](http://www.intel.com)** | **[Undergraduate Intern - 2026 Summer](https://jobright.ai/jobs/info/69532d3a5bb7de448ef64789?utm_campaign=1057&utm_source=git)** | Hillsboro, OR | On Site | Dec 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/691c144822a2cb4b9bd18ef0?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Dec 28 |
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT CORPORATE HEALTH & SAFETY](https://jobright.ai/jobs/info/691ab4f115b4156367189fa9?utm_campaign=1057&utm_source=git)** | New Braunfels, TX | On Site | Dec 28 |
 | ↳ | **[PROFESSIONAL INTERNSHIP DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/691aaa4615b4156367189b68?utm_campaign=1057&utm_source=git)** | Brooksville, FL | On Site | Dec 28 |
-| **[UW School of Medicine and Public Health](https://www.med.wisc.edu)** | **[Internal Medicine Physician - Beaver Dam Clinic](https://jobright.ai/jobs/info/68cf2946dbd9fb154ede5634?utm_campaign=1057&utm_source=git)** | Beaver Dam, WI | On Site | Dec 28 |
-| **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Clinical Nutrition Dietetic Internship](https://jobright.ai/jobs/info/69179ab415b41563671797df?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Dec 28 |
-| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Sheppard Pratt School - Rockville) 2026 Mental Health Counseling/Social Work Fieldwork](https://jobright.ai/jobs/info/68e04c12f758fe1f97e4c13f?utm_campaign=1057&utm_source=git)** | Rockville, MD | On Site | Dec 28 |
-| **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: Corporate Opportunities: Creative (Multiple Locations: CA & NY)](https://jobright.ai/jobs/info/6945ab0f63141d1884553893?utm_campaign=1057&utm_source=git)** | Santa Monica, CA | On Site | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
