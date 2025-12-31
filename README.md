@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee - Certified American Red Cross Instructor](https://jobright.ai/jobs/info/6954edf6aa05c26e7aaf5b18?utm_campaign=1057&utm_source=git)** | Huntsville, TX | On Site | Dec 31 |
+| **[FleishmanHillard](http://fleishmanhillard.com)** | **[Graduate Development Program, Health & Life Science (Full-Time Internship) - New York](https://jobright.ai/jobs/info/6917eb4cbcdbf3560c9cca1d?utm_campaign=1057&utm_source=git)** | New York, United States | Hybrid | Dec 31 |
+| **[PNC](http://www.pnc.com)** | **[Corporate & Institutional Banking Undergraduate Intern - Capital Markets](https://jobright.ai/jobs/info/6954db3af1f8465b79ec0747?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Dec 31 |
+| **[Unum](http://www.unum.com)** | **[Unum Scholar Intern - Columbia, SC](https://jobright.ai/jobs/info/6954d86eaa05c26e7aaf539f?utm_campaign=1057&utm_source=git)** | Columbia, SC | On Site | Dec 31 |
 | **[UNUM GROUP](https://www.linkedin.com/company/57075544)** | **[Unum Scholar Intern - Columbia, SC](https://jobright.ai/jobs/info/6954bb58f1f8465b79ebf8b7?utm_campaign=1057&utm_source=git)** | Columbia, South Carolina, USA | Hybrid | Dec 30 |
 | **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Dartmouth Hitchcock Undergraduate Summer Internship Programs](https://jobright.ai/jobs/info/6954b8625bb7de448ef7c114?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Dec 30 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/6954b3945bb7de448ef7beee?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Dec 30 |
+| **[Unum](http://www.unum.com)** | **[Unum Scholar Intern - Columbia, SC](https://jobright.ai/jobs/info/6954df6baa05c26e7aaf55c7?utm_campaign=1057&utm_source=git)** | Columbia, South Carolina, USA | Hybrid | Dec 30 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/6954ac8ff1f8465b79ebd52b?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Dec 30 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/69549ccf5bb7de448ef79422?utm_campaign=1057&utm_source=git)** | Alexandria, LA | On Site | Dec 30 |
 | **[Community Solutions, Inc. (CSI)](https://csi-online.org/)** | **[Intern, Non-Residential](https://jobright.ai/jobs/info/695494e9f1f8465b79ebc22a?utm_campaign=1057&utm_source=git)** | Torrington, CT | On Site | Dec 30 |
@@ -108,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Dartmouth Hitchcock High School Foundations Summer Internship Program](https://jobright.ai/jobs/info/6953efd8aa05c26e7aae6d80?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Dec 30 |
 | **[Jencap](https://jencapgroup.com)** | **[Summer Insurance Intern](https://jobright.ai/jobs/info/6953ec7a5bb7de448ef6e667?utm_campaign=1057&utm_source=git)** | Springfield, MO | On Site | Dec 30 |
 | ↳ | **[Summer Insurance Intern](https://jobright.ai/jobs/info/6953eb5eaa05c26e7aae6c95?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Dec 30 |
-| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/6953dacd5bb7de448ef6e08f?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 30 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - New York City (48517)](https://jobright.ai/jobs/info/68d021d9846f0b04af687d5a?utm_campaign=1057&utm_source=git)** | White Plains, NY | On Site | Dec 30 |
 | **[Compass Health Center](https://compasshealthcenter.net)** | **[Group Therapist Intern](https://jobright.ai/jobs/info/6937625fa0dde7020e3022c5?utm_campaign=1057&utm_source=git)** | Silver Spring, MD | On Site | Dec 30 |
 | **[IDS Health, Inc](https://www.linkedin.com/company/107901732)** | **[Mental Health Therapist / Intern](https://jobright.ai/jobs/info/6953a169f1f8465b79eaef09?utm_campaign=1057&utm_source=git)** | Fernley, NV | On Site | Dec 30 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Apara Autism Centers](https://aparaautism.com/)** | **[RBT Intern – Trainer](https://jobright.ai/jobs/info/6952afd55bb7de448ef5c994?utm_campaign=1057&utm_source=git)** | Lewisville, TX | On Site | Dec 29 |
 | **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Platforms & Technology - Data Analyst](https://jobright.ai/jobs/info/6952aecbf1f8465b79ea016d?utm_campaign=1057&utm_source=git)** | Mount Laurel, NJ | On Site | Dec 29 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Student Advisor](https://jobright.ai/jobs/info/6952aba6935649778e206ad2?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 29 |
-| **[Curvaceous Behavior](https://www.curvaceousbehavior.org/about)** | **[Spring 2026 Internship Role Prom Project](https://jobright.ai/jobs/info/69529f93935649778e20602c?utm_campaign=1057&utm_source=git)** | Charlotte, NC | Hybrid | Dec 29 |
-| **[Mayo Clinic](https://www.mayoclinic.org)** | **[HTM Intern, La Crosse](https://jobright.ai/jobs/info/69529a4bf1f8465b79e9e85d?utm_campaign=1057&utm_source=git)** | La Crosse, WI, United States | On Site | Dec 29 |
-| ↳ | **[HTM Intern, Mankato](https://jobright.ai/jobs/info/69529a0ff1f8465b79e9e83f?utm_campaign=1057&utm_source=git)** | Mankato, MN, United States | On Site | Dec 29 |
-| ↳ | **[HTM Intern, Eau Claire](https://jobright.ai/jobs/info/6952984d935649778e205dae?utm_campaign=1057&utm_source=git)** | Eau Claire, WI, United States | On Site | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
