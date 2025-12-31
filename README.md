@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CHRISTUS Health](http://www.christushealth.org)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/69549ccf5bb7de448ef79422?utm_campaign=1057&utm_source=git)** | Alexandria, LA | On Site | Dec 30 |
+| **[Community Solutions, Inc. (CSI)](https://csi-online.org/)** | **[Intern, Non-Residential](https://jobright.ai/jobs/info/695494e9f1f8465b79ebc22a?utm_campaign=1057&utm_source=git)** | Torrington, CT | On Site | Dec 30 |
+| **[Community Reach Center](https://www.communityreachcenter.org)** | **[Unpaid Bilingual MSW Intern- Concentration year](https://jobright.ai/jobs/info/69548e9aaa05c26e7aaf0cc7?utm_campaign=1057&utm_source=git)** | Westminster, CO | On Site | Dec 30 |
+| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/69548dd85bb7de448ef7875f?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 30 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Coordinator: International Baccalaureate DP/CP Site (School Based)](https://jobright.ai/jobs/info/69548a71f1f8465b79ebbc0f?utm_campaign=1057&utm_source=git)** | Annapolis, MD | On Site | Dec 30 |
+| **[KinderCare Learning Companies](http://www.kcecareers.com/)** | **[Teacher at International Leadership Texas](https://jobright.ai/jobs/info/695488e5aa05c26e7aaf0911?utm_campaign=1057&utm_source=git)** | Katy, TX | On Site | Dec 30 |
 | **[Cambria](http://www.cambriausa.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/6954801ef1f8465b79ebb475?utm_campaign=1057&utm_source=git)** | Eden Prairie, MN | On Site | Dec 30 |
 | **[Design Workshop](https://www.designworkshop.com/)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/69547fd3aa05c26e7aaef7cc?utm_campaign=1057&utm_source=git)** | Denver County, CO | On Site | Dec 30 |
 | **[Montgomery County Counseling Center](https://mccounselingcenter.com)** | **[Clinical Intern](https://jobright.ai/jobs/info/69547f6af1f8465b79ebb3db?utm_campaign=1057&utm_source=git)** | Rockville, MD | On Site | Dec 30 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[HTM Intern, Eau Claire](https://jobright.ai/jobs/info/695293e05bb7de448ef5af0b?utm_campaign=1057&utm_source=git)** | Eau Claire, WI, United States | On Site | Dec 29 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Commercial Banking Intern / Co-Op (SUMMER 2026) - Inviting Applicants who identify as First Nation (Status and Non-Status) Inuit, and Métis](https://jobright.ai/jobs/info/695284105bb7de448ef5a6fa?utm_campaign=1057&utm_source=git)** | Richmond, British Columbia, Canada | On Site | Dec 29 |
 | **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship - Leadership Development Program (MBA)](https://jobright.ai/jobs/info/6951e6af29655e4dd65ab82f?utm_campaign=1057&utm_source=git)** | Midland, MI | On Site | Dec 29 |
-| **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Spring  Education Programs Intern (onsite)](https://jobright.ai/jobs/info/68dd7b0ba125e75c422ab21a?utm_campaign=1057&utm_source=git)** | Little Rock, Arkansas | On Site | Dec 29 |
-| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[BBraun PA Environment Health Safety/Security Intern (Summer 2026)](https://jobright.ai/jobs/info/695398f9f1f8465b79eada27?utm_campaign=1057&utm_source=git)** | Allentown, PA | On Site | Dec 29 |
-| **[Cintas Canada](https://www.cintas.ca/)** | **[Intern](https://jobright.ai/jobs/info/6918a0f2bcdbf3560c9d302d?utm_campaign=1057&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 29 |
-| **[Priority Health](http://www.priorityhealth.com/)** | **[Priority Health Medicare Quality Pharmacy Intern](https://jobright.ai/jobs/info/69083b1b122e8474c78e8ac1?utm_campaign=1057&utm_source=git)** | Grand Rapids, MI | On Site | Dec 29 |
-| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - Philadelphia (48518)](https://jobright.ai/jobs/info/68ce6c38dbd9fb154eddf76c?utm_campaign=1057&utm_source=git)** | Philadelphia, PA | On Site | Dec 29 |
-| ↳ | **[Future Leaders Program Summer 2026 - Woodland Hills (48519)](https://jobright.ai/jobs/info/68ce6c75846f0b04af679b5a?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
