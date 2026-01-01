@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Centerstone](https://centerstone.org/)** | **[Master's or Bachelor's Level Intern - SPRING/SUMMER](https://jobright.ai/jobs/info/6955ae169f1b381eb26eeb1f?utm_campaign=1057&utm_source=git)** | Clarksville, TN | On Site | Dec 31 |
 | **[Columbia Bank New Jersey](http://columbiabankonline.com)** | **[Summer 2026 Internship Program](https://jobright.ai/jobs/info/695575b0aa05c26e7aafcb8b?utm_campaign=1057&utm_source=git)** | Fair Lawn, NJ | On Site | Dec 31 |
 | **[Elevare Consulting](elevareconsulting.us)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/69555d32aa05c26e7aafba18?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Dec 31 |
 | **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Trading Internship](https://jobright.ai/jobs/info/69554b40aa05c26e7aafa568?utm_campaign=1057&utm_source=git)** | Illinois, United States | On Site | Dec 31 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Student Advisor I](https://jobright.ai/jobs/info/695544c3aa05c26e7aafa308?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Dec 31 |
 | **[Brixenta](brixenta.us)** | **[Trainee Internship Program](https://jobright.ai/jobs/info/695538caf1f8465b79ec5357?utm_campaign=1057&utm_source=git)** | Wisconsin, United States | On Site | Dec 31 |
+| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/695538b4f1f8465b79ec534d?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 31 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Student Advisor](https://jobright.ai/jobs/info/69554a1eaa05c26e7aafa51a?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 31 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Club Support Center Intern](https://jobright.ai/jobs/info/68cd2b5ae23def7af55b6618?utm_campaign=1057&utm_source=git)** | Marlborough, MA | Hybrid | Dec 31 |
 | **[Jencap](https://jencapgroup.com)** | **[2026 Jencap Summer Insurance Internships- Atlanta, Houston, Springfield, MO and Red Bank, NJ](https://jobright.ai/jobs/info/68cd9d00b2a74e1837ed9a51?utm_campaign=1057&utm_source=git)** | Greater Houston | On Site | Dec 31 |
@@ -87,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/69549ccf5bb7de448ef79422?utm_campaign=1057&utm_source=git)** | Alexandria, LA | On Site | Dec 30 |
 | **[Community Solutions, Inc. (CSI)](https://csi-online.org/)** | **[Intern, Non-Residential](https://jobright.ai/jobs/info/695494e9f1f8465b79ebc22a?utm_campaign=1057&utm_source=git)** | Torrington, CT | On Site | Dec 30 |
 | **[Community Reach Center](https://www.communityreachcenter.org)** | **[Unpaid Bilingual MSW Intern- Concentration year](https://jobright.ai/jobs/info/69548e9aaa05c26e7aaf0cc7?utm_campaign=1057&utm_source=git)** | Westminster, CO | On Site | Dec 30 |
-| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/69548dd85bb7de448ef7875f?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 30 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Coordinator: International Baccalaureate DP/CP Site (School Based)](https://jobright.ai/jobs/info/69548a71f1f8465b79ebbc0f?utm_campaign=1057&utm_source=git)** | Annapolis, MD | On Site | Dec 30 |
 | **[KinderCare Learning Companies](http://www.kcecareers.com/)** | **[Teacher at International Leadership Texas](https://jobright.ai/jobs/info/695488e5aa05c26e7aaf0911?utm_campaign=1057&utm_source=git)** | Katy, TX | On Site | Dec 30 |
 | **[Cambria](http://www.cambriausa.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/6954801ef1f8465b79ebb475?utm_campaign=1057&utm_source=git)** | Eden Prairie, MN | On Site | Dec 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TD Securities](https://www.tdsecurities.com)** | **[2026 Summer Internship Program - Platforms & Technology - Business Management Analyst](https://jobright.ai/jobs/info/6952cfe9935649778e208ecc?utm_campaign=1057&utm_source=git)** | Mount Laurel, NJ | On Site | Dec 29 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/6952ce8f935649778e208e22?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Dec 29 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[2026 Summer Internship Program - Platforms & Technology - Cyber Security](https://jobright.ai/jobs/info/6952cdf6f1f8465b79ea181f?utm_campaign=1057&utm_source=git)** | Mount Laurel, NJ | On Site | Dec 29 |
-| ↳ | **[2026 Summer Internship Program - Platforms & Technology - Data Analyst](https://jobright.ai/jobs/info/6952cdcd5bb7de448ef5e11a?utm_campaign=1057&utm_source=git)** | Mount Laurel, NJ | On Site | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
