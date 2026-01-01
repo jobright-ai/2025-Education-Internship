@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BitNest Solutions](https://www.linkedin.com/company/91022948)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/6956bc929f1b381eb26ff2d0?utm_campaign=1057&utm_source=git)** | Racine, WI | On Site | Jan 01 |
 | **[Colorado State University](http://economics.colostate.edu/)** | **[CSFS Communications and Communities Intern](https://jobright.ai/jobs/info/6956b0189f1b381eb26ff14a?utm_campaign=1057&utm_source=git)** | Fort Collins, CO | On Site | Jan 01 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/69568cd5aa05c26e7ab0cc48?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 01 |
 | **[Mount Sinai Medical Center](https://www.msmc.com/)** | **[Registered Nurse Intern-Acute Care](https://jobright.ai/jobs/info/69568aaff1f8465b79ed802e?utm_campaign=1057&utm_source=git)** | Miami Beach, FL | On Site | Jan 01 |
@@ -96,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[BlackRock](http://www.blackrock.com)** | **[2026 Summer Internship Program - AMERS](https://jobright.ai/jobs/info/6955fd929f1b381eb26f3286?utm_campaign=1057&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Dec 31 |
 | **[Scott Family Amazeum](https://www.amazeum.org/)** | **[Summer Camp Intern](https://jobright.ai/jobs/info/6955ef08aa05c26e7ab02710?utm_campaign=1057&utm_source=git)** | Scott Family Amazeum - Bentonville, AR 72712 | On Site | Dec 31 |
 | **[Instructional ABA Consultants](https://www.iabaconsultants.com)** | **[RBT/Behavior Therapist - Paid internship available](https://jobright.ai/jobs/info/695666b9aa05c26e7ab09d1d?utm_campaign=1057&utm_source=git)** | 900 Waukegan Road, Glenview, IL, USA | On Site | Dec 31 |
+| **[Marshfield Clinic Health System](https://www.marshfieldclinic.org)** | **[Student Nurse Intern - Summer 2026: Park Falls](https://jobright.ai/jobs/info/6955d131f1f8465b79ecb3e5?utm_campaign=1057&utm_source=git)** | Park Falls, WI | On Site | Dec 31 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/6955cb5daa05c26e7aaffc34?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 31 |
 | ↳ | **[2025/2026 - Art Teacher & Intern - Elementary](https://jobright.ai/jobs/info/6955c4a9f1f8465b79ecad17?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 31 |
 | ↳ | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/6955cb879f1b381eb26ef778?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 31 |
@@ -137,7 +139,7 @@ For a complete list, click the following sortable link below:
 | **[Cambria](http://www.cambriausa.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/6954801ef1f8465b79ebb475?utm_campaign=1057&utm_source=git)** | Eden Prairie, MN | On Site | Dec 30 |
 | **[Design Workshop](https://www.designworkshop.com/)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/69547fd3aa05c26e7aaef7cc?utm_campaign=1057&utm_source=git)** | Denver County, CO | On Site | Dec 30 |
 | **[Montgomery County Counseling Center](https://mccounselingcenter.com)** | **[Clinical Intern](https://jobright.ai/jobs/info/69547f6af1f8465b79ebb3db?utm_campaign=1057&utm_source=git)** | Rockville, MD | On Site | Dec 30 |
-| **[Achieve Beyond](http://www.achievebeyondusa.com)** | **[Intern Behavior Therapist](https://jobright.ai/jobs/info/695540f1f1f8465b79ec555f?utm_campaign=1057&utm_source=git)** | White Plains, NY | On Site | Dec 30 |
+| **[Achieve Beyond](http://www.achievebeyondusa.com)** | **[Intern Behavior Therapist](https://jobright.ai/jobs/info/69553ef69f1b381eb26e9b5e?utm_campaign=1057&utm_source=git)** | White Plains, NY | On Site | Dec 30 |
 | **[Cummins Behavioral Health Systems, Inc](https://www.cumminsbhs.org)** | **[Masters Internship in Addictions SUD, Outpatient or School-based setting](https://jobright.ai/jobs/info/69546d035bb7de448ef75a0d?utm_campaign=1057&utm_source=git)** | Avon, IN | On Site | Dec 30 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Art Teacher & Intern - Elementary](https://jobright.ai/jobs/info/695464cff1f8465b79eb8e55?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 30 |
 | **[Florida East Coast Railway](http://www.fecrwy.com)** | **[Safety, Training & Instructional Design Intern](https://jobright.ai/jobs/info/695463acaa05c26e7aaedbbe?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Dec 30 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Mitsubishi Heavy Industries](https://www.mhi.com)** | **[Commissioning Training Associate Internship](https://jobright.ai/jobs/info/69543f335bb7de448ef7269c?utm_campaign=1057&utm_source=git)** | Lake Mary, FL | On Site | Dec 30 |
 | **[HUB International](https://www.hubinternational.com)** | **[Summer Intern (HUB Internship Program)](https://jobright.ai/jobs/info/6954344b5bb7de448ef71e39?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Dec 30 |
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Medical Unit](https://jobright.ai/jobs/info/69543e67f1f8465b79eb5ad8?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Dec 30 |
-| **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[ILP Micro Internship (Fall 2026)](https://jobright.ai/jobs/info/69543e1ff1f8465b79eb5aaa?utm_campaign=1057&utm_source=git)** | Shaker Heights, OH | On Site | Dec 30 |
 | **[NexaYouth](https://nexayouth.com)** | **[Summer 2026 Programming Head](https://jobright.ai/jobs/info/69543ca15bb7de448ef7228f?utm_campaign=1057&utm_source=git)** | Seattle, WA | Hybrid | Dec 30 |
 | **[Boost Mobile](http://www.boostmobile.com/)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/69543ac2f1f8465b79eb5887?utm_campaign=1057&utm_source=git)** | Littleton, CO | On Site | Dec 30 |
-| **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Commissioning Training Associate Internship](https://jobright.ai/jobs/info/695438275bb7de448ef7208e?utm_campaign=1057&utm_source=git)** | Lake Mary, FL | On Site | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
