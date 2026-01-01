@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Colorado State University](http://economics.colostate.edu/)** | **[CSFS Communications and Communities Intern](https://jobright.ai/jobs/info/6956b0189f1b381eb26ff14a?utm_campaign=1057&utm_source=git)** | Fort Collins, CO | On Site | Jan 01 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/69568cd5aa05c26e7ab0cc48?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 01 |
 | **[Mount Sinai Medical Center](https://www.msmc.com/)** | **[Registered Nurse Intern-Acute Care](https://jobright.ai/jobs/info/69568aaff1f8465b79ed802e?utm_campaign=1057&utm_source=git)** | Miami Beach, FL | On Site | Jan 01 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern- Learning and Experience](https://jobright.ai/jobs/info/68cd2b011ad6b16f02895f5c?utm_campaign=1057&utm_source=git)** | Arlington, TX | Hybrid | Jan 01 |
@@ -79,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Kyowa Kirin, Inc.- U.S.](https://kkna.kyowakirin.com/)** | **[Clinical Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/692e0be24c474121999d58fd?utm_campaign=1057&utm_source=git)** | Princeton, NJ | Hybrid | Jan 01 |
 | **[Education Through Music](https://etmonline.org)** | **[Music Teacher Intern](https://jobright.ai/jobs/info/695640b7aa05c26e7ab071f5?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 01 |
 | **[Textron](http://textron.com)** | **[2026 Internship - Flight Ops (Flight Instructor)](https://jobright.ai/jobs/info/69563dc89f1b381eb26f6c30?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Jan 01 |
+| **[Education Through Music](https://etmonline.org)** | **[Music Teacher Intern](https://jobright.ai/jobs/info/69569ed4f1f8465b79ed8953?utm_campaign=1057&utm_source=git)** | New York, New York | On Site | Jan 01 |
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Medical Unit](https://jobright.ai/jobs/info/69562cdcaa05c26e7ab0689f?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Jan 01 |
 | ↳ | **[RN New Graduate Internship Program - Progressive Care Unit](https://jobright.ai/jobs/info/69562b0ff1f8465b79ed1c36?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Jan 01 |
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Surgical Care Unit](https://jobright.ai/jobs/info/695622cb9f1b381eb26f5ece?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Dec 31 |
@@ -94,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[BlackRock](http://www.blackrock.com)** | **[2026 Summer Internship Program - AMERS](https://jobright.ai/jobs/info/6955fd929f1b381eb26f3286?utm_campaign=1057&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Dec 31 |
 | **[Scott Family Amazeum](https://www.amazeum.org/)** | **[Summer Camp Intern](https://jobright.ai/jobs/info/6955ef08aa05c26e7ab02710?utm_campaign=1057&utm_source=git)** | Scott Family Amazeum - Bentonville, AR 72712 | On Site | Dec 31 |
 | **[Instructional ABA Consultants](https://www.iabaconsultants.com)** | **[RBT/Behavior Therapist - Paid internship available](https://jobright.ai/jobs/info/695666b9aa05c26e7ab09d1d?utm_campaign=1057&utm_source=git)** | 900 Waukegan Road, Glenview, IL, USA | On Site | Dec 31 |
-| **[Marshfield Clinic Health System](https://www.marshfieldclinic.org)** | **[Student Nurse Intern - Summer 2026: Park Falls](https://jobright.ai/jobs/info/6955d131f1f8465b79ecb3e5?utm_campaign=1057&utm_source=git)** | Park Falls, WI | On Site | Dec 31 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/6955cb5daa05c26e7aaffc34?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 31 |
 | ↳ | **[2025/2026 - Art Teacher & Intern - Elementary](https://jobright.ai/jobs/info/6955c4a9f1f8465b79ecad17?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 31 |
 | ↳ | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/6955cb879f1b381eb26ef778?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 31 |
@@ -104,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II - ME CV Step Down Unit Baptist Memphis](https://jobright.ai/jobs/info/6955ca6ff1f8465b79ecaf79?utm_campaign=1057&utm_source=git)** | 6019 Walnut Grove Road, Memphis, TN, 38120, US | On Site | Dec 31 |
 | **[Behavioral Health Resources](http://www.bhr.org/)** | **[Adult Therapist Internship](https://jobright.ai/jobs/info/6955bac5f1f8465b79ecaa4b?utm_campaign=1057&utm_source=git)** | Elma, WA | On Site | Dec 31 |
 | **[Elevare Consulting](elevareconsulting.us)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/69555d32aa05c26e7aafba18?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Dec 31 |
-| **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Trading Internship](https://jobright.ai/jobs/info/69554b40aa05c26e7aafa568?utm_campaign=1057&utm_source=git)** | Illinois, United States | On Site | Dec 31 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Student Advisor I](https://jobright.ai/jobs/info/695544c3aa05c26e7aafa308?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Dec 31 |
 | ↳ | **[International Student Advisor](https://jobright.ai/jobs/info/69554a1eaa05c26e7aafa51a?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Dec 31 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Club Support Center Intern](https://jobright.ai/jobs/info/68cd2b5ae23def7af55b6618?utm_campaign=1057&utm_source=git)** | Marlborough, MA | Hybrid | Dec 31 |
@@ -153,8 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Mitsubishi Heavy Industries](https://www.mhi.com)** | **[Commissioning Training Associate Internship](https://jobright.ai/jobs/info/69543f335bb7de448ef7269c?utm_campaign=1057&utm_source=git)** | Lake Mary, FL | On Site | Dec 30 |
 | **[HUB International](https://www.hubinternational.com)** | **[Summer Intern (HUB Internship Program)](https://jobright.ai/jobs/info/6954344b5bb7de448ef71e39?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Dec 30 |
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Medical Unit](https://jobright.ai/jobs/info/69543e67f1f8465b79eb5ad8?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Dec 30 |
+| **[Bellefaire JCB](http://www.bellefairejcb.org/)** | **[ILP Micro Internship (Fall 2026)](https://jobright.ai/jobs/info/69543e1ff1f8465b79eb5aaa?utm_campaign=1057&utm_source=git)** | Shaker Heights, OH | On Site | Dec 30 |
 | **[NexaYouth](https://nexayouth.com)** | **[Summer 2026 Programming Head](https://jobright.ai/jobs/info/69543ca15bb7de448ef7228f?utm_campaign=1057&utm_source=git)** | Seattle, WA | Hybrid | Dec 30 |
 | **[Boost Mobile](http://www.boostmobile.com/)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/69543ac2f1f8465b79eb5887?utm_campaign=1057&utm_source=git)** | Littleton, CO | On Site | Dec 30 |
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Commissioning Training Associate Internship](https://jobright.ai/jobs/info/695438275bb7de448ef7208e?utm_campaign=1057&utm_source=git)** | Lake Mary, FL | On Site | Dec 30 |
-| **[Maryland-National Capital Park and Planning Commission](https://www.mncppc.org)** | **[Summer Internship Program](https://jobright.ai/jobs/info/695429a3f1f8465b79eb4d48?utm_campaign=1057&utm_source=git)** | Greenbelt, MD | On Site | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
