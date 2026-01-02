@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Winfield Park District](http://www.winfieldparkdistrict.com)** | **[Internship](https://jobright.ai/jobs/info/695719e89f1b381eb2702a8c?utm_campaign=1057&utm_source=git)** | Winfield, IL | On Site | Jan 01 |
+| **[Axsome Therapeutics, Inc.](http://axsome.com)** | **[2026 Summer Intern: Clinical Development](https://jobright.ai/jobs/info/69571734f1f8465b79edd6fb?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 01 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Art Teacher & Intern - Elementary](https://jobright.ai/jobs/info/695701ac9f1b381eb2701d28?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Jan 01 |
 | ↳ | **[2025/2026 - Science Specialist Teacher and Interns - Elementary](https://jobright.ai/jobs/info/695701479f1b381eb2701d0d?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Jan 01 |
 | ↳ | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/695701389f1b381eb2701d09?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Jan 01 |
@@ -102,7 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Progressive Care Unit](https://jobright.ai/jobs/info/69564a0e9f1b381eb26f76c9?utm_campaign=1057&utm_source=git)** | Rutland, Vermont | On Site | Dec 31 |
 | ↳ | **[RN New Graduate Internship Program - Emergency Department](https://jobright.ai/jobs/info/69565093f1f8465b79ed3cd4?utm_campaign=1057&utm_source=git)** | Rutland, Vermont | On Site | Dec 31 |
 | ↳ | **[RN New Graduate Internship Program - Surgical Care Unit](https://jobright.ai/jobs/info/69565541f1f8465b79ed44a2?utm_campaign=1057&utm_source=git)** | Rutland, Vermont | On Site | Dec 31 |
-| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II - ME CV Step Down Unit Baptist Memphis](https://jobright.ai/jobs/info/695601ccf1f8465b79ecf4f4?utm_campaign=1057&utm_source=git)** | Memphis, TN | On Site | Dec 31 |
+| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II - ME CV Step Down Unit Baptist Memphis](https://jobright.ai/jobs/info/6956017ef1f8465b79ecf366?utm_campaign=1057&utm_source=git)** | Memphis, TN | On Site | Dec 31 |
 | **[BlackRock](http://www.blackrock.com)** | **[2026 Summer Internship Program - AMERS](https://jobright.ai/jobs/info/6955fd929f1b381eb26f3286?utm_campaign=1057&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Dec 31 |
 | **[Scott Family Amazeum](https://www.amazeum.org/)** | **[Summer Camp Intern](https://jobright.ai/jobs/info/6955ef08aa05c26e7ab02710?utm_campaign=1057&utm_source=git)** | Scott Family Amazeum - Bentonville, AR 72712 | On Site | Dec 31 |
 | **[Instructional ABA Consultants](https://www.iabaconsultants.com)** | **[RBT/Behavior Therapist - Paid internship available](https://jobright.ai/jobs/info/695666b9aa05c26e7ab09d1d?utm_campaign=1057&utm_source=git)** | 900 Waukegan Road, Glenview, IL, USA | On Site | Dec 31 |
@@ -141,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/69549ccf5bb7de448ef79422?utm_campaign=1057&utm_source=git)** | Alexandria, LA | On Site | Dec 30 |
 | **[Community Solutions, Inc. (CSI)](https://csi-online.org/)** | **[Intern, Non-Residential](https://jobright.ai/jobs/info/695494e9f1f8465b79ebc22a?utm_campaign=1057&utm_source=git)** | Torrington, CT | On Site | Dec 30 |
 | **[Community Reach Center](https://www.communityreachcenter.org)** | **[Unpaid Bilingual MSW Intern- Concentration year](https://jobright.ai/jobs/info/69548e9aaa05c26e7aaf0cc7?utm_campaign=1057&utm_source=git)** | Westminster, CO | On Site | Dec 30 |
-| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/69548dd85bb7de448ef7875f?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Dec 30 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Coordinator: International Baccalaureate DP/CP Site (School Based)](https://jobright.ai/jobs/info/69548a71f1f8465b79ebbc0f?utm_campaign=1057&utm_source=git)** | Annapolis, MD | On Site | Dec 30 |
 | **[KinderCare Learning Companies](http://www.kcecareers.com/)** | **[Teacher at International Leadership Texas](https://jobright.ai/jobs/info/695488e5aa05c26e7aaf0911?utm_campaign=1057&utm_source=git)** | Katy, TX | On Site | Dec 30 |
 | **[Cambria](http://www.cambriausa.com)** | **[Learning & Development Intern](https://jobright.ai/jobs/info/6954801ef1f8465b79ebb475?utm_campaign=1057&utm_source=git)** | Eden Prairie, MN | On Site | Dec 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hartford HealthCare](https://hartfordhealthcare.org)** | **[Student Intern - Family Resource Center (Per Diem)](https://jobright.ai/jobs/info/6954509bf1f8465b79eb8136?utm_campaign=1057&utm_source=git)** | Hartford, CT | On Site | Dec 30 |
 | **[Signal Theory Inc.](https://www.signaltheory.com)** | **[2026 Summer Internships](https://jobright.ai/jobs/info/69425365bdcf884a5ade37ef?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | Dec 30 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Climbing Arborist Internship / Oxford, MI](https://jobright.ai/jobs/info/695448ee5bb7de448ef743e7?utm_campaign=1057&utm_source=git)** | Oxford, MI | On Site | Dec 30 |
-| ↳ | **[Climbing Arborist Internship / Chesterfield, MI](https://jobright.ai/jobs/info/695445d4aa05c26e7aaec711?utm_campaign=1057&utm_source=git)** | New Baltimore, MI | On Site | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
