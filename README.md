@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Colorado State University](http://economics.colostate.edu/)** | **[CSFS Communications and Communities Intern](https://jobright.ai/jobs/info/695775349f1b381eb27077d1?utm_campaign=1057&utm_source=git)** | Fort Collins, CO | On Site | Jan 01 |
+| **[Wichita Public Schools - USD259](http://www.usd259.org)** | **[Temporary Aide - Education Co-op Student (2024-2025 School Year)](https://jobright.ai/jobs/info/6957747b9f1b381eb27077b6?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Jan 01 |
 | **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Dartmouth Hitchcock High School Foundations Summer Internship Program](https://jobright.ai/jobs/info/69575a919f1b381eb2706d94?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Jan 01 |
 | **[Thompson School District](https://www.thompsonschools.org)** | **[Math Tutor - Internship - High School](https://jobright.ai/jobs/info/69575684f1f8465b79ee2368?utm_campaign=1057&utm_source=git)** | Loveland, CO | On Site | Jan 01 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Director of International Student Support](https://jobright.ai/jobs/info/69572f76aa05c26e7ab14530?utm_campaign=1057&utm_source=git)** | Haverford, PA | Hybrid | Jan 01 |
@@ -109,7 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Progressive Care Unit](https://jobright.ai/jobs/info/69564a0e9f1b381eb26f76c9?utm_campaign=1057&utm_source=git)** | Rutland, Vermont | On Site | Dec 31 |
 | ↳ | **[RN New Graduate Internship Program - Emergency Department](https://jobright.ai/jobs/info/69565093f1f8465b79ed3cd4?utm_campaign=1057&utm_source=git)** | Rutland, Vermont | On Site | Dec 31 |
 | ↳ | **[RN New Graduate Internship Program - Surgical Care Unit](https://jobright.ai/jobs/info/69565541f1f8465b79ed44a2?utm_campaign=1057&utm_source=git)** | Rutland, Vermont | On Site | Dec 31 |
-| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II - ME CV Step Down Unit Baptist Memphis](https://jobright.ai/jobs/info/695601ccf1f8465b79ecf4f4?utm_campaign=1057&utm_source=git)** | Memphis, TN | On Site | Dec 31 |
+| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II - ME CV Step Down Unit Baptist Memphis](https://jobright.ai/jobs/info/6956017ef1f8465b79ecf366?utm_campaign=1057&utm_source=git)** | Memphis, TN | On Site | Dec 31 |
 | **[BlackRock](http://www.blackrock.com)** | **[2026 Summer Internship Program - AMERS](https://jobright.ai/jobs/info/6955fd929f1b381eb26f3286?utm_campaign=1057&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Dec 31 |
 | **[Scott Family Amazeum](https://www.amazeum.org/)** | **[Summer Camp Intern](https://jobright.ai/jobs/info/6955ef08aa05c26e7ab02710?utm_campaign=1057&utm_source=git)** | Scott Family Amazeum - Bentonville, AR 72712 | On Site | Dec 31 |
 | **[Instructional ABA Consultants](https://www.iabaconsultants.com)** | **[RBT/Behavior Therapist - Paid internship available](https://jobright.ai/jobs/info/695666b9aa05c26e7ab09d1d?utm_campaign=1057&utm_source=git)** | 900 Waukegan Road, Glenview, IL, USA | On Site | Dec 31 |
@@ -129,7 +131,6 @@ For a complete list, click the following sortable link below:
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Nuclear Training Technical Intern - Welch, MN](https://jobright.ai/jobs/info/694a04cb7d506e3808f52336?utm_campaign=1057&utm_source=git)** | Welch, MN | On Site | Dec 31 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern- Technology Communication](https://jobright.ai/jobs/info/68c8a730f9c6ff7aedf1118c?utm_campaign=1057&utm_source=git)** | Arlington, TX | Hybrid | Dec 31 |
 | **[West Shore Home](http://westshorehome.com)** | **[Learning & Development Internship (Summer 2026)](https://jobright.ai/jobs/info/6938d9f8aabec14a727dc5e1?utm_campaign=1057&utm_source=git)** | Harrisburg, PA | On Site | Dec 31 |
-| **[Digital Resilience Lab](https://www.digitalresiliencelab.com/)** | **[College Internship – Mental Health](https://jobright.ai/jobs/info/695409e7aa05c26e7aae8ed7?utm_campaign=1057&utm_source=git)** | United States | Remote | Dec 31 |
 | **[Perry Homes](http://perryhomes.com)** | **[Instructional Design Assistant (Part-Time Internship)](https://jobright.ai/jobs/info/6938afd0aabec14a727d9f96?utm_campaign=1057&utm_source=git)** | Texas, United States | On Site | Dec 31 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/691accc245fb6f5ead8ade03?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Dec 31 |
 | **[Rush University Medical Center](https://www.rush.edu/)** | **[Student Intern II-22463](https://jobright.ai/jobs/info/691be32215b4156367193c64?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Achieve Beyond](http://www.achievebeyondusa.com)** | **[Intern Behavior Therapist](https://jobright.ai/jobs/info/69553ef69f1b381eb26e9b5e?utm_campaign=1057&utm_source=git)** | White Plains, NY | On Site | Dec 30 |
 | **[Cummins Behavioral Health Systems, Inc](https://www.cumminsbhs.org)** | **[Masters Internship in Addictions SUD, Outpatient or School-based setting](https://jobright.ai/jobs/info/69546d035bb7de448ef75a0d?utm_campaign=1057&utm_source=git)** | Avon, IN | On Site | Dec 30 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Art Teacher & Intern - Elementary](https://jobright.ai/jobs/info/695464cff1f8465b79eb8e55?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 30 |
-| **[Florida East Coast Railway](http://www.fecrwy.com)** | **[Safety, Training & Instructional Design Intern](https://jobright.ai/jobs/info/695463acaa05c26e7aaedbbe?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
