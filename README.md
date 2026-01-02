@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Director of International Student Support](https://jobright.ai/jobs/info/69572f76aa05c26e7ab14530?utm_campaign=1057&utm_source=git)** | Haverford, PA | Hybrid | Jan 01 |
+| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/69572e2ef1f8465b79edfada?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 01 |
+| **[Axsome Therapeutics, Inc.](http://axsome.com)** | **[2026 Summer Intern: Clinical Development](https://jobright.ai/jobs/info/69572a0eaa05c26e7ab14388?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 01 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Coordinator: International Baccalaureate DP/CP Site (School Based)](https://jobright.ai/jobs/info/695725149f1b381eb2704206?utm_campaign=1057&utm_source=git)** | Annapolis, MD | On Site | Jan 01 |
 | **[Winfield Park District](http://www.winfieldparkdistrict.com)** | **[Internship](https://jobright.ai/jobs/info/695719e89f1b381eb2702a8c?utm_campaign=1057&utm_source=git)** | Winfield, IL | On Site | Jan 01 |
-| **[Axsome Therapeutics, Inc.](http://axsome.com)** | **[2026 Summer Intern: Clinical Development](https://jobright.ai/jobs/info/69571734f1f8465b79edd6fb?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 01 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Art Teacher & Intern - Elementary](https://jobright.ai/jobs/info/695701ac9f1b381eb2701d28?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Jan 01 |
 | ↳ | **[2025/2026 - Science Specialist Teacher and Interns - Elementary](https://jobright.ai/jobs/info/695701479f1b381eb2701d0d?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Jan 01 |
 | ↳ | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/695701389f1b381eb2701d09?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Jan 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Florida East Coast Railway](http://www.fecrwy.com)** | **[Safety, Training & Instructional Design Intern](https://jobright.ai/jobs/info/695463acaa05c26e7aaedbbe?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Dec 30 |
 | **[LEARN Behavioral](https://learnbehavioral.com/)** | **[Intern Teacher](https://jobright.ai/jobs/info/69546269aa05c26e7aaedaf3?utm_campaign=1057&utm_source=git)** | Cockeysville, MD | On Site | Dec 30 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/69545c935bb7de448ef7536f?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 30 |
-| **[Hartford HealthCare](https://hartfordhealthcare.org)** | **[Student Intern - Family Resource Center (Per Diem)](https://jobright.ai/jobs/info/6954509bf1f8465b79eb8136?utm_campaign=1057&utm_source=git)** | Hartford, CT | On Site | Dec 30 |
-| **[Signal Theory Inc.](https://www.signaltheory.com)** | **[2026 Summer Internships](https://jobright.ai/jobs/info/69425365bdcf884a5ade37ef?utm_campaign=1057&utm_source=git)** | Kansas City, MO | On Site | Dec 30 |
-| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Climbing Arborist Internship / Oxford, MI](https://jobright.ai/jobs/info/695448ee5bb7de448ef743e7?utm_campaign=1057&utm_source=git)** | Oxford, MI | On Site | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
