@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marriott International](https://www.marriott.com/hotels/travel/mkeak-hotel-metro-autograph-collection/)** | **[Operations University Intern US](https://jobright.ai/jobs/info/69583941aa05c26e7ab2201a?utm_campaign=1057&utm_source=git)** | 201 Park Ave S, New York, NY, 10003, US | On Site | Jan 02 |
+| **[Sandstone Care](https://www.sandstonecare.com)** | **[Clinical Internship](https://jobright.ai/jobs/info/69126ed0ea9ab01b82bf29ec?utm_campaign=1057&utm_source=git)** | Sandstone Care - Cascade, Colorado | On Site | Jan 02 |
+| **[Syracuse City School District](http://www.syracusecityschools.com/)** | **[Administrative Intern (2026-2027)](https://jobright.ai/jobs/info/695834a99f1b381eb2711107?utm_campaign=1057&utm_source=git)** | Syracuse, United States | On Site | Jan 02 |
+| **[Georgetown University](http://www.georgetown.edu)** | **[Graduate Intern, Summer and Special Programs Georgetown University](https://jobright.ai/jobs/info/6958262eaa05c26e7ab2059e?utm_campaign=1057&utm_source=git)** | Washington, DC | On Site | Jan 02 |
 | **[Spotsylvania County Public Schools](https://www.spotsylvania.k12.va.us)** | **[Elementary Administrative Intern - 26/27 SY](https://jobright.ai/jobs/info/69580a31aa05c26e7ab1f77a?utm_campaign=1057&utm_source=git)** | Fredericksburg, VA | On Site | Jan 02 |
 | **[St. Joseph's Healthcare Hamilton](https://www.stjoes.ca/)** | **[Nurse Educator - General Internal Medicine/Critical Care](https://jobright.ai/jobs/info/69581920aa05c26e7ab1fc7d?utm_campaign=1057&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Jan 02 |
 | **[Lee Health](http://www.leehealth.org/)** | **[Intern/RN New Graduate Nurse Residency](https://jobright.ai/jobs/info/6957db019f1b381eb270cffc?utm_campaign=1057&utm_source=git)** | Fort Myers, FL | On Site | Jan 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[West Shore Home](http://westshorehome.com)** | **[Learning & Development Internship (Summer 2026)](https://jobright.ai/jobs/info/6938d9f8aabec14a727dc5e1?utm_campaign=1057&utm_source=git)** | Harrisburg, PA | On Site | Dec 31 |
 | **[Perry Homes](http://perryhomes.com)** | **[Instructional Design Assistant (Part-Time Internship)](https://jobright.ai/jobs/info/6938afd0aabec14a727d9f96?utm_campaign=1057&utm_source=git)** | Texas, United States | On Site | Dec 31 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/691accc245fb6f5ead8ade03?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Dec 31 |
-| **[Rush University Medical Center](https://www.rush.edu/)** | **[Student Intern II-22463](https://jobright.ai/jobs/info/691be32215b4156367193c64?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 31 |
-| **[Frost](https://www.frostbank.com/)** | **[College Summer Internship - Corpus Christi](https://jobright.ai/jobs/info/6938ee90a0dde7020e318bf3?utm_campaign=1057&utm_source=git)** | Corpus Christi, TX | On Site | Dec 31 |
-| **[Rush University Medical Center](https://www.rush.edu/)** | **[Student Intern I-22502](https://jobright.ai/jobs/info/691bf20dbcdbf3560c9e43a6?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 31 |
-| **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Assistant Director of Clinical Nutrition and Dietetic Internship Director](https://jobright.ai/jobs/info/69228838c0cefa13343d8275?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Dec 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
