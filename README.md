@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Design Workshop](https://www.designworkshop.com/)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/6958e335f1f8465b79ef80cd?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jan 03 |
+| ↳ | **[2026 Summer Internship](https://jobright.ai/jobs/info/6958e2d0f1f8465b79ef8006?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Jan 03 |
+| ↳ | **[2026 Summer Internship](https://jobright.ai/jobs/info/6958e0509f1b381eb271c174?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Jan 03 |
+| ↳ | **[2026 Summer Internship](https://jobright.ai/jobs/info/6958df719f1b381eb271bf94?utm_campaign=1057&utm_source=git)** | Basalt, CO | On Site | Jan 03 |
+| ↳ | **[2026 Summer Internship](https://jobright.ai/jobs/info/6958dd30aa05c26e7ab2bcd7?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jan 03 |
 | **[Stanford Health Care](https://stanfordhealthcare.org)** | **[Summer 2026 Administrative Internship – Undergraduate (Hybrid)](https://jobright.ai/jobs/info/6958c50eaa05c26e7ab2a893?utm_campaign=1057&utm_source=git)** | Palo Alto, CA | Hybrid | Jan 02 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/6958bc93aa05c26e7ab29e4b?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Jan 02 |
-| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6958adc99f1b381eb2717c72?utm_campaign=1057&utm_source=git)** | Broomfield, CO | On Site | Jan 02 |
-| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6958aaa39f1b381eb2717bd6?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | Jan 02 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6958980baa05c26e7ab272a3?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | Jan 02 |
+| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6958adc99f1b381eb2717c72?utm_campaign=1057&utm_source=git)** | Broomfield, CO | On Site | Jan 02 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6958a96c9f1b381eb2717b8a?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Jan 02 |
 | **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Dartmouth Hitchcock High School Foundations Summer Internship Program](https://jobright.ai/jobs/info/6958bc10f1f8465b79ef54e5?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Jan 02 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/69588106f1f8465b79ef1e3c?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 02 |
@@ -87,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Spotsylvania County Public Schools](https://www.spotsylvania.k12.va.us)** | **[Elementary Administrative Intern - 26/27 SY](https://jobright.ai/jobs/info/69580a31aa05c26e7ab1f77a?utm_campaign=1057&utm_source=git)** | Fredericksburg, VA | On Site | Jan 02 |
 | **[St. Joseph's Healthcare Hamilton](https://www.stjoes.ca/)** | **[Nurse Educator - General Internal Medicine/Critical Care](https://jobright.ai/jobs/info/69581920aa05c26e7ab1fc7d?utm_campaign=1057&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Jan 02 |
 | **[Lee Health](http://www.leehealth.org/)** | **[Intern/RN New Graduate Nurse Residency](https://jobright.ai/jobs/info/6957db019f1b381eb270cffc?utm_campaign=1057&utm_source=git)** | Fort Myers, FL | On Site | Jan 02 |
+| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/6957d7f59f1b381eb270cf22?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 02 |
 | **[Tech Academy](http://techacademymn.com/)** | **[STEM Summer Coding & Robotics Instructor, Internship](https://jobright.ai/jobs/info/6957d3cdaa05c26e7ab1cd1c?utm_campaign=1057&utm_source=git)** | Plymouth, MN | On Site | Jan 02 |
 | ↳ | **[Computer Science, Technology - Summer STEM Instructor / Assistant (Internship)](https://jobright.ai/jobs/info/6957d348aa05c26e7ab1ccfa?utm_campaign=1057&utm_source=git)** | Overland Park, KS | On Site | Jan 02 |
 | ↳ | **[Summer STEM Instructor/Intern (Coding, Robotics, Engineering)](https://jobright.ai/jobs/info/6957d0e39f1b381eb270cce4?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Jan 02 |
@@ -117,15 +123,12 @@ For a complete list, click the following sortable link below:
 | **[MacAllister® Surface Prep](http://www.macallistersurfaceprep.com)** | **[Summer College Internship 2026 - Information Technology](https://jobright.ai/jobs/info/69578d07f1f8465b79ee43a9?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Jan 02 |
 | **[Adventist HealthCare](https://www.adventisthealthcare.com)** | **[Lourie Center Intern, PT Weekdays, The Lourie Center](https://jobright.ai/jobs/info/69577dccf1f8465b79ee3389?utm_campaign=1057&utm_source=git)** | Rockville, MD | On Site | Jan 02 |
 | **[Colorado State University](http://www.colostate.edu/)** | **[CSFS Communications and Communities Intern](https://jobright.ai/jobs/info/695775349f1b381eb27077d1?utm_campaign=1057&utm_source=git)** | Fort Collins, CO | On Site | Jan 01 |
-| **[Wichita Public Schools - USD259](http://www.usd259.org)** | **[Temporary Aide - Education Co-op Student (2024-2025 School Year)](https://jobright.ai/jobs/info/6957747b9f1b381eb27077b6?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Jan 01 |
 | **[Thompson School District](https://www.thompsonschools.org)** | **[Math Tutor - Internship - High School](https://jobright.ai/jobs/info/69575684f1f8465b79ee2368?utm_campaign=1057&utm_source=git)** | Loveland, CO | On Site | Jan 01 |
-| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/69572e2ef1f8465b79edfada?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 01 |
 | **[Axsome Therapeutics, Inc.](http://axsome.com)** | **[2026 Summer Intern: Clinical Development](https://jobright.ai/jobs/info/69572a0eaa05c26e7ab14388?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 01 |
 | ↳ | **[2026 Summer Intern: Clinical Development](https://jobright.ai/jobs/info/69571734f1f8465b79edd6fb?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 01 |
 | **[Winfield Park District](http://www.winfieldparkdistrict.com)** | **[Internship](https://jobright.ai/jobs/info/695719e89f1b381eb2702a8c?utm_campaign=1057&utm_source=git)** | Winfield, IL | On Site | Jan 01 |
 | **[COCM](http://www.cocm.com)** | **[Lead Summer Assistant (Student Position)](https://jobright.ai/jobs/info/695847f6f1f8465b79eeeac3?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Jan 01 |
 | ↳ | **[Summer Assistant (Student Position)](https://jobright.ai/jobs/info/695848f2f1f8465b79eeeb2d?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Jan 01 |
-| **[City of Waukee](http://www.waukee.org/)** | **[Parks & Recreation Intern (Summer 2026)](https://jobright.ai/jobs/info/695787f59f1b381eb27082a1?utm_campaign=1057&utm_source=git)** | Waukee, IA | On Site | Jan 01 |
 | **[Tacoma Community College](http://www.tacomacc.edu/)** | **[Student Programming, Government and Ambassadors](https://jobright.ai/jobs/info/6956efd19f1b381eb2701af4?utm_campaign=1057&utm_source=git)** | Tacoma, WA | On Site | Jan 01 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Child Care Assistant (Developmental) (3) – 6575](https://jobright.ai/jobs/info/6956ddfdaa05c26e7ab1193a?utm_campaign=1057&utm_source=git)** | Kodiak, AK | On Site | Jan 01 |
 | **[University of Washington](http://www.washington.edu)** | **[Teaching Tomorrow Intern](https://jobright.ai/jobs/info/6956dd34aa05c26e7ab111e5?utm_campaign=1057&utm_source=git)** | United States | Remote | Jan 01 |
@@ -153,8 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Education Through Music](https://etmonline.org)** | **[Music Teacher Intern](https://jobright.ai/jobs/info/69569ed4f1f8465b79ed8953?utm_campaign=1057&utm_source=git)** | New York, New York | On Site | Jan 01 |
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Medical Unit](https://jobright.ai/jobs/info/69562cdcaa05c26e7ab0689f?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Jan 01 |
 | ↳ | **[RN New Graduate Internship Program - Progressive Care Unit](https://jobright.ai/jobs/info/69562b0ff1f8465b79ed1c36?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Jan 01 |
-| **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Surgical Care Unit](https://jobright.ai/jobs/info/695622cb9f1b381eb26f5ece?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Dec 31 |
-| ↳ | **[RN New Graduate Internship Program - Emergency Department](https://jobright.ai/jobs/info/6956201ef1f8465b79ed135f?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Dec 31 |
-| **[CNH](http://www.cnhindustrial.com)** | **[Commercial Training Intern](https://jobright.ai/jobs/info/69561b82f1f8465b79ed0e40?utm_campaign=1057&utm_source=git)** | Racine County, WI | On Site | Dec 31 |
-| **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Medical Unit](https://jobright.ai/jobs/info/695649da9f1b381eb26f7660?utm_campaign=1057&utm_source=git)** | Rutland, Vermont | On Site | Dec 31 |
+| **[Behavioral Health Resources](http://www.bhr.org/)** | **[Adult Therapist Internship](https://jobright.ai/jobs/info/6958d399f1f8465b79ef6a16?utm_campaign=1057&utm_source=git)** | Hoquiam, WA | On Site | Dec 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
