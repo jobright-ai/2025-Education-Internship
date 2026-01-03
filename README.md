@@ -57,10 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/695898b0aa05c26e7ab272ca?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Jan 02 |
-| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6958980baa05c26e7ab272a3?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | Jan 02 |
+| **[Stanford Health Care](https://stanfordhealthcare.org)** | **[Summer 2026 Administrative Internship – Undergraduate (Hybrid)](https://jobright.ai/jobs/info/6958c50eaa05c26e7ab2a893?utm_campaign=1057&utm_source=git)** | Palo Alto, CA | Hybrid | Jan 02 |
+| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/6958bc93aa05c26e7ab29e4b?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Jan 02 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6958adc99f1b381eb2717c72?utm_campaign=1057&utm_source=git)** | Broomfield, CO | On Site | Jan 02 |
+| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6958aaa39f1b381eb2717bd6?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | Jan 02 |
+| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6958a96c9f1b381eb2717b8a?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Jan 02 |
+| **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Dartmouth Hitchcock High School Foundations Summer Internship Program](https://jobright.ai/jobs/info/6958bc10f1f8465b79ef54e5?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Jan 02 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/69588106f1f8465b79ef1e3c?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 02 |
+| **[San Jacinto College](http://www.sanjac.edu/)** | **[Student Records Specialist](https://jobright.ai/jobs/info/6958af589f1b381eb2717cc4?utm_campaign=1057&utm_source=git)** | Houston, TX | Hybrid | Jan 02 |
+| **[Nexus Family Healing](https://www.nexusfamilyhealing.org)** | **[Intern](https://jobright.ai/jobs/info/6958bad0aa05c26e7ab29db8?utm_campaign=1057&utm_source=git)** | Austin, MN | On Site | Jan 02 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Nursing (Summer)](https://jobright.ai/jobs/info/6958770baa05c26e7ab260a3?utm_campaign=1057&utm_source=git)** | Yankton, SD | On Site | Jan 02 |
+| **[California State University, Los Angeles](http://www.calstatela.edu)** | **[Experiential Learning Analyst](https://jobright.ai/jobs/info/6958b9c4aa05c26e7ab29a04?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jan 02 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Science Specialist Teacher and Interns - Elementary](https://jobright.ai/jobs/info/695864779f1b381eb271407a?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Jan 02 |
 | ↳ | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/695863d6f1f8465b79eef619?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Jan 02 |
 | ↳ | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/695862bc9f1b381eb2713fdd?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Jan 02 |
@@ -123,7 +130,6 @@ For a complete list, click the following sortable link below:
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Child Care Assistant (Developmental) (3) – 6575](https://jobright.ai/jobs/info/6956ddfdaa05c26e7ab1193a?utm_campaign=1057&utm_source=git)** | Kodiak, AK | On Site | Jan 01 |
 | **[University of Washington](http://www.washington.edu)** | **[Teaching Tomorrow Intern](https://jobright.ai/jobs/info/6956dd34aa05c26e7ab111e5?utm_campaign=1057&utm_source=git)** | United States | Remote | Jan 01 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Weather Intern (In person) Spring 2026](https://jobright.ai/jobs/info/68eca48bc26b9574506f5e4b?utm_campaign=1057&utm_source=git)** | Mobile, AL | On Site | Jan 01 |
-| **[Blount Fine Foods](http://blountfinefoods.com)** | **[T&D Intern](https://jobright.ai/jobs/info/6956cff3aa05c26e7ab0fbc9?utm_campaign=1057&utm_source=git)** | Warren, RI | On Site | Jan 01 |
 | **[BitNest Solutions](https://www.linkedin.com/company/91022948)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/6956bc929f1b381eb26ff2d0?utm_campaign=1057&utm_source=git)** | Racine, WI | On Site | Jan 01 |
 | **[University of Illinois Springfield](http://www.uis.edu/)** | **[Program Director of Interns and Education, IIP](https://jobright.ai/jobs/info/6958068cf1f8465b79eeac67?utm_campaign=1057&utm_source=git)** | Springfield, IL | On Site | Jan 01 |
 | **[Mount Sinai Medical Center](https://www.msmc.com/)** | **[Registered Nurse Intern-Acute Care](https://jobright.ai/jobs/info/69568aaff1f8465b79ed802e?utm_campaign=1057&utm_source=git)** | Miami Beach, FL | On Site | Jan 01 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[RN New Graduate Internship Program - Emergency Department](https://jobright.ai/jobs/info/6956201ef1f8465b79ed135f?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Dec 31 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Commercial Training Intern](https://jobright.ai/jobs/info/69561b82f1f8465b79ed0e40?utm_campaign=1057&utm_source=git)** | Racine County, WI | On Site | Dec 31 |
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Medical Unit](https://jobright.ai/jobs/info/695649da9f1b381eb26f7660?utm_campaign=1057&utm_source=git)** | Rutland, Vermont | On Site | Dec 31 |
-| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/6956184bf1f8465b79ed0cba?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Dec 31 |
-| **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Progressive Care Unit](https://jobright.ai/jobs/info/69564a0e9f1b381eb26f76c9?utm_campaign=1057&utm_source=git)** | Rutland, Vermont | On Site | Dec 31 |
-| ↳ | **[RN New Graduate Internship Program - Emergency Department](https://jobright.ai/jobs/info/69565093f1f8465b79ed3cd4?utm_campaign=1057&utm_source=git)** | Rutland, Vermont | On Site | Dec 31 |
-| ↳ | **[RN New Graduate Internship Program - Surgical Care Unit](https://jobright.ai/jobs/info/69565541f1f8465b79ed44a2?utm_campaign=1057&utm_source=git)** | Rutland, Vermont | On Site | Dec 31 |
-| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II - ME CV Step Down Unit Baptist Memphis](https://jobright.ai/jobs/info/6956017ef1f8465b79ecf366?utm_campaign=1057&utm_source=git)** | Memphis, TN | On Site | Dec 31 |
-| **[BlackRock](http://www.blackrock.com)** | **[2026 Summer Internship Program - AMERS](https://jobright.ai/jobs/info/6955fd929f1b381eb26f3286?utm_campaign=1057&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Dec 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
