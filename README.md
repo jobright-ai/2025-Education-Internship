@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Science Specialist Teacher and Interns - Elementary](https://jobright.ai/jobs/info/695864779f1b381eb271407a?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Jan 02 |
+| ↳ | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/695863d6f1f8465b79eef619?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Jan 02 |
+| ↳ | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/695862bc9f1b381eb2713fdd?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Jan 02 |
+| ↳ | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/69585c9faa05c26e7ab23c94?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Jan 02 |
+| ↳ | **[2025/2026 - Art Teacher & Intern - Elementary](https://jobright.ai/jobs/info/69586ad5aa05c26e7ab24dd0?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Jan 02 |
+| ↳ | **[2025/2026 - Art Teacher & Intern - Secondary](https://jobright.ai/jobs/info/69586a58aa05c26e7ab24db1?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Jan 02 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69584598f1f8465b79eee98a?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jan 02 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/695842b69f1b381eb27131ab?utm_campaign=1057&utm_source=git)** | Leander, TX | On Site | Jan 02 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69583ee7aa05c26e7ab22e54?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jan 02 |
@@ -69,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Spotsylvania County Public Schools](https://www.spotsylvania.k12.va.us)** | **[Elementary Administrative Intern - 26/27 SY](https://jobright.ai/jobs/info/69580a31aa05c26e7ab1f77a?utm_campaign=1057&utm_source=git)** | Fredericksburg, VA | On Site | Jan 02 |
 | **[St. Joseph's Healthcare Hamilton](https://www.stjoes.ca/)** | **[Nurse Educator - General Internal Medicine/Critical Care](https://jobright.ai/jobs/info/69581920aa05c26e7ab1fc7d?utm_campaign=1057&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Jan 02 |
 | **[Lee Health](http://www.leehealth.org/)** | **[Intern/RN New Graduate Nurse Residency](https://jobright.ai/jobs/info/6957db019f1b381eb270cffc?utm_campaign=1057&utm_source=git)** | Fort Myers, FL | On Site | Jan 02 |
+| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/6957d7f59f1b381eb270cf22?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 02 |
 | **[Tech Academy](http://techacademymn.com/)** | **[STEM Summer Coding & Robotics Instructor, Internship](https://jobright.ai/jobs/info/6957d3cdaa05c26e7ab1cd1c?utm_campaign=1057&utm_source=git)** | Plymouth, MN | On Site | Jan 02 |
 | ↳ | **[Computer Science, Technology - Summer STEM Instructor / Assistant (Internship)](https://jobright.ai/jobs/info/6957d348aa05c26e7ab1ccfa?utm_campaign=1057&utm_source=git)** | Overland Park, KS | On Site | Jan 02 |
 | ↳ | **[Summer STEM Instructor/Intern (Coding, Robotics, Engineering)](https://jobright.ai/jobs/info/6957d0e39f1b381eb270cce4?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Jan 02 |
@@ -101,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[Colorado State University](http://www.colostate.edu/)** | **[CSFS Communications and Communities Intern](https://jobright.ai/jobs/info/695775349f1b381eb27077d1?utm_campaign=1057&utm_source=git)** | Fort Collins, CO | On Site | Jan 01 |
 | **[Wichita Public Schools - USD259](http://www.usd259.org)** | **[Temporary Aide - Education Co-op Student (2024-2025 School Year)](https://jobright.ai/jobs/info/6957747b9f1b381eb27077b6?utm_campaign=1057&utm_source=git)** | Wichita, KS | On Site | Jan 01 |
 | **[Thompson School District](https://www.thompsonschools.org)** | **[Math Tutor - Internship - High School](https://jobright.ai/jobs/info/69575684f1f8465b79ee2368?utm_campaign=1057&utm_source=git)** | Loveland, CO | On Site | Jan 01 |
-| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/69572e2ef1f8465b79edfada?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 01 |
 | **[Axsome Therapeutics, Inc.](http://axsome.com)** | **[2026 Summer Intern: Clinical Development](https://jobright.ai/jobs/info/69572a0eaa05c26e7ab14388?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 01 |
 | ↳ | **[2026 Summer Intern: Clinical Development](https://jobright.ai/jobs/info/69571734f1f8465b79edd6fb?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 01 |
 | **[Winfield Park District](http://www.winfieldparkdistrict.com)** | **[Internship](https://jobright.ai/jobs/info/695719e89f1b381eb2702a8c?utm_campaign=1057&utm_source=git)** | Winfield, IL | On Site | Jan 01 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Instructional ABA Consultants](https://www.iabaconsultants.com)** | **[RBT/Behavior Therapist - Paid internship available](https://jobright.ai/jobs/info/695666b9aa05c26e7ab09d1d?utm_campaign=1057&utm_source=git)** | 900 Waukegan Road, Glenview, IL, USA | On Site | Dec 31 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/6955cb879f1b381eb26ef778?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Dec 31 |
 | **[Prairie View A&M University](http://pvam.edu)** | **[Lecturer I ( Human Nutrition and Food/Dietetics Internship Program)](https://jobright.ai/jobs/info/6955c263f1f8465b79ecac19?utm_campaign=1057&utm_source=git)** | Prairie View, TX | On Site | Dec 31 |
-| **[Southeast Missouri State University](http://www.semo.edu/)** | **[Academic Advisor I - Sikeston Regional Campus - Internal to University Only](https://jobright.ai/jobs/info/6955bd699f1b381eb26ef256?utm_campaign=1057&utm_source=git)** | Cape Girardeau, MO | On Site | Dec 31 |
-| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II Full Time - ED](https://jobright.ai/jobs/info/69392b1aac80bb5492bbc582?utm_campaign=1057&utm_source=git)** | West Memphis, AR | On Site | Dec 31 |
-| ↳ | **[Intern-Nurse II - ME CV Step Down Unit Baptist Memphis](https://jobright.ai/jobs/info/6955ca6ff1f8465b79ecaf79?utm_campaign=1057&utm_source=git)** | 6019 Walnut Grove Road, Memphis, TN, 38120, US | On Site | Dec 31 |
-| **[Behavioral Health Resources](http://www.bhr.org/)** | **[Adult Therapist Internship](https://jobright.ai/jobs/info/6955bac5f1f8465b79ecaa4b?utm_campaign=1057&utm_source=git)** | Elma, WA | On Site | Dec 31 |
-| **[FOX Sports](http://foxsports.com)** | **[Summer 2026 Big Ten Network Internship Program - Chicago](https://jobright.ai/jobs/info/691b8dc122a2cb4b9bd138e0?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Dec 31 |
-| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Student Advisor I](https://jobright.ai/jobs/info/695544c3aa05c26e7aafa308?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Dec 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
