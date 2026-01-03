@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Internal Training Intern](https://jobright.ai/jobs/info/69207f3800c9ee50eaec4961?utm_campaign=1057&utm_source=git)** | Dayton Metropolitan Area | On Site | Jan 03 |
+| **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern - Scientific Communications](https://jobright.ai/jobs/info/691fb84409cc522e87744bcf?utm_campaign=1057&utm_source=git)** | Headquarters, NJ | Hybrid | Jan 03 |
 | **[Design Workshop](https://www.designworkshop.com/)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/6958e335f1f8465b79ef80cd?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jan 03 |
 | ↳ | **[2026 Summer Internship](https://jobright.ai/jobs/info/6958e2d0f1f8465b79ef8006?utm_campaign=1057&utm_source=git)** | Raleigh, NC | On Site | Jan 03 |
 | ↳ | **[2026 Summer Internship](https://jobright.ai/jobs/info/6958e0509f1b381eb271c174?utm_campaign=1057&utm_source=git)** | Austin, TX | On Site | Jan 03 |
@@ -64,9 +66,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Internship](https://jobright.ai/jobs/info/6958dd30aa05c26e7ab2bcd7?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jan 03 |
 | **[Stanford Health Care](https://stanfordhealthcare.org)** | **[Summer 2026 Administrative Internship – Undergraduate (Hybrid)](https://jobright.ai/jobs/info/6958c50eaa05c26e7ab2a893?utm_campaign=1057&utm_source=git)** | Palo Alto, CA | Hybrid | Jan 02 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/6958bc93aa05c26e7ab29e4b?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Jan 02 |
-| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6958980baa05c26e7ab272a3?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | Jan 02 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69589d7faa05c26e7ab273d8?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Jan 02 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6958adc99f1b381eb2717c72?utm_campaign=1057&utm_source=git)** | Broomfield, CO | On Site | Jan 02 |
-| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6958a96c9f1b381eb2717b8a?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Jan 02 |
+| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6958aaa39f1b381eb2717bd6?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | Jan 02 |
 | **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Dartmouth Hitchcock High School Foundations Summer Internship Program](https://jobright.ai/jobs/info/6958bc10f1f8465b79ef54e5?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Jan 02 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/69588106f1f8465b79ef1e3c?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 02 |
 | **[San Jacinto College](http://www.sanjac.edu/)** | **[Student Records Specialist](https://jobright.ai/jobs/info/6958af589f1b381eb2717cc4?utm_campaign=1057&utm_source=git)** | Houston, TX | Hybrid | Jan 02 |
@@ -144,7 +146,6 @@ For a complete list, click the following sortable link below:
 | **[Clarios](https://www.clarios.com/)** | **[Learning & Development Intern (Summer 2026)](https://jobright.ai/jobs/info/690130b04539ea1f2141daf1?utm_campaign=1057&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 01 |
 | **[Vaccine and Infectious Disease Organization (VIDO)](https://www.vido.org/)** | **[Undergraduate Research Fellowship Student](https://jobright.ai/jobs/info/6939af85ac80bb5492bc273d?utm_campaign=1057&utm_source=git)** | Saskatoon, Saskatchewan, Canada | On Site | Jan 01 |
 | **[Child Mind Institute](http://childmind.org)** | **[2026 Clinical Summer Internship Program](https://jobright.ai/jobs/info/6901913a4539ea1f2142152c?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 01 |
-| **[Monte Nido Walden](https://www.waldeneatingdisorders.com)** | **[Walden - Clinical Internship](https://jobright.ai/jobs/info/693a1872ac80bb5492bc9838?utm_campaign=1057&utm_source=git)** | Waltham, MA | On Site | Jan 01 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68cf5b75846f0b04af6817fd?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jan 01 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (Outpatient Mental Health Clinics- Gaithersburg) 2026 Counseling/Social Work Fieldwork](https://jobright.ai/jobs/info/691d0e4bbcdbf3560c9ecc41?utm_campaign=1057&utm_source=git)** | Gaithersburg, MD | On Site | Jan 01 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Nurse Intern, Med/Surg - 4 MCVI, PT, 07P-7:30A](https://jobright.ai/jobs/info/6939f53456b68f3dc4e7446a?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Jan 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Education Through Music](https://etmonline.org)** | **[Music Teacher Intern](https://jobright.ai/jobs/info/69569ed4f1f8465b79ed8953?utm_campaign=1057&utm_source=git)** | New York, New York | On Site | Jan 01 |
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Medical Unit](https://jobright.ai/jobs/info/69562cdcaa05c26e7ab0689f?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Jan 01 |
 | ↳ | **[RN New Graduate Internship Program - Progressive Care Unit](https://jobright.ai/jobs/info/69562b0ff1f8465b79ed1c36?utm_campaign=1057&utm_source=git)** | Rutland, VT | On Site | Jan 01 |
-| **[Behavioral Health Resources](http://www.bhr.org/)** | **[Adult Therapist Internship](https://jobright.ai/jobs/info/6958d399f1f8465b79ef6a16?utm_campaign=1057&utm_source=git)** | Hoquiam, WA | On Site | Dec 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
