@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Education Through Music](https://etmonline.org)** | **[Music Teacher Intern](https://jobright.ai/jobs/info/695a745aaa05c26e7ab41254?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 04 |
+| **[Silver Grove](https://www.linkedin.com/company/108604766)** | **[Intern](https://jobright.ai/jobs/info/695ab99af1f8465b79f0eef0?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jan 04 |
+| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/695aaa64aa05c26e7ab43541?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Jan 04 |
+| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/695a7624f1f8465b79f0c9cc?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 04 |
 | **[Westerly Hospital](https://westerlyhospital.org)** | **[Registered Nurse Anesthetist Intern](https://jobright.ai/jobs/info/695a6fedf1f8465b79f0c3e8?utm_campaign=1057&utm_source=git)** | New Haven, CT | On Site | Jan 04 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Transformation Intern (May – August 2026)](https://jobright.ai/jobs/info/6920e6763f782d2f1afcca28?utm_campaign=1057&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jan 04 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Senior Training Representative (SkillBridge Intern) - 22517](https://jobright.ai/jobs/info/6859fab96471dc27ac2cb8fa?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Jan 04 |
@@ -76,7 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Vetted Solutions](https://www.linkedin.com/company/109148917)** | **[Speech-Language Pathologist or CF Intern](https://jobright.ai/jobs/info/695a1784f1f8465b79f06b5c?utm_campaign=1057&utm_source=git)** | Big Spring, TX | Hybrid | Jan 03 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Business Professional Development Program Student Ambassador](https://jobright.ai/jobs/info/695a13e6aa05c26e7ab3b159?utm_campaign=1057&utm_source=git)** | Topeka Metropolitan Area | On Site | Jan 03 |
 | **[World Relief](https://worldrelief.org/)** | **[ESL Literacy Teaching Assistant Intern](https://jobright.ai/jobs/info/6959fcd6f1f8465b79f05efd?utm_campaign=1057&utm_source=git)** | Sacramento, CA | Remote | Jan 03 |
-| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/6959d2359f1b381eb2728223?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 03 |
+| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/6959a419aa05c26e7ab3584f?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Jan 03 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69598ddef1f8465b79f00d7c?utm_campaign=1057&utm_source=git)** | Redmond, WA | On Site | Jan 03 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69598db6f1f8465b79f00d76?utm_campaign=1057&utm_source=git)** | Soquel, CA | On Site | Jan 03 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69598d8cf1f8465b79f00d6e?utm_campaign=1057&utm_source=git)** | Daly City, CA | On Site | Jan 03 |
@@ -121,17 +123,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Internship](https://jobright.ai/jobs/info/6958df719f1b381eb271bf94?utm_campaign=1057&utm_source=git)** | Basalt, CO | On Site | Jan 03 |
 | ↳ | **[2026 Summer Internship](https://jobright.ai/jobs/info/6958dd30aa05c26e7ab2bcd7?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jan 03 |
 | **[Stanford Health Care](https://stanfordhealthcare.org)** | **[Summer 2026 Administrative Internship – Undergraduate (Hybrid)](https://jobright.ai/jobs/info/6958c50eaa05c26e7ab2a893?utm_campaign=1057&utm_source=git)** | Palo Alto, CA | Hybrid | Jan 02 |
-| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/6958bc93aa05c26e7ab29e4b?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Jan 02 |
-| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69589d7faa05c26e7ab273d8?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Jan 02 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6958980baa05c26e7ab272a3?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | Jan 02 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6958adc99f1b381eb2717c72?utm_campaign=1057&utm_source=git)** | Broomfield, CO | On Site | Jan 02 |
-| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6958aaa39f1b381eb2717bd6?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | Jan 02 |
+| ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6958a96c9f1b381eb2717b8a?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Jan 02 |
 | **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Dartmouth Hitchcock High School Foundations Summer Internship Program](https://jobright.ai/jobs/info/6958bc10f1f8465b79ef54e5?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Jan 02 |
 | **[San Jacinto College](http://www.sanjac.edu/)** | **[Student Records Specialist](https://jobright.ai/jobs/info/6959d95f9f1b381eb2728593?utm_campaign=1057&utm_source=git)** | Houston, TX | Hybrid | Jan 02 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/69588106f1f8465b79ef1e3c?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 02 |
 | **[Nexus Family Healing](https://www.nexusfamilyhealing.org)** | **[Intern](https://jobright.ai/jobs/info/6958bad0aa05c26e7ab29db8?utm_campaign=1057&utm_source=git)** | Austin, MN | On Site | Jan 02 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Nursing (Summer)](https://jobright.ai/jobs/info/6958770baa05c26e7ab260a3?utm_campaign=1057&utm_source=git)** | Yankton, SD | On Site | Jan 02 |
 | **[California State University, Los Angeles](http://www.calstatela.edu)** | **[Experiential Learning Analyst](https://jobright.ai/jobs/info/6958b9c4aa05c26e7ab29a04?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jan 02 |
-| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/695862bc9f1b381eb2713fdd?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Jan 02 |
 | **[Northbridge Companies](https://northbridgecommunities.com/)** | **[Community Intern](https://jobright.ai/jobs/info/69589a18f1f8465b79ef2a17?utm_campaign=1057&utm_source=git)** | Stonebridge at Burlington - Burlington, MA, | On Site | Jan 02 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69584598f1f8465b79eee98a?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jan 02 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/695842b69f1b381eb27131ab?utm_campaign=1057&utm_source=git)** | Leander, TX | On Site | Jan 02 |
