@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Education Through Music](https://etmonline.org)** | **[Music Teacher Intern](https://jobright.ai/jobs/info/695a745aaa05c26e7ab41254?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 04 |
+| **[Westerly Hospital](https://westerlyhospital.org)** | **[Registered Nurse Anesthetist Intern](https://jobright.ai/jobs/info/695a6fedf1f8465b79f0c3e8?utm_campaign=1057&utm_source=git)** | New Haven, CT | On Site | Jan 04 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Transformation Intern (May – August 2026)](https://jobright.ai/jobs/info/6920e6763f782d2f1afcca28?utm_campaign=1057&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jan 04 |
+| **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Senior Training Representative (SkillBridge Intern) - 22517](https://jobright.ai/jobs/info/6859fab96471dc27ac2cb8fa?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Jan 04 |
 | **[Phillips 66](http://www.phillips66.com/)** | **[2026 University Intern- Health, Safety, and Environment](https://jobright.ai/jobs/info/68953cea8c6d6b4426778431?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jan 04 |
 | **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Learning and Development (L&D) Intern, Spring 2026](https://jobright.ai/jobs/info/6921281900c9ee50eaecc4d9?utm_campaign=1057&utm_source=git)** | Waltham, MA | Hybrid | Jan 04 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (OT/OTA Adolescent RTC) Summer 2026 OT Fieldwork](https://jobright.ai/jobs/info/689435f54c7e851b90ae3fbc?utm_campaign=1057&utm_source=git)** | Towson, MD | On Site | Jan 04 |
@@ -65,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern (Academic Credit) - Department of Neurology - Per Diem (On-site)](https://jobright.ai/jobs/info/68ea24ffdb8fbc4015c65960?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jan 04 |
 | **[Amplify](http://www.amplify.com)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/68e9514a0930fe0bc46242b7?utm_campaign=1057&utm_source=git)** | United States | Remote | Jan 04 |
 | **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Clinical Dietitian II / Intern Program](https://jobright.ai/jobs/info/693b9e5d4911ef04095ed390?utm_campaign=1057&utm_source=git)** | Atlanta, GA | On Site | Jan 04 |
+| **[BGE, Inc.](https://www.bgeinc.com)** | **[HOUSTON - Transportation, Internship](https://jobright.ai/jobs/info/68e901fc9020b95add6a35fe?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jan 04 |
 | **[IDS Health, Inc](https://www.linkedin.com/company/107901732)** | **[Mental Health Therapist / Intern](https://jobright.ai/jobs/info/695a3ebdaa05c26e7ab3cd72?utm_campaign=1057&utm_source=git)** | Fernley, NV | On Site | Jan 04 |
 | ↳ | **[Mental Health Therapist / Intern](https://jobright.ai/jobs/info/695a3eb8aa05c26e7ab3cd5d?utm_campaign=1057&utm_source=git)** | Reno, NV | On Site | Jan 04 |
 | **[LEARN Behavioral](https://learnbehavioral.com/)** | **[Intern School Psychologist](https://jobright.ai/jobs/info/695a21d8f1f8465b79f07254?utm_campaign=1057&utm_source=git)** | Flagstaff, AZ | On Site | Jan 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Texas A&M University](https://tamu.edu)** | **[Academic Professional Track (Non-Tenure): Open Rank-Clinical - Internal Medicine](https://jobright.ai/jobs/info/68e6a62de8daec61499ad1f0?utm_campaign=1057&utm_source=git)** | San Angelo, TX | On Site | Jan 02 |
 | **[SMUD](https://www.smud.org/en)** | **[2026 Summer College Internship: Sustainable Communities Partnership Intern](https://jobright.ai/jobs/info/6957c9609f1b381eb270c8c4?utm_campaign=1057&utm_source=git)** | Sacramento, CA, US, 95817-1899 | Hybrid | Jan 02 |
 | ↳ | **[2026 Summer College Internship: Reliability Risk Intern](https://jobright.ai/jobs/info/6957c88d9f1b381eb270c84b?utm_campaign=1057&utm_source=git)** | Sacramento, CA, US, 95817-1899 | On Site | Jan 02 |
-| ↳ | **[2026 Summer College Internship: Revenue Strategy Intern](https://jobright.ai/jobs/info/6957c7f89f1b381eb270c7ef?utm_campaign=1057&utm_source=git)** | Sacramento, CA, US, 95817-1899 | On Site | Jan 02 |
-| **[Fordham University](https://www.fordham.edu/)** | **[Provost and Senior Vice President for Academic Affairs](https://jobright.ai/jobs/info/68e594a51852e62f0081227c?utm_campaign=1057&utm_source=git)** | New York, NY | Hybrid | Jan 02 |
-| **[Minnesota Department of Natural Resources](http://mndnr.gov)** | **[Naturalist Corps Intern](https://jobright.ai/jobs/info/6957e5629f1b381eb270d2dc?utm_campaign=1057&utm_source=git)** | State Center, IA | On Site | Jan 02 |
-| **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Medical Writing Intern (PharmD)](https://jobright.ai/jobs/info/68e69b3fe8daec61499acb4c?utm_campaign=1057&utm_source=git)** | United States | Remote | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
