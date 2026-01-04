@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English/ELD Teacher & Interns - Secondary](https://jobright.ai/jobs/info/6959a204f1f8465b79f00f54?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Jan 03 |
+| ↳ | **[2025/2026 - Art Teacher & Intern - Secondary](https://jobright.ai/jobs/info/69599ed2f1f8465b79f00f13?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Jan 03 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69598ddef1f8465b79f00d7c?utm_campaign=1057&utm_source=git)** | Redmond, WA | On Site | Jan 03 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69598db6f1f8465b79f00d76?utm_campaign=1057&utm_source=git)** | Soquel, CA | On Site | Jan 03 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69598d8cf1f8465b79f00d6e?utm_campaign=1057&utm_source=git)** | Daly City, CA | On Site | Jan 03 |
@@ -89,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Customer Education - Molecular Diagnostics](https://jobright.ai/jobs/info/693cb3c050bbaf76504ff177?utm_campaign=1057&utm_source=git)** | San Diego, CA | On Site | Jan 03 |
 | **[UW School of Medicine and Public Health](https://www.med.wisc.edu)** | **[Internal Medicine Physician - Float](https://jobright.ai/jobs/info/6893e1c24c7e851b90ae1076?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Jan 03 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Respiratory Therapist Intern, Respiratory Therapy,  Per Diem, Varies,](https://jobright.ai/jobs/info/6902864f98707b2b0fe70994?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Jan 03 |
+| **[Brown & Brown](http://www.bbrown.com)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/68e7af2209580a2fe57ee5c8?utm_campaign=1057&utm_source=git)** | Minneapolis, MN | On Site | Jan 03 |
 | **[Zipline](https://www.zipline.com/)** | **[Community Engagement Intern (Summer 2026)](https://jobright.ai/jobs/info/693ccadc50bbaf76504ffc26?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Jan 03 |
 | **[Cintas](https://www.cintas.com)** | **[Intern](https://jobright.ai/jobs/info/691fd651a49a885af9a348e4?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Jan 03 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Internal Training Intern](https://jobright.ai/jobs/info/69207f3800c9ee50eaec4961?utm_campaign=1057&utm_source=git)** | Dayton Metropolitan Area | On Site | Jan 03 |
@@ -103,7 +106,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Internship](https://jobright.ai/jobs/info/6958dd30aa05c26e7ab2bcd7?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jan 03 |
 | **[Stanford Health Care](https://stanfordhealthcare.org)** | **[Summer 2026 Administrative Internship – Undergraduate (Hybrid)](https://jobright.ai/jobs/info/6958c50eaa05c26e7ab2a893?utm_campaign=1057&utm_source=git)** | Palo Alto, CA | Hybrid | Jan 02 |
 | **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/6958bc93aa05c26e7ab29e4b?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Jan 02 |
-| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/695898b0aa05c26e7ab272ca?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Jan 02 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/69589d7faa05c26e7ab273d8?utm_campaign=1057&utm_source=git)** | Denver, CO | On Site | Jan 02 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6958adc99f1b381eb2717c72?utm_campaign=1057&utm_source=git)** | Broomfield, CO | On Site | Jan 02 |
 | ↳ | **[Arborist Trainee Intern](https://jobright.ai/jobs/info/6958aaa39f1b381eb2717bd6?utm_campaign=1057&utm_source=git)** | Englewood, CO | On Site | Jan 02 |
 | **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Dartmouth Hitchcock High School Foundations Summer Internship Program](https://jobright.ai/jobs/info/6958bc10f1f8465b79ef54e5?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Jan 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Customer Training Intern](https://jobright.ai/jobs/info/691e01f609cc522e87734c41?utm_campaign=1057&utm_source=git)** | Greater Houston | On Site | Jan 02 |
 | **[MacAllister® Surface Prep](http://www.macallistersurfaceprep.com)** | **[Summer College Internship 2026 - Information Technology](https://jobright.ai/jobs/info/69578d07f1f8465b79ee43a9?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | On Site | Jan 02 |
 | **[Adventist HealthCare](https://www.adventisthealthcare.com)** | **[Lourie Center Intern, PT Weekdays, The Lourie Center](https://jobright.ai/jobs/info/69577dccf1f8465b79ee3389?utm_campaign=1057&utm_source=git)** | Rockville, MD | On Site | Jan 02 |
-| **[Colorado State University](http://www.colostate.edu/)** | **[CSFS Communications and Communities Intern](https://jobright.ai/jobs/info/695775349f1b381eb27077d1?utm_campaign=1057&utm_source=git)** | Fort Collins, CO | On Site | Jan 01 |
-| **[Thompson School District](https://www.thompsonschools.org)** | **[Math Tutor - Internship - High School](https://jobright.ai/jobs/info/69575684f1f8465b79ee2368?utm_campaign=1057&utm_source=git)** | Loveland, CO | On Site | Jan 01 |
-| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/69572e2ef1f8465b79edfada?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
