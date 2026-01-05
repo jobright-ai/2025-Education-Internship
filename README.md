@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ASTM International](http://www.astm.org)** | **[Intern, Robotics Training & Strategy](https://jobright.ai/jobs/info/695bfc67aa05c26e7ab55369?utm_campaign=1057&utm_source=git)** | US | Remote | Jan 05 |
 | **[Veritas Education | Tech - Digital Transformation](http://www.uscecc.org)** | **[Education Associate - Intern](https://jobright.ai/jobs/info/695befbbf1f8465b79f1f2a9?utm_campaign=1057&utm_source=git)** | Tysons Corner, VA | Hybrid | Jan 05 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Intern, Global Medical Oncology - Medical Communications](https://jobright.ai/jobs/info/695bd167f396ad6ddab17b45?utm_campaign=1057&utm_source=git)** | Princeton - NJ - US | Hybrid | Jan 05 |
 | **[TD](https://www.td.com)** | **[Commercial Banking Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/695beffb22c9dc0d3d53c96e?utm_campaign=1057&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jan 05 |
@@ -115,6 +116,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Emergency Management Intern- Summer 2026 COACH College Program](https://jobright.ai/jobs/info/695b5fd19f1b381eb273c40f?utm_campaign=1057&utm_source=git)** | Boston | On Site | Jan 04 |
 | **[Children's Health](https://www.childrens.com/)** | **[College Summer Intern - Graduate](https://jobright.ai/jobs/info/695b5721aa05c26e7ab4b5a3?utm_campaign=1057&utm_source=git)** | Texas, United States | On Site | Jan 04 |
 | **[UC Berkeley Law Pro Bono Program](https://www.law.berkeley.edu/experiential/pro-bono-program/)** | **[Student Programs Associate, Helen Diller Institute (Job ID #82899)](https://jobright.ai/jobs/info/695b1873f1f8465b79f13697?utm_campaign=1057&utm_source=git)** | Berkeley, CA | Hybrid | Jan 04 |
+| **[Reeds Spring School District](https://gt.rs-wolves.com/)** | **[Graphic Design Instructor](https://jobright.ai/jobs/info/695bf80222c9dc0d3d53de81?utm_campaign=1057&utm_source=git)** | Reeds Spring, MO | On Site | Jan 04 |
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af1aa31f0a2a568a05f103?utm_campaign=1057&utm_source=git)** | Ormond Beach, Florida, United States | On Site | Jan 04 |
 | **[Everett Public Schools](https://www.everettsd.org/)** | **[2025-26 Current Student Interns: Substitute Cert - Invitation ONLY](https://jobright.ai/jobs/info/695bc8bbf396ad6ddab177da?utm_campaign=1057&utm_source=git)** | Everett, WA | On Site | Jan 04 |
 | **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Spring  Education Programs Intern (onsite)](https://jobright.ai/jobs/info/68dd7b0ba125e75c422ab21a?utm_campaign=1057&utm_source=git)** | Little Rock, Arkansas | On Site | Jan 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University Prep Schools](https://uprepschools.com/)** | **[University Prep Schools - Student Counselor Intern](https://jobright.ai/jobs/info/695982eff1f8465b79eff6b5?utm_campaign=1057&utm_source=git)** | U Prep Academy District - DETROIT, MI 48202 | On Site | Jan 03 |
 | **[Clemson University MBA Programs](https://www.clemson.edu/business/departments/mba/)** | **[Open Rank Faculty - Large Animal Internal Medicine - Harvey S. Peeler Jr. College of Veterinary Medicine](https://jobright.ai/jobs/info/69597daa9f1b381eb2723def?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | On Site | Jan 03 |
 | **[Museum of Science](http://www.mos.org)** | **[Living Laboratory Mentor Internship](https://jobright.ai/jobs/info/6938661ca0dde7020e30f338?utm_campaign=1057&utm_source=git)** | Boston, MA | On Site | Jan 03 |
-| **[Innovative Counseling Partners, PLLC](https://innovativecounselingpartners.com)** | **[Clinical Therapist Internship](https://jobright.ai/jobs/info/6959735df1f8465b79efeb48?utm_campaign=1057&utm_source=git)** | Oak Park, IL | On Site | Jan 03 |
-| **[Clemson University MBA Programs](https://www.clemson.edu/business/departments/mba/)** | **[Open Rank Faculty - Small Animal Internal Medicine - Harvey S. Peeler Jr. College of Veterinary Medicine](https://jobright.ai/jobs/info/6959724bf1f8465b79efea96?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | On Site | Jan 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
