@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CoreVista Strategies](corevistastrategies.us)** | **[Trading Internship](https://jobright.ai/jobs/info/695bd78df1f8465b79f1dce1?utm_campaign=1057&utm_source=git)** | Illinois, United States | On Site | Jan 05 |
+| **[Bristol Myers Squibb](http://www.bms.com)** | **[Intern, Global Medical Oncology - Medical Communications](https://jobright.ai/jobs/info/695bd167f396ad6ddab17b45?utm_campaign=1057&utm_source=git)** | Princeton - NJ - US | Hybrid | Jan 05 |
+| **[ASTM International](http://www.astm.org)** | **[Intern, OnDemand Training](https://jobright.ai/jobs/info/695bc794aa05c26e7ab51db3?utm_campaign=1057&utm_source=git)** | United States | Remote | Jan 05 |
+| **[Doner](http://doner.com)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/695bc08df396ad6ddab17245?utm_campaign=1057&utm_source=git)** | Southfield, MI | On Site | Jan 05 |
 | **[Restaurant Brands International](http://rbi.com/en)** | **[MBA Summer Internship Program](https://jobright.ai/jobs/info/68e9b08465768b6412b1eafe?utm_campaign=1057&utm_source=git)** | Miami, FL | On Site | Jan 05 |
 | **[Child Mind Institute](http://childmind.org)** | **[Intern, Summer Program](https://jobright.ai/jobs/info/6905335eff462851feffbb59?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 05 |
 | **[ITHAKA](http://www.ithaka.org)** | **[Intern, Ithaka S+R (Rural Student Success Network)](https://jobright.ai/jobs/info/695bb506f396ad6ddab1572a?utm_campaign=1057&utm_source=git)** | Remote within the Continental United States | Remote | Jan 05 |
@@ -110,6 +114,7 @@ For a complete list, click the following sortable link below:
 | **[Children's Health](https://www.childrens.com/)** | **[College Summer Intern - Graduate](https://jobright.ai/jobs/info/695b5721aa05c26e7ab4b5a3?utm_campaign=1057&utm_source=git)** | Texas, United States | On Site | Jan 04 |
 | **[UC Berkeley Law Pro Bono Program](https://www.law.berkeley.edu/experiential/pro-bono-program/)** | **[Student Programs Associate, Helen Diller Institute (Job ID #82899)](https://jobright.ai/jobs/info/695b1873f1f8465b79f13697?utm_campaign=1057&utm_source=git)** | Berkeley, CA | Hybrid | Jan 04 |
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af1aa31f0a2a568a05f103?utm_campaign=1057&utm_source=git)** | Ormond Beach, Florida, United States | On Site | Jan 04 |
+| **[Everett Public Schools](https://www.everettsd.org/)** | **[2025-26 Current Student Interns: Substitute Cert - Invitation ONLY](https://jobright.ai/jobs/info/695bc8bbf396ad6ddab177da?utm_campaign=1057&utm_source=git)** | Everett, WA | On Site | Jan 04 |
 | **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Spring  Education Programs Intern (onsite)](https://jobright.ai/jobs/info/68dd7b0ba125e75c422ab21a?utm_campaign=1057&utm_source=git)** | Little Rock, Arkansas | On Site | Jan 04 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - Science Specialist Teacher and Interns - Elementary](https://jobright.ai/jobs/info/695afabfaa05c26e7ab45e86?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Jan 04 |
 | ↳ | **[2025/2026 - Art Teacher & Intern - Secondary](https://jobright.ai/jobs/info/695afa9aaa05c26e7ab45e79?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Jan 04 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Innovative Counseling Partners, PLLC](https://innovativecounselingpartners.com)** | **[Clinical Therapist Internship](https://jobright.ai/jobs/info/6959735df1f8465b79efeb48?utm_campaign=1057&utm_source=git)** | Oak Park, IL | On Site | Jan 03 |
 | **[Clemson University MBA Programs](https://www.clemson.edu/business/departments/mba/)** | **[Open Rank Faculty - Small Animal Internal Medicine - Harvey S. Peeler Jr. College of Veterinary Medicine](https://jobright.ai/jobs/info/6959724bf1f8465b79efea96?utm_campaign=1057&utm_source=git)** | Albuquerque, NM | On Site | Jan 03 |
 | **[Simpson College](http://www.simpson.edu/)** | **[Sports Administration Assistant Professor](https://jobright.ai/jobs/info/695959f69f1b381eb272308d?utm_campaign=1057&utm_source=git)** | Indianola, IA | On Site | Jan 03 |
-| **[Utah Valley University](http://www.uvu.edu/)** | **[Student Services Data Insights and Operational Excellence](https://jobright.ai/jobs/info/6959554e9f1b381eb2722fed?utm_campaign=1057&utm_source=git)** | Orem, UT | On Site | Jan 03 |
-| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Secondary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/69596df69f1b381eb2723599?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Jan 03 |
-| **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/695934baf1f8465b79efc2f6?utm_campaign=1057&utm_source=git)** | Racine, WI | On Site | Jan 03 |
-| **[L3Harris Technologies](https://www.l3harris.com)** | **[Technical Training Intern Level C (Rochester, NY)](https://jobright.ai/jobs/info/693c5e20aa598a08c3ed4670?utm_campaign=1057&utm_source=git)** | Rochester, NY | On Site | Jan 03 |
-| **[Sacramento Area Council of Governments](https://www.sacog.org/)** | **[Youth Leadership Academy Student Intern](https://jobright.ai/jobs/info/6956f438f1f8465b79edd231?utm_campaign=1057&utm_source=git)** | Sacramento, CA | Hybrid | Jan 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
