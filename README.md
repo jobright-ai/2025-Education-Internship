@@ -57,11 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Summer 2026 Intern - Learning and Development](https://jobright.ai/jobs/info/694771e07d506e3808f2b660?utm_campaign=1057&utm_source=git)** | Detroit, MI | On Site | Jan 08 |
+| **[Health Connect America](https://healthconnectamerica.com)** | **[Georgia Intern Therapist (Bilingual - Spanish) - Masters Level](https://jobright.ai/jobs/info/695f7a5da1bbea1d9a7a3b64?utm_campaign=1057&utm_source=git)** | Dalton, GA | Hybrid | Jan 08 |
+| ↳ | **[Georgia Intern Therapist - Masters Level](https://jobright.ai/jobs/info/695f79eb0badca5763afe2fd?utm_campaign=1057&utm_source=git)** | Woodstock, GA | On Site | Jan 08 |
+| **[Travelers](https://www.travelers.com)** | **[Claim Professional Development Program (CPDP) Intern](https://jobright.ai/jobs/info/695f78d70badca5763afe16f?utm_campaign=1057&utm_source=git)** | Morristown, NJ | On Site | Jan 08 |
+| **[Yale New Haven Health](https://www.ynhhs.org/)** | **[SUMMER STUDENT NURSE INTERN-Bridgeport Hospital 2026](https://jobright.ai/jobs/info/695f78140badca5763afe08e?utm_campaign=1057&utm_source=git)** | Bridgeport, CT | On Site | Jan 08 |
+| **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[Reg/Gen & RP Summer Intern](https://jobright.ai/jobs/info/694799c0d1953b5d11c0b8ca?utm_campaign=1057&utm_source=git)** | Aiken, SC | On Site | Jan 08 |
+| **[Willow Springs Center](https://willowspringscenter.com/)** | **[THERAPIST INTERN *$2500 Sign On Bonus*](https://jobright.ai/jobs/info/695f88d77ebc25398eb56276?utm_campaign=1057&utm_source=git)** | Reno, NV | On Site | Jan 08 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Strategy - Summer 2026 - Morristown](https://jobright.ai/jobs/info/695f6b720badca5763afd605?utm_campaign=1057&utm_source=git)** | Morristown, NJ | On Site | Jan 08 |
+| **[Career Center at Portland State University](https://www.pdx.edu/careers/)** | **[Transfer Student Success Coach for Access, Connect, Complete, Engage (ACCE) Program](https://jobright.ai/jobs/info/695f9156a112b402660e3a2d?utm_campaign=1057&utm_source=git)** | Portland, OR | On Site | Jan 08 |
 | **[University of Michigan](https://www.umich.edu)** | **[University Outreach and Education Intern](https://jobright.ai/jobs/info/695f68d20badca5763afd2d4?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | Hybrid | Jan 08 |
 | **[Smilow Cancer Hospital](https://www.ynhh.org/smilow.aspx)** | **[SUMMER STUDENT NURSE INTERN-Bridgeport Hospital 2026](https://jobright.ai/jobs/info/695f6361a112b402660e0f0f?utm_campaign=1057&utm_source=git)** | Bridgeport, CT | On Site | Jan 07 |
 | **[Iowa Western Community College](https://www.iwcc.edu)** | **[Welcome Center Student Assistant](https://jobright.ai/jobs/info/695f5f0f0badca5763afcfe6?utm_campaign=1057&utm_source=git)** | Council Bluffs, IA | On Site | Jan 07 |
-| **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Trading Internship](https://jobright.ai/jobs/info/695f56060badca5763afcb26?utm_campaign=1057&utm_source=git)** | Chicago, IL | On Site | Jan 07 |
+| **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: Corporate Opportunities: Creative (Multiple Locations: CA & NY)](https://jobright.ai/jobs/info/6945ab0f63141d1884553893?utm_campaign=1057&utm_source=git)** | Santa Monica, CA | On Site | Jan 07 |
 | **[Uponor](https://www.uponor.com)** | **[Sales Training Intern](https://jobright.ai/jobs/info/69321395d0010831497bf277?utm_campaign=1057&utm_source=git)** | Apple Valley, MN | Hybrid | Jan 07 |
 | **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Skeletal Conditions Business Unit (MBA/Masters)](https://jobright.ai/jobs/info/695f6379a112b402660e0f14?utm_campaign=1057&utm_source=git)** | San Rafael, CA | On Site | Jan 07 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Strategy - Summer 2026 - Morristown](https://jobright.ai/jobs/info/695f36730badca5763afbd23?utm_campaign=1057&utm_source=git)** | Morristown, NJ, US | On Site | Jan 07 |
@@ -114,8 +122,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Psychometrician & Researcher Intern](https://jobright.ai/jobs/info/695f17100badca5763af9d34?utm_campaign=1057&utm_source=git)** | Austin, TX | Hybrid | Jan 07 |
 | ↳ | **[Psychometrician & Researcher Intern](https://jobright.ai/jobs/info/695f170a0badca5763af9d22?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 07 |
 | ↳ | **[Psychometrician & Researcher Intern](https://jobright.ai/jobs/info/695f16ff0badca5763af9d08?utm_campaign=1057&utm_source=git)** | Augusta, ME | Hybrid | Jan 07 |
-| **[Baker Construction](https://bakerconstruction.com)** | **[Intern / Internship and Co-op](https://jobright.ai/jobs/info/695f16dca1bbea1d9a79f010?utm_campaign=1057&utm_source=git)** | Greater Houston | On Site | Jan 07 |
-| **[Pearson](https://www.pearson.com/)** | **[Psychometrician & Researcher Intern](https://jobright.ai/jobs/info/695f16ada1bbea1d9a79efaa?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | Hybrid | Jan 07 |
+| ↳ | **[Psychometrician & Researcher Intern](https://jobright.ai/jobs/info/695f16ada1bbea1d9a79efaa?utm_campaign=1057&utm_source=git)** | Indianapolis, IN | Hybrid | Jan 07 |
 | ↳ | **[Psychometrician & Researcher Intern](https://jobright.ai/jobs/info/695f16280badca5763af9b58?utm_campaign=1057&utm_source=git)** | Tallahassee, FL | Hybrid | Jan 07 |
 | ↳ | **[Psychometrician & Researcher Intern](https://jobright.ai/jobs/info/695f15ff0badca5763af9afb?utm_campaign=1057&utm_source=git)** | Lincoln, NE | Hybrid | Jan 07 |
 | ↳ | **[Psychometrician & Researcher Intern](https://jobright.ai/jobs/info/695f15e9a112b402660dd9a3?utm_campaign=1057&utm_source=git)** | Columbus, OH | Hybrid | Jan 07 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Southeast Missouri State University](http://www.semo.edu/)** | **[Assistant Professor - Engineering & Technology -Technology Management](https://jobright.ai/jobs/info/695eefc908ab990f282a409f?utm_campaign=1057&utm_source=git)** | Cape Girardeau, MO | On Site | Jan 07 |
 | **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant Intern, Sports Management](https://jobright.ai/jobs/info/695efbafa112b402660db6d4?utm_campaign=1057&utm_source=git)** | Sarasota, FL | Hybrid | Jan 07 |
 | **[District School Board Ontario North East](https://www.dsb1.ca)** | **[INTERNAL - Secondary Teacher (0.5 FTE - Business, French) - Permanent](https://jobright.ai/jobs/info/695efa430badca5763af7593?utm_campaign=1057&utm_source=git)** | Timmins, Ontario, Canada | On Site | Jan 07 |
-| ↳ | **[INTERNAL - Secondary Teacher (0.17 FTE - Technological Studies) - Permanent](https://jobright.ai/jobs/info/695efea90badca5763af7855?utm_campaign=1057&utm_source=git)** | Kirkland Lake, Ontario, Canada | On Site | Jan 07 |
-| **[TriHealth](http://www.trihealth.com)** | **[Student Nurse Intern - Neuro Stepdown](https://jobright.ai/jobs/info/695ee8e308ab990f282a3988?utm_campaign=1057&utm_source=git)** | 375 Dixmyth Avenue, CINCINNATI, OH, 45220, US | On Site | Jan 07 |
-| **[CBRE](https://www.cbre.com)** | **[Training Program Intern](https://jobright.ai/jobs/info/695ee1f308ab990f282a3167?utm_campaign=1057&utm_source=git)** | Provo, UT | On Site | Jan 07 |
-| **[Bay State Community Services, Inc.](https://www.baystatecs.org)** | **[Master's Level Internships/Practicums](https://jobright.ai/jobs/info/695ec04e08ab990f282a0a41?utm_campaign=1057&utm_source=git)** | Quincy, MA | On Site | Jan 07 |
-| **[Pearson](https://www.pearson.com/)** | **[Psychometrician & Researcher Intern](https://jobright.ai/jobs/info/695ebe330badca5763af33ba?utm_campaign=1057&utm_source=git)** | United States | Remote | Jan 07 |
-| **[Indegene](https://www.indegene.com/)** | **[Medical Affairs Summer Intern](https://jobright.ai/jobs/info/695eeb200badca5763af6919?utm_campaign=1057&utm_source=git)** | US | Hybrid | Jan 07 |
-| **[Northwestern Medicine](http://nm.org)** | **[Clinical Laboratory Intern Program - Summer 2026](https://jobright.ai/jobs/info/695ede1d0badca5763af57b5?utm_campaign=1057&utm_source=git)** | DeKalb, IL | On Site | Jan 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
