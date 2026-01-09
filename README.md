@@ -139,6 +139,7 @@ For a complete list, click the following sortable link below:
 | **[Smilow Cancer Hospital](https://www.ynhh.org/smilow.aspx)** | **[SUMMER STUDENT NURSE INTERN-Bridgeport Hospital 2026](https://jobright.ai/jobs/info/695f6361a112b402660e0f0f?utm_campaign=1057&utm_source=git)** | Bridgeport, CT | On Site | Jan 07 |
 | **[Iowa Western Community College](https://www.iwcc.edu)** | **[Welcome Center Student Assistant](https://jobright.ai/jobs/info/695f5f0f0badca5763afcfe6?utm_campaign=1057&utm_source=git)** | Council Bluffs, IA | On Site | Jan 07 |
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: Corporate Opportunities: Creative (Multiple Locations: CA & NY)](https://jobright.ai/jobs/info/6945ab0f63141d1884553893?utm_campaign=1057&utm_source=git)** | Santa Monica, CA | On Site | Jan 07 |
+| **[Uponor](https://www.uponor.com)** | **[Sales Training Intern](https://jobright.ai/jobs/info/69321395d0010831497bf277?utm_campaign=1057&utm_source=git)** | Apple Valley, MN | Hybrid | Jan 07 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Strategy - Summer 2026 - Morristown](https://jobright.ai/jobs/info/695f36730badca5763afbd23?utm_campaign=1057&utm_source=git)** | Morristown, NJ, US | On Site | Jan 07 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Service Intern - Business Insurance](https://jobright.ai/jobs/info/695f335ba112b402660df948?utm_campaign=1057&utm_source=git)** | Aliso Viejo, CA | On Site | Jan 07 |
 | **[Arizona Commerce Authority](http://www.azcommerce.com/)** | **[FY26 Winter-Spring Internship - Entrepreneurship & Innovation](https://jobright.ai/jobs/info/695f2bc00badca5763afb6fc?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | Hybrid | Jan 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Psychometrician & Researcher Intern](https://jobright.ai/jobs/info/695f1f10a112b402660deaf6?utm_campaign=1057&utm_source=git)** | Honolulu, HI | Hybrid | Jan 07 |
 | ↳ | **[Psychometrician & Researcher Intern](https://jobright.ai/jobs/info/695f1ec50badca5763afad34?utm_campaign=1057&utm_source=git)** | Boise, ID | Hybrid | Jan 07 |
 | ↳ | **[Psychometrician & Researcher Intern](https://jobright.ai/jobs/info/695f1d9b0badca5763afab24?utm_campaign=1057&utm_source=git)** | Jackson, MS | Hybrid | Jan 07 |
-| ↳ | **[Psychometrician & Researcher Intern](https://jobright.ai/jobs/info/695f1d1ba112b402660de7f0?utm_campaign=1057&utm_source=git)** | Juneau, AK | Hybrid | Jan 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
