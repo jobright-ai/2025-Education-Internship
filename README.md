@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Trading Intern - Part Time](https://jobright.ai/jobs/info/696417ca2cbf4e44756dbb59?utm_campaign=1057&utm_source=git)** | Illinois, United States | On Site | Jan 11 |
 | **[Mid Fairfield Community Care Center](https://mfccc.org/)** | **[APRN Intern](https://jobright.ai/jobs/info/6963fef72cbf4e44756d9c59?utm_campaign=1057&utm_source=git)** | 100 EAST AVE - NORWALK, CT 06851 | On Site | Jan 11 |
 | **[FINRA](http://www.finra.org)** | **[Undergraduate Intern, Corporate Intern Program](https://jobright.ai/jobs/info/6963ef9da112b4026611faab?utm_campaign=1057&utm_source=git)** | Rockville, MD | Hybrid | Jan 11 |
 | **[Commonwealth of Pennsylvania](http://www.arts.pa.gov)** | **[Environmental Education Intern - Pymatuning State Park](https://jobright.ai/jobs/info/69419cf550bbaf7650536dfb?utm_campaign=1057&utm_source=git)** | Jamestown, PA | On Site | Jan 11 |
@@ -130,18 +131,18 @@ For a complete list, click the following sortable link below:
 | **[Jewish Board of Family and Children's Services](https://jewishboard.org/)** | **[Internship Program Manager](https://jobright.ai/jobs/info/690ed418d046ab6061d0176d?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 10 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d625c6ebcef82ef5cf6c4d?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Jan 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44ae2ffc1276de3fd9743?utm_campaign=1057&utm_source=git)** | Maumee, OH | On Site | Jan 10 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d61e949526920fc208d499?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jan 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d634f8894705799a2e8a6d?utm_campaign=1057&utm_source=git)** | Humble, TX | On Site | Jan 10 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d446dd17554c2d9eef78ea?utm_campaign=1057&utm_source=git)** | North Charleston, SC | On Site | Jan 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d63267ebcef82ef5cf7868?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Jan 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d618ac1f7fb2169ab16f27?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Jan 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44ec48c62e63bc7fe8122?utm_campaign=1057&utm_source=git)** | Northbrook, IL | On Site | Jan 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d450498c62e63bc7fe8308?utm_campaign=1057&utm_source=git)** | Plain City, OH | On Site | Jan 10 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d646fb894705799a2ea3dc?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jan 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d6349f894705799a2e89d7?utm_campaign=1057&utm_source=git)** | Pflugerville, TX | On Site | Jan 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44690ffc1276de3fd917e?utm_campaign=1057&utm_source=git)** | Roselle, IL | On Site | Jan 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d62629894705799a2e7f13?utm_campaign=1057&utm_source=git)** | Savannah, GA | On Site | Jan 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d61a901f7fb2169ab1730b?utm_campaign=1057&utm_source=git)** | San Antonio, TX | On Site | Jan 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d446c417554c2d9eef7890?utm_campaign=1057&utm_source=git)** | Plainfield, IL | On Site | Jan 10 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d44b27ffc1276de3fd9786?utm_campaign=1057&utm_source=git)** | North Charleston, SC | On Site | Jan 10 |
 | **[Fuller Hospital](https://www.fullerhospital.com)** | **[In-Home Therapist Intern](https://jobright.ai/jobs/info/6962245125e18715077f053e?utm_campaign=1057&utm_source=git)** | North Attleboro, MA | Hybrid | Jan 10 |
 | **[Be Aveda Institutes](https://www.beaveda.com)** | **[Esthiology Intern](https://jobright.ai/jobs/info/69621291a112b40266107bce?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Jan 10 |
 | ↳ | **[Esthiology Intern](https://jobright.ai/jobs/info/69620dfa25e18715077eed7c?utm_campaign=1057&utm_source=git)** | Brandon, FL | On Site | Jan 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KinderCare Learning Companies](http://www.kcecareers.com/)** | **[Teacher at International Leadership of Texas - Pearland](https://jobright.ai/jobs/info/6961c69aa112b4026610552c?utm_campaign=1057&utm_source=git)** | Pearland, TX | On Site | Jan 09 |
 | **[Aramark Destinations](https://thenationsvacation.com/)** | **[Student Intern - Sustainability - Tulane University](https://jobright.ai/jobs/info/6961c427a112b402661053b8?utm_campaign=1057&utm_source=git)** | NEW ORLEANS, LA, US, 70118-6302 | On Site | Jan 09 |
 | **[California Department of State Hospitals](https://www.dsh.ca.gov/)** | **[STUDENT ASSISTANT](https://jobright.ai/jobs/info/6961c415e7ed9a5731ba96dc?utm_campaign=1057&utm_source=git)** | Sacramento, CA | Hybrid | Jan 09 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Wellness Specialist Intern- 12 Month Full-Time Paid Internship](https://jobright.ai/jobs/info/6961c36ba112b4026610532a?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
