@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Howmet Aerospace](https://www.howmet.com)** | **[Summer 2026 Internship - EHS](https://jobright.ai/jobs/info/696354fc25e18715077fed00?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Jan 10 |
+| ↳ | **[Summer 2026 Internship - HR](https://jobright.ai/jobs/info/696352a92cbf4e44756d073a?utm_campaign=1057&utm_source=git)** | 1600 Harvard Avenue, Cleveland, OH, 44105, US | On Site | Jan 10 |
+| ↳ | **[Summer 2026 Internship - EHS](https://jobright.ai/jobs/info/6963514425e18715077fea3b?utm_campaign=1057&utm_source=git)** | 1600 Harvard Avenue, Cleveland, OH, 44105, US | On Site | Jan 10 |
+| **[Petersburg City Public Schools](http://www.petersburg.k12.va.us)** | **[Student Teaching and Internship 2025-26](https://jobright.ai/jobs/info/696350b92cbf4e44756d061d?utm_campaign=1057&utm_source=git)** | Petersburg, VA | On Site | Jan 10 |
+| **[Davis School District](https://www.davis.k12.ut.us/)** | **[Elementary Administrative Interns 2026-2027 School Year](https://jobright.ai/jobs/info/696344b6a112b40266116adc?utm_campaign=1057&utm_source=git)** | Davis, CA | On Site | Jan 10 |
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[FRP Internship - Summer 2026](https://jobright.ai/jobs/info/68af3a9f1f0a2a568a05fdf8?utm_campaign=1057&utm_source=git)** | Orange, California, United States | On Site | Jan 10 |
 | **[Advertising Specialty Institute](http://asicentral.com/)** | **[Corporate Training Intern](https://jobright.ai/jobs/info/695ef04ba112b402660dac8d?utm_campaign=1057&utm_source=git)** | Trevose, PA | Hybrid | Jan 10 |
 | **[Wayne State University](https://wayne.edu/)** | **[Research Assistant - POSTGRADUATE WAYNE LAW STUDENT AFFAIRS FELLOW](https://jobright.ai/jobs/info/696318b42cbf4e44756cdc9c?utm_campaign=1057&utm_source=git)** | Detroit, MI | Hybrid | Jan 10 |
@@ -107,12 +112,12 @@ For a complete list, click the following sortable link below:
 | **[Jewish Board of Family and Children's Services](https://jewishboard.org/)** | **[Internship Program Manager](https://jobright.ai/jobs/info/690ed418d046ab6061d0176d?utm_campaign=1057&utm_source=git)** | New York, NY | On Site | Jan 10 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern](https://jobright.ai/jobs/info/68d625c6ebcef82ef5cf6c4d?utm_campaign=1057&utm_source=git)** | Durham, NC | On Site | Jan 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44ae2ffc1276de3fd9743?utm_campaign=1057&utm_source=git)** | Maumee, OH | On Site | Jan 10 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d61e949526920fc208d499?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jan 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d634f8894705799a2e8a6d?utm_campaign=1057&utm_source=git)** | Humble, TX | On Site | Jan 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d63267ebcef82ef5cf7868?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Jan 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d618ac1f7fb2169ab16f27?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Jan 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44ec48c62e63bc7fe8122?utm_campaign=1057&utm_source=git)** | Northbrook, IL | On Site | Jan 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d450498c62e63bc7fe8308?utm_campaign=1057&utm_source=git)** | Plain City, OH | On Site | Jan 10 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d646fb894705799a2ea3dc?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jan 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d6349f894705799a2e89d7?utm_campaign=1057&utm_source=git)** | Pflugerville, TX | On Site | Jan 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44690ffc1276de3fd917e?utm_campaign=1057&utm_source=git)** | Roselle, IL | On Site | Jan 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d62629894705799a2e7f13?utm_campaign=1057&utm_source=git)** | Savannah, GA | On Site | Jan 10 |
@@ -124,6 +129,7 @@ For a complete list, click the following sortable link below:
 | **[Be Aveda Institutes](https://www.beaveda.com)** | **[Esthiology Intern](https://jobright.ai/jobs/info/69621291a112b40266107bce?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Jan 10 |
 | ↳ | **[Esthiology Intern](https://jobright.ai/jobs/info/69620dfa25e18715077eed7c?utm_campaign=1057&utm_source=git)** | Brandon, FL | On Site | Jan 10 |
 | **[Health Connect America](https://healthconnectamerica.com)** | **[Intern - Community Support Specialist - Bachelors level](https://jobright.ai/jobs/info/69623fcf2cbf4e44756c3314?utm_campaign=1057&utm_source=git)** | Woodstock, GA | Hybrid | Jan 10 |
+| **[Waco Tribune-Herald](http://wacotrib.com)** | **[FT Program Assistant II](https://jobright.ai/jobs/info/696344252cbf4e44756d00a2?utm_campaign=1057&utm_source=git)** | Norwalk, CA | On Site | Jan 10 |
 | **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Associate Dean of Research, College of Design, Architecture, Art, & Planning](https://jobright.ai/jobs/info/69625cb5a112b4026610cb6c?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Jan 10 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Military DoD SkillBridge Internship - Manufacturing Training Program Leader](https://jobright.ai/jobs/info/6961f5ccf3f4cd132506e2b9?utm_campaign=1057&utm_source=git)** | Sterling, VA | On Site | Jan 09 |
 | **[Springfield Public Schools (Massachusetts)](https://www.springfieldpublicschools.com/)** | **[Early Childhood Student Intern](https://jobright.ai/jobs/info/6962062925e18715077ee946?utm_campaign=1057&utm_source=git)** | Springfield, MA | On Site | Jan 09 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arbour Counseling Services](https://arbourhealth.com/)** | **[Fall 2025 Partial Hospitalization Internship](https://jobright.ai/jobs/info/6961d9cbe7ed9a5731baa392?utm_campaign=1057&utm_source=git)** | Norwell, MA | On Site | Jan 09 |
 | ↳ | **[Summer 2026 Partial Hospitalization Internship](https://jobright.ai/jobs/info/6961d36ea112b40266105d8c?utm_campaign=1057&utm_source=git)** | Norwell, MA | On Site | Jan 09 |
 | **[AARP](http://www.aarp.org)** | **[Communications and Volunteer Engagement Intern](https://jobright.ai/jobs/info/69015b67f8ce7a040fdbf1a8?utm_campaign=1057&utm_source=git)** | Bismarck, ND | Hybrid | Jan 09 |
-| **[Avera Health](https://www.avera.org/doctors/avera-medical-group/)** | **[RN Intern](https://jobright.ai/jobs/info/69619beae7ed9a5731ba7602?utm_campaign=1057&utm_source=git)** | Le Mars, IA | On Site | Jan 09 |
-| **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/696199f3f3f4cd132506a796?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Jan 09 |
-| **[City of Spokane](https://my.spokanecity.org/)** | **[Temp Seasonal - Waste Reduction Education and Outreach Intern](https://jobright.ai/jobs/info/6962c548a112b40266111b1f?utm_campaign=1057&utm_source=git)** | Spokane, WA | On Site | Jan 09 |
-| **[PRACTICE](https://practicebc.com/)** | **[Middle School ELA Spanish Intern](https://jobright.ai/jobs/info/6961bce0f3f4cd132506c35a?utm_campaign=1057&utm_source=git)** | Queens, NY | On Site | Jan 09 |
-| ↳ | **[Middle School Spanish Intern](https://jobright.ai/jobs/info/6961b78be7ed9a5731ba8b8f?utm_campaign=1057&utm_source=git)** | Queens, NY | On Site | Jan 09 |
-| **[Kids Above All](https://www.kidsaboveall.org)** | **[Clinical Internship (Waukegan)](https://jobright.ai/jobs/info/6961b975a112b40266104a16?utm_campaign=1057&utm_source=git)** | Waukegan, IL | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
