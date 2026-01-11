@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/6962fdb5a112b40266113fac?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 10 |
+| **[Gateway Engineers](http://gatewayengineers.com)** | **[Sophomore or Junior Internship – Summer 2027 Interest](https://jobright.ai/jobs/info/6962eaa425e18715077f9879?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Jan 10 |
 | **[The Commons XR](https://thecommonsxr.com)** | **[UNPAID Internship - One slot available for 2026 Spring Cohort for students/Post-Grads in Mental health, Social Work, Psychology](https://jobright.ai/jobs/info/6962e49925e18715077f9827?utm_campaign=1057&utm_source=git)** | San Diego County, CA | On Site | Jan 10 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[GRADER I (Student/Work Study)](https://jobright.ai/jobs/info/6962de40a112b40266111ed5?utm_campaign=1057&utm_source=git)** | Flint, AR | Hybrid | Jan 10 |
 | **[Fremont Unified School District](https://fremontunified.org)** | **[2025/2026 - English Teacher & Interns - Secondary](https://jobright.ai/jobs/info/6962db2da112b40266111e71?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Jan 10 |
 | ↳ | **[2025/2026 - (50%) Special Education RSP Teacher & Interns - C.O.I.L.](https://jobright.ai/jobs/info/6962d9492cbf4e44756cb20c?utm_campaign=1057&utm_source=git)** | Fremont, CA | On Site | Jan 10 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Biology Laboratory Assistant (STUDENT/WORK STUDY)](https://jobright.ai/jobs/info/6962d4cc25e18715077f9670?utm_campaign=1057&utm_source=git)** | Flint, AR | On Site | Jan 10 |
-| **[Digital Skillet Training](https://digitalskillet.ai/)** | **[AI Education Intern (Calgary, Volunteer)](https://jobright.ai/jobs/info/6962c26a2cbf4e44756cae3d?utm_campaign=1057&utm_source=git)** | Canada | Remote | Jan 10 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment  Program Development Specialist Intern (CNS) (NFWS)](https://jobright.ai/jobs/info/6962bda925e18715077f9250?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Jan 10 |
 | ↳ | **[Program Recruitment  Program Development Specialist Intern (COE) (NFWS)](https://jobright.ai/jobs/info/6962ae8e25e18715077f7606?utm_campaign=1057&utm_source=git)** | Phoenix, AZ | On Site | Jan 10 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[US Medical Affairs - GI Oncology Summer Intern (Doctoral)](https://jobright.ai/jobs/info/6962adea25e18715077f75d7?utm_campaign=1057&utm_source=git)** | Gaithersburg, MD | Hybrid | Jan 10 |
@@ -103,11 +104,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44ae2ffc1276de3fd9743?utm_campaign=1057&utm_source=git)** | Maumee, OH | On Site | Jan 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d634f8894705799a2e8a6d?utm_campaign=1057&utm_source=git)** | Humble, TX | On Site | Jan 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d446dd17554c2d9eef78ea?utm_campaign=1057&utm_source=git)** | North Charleston, SC | On Site | Jan 10 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68d63907ebcef82ef5cf7cc1?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jan 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d63267ebcef82ef5cf7868?utm_campaign=1057&utm_source=git)** | Fort Worth, TX | On Site | Jan 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d618ac1f7fb2169ab16f27?utm_campaign=1057&utm_source=git)** | Charlotte, NC | On Site | Jan 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44ec48c62e63bc7fe8122?utm_campaign=1057&utm_source=git)** | Northbrook, IL | On Site | Jan 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d450498c62e63bc7fe8308?utm_campaign=1057&utm_source=git)** | Plain City, OH | On Site | Jan 10 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68d646fb894705799a2ea3dc?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jan 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d6349f894705799a2e89d7?utm_campaign=1057&utm_source=git)** | Pflugerville, TX | On Site | Jan 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44690ffc1276de3fd917e?utm_campaign=1057&utm_source=git)** | Roselle, IL | On Site | Jan 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d62629894705799a2e7f13?utm_campaign=1057&utm_source=git)** | Savannah, GA | On Site | Jan 10 |
@@ -116,12 +117,11 @@ For a complete list, click the following sortable link below:
 | **[Fuller Hospital](https://www.fullerhospital.com)** | **[In-Home Therapist Intern](https://jobright.ai/jobs/info/6962245125e18715077f053e?utm_campaign=1057&utm_source=git)** | North Attleboro, MA | Hybrid | Jan 10 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE: Mott Childrens Hospital (Childrens Emergency Department Graduate Nurse Internship)](https://jobright.ai/jobs/info/69621380a112b40266107c80?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 10 |
 | **[Be Aveda Institutes](https://www.beaveda.com)** | **[Esthiology Intern](https://jobright.ai/jobs/info/69621291a112b40266107bce?utm_campaign=1057&utm_source=git)** | Jacksonville, FL | On Site | Jan 10 |
-| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/696212142cbf4e44756c097f?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI | On Site | Jan 10 |
-| **[Be Aveda Institutes](https://www.beaveda.com)** | **[Esthiology Intern](https://jobright.ai/jobs/info/69620dfa25e18715077eed7c?utm_campaign=1057&utm_source=git)** | Brandon, FL | On Site | Jan 10 |
+| ↳ | **[Esthiology Intern](https://jobright.ai/jobs/info/69620dfa25e18715077eed7c?utm_campaign=1057&utm_source=git)** | Brandon, FL | On Site | Jan 10 |
 | **[Health Connect America](https://healthconnectamerica.com)** | **[Intern - Community Support Specialist - Bachelors level](https://jobright.ai/jobs/info/69623fcf2cbf4e44756c3314?utm_campaign=1057&utm_source=git)** | Woodstock, GA | Hybrid | Jan 10 |
 | **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Associate Dean of Research, College of Design, Architecture, Art, & Planning](https://jobright.ai/jobs/info/69625cb5a112b4026610cb6c?utm_campaign=1057&utm_source=git)** | Cleveland, OH | On Site | Jan 10 |
-| **[Springfield Public Schools (Massachusetts)](https://www.springfieldpublicschools.com/)** | **[Early Childhood Student Intern](https://jobright.ai/jobs/info/696200c1a112b40266107133?utm_campaign=1057&utm_source=git)** | Springfield, MA | On Site | Jan 09 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Military DoD SkillBridge Internship - Manufacturing Training Program Leader](https://jobright.ai/jobs/info/6961f5ccf3f4cd132506e2b9?utm_campaign=1057&utm_source=git)** | Sterling, VA | On Site | Jan 09 |
+| **[Springfield Public Schools (Massachusetts)](https://www.springfieldpublicschools.com/)** | **[Early Childhood Student Intern](https://jobright.ai/jobs/info/6962062925e18715077ee946?utm_campaign=1057&utm_source=git)** | Springfield, MA | On Site | Jan 09 |
 | **[Nova Scotia Health Authority](https://www.nshealth.ca)** | **[Wellness Facilitator - Dietitian - Bedford/Sackville Community Health Team](https://jobright.ai/jobs/info/6961cae8e7ed9a5731ba9acd?utm_campaign=1057&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Jan 09 |
 | **[City of Mansfield, Texas Municipal Government](https://www.mansfield-tx.gov)** | **[Part-Time Paid Internship (College Students)](https://jobright.ai/jobs/info/6961e6baf3f4cd132506dcce?utm_campaign=1057&utm_source=git)** | Mansfield, TX | On Site | Jan 09 |
 | **[New England Revolution](https://www.revolutionsoccer.net/)** | **[Revolution Academy Intern](https://jobright.ai/jobs/info/6961c6f1f3f4cd132506cac0?utm_campaign=1057&utm_source=git)** | Foxborough (Foxboro), MA | Hybrid | Jan 09 |
@@ -149,8 +149,8 @@ For a complete list, click the following sortable link below:
 | **[Avera Health](https://www.avera.org/doctors/avera-medical-group/)** | **[RN Intern](https://jobright.ai/jobs/info/69619beae7ed9a5731ba7602?utm_campaign=1057&utm_source=git)** | Le Mars, IA | On Site | Jan 09 |
 | **[Integrated Services for Behavioral Health](https://www.integratedservice.org)** | **[Intern – Youth Support Services (The HIVE)](https://jobright.ai/jobs/info/696199f3f3f4cd132506a796?utm_campaign=1057&utm_source=git)** | Nelsonville, OH | On Site | Jan 09 |
 | **[City of Spokane](https://my.spokanecity.org/)** | **[Temp Seasonal - Waste Reduction Education and Outreach Intern](https://jobright.ai/jobs/info/6962c548a112b40266111b1f?utm_campaign=1057&utm_source=git)** | Spokane, WA | On Site | Jan 09 |
-| **[PRACTICE](https://practicebc.com/)** | **[Middle School ELA Spanish Intern](https://jobright.ai/jobs/info/6961bce0f3f4cd132506c35a?utm_campaign=1057&utm_source=git)** | Queens, NY | On Site | Jan 09 |
-| ↳ | **[Middle School Spanish Intern](https://jobright.ai/jobs/info/6961b78be7ed9a5731ba8b8f?utm_campaign=1057&utm_source=git)** | Queens, NY | On Site | Jan 09 |
+| **[PRACTICE](https://practicebc.com/)** | **[Middle School Spanish Intern](https://jobright.ai/jobs/info/6961b78be7ed9a5731ba8b8f?utm_campaign=1057&utm_source=git)** | Queens, NY | On Site | Jan 09 |
+| ↳ | **[Middle School ELA Spanish Intern](https://jobright.ai/jobs/info/6961bce0f3f4cd132506c35a?utm_campaign=1057&utm_source=git)** | Queens, NY | On Site | Jan 09 |
 | **[Kids Above All](https://www.kidsaboveall.org)** | **[Clinical Internship (Waukegan)](https://jobright.ai/jobs/info/6961b975a112b40266104a16?utm_campaign=1057&utm_source=git)** | Waukegan, IL | On Site | Jan 09 |
 | **[Design Observer](http://designobserver.com/)** | **[Associate Dean of Research, College of Design, Architecture, Art, & Planning](https://jobright.ai/jobs/info/696198c1f3f4cd132506a691?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Jan 09 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Military DoD SkillBridge Internship - Manufacturing Training Program Leader](https://jobright.ai/jobs/info/6961bca3e7ed9a5731ba90b0?utm_campaign=1057&utm_source=git)** | Sterling VA USA | On Site | Jan 09 |
