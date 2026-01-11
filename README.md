@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wayne State University](https://wayne.edu/)** | **[Research Assistant - POSTGRADUATE WAYNE LAW STUDENT AFFAIRS FELLOW](https://jobright.ai/jobs/info/696318b42cbf4e44756cdc9c?utm_campaign=1057&utm_source=git)** | Detroit, MI | Hybrid | Jan 10 |
+| **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Dartmouth Hitchcock High School Foundations Summer Internship Program](https://jobright.ai/jobs/info/696317ed25e18715077fc0e5?utm_campaign=1057&utm_source=git)** | Lebanon, NH | On Site | Jan 10 |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[N96449 International Student Recruitment and Support Specialist](https://jobright.ai/jobs/info/696312622cbf4e44756cdb96?utm_campaign=1057&utm_source=git)** | Tahlequah, OK | Hybrid | Jan 10 |
 | **[Quinte Health](https://www.qhc.on.ca/)** | **[Registered Practical Nurse (RPN) Internship- Operating Room](https://jobright.ai/jobs/info/6962fdb5a112b40266113fac?utm_campaign=1057&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 10 |
 | **[Gateway Engineers](http://gatewayengineers.com)** | **[Sophomore or Junior Internship – Summer 2027 Interest](https://jobright.ai/jobs/info/6962eaa425e18715077f9879?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA | On Site | Jan 10 |
 | **[The Commons XR](https://thecommonsxr.com)** | **[UNPAID Internship - One slot available for 2026 Spring Cohort for students/Post-Grads in Mental health, Social Work, Psychology](https://jobright.ai/jobs/info/6962e49925e18715077f9827?utm_campaign=1057&utm_source=git)** | San Diego County, CA | On Site | Jan 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kids Above All](https://www.kidsaboveall.org)** | **[Clinical Internship (Waukegan)](https://jobright.ai/jobs/info/6961b975a112b40266104a16?utm_campaign=1057&utm_source=git)** | Waukegan, IL | On Site | Jan 09 |
 | **[Design Observer](http://designobserver.com/)** | **[Associate Dean of Research, College of Design, Architecture, Art, & Planning](https://jobright.ai/jobs/info/696198c1f3f4cd132506a691?utm_campaign=1057&utm_source=git)** | Cincinnati, OH | On Site | Jan 09 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Military DoD SkillBridge Internship - Manufacturing Training Program Leader](https://jobright.ai/jobs/info/6961bca3e7ed9a5731ba90b0?utm_campaign=1057&utm_source=git)** | Sterling VA USA | On Site | Jan 09 |
-| **[Ferris State University College of Business](http://ferris.edu/business)** | **[Student Life Intern (Student Position)](https://jobright.ai/jobs/info/69619703f3f4cd132506a4f2?utm_campaign=1057&utm_source=git)** | Big Rapids, MI | On Site | Jan 09 |
-| **[New England College](http://www.nec.edu/)** | **[Graduate Internship Specialist (Part-time)](https://jobright.ai/jobs/info/6961bb7ce7ed9a5731ba8f80?utm_campaign=1057&utm_source=git)** | Henniker, NH | Remote | Jan 09 |
-| **[Manulife](http://www.manulife.com/)** | **[Summer Intern/Co-op 2026 – Content Development Specialist](https://jobright.ai/jobs/info/69618fd0e7ed9a5731ba6a1a?utm_campaign=1057&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
