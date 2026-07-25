@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern: Board Development Coach](https://jobright.ai/jobs/info/6a59e97a4da96a42cfd92f11?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | On Site | Jul 24 |
+| **[M3 Engineering & Technology Corp.](https://m3eng.com)** | **[STUDENT INTERN Tucson](https://jobright.ai/jobs/info/6a642b15979290281c705909?utm_campaign=1057&utm_source=git)** | Tucson, AZ, United States | On Site | Jul 24 |
+| **[RRS Group & Co](www.myrrsgroup.org)** | **[Real Estate & Transaction Program – Summer 2027 Internship](https://jobright.ai/jobs/info/6a6424f38d53603449605b6e?utm_campaign=1057&utm_source=git)** | San Francisco, CA, United States | Remote | Jul 24 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026: VESL Plus Intern (Unpaid)](https://jobright.ai/jobs/info/6a63f6ba979290281c70503a?utm_campaign=1057&utm_source=git)** | San Diego, CA, United States | On Site | Jul 24 |
 | ↳ | **[Fall 2026: Digital Inclusion Intern (Unpaid)](https://jobright.ai/jobs/info/6a63f69fe8d8d22e3292b902?utm_campaign=1057&utm_source=git)** | San Diego, CA, United States | Hybrid | Jul 24 |
 | ↳ | **[Fall 2026: Women’s Resilience Center Intern (Unpaid)](https://jobright.ai/jobs/info/6a63fb7d87cef057612cb829?utm_campaign=1057&utm_source=git)** | San Diego, CA, United States | On Site | Jul 24 |
@@ -136,7 +139,7 @@ For a complete list, click the following sortable link below:
 | **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Integrated Care Initiatives-Remote](https://jobright.ai/jobs/info/6a6272d7d5caab4af8badfb0?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 23 |
 | **[Virginia Wesleyan University](https://www.vwu.edu/)** | **[Graduate Intern- Enrollment](https://jobright.ai/jobs/info/6a628313f805ef6ff42335d5?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA, United States | On Site | Jul 23 |
 | **[Nevada Museum of Art](https://www.nevadaart.org/)** | **[Education Internship](https://jobright.ai/jobs/info/6a628066f805ef6ff42334ec?utm_campaign=1057&utm_source=git)** | Reno, NV, United States | On Site | Jul 23 |
-| **[University of South Florida](http://health.usf.edu/nursing)** | **[Guest Relations Intern (Student Assistant-FWS)](https://jobright.ai/jobs/info/6a623738d5caab4af8bac882?utm_campaign=1057&utm_source=git)** | Tampa, FL, United States | On Site | Jul 23 |
+| **[University of South Florida](http://health.usf.edu/nursing)** | **[Guest Relations Intern (Student Assistant-FWS)](https://jobright.ai/jobs/info/6a6239fef805ef6ff42317b7?utm_campaign=1057&utm_source=git)** | Tampa, FL, United States | On Site | Jul 23 |
 | ↳ | **[Career Peer Intern (Student Assistant - FWS)](https://jobright.ai/jobs/info/6a6237371e089c0cc884b147?utm_campaign=1057&utm_source=git)** | Tampa, FL, United States | On Site | Jul 23 |
 | **[Somerville Public Schools](https://somerville.k12.ma.us/)** | **[2026 Summer Programs - Summer Adventure: High School Intern](https://jobright.ai/jobs/info/6a627e65c28982326de97193?utm_campaign=1057&utm_source=git)** | Somerville, MA, United States | On Site | Jul 23 |
 | **[Center for Biological Diversity](http://www.biologicaldiversity.org/)** | **[Education Intern](https://jobright.ai/jobs/info/6a627cd1f805ef6ff423331d?utm_campaign=1057&utm_source=git)** | Minnesota, United States | Remote | Jul 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dimensional Fund Advisors](https://us.dimensional.com)** | **[Internship in Global Client Group (Undergraduate & Master's)](https://jobright.ai/jobs/info/6a6245fb07e15f1ab0e45458?utm_campaign=1057&utm_source=git)** | Austin, Texas, United States | Hybrid | Jul 23 |
 | **[SMASH](http://www.smash.org/)** | **[2026 SMASH Academy - Program Coordinator (Michigan)](https://jobright.ai/jobs/info/6a624265f805ef6ff4231b40?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI, United States | Hybrid | Jul 23 |
 | **[GuidePoint Security](https://www.guidepointsecurity.com/)** | **[Training Design Intern](https://jobright.ai/jobs/info/6a623a9fc28982326de9553f?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 23 |
-| **[Colorado State University Environmental Learning Center](https://www.csuelc.org)** | **[STEM & Environmental Education Intern](https://jobright.ai/jobs/info/6a62d4ad426d415f66360a9c?utm_campaign=1057&utm_source=git)** | Stem, North Carolina, United States | On Site | Jul 23 |
-| **[Richmond Redevelopment and Housing Authority (RRHA)](https://www.rrha.com)** | **[YLEA Summer Intern](https://jobright.ai/jobs/info/6a5a0c28686b4755d1e1327a?utm_campaign=1057&utm_source=git)** | Richmond, VA, United States | On Site | Jul 23 |
-| **[New American Pathways](https://newamericanpathways.org)** | **[Afterschool Intern (Elementary School)](https://jobright.ai/jobs/info/6a6226d7f805ef6ff42311a5?utm_campaign=1057&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
