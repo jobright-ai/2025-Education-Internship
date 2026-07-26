@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aspire Public Schools](http://aspirepublicschools.org)** | **[School Psychologist Intern](https://jobright.ai/jobs/info/6a6614b687cef057612cf68f?utm_campaign=1057&utm_source=git)** | Central Valley, United States | On Site | Jul 26 |
+| **[BGE, Inc.](https://www.bgeinc.com)** | **[HOUSTON - Transportation, Internship](https://jobright.ai/jobs/info/69f49aa0db88714bcdfaece3?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Jul 26 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Development Undergraduate Internship](https://jobright.ai/jobs/info/6a3ec11a882f121f56a3b37e?utm_campaign=1057&utm_source=git)** | New York, NY, United States | On Site | Jul 26 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful Scholar Summer Internship, Grower Relations](https://jobright.ai/jobs/info/6a523c478a74e077472f3b7d?utm_campaign=1057&utm_source=git)** | Lost Hills, CA, United States | On Site | Jul 26 |
 | **[The HALO Foundation](https://haloworldwide.org)** | **[INTERN: Jefferson City Boys Program Youth Specialist](https://jobright.ai/jobs/info/6a4330eacbf92c7bcd36e9f5?utm_campaign=1057&utm_source=git)** | Jefferson City, MO, United States | On Site | Jul 25 |
@@ -120,10 +122,10 @@ For a complete list, click the following sortable link below:
 | **[MAC Chamber](http://www.macchamber.org)** | **[Programs Intern](https://jobright.ai/jobs/info/6a63a1fb87cef057612c9c03?utm_campaign=1057&utm_source=git)** | Omaha Metropolitan Area, United States | On Site | Jul 24 |
 | **[NY Hotel Trades Council & Hotel Assoc. of NYC Employee Benefit Funds](https://www.hotelfunds.org)** | **[Career Services Student Intern](https://jobright.ai/jobs/info/6a63999fe8d8d22e32929b13?utm_campaign=1057&utm_source=git)** | Pleasantville, NY, United States | On Site | Jul 24 |
 | **[Aramark UK](https://aramark.co.uk)** | **[Student Intern - Western New Mexico University](https://jobright.ai/jobs/info/6a6399955c7e2d715ebacf35?utm_campaign=1057&utm_source=git)** | Silver City, NM, United States | On Site | Jul 24 |
-| **[Center for Human Development (CHD)](https://chd.org )** | **[Master's Level - Clinical Intern](https://jobright.ai/jobs/info/69547c705bb7de448ef77000?utm_campaign=1057&utm_source=git)** | Easthampton, Massachusetts, United States | Hybrid | Jul 24 |
-| ↳ | **[Master's Level - Clinical Intern](https://jobright.ai/jobs/info/69547bbd5bb7de448ef76e70?utm_campaign=1057&utm_source=git)** | Springfield, Massachusetts, United States | Hybrid | Jul 24 |
-| ↳ | **[Master's Level - Clinical Intern](https://jobright.ai/jobs/info/6954786ff1f8465b79ebaecb?utm_campaign=1057&utm_source=git)** | Greenfield, Massachusetts, United States | Hybrid | Jul 24 |
+| **[Center for Human Development (CHD)](https://chd.org )** | **[Master's Level - Clinical Intern](https://jobright.ai/jobs/info/69547bbd5bb7de448ef76e70?utm_campaign=1057&utm_source=git)** | Springfield, Massachusetts, United States | Hybrid | Jul 24 |
 | ↳ | **[Master's Level - Clinical Intern](https://jobright.ai/jobs/info/69547875aa05c26e7aaee90e?utm_campaign=1057&utm_source=git)** | West Springfield, Massachusetts, United States | Hybrid | Jul 24 |
+| ↳ | **[Master's Level - Clinical Intern](https://jobright.ai/jobs/info/69547c705bb7de448ef77000?utm_campaign=1057&utm_source=git)** | Easthampton, Massachusetts, United States | Hybrid | Jul 24 |
+| ↳ | **[Master's Level - Clinical Intern](https://jobright.ai/jobs/info/6954786ff1f8465b79ebaecb?utm_campaign=1057&utm_source=git)** | Greenfield, Massachusetts, United States | Hybrid | Jul 24 |
 | ↳ | **[Master's Level - Clinical Intern](https://jobright.ai/jobs/info/69548175f1f8465b79ebb591?utm_campaign=1057&utm_source=git)** | Chicopee, Massachusetts, United States | Hybrid | Jul 24 |
 | ↳ | **[Master's Level - Clinical Intern](https://jobright.ai/jobs/info/69547549aa05c26e7aaee35c?utm_campaign=1057&utm_source=git)** | Holyoke, Massachusetts, United States | Hybrid | Jul 24 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Intern – Evaluation & Research (Career and Technical Education)](https://jobright.ai/jobs/info/6a6394d35c7e2d715ebacb05?utm_campaign=1057&utm_source=git)** | Little Rock, AR, United States | On Site | Jul 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The University of British Columbia](http://www.ubc.ca/)** | **[Indigenous Internship Program Lead](https://jobright.ai/jobs/info/6a5e6551f3674a0545d28b37?utm_campaign=1057&utm_source=git)** | Vancouver, BC, Canada | On Site | Jul 24 |
 | **[Chestnut Health Systems](http://chestnut.org/)** | **[Bachelor’s Internship Problem-Solving Court Clinician](https://jobright.ai/jobs/info/6a591598856af468ab001b6b?utm_campaign=1057&utm_source=git)** | Bloomington, IL, United States | On Site | Jul 23 |
 | **[Washington Permanente Medical Group](https://www.wpmgcareers.org/)** | **[Healthcare Careers Pathway Intern](https://jobright.ai/jobs/info/6a6308cb426d415f663616c0?utm_campaign=1057&utm_source=git)** | Renton, WA, United States | Hybrid | Jul 23 |
-| **[Dimensional Fund Advisors](https://us.dimensional.com)** | **[Internship in Global Client Group (Undergraduate & Master's)](https://jobright.ai/jobs/info/6a6245fb07e15f1ab0e45458?utm_campaign=1057&utm_source=git)** | Austin, Texas, United States | On Site | Jul 23 |
-| **[Seattle Pacific University](http://www.spu.edu/)** | **[Adjunct Faculty - Division of Education, Intern Supervisor](https://jobright.ai/jobs/info/6a4fb077397d8d353c28c25e?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
