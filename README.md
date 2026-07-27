@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Anti-Defamation League](http://adl.org/)** | **[Fall Education/Echoes & Reflections College Intern](https://jobright.ai/jobs/info/6a67c0f42bf1fb2b71926ca2?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 27 |
+| **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Internship, Research Center - Libraries](https://jobright.ai/jobs/info/6a347538ce501060b5cf15ad?utm_campaign=1057&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 27 |
+| **[UFP Site Built](https://www.ufpsitebuilt.com)** | **[UFP Business School Intern](https://jobright.ai/jobs/info/6a67be35872eb74f9eadab2a?utm_campaign=1057&utm_source=git)** | Grand Rapids, MI, United States | On Site | Jul 27 |
+| **[Aspire Public Schools](http://aspirepublicschools.org)** | **[Education Specialist (Intern Sponsorship Program)](https://jobright.ai/jobs/info/6a552a402084cd792b4769d6?utm_campaign=1057&utm_source=git)** | Central Valley, United States | On Site | Jul 27 |
+| **[Cogito Innovations](https://www.cogitoinnovations.com)** | **[Skillbridge Internship](https://jobright.ai/jobs/info/6a4323ae3a9004648946a9ff?utm_campaign=1057&utm_source=git)** | Charlotte Hall, MD, United States | On Site | Jul 27 |
 | **[Wheeler Health](https://www.wheelerclinic.org/)** | **[YRCT (Youth Recovery CT) Undergraduate Internship](https://jobright.ai/jobs/info/6a677048d0fb4c3df393cd48?utm_campaign=1057&utm_source=git)** | Plainville, CT, United States | On Site | Jul 27 |
 | **[NY Hotel Trades Council & Hotel Assoc. of NYC Employee Benefit Funds](https://www.hotelfunds.org)** | **[Occupational Therapy Student Intern](https://jobright.ai/jobs/info/6a67aa6a3b5e6b116a54ffb3?utm_campaign=1057&utm_source=git)** | New York, NY, United States | On Site | Jul 27 |
 | **[Juneau Construction Company](http://www.juneaucc.com)** | **[Internship Program (Fall 2026)](https://jobright.ai/jobs/info/6a67aa4a3b5e6b116a54ff8d?utm_campaign=1057&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 27 |
@@ -75,7 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Beta Academy](http://www.betaacademy.org)** | **[Teacher Intern](https://jobright.ai/jobs/info/6a55b9f0ef22935f2e3f6308?utm_campaign=1057&utm_source=git)** | Houston, TX, United States | On Site | Jul 27 |
 | **[Via](http://www.ridewithvia.com)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6a6778bed0fb4c3df393cfb6?utm_campaign=1057&utm_source=git)** | Mobile, AL, United States | On Site | Jul 27 |
 | **[CAI](http://www.compaid.com)** | **[STI Coordinator, Intern](https://jobright.ai/jobs/info/6a6771c22bf1fb2b71925219?utm_campaign=1057&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Jul 27 |
-| **[FTI Consulting](http://www.fticonsulting.com)** | **[2027 Intern - Technology](https://jobright.ai/jobs/info/6a675c92872eb74f9ead8b85?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 27 |
+| **[FTI Consulting](http://www.fticonsulting.com)** | **[2027 Intern - Technology](https://jobright.ai/jobs/info/6a675c8d5d2a117fb9ceb0ee?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 27 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Intern and Volunteer Supervisor](https://jobright.ai/jobs/info/6a54dfe981744f383a3138d6?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
 | ↳ | **[Volunteer/Intern: Board Training Specialist](https://jobright.ai/jobs/info/6a59eafb856af468ab005b0e?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
 | **[Friendship Community Care, Inc.](https://www.fccare.org)** | **[Teacher's Assistant I - Pediatrics  *INTERNSHIP*](https://jobright.ai/jobs/info/6a6752482bf1fb2b719249dc?utm_campaign=1057&utm_source=git)** | Bryant, AR, United States | On Site | Jul 27 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UW School of Medicine and Public Health](https://www.med.wisc.edu)** | **[Internal Medicine Physician](https://jobright.ai/jobs/info/699e395281476f6176b71c1d?utm_campaign=1057&utm_source=git)** | Madison, WI | On Site | Jul 24 |
 | **[Relief International](https://www.ri.org)** | **[Middle East Program Intern](https://jobright.ai/jobs/info/6a432f45cbf92c7bcd36e548?utm_campaign=1057&utm_source=git)** | Washington, DC, United States | On Site | Jul 24 |
 | **[MAC Chamber](http://www.macchamber.org)** | **[Programs Intern](https://jobright.ai/jobs/info/6a63a1fb87cef057612c9c03?utm_campaign=1057&utm_source=git)** | Omaha Metropolitan Area, United States | On Site | Jul 24 |
-| **[NY Hotel Trades Council & Hotel Assoc. of NYC Employee Benefit Funds](https://www.hotelfunds.org)** | **[Career Services Student Intern](https://jobright.ai/jobs/info/6a63999fe8d8d22e32929b13?utm_campaign=1057&utm_source=git)** | Pleasantville, NY, United States | On Site | Jul 24 |
-| **[Aramark UK](https://aramark.co.uk)** | **[Student Intern - Western New Mexico University](https://jobright.ai/jobs/info/6a6399955c7e2d715ebacf35?utm_campaign=1057&utm_source=git)** | Silver City, NM, United States | On Site | Jul 24 |
-| **[Center for Human Development (CHD)](https://chd.org )** | **[Master's Level - Clinical Intern](https://jobright.ai/jobs/info/6954786ff1f8465b79ebaecb?utm_campaign=1057&utm_source=git)** | Greenfield, Massachusetts, United States | Hybrid | Jul 24 |
-| ↳ | **[Master's Level - Clinical Intern](https://jobright.ai/jobs/info/69548175f1f8465b79ebb591?utm_campaign=1057&utm_source=git)** | Chicopee, Massachusetts, United States | Hybrid | Jul 24 |
-| ↳ | **[Master's Level - Clinical Intern](https://jobright.ai/jobs/info/69547bbd5bb7de448ef76e70?utm_campaign=1057&utm_source=git)** | Springfield, Massachusetts, United States | Hybrid | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
