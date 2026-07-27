@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FTI Consulting](http://www.fticonsulting.com)** | **[2027 Intern - Technology](https://jobright.ai/jobs/info/6a675c92872eb74f9ead8b85?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 27 |
+| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Intern and Volunteer Supervisor](https://jobright.ai/jobs/info/6a54dfe981744f383a3138d6?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
+| ↳ | **[Volunteer/Intern: Board Training Specialist](https://jobright.ai/jobs/info/6a59eafb856af468ab005b0e?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
+| **[Friendship Community Care, Inc.](https://www.fccare.org)** | **[Teacher's Assistant I - Pediatrics  *INTERNSHIP*](https://jobright.ai/jobs/info/6a6752482bf1fb2b719249dc?utm_campaign=1057&utm_source=git)** | Bryant, AR, United States | On Site | Jul 27 |
 | **[Melting Pot Ministries](https://www.ourmpm.org )** | **[Practicum Student Intern](https://jobright.ai/jobs/info/6a674bfb2bda4d284285351d?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 27 |
 | **[Cobb EMC](https://www.cobbemc.com/)** | **[Education & Community Relations Intern](https://jobright.ai/jobs/info/6a58fc02686b4755d1e0da03?utm_campaign=1057&utm_source=git)** | Marietta, GA, United States | On Site | Jul 27 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Resource Management](https://jobright.ai/jobs/info/6a671a263b5e6b116a54dc2c?utm_campaign=1057&utm_source=git)** | Tempe, AZ, United States | Hybrid | Jul 27 |
@@ -138,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[Center for Human Development (CHD)](https://chd.org )** | **[Master's Level - Clinical Intern](https://jobright.ai/jobs/info/69547875aa05c26e7aaee90e?utm_campaign=1057&utm_source=git)** | West Springfield, Massachusetts, United States | Hybrid | Jul 24 |
 | ↳ | **[Master's Level - Clinical Intern](https://jobright.ai/jobs/info/6954786ff1f8465b79ebaecb?utm_campaign=1057&utm_source=git)** | Greenfield, Massachusetts, United States | Hybrid | Jul 24 |
 | ↳ | **[Master's Level - Clinical Intern](https://jobright.ai/jobs/info/69547bbd5bb7de448ef76e70?utm_campaign=1057&utm_source=git)** | Springfield, Massachusetts, United States | Hybrid | Jul 24 |
-| ↳ | **[Master's Level - Clinical Intern](https://jobright.ai/jobs/info/69547c705bb7de448ef77000?utm_campaign=1057&utm_source=git)** | Easthampton, Massachusetts, United States | Hybrid | Jul 24 |
 | ↳ | **[Master's Level - Clinical Intern](https://jobright.ai/jobs/info/69547549aa05c26e7aaee35c?utm_campaign=1057&utm_source=git)** | Holyoke, Massachusetts, United States | Hybrid | Jul 24 |
+| ↳ | **[Master's Level - Clinical Intern](https://jobright.ai/jobs/info/69547c705bb7de448ef77000?utm_campaign=1057&utm_source=git)** | Easthampton, Massachusetts, United States | Hybrid | Jul 24 |
 | ↳ | **[Master's Level - Clinical Intern](https://jobright.ai/jobs/info/69548175f1f8465b79ebb591?utm_campaign=1057&utm_source=git)** | Chicopee, Massachusetts, United States | Hybrid | Jul 24 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Intern – Evaluation & Research (Career and Technical Education)](https://jobright.ai/jobs/info/6a6394d35c7e2d715ebacb05?utm_campaign=1057&utm_source=git)** | Little Rock, AR, United States | On Site | Jul 24 |
 | **[The Be. Org](https://www.thebeorg.com)** | **[Summer Intern - Program Associate](https://jobright.ai/jobs/info/6a50e595ae4052672fe95212?utm_campaign=1057&utm_source=git)** | Baltimore, MD, United States | On Site | Jul 24 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of Richmond](http://www.richmond.edu/)** | **[SE Financial Wellness Intern](https://jobright.ai/jobs/info/6a6377d287cef057612c8c2e?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 24 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Graduate Intern, Community Health - Admin, Per Diem, Shift Varies](https://jobright.ai/jobs/info/69f3d94658b23a2329da84d8?utm_campaign=1057&utm_source=git)** | Pembroke Pines, FL | On Site | Jul 24 |
 | **[Allegan Area ESA](https://www.alleganaesa.org/)** | **[Guidance Counselor Intern/Practicum Student](https://jobright.ai/jobs/info/6a63774587cef057612c8bf3?utm_campaign=1057&utm_source=git)** | Wayland, MI, United States | On Site | Jul 24 |
-| **[International Rescue Committee](http://www.rescue.org)** | **[ESOL Intern - Fall 2026 (UNPAID)](https://jobright.ai/jobs/info/6a5e485e050c423c792ee2c6?utm_campaign=1057&utm_source=git)** | Richmond, VA USA, United States of America | On Site | Jul 24 |
-| **[Planned Parenthood of Southern New England, Inc.](http://www.ppsne.org)** | **[Generation Action Intern](https://jobright.ai/jobs/info/6a637161e8d8d22e32928b65?utm_campaign=1057&utm_source=git)** | New Haven, CT, United States | Hybrid | Jul 24 |
-| **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern (Academic Credit) - Department of Neurology - Per Diem (Onsite)](https://jobright.ai/jobs/info/6a473b1d8204a812e98cb5b7?utm_campaign=1057&utm_source=git)** | Los Angeles, CA | On Site | Jul 24 |
-| **[Association of Schools and Programs of Public Health (ASPPH)](http://www.aspph.org/)** | **[Graduate Research & Program Innovation Intern](https://jobright.ai/jobs/info/6a63437e00459a72f2abfb26?utm_campaign=1057&utm_source=git)** | Washington, DC, United States | Remote | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
