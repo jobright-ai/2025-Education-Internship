@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[FTI Consulting](http://www.fticonsulting.com)** | **[2027 Intern - Technology](https://jobright.ai/jobs/info/6a675c92872eb74f9ead8b85?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 27 |
+| **[FTI Consulting](http://www.fticonsulting.com)** | **[2027 Intern - Technology](https://jobright.ai/jobs/info/6a675c8d5d2a117fb9ceb0ee?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 27 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Intern and Volunteer Supervisor](https://jobright.ai/jobs/info/6a54dfe981744f383a3138d6?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
 | ↳ | **[Volunteer/Intern: Board Training Specialist](https://jobright.ai/jobs/info/6a59eafb856af468ab005b0e?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
 | **[Friendship Community Care, Inc.](https://www.fccare.org)** | **[Teacher's Assistant I - Pediatrics  *INTERNSHIP*](https://jobright.ai/jobs/info/6a6752482bf1fb2b719249dc?utm_campaign=1057&utm_source=git)** | Bryant, AR, United States | On Site | Jul 27 |
@@ -139,12 +139,12 @@ For a complete list, click the following sortable link below:
 | **[MAC Chamber](http://www.macchamber.org)** | **[Programs Intern](https://jobright.ai/jobs/info/6a63a1fb87cef057612c9c03?utm_campaign=1057&utm_source=git)** | Omaha Metropolitan Area, United States | On Site | Jul 24 |
 | **[NY Hotel Trades Council & Hotel Assoc. of NYC Employee Benefit Funds](https://www.hotelfunds.org)** | **[Career Services Student Intern](https://jobright.ai/jobs/info/6a63999fe8d8d22e32929b13?utm_campaign=1057&utm_source=git)** | Pleasantville, NY, United States | On Site | Jul 24 |
 | **[Aramark UK](https://aramark.co.uk)** | **[Student Intern - Western New Mexico University](https://jobright.ai/jobs/info/6a6399955c7e2d715ebacf35?utm_campaign=1057&utm_source=git)** | Silver City, NM, United States | On Site | Jul 24 |
-| **[Center for Human Development (CHD)](https://chd.org )** | **[Master's Level - Clinical Intern](https://jobright.ai/jobs/info/69547875aa05c26e7aaee90e?utm_campaign=1057&utm_source=git)** | West Springfield, Massachusetts, United States | Hybrid | Jul 24 |
-| ↳ | **[Master's Level - Clinical Intern](https://jobright.ai/jobs/info/6954786ff1f8465b79ebaecb?utm_campaign=1057&utm_source=git)** | Greenfield, Massachusetts, United States | Hybrid | Jul 24 |
-| ↳ | **[Master's Level - Clinical Intern](https://jobright.ai/jobs/info/69547bbd5bb7de448ef76e70?utm_campaign=1057&utm_source=git)** | Springfield, Massachusetts, United States | Hybrid | Jul 24 |
-| ↳ | **[Master's Level - Clinical Intern](https://jobright.ai/jobs/info/69547549aa05c26e7aaee35c?utm_campaign=1057&utm_source=git)** | Holyoke, Massachusetts, United States | Hybrid | Jul 24 |
+| **[Center for Human Development (CHD)](https://chd.org )** | **[Master's Level - Clinical Intern](https://jobright.ai/jobs/info/69547549aa05c26e7aaee35c?utm_campaign=1057&utm_source=git)** | Holyoke, Massachusetts, United States | Hybrid | Jul 24 |
+| ↳ | **[Master's Level - Clinical Intern](https://jobright.ai/jobs/info/69547875aa05c26e7aaee90e?utm_campaign=1057&utm_source=git)** | West Springfield, Massachusetts, United States | Hybrid | Jul 24 |
 | ↳ | **[Master's Level - Clinical Intern](https://jobright.ai/jobs/info/69547c705bb7de448ef77000?utm_campaign=1057&utm_source=git)** | Easthampton, Massachusetts, United States | Hybrid | Jul 24 |
 | ↳ | **[Master's Level - Clinical Intern](https://jobright.ai/jobs/info/69548175f1f8465b79ebb591?utm_campaign=1057&utm_source=git)** | Chicopee, Massachusetts, United States | Hybrid | Jul 24 |
+| ↳ | **[Master's Level - Clinical Intern](https://jobright.ai/jobs/info/6954786ff1f8465b79ebaecb?utm_campaign=1057&utm_source=git)** | Greenfield, Massachusetts, United States | Hybrid | Jul 24 |
+| ↳ | **[Master's Level - Clinical Intern](https://jobright.ai/jobs/info/69547bbd5bb7de448ef76e70?utm_campaign=1057&utm_source=git)** | Springfield, Massachusetts, United States | Hybrid | Jul 24 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Intern – Evaluation & Research (Career and Technical Education)](https://jobright.ai/jobs/info/6a6394d35c7e2d715ebacb05?utm_campaign=1057&utm_source=git)** | Little Rock, AR, United States | On Site | Jul 24 |
 | **[The Be. Org](https://www.thebeorg.com)** | **[Summer Intern - Program Associate](https://jobright.ai/jobs/info/6a50e595ae4052672fe95212?utm_campaign=1057&utm_source=git)** | Baltimore, MD, United States | On Site | Jul 24 |
 | **[Meharry Medical College](http://www.mmc.edu/)** | **[Summer Intern - Urban League-24](https://jobright.ai/jobs/info/6a3abe3bdd879c60912b02da?utm_campaign=1057&utm_source=git)** | Main Campus, US | On Site | Jul 24 |
