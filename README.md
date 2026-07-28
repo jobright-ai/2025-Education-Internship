@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Conversations to Remember](http://www.ConversationsToRemember.org)** | **[Volunteer Role: Public Health Admin & Program Coordination (Service Learning / Practicum Opportunity / Internship)](https://jobright.ai/jobs/info/6a67d1f73b5e6b116a550b9f?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 27 |
 | **[InterVarsity Christian Fellowship/USA](http://www.intervarsity.org)** | **[Student Intern - Michigan (Graduate and Faculty Ministry)](https://jobright.ai/jobs/info/6a67c6393b5e6b116a550936?utm_campaign=1057&utm_source=git)** | Michigan, United States | On Site | Jul 27 |
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Master's Level Intern - Disability Support Services](https://jobright.ai/jobs/info/6a67c6043b5e6b116a550925?utm_campaign=1057&utm_source=git)** | Lafayette, IN, United States | On Site | Jul 27 |
 | **[Anti-Defamation League](http://adl.org/)** | **[Fall Education/Echoes & Reflections College Intern](https://jobright.ai/jobs/info/6a67c5f45d2a117fb9ced401?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Seton Education Partners](https://www.setonpartners.org)** | **[Mission and Advancement Intern](https://jobright.ai/jobs/info/6a3bab4ad261407de97fb004?utm_campaign=1057&utm_source=git)** | Bronx, NY, United States | On Site | Jul 24 |
 | **[Rowan University](http://www.rowan.edu)** | **[Adjunct Faculty – EdS in School Psychology Instructor/Internship Supervisor, Department of Wellness and Inclusive Services in Education](https://jobright.ai/jobs/info/6a6452468d536034496061dc?utm_campaign=1057&utm_source=git)** | Glassboro, NJ, United States | On Site | Jul 24 |
 | **[The New School](http://www.newschool.edu/nssr/)** | **[Temporary New York String Orchestra Seminar Intern](https://jobright.ai/jobs/info/6a6389fee8d8d22e32929329?utm_campaign=1057&utm_source=git)** | New York, New York, United States | On Site | Jul 24 |
-| **[Pressley Ridge](https://www.pressleyridge.org/)** | **[MSW- Internship](https://jobright.ai/jobs/info/6a63aa8ae8d8d22e32929f35?utm_campaign=1057&utm_source=git)** | Morgantown, WV, United States | On Site | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
