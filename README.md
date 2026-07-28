@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Central Ohio Youth for Christ](http://www.coyfc.org)** | **[City Life West Paid Intern](https://jobright.ai/jobs/info/6a55cdc9fdf4fa71202b55fa?utm_campaign=1057&utm_source=git)** | Columbus, OH, United States | On Site | Jul 28 |
+| **[Richmond Redevelopment and Housing Authority (RRHA)](https://www.rrha.com)** | **[YLEA Summer Intern](https://jobright.ai/jobs/info/6a56abc153b3962b910b1df2?utm_campaign=1057&utm_source=git)** | Richmond, VA, United States | On Site | Jul 28 |
 | **[Center for Human Services - Missouri](https://www.chs-mo.org/)** | **[HS Summer Intern Temp-Pettis](https://jobright.ai/jobs/info/6a68510cd31a503dccb3b38a?utm_campaign=1057&utm_source=git)** | Sedalia, MO, United States | On Site | Jul 27 |
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[School Psychologist Intern General Applicant Pool - San Antonio](https://jobright.ai/jobs/info/6a68476b6eaf5519573a5f61?utm_campaign=1057&utm_source=git)** | San Antonio, TX, United States | On Site | Jul 27 |
 | **[Milton CAT](http://www.miltoncat.com/Pages/default.aspx)** | **[Student Intern - Parts Department](https://jobright.ai/jobs/info/6a55b3efef22935f2e3f5d52?utm_campaign=1057&utm_source=git)** | Scarborough, ME, United States | On Site | Jul 27 |
@@ -84,7 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Internship, Research Center - Libraries](https://jobright.ai/jobs/info/6a347538ce501060b5cf15ad?utm_campaign=1057&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 27 |
 | **[Metropolitan YMCA of the Oranges](https://www.metroymcas.org)** | **[Mental Health Intern](https://jobright.ai/jobs/info/6a2123fe338c01230511d1a7?utm_campaign=1057&utm_source=git)** | Livingston,NJ,US | Hybrid | Jul 27 |
 | **[Aspire Public Schools](http://aspirepublicschools.org)** | **[Education Specialist (Intern Sponsorship Program)](https://jobright.ai/jobs/info/6a552a402084cd792b4769d6?utm_campaign=1057&utm_source=git)** | Central Valley, United States | On Site | Jul 27 |
-| **[Metropolitan YMCA of the Oranges](https://www.metroymcas.org)** | **[Environmental Education- Paid Internship](https://jobright.ai/jobs/info/6a58d9dfc8e3a473cb8a3618?utm_campaign=1057&utm_source=git)** | Newton,NJ,US | On Site | Jul 27 |
+| **[Metropolitan YMCA of the Oranges](https://www.metroymcas.org)** | **[Environmental Education- Paid Internship](https://jobright.ai/jobs/info/6a20edd5c00e701fe836c5de?utm_campaign=1057&utm_source=git)** | Newton,NJ,US | On Site | Jul 27 |
 | **[Cogito Innovations](https://www.cogitoinnovations.com)** | **[Skillbridge Internship](https://jobright.ai/jobs/info/6a4323ae3a9004648946a9ff?utm_campaign=1057&utm_source=git)** | Charlotte Hall, MD, United States | On Site | Jul 27 |
 | **[Huntsville Hospital](https://www.huntsvillehospital.org/)** | **[Information Technology Intern AS NEEDED - 1st shift (Local College or University)](https://jobright.ai/jobs/info/6a63bb328d53603449603fed?utm_campaign=1057&utm_source=git)** | Huntsville, AL, United States | On Site | Jul 27 |
 | **[Wheeler Health](https://www.wheelerclinic.org/)** | **[YRCT (Youth Recovery CT) Undergraduate Internship](https://jobright.ai/jobs/info/6a677048d0fb4c3df393cd48?utm_campaign=1057&utm_source=git)** | Plainville, CT, United States | On Site | Jul 27 |
@@ -104,7 +106,7 @@ For a complete list, click the following sortable link below:
 | **[Beta Academy](http://www.betaacademy.org)** | **[Teacher Intern](https://jobright.ai/jobs/info/6a55b9f0ef22935f2e3f6308?utm_campaign=1057&utm_source=git)** | Houston, TX, United States | On Site | Jul 27 |
 | **[Via](http://www.ridewithvia.com)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6a6778bed0fb4c3df393cfb6?utm_campaign=1057&utm_source=git)** | Mobile, AL, United States | On Site | Jul 27 |
 | **[CAI](http://www.compaid.com)** | **[STI Coordinator, Intern](https://jobright.ai/jobs/info/6a6771c22bf1fb2b71925219?utm_campaign=1057&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Jul 27 |
-| **[FTI Consulting](http://www.fticonsulting.com)** | **[2027 Intern - Technology](https://jobright.ai/jobs/info/6a675c92872eb74f9ead8b85?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 27 |
+| **[FTI Consulting](http://www.fticonsulting.com)** | **[2027 Intern - Technology](https://jobright.ai/jobs/info/6a675c8d5d2a117fb9ceb0ee?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 27 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Intern and Volunteer Supervisor](https://jobright.ai/jobs/info/6a54dfe981744f383a3138d6?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
 | ↳ | **[Volunteer/Intern: Board Training Specialist](https://jobright.ai/jobs/info/6a59eafb856af468ab005b0e?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
 | **[Friendship Community Care, Inc.](https://www.fccare.org)** | **[Teacher's Assistant I - Pediatrics  *INTERNSHIP*](https://jobright.ai/jobs/info/6a6752482bf1fb2b719249dc?utm_campaign=1057&utm_source=git)** | Bryant, AR, United States | On Site | Jul 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org)** | **[English Language Learning Intern (Fall 2026- UNPAID)](https://jobright.ai/jobs/info/6a5e7cf8050c423c792ef7b7?utm_campaign=1057&utm_source=git)** | Charlottesville, VA, United States | On Site | Jul 24 |
 | **[RRS Group & Co](www.myrrsgroup.org)** | **[Real Estate & Transaction Program – Summer 2027 Internship](https://jobright.ai/jobs/info/6a6424f38d53603449605b6e?utm_campaign=1057&utm_source=git)** | San Francisco, CA, United States | Remote | Jul 24 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026: VESL Plus Intern (Unpaid)](https://jobright.ai/jobs/info/6a63f6ba979290281c70503a?utm_campaign=1057&utm_source=git)** | San Diego, CA, United States | On Site | Jul 24 |
-| ↳ | **[Fall 2026: Digital Inclusion Intern (Unpaid)](https://jobright.ai/jobs/info/6a63f69fe8d8d22e3292b902?utm_campaign=1057&utm_source=git)** | San Diego, CA, United States | Hybrid | Jul 24 |
-| ↳ | **[Fall 2026: Women’s Resilience Center Intern (Unpaid)](https://jobright.ai/jobs/info/6a63fb7d87cef057612cb829?utm_campaign=1057&utm_source=git)** | San Diego, CA, United States | On Site | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
