@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Higher Ground Youth & Family Services](https://www.highergroundoc.org/)** | **[Human Trafficking Prevention Intern](https://jobright.ai/jobs/info/6a686bfc5f2a9115e18d80db?utm_campaign=1057&utm_source=git)** | Anaheim, CA, United States | On Site | Jul 28 |
 | **[Central Ohio Youth for Christ](http://www.coyfc.org)** | **[City Life West Paid Intern](https://jobright.ai/jobs/info/6a55cdc9fdf4fa71202b55fa?utm_campaign=1057&utm_source=git)** | Columbus, OH, United States | On Site | Jul 28 |
 | **[Richmond Redevelopment and Housing Authority (RRHA)](https://www.rrha.com)** | **[YLEA Summer Intern](https://jobright.ai/jobs/info/6a56abc153b3962b910b1df2?utm_campaign=1057&utm_source=git)** | Richmond, VA, United States | On Site | Jul 28 |
 | **[Center for Human Services - Missouri](https://www.chs-mo.org/)** | **[HS Summer Intern Temp-Pettis](https://jobright.ai/jobs/info/6a68510cd31a503dccb3b38a?utm_campaign=1057&utm_source=git)** | Sedalia, MO, United States | On Site | Jul 27 |
@@ -106,7 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Beta Academy](http://www.betaacademy.org)** | **[Teacher Intern](https://jobright.ai/jobs/info/6a55b9f0ef22935f2e3f6308?utm_campaign=1057&utm_source=git)** | Houston, TX, United States | On Site | Jul 27 |
 | **[Via](http://www.ridewithvia.com)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6a6778bed0fb4c3df393cfb6?utm_campaign=1057&utm_source=git)** | Mobile, AL, United States | On Site | Jul 27 |
 | **[CAI](http://www.compaid.com)** | **[STI Coordinator, Intern](https://jobright.ai/jobs/info/6a6771c22bf1fb2b71925219?utm_campaign=1057&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Jul 27 |
-| **[FTI Consulting](http://www.fticonsulting.com)** | **[2027 Intern - Technology](https://jobright.ai/jobs/info/6a675c8d5d2a117fb9ceb0ee?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 27 |
+| **[FTI Consulting](http://www.fticonsulting.com)** | **[2027 Intern - Technology](https://jobright.ai/jobs/info/6a675c92872eb74f9ead8b85?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 27 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Intern and Volunteer Supervisor](https://jobright.ai/jobs/info/6a54dfe981744f383a3138d6?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
 | ↳ | **[Volunteer/Intern: Board Training Specialist](https://jobright.ai/jobs/info/6a59eafb856af468ab005b0e?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
 | **[Friendship Community Care, Inc.](https://www.fccare.org)** | **[Teacher's Assistant I - Pediatrics  *INTERNSHIP*](https://jobright.ai/jobs/info/6a6752482bf1fb2b719249dc?utm_campaign=1057&utm_source=git)** | Bryant, AR, United States | On Site | Jul 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[M3 Engineering & Technology Corp.](https://m3eng.com)** | **[STUDENT INTERN Tucson](https://jobright.ai/jobs/info/6a642b15979290281c705909?utm_campaign=1057&utm_source=git)** | Tucson, AZ, United States | On Site | Jul 24 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[English Language Learning Intern (Fall 2026- UNPAID)](https://jobright.ai/jobs/info/6a5e7cf8050c423c792ef7b7?utm_campaign=1057&utm_source=git)** | Charlottesville, VA, United States | On Site | Jul 24 |
 | **[RRS Group & Co](www.myrrsgroup.org)** | **[Real Estate & Transaction Program – Summer 2027 Internship](https://jobright.ai/jobs/info/6a6424f38d53603449605b6e?utm_campaign=1057&utm_source=git)** | San Francisco, CA, United States | Remote | Jul 24 |
-| **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026: VESL Plus Intern (Unpaid)](https://jobright.ai/jobs/info/6a63f6ba979290281c70503a?utm_campaign=1057&utm_source=git)** | San Diego, CA, United States | On Site | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
