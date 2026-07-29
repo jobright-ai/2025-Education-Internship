@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[College Achieve Public Schools (CAPS)](http://collegeachieve.org)** | **[Co Teacher (Senior Internship)](https://jobright.ai/jobs/info/6a69317336d36c1ff2998b90?utm_campaign=1057&utm_source=git)** | Paterson, NJ, United States | On Site | Jul 28 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Spring Juvenile Internship](https://jobright.ai/jobs/info/6a692dae36d36c1ff2998940?utm_campaign=1057&utm_source=git)** | West Palm Beach, FL, United States | On Site | Jul 28 |
 | **[Ponce Health Sciences University - St. Louis](https://phsu.edu/)** | **[Partner Broadcast Support Intern](https://jobright.ai/jobs/info/6a5071d54649561ec08b11da?utm_campaign=1057&utm_source=git)** | St. Louis, MO, United States | On Site | Jul 28 |
 | **[Opportunity Communities, LLC](https://www.oppcommunities.org)** | **[Resident Service Associate-Commonwealth Corp Service Internship](https://jobright.ai/jobs/info/6a68d6815d01972698ee4a4a?utm_campaign=1057&utm_source=git)** | Salem, MA, United States | On Site | Jul 28 |
@@ -106,7 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Anti-Defamation League](http://adl.org/)** | **[Fall Education/Echoes & Reflections College Intern](https://jobright.ai/jobs/info/6a67c0f42bf1fb2b71926ca2?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 27 |
 | **[Metropolitan YMCA of the Oranges](https://www.metroymcas.org)** | **[Mental Health Intern](https://jobright.ai/jobs/info/6a2123fe338c01230511d1a7?utm_campaign=1057&utm_source=git)** | Livingston,NJ,US | Hybrid | Jul 27 |
 | **[Aspire Public Schools](http://aspirepublicschools.org)** | **[Education Specialist (Intern Sponsorship Program)](https://jobright.ai/jobs/info/6a552a402084cd792b4769d6?utm_campaign=1057&utm_source=git)** | Central Valley, United States | On Site | Jul 27 |
-| **[Metropolitan YMCA of the Oranges](https://www.metroymcas.org)** | **[Environmental Education- Paid Internship](https://jobright.ai/jobs/info/6a20edd5c00e701fe836c5de?utm_campaign=1057&utm_source=git)** | Newton,NJ,US | On Site | Jul 27 |
+| **[Metropolitan YMCA of the Oranges](https://www.metroymcas.org)** | **[Environmental Education- Paid Internship](https://jobright.ai/jobs/info/6a58d9dfc8e3a473cb8a3618?utm_campaign=1057&utm_source=git)** | Newton,NJ,US | On Site | Jul 27 |
 | **[Cogito Innovations](https://www.cogitoinnovations.com)** | **[Skillbridge Internship](https://jobright.ai/jobs/info/6a4323ae3a9004648946a9ff?utm_campaign=1057&utm_source=git)** | Charlotte Hall, MD, United States | On Site | Jul 27 |
 | **[Huntsville Hospital](https://www.huntsvillehospital.org/)** | **[Information Technology Intern AS NEEDED - 1st shift (Local College or University)](https://jobright.ai/jobs/info/6a63bb328d53603449603fed?utm_campaign=1057&utm_source=git)** | Huntsville, AL, United States | On Site | Jul 27 |
 | **[Wheeler Health](https://www.wheelerclinic.org/)** | **[YRCT (Youth Recovery CT) Undergraduate Internship](https://jobright.ai/jobs/info/6a677048d0fb4c3df393cd48?utm_campaign=1057&utm_source=git)** | Plainville, CT, United States | On Site | Jul 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Third City Christian Church](http://www.thirdcitychristian.org)** | **[12-Month Internship](https://jobright.ai/jobs/info/6a59a9a4c8e3a473cb8a7e9f?utm_campaign=1057&utm_source=git)** | Grand Island, NE, United States | On Site | Jul 25 |
 | **[City of New York](https://www.nyc.gov)** | **[Fieldwork intern, Bureau of Public Health Clinics](https://jobright.ai/jobs/info/6a5242fc8a74e077472f3d79?utm_campaign=1057&utm_source=git)** | New York, NY, United States | On Site | Jul 25 |
 | **[Analytica](http://www.analytica.net)** | **[2027 Summer Intern Associate](https://jobright.ai/jobs/info/6a5a3866c8e3a473cb8aa670?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 25 |
-| **[Life.Church](http://www.life.church)** | **[Life.Church Campus Internship](https://jobright.ai/jobs/info/6a64b54f0c8e2b4f36dd2738?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
