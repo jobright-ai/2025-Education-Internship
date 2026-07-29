@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/)** | **[Instructional Design Intern – Humanitarian Department](https://jobright.ai/jobs/info/6a6a7fcb0b42f866b619904c?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Jul 29 |
+| **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Financial Literacy Intern](https://jobright.ai/jobs/info/6a6a7d318693c23e7fb7afd9?utm_campaign=1057&utm_source=git)** | Stevens Point, WI, United States | On Site | Jul 29 |
+| **[Gwinnett County Public Schools](https://www.gcpsk12.org/)** | **[Technology and Innovation - Internship Technology Training and Instructional Design](https://jobright.ai/jobs/info/6a6a75ce0b42f866b6198dbf?utm_campaign=1057&utm_source=git)** | Lawrenceville, GA, United States | On Site | Jul 29 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Internship Leader](https://jobright.ai/jobs/info/6a6a649c0b42f866b6198748?utm_campaign=1057&utm_source=git)** | Windham, CT, United States | On Site | Jul 29 |
 | **[ECHO, Leahy Center for Lake Champlain](https://www.echovermont.org)** | **[STEM Education Intern - Fall Semester](https://jobright.ai/jobs/info/6a57d00ae9b77f668bd6af10?utm_campaign=1057&utm_source=git)** | Burlington, VT, United States | On Site | Jul 29 |
 | **[Jencap](https://jencapgroup.com)** | **[2027 Summer Insurance Internship](https://jobright.ai/jobs/info/6a6a5c9048355b3f12bf087f?utm_campaign=1057&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Baltimore Kids Program and Coaching Internship](https://jobright.ai/jobs/info/6a680b692bda4d2842856e9c?utm_campaign=1057&utm_source=git)** | Baltimore, MD, United States | On Site | Jul 27 |
 | **[Weber State University Department of Automotive Technology](https://www.weber.edu/automotive)** | **[WSU PREP Site Coordinator and Outreach Intern](https://jobright.ai/jobs/info/6a696ef112e2925ae3f99d78?utm_campaign=1057&utm_source=git)** | Ogden, UT, United States | On Site | Jul 27 |
 | ↳ | **[Student Intern- Arts Education & Community Engagement](https://jobright.ai/jobs/info/6a6814262bda4d284285711d?utm_campaign=1057&utm_source=git)** | Illinois, United States | On Site | Jul 27 |
-| **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Master's Level Intern - Disability Support Services](https://jobright.ai/jobs/info/6a67c6043b5e6b116a550925?utm_campaign=1057&utm_source=git)** | Lafayette, IN, United States | On Site | Jul 27 |
-| **[Penn State University](http://www.psu.edu/)** | **[Environmental Education Internship](https://jobright.ai/jobs/info/6a50f6cf57513b72e0c62a43?utm_campaign=1057&utm_source=git)** | Stone Valley Area, United States | Remote | Jul 27 |
-| **[UFP Industries](https://www.ufpi.com/)** | **[UFP Business School Intern](https://jobright.ai/jobs/info/6a67be35872eb74f9eadab2a?utm_campaign=1057&utm_source=git)** | Grand Rapids, MI, United States | On Site | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
