@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Noblesville High School Intern](https://jobright.ai/jobs/info/6a6ae18fc00ae03109f806ef?utm_campaign=1057&utm_source=git)** | Noblesville, IN, United States | On Site | Jul 29 |
 | **[The HALO Foundation](https://haloworldwide.org)** | **[INTERN: Kansas City Learning Center Youth Specialist](https://jobright.ai/jobs/info/6a582a799f1f56462cf68e76?utm_campaign=1057&utm_source=git)** | Kansas City, Missouri, United States | On Site | Jul 29 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Instructional Design Intern – Humanitarian Department](https://jobright.ai/jobs/info/6a6a848348355b3f12bf1854?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Jul 29 |
 | **[YMCA of the North Shore](http://www.northshoreymca.org)** | **[YMCA  Sports & Recreation Management Internship - Fall 2026](https://jobright.ai/jobs/info/6a3307e4910b73491071387f?utm_campaign=1057&utm_source=git)** | Beverly, MA, United States | On Site | Jul 29 |
@@ -87,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[New Jewish Narrative](https://www.newjewishnarrative.org/)** | **[Fall 2026 Intern](https://jobright.ai/jobs/info/6a6a38ef0b42f866b6197774?utm_campaign=1057&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 29 |
 | **[AllRecruit](www.allrecruit.com)** | **[Junior Athlete Placement Intern, Fall 2026 (Unpaid, For Academic Credit)](https://jobright.ai/jobs/info/6a6a380419d76667a2abe5a9?utm_campaign=1057&utm_source=git)** | United States | Remote | Jul 29 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment – Program Development Specialist Intern (CNHCP) (NFWS)](https://jobright.ai/jobs/info/6a6a34dbc63ba56308f51eaa?utm_campaign=1057&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 29 |
-| **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, CCS Moline Foster Care Permanency Achievement Practicum Student](https://jobright.ai/jobs/info/6a629d36846162391c936f88?utm_campaign=1057&utm_source=git)** | Moline, IL, United States | On Site | Jul 29 |
-| ↳ | **[Internship, CCS Moline Foster Care Permanency Achievement Practicum Student](https://jobright.ai/jobs/info/6a32f3e329c90c607e4d93a5?utm_campaign=1057&utm_source=git)** | 256 S Soangetaha Rd, Galesburg, IL 61401, USA | On Site | Jul 29 |
+| **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, CCS Moline Foster Care Permanency Achievement Practicum Student](https://jobright.ai/jobs/info/6a32f3e329c90c607e4d93a5?utm_campaign=1057&utm_source=git)** | 256 S Soangetaha Rd, Galesburg, IL 61401, USA | On Site | Jul 29 |
+| ↳ | **[Internship, CCS Moline Foster Care Permanency Achievement Practicum Student](https://jobright.ai/jobs/info/6a629d36846162391c936f88?utm_campaign=1057&utm_source=git)** | Moline, IL, United States | On Site | Jul 29 |
 | **[Greif](http://greif.com)** | **[2026 Greif Foundation Intern](https://jobright.ai/jobs/info/6a6a326a16c69119640fcfd5?utm_campaign=1057&utm_source=git)** | Delaware, OH, United States | On Site | Jul 29 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6a6a2d3019d76667a2abe17c?utm_campaign=1057&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
 | ↳ | **[Student Intern](https://jobright.ai/jobs/info/6a6a2b500b42f866b61971c7?utm_campaign=1057&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Milton CAT](http://www.miltoncat.com/Pages/default.aspx)** | **[Student Intern - Parts Department](https://jobright.ai/jobs/info/6a55b3efef22935f2e3f5d52?utm_campaign=1057&utm_source=git)** | Scarborough, ME, United States | On Site | Jul 27 |
 | **[Touro University](https://www.touro.edu)** | **[School Leadership Internship Supervisor](https://jobright.ai/jobs/info/6a548b37c8eb0843027b046f?utm_campaign=1057&utm_source=git)** | New York, NY, United States | On Site | Jul 27 |
 | **[United Airlines](https://www.united.com)** | **[YearUp Intern Program - Cohort 17](https://jobright.ai/jobs/info/6a683738abe8ae03a4722652?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
-| **[Athens Area Community Foundation](http://athensareacf.org/)** | **[Community Foundation Fellowship (Internship Position)](https://jobright.ai/jobs/info/6a560d6621f64463ad352310?utm_campaign=1057&utm_source=git)** | Athens, GA, United States | On Site | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
