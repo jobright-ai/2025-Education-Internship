@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Macquarie Group](https://www.macquarie.com)** | **[2027 Technology Summer Internship Program](https://jobright.ai/jobs/info/6a71682c71acd469eeda2c3b?utm_campaign=1057&utm_source=git)** | Greater Houston, Texas, United States | Hybrid | Aug 03 |
 | **[Grandview School District #200](https://gsd200.org)** | **[2026-2027 Student Teacher Intern](https://jobright.ai/jobs/info/6a7159fc02d93145bf88f21c?utm_campaign=1057&utm_source=git)** | Grandview, WA, United States | On Site | Aug 03 |
 | **[NAMI Chicago](https://www.namichicago.org)** | **[Youth Engagement Intern](https://jobright.ai/jobs/info/6a715711e2b7476e7b20dcf0?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | On Site | Aug 03 |
 | **[PNC](http://www.pnc.com)** | **[Corporate & Institutional Banking Undergraduate Intern - Commercial & Corporate Banking - Financials and Diversified Track](https://jobright.ai/jobs/info/6a714cbfee751e0c793432d5?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | On Site | Aug 03 |
@@ -150,7 +151,6 @@ For a complete list, click the following sortable link below:
 | **[Mount Hermon Camp and Conference Center](https://www.mounthermon.org)** | **[Family Ministries Intern](https://jobright.ai/jobs/info/6a5be59d3ac7627fe900952e?utm_campaign=1057&utm_source=git)** | Mount Hermon, CA, United States | On Site | Aug 01 |
 | **[Maryland-National Capital Park and Planning Commission](https://www.mncppc.org)** | **[Training and Development Intern](https://jobright.ai/jobs/info/6a6e51cbad0fe2053db9db74?utm_campaign=1057&utm_source=git)** | Riverdale, MD, United States | On Site | Aug 01 |
 | **[Gowanus Canal Conservancy](http://gowanuscanalconservancy.org)** | **[Education Intern Fall 2026](https://jobright.ai/jobs/info/6a50c188d5d2a327b664da17?utm_campaign=1057&utm_source=git)** | Brooklyn, NY, United States | On Site | Aug 01 |
-| **[African Communities Together](https://africans.us)** | **[ESOL Tutor Intern- Paid](https://jobright.ai/jobs/info/6a55103d2084cd792b475d72?utm_campaign=1057&utm_source=git)** | New York, NY, United States | Hybrid | Aug 01 |
 | **[Bandon Dunes Golf Resort](https://www.bandondunesgolf.com/)** | **[2027-2028 Assistant in Training Internship (The Lido & 21 Golf Club)](https://jobright.ai/jobs/info/6a565e0053b3962b910af9f0?utm_campaign=1057&utm_source=git)** | Nekoosa, WI, United States | On Site | Aug 01 |
 | **[Philadelphia Gas Works](http://www.pgworks.com)** | **[Internship - Occupational Safety & Training - Field Operations Department](https://jobright.ai/jobs/info/6a5c01a3856af468ab00e193?utm_campaign=1057&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 01 |
 | **[Soccer Shots Twin Cities](https://www.soccershots.com/minneapolis/)** | **[Small Business Internship](https://jobright.ai/jobs/info/6a6ddf80160eda5948e89e3b?utm_campaign=1057&utm_source=git)** | White Bear Lake, MN, United States | On Site | Aug 01 |
