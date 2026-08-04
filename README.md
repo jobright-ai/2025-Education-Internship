@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Facilities Intern - Plumbing](https://jobright.ai/jobs/info/6a72163d71acd469eeda5dc0?utm_campaign=1057&utm_source=git)** | Rochester, MN, United States | On Site | Aug 04 |
 | **[African Communities Together](https://africans.us)** | **[ESOL Tutor Intern- Paid](https://jobright.ai/jobs/info/6a72106945b6af1c30dbc57e?utm_campaign=1057&utm_source=git)** | New York, NY, United States | Hybrid | Aug 04 |
 | **[Hello Neighbor](https://www.helloneighbor.io)** | **[Internship](https://jobright.ai/jobs/info/6a72103102d93145bf892492?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA, United States | On Site | Aug 04 |
 | **[Third City Christian Church](http://www.thirdcitychristian.org)** | **[12-Month Internship](https://jobright.ai/jobs/info/6a720fe771acd469eeda5b07?utm_campaign=1057&utm_source=git)** | Grand Island, NE, United States | On Site | Aug 04 |
@@ -73,7 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Soccer Shots Berks, Chester, Delaware, and Montgomery County](https://www.soccershots.com/southeastpa/)** | **[Soccer Shots Internship](https://jobright.ai/jobs/info/6a3a2a367ff3777ff863c275?utm_campaign=1057&utm_source=git)** | King of Prussia, PA, US | Hybrid | Aug 04 |
 | **[Alhambra US Chamber](https://alhambrauschamber.org)** | **[Intern](https://jobright.ai/jobs/info/6a71b4f871acd469eeda3d8f?utm_campaign=1057&utm_source=git)** | Austin, TX, United States | On Site | Aug 04 |
 | ↳ | **[Global Education Internship](https://jobright.ai/jobs/info/6a71b4d8ee751e0c79344a9a?utm_campaign=1057&utm_source=git)** | Austin, TX, United States | On Site | Aug 04 |
-| **[Alera Group, Inc.](http://aleragroup.com)** | **[Intern](https://jobright.ai/jobs/info/6a70e8abcb96192a36846667?utm_campaign=1057&utm_source=git)** | Columbia, SC, United States | On Site | Aug 04 |
+| **[Alera Group, Inc.](http://aleragroup.com)** | **[Intern](https://jobright.ai/jobs/info/6a70edce71acd469eeda09d8?utm_campaign=1057&utm_source=git)** | Columbia, SC, United States | On Site | Aug 04 |
 | **[Exos](http://www.teamexos.com/)** | **[Corporate Wellness Internship - Summer 2026](https://jobright.ai/jobs/info/6a71a999e2b7476e7b20ef4d?utm_campaign=1057&utm_source=git)** | San Diego, CA, United States | On Site | Aug 04 |
 | **[Baylor Scott & White Health](https://www.bswhealth.com/)** | **[Clinical Pastoral Edu Intern Fall 2026](https://jobright.ai/jobs/info/6a7124779a0ca4480c7d33aa?utm_campaign=1057&utm_source=git)** | Fort Worth, TX, United States | On Site | Aug 04 |
 | **[NAMI Chicago](https://www.namichicago.org)** | **[Youth Engagement Intern](https://jobright.ai/jobs/info/6a715711e2b7476e7b20dcf0?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | On Site | Aug 04 |
@@ -98,7 +99,7 @@ For a complete list, click the following sortable link below:
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6a7115da9a0ca4480c7d2f12?utm_campaign=1057&utm_source=git)** | New York, NY, United States | On Site | Aug 03 |
 | **[Macquarie Group](https://www.macquarie.com)** | **[2027 Commodities and Global Markets Summer Internship Program](https://jobright.ai/jobs/info/6a717681ee751e0c79343cc0?utm_campaign=1057&utm_source=git)** | New York City metropolitan area, United States | On Site | Aug 03 |
 | **[CED](http://www.cedcareers.com)** | **[Internship - ISU](https://jobright.ai/jobs/info/6a7112fe71acd469eeda1911?utm_campaign=1057&utm_source=git)** | Kansas City, MO, United States | Remote | Aug 03 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/6a7112e79a0ca4480c7d2e6a?utm_campaign=1057&utm_source=git)** | Kansas City, MO, United States | Remote | Aug 03 |
+| ↳ | **[Internship](https://jobright.ai/jobs/info/6a7112e702d93145bf88e204?utm_campaign=1057&utm_source=git)** | Kansas City, MO, United States | Remote | Aug 03 |
 | ↳ | **[Internship - KU](https://jobright.ai/jobs/info/6a7112d7e2b7476e7b20cd0f?utm_campaign=1057&utm_source=git)** | Kansas City, MO, United States | Remote | Aug 03 |
 | **[dae](https://www.mydae.org)** | **[Intern Educator (Computer Science)](https://jobright.ai/jobs/info/6a7110019a0ca4480c7d2d25?utm_campaign=1057&utm_source=git)** | New Haven, CT, United States | On Site | Aug 03 |
 | ↳ | **[Student Success Intern](https://jobright.ai/jobs/info/6a710fe4cb96192a368476e6?utm_campaign=1057&utm_source=git)** | New Haven, CT, United States | On Site | Aug 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Para Educator - Specialized Services at JFK - 1:1 - Vacancy CL-82-27 (Internal Only) DEADLINE DATE: 8/14/2026- 5:00 p.m.](https://jobright.ai/jobs/info/6a6fc46ef5953013637f6800?utm_campaign=1057&utm_source=git)** | West Modesto, California, United States | On Site | Aug 02 |
 | **[Tranquil Clinical Research and Consulting Services](https://tranquilclinicalresearch.com)** | **[Clinical Research Outreach Coordinator](https://jobright.ai/jobs/info/6a6da4095c54bc4752cf31e1?utm_campaign=1057&utm_source=git)** | Webster, TX, United States | On Site | Aug 02 |
 | **[Volo Kids Foundation](http://www.volocityfoundation.org)** | **[Boston Kids Program and Coaching Internship](https://jobright.ai/jobs/info/6a6f9924ad0fe2053db9f74b?utm_campaign=1057&utm_source=git)** | Boston, MA, United States | On Site | Aug 02 |
-| ↳ | **[Baltimore Kids Program and Coaching Internship](https://jobright.ai/jobs/info/6a6f92cdc56c0956e8adcc91?utm_campaign=1057&utm_source=git)** | Baltimore, MD, United States | On Site | Aug 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
