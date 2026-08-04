@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Northern Iowa](http://www.uni.edu/)** | **[Assistant Adjunct Professor - Elementary Curriculum and Internship](https://jobright.ai/jobs/info/6a71e58045b6af1c30dbb4b7?utm_campaign=1057&utm_source=git)** | United States | Remote | Aug 04 |
+| **[Third City Christian Church](http://www.thirdcitychristian.org)** | **[12-Month Internship](https://jobright.ai/jobs/info/6a71e34771acd469eeda4a29?utm_campaign=1057&utm_source=git)** | Grand Island, NE, United States | On Site | Aug 04 |
+| **[Frederick Health](https://www.frederickhealth.org/)** | **[Clinical Pastoral Education Intern](https://jobright.ai/jobs/info/6a71e1d471acd469eeda4966?utm_campaign=1057&utm_source=git)** | Frederick, MD, United States | On Site | Aug 04 |
 | **[Patient-Centered Outcomes Research Institute (PCORI)](http://pcori.org)** | **[Intern - Graduate](https://jobright.ai/jobs/info/6a65fcb40c8e2b4f36dd47de?utm_campaign=1057&utm_source=git)** | Washington, DC, United States | On Site | Aug 04 |
 | **[Soccer Shots Berks, Chester, Delaware, and Montgomery County](https://www.soccershots.com/southeastpa/)** | **[Soccer Shots Internship](https://jobright.ai/jobs/info/6a3a2a367ff3777ff863c275?utm_campaign=1057&utm_source=git)** | King of Prussia, PA, US | Hybrid | Aug 04 |
 | **[Alhambra US Chamber](https://alhambrauschamber.org)** | **[Intern](https://jobright.ai/jobs/info/6a71b4f871acd469eeda3d8f?utm_campaign=1057&utm_source=git)** | Austin, TX, United States | On Site | Aug 04 |
 | ↳ | **[Global Education Internship](https://jobright.ai/jobs/info/6a71b4d8ee751e0c79344a9a?utm_campaign=1057&utm_source=git)** | Austin, TX, United States | On Site | Aug 04 |
-| **[Alera Group, Inc.](http://aleragroup.com)** | **[Intern](https://jobright.ai/jobs/info/6a70edce71acd469eeda09d8?utm_campaign=1057&utm_source=git)** | Columbia, SC, United States | On Site | Aug 04 |
+| **[Alera Group, Inc.](http://aleragroup.com)** | **[Intern](https://jobright.ai/jobs/info/6a70e8abcb96192a36846667?utm_campaign=1057&utm_source=git)** | Columbia, SC, United States | On Site | Aug 04 |
 | **[Exos](http://www.teamexos.com/)** | **[Corporate Wellness Internship - Summer 2026](https://jobright.ai/jobs/info/6a71a999e2b7476e7b20ef4d?utm_campaign=1057&utm_source=git)** | San Diego, CA, United States | On Site | Aug 04 |
 | **[Baylor Scott & White Health](https://www.bswhealth.com/)** | **[Clinical Pastoral Edu Intern Fall 2026](https://jobright.ai/jobs/info/6a7124779a0ca4480c7d33aa?utm_campaign=1057&utm_source=git)** | Fort Worth, TX, United States | On Site | Aug 04 |
 | **[NAMI Chicago](https://www.namichicago.org)** | **[Youth Engagement Intern](https://jobright.ai/jobs/info/6a715711e2b7476e7b20dcf0?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | On Site | Aug 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Direction Home Akron Canton Area Agency on Aging & Disabilities](https://www.dhad.org)** | **[HCBS Student Intern](https://jobright.ai/jobs/info/6a6f201241b41d325296c6da?utm_campaign=1057&utm_source=git)** | Uniontown, OH, United States | On Site | Aug 02 |
 | **[DSLD Homes](https://www.dsldhomes.com)** | **[Intern - Assistant Superintendent - Gulfport/Biloxi, MS](https://jobright.ai/jobs/info/6a57d6f5efb06a45240ddad0?utm_campaign=1057&utm_source=git)** | Gulfport, MS, United States | On Site | Aug 02 |
 | **[Communities In Schools of San Antonio](https://www.cissa.org)** | **[CIS-SA AmeriCorps Volunteer (Internship)](https://jobright.ai/jobs/info/6a5c3af44da96a42cfd9c17c?utm_campaign=1057&utm_source=git)** | San Antonio, TX, United States | On Site | Aug 01 |
-| **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern (Academic Credit) - MAST Program - Department of Medicine - Per Diem (Onsite)](https://jobright.ai/jobs/info/6a56e15853b3962b910b3098?utm_campaign=1057&utm_source=git)** | 8687 Melrose Ave, West Hollywood, CA, 90069, US | On Site | Aug 01 |
-| ↳ | **[Research Intern (Academic Credit) - Department of Neurology - Per Diem (Onsite)](https://jobright.ai/jobs/info/6a47a72ac2d11a6a46672c94?utm_campaign=1057&utm_source=git)** | Los Angeles, CA, US | On Site | Aug 01 |
-| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Youth Hockey Development (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a6eb258f5953013637f535f?utm_campaign=1057&utm_source=git)** | Washington, DC, United States | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
