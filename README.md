@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Third City Christian Church](http://www.thirdcitychristian.org)** | **[12-Month Internship](https://jobright.ai/jobs/info/6a72746071acd469eeda833d?utm_campaign=1057&utm_source=git)** | Grand Island, NE, United States | On Site | Aug 04 |
+| **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Georgetown Student Internship](https://jobright.ai/jobs/info/6a72864c45b6af1c30dbf0c6?utm_campaign=1057&utm_source=git)** | Washington, DC, United States | On Site | Aug 04 |
 | **[Sentara Health](https://www.sentara.com/)** | **[Chiropractic Intern](https://jobright.ai/jobs/info/6a72450acb96192a3684d071?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA, United States | On Site | Aug 04 |
 | **[CAWST](http://www.cawst.org/)** | **[Learning and Development Intern (12 month contract)](https://jobright.ai/jobs/info/6a726ef5ee751e0c79349019?utm_campaign=1057&utm_source=git)** | Calgary, AB, Canada | Hybrid | Aug 04 |
 | **[Collingwood School](http://www.collingwood.org)** | **[Teacher Intern](https://jobright.ai/jobs/info/6a726a63e2b7476e7b213506?utm_campaign=1057&utm_source=git)** | West Vancouver, BC, Canada | On Site | Aug 04 |
@@ -71,8 +71,8 @@ For a complete list, click the following sortable link below:
 | **[Hoboken Grace Community Church](http://www.hobokengrace.com)** | **[Special Education Intern - Fall 2026](https://jobright.ai/jobs/info/6a724a6ce2b7476e7b212750?utm_campaign=1057&utm_source=git)** | Hoboken, NJ, United States | On Site | Aug 04 |
 | ↳ | **[Early Childhood Intern - Fall 2026](https://jobright.ai/jobs/info/6a724a6745b6af1c30dbdc7a?utm_campaign=1057&utm_source=git)** | Hoboken, NJ, United States | On Site | Aug 04 |
 | ↳ | **[Youth Event Planning Intern - Fall 2026](https://jobright.ai/jobs/info/6a724a5d71acd469eeda720d?utm_campaign=1057&utm_source=git)** | Hoboken, NJ, United States | On Site | Aug 04 |
-| ↳ | **[Pastoral Intern - Fall 2026](https://jobright.ai/jobs/info/6a724a52cb96192a3684d2aa?utm_campaign=1057&utm_source=git)** | Hoboken, NJ, United States | On Site | Aug 04 |
 | ↳ | **[Youth Program Intern - Fall 2026](https://jobright.ai/jobs/info/6a724a5202d93145bf893c57?utm_campaign=1057&utm_source=git)** | Hoboken, NJ, United States | On Site | Aug 04 |
+| ↳ | **[Pastoral Intern - Fall 2026](https://jobright.ai/jobs/info/6a724a52cb96192a3684d2aa?utm_campaign=1057&utm_source=git)** | Hoboken, NJ, United States | On Site | Aug 04 |
 | **[COMMUNITY ACTION PROGRAM BELKNAP- MERRIMACK COUNTIES](https://www.bm-cap.org)** | **[ECE Teacher Student Internship](https://jobright.ai/jobs/info/6a210cb2c00e701fe836cfab?utm_campaign=1057&utm_source=git)** | Concord,NH,US | On Site | Aug 04 |
 | ↳ | **[ECE Teacher Student Internship](https://jobright.ai/jobs/info/6a5e3a9027bf767ea68f56e4?utm_campaign=1057&utm_source=git)** | Concord, NH, United States | On Site | Aug 04 |
 | **[Arizona State University](http://www.asu.edu)** | **[Management Intern - Student Accessibility and Inclusive Learning Services Accessible Media Services](https://jobright.ai/jobs/info/6a72429de2b7476e7b212426?utm_campaign=1057&utm_source=git)** | Tempe, AZ, United States | On Site | Aug 04 |
@@ -151,8 +151,8 @@ For a complete list, click the following sortable link below:
 | **[University of Minnesota](https://twin-cities.umn.edu)** | **[Leadership Minor Teaching Intern](https://jobright.ai/jobs/info/6a70ba521003bd7b70d6c276?utm_campaign=1057&utm_source=git)** | Minneapolis, MN, United States | On Site | Aug 03 |
 | **[AdventHealth](https://www.adventhealth.com/)** | **[Facility Intern](https://jobright.ai/jobs/info/6a6d144b32f9300c3a3e6f93?utm_campaign=1057&utm_source=git)** | Burleson, TX, United States | On Site | Aug 03 |
 | **[Pentair](http://www.pentair.com)** | **[Engineering Leadership Development Internship Program – Summer 2027](https://jobright.ai/jobs/info/6a709fe0357dfc6ff2b39ddc?utm_campaign=1057&utm_source=git)** | Golden Valley, MN, United States | On Site | Aug 03 |
-| ↳ | **[IT & Cybersecurity Leadership Development Internship Program -  Summer 2027](https://jobright.ai/jobs/info/6a717637e2b7476e7b20e306?utm_campaign=1057&utm_source=git)** | Golden Valley, MN, United States | On Site | Aug 03 |
 | ↳ | **[Finance Leadership Development Internship Program – Summer 2027](https://jobright.ai/jobs/info/6a709fb371acd469eed9e800?utm_campaign=1057&utm_source=git)** | Golden Valley, MN, United States | On Site | Aug 03 |
+| ↳ | **[IT & Cybersecurity Leadership Development Internship Program -  Summer 2027](https://jobright.ai/jobs/info/6a717637e2b7476e7b20e306?utm_campaign=1057&utm_source=git)** | Golden Valley, MN, United States | On Site | Aug 03 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Contracted Student Interns - Service Forestry Intern - Central Region (UNPAID)](https://jobright.ai/jobs/info/6a70b0b702d93145bf88b994?utm_campaign=1057&utm_source=git)** | West Boylston, MA, United States | On Site | Aug 03 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Contracted Student Interns - Service Forestry Intern - Central Region (UNPAID)](https://jobright.ai/jobs/info/6a70aea1e2b7476e7b20a372?utm_campaign=1057&utm_source=git)** | West Boylston, MA, United States | On Site | Aug 03 |
 | **[YMCA of Portsmouth](http://www.portsmouthymca.org)** | **[Unpaid Intern](https://jobright.ai/jobs/info/6a714082ee751e0c793430fb?utm_campaign=1057&utm_source=git)** | Chesapeake, VA, United States | On Site | Aug 03 |
