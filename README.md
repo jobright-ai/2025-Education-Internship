@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Third City Christian Church](http://www.thirdcitychristian.org)** | **[12-Month Internship](https://jobright.ai/jobs/info/6a73809b8cd88e7ccbf58d13?utm_campaign=1057&utm_source=git)** | Grand Island, NE, United States | On Site | Aug 05 |
+| **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2026 Hospitality Learning & Development Intern](https://jobright.ai/jobs/info/6a51b80b8d7d3e6cf1cc1a12?utm_campaign=1057&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 05 |
+| **[Penn State University](http://www.psu.edu/)** | **[IT/CYBER Internship Coordinator](https://jobright.ai/jobs/info/6a73752832ebbc14ffb4f149?utm_campaign=1057&utm_source=git)** | Beaver, Pennsylvania, United States | On Site | Aug 05 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2027 Project Management, US Consumer Services - New York, NY](https://jobright.ai/jobs/info/6a7350901ce9647cdbca7590?utm_campaign=1057&utm_source=git)** | New York, NY, United States | On Site | Aug 05 |
-| **[LCS](https://www.lcsnet.com/)** | **[Business Applications Training Intern](https://jobright.ai/jobs/info/6a65a5985c7e2d715ebb23db?utm_campaign=1057&utm_source=git)** | Des Moines, IA, United States | On Site | Aug 05 |
-| ↳ | **[Business Applications Training Intern](https://jobright.ai/jobs/info/6a5697bee9b77f668bd64521?utm_campaign=1057&utm_source=git)** | 400 Locust Street, Des Moines, IA, 50309, US | On Site | Aug 05 |
+| **[LCS](https://www.lcsnet.com/)** | **[Business Applications Training Intern](https://jobright.ai/jobs/info/6a5697bee9b77f668bd64521?utm_campaign=1057&utm_source=git)** | 400 Locust Street, Des Moines, IA, 50309, US | On Site | Aug 05 |
 | ↳ | **[Business Applications Training Intern](https://jobright.ai/jobs/info/6a5e6b2127bf767ea68f69af?utm_campaign=1057&utm_source=git)** | Des Moines, IA, United States | On Site | Aug 05 |
 | ↳ | **[Business Applications Training Intern](https://jobright.ai/jobs/info/6a6929acb22f1b56a602b103?utm_campaign=1057&utm_source=git)** | Des Moines, IA, United States | On Site | Aug 05 |
+| ↳ | **[Business Applications Training Intern](https://jobright.ai/jobs/info/6a65a5985c7e2d715ebb23db?utm_campaign=1057&utm_source=git)** | Des Moines, IA, United States | On Site | Aug 05 |
 | **[PSI Groups](https://www.psigroups.net)** | **[Student Intern](https://jobright.ai/jobs/info/6a7377c632ebbc14ffb4f236?utm_campaign=1057&utm_source=git)** | Gainesville, FL, United States | Remote | Aug 05 |
 | ↳ | **[Student Intern](https://jobright.ai/jobs/info/6a73597fe55c73319eb16aba?utm_campaign=1057&utm_source=git)** | Orlando, FL, United States | Remote | Aug 05 |
 | ↳ | **[Student Intern](https://jobright.ai/jobs/info/6a73597232ebbc14ffb4e5a8?utm_campaign=1057&utm_source=git)** | Nashville, TN, United States | Remote | Aug 05 |
@@ -88,7 +89,7 @@ For a complete list, click the following sortable link below:
 | **[University of Oklahoma](http://www.ou.edu)** | **[UWC Media Intern (Fall)](https://jobright.ai/jobs/info/6a72a4a071acd469eeda8d2f?utm_campaign=1057&utm_source=git)** | Norman, OK, United States | On Site | Aug 04 |
 | **[YMCA of Delaware](https://www.ymcade.org)** | **[School Age Site Intern- Western YMCA Family Location](https://jobright.ai/jobs/info/6a6b5a82acb0a61f9dbc04ca?utm_campaign=1057&utm_source=git)** | Newark, DE, United States | On Site | Aug 04 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Georgetown Student Internship](https://jobright.ai/jobs/info/6a72864c45b6af1c30dbf0c6?utm_campaign=1057&utm_source=git)** | Washington, DC, United States | On Site | Aug 04 |
-| **[Penn State University](http://www.psu.edu/)** | **[IT/CYBER Internship Coordinator](https://jobright.ai/jobs/info/6a73750d6a034212ea027a6d?utm_campaign=1057&utm_source=git)** | Beaver, Pennsylvania, United States | On Site | Aug 04 |
+| **[University of Virginia](https://parking.virginia.edu/)** | **[Hoos First Undergraduate Intern - Federal Work-Study Position (Student Wage)](https://jobright.ai/jobs/info/6a738d51e55c73319eb18052?utm_campaign=1057&utm_source=git)** | Charlottesville, VA, United States | On Site | Aug 04 |
 | **[Peckham, Inc.](https://www.peckham.org/)** | **[Youth Services Intern](https://jobright.ai/jobs/info/6a737d7832ebbc14ffb4f46f?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI, United States | On Site | Aug 04 |
 | **[PNC](http://www.pnc.com)** | **[Corporate & Institutional Banking Undergraduate Intern – Commercial & Corporate Banking (West)](https://jobright.ai/jobs/info/6a73750c32ebbc14ffb4f146?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | On Site | Aug 04 |
 | ↳ | **[Corporate & Institutional Banking Undergraduate Intern – Commercial & Corporate Banking (East)](https://jobright.ai/jobs/info/6a737504e55c73319eb17673?utm_campaign=1057&utm_source=git)** | Pittsburgh, PA, United States | On Site | Aug 04 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[SchoolSpring](http://www.schoolspring.com)** | **[School Psychology-Intern (26-27 SY)- Special Education](https://jobright.ai/jobs/info/6a7118309a0ca4480c7d2fc3?utm_campaign=1057&utm_source=git)** | Irving, TX, United States | On Site | Aug 03 |
 | **[Macquarie Group](https://www.macquarie.com)** | **[2027 Commodities and Global Markets Summer Internship Program](https://jobright.ai/jobs/info/6a717681ee751e0c79343cc0?utm_campaign=1057&utm_source=git)** | New York City metropolitan area, United States | On Site | Aug 03 |
 | **[CED](http://www.cedcareers.com)** | **[Internship - ISU](https://jobright.ai/jobs/info/6a7112fe71acd469eeda1911?utm_campaign=1057&utm_source=git)** | Kansas City, MO, United States | Remote | Aug 03 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/6a7112e79a0ca4480c7d2e6a?utm_campaign=1057&utm_source=git)** | Kansas City, MO, United States | Remote | Aug 03 |
+| ↳ | **[Internship](https://jobright.ai/jobs/info/6a7112e702d93145bf88e204?utm_campaign=1057&utm_source=git)** | Kansas City, MO, United States | Remote | Aug 03 |
 | ↳ | **[Internship - KU](https://jobright.ai/jobs/info/6a7112d7e2b7476e7b20cd0f?utm_campaign=1057&utm_source=git)** | Kansas City, MO, United States | Remote | Aug 03 |
-| **[dae](https://www.mydae.org)** | **[Intern Educator (Computer Science)](https://jobright.ai/jobs/info/6a7110019a0ca4480c7d2d25?utm_campaign=1057&utm_source=git)** | New Haven, CT, United States | On Site | Aug 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
