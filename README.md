@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Utah Transit Authority](http://www.rideuta.com/)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/6a7e538a19ce4e6e9d932919?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 13 |
 | **[Synergy Academies](https://www.wearesynergy.org/)** | **[Counseling Intern](https://jobright.ai/jobs/info/6a7e90a2e51a1e18a240e558?utm_campaign=1057&utm_source=git)** | Los Angeles metropolitan area, United States | On Site | Aug 13 |
-| **[The LEARN Academy](https://www.thelearnacademy.com)** | **[Intern School Psychologist](https://jobright.ai/jobs/info/6a124fe683d714428982d941?utm_campaign=1057&utm_source=git)** | Flagstaff, AZ, US | On Site | Aug 13 |
 | **[Accelint](https://accelint.com)** | **[Instructional Systems Designer Internship](https://jobright.ai/jobs/info/6a7e00b4e2030208f2766eac?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI, United States | On Site | Aug 13 |
 | **[California Energy Commission](http://www.energy.ca.gov)** | **[Student Assistant - Transportation Planning Intern- Office of the Lead Advisor - Hybrid](https://jobright.ai/jobs/info/6a7e4c8cb56bea5779c050a4?utm_campaign=1057&utm_source=git)** | Sacramento, CA, United States | Hybrid | Aug 13 |
 | **[University Enterprises, Inc.](http://www.enterprises.csus.edu)** | **[Student Assistant - Transportation Planning Intern- Office of the Lead Advisor - Hybrid](https://jobright.ai/jobs/info/6a7e4c59b56bea5779c05096?utm_campaign=1057&utm_source=git)** | Sacramento, CA, United States | Hybrid | Aug 13 |
@@ -126,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[Syracuse City School District](http://www.syracusecityschools.com/)** | **[Administrative Intern of Collaborative Strategies & Professional Learning](https://jobright.ai/jobs/info/6a7d4c2677d5f033c4b92828?utm_campaign=1057&utm_source=git)** | Syracuse, NY, United States | On Site | Aug 12 |
 | **[Atrium Health](https://atriumhealth.org/medical-services/childrens-services/levine-childrens-hospital)** | **[Student Intern _GA](https://jobright.ai/jobs/info/6a7da5370a156a4f2c227225?utm_campaign=1057&utm_source=git)** | Macon, GA, United States | On Site | Aug 12 |
 | ↳ | **[Student Intern _GA](https://jobright.ai/jobs/info/6a7d35c6a346cb6c8d5f1da6?utm_campaign=1057&utm_source=git)** | Macon, GA, United States | On Site | Aug 12 |
-| **[Utah Transit Authority](http://www.rideuta.com/)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/6a7e538a19ce4e6e9d932919?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 12 |
 | **[BOK Financial](https://www.bokfinancial.com)** | **[2027 Accelerated Career Track (81882) - Intern Consumer Strategies (Tulsa)](https://jobright.ai/jobs/info/6a7e67c7b56bea5779c05b02?utm_campaign=1057&utm_source=git)** | Tulsa, OK, United States | On Site | Aug 12 |
 | **[YMCA of Delaware](https://www.ymcade.org)** | **[School Age Site Intern- Sussex YMCA (Indian River School District)](https://jobright.ai/jobs/info/6a7ca4d883621355407aae0f?utm_campaign=1057&utm_source=git)** | Rehoboth Beach, DE, United States | On Site | Aug 12 |
 | **[EO](https://www.eoco.org)** | **[Intern – Washington County Public Library](https://jobright.ai/jobs/info/6a7cf88077d5f033c4b91b94?utm_campaign=1057&utm_source=git)** | United States | Remote | Aug 12 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[American Kidney Fund](http://www.kidneyfund.org)** | **[Intern - Public Education](https://jobright.ai/jobs/info/6a7c3581d77e8156a8e3175b?utm_campaign=1057&utm_source=git)** | Rockville, MD, United States | Remote | Aug 12 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Operations Training, Intern](https://jobright.ai/jobs/info/6a7c340283621355407a9184?utm_campaign=1057&utm_source=git)** | Houston, TX, United States | On Site | Aug 12 |
 | **[Liminl](https://liminl.ai)** | **[Growth and Community Intern](https://jobright.ai/jobs/info/6a7bea6777e6b569c61c2b3e?utm_campaign=1057&utm_source=git)** | Dallas, TX, United States | On Site | Aug 11 |
+| **[Duke University](http://www.duke.edu)** | **[Global Studies Research Intern (Part-Time, Temporary)](https://jobright.ai/jobs/info/6a7bc4d3ecfd29770753adba?utm_campaign=1057&utm_source=git)** | Durham, NC, United States | On Site | Aug 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
