@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Intern/Summer - Ophthalmology (Waltham)](https://jobright.ai/jobs/info/6a6c12715c54bc4752cec631?utm_campaign=1057&utm_source=git)** | Waltham, MA, United States | On Site | Aug 14 |
+| **[Chestnut Health Systems](http://chestnut.org/)** | **[ZZ Bachelor’s Internship Problem-Solving Court Clinician](https://jobright.ai/jobs/info/6a7f572019ce4e6e9d93704e?utm_campaign=1057&utm_source=git)** | Bloomington, IL, United States | On Site | Aug 14 |
+| **[ImpactLife](https://www.bloodcenter.org/)** | **[Donor Relations Internship-On Campus Eastern Illinois University](https://jobright.ai/jobs/info/6a7f2868e51a1e18a241090b?utm_campaign=1057&utm_source=git)** | Charleston, IL, United States | On Site | Aug 14 |
 | **[ExxonMobil](https://corporate.exxonmobil.com)** | **[PhD Students Seeking Internship Opportunities](https://jobright.ai/jobs/info/6a7f5130ad9ff00c26bad7e8?utm_campaign=1057&utm_source=git)** | Spring, TX, United States | On Site | Aug 14 |
 | **[Aspen Publishing](https://www.aspenpublishing.com/)** | **[Course Assistant Internship](https://jobright.ai/jobs/info/6a6cae2232f9300c3a3e479b?utm_campaign=1057&utm_source=git)** | United States | Remote | Aug 14 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[University of Houston - GCSW - Professional Internship (non-classroom)](https://jobright.ai/jobs/info/6a7f4707b56bea5779c09bf5?utm_campaign=1057&utm_source=git)** | League City, TX, United States | On Site | Aug 14 |
@@ -68,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Carroll School](https://carrollschool.org)** | **[Graduate Intern- Teacher Resident](https://jobright.ai/jobs/info/6a58db5fc8e3a473cb8a36fb?utm_campaign=1057&utm_source=git)** | Waltham, MA, United States | On Site | Aug 14 |
 | **[Utah Transit Authority](http://www.rideuta.com/)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/6a7ecb61e2030208f276a94d?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 14 |
 | **[University Enterprises, Inc.](http://www.enterprises.csus.edu)** | **[Student Assistant - Transportation Planning Intern- Office of the Lead Advisor - Hybrid](https://jobright.ai/jobs/info/6a7ebcb6b56bea5779c06e8c?utm_campaign=1057&utm_source=git)** | Sacramento, CA, United States | Hybrid | Aug 13 |
-| **[ImpactLife](https://www.bloodcenter.org/)** | **[Donor Relations Internship-On Campus Eastern Illinois University](https://jobright.ai/jobs/info/6a7f2868e51a1e18a241090b?utm_campaign=1057&utm_source=git)** | Charleston, IL, United States | On Site | Aug 13 |
 | **[Synergy Academies](https://www.wearesynergy.org/)** | **[Counseling Intern](https://jobright.ai/jobs/info/6a7e90a2e51a1e18a240e558?utm_campaign=1057&utm_source=git)** | Los Angeles metropolitan area, United States | On Site | Aug 13 |
 | **[Holly Hill Child & Family Solutions](https://www.hollyhill-ky.org/)** | **[INTERN](https://jobright.ai/jobs/info/6a7e7edaad9ff00c26bab496?utm_campaign=1057&utm_source=git)** | Highland Heights, KY, United States | On Site | Aug 13 |
 | ↳ | **[INTERN](https://jobright.ai/jobs/info/6a7e679519ce4e6e9d932dc4?utm_campaign=1057&utm_source=git)** | California, United States | On Site | Aug 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Archdiocese of Detroit](http://aod.org)** | **[DCCM Campus Intern](https://jobright.ai/jobs/info/6a7c8a63d77e8156a8e324ec?utm_campaign=1057&utm_source=git)** | Detroit, MI, United States | On Site | Aug 12 |
 | **[Bread for the World](https://www.bread.org/)** | **[Next Gen Organizing Intern](https://jobright.ai/jobs/info/6a7cd740dc3dff2d1c0c95c0?utm_campaign=1057&utm_source=git)** | Washington, DC, United States | Remote | Aug 12 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Principal Intern](https://jobright.ai/jobs/info/6a7c8530a346cb6c8d5edfe8?utm_campaign=1057&utm_source=git)** | South Bend, IN, United States | On Site | Aug 12 |
-| **[Munich Re](https://www.munichre.com/us-life/en.html)** | **[Summer Leadership Development Intern - Underwriting](https://jobright.ai/jobs/info/6a7b895577e6b569c61c150f?utm_campaign=1057&utm_source=git)** | Princeton, NJ, United States | On Site | Aug 12 |
-| **[STEM Alliance](https://thestemalliance.org/)** | **[Robotics School Team Student Intern](https://jobright.ai/jobs/info/6a7c9b8777d5f033c4b8f416?utm_campaign=1057&utm_source=git)** | Mamaroneck, NY, United States | On Site | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
