@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Security Agency](http://www.nsa.gov/)** | **[NSA Summer 2027 Internship Program - Summer Program for Operations Research Technology - Entry - Maryland](https://jobright.ai/jobs/info/6a8032b619ce4e6e9d93d7c1?utm_campaign=1057&utm_source=git)** | Fort Meade, MD, United States | On Site | Aug 15 |
+| ↳ | **[NSA Summer 2027 Internship Program - Science of Security - Entry - Maryland](https://jobright.ai/jobs/info/6a80326bb56bea5779c11b8d?utm_campaign=1057&utm_source=git)** | Fort Meade, MD, United States | On Site | Aug 15 |
+| ↳ | **[NSA Summer 2027 Internship Program - Cyber Summer Program- Entry - Maryland](https://jobright.ai/jobs/info/6a803264927c79391ad0f82e?utm_campaign=1057&utm_source=git)** | Fort Meade, MD, United States | On Site | Aug 15 |
+| ↳ | **[NSA Summer 2027 Internship Program - Computer Science Internship - Entry Program - Maryland](https://jobright.ai/jobs/info/6a802b08b56bea5779c1193e?utm_campaign=1057&utm_source=git)** | Fort Meade, MD, United States | On Site | Aug 15 |
+| ↳ | **[NSA Summer 2027 Internship Program - Business Management & Acquisition - Entry - Maryland](https://jobright.ai/jobs/info/6a802b06b56bea5779c1193c?utm_campaign=1057&utm_source=git)** | Fort Meade, MD, United States | On Site | Aug 15 |
+| ↳ | **[NSA Summer 2027 Internship Program - Graduate Mathematics Program - Entry - Maryland](https://jobright.ai/jobs/info/6a802b00b56bea5779c11938?utm_campaign=1057&utm_source=git)** | Fort Meade, MD, United States | On Site | Aug 15 |
+| ↳ | **[NSA Summer 2027 Internship Program -Summer Intern Program for Science and Technology - Entry - Maryland](https://jobright.ai/jobs/info/6a802aeee2030208f2773820?utm_campaign=1057&utm_source=git)** | Fort Meade, MD, United States | On Site | Aug 15 |
 | **[Potential Inc.](https://potentialinc.org)** | **[Special Education Teacher Intern](https://jobright.ai/jobs/info/6a54e0633cd1632418bec0a7?utm_campaign=1057&utm_source=git)** | Bristol, PA, United States | On Site | Aug 15 |
 | **[UHS Physician Careers](https://www.uhsinc.com/careers/physician-career-opportunities/)** | **[Clinical Services Intern](https://jobright.ai/jobs/info/6a8026a4b56bea5779c117c2?utm_campaign=1057&utm_source=git)** | Doylestown, PA, United States | On Site | Aug 15 |
 | **[Dallas College](https://www.dcccd.edu)** | **[SAS Intern](https://jobright.ai/jobs/info/6a7fad71e51a1e18a241502b?utm_campaign=1057&utm_source=git)** | El Centro, California, United States | On Site | Aug 14 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Greater St. Louis Area Scouting](http://www.stlbsa.org)** | **[Internship Program (41458)](https://jobright.ai/jobs/info/6a6478075c7e2d715ebb02e2?utm_campaign=1057&utm_source=git)** | St. Louis, MO, United States | On Site | Aug 13 |
 | **[Dean Dorton](http://deandorton.com)** | **[2027 Spring Command Center Intern](https://jobright.ai/jobs/info/6a7e1b10e51a1e18a240c2b7?utm_campaign=1057&utm_source=git)** | Raleigh, NC, United States | On Site | Aug 13 |
 | ↳ | **[2027 Spring Command Center Intern](https://jobright.ai/jobs/info/6a7e19baad9ff00c26ba9d81?utm_campaign=1057&utm_source=git)** | Louisville, KY, United States | On Site | Aug 13 |
-| **[Life.Church](http://www.life.church)** | **[Life.Church Campus Internship](https://jobright.ai/jobs/info/6a64b54f0c8e2b4f36dd2738?utm_campaign=1057&utm_source=git)** | United States | Remote | Aug 13 |
-| **[Dean Dorton](http://deandorton.com)** | **[2027 Spring Command Center Intern](https://jobright.ai/jobs/info/6a7dd82819ce4e6e9d92fd53?utm_campaign=1057&utm_source=git)** | Lexington, KY, United States | On Site | Aug 13 |
-| **[Louisiana Clean Fuels](http://www.louisianacleanfuels.org)** | **[Fall Semester 2026-27 Intern](https://jobright.ai/jobs/info/6a7dd68de51a1e18a240a949?utm_campaign=1057&utm_source=git)** | Baton Rouge, LA, United States | Hybrid | Aug 13 |
-| **[Life.Church](http://www.life.church)** | **[Life.Church Central Internship](https://jobright.ai/jobs/info/67eed4e10bdb919a84e17e1b?utm_campaign=1057&utm_source=git)** | Edmond, OK | On Site | Aug 13 |
-| **[Gentex Corporation](http://www.gentex.com)** | **[Academic Intern - Communications](https://jobright.ai/jobs/info/6a60d88fa0dbef49469b951f?utm_campaign=1057&utm_source=git)** | Zeeland, Michigan, United States | On Site | Aug 13 |
-| **[Youth Enrichment Services](http://www.yeskids.org/)** | **[Student Worker - Internship](https://jobright.ai/jobs/info/6a7e093eb56bea5779c03245?utm_campaign=1057&utm_source=git)** | Guthrie, OK, United States | On Site | Aug 13 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Banking Management Military Apprentice (SAFE) Dallas TX](https://jobright.ai/jobs/info/6a7da61d19ce4e6e9d92f354?utm_campaign=1057&utm_source=git)** | Allen, TX, United States | On Site | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
