@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Creekstone Farms Premium Beef](http://www.creekstonefarms.com/)** | **[Summer Internship Program](https://jobright.ai/jobs/info/6a8027c5927c79391ad0f4ef?utm_campaign=1057&utm_source=git)** | Arkansas City, Kansas, United States | On Site | Aug 16 |
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[HOUSTON - Transportation, Internship](https://jobright.ai/jobs/info/69f49aa0db88714bcdfaece3?utm_campaign=1057&utm_source=git)** | Houston, TX | On Site | Aug 16 |
 | **[Petersburg City Public Schools](http://www.petersburg.k12.va.us)** | **[Student Teaching and Internship 2025-26](https://jobright.ai/jobs/info/6a814fbab56bea5779c18b67?utm_campaign=1057&utm_source=git)** | Petersburg, VA, United States | On Site | Aug 15 |
 | **[Mount Hermon Camp and Conference Center](https://www.mounthermon.org)** | **[Family Ministries Intern](https://jobright.ai/jobs/info/6a5be59d3ac7627fe900952e?utm_campaign=1057&utm_source=git)** | Mount Hermon, California, United States | On Site | Aug 15 |
@@ -79,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[Dallas College](https://www.dcccd.edu)** | **[SAS Intern](https://jobright.ai/jobs/info/6a7fad71e51a1e18a241502b?utm_campaign=1057&utm_source=git)** | El Centro, California, United States | On Site | Aug 14 |
 | **[ExxonMobil](https://corporate.exxonmobil.com)** | **[Students Seeking Internship/Co-op Opportunities in Trading Job Details / ExxonMobil](https://jobright.ai/jobs/info/6a7ff215ad9ff00c26bb10ad?utm_campaign=1057&utm_source=git)** | Spring, TX, United States | On Site | Aug 14 |
 | **[Foundations Behavioral Health](https://fbh.com)** | **[Clinical Services Intern](https://jobright.ai/jobs/info/6a7fd80bad9ff00c26bb0afc?utm_campaign=1057&utm_source=git)** | Doylestown, PA, United States | On Site | Aug 14 |
-| **[Duke University](http://www.duke.edu)** | **[Nonduke Student/Intern](https://jobright.ai/jobs/info/6a2a25832cde2824469c02c4?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Aug 14 |
-| ↳ | **[Nonduke Student/Intern Job Details / Duke Careers](https://jobright.ai/jobs/info/6a7840f94817aa430704b78b?utm_campaign=1057&utm_source=git)** | Durham, NC, United States | On Site | Aug 14 |
+| **[Duke University](http://www.duke.edu)** | **[Nonduke Student/Intern Job Details / Duke Careers](https://jobright.ai/jobs/info/6a7840f94817aa430704b78b?utm_campaign=1057&utm_source=git)** | Durham, NC, United States | On Site | Aug 14 |
+| ↳ | **[Nonduke Student/Intern](https://jobright.ai/jobs/info/6a2a25832cde2824469c02c4?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Aug 14 |
 | ↳ | **[Nonduke Student/Intern Job Details / Duke Careers](https://jobright.ai/jobs/info/6a46286e0dd56c76cc2f6d9b?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Aug 14 |
 | **[Auburn School District #408](http://www.auburn.wednet.edu)** | **[Student Teacher/Intern 2026-27 School Year](https://jobright.ai/jobs/info/6a7fe041b56bea5779c0fe0b?utm_campaign=1057&utm_source=git)** | Auburn, WA, United States | On Site | Aug 14 |
 | **[Villa Albertine, the French Institute for Culture and Education](https://villa-albertine.org)** | **[Education Department Internship](https://jobright.ai/jobs/info/6a7fbb18ad9ff00c26bb019c?utm_campaign=1057&utm_source=git)** | New York, NY, United States | On Site | Aug 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Breeden Construction](https://breedenconstruction.com)** | **[SUMMER INTERN (Richmond, VA)](https://jobright.ai/jobs/info/6a7e2956e2030208f2767f57?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA, United States | On Site | Aug 13 |
 | **[Bucks County Intermediate Unit](http://www.BucksIU.org)** | **[Educational Interpreter Intern/Paraeducator](https://jobright.ai/jobs/info/6a78b69a4817aa430704bfdf?utm_campaign=1057&utm_source=git)** | Doylestown, PA, United States | On Site | Aug 13 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Operational Excellence Intern - Green Bay, WI - Year round](https://jobright.ai/jobs/info/6a7de6caad9ff00c26ba8fda?utm_campaign=1057&utm_source=git)** | Green Bay, WI, United States | On Site | Aug 13 |
-| **[Greater St. Louis Area Scouting](http://www.stlbsa.org)** | **[Internship Program (41458)](https://jobright.ai/jobs/info/6a6478075c7e2d715ebb02e2?utm_campaign=1057&utm_source=git)** | St. Louis, MO, United States | On Site | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
