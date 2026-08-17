@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Detroit Mercy](http://www.udmercy.edu/)** | **[Laudato si Intern/OA University Ministry](https://jobright.ai/jobs/info/6a8331a3b5a0ac0e84a2413a?utm_campaign=1057&utm_source=git)** | Detroit, MI, United States | On Site | Aug 17 |
 | **[GIC Group](http://www.gicgroup.com/)** | **[Student Intern](https://jobright.ai/jobs/info/6a8326873eeac101cfa9dc64?utm_campaign=1057&utm_source=git)** | United States | Remote | Aug 17 |
 | **[HOLT Group](https://holtgrp.com)** | **[Intern - Parts College](https://jobright.ai/jobs/info/6a8321e72dbaf907b076689e?utm_campaign=1057&utm_source=git)** | Waco, TX, United States | On Site | Aug 17 |
 | **[Amazon](https://amazon.com)** | **[Injury Prevention Specialist Intern](https://jobright.ai/jobs/info/6a8315df9b859b227766c578?utm_campaign=1057&utm_source=git)** | Temple Terrace, FL, United States | On Site | Aug 17 |
@@ -111,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[Scottsdale Unified School District](https://www.susd.org/)** | **[High School Intern - Kids Club at various locations - District-Wide (TBD)](https://jobright.ai/jobs/info/6a7fae97e51a1e18a24150fe?utm_campaign=1057&utm_source=git)** | Scottsdale, AZ, United States | On Site | Aug 14 |
 | **[Toronto Metropolitan University](http://www.torontomu.ca)** | **[WKT608 - GCM Internship - Academic Assistant](https://jobright.ai/jobs/info/6a7face8ad9ff00c26bafbdb?utm_campaign=1057&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 14 |
 | **[ImpactLife](https://www.bloodcenter.org/)** | **[Donor Relations Internship-On Campus Eastern Illinois University](https://jobright.ai/jobs/info/6a7f2868e51a1e18a241090b?utm_campaign=1057&utm_source=git)** | Charleston, IL, United States | On Site | Aug 14 |
-| **[Young Life](https://sworlando.younglife.org)** | **[Chattanooga Mission Staff- Intern](https://jobright.ai/jobs/info/6a7f7787b56bea5779c0b9a3?utm_campaign=1057&utm_source=git)** | Colorado Springs, CO, United States | Remote | Aug 14 |
 | **[Peoria Park District](https://peoriaparks.org)** | **[Community Recreation Intern](https://jobright.ai/jobs/info/6a7f9af3e51a1e18a24146eb?utm_campaign=1057&utm_source=git)** | Peoria, IL, United States | On Site | Aug 14 |
 | **[The Confederated Tribes of Grand Ronde](https://www.grandronde.org)** | **[College Intern-Aide - Early Childhood Education](https://jobright.ai/jobs/info/6a7f92c9e2030208f276f7c8?utm_campaign=1057&utm_source=git)** | Grand Ronde, OR, United States | On Site | Aug 14 |
 | **[L'Oréal](https://www.loreal.de)** | **[2027 L'Oréal USA Summer Internship - IT - Undergraduate (NJ)](https://jobright.ai/jobs/info/6a7f9086e51a1e18a2413ef2?utm_campaign=1057&utm_source=git)** | Berkeley Heights, NJ, United States | Hybrid | Aug 14 |
@@ -141,8 +141,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[INTERN](https://jobright.ai/jobs/info/6a7e679519ce4e6e9d932dc4?utm_campaign=1057&utm_source=git)** | California, United States | On Site | Aug 13 |
 | **[Accelint](https://accelint.com)** | **[Instructional Systems Designer Internship](https://jobright.ai/jobs/info/6a7e00b4e2030208f2766eac?utm_campaign=1057&utm_source=git)** | Ann Arbor, MI, United States | On Site | Aug 13 |
 | **[Life.Church](http://www.life.church)** | **[Life.Church Campus Internship](https://jobright.ai/jobs/info/67eed4e10bdb919a84e17e6c?utm_campaign=1057&utm_source=git)** | Edmond, OK | On Site | Aug 13 |
-| **[Boston Symphony Orchestra](https://www.bso.org)** | **[Education Internship](https://jobright.ai/jobs/info/6a7f76d7b56bea5779c0b93a?utm_campaign=1057&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 13 |
-| ↳ | **[External Engagement Internship](https://jobright.ai/jobs/info/6a7f76c6927c79391ad09523?utm_campaign=1057&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 13 |
+| **[Boston Symphony Orchestra](https://www.bso.org)** | **[External Engagement Internship](https://jobright.ai/jobs/info/6a7f76c6927c79391ad09523?utm_campaign=1057&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 13 |
+| ↳ | **[Education Internship](https://jobright.ai/jobs/info/6a7f76d7b56bea5779c0b93a?utm_campaign=1057&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 13 |
 | **[California Energy Commission](http://www.energy.ca.gov)** | **[Student Assistant - Transportation Planning Intern- Office of the Lead Advisor - Hybrid](https://jobright.ai/jobs/info/6a7e4c8cb56bea5779c050a4?utm_campaign=1057&utm_source=git)** | Sacramento, CA, United States | Hybrid | Aug 13 |
 | **[New York State Department of Labor](http://www.labor.ny.gov)** | **[Program Implementation & Performance (PIP) Unit Intern - Albany](https://jobright.ai/jobs/info/6a7e461d0cd4a0703257ef71?utm_campaign=1057&utm_source=git)** | Albany, NY, United States | On Site | Aug 13 |
 | **[Mad Realities](https://www.madrealities.tv/)** | **[Academic Internship](https://jobright.ai/jobs/info/6a7e461ae2030208f276892f?utm_campaign=1057&utm_source=git)** | New York, NY, United States | Hybrid | Aug 13 |
