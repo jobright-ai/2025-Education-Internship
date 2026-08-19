@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Learning Management Specialist Intern](https://jobright.ai/jobs/info/6a84a94ae459fa3baa85fd81?utm_campaign=1057&utm_source=git)** | Strongsville, OH, United States | On Site | Aug 18 |
+| **[Barnard](http://barnard-inc.com)** | **[Safety Educator Intern](https://jobright.ai/jobs/info/6a84e707d34f700f87fbb74d?utm_campaign=1057&utm_source=git)** | United States | Remote | Aug 18 |
+| **[Zipline](https://www.zipline.com/)** | **[Community Engagement Intern (Summer 2027)](https://jobright.ai/jobs/info/6a84a9052f4f0014cae22044?utm_campaign=1057&utm_source=git)** | Austin, TX, United States | On Site | Aug 18 |
+| **[Indiana University Bloomington](https://www.iu.edu)** | **[Part-Time Student Teaching Intern, EDUC-X156](https://jobright.ai/jobs/info/6a84e46ac1a3fd7120f73b9c?utm_campaign=1057&utm_source=git)** | Bloomington, IN, United States | On Site | Aug 18 |
 | **[Hilton](https://www.hilton.com/en/)** | **[2027 Corporate Summer Internship - Strategy, Insights, and Analytics](https://jobright.ai/jobs/info/6a82992a9b859b227766a89c?utm_campaign=1057&utm_source=git)** | McLean, VA, United States | On Site | Aug 18 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2027 Strategy & Analytics, Credit & Fraud Risk - New York, NY](https://jobright.ai/jobs/info/6a702d73cd3bac13d3709be2?utm_campaign=1057&utm_source=git)** | New York, NY, United States | On Site | Aug 18 |
 | **[CASA DE LA FAMILIA](https://www.casadelafamilia.org)** | **[Undergraduate Psychology Internship](https://jobright.ai/jobs/info/6a84bfe758ded76ad8fe941f?utm_campaign=1057&utm_source=git)** | Santa Ana, CA, United States | On Site | Aug 18 |
@@ -69,8 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Injury Prevention Specialist Intern](https://jobright.ai/jobs/info/6a8315df9b859b227766c578?utm_campaign=1057&utm_source=git)** | Temple Terrace, FL, United States | On Site | Aug 18 |
 | **[East Side Union High School District](https://adulteducation.esuhsd.org)** | **[INTERN School Counselor I 2026-2027 School Year](https://jobright.ai/jobs/info/6a84abcb7b33d7227625777b?utm_campaign=1057&utm_source=git)** | Chowchilla, CA, United States | On Site | Aug 18 |
 | **[Fifth Third Bank](http://53.com)** | **[Commercial Credit Internship - Summer 2027 - Charlotte](https://jobright.ai/jobs/info/6a8495b9d34f700f87fb98f5?utm_campaign=1057&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 18 |
-| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Learning Management Specialist Intern](https://jobright.ai/jobs/info/6a84a94ae459fa3baa85fd81?utm_campaign=1057&utm_source=git)** | Strongsville, OH, United States | On Site | Aug 18 |
-| **[Zipline](https://www.zipline.com/)** | **[Community Engagement Intern (Summer 2027)](https://jobright.ai/jobs/info/6a84a9052f4f0014cae22044?utm_campaign=1057&utm_source=git)** | Austin, TX, United States | On Site | Aug 18 |
 | **[Annie Mac Home Mortgages](https://www.uhm.com/)** | **[Learning Management Specialist Intern](https://jobright.ai/jobs/info/6a84a7a2e459fa3baa85fca3?utm_campaign=1057&utm_source=git)** | Strongsville, OH, United States | On Site | Aug 18 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Student Intern - Work Ready - Facilities](https://jobright.ai/jobs/info/6a84a671d34f700f87fb9f78?utm_campaign=1057&utm_source=git)** | Belle Chasse, LA, United States | On Site | Aug 18 |
 | ↳ | **[Student Intern - Work Ready - Pre-Educator](https://jobright.ai/jobs/info/6a84a6692f4f0014cae21ed6?utm_campaign=1057&utm_source=git)** | Belle Chasse, LA, United States | On Site | Aug 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hilton](https://www.hilton.com/en/)** | **[2027 Corporate Summer Internship - Revenue Management (RMCC)](https://jobright.ai/jobs/info/6a829920379c304e892f2f18?utm_campaign=1057&utm_source=git)** | Dallas, TX, United States | On Site | Aug 16 |
 | **[Tinker Federal Credit Union](https://www.tinkerfcu.org)** | **[In School Branch Intern](https://jobright.ai/jobs/info/6a8348962dbaf907b0767afa?utm_campaign=1057&utm_source=git)** | Oklahoma City, OK, United States | On Site | Aug 16 |
 | **[Hilton](https://www.hilton.com/en/)** | **[2027 Corporate Summer Internship - Strategy, Insights, and Analytics](https://jobright.ai/jobs/info/6a82949b9b859b227766a7bf?utm_campaign=1057&utm_source=git)** | McLean, VA, United States | On Site | Aug 16 |
-| ↳ | **[2027 Corporate Summer Internship - Strategy, Insights, and Analytics](https://jobright.ai/jobs/info/6a828f511081a745e970ac98?utm_campaign=1057&utm_source=git)** | McLean, VA, United States | On Site | Aug 16 |
-| **[University of South Florida](http://www.usf.edu)** | **[Industry Connections Development Intern (Student Assistant - FWS)](https://jobright.ai/jobs/info/6a82740c3eeac101cfa9ae63?utm_campaign=1057&utm_source=git)** | Tampa, FL, United States | On Site | Aug 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
