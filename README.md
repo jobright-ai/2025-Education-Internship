@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Institutes for Research](http://www.air.org/)** | **[Intern (Masters and PhD Students), National Center for Systemic Improvement](https://jobright.ai/jobs/info/6a51ffbbae4052672fe9d1be?utm_campaign=1057&utm_source=git)** | Washington, DC, United States | Remote | Aug 20 |
 | **[National Audubon Society](http://www.audubon.org)** | **[Education Intern](https://jobright.ai/jobs/info/6a69fc7cc63ba56308f50a16?utm_campaign=1057&utm_source=git)** | Huntington, VT, United States | On Site | Aug 20 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Contact Center Training Intern (Summer 2027) Job Details / Loves Travel Stops & Country Store](https://jobright.ai/jobs/info/6a86873425fc4e7ae3da9a26?utm_campaign=1057&utm_source=git)** | Oklahoma City, OK, United States | On Site | Aug 19 |
 | **[New York Life](https://www.newyorklife.com/)** | **[2027 Finance Leadership Experience Summer Internship Program Job Details / New York Life Insurance Co](https://jobright.ai/jobs/info/6a86868e4afae74a08344f90?utm_campaign=1057&utm_source=git)** | New York, NY, United States | Hybrid | Aug 19 |
@@ -132,7 +133,7 @@ For a complete list, click the following sortable link below:
 | **[Young Life](https://sworlando.younglife.org)** | **[Wild West Region Intern Experience // Park City, UT](https://jobright.ai/jobs/info/6a7ba2b977e6b569c61c1e62?utm_campaign=1057&utm_source=git)** | Park City, UT, United States | Hybrid | Aug 18 |
 | ↳ | **[Wild West Region Intern Experience // NW Treasure Valley, ID](https://jobright.ai/jobs/info/6a7ba2af77e6b569c61c1e5c?utm_campaign=1057&utm_source=git)** | Middleton, ID, United States | Hybrid | Aug 18 |
 | **[Gannon University](http://www.gannon.edu/)** | **[Graduate Assistant (Tutoring and Lab Assistants); Tutor 2nd Year focus/Social Media FA26](https://jobright.ai/jobs/info/6a846eeae12474455273a187?utm_campaign=1057&utm_source=git)** | Erie, PA, United States | Hybrid | Aug 18 |
-| **[HDR](http://www.hdrinc.com)** | **[EHS High School Intern](https://jobright.ai/jobs/info/6a848eb7d34f700f87fb96a1?utm_campaign=1057&utm_source=git)** | Louisville, KY, United States | On Site | Aug 18 |
+| **[HDR](http://www.hdrinc.com)** | **[EHS High School Intern](https://jobright.ai/jobs/info/6a848c55d34f700f87fb95b2?utm_campaign=1057&utm_source=git)** | Louisville, KY, United States | On Site | Aug 18 |
 | **[East Side Union High School District](https://adulteducation.esuhsd.org)** | **[INTERN School Counselor I 2026-2027 School Year](https://jobright.ai/jobs/info/6a84abcb7b33d7227625777b?utm_campaign=1057&utm_source=git)** | Chowchilla, CA, United States | On Site | Aug 18 |
 | **[Fifth Third Bank](http://53.com)** | **[Commercial Credit Internship - Summer 2027 - Charlotte](https://jobright.ai/jobs/info/6a8495b9d34f700f87fb98f5?utm_campaign=1057&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 18 |
 | **[Annie Mac Home Mortgages](https://www.uhm.com/)** | **[Learning Management Specialist Intern](https://jobright.ai/jobs/info/6a84a7a2e459fa3baa85fca3?utm_campaign=1057&utm_source=git)** | Strongsville, OH, United States | On Site | Aug 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[New Entry Sustainable Farming Project](http://www.nesfp.org)** | **[Farmer Training (NERME) Intern](https://jobright.ai/jobs/info/6a847e44d34f700f87fb8f26?utm_campaign=1057&utm_source=git)** | United States | Remote | Aug 18 |
 | **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[Intern-Office of Pediatrician In Chief](https://jobright.ai/jobs/info/6a84754fd34f700f87fb8b5d?utm_campaign=1057&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 18 |
 | **[Family Service Lincoln](https://familyservicelincoln.org)** | **[Youth Development Intern (Spring 2027)](https://jobright.ai/jobs/info/6a84767458ded76ad8fe7563?utm_campaign=1057&utm_source=git)** | Lincoln, NE, United States | On Site | Aug 18 |
-| **[Illinois College](http://www.ic.edu/)** | **[ST PATH Student Intern (Chesley Health & Wellness) Fall 2026](https://jobright.ai/jobs/info/6a847081e459fa3baa85e44a?utm_campaign=1057&utm_source=git)** | Jacksonville, Illinois, United States | On Site | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
