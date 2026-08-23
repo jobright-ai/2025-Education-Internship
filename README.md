@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Earthjustice](http://earthjustice.org/)** | **[2027 International Program Clerkship](https://jobright.ai/jobs/info/6a4eae2e397d8d353c289eb5?utm_campaign=1057&utm_source=git)** | San Francisco, CA, United States | Hybrid | Aug 23 |
 | **[Elk Grove Unified School District](https://www.egusd.net/)** | **[ELEMENTARY INTERN TEACHER Eligibility Pool](https://jobright.ai/jobs/info/6a8a8f0325fc4e7ae3db4c44?utm_campaign=1057&utm_source=git)** | Elk Grove, CA, United States | On Site | Aug 22 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2027 Digital Product, Amex Digital Labs - New York, NY](https://jobright.ai/jobs/info/6a701cfaad0fe2053dba0583?utm_campaign=1057&utm_source=git)** | New York, NY, United States | On Site | Aug 22 |
 | **[University of South Carolina](https://sc.edu)** | **[Campus Recreation Aquatics Intern](https://jobright.ai/jobs/info/6a8a4313cde3717f9e9b9403?utm_campaign=1057&utm_source=git)** | Columbia, SC, United States | On Site | Aug 22 |
@@ -72,9 +73,9 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Summer 2026 MD Intern, Internal Medicine](https://jobright.ai/jobs/info/6a8928a4cde3717f9e9b7d4e?utm_campaign=1057&utm_source=git)** | Tarrytown, NY, United States | On Site | Aug 21 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6a892611e8b6601d12909577?utm_campaign=1057&utm_source=git)** | Brooklyn, NY, United States | On Site | Aug 21 |
 | **[Utah Transit Authority](http://www.rideuta.com/)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/6a7e538a19ce4e6e9d932919?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 21 |
-| **[Duke University](http://www.duke.edu)** | **[Nonduke Student/Intern Job Details / Duke Careers](https://jobright.ai/jobs/info/6a46286e0dd56c76cc2f6d9b?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Aug 21 |
+| **[Duke University](http://www.duke.edu)** | **[Nonduke Student/Intern](https://jobright.ai/jobs/info/6a2a25832cde2824469c02c4?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Aug 21 |
+| ↳ | **[Nonduke Student/Intern Job Details / Duke Careers](https://jobright.ai/jobs/info/6a46286e0dd56c76cc2f6d9b?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Aug 21 |
 | ↳ | **[Nonduke Student/Intern Job Details / Duke Careers](https://jobright.ai/jobs/info/6a7840f94817aa430704b78b?utm_campaign=1057&utm_source=git)** | Durham, NC, United States | On Site | Aug 21 |
-| ↳ | **[Nonduke Student/Intern](https://jobright.ai/jobs/info/6a2a25832cde2824469c02c4?utm_campaign=1057&utm_source=git)** | Durham, NC, US, 27710 | On Site | Aug 21 |
 | ↳ | **[NonDuke Student Intern](https://jobright.ai/jobs/info/6a884c1dcde3717f9e9b484b?utm_campaign=1057&utm_source=git)** | Durham, NC, United States | On Site | Aug 21 |
 | **[Fifth Third Bank](http://53.com)** | **[Summer 2027 Commercial Middle Market Internship - Detroit](https://jobright.ai/jobs/info/6a88c5f5e8b6601d12908a87?utm_campaign=1057&utm_source=git)** | Detroit, MI, United States | On Site | Aug 21 |
 | **[Greater St. Louis Area Scouting](http://www.stlbsa.org)** | **[Internship Program  (Decatur, Illinois) (42056)](https://jobright.ai/jobs/info/6a7661d57b3417772ade832f?utm_campaign=1057&utm_source=git)** | Decatur, IL, United States | On Site | Aug 21 |
@@ -100,9 +101,9 @@ For a complete list, click the following sortable link below:
 | **[Rea Magnet Wire](https://www.reawire.com/)** | **[HR Instructional Design Intern](https://jobright.ai/jobs/info/6a887c21d34f700f87fc8ca0?utm_campaign=1057&utm_source=git)** | Fort Wayne, IN, United States | On Site | Aug 21 |
 | **[The Miami Foundation](http://miamifoundation.org)** | **[Student Engagement/Scholarships Intern](https://jobright.ai/jobs/info/6a4fb6d84649561ec08aeac6?utm_campaign=1057&utm_source=git)** | Florida, United States | On Site | Aug 21 |
 | **[National Youth Advocate Program (NYAP)](https://www.nyap.org)** | **[Foster Care Internship: Augusta, GA](https://jobright.ai/jobs/info/6a85deb54afae74a08341ce1?utm_campaign=1057&utm_source=git)** | Augusta, GA, United States | On Site | Aug 21 |
-| **[Brown University Health](https://www.brownhealth.org)** | **[Behavioral Health Intern](https://jobright.ai/jobs/info/69e7ea650a6e09555302d10a?utm_campaign=1057&utm_source=git)** | Bradley Hospital | On Site | Aug 21 |
-| ↳ | **[Behavioral Health Intern](https://jobright.ai/jobs/info/69e7ea2ef8fa2f3ec32aa57e?utm_campaign=1057&utm_source=git)** | Bradley Hospital | On Site | Aug 21 |
-| ↳ | **[Behavioral Health Intern](https://jobright.ai/jobs/info/69e7ea667820c036924d90dd?utm_campaign=1057&utm_source=git)** | Bradley Hospital | On Site | Aug 21 |
+| **[Brown University Health](https://www.brownhealth.org)** | **[Behavioral Health Intern](https://jobright.ai/jobs/info/69e7ea4d0a6e09555302d096?utm_campaign=1057&utm_source=git)** | Bradley Hospital | On Site | Aug 21 |
+| ↳ | **[Behavioral Health Intern](https://jobright.ai/jobs/info/69e7ea650a6e09555302d10a?utm_campaign=1057&utm_source=git)** | Bradley Hospital | On Site | Aug 21 |
+| ↳ | **[Behavioral Health Intern](https://jobright.ai/jobs/info/69e7ea2ff8fa2f3ec32aa580?utm_campaign=1057&utm_source=git)** | Bradley Hospital | On Site | Aug 21 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov)** | **[CDC Global Health Center Science Office Fellowship](https://jobright.ai/jobs/info/6a87eee14afae74a0834a4ce?utm_campaign=1057&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 20 |
 | **[Synthara Systems](https://synthara-systems.com/)** | **[E-Learning Instructional Design Intern](https://jobright.ai/jobs/info/6a87e9b5680f314a29d3a8c4?utm_campaign=1057&utm_source=git)** | Houston, TX, United States | Remote | Aug 20 |
 | **[Girl Scouts of Eastern Missouri](https://www.girlscoutsem.org/)** | **[Cookie Program Intern- Fall 2026](https://jobright.ai/jobs/info/6a580f7c9838a11e5d836b14?utm_campaign=1057&utm_source=git)** | Saint Louis, MO, United States | On Site | Aug 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lifetime Benefit Solutions, Inc.](http://lifetimebenefitsolutions.com)** | **[College Intern - Cobra & Premium Building - Fall 2026](https://jobright.ai/jobs/info/6a863aa8cc81eb647e9f2435?utm_campaign=1057&utm_source=git)** | Rochester, NY, United States | On Site | Aug 19 |
 | **[Conversations to Remember](https://conversationstoremember.org)** | **[Volunteer Role: Public Health Admin & Program Coordination (Service Learning / Practicum Opportunity / Internship)](https://jobright.ai/jobs/info/6a86803e25fc4e7ae3da98e6?utm_campaign=1057&utm_source=git)** | United States | Remote | Aug 19 |
 | **[Truist](https://www.truist.com)** | **[2027 Credit Internship Program](https://jobright.ai/jobs/info/6a85165ee12474455273d9ee?utm_campaign=1057&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 19 |
-| **[Maverik, Inc.](https://maverik.com/)** | **[Learning Experience Intern](https://jobright.ai/jobs/info/6a73b3671ce9647cdbca9c8c?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
