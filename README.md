@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UT Southwestern Medical Center](http://www.utsouthwestern.edu/)** | **[Student Intern](https://jobright.ai/jobs/info/6a8d6e2f25fc4e7ae3dbbfc7?utm_campaign=1057&utm_source=git)** | Dallas, TX, United States | On Site | Aug 25 |
 | **[Pentair](http://www.pentair.com)** | **[Engineering Leadership Development Internship Program – Summer 2027](https://jobright.ai/jobs/info/6a709fe0357dfc6ff2b39ddc?utm_campaign=1057&utm_source=git)** | Golden Valley, MN, United States | On Site | Aug 25 |
 | ↳ | **[Finance Leadership Development Internship Program – Summer 2027](https://jobright.ai/jobs/info/6a709fb371acd469eed9e800?utm_campaign=1057&utm_source=git)** | Golden Valley, MN, United States | On Site | Aug 25 |
 | **[Hoboken Grace Community Church](http://www.hobokengrace.com)** | **[Early Childhood Intern - Fall 2026](https://jobright.ai/jobs/info/6a8d4e7147679c68bf5e29bc?utm_campaign=1057&utm_source=git)** | Hoboken, NJ, United States | On Site | Aug 25 |
@@ -117,9 +118,9 @@ For a complete list, click the following sortable link below:
 | **[Wayne County Public Schools](https://waynecountyschools.org)** | **[School Psychology Intern](https://jobright.ai/jobs/info/6a8bbf6fd34f700f87fce42a?utm_campaign=1057&utm_source=git)** | Goldsboro, NC, United States | On Site | Aug 23 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2027 Strategy & Analytics, Credit & Fraud Risk - New York, NY](https://jobright.ai/jobs/info/6a702d73cd3bac13d3709be2?utm_campaign=1057&utm_source=git)** | New York, NY, United States | On Site | Aug 23 |
 | **[Multnomah County](https://multco.us)** | **[PHP Immunization & Community Health Intern](https://jobright.ai/jobs/info/6a8cf75bd34f700f87fd347b?utm_campaign=1057&utm_source=git)** | Portland, OR, United States | Hybrid | Aug 23 |
-| **[Mercer](http://www.mercer.com)** | **[Insurance Intern - Fargo, ND](https://jobright.ai/jobs/info/6a8c447425fc4e7ae3db754a?utm_campaign=1057&utm_source=git)** | Fargo, ND, United States | On Site | Aug 23 |
-| ↳ | **[Insurance Intern - Grand Forks, ND](https://jobright.ai/jobs/info/6a8c448dd34f700f87fcf82c?utm_campaign=1057&utm_source=git)** | Grand Forks, ND, United States | On Site | Aug 23 |
+| **[Mercer](http://www.mercer.com)** | **[Insurance Intern - Grand Forks, ND](https://jobright.ai/jobs/info/6a8c448dd34f700f87fcf82c?utm_campaign=1057&utm_source=git)** | Grand Forks, ND, United States | On Site | Aug 23 |
 | ↳ | **[Insurance Intern - Sioux Falls, SD](https://jobright.ai/jobs/info/6a8c4491d34f700f87fcf831?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD, United States | On Site | Aug 23 |
+| ↳ | **[Insurance Intern - Fargo, ND](https://jobright.ai/jobs/info/6a8c447425fc4e7ae3db754a?utm_campaign=1057&utm_source=git)** | Fargo, ND, United States | On Site | Aug 23 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment – Program Development Specialist Intern (CCOB) (NFWS)](https://jobright.ai/jobs/info/6a8c986acde3717f9e9be1ea?utm_campaign=1057&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 23 |
 | **[Genesis Healthcare System](https://www.genesishcs.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6a8c661425fc4e7ae3db7fa8?utm_campaign=1057&utm_source=git)** | United States | Remote | Aug 23 |
 | **[Dee Zee, Inc](http://deezee.com)** | **[Manufacturing Training & Development Intern](https://jobright.ai/jobs/info/6a8ca67c25fc4e7ae3db9a48?utm_campaign=1057&utm_source=git)** | Des Moines, IA, United States | On Site | Aug 23 |
@@ -128,10 +129,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a8b71a14afae74a08350c62?utm_campaign=1057&utm_source=git)** | Fort Bragg, NC, United States | On Site | Aug 23 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a8b71a1cde3717f9e9ba671?utm_campaign=1057&utm_source=git)** | Columbia, SC, United States | On Site | Aug 23 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a8b71a0e8b6601d1290beb5?utm_campaign=1057&utm_source=git)** | Fort Benning, GA, United States | On Site | Aug 23 |
-| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a8b719fe8b6601d1290beb4?utm_campaign=1057&utm_source=git)** | El Paso, TX, United States | On Site | Aug 23 |
-| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a8b719f4afae74a08350c60?utm_campaign=1057&utm_source=git)** | District of Columbia, United States | On Site | Aug 23 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a8b719f25fc4e7ae3db59a9?utm_campaign=1057&utm_source=git)** | Tacoma, WA, United States | On Site | Aug 23 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a8b719f4afae74a08350c5e?utm_campaign=1057&utm_source=git)** | Fort Stewart, GA, United States | On Site | Aug 23 |
+| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a8b719f4afae74a08350c60?utm_campaign=1057&utm_source=git)** | District of Columbia, United States | On Site | Aug 23 |
+| ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a8b719fe8b6601d1290beb4?utm_campaign=1057&utm_source=git)** | El Paso, TX, United States | On Site | Aug 23 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a8b719f4afae74a08350c5f?utm_campaign=1057&utm_source=git)** | Fort Sill, OK, United States | On Site | Aug 23 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a8b719e25fc4e7ae3db59a8?utm_campaign=1057&utm_source=git)** | Washington, DC, United States | On Site | Aug 23 |
 | ↳ | **[Internship in Youth Ministry Leadership, at a U.S. Military Installation](https://jobright.ai/jobs/info/6a8b719d680f314a29d41227?utm_campaign=1057&utm_source=git)** | Florida, United States | On Site | Aug 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Utah Transit Authority](http://www.rideuta.com/)** | **[Instructional Design Intern](https://jobright.ai/jobs/info/6a7e538a19ce4e6e9d932919?utm_campaign=1057&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 21 |
 | **[Lutheran Social Services of Illinois](https://www.lssi.org/)** | **[Internship, BHS- Outreach and Education](https://jobright.ai/jobs/info/6a4d3456d27b2c4dda9b6aaf?utm_campaign=1057&utm_source=git)** | Des Plaines, IL, United States | On Site | Aug 21 |
 | **[California Department of Human Resources (CalHR)](https://www.calhr.ca.gov/)** | **[Internship - Records & Information Management Assistant](https://jobright.ai/jobs/info/6a88e9c4cde3717f9e9b7ab0?utm_campaign=1057&utm_source=git)** | Greater Sacramento, United States | Hybrid | Aug 21 |
-| **[Duke University](http://www.duke.edu)** | **[NonDuke Student Intern](https://jobright.ai/jobs/info/6a884c1dcde3717f9e9b484b?utm_campaign=1057&utm_source=git)** | Durham, NC, United States | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
