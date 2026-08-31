@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Flexi Solutions LLC](flexi-edu.com)** | **[E-Learning Instructional Design Intern](https://jobright.ai/jobs/info/6a94fefed18f75674827ff30?utm_campaign=1057&utm_source=git)** | North Carolina, United States | Remote | Aug 30 |
+| **[TD](https://www.td.com)** | **[2027 Summer Internship Program - Risk](https://jobright.ai/jobs/info/6a9500029864261ccd2a4c86?utm_campaign=1057&utm_source=git)** | Mount Laurel, NJ, United States | On Site | Aug 30 |
 | **[Hilton](https://www.hilton.com/en/)** | **[2027 Corporate Summer Internship - Strategy, Insights, and Analytics](https://jobright.ai/jobs/info/6a82992a9b859b227766a89c?utm_campaign=1057&utm_source=git)** | McLean, VA, United States | On Site | Aug 30 |
 | ↳ | **[2027 Corporate Summer Internship - Global Distribution](https://jobright.ai/jobs/info/6a82992d3eeac101cfa9b888?utm_campaign=1057&utm_source=git)** | Dallas, TX, United States | On Site | Aug 30 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Instructional Design, Manufacturing (Winter/Spring 2027)](https://jobright.ai/jobs/info/6a8c88111d96e6541c8c16f0?utm_campaign=1057&utm_source=git)** | Sparks, NV, United States | On Site | Aug 30 |
@@ -139,14 +141,14 @@ For a complete list, click the following sortable link below:
 | **[World Relief](https://worldrelief.org/)** | **[ESL Class Support Intern-  2025851](https://jobright.ai/jobs/info/6a9070b70bd89e205d24a5ee?utm_campaign=1057&utm_source=git)** | Sacramento, CA, United States | Hybrid | Aug 27 |
 | **[BayCare Health System](https://baycare.org/bmg)** | **[Post College Intern - SJH Foundation](https://jobright.ai/jobs/info/6a90430a0bd89e205d249463?utm_campaign=1057&utm_source=git)** | Tampa, FL, United States | On Site | Aug 27 |
 | **[World Relief](https://worldrelief.org/)** | **[English Conversation Partners Intern-  2025850](https://jobright.ai/jobs/info/6a9068010bd89e205d24a162?utm_campaign=1057&utm_source=git)** | Sacramento, CA, United States | Hybrid | Aug 27 |
-| **[Topgolf](https://topgolf.com/us/)** | **[Golf Instructor - Intern](https://jobright.ai/jobs/info/6a540a63d007ee02d95fd6dd?utm_campaign=1057&utm_source=git)** | Canton, MA, United States | On Site | Aug 27 |
+| **[Topgolf](https://topgolf.com/us/)** | **[Golf Instructor - Intern](https://jobright.ai/jobs/info/6a50abaf2e2ceb72963b4b7b?utm_campaign=1057&utm_source=git)** | Canton, Massachusetts, United States | On Site | Aug 27 |
 | ↳ | **[Golf Instructor - Intern](https://jobright.ai/jobs/info/69f8a5eb0b36ff035475a3c5?utm_campaign=1057&utm_source=git)** | TG - Venue - Canton, US | On Site | Aug 27 |
-| ↳ | **[Golf Instructor - Intern](https://jobright.ai/jobs/info/6a50abaf2e2ceb72963b4b7b?utm_campaign=1057&utm_source=git)** | Canton, Massachusetts, United States | On Site | Aug 27 |
+| ↳ | **[Golf Instructor - Intern](https://jobright.ai/jobs/info/6a540a63d007ee02d95fd6dd?utm_campaign=1057&utm_source=git)** | Canton, MA, United States | On Site | Aug 27 |
 | **[Center for Human Development (CHD)](https://chd.org )** | **[Master's Level - Clinical Intern](https://jobright.ai/jobs/info/69548175f1f8465b79ebb591?utm_campaign=1057&utm_source=git)** | Chicopee, Massachusetts, United States | Hybrid | Aug 27 |
-| ↳ | **[Master's Level - Clinical Intern](https://jobright.ai/jobs/info/69547bbd5bb7de448ef76e70?utm_campaign=1057&utm_source=git)** | Springfield, Massachusetts, United States | Hybrid | Aug 27 |
-| ↳ | **[Master's Level - Clinical Intern](https://jobright.ai/jobs/info/6954786ff1f8465b79ebaecb?utm_campaign=1057&utm_source=git)** | Greenfield, Massachusetts, United States | Hybrid | Aug 27 |
 | ↳ | **[Master's Level - Clinical Intern](https://jobright.ai/jobs/info/69547549aa05c26e7aaee35c?utm_campaign=1057&utm_source=git)** | Holyoke, Massachusetts, United States | Hybrid | Aug 27 |
+| ↳ | **[Master's Level - Clinical Intern](https://jobright.ai/jobs/info/6954786ff1f8465b79ebaecb?utm_campaign=1057&utm_source=git)** | Greenfield, Massachusetts, United States | Hybrid | Aug 27 |
 | ↳ | **[Master's Level - Clinical Intern](https://jobright.ai/jobs/info/69547875aa05c26e7aaee90e?utm_campaign=1057&utm_source=git)** | West Springfield, Massachusetts, United States | Hybrid | Aug 27 |
+| ↳ | **[Master's Level - Clinical Intern](https://jobright.ai/jobs/info/69547bbd5bb7de448ef76e70?utm_campaign=1057&utm_source=git)** | Springfield, Massachusetts, United States | Hybrid | Aug 27 |
 | ↳ | **[Master's Level - Clinical Intern](https://jobright.ai/jobs/info/69547c705bb7de448ef77000?utm_campaign=1057&utm_source=git)** | Easthampton, Massachusetts, United States | Hybrid | Aug 27 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2027 Business Resilience, Enterprise Shared Services- New York, NY](https://jobright.ai/jobs/info/6a73a7778cd88e7ccbf59d91?utm_campaign=1057&utm_source=git)** | New York, NY, United States | On Site | Aug 27 |
 | ↳ | **[Campus Undergraduate Summer Internship Program - 2027 Strategic Sourcing & Business Enablement, Enterprise Shared Services- New York, NY](https://jobright.ai/jobs/info/6a73a7818cd88e7ccbf59d95?utm_campaign=1057&utm_source=git)** | New York, NY, United States | On Site | Aug 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Great Basin Institute](https://www.thegreatbasininstitute.org)** | **[Interpretation and Education Intern (NPS, Glen Canyon National Recreation Area)](https://jobright.ai/jobs/info/6a9031c5d96ad228f125fef7?utm_campaign=1057&utm_source=git)** | Page, AZ, United States | On Site | Aug 27 |
 | **[Operation Smile](http://www.operationsmile.org)** | **[Museum Education Internship](https://jobright.ai/jobs/info/6a9030e97c32860d14cf80c2?utm_campaign=1057&utm_source=git)** | Virginia Beach, VA, United States | On Site | Aug 27 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (OT/OTA Hospital Inpatient) Spring 2026 OT Fieldwork](https://jobright.ai/jobs/info/689437374c7e851b90ae407a?utm_campaign=1057&utm_source=git)** | Elkridge, MD | On Site | Aug 27 |
-| **[World Relief](https://worldrelief.org/)** | **[ESL Class Support Intern- 2025851](https://jobright.ai/jobs/info/6a91097e7c32860d14cfbf57?utm_campaign=1057&utm_source=git)** | Sacramento, CA, United States | Hybrid | Aug 27 |
-| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (OT/OTA Hospital Inpatient) Summer 2026 OT Fieldwork](https://jobright.ai/jobs/info/6a5a731163a8f619507c6fe0?utm_campaign=1057&utm_source=git)** | Elkridge, Maryland, United States | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
