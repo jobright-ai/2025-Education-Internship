@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Career Systems Development Corp](https://careersystems.com)** | **[Work base Learning / Intern Coordinator](https://jobright.ai/jobs/info/6a9687c3b22f636c814130e7?utm_campaign=1057&utm_source=git)** | Limestone, ME, United States | On Site | Sep 01 |
 | **[Defense Counterintelligence and Security Agency (DCSA)](https://www.dss.mil)** | **[SOCIAL SCIENCE STUDENT TRAINEE (INTELLIGENCE)](https://jobright.ai/jobs/info/6a966db0d13b4819f39dbcfb?utm_campaign=1057&utm_source=git)** | Quantico, VA, United States | Hybrid | Sep 01 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Contracted Student Interns - Coastal Decision Support Fellow Fall 2026 (UNPAID)](https://jobright.ai/jobs/info/6a967cf0d13b4819f39dc257?utm_campaign=1057&utm_source=git)** | Falmouth, MA, United States | On Site | Sep 01 |
 | **[The Cincinnati Insurance Companies](http://www.cinfin.com)** | **[Student Opportunities - Loss Control Internships - Summer 2027 (Field)](https://jobright.ai/jobs/info/6a967b3d69b865490a632526?utm_campaign=1057&utm_source=git)** | United States | Remote | Sep 01 |
@@ -88,7 +89,7 @@ For a complete list, click the following sortable link below:
 | **[HOLT Group](https://holtgrp.com)** | **[Intern - College](https://jobright.ai/jobs/info/6a96072f4c22023a07937a61?utm_campaign=1057&utm_source=git)** | San Antonio, TX, United States | On Site | Aug 31 |
 | **[Mountaire Farms](http://www.mountaire.com)** | **[Agri-Business - Analytics Intern](https://jobright.ai/jobs/info/6a9627454c22023a079386c8?utm_campaign=1057&utm_source=git)** | Millsboro, DE, United States | On Site | Aug 31 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a295d8f495d985b99422f44?utm_campaign=1057&utm_source=git)** | Eau Claire, WI, United States | On Site | Aug 31 |
-| **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Learning and Development](https://jobright.ai/jobs/info/6a95f3cb9fcec5442373072b?utm_campaign=1057&utm_source=git)** | Worcester, MA, United States | On Site | Aug 31 |
+| **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Learning and Development](https://jobright.ai/jobs/info/6a95e25d9fcec5442372fcf3?utm_campaign=1057&utm_source=git)** | Worcester, MA, United States | On Site | Aug 31 |
 | **[Community Sports Movement](www.dmcsm.org)** | **[Sports Lead Intern (Soccer Specific)](https://jobright.ai/jobs/info/6a966e9569b865490a6320b9?utm_campaign=1057&utm_source=git)** | Des Moines, IA, United States | Remote | Aug 31 |
 | **[National Geospatial-Intelligence Agency](https://www.nga.mil/Pages/default.aspx)** | **[Summer 2027 College Internship - Source Career Field](https://jobright.ai/jobs/info/6a9617154c22023a07937ecf?utm_campaign=1057&utm_source=git)** | Holloman Air Force Base, NM, United States | On Site | Aug 31 |
 | ↳ | **[Summer 2027 College Internship - Business Operations Career Field](https://jobright.ai/jobs/info/6a9616fe9fcec544237313f6?utm_campaign=1057&utm_source=git)** | Springfield, VA, United States | On Site | Aug 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[College Intern - Safety Services (Education & Training) - PN: 20078320](https://jobright.ai/jobs/info/6a61a0deab14335fc0f18f4e?utm_campaign=1057&utm_source=git)** | Columbus, OH, United States | On Site | Aug 29 |
 | **[Berkeley Industrial Engineering & Operations Research](https://ieor.berkeley.edu)** | **[Summer Corporate Internship- Revenue Management (RMCC) at Hilton](https://jobright.ai/jobs/info/6a92bb6aa27a2d3c9848c094?utm_campaign=1057&utm_source=git)** | Dallas, TX, United States | On Site | Aug 29 |
 | **[Comfort Systems USA](http://www.comfortsystemsusa.com/home/index.php)** | **[Summer Intern](https://jobright.ai/jobs/info/6a4ed1150ea38951a6ff4987?utm_campaign=1057&utm_source=git)** | Houston, TX, United States | On Site | Aug 29 |
-| **[ASM Global](https://asmglobal.com/)** | **[Fall 2026 Student Intern](https://jobright.ai/jobs/info/6a761b7e7b3417772ade6c51?utm_campaign=1057&utm_source=git)** | Las Vegas, NV, United States | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
