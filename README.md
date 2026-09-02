@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Wake Technical Community College](https://www.waketech.edu)** | **[Student Intern - SENTINEL (Part-time, Temporary)](https://jobright.ai/jobs/info/6a9751d6d13b4819f39e0875?utm_campaign=1057&utm_source=git)** | Raleigh, NC, United States | On Site | Sep 01 |
+| **[Barnard](http://barnard-inc.com)** | **[Safety Educator Intern](https://jobright.ai/jobs/info/6a84e707d34f700f87fbb74d?utm_campaign=1057&utm_source=git)** | United States | Remote | Sep 01 |
+| **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2027 Education Programs and Outreach Intern - Undergraduate](https://jobright.ai/jobs/info/6a9718d8455eaf6a08c1aa27?utm_campaign=1057&utm_source=git)** | Greater Seattle Area, United States | On Site | Sep 01 |
+| **[Crowe MacKay LLP](https://www.crowe.com/ca/crowemackay)** | **[Co-Op Students](https://jobright.ai/jobs/info/6a9755adf5337b2cf73219c4?utm_campaign=1057&utm_source=git)** | Kelowna, BC, Canada | On Site | Sep 01 |
 | **[University of Kentucky](https://www.uky.edu)** | **[Intern Martin-Gatton Student Leadership Academy](https://jobright.ai/jobs/info/6a974dac246d697dcee04c4e?utm_campaign=1057&utm_source=git)** | Lexington metropolitan area, United States | On Site | Sep 01 |
-| **[Lockton](https://www.lockton.com/offices/uk)** | **[Summer 2027 Internship - Minneapolis](https://jobright.ai/jobs/info/6a96ff7ab22f636c81415127?utm_campaign=1057&utm_source=git)** | MN-Minneapolis | On Site | Sep 01 |
-| ↳ | **[Summer 2027 Internship - Des Moines](https://jobright.ai/jobs/info/6a9700b0455eaf6a08c19efa?utm_campaign=1057&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 01 |
+| **[Lockton](https://www.lockton.com/offices/uk)** | **[Summer 2027 Internship - Des Moines](https://jobright.ai/jobs/info/6a9700b0455eaf6a08c19efa?utm_campaign=1057&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 01 |
+| ↳ | **[Summer 2027 Internship - Minneapolis](https://jobright.ai/jobs/info/6a96ff7ab22f636c81415127?utm_campaign=1057&utm_source=git)** | MN-Minneapolis | On Site | Sep 01 |
 | ↳ | **[Summer 2027 Internship - Kansas City](https://jobright.ai/jobs/info/6a97005de4e60e4b8da5b570?utm_campaign=1057&utm_source=git)** | Kansas City, MO, United States | On Site | Sep 01 |
-| ↳ | **[Summer 2027 Internship - Birmingham](https://jobright.ai/jobs/info/6a96ff94d13b4819f39de4e7?utm_campaign=1057&utm_source=git)** | Birmingham, MI, United States | On Site | Sep 01 |
 | ↳ | **[Summer 2027 Internship - Omaha](https://jobright.ai/jobs/info/6a970083246d697dcee029ea?utm_campaign=1057&utm_source=git)** | Omaha, NE, United States | On Site | Sep 01 |
 | **[TD](https://www.td.com)** | **[2027 Summer Internship Graduate Leadership Program- Consumer Deposit and Payment Products](https://jobright.ai/jobs/info/6a97422a246d697dcee0486f?utm_campaign=1057&utm_source=git)** | New York, NY, United States | On Site | Sep 01 |
 | **[National Futures Association](https://www.nfa.futures.org/)** | **[Summer 2027 Intern - Chicago Job Details / National Futures Association](https://jobright.ai/jobs/info/6a973fefe4e60e4b8da5d282?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | On Site | Sep 01 |
@@ -82,8 +83,8 @@ For a complete list, click the following sortable link below:
 | **[EveryMind.](https://www.every-mind.org)** | **[Spring Community Education Intern](https://jobright.ai/jobs/info/6a971e3e455eaf6a08c1ac8f?utm_campaign=1057&utm_source=git)** | Rockville, MD, United States | Hybrid | Sep 01 |
 | **[Public Counsel](https://publiccounsel.org)** | **[2027 Summer Intern - Child, Youth & Family Advocacy Project](https://jobright.ai/jobs/info/6a9708dc246d697dcee02fc4?utm_campaign=1057&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 01 |
 | ↳ | **[2027 Summer Intern - Education Equity Project](https://jobright.ai/jobs/info/6a970e96246d697dcee031c3?utm_campaign=1057&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 01 |
-| **[Childhelp®](https://www.childhelp.org/)** | **[Intern, Childhelp Hotline](https://jobright.ai/jobs/info/6a69697de2571a4e361ac0ee?utm_campaign=1057&utm_source=git)** | Scottsdale, AZ, United States | Hybrid | Sep 01 |
-| ↳ | **[Intern, Childhelp Hotline](https://jobright.ai/jobs/info/69b778b33b74eb1e2c8510c4?utm_campaign=1057&utm_source=git)** | AZ Headquarters - Scottsdale, AZ 85253 | Hybrid | Sep 01 |
+| **[Childhelp®](https://www.childhelp.org/)** | **[Intern, Childhelp Hotline](https://jobright.ai/jobs/info/69b778b33b74eb1e2c8510c4?utm_campaign=1057&utm_source=git)** | AZ Headquarters - Scottsdale, AZ 85253 | Hybrid | Sep 01 |
+| ↳ | **[Intern, Childhelp Hotline](https://jobright.ai/jobs/info/6a69697de2571a4e361ac0ee?utm_campaign=1057&utm_source=git)** | Scottsdale, AZ, United States | Hybrid | Sep 01 |
 | **[USA Hockey](http://usahockey.com/)** | **[Coaching and Officiating Educational Content Intern](https://jobright.ai/jobs/info/6a97190ed13b4819f39df112?utm_campaign=1057&utm_source=git)** | United States | Remote | Sep 01 |
 | **[Simmons Foods](https://simmonsfoods.com/)** | **[Summer 2027 Intern: Learning & Development Plant Training (Bilingual)](https://jobright.ai/jobs/info/6a97190c246d697dcee03595?utm_campaign=1057&utm_source=git)** | Gentry, AR, United States | On Site | Sep 01 |
 | **[The Home Depot](https://www.homedepot.com)** | **[2027 Summer Internship - Supply Chain and Logistics](https://jobright.ai/jobs/info/6a9710a2d13b4819f39dedf3?utm_campaign=1057&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Learning & Development Intern](https://jobright.ai/jobs/info/6a960eeec8763a3a87ffe2c9?utm_campaign=1057&utm_source=git)** | Lehi, UT, United States | Hybrid | Aug 31 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Community Programs Project Intern (TikTok Operations) - 2026 Start](https://jobright.ai/jobs/info/6a83a8589b859b2277670230?utm_campaign=1057&utm_source=git)** | New York, NY, United States | On Site | Aug 31 |
 | **[HOLT Group](https://holtgrp.com)** | **[Intern - College](https://jobright.ai/jobs/info/6a96072f4c22023a07937a61?utm_campaign=1057&utm_source=git)** | San Antonio, TX, United States | On Site | Aug 31 |
-| **[Mountaire Farms](http://www.mountaire.com)** | **[Agri-Business - Analytics Intern](https://jobright.ai/jobs/info/6a96264c9fcec54423731c2c?utm_campaign=1057&utm_source=git)** | Millsboro, DE, United States | On Site | Aug 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
