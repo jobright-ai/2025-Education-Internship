@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Donum Dei Classical Academy](https://www.donumdei.org/)** | **[Internship](https://jobright.ai/jobs/info/6a99e3b3551435518ebf1eb6?utm_campaign=1057&utm_source=git)** | San Francisco, CA, United States | On Site | Sep 04 |
 | **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Training (Summer)](https://jobright.ai/jobs/info/6a9a5066fe45b8490f6037b8?utm_campaign=1057&utm_source=git)** | Sioux Falls, SD, United States | On Site | Sep 03 |
 | **[Brayman Construction Corporation](http://brayman.com)** | **[Summer Internship Program](https://jobright.ai/jobs/info/6a986bdddd171c7285792227?utm_campaign=1057&utm_source=git)** | 1000 John Roebling Way, Saxonburg, PA, United States | On Site | Sep 03 |
 | **[Mussett Nicholas Associates](https://www.m-n-a.com/)** | **[Internship 2027](https://jobright.ai/jobs/info/6a9a670fa33d28569fb99f2a?utm_campaign=1057&utm_source=git)** | Raleigh, NC, United States | On Site | Sep 03 |
@@ -69,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[CloudFit Software](https://www.cloudfitsoftware.com/)** | **[Future Intern (2027)](https://jobright.ai/jobs/info/6a9a485afe45b8490f6034bd?utm_campaign=1057&utm_source=git)** | Lynchburg, VA, United States | On Site | Sep 03 |
 | **[YMCA of Greater Houston](https://ymcahouston.org/)** | **[Youth Development Co-Op Counselor - Centennial (Humble ISD)](https://jobright.ai/jobs/info/6a98390bdef18223c854e181?utm_campaign=1057&utm_source=git)** | Houston, TX, United States | On Site | Sep 03 |
 | **[Prime Inc.](https://www.primeinc.com)** | **[Learning Center Internship](https://jobright.ai/jobs/info/6a99e2f9040e5c3d07599935?utm_campaign=1057&utm_source=git)** | Springfield, MO, United States | On Site | Sep 03 |
+| **[Valley Healthcare System, Inc.](http://valleyhealthcolumbus.com)** | **[Student Internship](https://jobright.ai/jobs/info/6a9a704be6c97d4b970af75c?utm_campaign=1057&utm_source=git)** | Columbus, GA, United States | On Site | Sep 03 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6a295d8f495d985b99422f44?utm_campaign=1057&utm_source=git)** | Eau Claire, WI, United States | On Site | Sep 03 |
 | **[Entergy](https://www.entergy.com)** | **[Student, Intern Safety Summer 2027](https://jobright.ai/jobs/info/6a9a1d03040e5c3d0759ac85?utm_campaign=1057&utm_source=git)** | Willis, Texas, United States | On Site | Sep 03 |
 | **[BGE, Inc.](https://browngay.com)** | **[Frisco, Transportation, Internship](https://jobright.ai/jobs/info/6a9a1adc138838706059275b?utm_campaign=1057&utm_source=git)** | Frisco, TX, United States | On Site | Sep 03 |
@@ -91,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Boston Outdoor Preschool Network](https://www.bopn.org)** | **[Internship in Nature-Based Early Education](https://jobright.ai/jobs/info/6a55f56df7517b519ad523a7?utm_campaign=1057&utm_source=git)** | Malden, MA, United States | On Site | Sep 03 |
 | **[Community Solutions, Inc. (CSI)](https://csi-online.org/)** | **[Intern, Non-Residential](https://jobright.ai/jobs/info/6a749f7020b26a6e93f47d52?utm_campaign=1057&utm_source=git)** | Bridgeport, CT, United States | On Site | Sep 03 |
 | **[TD](https://www.td.com)** | **[2027 Summer Internship Program - Commercial Banking (ICRE)](https://jobright.ai/jobs/info/6a99abeb138838706058f8b5?utm_campaign=1057&utm_source=git)** | Charlotte, NC, United States | Hybrid | Sep 03 |
-| **[Donum Dei Classical Academy](https://www.donumdei.org/)** | **[Internship](https://jobright.ai/jobs/info/6a99e3b3551435518ebf1eb6?utm_campaign=1057&utm_source=git)** | San Francisco, CA, United States | On Site | Sep 03 |
 | **[Cemex US](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT READY MIX Job Details / Cemex](https://jobright.ai/jobs/info/6a99dfd6551435518ebf1d30?utm_campaign=1057&utm_source=git)** | Orlando, FL, United States | On Site | Sep 03 |
 | **[BGE, Inc.](https://browngay.com)** | **[NORTH AUSTIN - Transportation, Internship](https://jobright.ai/jobs/info/6a99dfc490a313642c653624?utm_campaign=1057&utm_source=git)** | Austin, TX, United States | On Site | Sep 03 |
 | ↳ | **[SAN ANTONIO - Transportation, Internship](https://jobright.ai/jobs/info/6a99dfc290a313642c653621?utm_campaign=1057&utm_source=git)** | San Antonio, TX, United States | On Site | Sep 03 |
@@ -108,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[Chestnut Health Systems](http://chestnut.org/)** | **[Bachelor’s Internship Intensive Outpatient Substance Use Treatment](https://jobright.ai/jobs/info/6a99a98d551435518ebf0321?utm_campaign=1057&utm_source=git)** | Bloomington, IL, United States | On Site | Sep 03 |
 | **[YMCA of Metropolitan Dallas](https://www.ymcadallas.org/)** | **[Fall 2026 Internship](https://jobright.ai/jobs/info/6a99a7cc90a313642c651e1b?utm_campaign=1057&utm_source=git)** | Coppell, TX, United States | On Site | Sep 03 |
 | **[Winsupply](http://www.winsupply.com)** | **[Field Training Specialist Intern](https://jobright.ai/jobs/info/6a99a59e551435518ebf0107?utm_campaign=1057&utm_source=git)** | Moraine, OH, United States | On Site | Sep 03 |
-| **[PAWS Chicago](https://www.pawschicago.org)** | **[Training Center Internship](https://jobright.ai/jobs/info/6a1eb6f0a507373dff6bb0fa?utm_campaign=1057&utm_source=git)** | Chicago, IL 60614, USA | On Site | Sep 03 |
-| ↳ | **[Training Center Internship](https://jobright.ai/jobs/info/6a82e8019b859b227766b769?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | On Site | Sep 03 |
+| **[PAWS Chicago](https://www.pawschicago.org)** | **[Training Center Internship](https://jobright.ai/jobs/info/6a82e8019b859b227766b769?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | On Site | Sep 03 |
+| ↳ | **[Training Center Internship](https://jobright.ai/jobs/info/6a54fbdd2084cd792b4755d3?utm_campaign=1057&utm_source=git)** | Chicago, IL 60614, USA | On Site | Sep 03 |
 | ↳ | **[Intake Program Internship](https://jobright.ai/jobs/info/6a8b5d8ae8b6601d1290bdec?utm_campaign=1057&utm_source=git)** | Chicago, IL, United States | On Site | Sep 03 |
 | **[Hilton](https://www.hilton.com/en/)** | **[2027 Corporate Summer Internship - Technology (Business and Operations)](https://jobright.ai/jobs/info/6a999a07138838706058ed9f?utm_campaign=1057&utm_source=git)** | McLean, VA, United States | On Site | Sep 03 |
 | **[Dean Dorton](http://deandorton.com)** | **[2027 Spring Command Center Intern](https://jobright.ai/jobs/info/6a7eb6eee2030208f276a61d?utm_campaign=1057&utm_source=git)** | Lexington, KY, United States | On Site | Sep 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Oak Hill Advisors, L.P.](http://oakhilladvisors.com)** | **[Fall Interest Form - Internship Program Summer 2028](https://jobright.ai/jobs/info/6a9879aadef18223c854fa3f?utm_campaign=1057&utm_source=git)** | New York, NY, United States | On Site | Sep 02 |
 | **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Field Learning & Development Intern](https://jobright.ai/jobs/info/6a987274af954907d65736e9?utm_campaign=1057&utm_source=git)** | Saint Paul, MN, United States | On Site | Sep 02 |
 | **[AgWest Farm Credit](https://agwestfc.com)** | **[2027 Summer Internship Program](https://jobright.ai/jobs/info/6a986073c8ed473c5c763b7b?utm_campaign=1057&utm_source=git)** | Safford, AZ, United States | On Site | Sep 02 |
-| **[Munich Re](https://www.munichre.com/us-life/en.html)** | **[Summer Leadership Development Intern - Underwriting](https://jobright.ai/jobs/info/6a7b895577e6b569c61c150f?utm_campaign=1057&utm_source=git)** | Princeton, NJ, United States | On Site | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
